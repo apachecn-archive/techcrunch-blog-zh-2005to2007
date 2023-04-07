@@ -1,0 +1,13 @@
+# Y Combinator 采用应用程序:有想法，会旅行
+
+> 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/y-combinator-taking-apps-have-idea-will-travel/>
+
+# Y Combinator 带应用:有想法，会旅行
+
+有主意了吗？愿意忙活一个夏天看它成长吗？ [Y 组合](https://web.archive.org/web/20220522114653/http://ycombinator.com/)刚刚[宣布](https://web.archive.org/web/20220522114653/http://www.ycombinator.com/s2007.html)他们的夏季申请驱。申请截止日期为 4 月 2 日和 10 日，其中一些将于 4 月 21 日至 22 日在山景城展出。如果被选中，你的团队将被重新安置到马萨诸塞州的剑桥工作和学习。
+
+对于那些不熟悉 Y Combinator 的人来说，它是由[保罗·格拉厄姆的哲学](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/09/02/an-interview-with-vc-paul-graham-of-ycombinator/)引导的种子融资基金，通过指导和投资帮助年轻的初创公司起步，基本金额为 5000 美元，外加每位创始人 5000 美元。作为交换，他们获得公司 1-10%的股份。这些团队通常由具有一些编程技能的年轻大学毕业生组成。这不是一个针对行业老手的项目。一些人批评这个项目在如此小的投资中获得了太多的所有权。一些读者也称[在操作](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/11/09/the-y-combinator-companies/#comment-362983)上耍了花招。这里是我们之前报道过的一些公司。 [Kiko](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/09/06/interview-with-kiko-acquiror-elliot-noss/) 、 [Reddit](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/10/31/breaking-news-conde-nastwired-acquires-reddit/) 和 [Loopt](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/09/11/loopt-to-make-mobile-presence-usable/) 是一些著名的 Y Combinator 公司。到目前为止，退出都是通过收购。Kiko [死了](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/08/16/ajax-calendar-kikocom-goes-on-ebay-offers-to-delete-accounts/)，然后[被 Elliot Noss](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/09/06/interview-with-kiko-acquiror-elliot-noss/)收购。康泰纳仕[收购了](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/10/31/breaking-news-conde-nastwired-acquires-reddit/) Reddit。
+
+其他一些项目如科技之星也采用了这种模式。TechStars 是另一个得到大力支持的项目，位于科罗拉多州的博尔德，也为有抱负的初创公司提供经验丰富的导师和现金。虽然与 Y Combinator 或 TechStars 的基础融资不同，但历史悠久的风险投资公司 Charles River Ventures 也采用了一个名为 [Quick Start](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2006/11/01/charles-river-ventures-goes-for-angel-market/) 的较小的融资项目(最多 25 万美元债务)。
+
+[下面是申请](https://web.archive.org/web/20220522114653/http://www.ycombinator.com/s2007.html)的详细情况。有抱负的网络企业家也应该去看看三月份来到帕洛阿尔托的[创业学校](https://web.archive.org/web/20220522114653/http://startupschool.org/)。通过一些工作，你的公司可能会及时准备好在 [TechCrunch 20](https://web.archive.org/web/20220522114653/http://www.beta.techcrunch.com/2007/01/31/the-techcrunch20-conference/) 上展示。

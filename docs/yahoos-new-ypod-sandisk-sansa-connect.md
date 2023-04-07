@@ -1,0 +1,11 @@
+# 雅虎新网站:SanDisk Sansa Connect | TechCrunch
+
+> 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/yahoos-new-ypod-sandisk-sansa-connect/>
+
+![](img/cee7e8dc57b046bfb744e72403364aec.png)雅虎刚刚[宣布](https://web.archive.org/web/20160328164350/http://ymusicblog.com/blog/2007/04/09/wifi-enabled-sandisk-sansa-connect-features-yahoo-music-unlimited-launchcast-messenger-and-flickr/)发布新的 [SanDisk Sansa](https://web.archive.org/web/20160328164350/http://www.circuitcity.com/ssm/SanDisk-Sansa-Connect-trade-4GB-Digital-Media-Player-SDMX8N4096A70/sem/rpsm/oid/176655/catOid/-12952/rpem/ccd/productDetail.do) Connect WiFi 媒体播放器，该播放器预装了[雅虎音乐](https://web.archive.org/web/20160328164350/http://www.techcrunch.com/2006/04/11/subscription-music-services-compared-part-2/)。该设备售价 250 美元，配有 4 GB 内存和 2.2 英寸屏幕。它支持雅虎的个性化广播，通过雅虎信使分享播放列表建议，Flickr 照片，以及每月 12 美元的雅虎音乐无限下载。
+
+对移动 WiFi 服务感兴趣的读者也应该去看看新的互联网初创公司[懒鬼](https://web.archive.org/web/20160328164350/http://www.techcrunch.com/2007/03/14/new-music-service-slacker-has-very-broad-ambitions/)，该公司计划在网上和自己的支持 Wifi 的移动设备上提供类似潘多拉的服务。基本的网络服务是免费的，但受广告支持，每小时只允许听众跳过 6 首歌。7.50 美元/月的订阅费将消除这些限制。WiFi 设备的价格从 150 美元到 300 美元不等，具体取决于存储容量。
+
+然后，新的 SanDisk player 加入了其他移动音乐解决方案的行列，最著名的是 iPod 和 Zune。然而，消费者有一些来自移动领域的其他选择。像 [PartyStrands](https://web.archive.org/web/20160328164350/http://mobilecrunch.com/2006/11/12/partystrands-goes-mobile/) 、 [Avvenu](https://web.archive.org/web/20160328164350/http://mobilecrunch.com/2006/06/01/avvenu-announces-premium-services-and-mp3-streaming-from-your-pc/) 和 [Oboe](https://web.archive.org/web/20160328164350/http://www.techcrunch.com/2005/12/02/oboes-web-music-locker/) 这样的服务让用户可以直接在手机上访问他们的音乐库。Oboe 是 MP3Tunes 的一项服务，它允许用户将他们的音乐库上传到一个在线“储物柜”中，并在任何台式电脑或一些手机上播放。Avvenu 也遵循相同的在线“锁”方法，但也支持其他文件类型。通过 Avvenu，用户可以在任何装有 Windows Mobile 5.0 的手机上播放他们的歌曲。PartyStrands 采取了一种略有不同的方法，将他们的 PartyStrands 音乐推荐和播放列表管理服务移植到 Symbian 和 Windows mobile 设备上。
+
+Via [TechCrunch](https://web.archive.org/web/20160328164350/http://www.techcrunch.com/2007/04/09/yahoos-new-media-device/)

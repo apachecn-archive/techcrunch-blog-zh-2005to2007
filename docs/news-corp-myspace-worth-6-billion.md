@@ -1,0 +1,9 @@
+# 新闻集团:MySpace 价值 60 亿美元 TechCrunch
+
+> 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/15/news-corp-myspace-worth-6-billion/>
+
+# 新闻集团:MySpace 价值 60 亿美元
+
+昨天，在澳大利亚举行的[投资者会议上，鲁珀特·默多克表示，MySpace 现在可以以 60 亿美元的价格出售——大约是新闻集团最初 5 . 8 亿美元收购价格的 10 倍。](https://web.archive.org/web/20221206044334/http://biz.yahoo.com/seekingalpha/061114/20567_id.html?.v=1&printer=1)
+
+其他新闻，MySpace 的众多替代者之一，，[据传](https://web.archive.org/web/20221206044334/http://www.valleywag.com/tech/rumormongering/diller-and-zuckerberg-get-hot-and-heavy-214677.php)正在与 IAC 谈判——或者至少有人看到扎克伯格(脸书创始人)和贾森·拉普(M & A 的 IAC SVP)在纽约的 [Foursquare 会议上混在一起。脸书过去一直在与雅虎进行收购谈判，但要么价格太高，要么由于股票表现不佳，收购活动停止了。社交网络是广泛的 IAC 投资组合所缺乏的东西，但我不确定脸书以其主要的大学人口和高昂的价格(传言为 20 亿美元)是最好的选择。](https://web.archive.org/web/20221206044334/http://www.nytimes.com/2006/11/10/technology/10deal.html?_r=2&em&ex=1163394000&en=fd2940fa9aa3bfd3&ei=5087%0A&oref=slogin&oref=slogin)[如果我是 IAC](https://web.archive.org/web/20221206044334/http://www.vestedventures.com/blog/2006/09/why-friendster-and-evite-iac.html) ，我会关注品牌良好(但停滞不前)[的 Friendster](https://web.archive.org/web/20221206044334/http://www.beta.techcrunch.com/tag/friendster/)——IAC 的网络将为 Friendster 注入新的活力，过去传言的[5000 万至 1 亿美元的价格](https://web.archive.org/web/20221206044334/http://www.vestedventures.com/blog/2006/09/facebook-for-1b-or-friendster-for.html)与 Facebooks 相比相形见绌。Friendster 过去一直在出售，并在社交网络上拥有[实际专利，这可能会导致新闻集团在未来支付许可费(一旦 Friendster 将他们的法律案件汇集在一起，一旦 MySpace 的钱包，呃，增长，达到稳定状态——允许 Friendster 进入一个价值远远超过 Rupert 今天所说的 60 亿美元的业务)。](https://web.archive.org/web/20221206044334/http://www.beta.techcrunch.com/2006/07/07/friendster-awarded-patent-on-social-networking/)
