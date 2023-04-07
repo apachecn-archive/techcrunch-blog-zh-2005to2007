@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Facebook Source Code Leaked</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">脸书源代码泄露</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/11/facebook-source-code-leaked/comment-page-2/">https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/11/facebook-source-code-leaked/comment-page-2/</a></blockquote><div><div class="entry">
+				<div class="snap_preview"><p class="translated"><a href="https://web.archive.org/web/20100822125619/http://www.crunchbase.com/company/facebook"><img src="../Images/b3612373413a9e6fb4eb759e2ee832c1.png" class="shot2" data-original-src="https://web.archive.org/web/20100822125619im_/http://tctechcrunch.files.wordpress.com/facebooklogo.jpg"/>T2】</a></p>
+<p class="translated">我们刚刚收到一个提示，脸书主索引页面的源代码已经泄露，并发布在一个名为<a href="https://web.archive.org/web/20100822125619/http://facebooksecrets.blogspot.com/">脸书秘密</a>的博客上。源代码泄露至少有两种可能的方式——第一种是脸书的开发者将它发送出去，或者更有可能的是，脸书的服务器或其源代码库中的某个安全漏洞或其他方法被用来泄露代码。发布代码的博客上只有一篇文章，所以它是专门为发布代码而创建的——这意味着无论是谁在背后，都不会对漏洞负责，也不想与它有关联。虽然没有确定的方法来验证代码是否确实来自脸书，但通过快速浏览代码并仔细检查一些被引用的路径，我们可以肯定地说，这似乎是真实的，也是脸书主页的最新版本。</p>
+<p class="translated">这里有许多明显的分支。首先，代码可以被外人用来更好地理解脸书应用程序是如何工作的，以便发现更多可能被利用的安全漏洞或错误。由于脸书是一个封闭源代码的应用程序，在无法访问代码的情况下，通常会通过黑盒测试过程来发现安全漏洞，外部方将会探测应用程序，试图找出应用程序的行为方式，并尝试找到潜在的竞争条件。在封闭源代码应用程序中，开发人员通常依赖于应用程序的封闭性来混淆糟糕的设计元素和应用程序的结构。攻击者获得对源代码的访问往往会导致进一步的安全漏洞被发现。正是由于这些原因，人们经常声称开源软件比闭源软件更安全，因为有更多的眼睛来审核代码，并且混淆不能用作安全措施。</p>
+<p class="translated">这种泄漏的第二个含义是，源代码揭示了许多关于应用程序的结构，以及脸书开发人员遵循的实践。仅仅从这一页源代码中，就可以对脸书应用程序和平台的其余部分进行大量的描述和推断。例如，该结构没有遵循任何面向对象的开发实践，并且看起来该应用程序是一个大型PHP文件，在同一个名称空间中有大量自定义函数(它们似乎也使用了Smarty模板引擎)。</p>
+<p class="translated">这次泄露对脸书来说不是好消息，因为它提出了一个问题，脸书用户的私人数据到底有多安全。如果一个网站的主要源代码可以被泄露，那么可以说几乎任何事情都是可能的。脸书如此成功，如此引人注目，以至于吸引了大量针对其系统的攻击。大多数大规模应用程序都会在某个时候遭到入侵，因为机会总是对攻击者有利，但公司可以以多种方式做出响应，这里的希望是脸书将优雅地处理这种情况。我不怀疑脸书会花大力气追查这个案子，既要找到代码泄露的原因，也要找到责任人。他们还需要采取一些非常快速的短期措施来减轻用户的风险，因为你可以打赌，此时此刻有数百名潜在的攻击者正在通过泄漏的代码涌入并探测他们的系统。快速浏览一下，我知道我可以在代码中看到一些明显的东西，它们既揭示了平台的某些隐藏方面，又给了潜在攻击者一个良好的开端。</p>
+<p class="translated"><b>更新</b>:脸书给我们发来了官方回应(来自脸书的Brandee Barker<a href="https://web.archive.org/web/20100822125619/http://www.techcrunch.com/2007/08/11/facebook-source-code-leaked/#comment-1551812">在下面留下了评论</a>:<em>“一小部分显示脸书网页的代码被暴露给了一小部分用户，原因是一个错误配置的web服务器被立即修复。这不是安全漏洞，也没有以任何方式损害用户数据。因为发布的代码只为脸书用户界面提供动力，它没有提供对脸书内部工作的有用见解。重印此代码违反了几项法律，我们要求人们不要再分发它。”</em>原因似乎是apache和mod_php由于服务器配置错误或高负载(这是一个已知问题)而发送回未解释的源代码，而不是输出。同样明显的是，其他页面已经被泄露，这个问题以前也发生过，但是直到现在才有人把代码放到网上。</p>
+<p class="translated"><b>更新2 </b>:我已经在我自己的博客上发布了<a href="https://web.archive.org/web/20100822125619/http://www.nik.com.au/archives/2007/08/11/learning-from-facebook-preventing-php-leakage/">关于如何防止你的服务器泄露你的应用程序源代码的4个技巧</a></p>
+</div>			</div>
+			
+		</div>    
+</body>
+</html>
