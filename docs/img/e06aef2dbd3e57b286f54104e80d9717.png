@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>images.jamglue.com</BucketName><RequestId>2E1B71B05AAA59A8</RequestId><HostId>Ve19X4arG/9pbceA0RzEkdbHI8uyoJbHHyUCqQixegCjaIEMjZRPGblKKozl0+bA</HostId></Error>

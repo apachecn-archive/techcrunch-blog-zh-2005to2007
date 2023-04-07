@@ -1,0 +1,2411 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en">
+<head>
+	<title>TechCrunch - The latest technology news and information on startups</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta charset="UTF-8">
+		<meta name="p:domain_verify" content="ee3dd0cd95c625f8f2446d34712815ed"/>
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0">
+	<meta http-equiv="cleartype" content="on">
+	<meta name="apple-mobile-web-app-title" content="TechCrunch">
+	<meta name="robots" content="NOYDIR,NOODP" />
+	<link rel="shortcut icon" type="image/x-icon" href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico" />
+	<link href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/homescreen_TCIcon.png" rel="apple-touch-icon-precomposed" />
+	<link href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/homescreen_TCIcon_2x.png" sizes="114x114" rel="apple-touch-icon-precomposed" />
+	<link href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/homescreen_TCIcon_ipad.png" sizes="72x72" rel="apple-touch-icon-precomposed" />
+	<link href="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/homescreen_TCIcon_ipad_2x.png" sizes="144x144" rel="apple-touch-icon-precomposed" />
+	
+	<script type="text/javascript">window.bN_cfg={h:window.location.hostname};</script>
+	<meta name="google-site-verification" content="4U1OC1LwZlFHAehLhCV4rt3YzWI_AyF7Gb0XqlaVEhE" />
+<meta name="msvalidate.01" content="5ABD8A078F3356F3A6A8C8643C31FB8F" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=techcrunch.com&amp;id=24588526&amp;t=1429902580&amp;back=http%3A%2F%2Ftechcrunch.com%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="TechCrunch &raquo; Feed" href="http://techcrunch.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TechCrunch &raquo; Comments Feed" href="http://techcrunch.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/_static/??-eJx9jlkOwjAMRC9EMLQVywfiLGkwiYuzqHFB3J4UBAIB/ZuJ3ssYLkmZGASDgB9U4sFSyMB0wgwdStLmpO5tbnKewW/cxB7Lu09aRsLjgTQy+oJNaT6tntYYXdn6nhFX/slwpgSCxpl+CMaparGsIcuVce4pPCSCEIWKl19hat1iVByNForho6gja+qn1B5bjrZEC4V6q/+udw1Yjq3mEdj73bKptpu6Xlfb7gYNuI5w' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Live_Cache = {"ajaxurl":"http:\/\/techcrunch.com","auto_updates":{"live-cache-widget-1-title":"#live-cache-widget-1 h2","live-cache-widget-1-text":"#live-cache-widget-1 div","live-cache-subtitle":".live-island .live-subtitle","live-cache-text":".live-island .vid-caption","live-cache-title-livecaster":".livecaster-title","live-cache-text-livecaster":".livecaster-text"}};
+var gravityInsightsParams = {"type":"content","action":"","site_guid":"fca4fa8af1286d8a77f26033fdeed202"};
+var tcOmniture = {"pageName":"techcrunch main","prop1":"main","prop2":"main","prop54":"wordpress","omni_env":"prod"};
+var TC_Async_Head_Scripts = {"tc_ads_wrapper_omniture":"http:\/\/o.aolcdn.com\/os_merge\/?file=\/ads\/adsWrapper.js&file=\/moat\/prod\/moatuac.js"};
+var TC_Google_Analytics_Config = {"account":"UA-991406-1","domain":"techcrunch.com"};
+var tcKorrelate = "homepage";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyNkGEKwjAMhS9k1zkn6g/xLFvNutS1nU22oae3ikOUokIgkPflkRc59QKd6oYjkDSxzgOEy7NlhhbyGyAs6lAxZBbdDCvvGBzfWetr7EAMBKHScRaNGp/gek9sgShCCfX9JHQjwvQTM8B9pU4iAOEVUkFoanxtQPGnF7cQj5Ej9pJBtSoMTrWiyJcrWREBP7Y7rMVLTeX/y0Z7r7v5fQe7X5bFpszX211pbvHOl3E='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tctechcrunch2011.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/1FaB8' />
+<link rel='openid.server' href='http://tctechcrunch2011.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://tctechcrunch2011.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://techcrunch.com/osd.xml" title="TechCrunch" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+	<meta property="fb:app_id" content="187288694643718" />
+	<meta property="fb:admins" content="543710097,771265067,1661021707,1550970059,663677613,1178144075,726995222,506404657,4700188" />
+	<meta property="og:site_name" content="TechCrunch" />
+<meta property="og:site" content="social.techcrunch.com" />
+<meta property="og:title" content="TechCrunch" />
+<meta property="og:description" content="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news." />
+<meta property="og:image" content="https://tctechcrunch2011.files.wordpress.com/2015/03/2856173673_27b7e5e521_o.jpg?w=560&amp;h=292&amp;crop=1" />
+<meta property="og:url" content="http://social.techcrunch.com/" />
+<meta property="og:type" content="website" />
+<meta class="swiftype" name="author" data-type="string" content="Alex Wilhelm" />
+<meta class="swiftype" name="title" data-type="string" content="TechCrunch" />
+<meta class="swiftype" name="image" data-type="enum" content="https://tctechcrunch2011.files.wordpress.com/2015/03/2856173673_27b7e5e521_o.jpg?w=150" />
+<meta class="swiftype" name="object_type" data-type="string" content="post" />
+<meta class="swiftype" name="url" data-type="enum" content="http://techcrunch.com/2015/04/24/microsoft-and-google-battle-once-again-for-title-of-second-most-valuable-tech-company/" />
+<meta class="swiftype" name="timestamp" data-type="date" content="2015-04-24 10:40:00" />
+<meta class="swiftype" name="content" data-type="text" content="They&#039;re back at it. After reporting earnings yesterday, Google and Microsoft are once again locked in their long-running battle for second. Apple, the most valuable technology company, is also the most valuable company in the world, with Google and Microsoft rounding off the top three. Google, up 3.56 percent as of the time of writing, is currently worth $385.59 billion. Microsoft, up 9.47 percent, is worth a similar $389.24 billion. Earlier, the companies managed a $388 billion moment of parity. Their shares are still gyrating, so we could see the companies pass the baton back and forth before the day&#039;s regular hours come to a close. There is rich history of watching Apple, Microsoft and Google fight for the top three. Let&#039;s rewind: TechCrunch, May 26, 2010: &quot;Boom, Indeed: Apple Passes Microsoft In Market Cap.&quot; Worth just over $227 billion apiece, Apple passed Microsoft&#039;s value in 2010. Apple has since more than tripled in value. Microsoft is up a more modest 71&hellip;" />
+<meta class="swiftype" name="excerpt" data-type="text" content="They&#8217;re back at it.
+After reporting earnings yesterday, Google and Microsoft are once again locked in their long-running battle for second. Apple, the most valuable technology company, is also the most valuable company in the world, with Google and Microsoft rounding off the top three.
+Google, up 3.56 percent as of the time of writing, is currently worth $385.59 billion. Microsoft, up 9.47&hellip;" />
+<meta class="swiftype" name="category" data-type="string" content="Earnings" />
+<meta class="swiftype" name="category" data-type="string" content="Finance" />
+<meta class="swiftype" name="category" data-type="string" content="Fundings &amp; Exits" />
+	<meta name="description" content="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news." />
+	<script type="text/javascript">var ajaxurl = "http://techcrunch.com/wp-admin/admin-ajax.php"</script><meta name="application-name" content="TechCrunch" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Startup and Technology News" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://techcrunch.com/feed/;icon-uri=http://0.gravatar.com/blavatar/ad5b2a2b10ddd8fc4e4588abd4e12a84?s=16" />
+	<style type="text/css">#site-logo { background: url(http://s0.wp.com/wp-content/themes/vip/techcrunch-2013/images/logos/green.png) no-repeat !important; }</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+	<script src="http://o.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js" type="text/javascript"></script>
+	<!--[if lte IE 8 ]>
+	<script src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/js/respond.min.js"></script>
+	<![endif]-->
+	<meta name="st:robots" content="follow, index">
+</head>
+<body class="home blog mp6 typekit-enabled customizer-styles-applied highlander-enabled highlander-light">
+
+<div class="ad-top-mobile">
+	<div id="adsDivf83ded82c7" class="mobile-ads-center"></div>
+<script>
+/* <![CDATA[ */
+if (ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizeImage === 'function' ) {
+					window.adsResizeImage('0');
+				}
+			}
+			window.htmlAdWH('348-14-15-bd9', ads.width(), ads.height(), 'f', 'adsDivf83ded82c7');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script></div>
+
+<header class="header cf header-context-null" role="banner">
+
+	<div class="nav-bar">
+		<div class="lc">
+			<div class="lc">
+				<a href="/" class="logo-link" title="TechCrunch" data-omni-sm="gbl_topnav"><img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" alt="TechCrunch" class="logo"></a>
+
+				<a href="#" class="toggle-link nav-toggle icon-hamburger"><span class="is-vishidden">Menu</span></a>
+				<a href="#" class="toggle-link search-form-toggle icon-mag"><span class="is-vishidden">Search</span></a>
+
+				<div class="header-logo-bar cf">
+
+					<div class="header-social">
+						<ul class="inline-list social-list sprite-social">
+							<li class="nav-followus">Follow Us</li><li class="first">
+								<a href="https://www.facebook.com/techcrunch" rel="external" class="spricon nosprite icon-facebook" target="_blank"><span class="is-vishidden">Facebook</span></a>
+							</li><li>
+								<a href="https://instagram.com/techcrunch" rel="external" class="spricon nosprite icon-instagram" target="_blank"><span class="is-vishidden">Instagram</span></a>
+							</li><li>
+								<a href="https://twitter.com/techcrunch" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a>
+							</li><li class="youtube nav-aux">
+								<a href="http://www.youtube.com/user/techcrunch" rel="external" class="spricon nosprite icon-youtube" target="_blank"><span class="is-vishidden">Youtube</span></a>
+							</li><li class="flipboard nav-aux">
+								<a href="https://flipboard.com/@techcrunch" rel="external" class="spricon nosprite icon-flipboard" target="_blank"><span class="is-vishidden">Flipboard</span></a>
+							</li><li class="linkedin nav-aux">
+								<a href="http://www.linkedin.com/company/techcrunch" rel="external" class="spricon nosprite icon-linkedin" target="_blank"><span class="is-vishidden">LinkedIn</span></a>
+							</li><li class="nav-aux">
+								<a href="https://plus.google.com/+TechCrunch" rel="external" class="spricon nosprite icon-google-plus" target="_blank"><span class="is-vishidden">Google+</span></a>
+							</li><li class="rss nav-aux">
+								<a href="/rssfeeds/" class="spricon nosprite icon-rss"><span class="is-vishidden">RSS</span></a>
+							</li>
+							<li class="nav-social-more">
+								<a href="#" class="icon-caret-down"><span class="is-vishidden">More</span></a>
+								<ul>
+									<li class="youtube">
+										<a href="http://www.youtube.com/user/techcrunch" rel="external" class="spricon nosprite icon-youtube" target="_blank"><span class="is-vishidden">Youtube</span></a>
+									</li><li class="flipboard">
+										<a href="https://flipboard.com/@techcrunch" rel="external" class="spricon nosprite icon-flipboard" target="_blank"><span class="is-vishidden">Flipboard</span></a>
+									</li><li class="linkedin">
+										<a href="http://www.linkedin.com/company/techcrunch" rel="external" class="spricon nosprite icon-linkedin" target="_blank"><span class="is-vishidden">LinkedIn</span></a>
+									</li><li class="google-plus">
+										<a href="https://plus.google.com/+TechCrunch" rel="external" class="spricon nosprite icon-google-plus" target="_blank"><span class="is-vishidden">Google+</span></a>
+									</li><li class="rss">
+										<a href="/rssfeeds/" class="spricon nosprite icon-rss"><span class="is-vishidden">RSS</span></a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+
+						<div class="header-tip">
+							<a href="/got-a-tip/" data-omni-sm="gbl_topnav">
+								Got a tip? <span>Let us know.</span>
+							</a>
+						</div>
+					</div>
+
+					<nav class="nav-primary">
+	<ul class="nav" id="nav">
+		<li class="nav-level1 nav-news">
+			<a href="/" class="nav-parent icon-caret-down">News</a>
+
+			<div class="nav-subnav single-col">
+				<ul class="nav-col">
+					<li class="subnav-title">Channels</li>
+					<ul class="subnav-channel" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-899745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899745"><a href="http://techcrunch.com/startups/">Startups</a></li>
+<li id="menu-item-899746" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899746"><a href="http://techcrunch.com/mobile/">Mobile</a></li>
+<li id="menu-item-899747" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899747"><a href="http://techcrunch.com/gadgets/">Gadgets</a></li>
+<li id="menu-item-899748" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899748"><a href="http://techcrunch.com/enterprise/">Enterprise</a></li>
+<li id="menu-item-899749" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899749"><a href="http://techcrunch.com/social/">Social</a></li>
+<li id="menu-item-899750" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899750"><a href="http://techcrunch.com/europe/">Europe</a></li>
+<li id="menu-item-901944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-901944"><a href="/asia">Asia</a></li>
+</ul>				</ul>
+				<div class="nav-col nav-col-border">
+					<a href="http://techcrunch.com/topic/">All Topics</a>
+					<a href="http://techcrunch.com/gallery/">All Galleries</a>
+				</div>
+			</div>
+		</li>
+		<li class="nav-level1 nav-shows">
+			<a href="/video/" class="nav-parent icon-caret-down">Video</a>
+
+			<div class="nav-subnav">
+				<div class="subnav-title">Shows</div>
+				<ul class="nav-col">
+					<ul class="subnav-tctv-shows-left" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-1134051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1134051"><a href="http://techcrunch.com/video/tctv-news/">TCTV News</a></li>
+<li id="menu-item-1134050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1134050"><a href="http://techcrunch.com/video/crunchreport/">Crunch Report</a></li>
+<li id="menu-item-899755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899755"><a href="http://techcrunch.com/video/crunchweek/">CrunchWeek</a></li>
+<li id="menu-item-1106526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1106526"><a href="http://techcrunch.com/video/built-in-brooklyn/">Built in Brooklyn</a></li>
+</ul>				</ul>
+				<ul class="nav-col">
+					<ul class="subnav-tctv-shows-left" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-1106527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1106527"><a href="http://techcrunch.com/video/techcrunch-gadgets/">Gadgets</a></li>
+<li id="menu-item-1134052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1134052"><a href="http://techcrunch.com/video/fly-or-die/">Fly or Die</a></li>
+<li id="menu-item-1041669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1041669"><a href="http://techcrunch.com/video/inside-jobs/">Inside Jobs</a></li>
+<li id="menu-item-899762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899762"><a href="http://techcrunch.com/video/tc-cribs/">TC Cribs</a></li>
+</ul>				</ul>
+				<div class="subnav-separator"></div>
+				<div class="nav-col nav-col-border">
+					<a href="/video/">All Shows</a>
+				</div>
+				<div class="nav-col nav-col-border">
+					<a href="/video/all/">All Videos</a>
+				</div>
+			</div>
+		</li>
+		<li class="nav-level1 nav-events">
+			<a href="/events/" class="nav-parent icon-caret-down">Events</a>
+
+			<div class="nav-subnav">
+				<ul class="nav-col">
+					<li class="subnav-title">TechCrunch Events</li>
+					<ul class="subnav-events-tc-events" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-899739" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899739"><a href="http://techcrunch.com/event-type/disrupt/">Disrupt</a></li>
+<li id="menu-item-936211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-936211"><a href="http://techcrunch.com/startup-battlefield/">Startup Battlefield</a></li>
+<li id="menu-item-899740" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899740"><a href="http://techcrunch.com/event-type/crunchies-23/">Crunchies</a></li>
+<li id="menu-item-899741" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899741"><a href="http://techcrunch.com/event-type/meetups/">Meetups</a></li>
+<li id="menu-item-899742" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899742"><a href="http://techcrunch.com/event-type/international-city/">International City Events</a></li>
+<li id="menu-item-899744" class="menu-item menu-item-type-taxonomy menu-item-object-tc_event menu-item-899744"><a href="http://techcrunch.com/event-type/hackathon-2/">Hackathon</a></li>
+<li id="menu-item-1084973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1084973"><a href="http://techcrunch.com/events/include">Include</a></li>
+</ul>				</ul>
+				<ul class="nav-col">
+					<li class="subnav-title">News About</li>
+					<ul class="subnav-events-news-about" data-omni-sm-delegate="gbl_mainnav"><li id="menu-item-1021048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1021048"><a href="http://techcrunch.com/events/google-io/">Google I/O 2014</a></li>
+<li id="menu-item-899737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899737"><a href="http://techcrunch.com/events/ces-2015/">CES</a></li>
+<li id="menu-item-899736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899736"><a href="http://techcrunch.com/event-type/sxsw-2/">SXSW</a></li>
+<li id="menu-item-1010535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1010535"><a href="http://techcrunch.com/events/wwdc-2014/">WWDC 2014</a></li>
+</ul>				</ul>
+				<div class="subnav-separator"></div>
+				<div class="nav-col-border">
+					<a href="/events/">All Events</a>
+				</div>
+			</div>
+		</li>
+		<li class="nav-crunchbase">
+			<a href="https://www.crunchbase.com" class="nav-parent">Crunchbase</a>
+		</li>
+	</ul>
+</nav>
+
+		<nav class="nav-contextual">
+			<ul class="nav">
+				<li class="nav-news">
+					<a href="/" class="nav-parent">News</a>
+				</li>
+				<li class="nav-shows">
+					<a href="/video/" class="nav-parent">Video</a>
+				</li>
+				<li class="nav-events">
+					<a href="/events/" class="nav-parent">Events</a>
+				</li>
+				<li class="nav-battlefield">
+					<a href="/startup-battlefield/" class="nav-parent">Battlefield</a>
+				</li>
+				<li class="nav-crunchbase">
+					<a href="https://www.crunchbase.com" class="nav-parent">Crunchbase</a>
+				</li>
+			</ul>
+		</nav>
+	
+										<form action="/" method="get" class="search-form">
+						<fieldset>
+							<legend>Search TechCrunch</legend>
+							<label for="s">Search TechCrunch</label>
+							<input type="search" placeholder="Search" class="search-field" name="s" value="" />
+							<button class="search-submit">
+								<span class="icon-mag" aria-hidden="true"></span>
+								<span class="is-vishidden">Search</span>
+							</button>
+							<button class="search-close">
+								<span class="icon-close" aria-hidden="true"></span>
+								<span class="is-vishidden">Search</span>
+							</button>
+						</fieldset>
+					</form>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</header>
+
+<div class="header-ad">
+	<div id="adsDiv20413d6abe" class=""></div>
+<script>
+/* <![CDATA[ */
+if (!ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizeImage === 'function' ) {
+					window.adsResizeImage('0');
+				}
+			}
+			window.htmlAdWH('93458656', "LB", "LB", 'f', 'adsDiv20413d6abe');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script></div>
+
+
+		<div class="announcement announcement-flat-background announcement-centered">
+			<div class="lc">
+				<div class="announcement-bg">
+										<div class="announcement_left">
+						<a href="http://techcrunch.com/events/disrupt-ny-2015/tickets/?utm_source=tc&#038;utm_medium=announcementbar&#038;utm_campaign=disruptnyc">
+														<span class="announcement-text">
+							<strong class="announcement-headline">Disrupt NY</strong>&nbsp;Rumored Presidential Candidate Carly Fiorina to Speak at Disrupt NY								<span class="announcement-link-text">
+																			Get Your Tickets Today																												<span class="icon-caret-right"></span>
+																	</span>
+						</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div role="main" class="fluid flush split homepage">
+	
+	<div class="lc flush lc-island">
+		<div class="l-two-col">
+			<div class="l-main-container">
+				<div class="l-main">
+											<!-- loading feature island --><!-- is home, super featured id = 0 --><!-- testing model --><!-- grabbing featured items --><!-- checking for posts: have posts = true --><!-- testing first post = 1149039 -->
+	<!-- Begin: Featured Island -->
+	<div class="island plain-island">
+		<div class="plain-feature block block-inset">
+			<a href="http://techcrunch.com/2015/04/24/google-works-to-improve-spam-detection-systems-on-google-maps-after-obscene-edits/" data-omni-sm="hp_featureddl">
+									<img class="thumb" data-aspect-ratio="500x369" height="369" width="500" alt="Google To Improve Spam Detection On Maps" src="https://tctechcrunch2011.files.wordpress.com/2015/04/screen-shot-2015-04-24-at-1-13-46-pm.png?w=474&#038;h=350&#038;crop=1&#038;quality=85&#038;strip=all" />				
+				<div class="block-title">
+					<h2>Google To Improve Spam Detection On Maps</h2>
+
+					<div class="byline">by Sarah Perez</div>
+				</div>
+			</a>
+		</div>
+		<ul class="plain-item-list">
+			<!-- outputting post 1148773 -->
+												
+				<li class="plain-item block block-small">
+					<a href="http://techcrunch.com/2015/04/24/apple-watch-diary/" data-omni-sm="hp_featureddl">
+													<img class="thumb" data-featured-thumb="1" height="90" width="145" alt="Apple Watch Diary" src="https://tctechcrunch2011.files.wordpress.com/2015/04/apple-watch-diary1.jpg?w=145&#038;h=90&#038;crop=1&#038;quality=85&#038;strip=all" />						
+						<div class="plain-title">
+							<h2 class="h-alt">Apple Watch Diary</h2>
+
+							<p class="byline">by Matthew Panzarino, Darrell Etherington</p>
+						</div>
+					</a>
+				</li>
+			<!-- outputting post 1148917 -->
+												
+				<li class="plain-item block block-small">
+					<a href="http://techcrunch.com/2015/04/24/ifixit-apple-watch-teardown/" data-omni-sm="hp_featureddl">
+													<img class="thumb" data-featured-thumb="1" height="90" width="145" alt="Apple Watch Teardown Suggests No Chip Upgrade" src="https://tctechcrunch2011.files.wordpress.com/2015/04/screen-shot-2015-04-24-at-9-41-47-am.png?w=145&#038;h=90&#038;crop=1&#038;quality=85&#038;strip=all" />						
+						<div class="plain-title">
+							<h2 class="h-alt">Apple Watch Teardown Suggests No Chip Upgrade</h2>
+
+							<p class="byline">by Natasha Lomas</p>
+						</div>
+					</a>
+				</li>
+			<!-- outputting post 1148881 -->
+												
+				<li class="plain-item block block-small">
+					<a href="http://techcrunch.com/2015/04/23/say-hello-to-the-apple-watch-2/" data-omni-sm="hp_featureddl">
+													<img class="thumb" data-featured-thumb="1" height="90" width="145" alt="Say Hello To The Apple Watch" src="https://tctechcrunch2011.files.wordpress.com/2015/04/applewatch-large.jpg?w=145&#038;h=90&#038;crop=1&#038;quality=85&#038;strip=all" />						
+						<div class="plain-title">
+							<h2 class="h-alt icon-play icon-play-box">Say Hello To The Apple Watch</h2>
+
+							<p class="byline">by Darrell Etherington</p>
+						</div>
+					</a>
+				</li>
+					</ul>
+	</div>
+	<!-- End: Channel Archive Page - Primary Island -->
+
+<!-- resetting query -->
+
+										<div class="tuck lc-padding">
+						<div class="tabs tabs-large">
+							<ul class="tab-list tabs-no-select">
+								<li class="latest"><a href="/" class="active tabs-no-preventdefault">Latest</a></li>
+								<li class="popular"><a class="tabs-no-preventdefault" href="/popular/">Popular</a></li>
+							</ul>
+						</div>
+					</div>
+					<ul class="river lc-padding" id="river1">
+
+						<li class="river-block" id="1149064" data-permalink="http://techcrunch.com/2015/04/24/microsoft-and-google-battle-once-again-for-title-of-second-most-valuable-tech-company/" data-shortlink="http://tcrn.ch/1JCu1Lg" data-shareTitle="Microsoft And Google Battle Once Again For Title Of Second Most Valuable Tech&nbsp;Company">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/earnings-2/" title="Earnings" class="tag"><span>Earnings</span></a>
+					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,1">
+						<a href="http://techcrunch.com/2015/04/24/microsoft-and-google-battle-once-again-for-title-of-second-most-valuable-tech-company/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Microsoft And Google Battle Once Again For Title Of Second Most Valuable Tech&nbsp;Company" data-src="https://tctechcrunch2011.files.wordpress.com/2015/03/2856173673_27b7e5e521_o.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/microsoft-and-google-battle-once-again-for-title-of-second-most-valuable-tech-company/" data-omni-sm="gbl_river_headline,1">Microsoft And Google Battle Once Again For Title Of Second Most Valuable Tech&nbsp;Company</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 10:40:00" class="timestamp">1 hour ago</time> by <a href="/author/alex-wilhelm/" title="Posts by Alex Wilhelm" onclick="s_objectID='river_author';" rel="author">Alex Wilhelm</a>			</div>
+
+			
+			<p class="excerpt">They&#8217;re back at it.
+After reporting earnings yesterday, Google and Microsoft are once again locked in their long-running battle for second. Apple, the most valuable technology company, is also the most valuable company in the world, with Google and Microsoft rounding off the top three.
+Google, up 3.56 percent as of the time of writing, is currently worth $385.59 billion. Microsoft, up&hellip; <a href="http://techcrunch.com/2015/04/24/microsoft-and-google-battle-once-again-for-title-of-second-most-valuable-tech-company/" class="read-more" data-omni-sm="gbl_river_readmore,1">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/microsoft-and-google-battle-once-again-for-title-of-second-most-valuable-tech-company/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/microsoft-and-google-battle-once-again-for-title-of-second-most-valuable-tech-company/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1149039" data-permalink="http://techcrunch.com/2015/04/24/google-works-to-improve-spam-detection-systems-on-google-maps-after-obscene-edits/" data-shortlink="http://tcrn.ch/1HAt9I2" data-shareTitle="Google Works To Improve Spam Detection Systems On Google Maps After Obscene&nbsp;Edits">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,2">
+						<a href="http://techcrunch.com/2015/04/24/google-works-to-improve-spam-detection-systems-on-google-maps-after-obscene-edits/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Google Works To Improve Spam Detection Systems On Google Maps After Obscene&nbsp;Edits" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/screen-shot-2015-04-24-at-1-13-46-pm.png?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/google-works-to-improve-spam-detection-systems-on-google-maps-after-obscene-edits/" data-omni-sm="gbl_river_headline,2">Google Works To Improve Spam Detection Systems On Google Maps After Obscene&nbsp;Edits</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 10:19:06" class="timestamp">1 hour ago</time> by <a href="/author/sarah-perez/" title="Posts by Sarah Perez" onclick="s_objectID='river_author';" rel="author">Sarah Perez</a>			</div>
+
+			
+			<p class="excerpt">Google says it&#8217;s working to improve its spam-detection systems in its Google Maps platform after yet another prank allowed a user to upload an inappropriate image to Google Maps. This most recent image, which showed the Google Android mascot urinating on the Apple logo in the style of those unfortunate Calvin and Hobbes bootleg decals, was apparently uploaded by a Map Maker user&hellip; <a href="http://techcrunch.com/2015/04/24/google-works-to-improve-spam-detection-systems-on-google-maps-after-obscene-edits/" class="read-more" data-omni-sm="gbl_river_readmore,2">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/google-works-to-improve-spam-detection-systems-on-google-maps-after-obscene-edits/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/google-works-to-improve-spam-detection-systems-on-google-maps-after-obscene-edits/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block river-block-featured" id="1148245" data-permalink="http://techcrunch.com/2015/04/24/the-22-best-apple-watch-health-and-fitness-apps/" data-shortlink="http://tcrn.ch/1HAjQrM" data-shareTitle="The 22 Best Apple Watch Health And Fitness&nbsp;Apps">
+			<a href="http://techcrunch.com/2015/04/24/the-22-best-apple-watch-health-and-fitness-apps/" class="feature-hero" data-omni-sm="gbl_river_image,3"><img data-aspect-ratio="94x53" alt="The 22 Best Apple Watch Health And Fitness&nbsp;Apps" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/apple-watch-health.jpg?w=950&#038;h=530&#038;crop=1" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+		<div class="block block-featured">
+		<div class="block-featured-content">
+						 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+			 							 							 							 							 							 			</div>
+						<div class="block-content">
+				<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/the-22-best-apple-watch-health-and-fitness-apps/" data-omni-sm="gbl_river_headline,3">The 22 Best Apple Watch Health And Fitness&nbsp;Apps</a></h2>
+				<div class="byline">
+					<time datetime="2015-04-24 09:25:08" class="timestamp">2 hours ago</time> by <a href="/author/sarah-buhr/" title="Posts by Sarah Buhr" onclick="s_objectID='river_author';" rel="author">Sarah Buhr</a>				</div>
+				<p class="excerpt">The Apple Watch, Apple&#8217;s first step into the world of wearables, starts shipping to consumers today.
+The Watch marks an interesting time in the wearable fitness space, in particular. Health and fitness trackers like Jawbone Up and Fitbit have dominated much of that space in the last few years. According to NDP, these wearable fitness devices sold close to 3.3 million units last&hellip; <a href="http://techcrunch.com/2015/04/24/the-22-best-apple-watch-health-and-fitness-apps/" class="read-more" data-omni-sm="gbl_river_readmore,3">Read&nbsp;More</a></p>
+								<div class="social-cluster">
+					<ul class="social-share social-cluster-list">
+													<li><a href="http://techcrunch.com/2015/04/24/the-22-best-apple-watch-health-and-fitness-apps/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/the-22-best-apple-watch-health-and-fitness-apps/"></fb:comments-count></span></a></li>
+												<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+						<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+						<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+						<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148975" data-permalink="http://techcrunch.com/2015/04/24/blackberry-closing-design-operations-in-sweden-affecting-up-to-150/" data-shortlink="http://tcrn.ch/1yWPCxB" data-shareTitle="BlackBerry Closing Design Operations In Sweden, Affecting Up To 150&nbsp;Employees">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/europe/" title="Europe" class="tag"><span>Europe</span></a>
+					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,4">
+						<a href="http://techcrunch.com/2015/04/24/blackberry-closing-design-operations-in-sweden-affecting-up-to-150/" class="thumb"><img data-omni-sm="gbl_river_image" alt="BlackBerry Closing Design Operations In Sweden, Affecting Up To 150&nbsp;Employees" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/about6.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/blackberry-closing-design-operations-in-sweden-affecting-up-to-150/" data-omni-sm="gbl_river_headline,4">BlackBerry Closing Design Operations In Sweden, Affecting Up To 150&nbsp;Employees</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 08:58:44" class="timestamp">3 hours ago</time> by <a href="/author/ingrid-lunden/" title="Posts by Ingrid Lunden" onclick="s_objectID='river_author';" rel="author">Ingrid Lunden</a>			</div>
+
+			
+			<p class="excerpt">Earlier this week smartphone maker BlackBerry confirmed it acquired Israel&#8217;s WatchDox to build out its security software business, but it looks like it may be downsizing elsewhere. According to reports from Swedish news sites, BlackBerry is closing down its software design operations in Sweden &#8212; a business that grew out of its acquisition of UI startup The Astonishing&hellip; <a href="http://techcrunch.com/2015/04/24/blackberry-closing-design-operations-in-sweden-affecting-up-to-150/" class="read-more" data-omni-sm="gbl_river_readmore,4">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/blackberry-closing-design-operations-in-sweden-affecting-up-to-150/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/blackberry-closing-design-operations-in-sweden-affecting-up-to-150/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1149011" data-permalink="http://techcrunch.com/2015/04/24/headout-raises-1-8-million-for-its-travel-app-that-puts-a-concierge-in-your-pocket/" data-shortlink="http://tcrn.ch/1d9Htw0" data-shareTitle="Headout Raises $1.8 Million For Its Travel App That Puts A Concierge In Your&nbsp;Pocket">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/apps/" title="Apps" class="tag"><span>Apps</span></a>
+					 					 					 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,5">
+						<a href="http://techcrunch.com/2015/04/24/headout-raises-1-8-million-for-its-travel-app-that-puts-a-concierge-in-your-pocket/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Headout Raises $1.8 Million For Its Travel App That Puts A Concierge In Your&nbsp;Pocket" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/app-promo.png?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/headout-raises-1-8-million-for-its-travel-app-that-puts-a-concierge-in-your-pocket/" data-omni-sm="gbl_river_headline,5">Headout Raises $1.8 Million For Its Travel App That Puts A Concierge In Your&nbsp;Pocket</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 08:58:13" class="timestamp">3 hours ago</time> by <a href="/author/sarah-perez/" title="Posts by Sarah Perez" onclick="s_objectID='river_author';" rel="author">Sarah Perez</a>			</div>
+
+			
+			<p class="excerpt">Headout, a mobile travel application that functions as sort of a mobile concierge, helping you find tours, activities and tickets to local events in select U.S. cities, has closed on $1.8 million in seed funding in order to expand its business to new markets. Currently only live in New York and Los Angeles, the startup says it plans to utilize the funds to reach 12 more cities by&hellip; <a href="http://techcrunch.com/2015/04/24/headout-raises-1-8-million-for-its-travel-app-that-puts-a-concierge-in-your-pocket/" class="read-more" data-omni-sm="gbl_river_readmore,5">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/headout-raises-1-8-million-for-its-travel-app-that-puts-a-concierge-in-your-pocket/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/headout-raises-1-8-million-for-its-travel-app-that-puts-a-concierge-in-your-pocket/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1149012" data-permalink="http://techcrunch.com/2015/04/24/apply-now-to-pitch-at-the-austin-and-seattle-meetup-pitch-offs/" data-shortlink="http://tcrn.ch/1OOArsn" data-shareTitle="Apply Now For The Austin And Seattle Meetup +&nbsp;Pitch-Offs">
+	<div class="block block-thumb ">
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,6">
+						<a href="http://techcrunch.com/2015/04/24/apply-now-to-pitch-at-the-austin-and-seattle-meetup-pitch-offs/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Apply Now For The Austin And Seattle Meetup +&nbsp;Pitch-Offs" data-src="https://tctechcrunch2011.files.wordpress.com/2013/08/meetupseattle.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/apply-now-to-pitch-at-the-austin-and-seattle-meetup-pitch-offs/" data-omni-sm="gbl_river_headline,6">Apply Now For The Austin And Seattle Meetup +&nbsp;Pitch-Offs</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 08:00:42" class="timestamp">4 hours ago</time> by <a href="/author/matt-burns/" title="Posts by Matt Burns" onclick="s_objectID='river_author';" rel="author">Matt Burns</a>			</div>
+
+			
+			<p class="excerpt">TechCrunch is headed back to Austin and Seattle in late June and we&#8217;re looking for a few good startups to pitch at the event. Is that you? Apply below.
+In past events in both of these cities people have shown up in droves, and with that sort of love we just can&#8217;t stay away. The Austin meetup happens on June 23 and Seattle on June 25th. We can&#8217;t wait.
+The goal is to bring&hellip; <a href="http://techcrunch.com/2015/04/24/apply-now-to-pitch-at-the-austin-and-seattle-meetup-pitch-offs/" class="read-more" data-omni-sm="gbl_river_readmore,6">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/apply-now-to-pitch-at-the-austin-and-seattle-meetup-pitch-offs/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/apply-now-to-pitch-at-the-austin-and-seattle-meetup-pitch-offs/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+		<div id="river-native-ad-7a96723cdf"></div>
+		<script type='text/javascript'>
+			(function(window){
+				try {
+					window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function() {
+						window.adSetInView('1');
+						if (window.ads.isMobile()) {
+							window.htmlAdWH('348-14-15-36ff', '859', '270', 'text', 'river-native-ad-7a96723cdf');
+						} else {
+							window.htmlAdWH('93459584', '859', '270', 'text', 'river-native-ad-7a96723cdf');
+						}
+						window.adSetInView('0');
+					});
+				} catch (e) {
+					// Assume this is just no ad placement for this page load
+				}
+			}(this));
+		</script><li class="river-block" id="1148979" data-permalink="http://techcrunch.com/2015/04/24/apple-begins-offering-virtual-personal-setup-appointments-to-new-watch-owners/" data-shortlink="http://tcrn.ch/1Gpe4aQ" data-shareTitle="Apple Begins Offering Virtual “Personal Setup” Appointments To New Watch&nbsp;Owners">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/ecommerce/" title="eCommerce" class="tag"><span>eCommerce</span></a>
+					 					 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,7">
+						<a href="http://techcrunch.com/2015/04/24/apple-begins-offering-virtual-personal-setup-appointments-to-new-watch-owners/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Apple Begins Offering Virtual “Personal Setup” Appointments To New Watch&nbsp;Owners" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/applewatch-2.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/apple-begins-offering-virtual-personal-setup-appointments-to-new-watch-owners/" data-omni-sm="gbl_river_headline,7">Apple Begins Offering Virtual “Personal Setup” Appointments To New Watch&nbsp;Owners</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 07:18:07" class="timestamp">4 hours ago</time> by <a href="/author/sarah-perez/" title="Posts by Sarah Perez" onclick="s_objectID='river_author';" rel="author">Sarah Perez</a>			</div>
+
+			
+			<p class="excerpt">As a number of early customers will receive their Apple Watch smartwatches today, Apple has also begun to send out email invitations offering &#8220;personal setup&#8221; appointments that take place via video sessions with an Apple Specialist. The sessions allow customers to learn about their new device and be walked through its features, as well as have the opportunity to ask&hellip; <a href="http://techcrunch.com/2015/04/24/apple-begins-offering-virtual-personal-setup-appointments-to-new-watch-owners/" class="read-more" data-omni-sm="gbl_river_readmore,7">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/apple-begins-offering-virtual-personal-setup-appointments-to-new-watch-owners/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/apple-begins-offering-virtual-personal-setup-appointments-to-new-watch-owners/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148974" data-permalink="http://techcrunch.com/2015/04/24/investors-swing-for-the-fences-with-1b-in-sports-tech-deals/" data-shortlink="http://tcrn.ch/1z10LxD" data-shareTitle="Investors Swing For The Fences With $1B In Sports Tech&nbsp;Deals">
+	<div class="block block-thumb ">
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,8">
+						<a href="http://techcrunch.com/2015/04/24/investors-swing-for-the-fences-with-1b-in-sports-tech-deals/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Investors Swing For The Fences With $1B In Sports Tech&nbsp;Deals" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/hanley.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/investors-swing-for-the-fences-with-1b-in-sports-tech-deals/" data-omni-sm="gbl_river_headline,8">Investors Swing For The Fences With $1B In Sports Tech&nbsp;Deals</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 07:05:48" class="timestamp">5 hours ago</time> by <a href="/author/christine-magee/" title="Posts by Christine Magee" onclick="s_objectID='river_author';" rel="author">Christine Magee</a>			</div>
+
+			
+			<p class="excerpt">From wearable activity trackers to fantasy e-sports, technology is transforming the way athletes train for the game and fans engage with their teams. With all of this momentum VCs are swinging for the fences. Investors have spent over $1 billion in venture deals for sports-related startups over the past year &#8212; and everyone wants in on the action. <a href="http://techcrunch.com/2015/04/24/investors-swing-for-the-fences-with-1b-in-sports-tech-deals/" class="read-more" data-omni-sm="gbl_river_readmore,8">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/investors-swing-for-the-fences-with-1b-in-sports-tech-deals/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/investors-swing-for-the-fences-with-1b-in-sports-tech-deals/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block river-block-featured" id="1148773" data-permalink="http://techcrunch.com/2015/04/24/apple-watch-diary/" data-shortlink="http://tcrn.ch/1En8x5j" data-shareTitle="Apple Watch Diary">
+			<a href="http://techcrunch.com/2015/04/24/apple-watch-diary/" class="feature-hero" data-omni-sm="gbl_river_image,9"><img data-aspect-ratio="94x53" alt="Apple Watch Diary" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/apple-watch-diary1.jpg?w=950&#038;h=530&#038;crop=1" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+		<div class="block block-featured">
+		<div class="block-featured-content">
+						 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+			 							 							 			</div>
+						<div class="block-content">
+				<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/apple-watch-diary/" data-omni-sm="gbl_river_headline,9">Apple Watch Diary</a></h2>
+				<div class="byline">
+					<time datetime="2015-04-24 06:44:20" class="timestamp">5 hours ago</time> by <a href="/author/matthew-panzarino/" title="Posts by Matthew Panzarino" onclick="s_objectID='river_author';" rel="author">Matthew Panzarino</a>, <a href="/author/darrell-etherington/" title="Posts by Darrell Etherington" onclick="s_objectID='river_author';" rel="author">Darrell Etherington</a>				</div>
+				<p class="excerpt">The Apple Watch made its debut on wrists around the world today &#8212; and people are unboxing and poking at it as we speak. Several of us here at TechCrunch have been doing the same with ours, and we&#8217;ll be documenting that over the next week or so. In order to give you a more holistic picture of what it&#8217;s like to use one day to day, and to give you a place to check in on our&hellip; <a href="http://techcrunch.com/2015/04/24/apple-watch-diary/" class="read-more" data-omni-sm="gbl_river_readmore,9">Read&nbsp;More</a></p>
+								<div class="social-cluster">
+					<ul class="social-share social-cluster-list">
+													<li><a href="http://techcrunch.com/2015/04/24/apple-watch-diary/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/apple-watch-diary/"></fb:comments-count></span></a></li>
+												<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+						<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+						<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+						<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148972">
+	<div class="block block-thumb">
+		<div class="block-content-brief">
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/comcast-time-warner-is-dead/" data-omni-sm="gbl_river_headline,10">Comcast Confirms That Its Merger With Time Warner Cable Is&nbsp;Dead</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 06:33:23" class="timestamp">5 hours ago</time> by <a href="/author/anthony-ha/" title="Posts by Anthony Ha" onclick="s_objectID='river_author';" rel="author">Anthony Ha</a>			</div>
+		</div>
+	</div>
+</li>
+						<div id="adsDiv7445423c0a" class="native-ad-mobile"></div>
+<script>
+/* <![CDATA[ */
+(function(window){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function() {
+			if (window.ads.isMobile()) {
+				window.adSetInView('1');
+				window.htmlAdWH('348-14-15-339d', '320', '115', 'text', 'adsDiv7445423c0a');
+				window.adSetInView('0');
+			}
+		});
+	}(this));
+/* ]]> */
+</script>
+						<div class="hide-med block align-center more-news">
+							<a href="#river2" class="text-btn icon-caret-down">More news</a>
+						</div>
+					</ul>
+				</div>
+			</div>
+
+			<div class="l-sidebar lc-padding">
+				<div class="section flush">
+					<div class="ad-unit ad-300x250">
+	<small class="advertise-here">
+		<a href="http://techcrunch.com/advertise/" title="Advertise on TechCrunch">
+			Advertisement		</a>
+	</small>
+	<!-- Begin: Right Rail Advertisement -->
+		<div id="adsDiv78e87ce36f" class=""></div>
+<script>
+/* <![CDATA[ */
+if (!ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizeImage === 'function' ) {
+					window.adsResizeImage('0');
+				}
+			}
+			window.htmlAdWH('93311231', "RR", "RR", 'f', 'adsDiv78e87ce36f');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script>	<!-- End: Right Rail Advertisement -->
+</div>
+
+<div class="section">
+	<div id="adsDiv357d84a9a5" class="mobile-ads-center"></div>
+<script>
+/* <![CDATA[ */
+if (ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizeImage === 'function' ) {
+					window.adsResizeImage('0');
+				}
+			}
+			window.adSetInView('1');
+			window.htmlAdWH('93446219', "300", "250", 'f', 'adsDiv357d84a9a5');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script></div>
+					<div class="aside submit-tip collapse">
+	<h2 class="section-title collapse-title hide-med">Have a tip?</h2>
+
+	<div class="collapse-body">
+		<p class="chunky-text">Have a tip, pitch or guest column?			<a href="/got-a-tip/" data-omni-sm="hp_sendatip">Send us a tip.</a>
+		</p>
+	</div>
+</div>
+					<div class="section aside newsletters-signup collapse collapse-adjacent block">
+						
+<h2 class="section-title collapse-title aside-adjacent">
+	<img class="newsletter-logo" alt="TechCrunch" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" scale="0"> Newsletters
+</h2>
+
+
+<div class="collapse-body newsletter-body">
+	<div class="newsletter newsletter-side-bar-newsletters">
+		<form method="post" class="inline-form form-newsletters" action="" data-nonce="be7ae2f9fa">
+			<div class="checkboxes">
+				<fieldset class="custom-checkbox">
+					<input type="checkbox" name="crunchdaily" id="tc-daily-553a94f4dde545.43222465" checked="checked">
+					<label for="tc-daily-553a94f4dde545.43222465">
+						<span class="custom-checkbox-fake"></span>
+						<strong>TechCrunch Daily</strong> Top headlines, delivered daily
+					</label>
+				</fieldset>
+				<fieldset class="custom-checkbox">
+					<input type="checkbox" name="crunchweekly" id="tc-week-in-review-553a94f4dde545.43222465" checked="checked">
+					<label for="tc-week-in-review-553a94f4dde545.43222465">
+						<span class="custom-checkbox-fake"></span>
+						<strong>TC Week-in-Review</strong> Most popular stories, delivered Sundays
+					</label>
+				</fieldset>
+				<fieldset class="custom-checkbox">
+					<input type="checkbox" name="crunchbase" id="tc-crunchbase-daily-553a94f4dde545.43222465" checked="checked">
+					<label for="tc-crunchbase-daily-553a94f4dde545.43222465">
+						<span class="custom-checkbox-fake"></span>
+						<strong>CrunchBase Daily</strong> Latest startup fundings, delivered daily
+					</label>
+				</fieldset>
+			</div>
+
+			<fieldset>
+				<label class="is-vishidden">Enter Address</label>
+				<input type="email" name="email" placeholder="Enter Address">
+				<button type="submit" class="newsletter-submit">Subscribe</button>
+			</fieldset>
+		</form>
+	</div>
+</div>					</div>
+					<section class="aside section video-aside collapse collapse-adjacent">
+	<h2 class="section-title collapse-title">TCTV</h2>
+	<div class="collapse-body cf">
+		<ul class="vid-list cf">
+												<li class="block vid-feature">
+									<div class="block feature-video">
+		<a href="http://techcrunch.com/video/apple-watch-launch-first-impressions/518786250/">
+			<img data-lightbox-url="http://techcrunch.com/video/apple-watch-launch-first-impressions/518786250/lightbox" alt="Apple Watch Launch First Impressions" data-src="http://pthumbnails.5min.com/10375726/518786250_cv2_300_170.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/300x169.png" width="300" height="169" />			<div class="play-banner">
+				<span class="icon-video-play"></span>
+				<span class="play-callout">Play Video</span>
+			</div>
+		</a>
+	</div>				
+				<h3><a href="http://techcrunch.com/video/apple-watch-launch-first-impressions/518786250/" class="nolightbox">Apple Watch Launch First&nbsp;Impressions</a></h3>
+				<div class="byline">9:00</div>
+			</li>
+														<li class="vid-secondary">
+									<div class="block feature-video">
+		<a href="http://techcrunch.com/video/first-look-at-concierge-app-operator-crunch-report/518785901/">
+			<img data-lightbox-url="http://techcrunch.com/video/first-look-at-concierge-app-operator-crunch-report/518785901/lightbox" alt="First Look at Concierge App &quot;Operator&quot; | Crunch Report" data-src="http://pthumbnails.5min.com/10375719/518785901_c_300_170.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/300x169.png" width="300" height="169" />			<div class="play-banner">
+				<span class="icon-video-play"></span>
+				<span class="play-callout">Play Video</span>
+			</div>
+		</a>
+	</div>				
+				<h4 class="vid-share-title"><a href="http://techcrunch.com/video/first-look-at-concierge-app-operator-crunch-report/518785901/" class="link-alt nolightbox">First Look at Concierge App &#8220;Operator&#8221; | Crunch&nbsp;Report</a></h4>
+			</li>
+											<li class="vid-secondary">
+									<div class="block feature-video">
+		<a href="http://techcrunch.com/video/playstation-project-morpheus-vr-headset/518785076/">
+			<img data-lightbox-url="http://techcrunch.com/video/playstation-project-morpheus-vr-headset/518785076/lightbox" alt="Playstation Project Morpheus VR Headset" data-src="http://pthumbnails.5min.com/10375702/518785076_cv1_300_170.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/300x169.png" width="300" height="169" />			<div class="play-banner">
+				<span class="icon-video-play"></span>
+				<span class="play-callout">Play Video</span>
+			</div>
+		</a>
+	</div>				
+				<h4 class="vid-share-title"><a href="http://techcrunch.com/video/playstation-project-morpheus-vr-headset/518785076/" class="link-alt nolightbox">Playstation Project Morpheus VR&nbsp;Headset</a></h4>
+			</li>
+							</ul>
+		<a href="/video/" class="text-btn" data-omni-sm="gbl_tctv">More TCTV</a>
+	</div>
+</section>
+					<div class="ad-cluster-container ad-cluster-no-ad" style="display: none;">
+	<small class="advertise-here"><a href="http://techcrunch.com/advertise/" title="Advertise on TechCrunch">Advertisement</a></small>
+	<ul class="ad-cluster-6" data-adcount="6">
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="lc flush">
+		<div class="l-two-col">
+			<div class="l-main-container">
+				<div class="l-main">
+
+					<ul class="river" id="river2">
+
+						<li class="river-block" id="1148970" data-permalink="http://techcrunch.com/2015/04/24/apple-watch-ad-philosophy/" data-shortlink="http://tcrn.ch/1bAwRFZ" data-shareTitle="Apple Watch Ad&nbsp;Philosophy">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,11">
+						<a href="http://techcrunch.com/2015/04/24/apple-watch-ad-philosophy/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Apple Watch Ad&nbsp;Philosophy" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/screen-shot-2015-04-24-at-6-17-07-am.png?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/apple-watch-ad-philosophy/" data-omni-sm="gbl_river_headline,11">Apple Watch Ad&nbsp;Philosophy</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 06:19:21" class="timestamp">5 hours ago</time> by <a href="/author/matthew-panzarino/" title="Posts by Matthew Panzarino" onclick="s_objectID='river_author';" rel="author">Matthew Panzarino</a>			</div>
+
+			
+			<p class="excerpt">Three new Apple Watch ads are hitting today and they stray far from the ascetic materials-oriented introduction spot. All three focus on showing the Watch integrating into regular human life rather than floating on an endless sea of white. These spots emphasize things I&#8217;ve noticed about the Watch so far, namely that it&#8217;s going to work best when it organically insinuates itself&hellip; <a href="http://techcrunch.com/2015/04/24/apple-watch-ad-philosophy/" class="read-more" data-omni-sm="gbl_river_readmore,11">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/apple-watch-ad-philosophy/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/apple-watch-ad-philosophy/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148957" data-permalink="http://techcrunch.com/2015/04/24/watch-the-first-donut-in-space/" data-shortlink="http://tcrn.ch/1IQhdke" data-shareTitle="Watch The First Donut In&nbsp;Space">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,12">
+						<a href="http://techcrunch.com/2015/04/24/watch-the-first-donut-in-space/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Watch The First Donut In&nbsp;Space" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/screen-shot-2015-04-24-at-8-35-47-am.png?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/watch-the-first-donut-in-space/" data-omni-sm="gbl_river_headline,12">Watch The First Donut In&nbsp;Space</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 05:47:52" class="timestamp">6 hours ago</time> by <a href="/author/john-biggs/" title="Posts by John Biggs" onclick="s_objectID='river_author';" rel="author">John Biggs</a>			</div>
+
+			
+			<p class="excerpt">It&#8217;s hard to believe that a month ago humans were unable to launch a donut into space. It was March 2015 and the world was in turmoil. Space travel was but a dream for even the richest pastry and we humans would never be able to grasp the concept of &#8211; let alone plan the injection of &#8211; a pastry in space. How things have changed.
+Benjamin and Alexander Jönsson are brothers&hellip; <a href="http://techcrunch.com/2015/04/24/watch-the-first-donut-in-space/" class="read-more" data-omni-sm="gbl_river_readmore,12">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/watch-the-first-donut-in-space/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/watch-the-first-donut-in-space/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148950" data-permalink="http://techcrunch.com/2015/04/24/france-to-head-open-government-partnership-only-one-year-after-joining-it/" data-shortlink="http://tcrn.ch/1z0Ahwg" data-shareTitle="France To Head Open Government Partnership Only One Year After Joining&nbsp;It">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/europe/" title="Europe" class="tag"><span>Europe</span></a>
+					 					 					 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,13">
+						<a href="http://techcrunch.com/2015/04/24/france-to-head-open-government-partnership-only-one-year-after-joining-it/" class="thumb"><img data-omni-sm="gbl_river_image" alt="France To Head Open Government Partnership Only One Year After Joining&nbsp;It" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/fullsizerender.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/france-to-head-open-government-partnership-only-one-year-after-joining-it/" data-omni-sm="gbl_river_headline,13">France To Head Open Government Partnership Only One Year After Joining&nbsp;It</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 04:39:51" class="timestamp">7 hours ago</time> by <a href="/author/romain-dillet/" title="Posts by Romain Dillet" onclick="s_objectID='river_author';" rel="author">Romain Dillet</a>			</div>
+
+			
+			<p class="excerpt">Over the past two years, France has been a leading country when it comes to open data and open government &#8212; and it is paying off. Only one year after joining the Open Government Partnership, France has just been elected to head the Partnership starting in October 2016.
+I&#8217;ve been regularly covering France&#8217;s effort in this area as I think it&#8217;s an interesting take on&hellip; <a href="http://techcrunch.com/2015/04/24/france-to-head-open-government-partnership-only-one-year-after-joining-it/" class="read-more" data-omni-sm="gbl_river_readmore,13">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/france-to-head-open-government-partnership-only-one-year-after-joining-it/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/france-to-head-open-government-partnership-only-one-year-after-joining-it/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148938" data-permalink="http://techcrunch.com/2015/04/24/infosys-kallidus-skala-120-million/" data-shortlink="http://tcrn.ch/1QqXc9g" data-shareTitle="Infosys To Acquire E-Commerce Services Provider Kallidus For&nbsp;$120M">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/asia/" title="Asia" class="tag"><span>Asia</span></a>
+					 					 					 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,14">
+						<a href="http://techcrunch.com/2015/04/24/infosys-kallidus-skala-120-million/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Infosys To Acquire E-Commerce Services Provider Kallidus For&nbsp;$120M" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/infosys.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/infosys-kallidus-skala-120-million/" data-omni-sm="gbl_river_headline,14">Infosys To Acquire E-Commerce Services Provider Kallidus For&nbsp;$120M</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 03:14:11" class="timestamp">8 hours ago</time> by <a href="/author/jon-russell/" title="Posts by Jon Russell" onclick="s_objectID='river_author';" rel="author">Jon Russell</a>			</div>
+
+			
+			<p class="excerpt">Infosys, the India-headquartered consulting and IT firm, is on the verge of making its second significant acquisition of the year after it announced a deal to buy digital e-commerce services provider Kallidus for $120 million. It also made a $2 million investment in an air monitoring startup. <a href="http://techcrunch.com/2015/04/24/infosys-kallidus-skala-120-million/" class="read-more" data-omni-sm="gbl_river_readmore,14">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/infosys-kallidus-skala-120-million/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/infosys-kallidus-skala-120-million/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148939" data-permalink="http://techcrunch.com/2015/04/24/jobscan/" data-shortlink="http://tcrn.ch/1QqSo3M" data-shareTitle="Jobscan Helps You Write Better&nbsp;Resumes">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/startups/" title="Startups" class="tag"><span>Startups</span></a>
+					 					 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,15">
+						<a href="http://techcrunch.com/2015/04/24/jobscan/" class="thumb"><img data-omni-sm="gbl_river_image" alt="Jobscan Helps You Write Better&nbsp;Resumes" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/shutterstock_58343785.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/jobscan/" data-omni-sm="gbl_river_headline,15">Jobscan Helps You Write Better&nbsp;Resumes</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 02:38:32" class="timestamp">9 hours ago</time> by <a href="/author/catherine-shu/" title="Posts by Catherine Shu" onclick="s_objectID='river_author';" rel="author">Catherine Shu</a>			</div>
+
+			
+			<p class="excerpt">If you apply for a position at a large company, there is a chance that a human won&#8217;t even look at your resume. Many human resources department now use application tracking software (ATS) to help them sift through hundreds of applications. <a href="http://techcrunch.com/2015/04/24/jobscan/" class="read-more" data-omni-sm="gbl_river_readmore,15">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/jobscan/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/jobscan/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148917" data-permalink="http://techcrunch.com/2015/04/24/ifixit-apple-watch-teardown/" data-shortlink="http://tcrn.ch/1aXsX96" data-shareTitle="iFixit Apple Watch Teardown Suggests No Internal Chip&nbsp;Upgrades">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/gadgets/" title="Gadgets" class="tag"><span>Gadgets</span></a>
+					 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,16">
+						<a href="http://techcrunch.com/2015/04/24/ifixit-apple-watch-teardown/" class="thumb"><img data-omni-sm="gbl_river_image" alt="iFixit Apple Watch Teardown Suggests No Internal Chip&nbsp;Upgrades" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/screen-shot-2015-04-24-at-9-41-47-am.png?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/ifixit-apple-watch-teardown/" data-omni-sm="gbl_river_headline,16">iFixit Apple Watch Teardown Suggests No Internal Chip&nbsp;Upgrades</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 02:12:08" class="timestamp">9 hours ago</time> by <a href="/author/natasha-lomas/" title="Posts by Natasha Lomas" onclick="s_objectID='river_author';" rel="author">Natasha Lomas</a>			</div>
+
+			
+			<p class="excerpt">Today is Apple Watch D-Day for a speedy few early adopters, with Cupertino finally shipping the first batch of its debut wearable to buyers.  That means it&#8217;s also the day that serial repairers/tenacious teardowners iFixit get to crack open Apple&#8217;s latest sealed box and peer inside so we don&#8217;t have to. <a href="http://techcrunch.com/2015/04/24/ifixit-apple-watch-teardown/" class="read-more" data-omni-sm="gbl_river_readmore,16">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/ifixit-apple-watch-teardown/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/ifixit-apple-watch-teardown/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148896" data-permalink="http://techcrunch.com/2015/04/24/whatsapp-calling-on-ios-hands-on/" data-shortlink="http://tcrn.ch/1Fj5Ylx" data-shareTitle="WhatsApp Calling On iOS Is Convenient But The Quality Won&#8217;t Blow You&nbsp;Away">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/apps/" title="Apps" class="tag"><span>Apps</span></a>
+					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,17">
+						<a href="http://techcrunch.com/2015/04/24/whatsapp-calling-on-ios-hands-on/" class="thumb"><img data-omni-sm="gbl_river_image" alt="WhatsApp Calling On iOS Is Convenient But The Quality Won&#8217;t Blow You&nbsp;Away" data-src="https://tctechcrunch2011.files.wordpress.com/2014/12/facebook-whatsapp-screen.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/whatsapp-calling-on-ios-hands-on/" data-omni-sm="gbl_river_headline,17">WhatsApp Calling On iOS Is Convenient But The Quality Won&#8217;t Blow You&nbsp;Away</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 12:24:47" class="timestamp">11 hours ago</time> by <a href="/author/jon-russell/" title="Posts by Jon Russell" onclick="s_objectID='river_author';" rel="author">Jon Russell</a>			</div>
+
+			
+			<p class="excerpt">WhatsApp&#8217;s new voice calling feature for iOS is decent quality and easy to use, but the experience doesn&#8217;t beat dedicated VoIP apps for clarity. At this point, at least. <a href="http://techcrunch.com/2015/04/24/whatsapp-calling-on-ios-hands-on/" class="read-more" data-omni-sm="gbl_river_readmore,17">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/whatsapp-calling-on-ios-hands-on/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/whatsapp-calling-on-ios-hands-on/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148563" data-permalink="http://techcrunch.com/2015/04/24/with-lydia-pay-for-your-online-purchases-using-your-apple-watch/" data-shortlink="http://tcrn.ch/1GorGmF" data-shareTitle="With Lydia, Pay For Your Online Purchases Using Your Apple&nbsp;Watch">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/europe/" title="Europe" class="tag"><span>Europe</span></a>
+					 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,18">
+						<a href="http://techcrunch.com/2015/04/24/with-lydia-pay-for-your-online-purchases-using-your-apple-watch/" class="thumb"><img data-omni-sm="gbl_river_image" alt="With Lydia, Pay For Your Online Purchases Using Your Apple&nbsp;Watch" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/lydia-watch-en-02.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/24/with-lydia-pay-for-your-online-purchases-using-your-apple-watch/" data-omni-sm="gbl_river_headline,18">With Lydia, Pay For Your Online Purchases Using Your Apple&nbsp;Watch</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-24 12:01:54" class="timestamp">12 hours ago</time> by <a href="/author/romain-dillet/" title="Posts by Romain Dillet" onclick="s_objectID='river_author';" rel="author">Romain Dillet</a>			</div>
+
+			
+			<p class="excerpt">Step by step, Lydia is unveiling its product strategy to handle all your payments. When I last covered the French startup, it was still mostly focused on growing its user base by providing a Venmo alternative for French users. But now, Lydia also lets you pay on e-commerce websites, starting with PriceMinister. The app is now also available on the Apple Watch so that you can just tap on your&hellip; <a href="http://techcrunch.com/2015/04/24/with-lydia-pay-for-your-online-purchases-using-your-apple-watch/" class="read-more" data-omni-sm="gbl_river_readmore,18">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/24/with-lydia-pay-for-your-online-purchases-using-your-apple-watch/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/24/with-lydia-pay-for-your-online-purchases-using-your-apple-watch/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148900" data-permalink="http://techcrunch.com/2015/04/23/urbanclap/" data-shortlink="http://tcrn.ch/1JAueyt" data-shareTitle="India&#8217;s UrbanClap Matches Customers With The Best Local Service&nbsp;Providers">
+	<div class="block block-thumb ">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/asia/" title="Asia" class="tag"><span>Asia</span></a>
+					 					 					 					 		</div>
+				<div class="block-content">
+							<span data-omni-sm-delegate="gbl_river_image,19">
+						<a href="http://techcrunch.com/2015/04/23/urbanclap/" class="thumb"><img data-omni-sm="gbl_river_image" alt="India&#8217;s UrbanClap Matches Customers With The Best Local Service&nbsp;Providers" data-src="https://tctechcrunch2011.files.wordpress.com/2015/04/shutterstock_139803640.jpg?w=210&#038;h=158&#038;crop=1&#038;quality=85&#038;strip=all" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/210x210.png" width="210" height="210" /></a>
+				</span>
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/23/urbanclap/" data-omni-sm="gbl_river_headline,19">India&#8217;s UrbanClap Matches Customers With The Best Local Service&nbsp;Providers</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-23 11:49:42" class="timestamp">12 hours ago</time> by <a href="/author/catherine-shu/" title="Posts by Catherine Shu" onclick="s_objectID='river_author';" rel="author">Catherine Shu</a>			</div>
+
+			
+			<p class="excerpt">Based in Delhi, UrbanClap wants to make finding good service providers as easy as, well, clapping your hands. With more than 1,000 service providers currently listed, including individuals and companies, UrbanClap claims to be the largest mobile-based services marketplace in India. The startup, however, aspires to be more than just a listings platform. <a href="http://techcrunch.com/2015/04/23/urbanclap/" class="read-more" data-omni-sm="gbl_river_readmore,19">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/23/urbanclap/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/23/urbanclap/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+<li class="river-block" id="1148881" data-permalink="http://techcrunch.com/2015/04/23/say-hello-to-the-apple-watch-2/" data-shortlink="http://tcrn.ch/1DFVION" data-shareTitle="Say Hello To The Apple&nbsp;Watch">
+	<div class="block block-thumb block-video-in-river">
+				 <div class="tags" data-omni-sm-delegate="gbl_river_category">
+		 							<a href="http://techcrunch.com/gadgets/" title="Gadgets" class="tag"><span>Gadgets</span></a>
+					 		</div>
+				<div class="block-content">
+			
+			<h2 class="post-title"><a href="http://techcrunch.com/2015/04/23/say-hello-to-the-apple-watch-2/" data-omni-sm="gbl_river_headline,20">Say Hello To The Apple&nbsp;Watch</a></h2>
+			<div class="byline">
+				<time datetime="2015-04-23 09:01:06" class="timestamp">15 hours ago</time> by <a href="/author/darrell-etherington/" title="Posts by Darrell Etherington" onclick="s_objectID='river_author';" rel="author">Darrell Etherington</a>			</div>
+
+							<span data-omni-sm-delegate="gbl_river_image,20">
+					<div class="thumb">
+			<div class="in-river-video-block block-ratio-16-9" style="background-image: url('https://tctechcrunch2011.files.wordpress.com/2015/04/applewatch-large.jpg?w=580&#038;h=326&#038;crop=1')" data-in-river-identifier="518786250" data-related-playlist-id="171943">
+			<div class="overlay in-river-video-block-permanent">
+				<div class="loader"></div>
+			</div>
+		</div>
+	</div>
+				</span>
+			
+			<p class="excerpt">The Apple Watch has landed, so to speak, with deliveries officially arriving to the first pre-order customers around the world. Apple&#8217;s first wearable device has enjoyed one of the longest pre-launch promotional cycles of any of its products, and with good reason &#8211; it&#8217;s a very different gadget from anything Apple has created before.
+We&#8217;ve had a few days to try out&hellip; <a href="http://techcrunch.com/2015/04/23/say-hello-to-the-apple-watch-2/" class="read-more" data-omni-sm="gbl_river_readmore,20">Read&nbsp;More</a></p>
+						<div class="social-cluster">
+				<ul class="social-share social-cluster-list">
+												<li><a href="http://techcrunch.com/2015/04/23/say-hello-to-the-apple-watch-2/#comments" rel="external" class="comment has-text icon-comment"><span class="social-count"><fb:comments-count href="http://techcrunch.com/2015/04/23/say-hello-to-the-apple-watch-2/"></fb:comments-count></span></a></li>
+										<li><a href="#" rel="external" class="facebook icon-facebook"></a></li>
+					<li><a href="#" rel="external" class="twitter icon-twitter"></a></li>
+					<li><a href="#" rel="external" class="linkedin icon-linkedin"></a></li>
+					<li><a href="#" rel="external" class="reddit icon-reddit"></a></li>
+				</ul>
+			</div>
+			<div id="clear" style="clear:both;"></div>
+		</div>
+	</div>
+</li>
+
+						<div class="hide-med block align-center more-news">
+							<a href="#river4" class="text-btn icon-caret-down">More news</a>
+						</div>
+					</ul>
+				</div>
+			</div>
+
+			<div class="l-sidebar">
+
+				<div class="section ad-300x250">
+	<div id="adsDiv5a7b8e0013" class=""></div>
+<script>
+/* <![CDATA[ */
+if (!ads.isMobile()) {
+	(function(window,$){
+		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
+			if ( !window.ads.isAdPageSet ){
+				if ( typeof window.adSetAdURL == 'function' ) {
+					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
+					window.ads.isAdPageSet = true;
+				}
+				if ( typeof window.adsResizeImage === 'function' ) {
+					window.adsResizeImage('0');
+				}
+			}
+			window.adSetInView('D');
+			window.htmlAdWH('93422859', "RR", "RR", 'f', 'adsDiv5a7b8e0013');
+		});
+	}(this,this.jQuery));
+}
+/* ]]> */
+</script></div>
+				<div class="section aside-alt collapse collapse-adjacent">
+	<h3 class="section-title collapse-title">TechCrunch Events</h3>
+<div class="collapse-body">
+	<ul class="info-list lined-list">
+			<li>
+			<h3><a href="http://techcrunch.com/events/disrupt-ny-2015/" title="" data-omni-sm="gbl_events">Disrupt NY 2015</a></h3>
+			<div class="info-meta">New York, NY: <time datetime="2015-05-04T00:00:00+00:00">May 4 - 6, 2015</time></div>
+							<a href="http://techcrunch.com/events/disrupt-ny-2015/tickets/" class="btn btn-sm" data-omni-sm="gbl_events">Buy Tickets</a>
+					</li>
+			<li>
+			<h3><a href="http://techcrunch.com/events/disrupt-sf-2015/" title="" data-omni-sm="gbl_events">Disrupt SF 2015</a></h3>
+			<div class="info-meta">San Francisco, CA: <time datetime="2015-09-21T00:00:00+00:00">September 21 - 23, 2015</time></div>
+							<a href="http://techcrunch.com/events/disrupt-sf-2015/tickets/" class="btn btn-sm" data-omni-sm="gbl_events">Buy Tickets</a>
+					</li>
+			<li>
+			<h3><a href="http://techcrunch.com/events/summer-party-at-august-capital-2015/" title="" data-omni-sm="gbl_events">Summer Party at August Capital&nbsp;2015</a></h3>
+			<div class="info-meta">Menlo Park, CA: <time datetime="2015-07-31T00:00:00+00:00">July 31, 2015</time></div>
+					</li>
+			<li>
+			<h3><a href="http://techcrunch.com/events/disrupt-sf-hackathon-2015/" title="" data-omni-sm="gbl_events">Disrupt SF Hackathon&nbsp;2015</a></h3>
+			<div class="info-meta">San Francisco, CA: <time datetime="2015-09-19T00:00:00+00:00">September 19 - 20, 2015</time></div>
+					</li>
+			<li>
+			<h3><a href="http://techcrunch.com/events/disrupt-ny-hackathon-2015/" title="" data-omni-sm="gbl_events">Disrupt NY Hackathon&nbsp;2015</a></h3>
+			<div class="info-meta">New York, NY: <time datetime="2015-05-02T00:00:00+00:00">May 2 - 3, 2015</time></div>
+							<a href="http://techcrunch.com/events/disrupt-ny-hackathon-2015/tickets/" class="btn btn-sm" data-omni-sm="gbl_events">Buy Tickets</a>
+					</li>
+			<li>
+			<h3><a href="http://techcrunch.com/events/disrupt-london-2015/" title="" data-omni-sm="gbl_events">Disrupt London 2015</a></h3>
+			<div class="info-meta">London: <time datetime="2015-12-07T00:00:00+00:00">December 7 - 8, 2015</time></div>
+							<a href="http://techcrunch.com/events/disrupt-london-2015/tickets/" class="btn btn-sm" data-omni-sm="gbl_events">Buy Tickets</a>
+					</li>
+		</ul>
+	<a href="/events/" class="text-btn" data-omni-sm="gbl_events">More Events</a>
+</div>
+</div>				<section class="section collapse follow-tc-writers">
+	<h2 class="section-title collapse-title">Follow Our Writers</h2>
+	<div class="collapse-body cf">
+		<ul class="g g-small-photos cf">
+						<li class="gi">
+				<a href="/author/alexia-tsotsis/" data-omni-sm="gbl_ourwriters"><img class="writer-avatar" alt="Alexia Tsotsis" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/writers/alexia-tsotsis.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+				<div class="writer-card arrow-box">
+					<h3 class="name">Alexia Tsotsis</h3>
+					<div class="title">Co-Editor of TechCrunch</div>
+					<ul class="social-list">
+												<li><a href="http://twitter.com/alexia" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+																		<li><a href="http://facebook.com/alexiatsotsis" rel="external" class="spricon nosprite icon-facebook" target="_blank"><span class="is-vishidden">Facebook</span></a></li>
+																	</ul>
+					<div><a class="text-btn" href="/author/alexia-tsotsis/" data-omni-sm="gbl_ourwriters">View full bio...</a></div>
+				</div>
+			</li>
+						<li class="gi">
+				<a href="/author/ryan-lawler/" data-omni-sm="gbl_ourwriters"><img class="writer-avatar" alt="Ryan Lawler" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/writers/ryan-lawler.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+				<div class="writer-card arrow-box">
+					<h3 class="name">Ryan Lawler</h3>
+					<div class="title">Writer</div>
+					<ul class="social-list">
+												<li><a href="http://twitter.com/ryanlawler" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+																							</ul>
+					<div><a class="text-btn" href="/author/ryan-lawler/" data-omni-sm="gbl_ourwriters">View full bio...</a></div>
+				</div>
+			</li>
+						<li class="gi">
+				<a href="/author/john-biggs/" data-omni-sm="gbl_ourwriters"><img class="writer-avatar" alt="John Biggs" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/writers/john-biggs.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+				<div class="writer-card arrow-box">
+					<h3 class="name">John Biggs</h3>
+					<div class="title">East Coast Editor of TechCrunch</div>
+					<ul class="social-list">
+												<li><a href="http://twitter.com/johnbiggs" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+																							</ul>
+					<div><a class="text-btn" href="/author/john-biggs/" data-omni-sm="gbl_ourwriters">View full bio...</a></div>
+				</div>
+			</li>
+						<li class="gi">
+				<a href="/author/mike-butcher/" data-omni-sm="gbl_ourwriters"><img class="writer-avatar" alt="Mike Butcher" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/writers/mike-butcher.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+				<div class="writer-card arrow-box">
+					<h3 class="name">Mike Butcher</h3>
+					<div class="title">European Editor for TechCrunch</div>
+					<ul class="social-list">
+												<li><a href="http://twitter.com/mikebutcher" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+																							</ul>
+					<div><a class="text-btn" href="/author/mike-butcher/" data-omni-sm="gbl_ourwriters">View full bio...</a></div>
+				</div>
+			</li>
+						<li class="gi">
+				<a href="/author/matt-burns/" data-omni-sm="gbl_ourwriters"><img class="writer-avatar" alt="Matt Burns" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/writers/matt-burns.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+				<div class="writer-card arrow-box">
+					<h3 class="name">Matt Burns</h3>
+					<div class="title">Senior Editor at TechCrunch</div>
+					<ul class="social-list">
+												<li><a href="http://twitter.com/mjburnsy" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+																							</ul>
+					<div><a class="text-btn" href="/author/matt-burns/" data-omni-sm="gbl_ourwriters">View full bio...</a></div>
+				</div>
+			</li>
+						<li class="gi">
+				<a href="/author/matthew-panzarino/" data-omni-sm="gbl_ourwriters"><img class="writer-avatar" alt="Matthew Panzarino" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/writers/matthew-panzarino.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+				<div class="writer-card arrow-box">
+					<h3 class="name">Matthew Panzarino</h3>
+					<div class="title">Senior Editor at TechCrunch</div>
+					<ul class="social-list">
+												<li><a href="http://twitter.com/Panzer" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+																							</ul>
+					<div><a class="text-btn" href="/author/matthew-panzarino/" data-omni-sm="gbl_ourwriters">View full bio...</a></div>
+				</div>
+			</li>
+						<li class="gi">
+				<a href="/author/ingrid-lunden/" data-omni-sm="gbl_ourwriters"><img class="writer-avatar" alt="Ingrid Lunden" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/writers/ingrid-lunden.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+				<div class="writer-card arrow-box">
+					<h3 class="name">Ingrid Lunden</h3>
+					<div class="title">Reporter for TechCrunch</div>
+					<ul class="social-list">
+												<li><a href="http://twitter.com/ingridlunden" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+																							</ul>
+					<div><a class="text-btn" href="/author/ingrid-lunden/" data-omni-sm="gbl_ourwriters">View full bio...</a></div>
+				</div>
+			</li>
+						<li class="gi">
+				<a href="/author/kim-mai-cutler/" data-omni-sm="gbl_ourwriters"><img class="writer-avatar" alt="Kim-Mai Cutler" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/writers/kim-mai-cutler.jpg" data-tc-lazyload="deferred" src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" width="1" height="1" /></a>
+				<div class="writer-card arrow-box">
+					<h3 class="name">Kim-Mai Cutler</h3>
+					<div class="title">Writer</div>
+					<ul class="social-list">
+												<li><a href="http://twitter.com/kimmaicutler" rel="external" class="spricon nosprite icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+																							</ul>
+					<div><a class="text-btn" href="/author/kim-mai-cutler/" data-omni-sm="gbl_ourwriters">View full bio...</a></div>
+				</div>
+			</li>
+					</ul>
+		<a href="/about/" class="text-btn" data-omni-sm="gbl_ourwriters">Meet the whole staff</a>
+	</div>
+</section>
+				
+	<div class="section aside-alt crunchboard-listings collapse collapse-last">
+		<h3 class="section-title collapse-title">CrunchBoard</h3>
+
+		<div class="collapse-body">
+			<h4 class="h-alt crunchboard-listings-subhead">Job Listings</h4>
+			<ul class="info-list lined-list">
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=18889" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Enterprise Database Manager</h3>
+
+							<div class="info-meta">Foundation Center</div>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=18888" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Programmer</h3>
+
+							<div class="info-meta">Foundation Center</div>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=18887" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Manager/Director of User Growth </h3>
+
+							<div class="info-meta">Figure 1</div>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=18497" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Software Engineer, Search Engine Optimization</h3>
+
+							<div class="info-meta">PayScale</div>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.crunchboard.com/opening/detailjob.php?jid=18498" onclick="s_objectID='rr_crunchboard';" target="_blank">
+							<h3>Program Manager, Search Engine Optimization</h3>
+
+							<div class="info-meta">Payscale</div>
+						</a>
+					</li>
+							</ul>
+			<a href="http://www.crunchboard.com/jobs/" target="_blank" class="text-btn">More from CrunchBoard</a>
+		</div>
+	</div>
+				<div class="aside ad-sponsored-aside" id="sponsored-links-side" style="display: none;"></div>
+			</div>
+
+		</div>
+	</div>
+
+	
+	<div class="lc flush">
+		<div class="l-two-col">
+			<div class="l-main-container">
+				<div class="l-main">
+					<div class="river-end">
+													<ol class="pagination">
+		<li><a>1</a></li><li><a href="/page/2">2</a></li><li class="ellipses">...</li><li class="next"><a href="/page/2">Next</a></li>	</ol>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="feature-island-container collapse collapse-adjacent">
+		<div class="lc">
+			<div class="lc">
+	<section class="crunchbase-island">
+		<div class="cb-container">
+			<div class="cb-title cf">
+				<h2 class="section-title">
+					Recent Funding Data					<small class="hide-mobile">by</small>
+					<a href="https://crunchbase.com/" target="_blank" class="hide-mobile">
+						<img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo-crunchbase-flat.png" alt="CrunchBase profile" width="119" height="19" />
+					</a>
+				</h2>
+			</div>
+			<!-- begin .carousel-horizontal -->
+			<div class="carousel-horizontal">
+				<div class="carousel-controls">
+					<a href="#" class="carousel-control carousel-prev"><span class="icon-arrow-left"></span></a>
+					<a href="#" class="carousel-control carousel-next"><span class="icon-arrow"></span></a>
+				</div>
+				<div class="carousel-container">
+					<ul class="carousel-list">
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="GoldCleats Global"><a href="https://www.crunchbase.com/organization/goldcleats-global?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">GoldCleats Global</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$900K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/arlington/4e404478c5627048f3529ee501c81b56?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Arlington, Virginia																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/social-media-agent/e316133dce6c8d9aa8f4770b72d3618b?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Social Media Agent</a>, <a href="https://www.crunchbase.com/category/sports/a0144815bd8f9a1b42ae74c91617a77c?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Sports</a>, <a href="https://www.crunchbase.com/category/soccer/aad2f9370707e2649c2e63a2f5083150?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Soccer</a>, <a href="https://www.crunchbase.com/category/recruiting/4996175c0c92f2042b55f940bc1cc6d6?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Recruiting</a>, <a href="https://www.crunchbase.com/category/social-media/5349a2f214d89727c32a19ebea5db78c?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Social Media</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Expensas Online"><a href="https://www.crunchbase.com/organization/expensas-online?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Expensas Online</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$35K																					</span>
+										<span class="value">non_equity_assistance</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/buenos-aires/0db4708f6b65e5e7b7745b7afb010a52?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Buenos Aires, Distrito Federal																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/financial-services/90b4194f1d4fff5cd7a66b6f32ae4892?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Financial Services</a>, <a href="https://www.crunchbase.com/category/building-owners/03e340f9e58c863d13dc0868dc7fd39d?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Building Owners</a>, <a href="https://www.crunchbase.com/category/real-estate/a326e225acb8f9c0abfe609a82b71965?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Real Estate</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="BugEater Labs"><a href="https://www.crunchbase.com/organization/bugeater-labs?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">BugEater Labs</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$15K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/lincoln/a0f4618858475854bcaa4f60856bbb33?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Lincoln, Nebraska																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/food-processing/97e0bac27d87173a47b3366f201da451?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Food Processing</a>, <a href="https://www.crunchbase.com/category/organic-food/5e863b2028f6a76089c7005249ab4a70?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Organic Food</a>, <a href="https://www.crunchbase.com/category/consumer-goods/65fce54853d34d0d5713702edbb5b02f?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Consumer Goods</a>, <a href="https://www.crunchbase.com/category/specialty-foods/7b14cb43dc0dc0702115398b61f25cb5?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Specialty Foods</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Spectator"><a href="https://www.crunchbase.com/organization/spectatorapp?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Spectator</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$15K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">Not available</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/sports/a0144815bd8f9a1b42ae74c91617a77c?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Sports</a>, <a href="https://www.crunchbase.com/category/mobile/e907cf2a842d8a30a0b107d9de4a8178?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Mobile</a>, <a href="https://www.crunchbase.com/category/entertainment/16b2c0f50411552a836dd1f4d644c9c9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Entertainment</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="switchedOn"><a href="https://www.crunchbase.com/organization/switchedon?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">switchedOn</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							307K SGD																					</span>
+										<span class="value">Angel</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">Not available</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/messaging/8c6239bf6854494b1a16e4f7a286dbd5?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Messaging</a>, <a href="https://www.crunchbase.com/category/email/687e34ef30e2af08a178436d6b53d633?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Email</a>, <a href="https://www.crunchbase.com/category/collaboration/217f63af2e8f9978085b262592840759?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Collaboration</a>, <a href="https://www.crunchbase.com/category/task-management/3171fe791f838634f6bb2be9e71ff530?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Task Management</a>, <a href="https://www.crunchbase.com/category/information-technology/dbca89faf0835438b4add3fdeceb78e7?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Information Technology</a>, <a href="https://www.crunchbase.com/category/chat/30ff81891678b553292921a52c10ccc8?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank"></a> <a class="value" href="https://www.crunchbase.com/organization/switchedon?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">... See More</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Seamster.io"><a href="https://www.crunchbase.com/organization/seamster-io?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Seamster.io</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$15K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/lincoln/a0f4618858475854bcaa4f60856bbb33?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Lincoln, Nebraska																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/software/c08b5441a05b9777b7a6012728caddd9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Software</a>, <a href="https://www.crunchbase.com/category/information-technology/dbca89faf0835438b4add3fdeceb78e7?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Information Technology</a>, <a href="https://www.crunchbase.com/category/information-services/f579213a60af8bb3309b1d80607ad2a9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Information Services</a>, <a href="https://www.crunchbase.com/category/internet/2772a539e63609dc30dcb1a7deb98d0e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Internet</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Comp’d"><a href="https://www.crunchbase.com/organization/comp-d--omaha?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Comp’d</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$15K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">Not available</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/subscription-businesses/e5c4eaf5d207501cbff9e36fd602a475?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Subscription Businesses</a>, <a href="https://www.crunchbase.com/category/event-management/917e01dbe156b8f9507fae9b76ecfc48?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Event Management</a>, <a href="https://www.crunchbase.com/category/events/d4a7bfe659edae17e0431a7415745a0e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Events</a>, <a href="https://www.crunchbase.com/category/entertainment/16b2c0f50411552a836dd1f4d644c9c9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Entertainment</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Grabicon"><a href="https://www.crunchbase.com/organization/grabicon--lincoln?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Grabicon</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$15K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">Not available</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/services/d237b69050a31326264a134e13d66c31?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Services</a>, <a href="https://www.crunchbase.com/category/internet/2772a539e63609dc30dcb1a7deb98d0e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Internet</a>, <a href="https://www.crunchbase.com/category/software/c08b5441a05b9777b7a6012728caddd9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Software</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Intellifarm"><a href="https://www.crunchbase.com/organization/intellifarm?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Intellifarm</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$15K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/kansas-city/8587d2f71ba80306e69df3643e2c5286?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Kansas City, Missouri																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/agriculture/6a733ac8b79ce2d255b9cc3d66435eb6?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Agriculture</a>, <a href="https://www.crunchbase.com/category/farmers-market/8a3ae13eac51475931a5c578e6c1e31c?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Farmers Market</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="MyBlock"><a href="https://www.crunchbase.com/organization/myblock?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">MyBlock</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$15K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">Not available</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/software/c08b5441a05b9777b7a6012728caddd9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Software</a>, <a href="https://www.crunchbase.com/category/apps/af3332489c7e50c5168ae91b86595a17?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Apps</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="BioRestorative Therapies"><a href="https://www.crunchbase.com/organization/biorestorative-therapies?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">BioRestorative Therapies</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$4.3M																					</span>
+										<span class="value">Venture</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/jupiter/a5660e1c2e8610b46c7125f40a9eaba2?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Jupiter, Florida																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/hardware-+-software/6826312c814aadc750ab9de1e9bd1999?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Hardware + Software</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="BlueVox"><a href="https://www.crunchbase.com/organization/bluevox?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">BlueVox</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$410K																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/henderson/0a5dee0af34202df99a3fac695efa34c?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Henderson, Nevada																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/telecommunications/e12cc7ded276007e7d89bdf3f8d1ffe7?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Telecommunications</a>, <a href="https://www.crunchbase.com/category/information-services/f579213a60af8bb3309b1d80607ad2a9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Information Services</a>, <a href="https://www.crunchbase.com/category/mobile/e907cf2a842d8a30a0b107d9de4a8178?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Mobile</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+																					<span class="value">Not available</span>
+																			</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Smule"><a href="https://www.crunchbase.com/organization/smule?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Smule</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$26M																					</span>
+										<span class="value">Series F</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/san-francisco/528f5e3c90d111115d1c2e4ff979d58e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									San Francisco, California																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/music/d922c0063ba0537aedb5379ca5767662?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Music</a>, <a href="https://www.crunchbase.com/category/audio/05e1d0a1c34dcf1ac6865a6466a8151b?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Audio</a>, <a href="https://www.crunchbase.com/category/mobile/e907cf2a842d8a30a0b107d9de4a8178?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Mobile</a>, <a href="https://www.crunchbase.com/category/iphone/544ed5a54765c73789cc99093a2655d8?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">iPhone</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/bessemer-venture-partners?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Bessemer Venture Partners</a>, <a href="https://www.crunchbase.com/organization/shasta-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Shasta Ventures</a>, <a href="https://www.crunchbase.com/organization/adams-street-partners?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Adams Street Partners</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="3D Robotics"><a href="https://www.crunchbase.com/organization/3d-robotics?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">3D Robotics</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$14M																					</span>
+										<span class="value">Series C</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/san-diego/5e6c021255e24524d10eb2c35a241086?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									San Diego, California																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/manufacturing/e811671c168d1fd236e5df4e08a09f7c?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Manufacturing</a>, <a href="https://www.crunchbase.com/category/drones/1fec33a7163f88a97e5c8967fee59a1e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Drones</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/atlantic-bridge?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Atlantic Bridge</a>, <a href="https://www.crunchbase.com/organization/westsummit-capital-management?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">WestSummit Capital</a>, <a href="https://www.crunchbase.com/organization/sandisk-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">SanDisk Ventures</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Operator"><a href="https://www.crunchbase.com/organization/operator-2?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Operator</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$10M																					</span>
+										<span class="value">Series A</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/san-francisco/528f5e3c90d111115d1c2e4ff979d58e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									San Francisco, California																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/search/0d39287e5b1377a6970274294daded43?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Search</a>, <a href="https://www.crunchbase.com/category/e-commerce-platforms/c2ddf939d1f3bd05c43622c0f3cdcb4b?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">E-Commerce Platforms</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/greylock?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Greylock Partners</a>, <a href="https://www.crunchbase.com/organization/expa?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Expa</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Chemayi"><a href="https://www.crunchbase.com/organization/chemayi?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Chemayi</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$20M																					</span>
+										<span class="value">Series A</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/beijing/eba5ce9038f133a7a84380a2bca2a4a1?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Beijing, Beijing																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/curated-web/c87f19a05bd9c7c6e379ca118f49aa4e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Curated Web</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/morningside-group?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Morningside Group</a>, <a href="https://www.crunchbase.com/organization/keytone-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Keytone Ventures</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Coverfox Insurance Broking"><a href="https://www.crunchbase.com/organization/coverfox-insurance-broking?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Coverfox Insurance Broking</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$12M																					</span>
+										<span class="value">Series B</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/mumbai/08cc18c484551e1a38710c5e64cfacc7?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Mumbai, Maharashtra																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/insurance/b8ca872c983df8dd36392660511203ef?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Insurance</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/accel-partners?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Accel Partners</a>, <a href="https://www.crunchbase.com/organization/saif-partners?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">SAIF Partners</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Dealerdirect"><a href="https://www.crunchbase.com/organization/dealerdirect?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Dealerdirect</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							8.0M EUR																					</span>
+										<span class="value">Venture</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/enschede/de76cfc2282f30fe0bf0f2aac6d58cad?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Enschede, Overijssel																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/automotive/bb2ad65f1009db81c6f683dbcfd64870?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Automotive</a>, <a href="https://www.crunchbase.com/category/e-commerce/275ddcbc27deff4f4e506dc26ebf9570?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">E-Commerce</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/rocket-internet?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Rocket Internet</a>, <a href="https://www.crunchbase.com/organization/prime-technology-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Prime Ventures</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="SureCash"><a href="https://www.crunchbase.com/organization/surecash?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">SureCash</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$7.0M																					</span>
+										<span class="value">Series B</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/dhaka/83371dff4a57334249f764ee4befeb0b?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Dhaka, Dhaka																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/financial-services/90b4194f1d4fff5cd7a66b6f32ae4892?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Financial Services</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/the-osiris-group?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">The Osiris Group</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="PATHAR INC"><a href="https://www.crunchbase.com/organization/pathar?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">PATHAR INC</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$6.5M																					</span>
+										<span class="value">Series A</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/colorado-springs/70b9bcf2bd4eb8a98da9ba60a7b60ffa?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Colorado Springs, Colorado																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/software/c08b5441a05b9777b7a6012728caddd9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Software</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/oca-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">OCA Ventures</a>, <a href="https://www.crunchbase.com/organization/angel-investors-lp?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Angel Investors LP</a>, <a href="https://www.crunchbase.com/organization/woodside-o-brien?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Woodside O&#039;Brien</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Diandao"><a href="https://www.crunchbase.com/organization/diandao?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Diandao</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$5.0M																					</span>
+										<span class="value">Series A</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/beijing/eba5ce9038f133a7a84380a2bca2a4a1?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Beijing, Beijing																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+																					<span class="value">Not available</span>
+																			</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/banyan-capital-partners?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Banyan Capital Partners</a>, <a href="https://www.crunchbase.com/organization/58daojia?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">58Daojia</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="IMMUNIO"><a href="https://www.crunchbase.com/organization/immunio?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">IMMUNIO</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$2.7M																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/montréal/9496c0dd5d97eaf1fde0ee6ad6b41f48?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Montréal, Quebec																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/network-security/05ce599519d07c15f4c719fb5c641c33?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Network Security</a>, <a href="https://www.crunchbase.com/category/it-and-cybersecurity/2a6133d96f680778b10626703abacfce?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">IT and Cybersecurity</a>, <a href="https://www.crunchbase.com/category/information-security/c0462273f14525bb56e22a4c68f8e157?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Information Security</a>, <a href="https://www.crunchbase.com/category/security/4c6005cd347635d2ceabb7d4f1d89e8b?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Security</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/real-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Real Ventures</a>, <a href="https://www.crunchbase.com/organization/bloomberg-beta?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Bloomberg Beta</a>, <a href="https://www.crunchbase.com/organization/hoxton-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Hoxton Ventures</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Datical"><a href="https://www.crunchbase.com/organization/datical?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Datical</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$2.2M																					</span>
+										<span class="value">Series A</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/austin/05f9cee2453ec12f243859f21246783e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Austin, Texas																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/software/c08b5441a05b9777b7a6012728caddd9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Software</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/austin-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Austin Ventures</a>, <a href="https://www.crunchbase.com/organization/mercury-fund?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Mercury Fund</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="BiBOARD"><a href="https://www.crunchbase.com/organization/biboard?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">BiBOARD</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							2.0M EUR																					</span>
+										<span class="value">Venture</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/grenoble/80628d2c5273b12513f3d2245ad27876?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Grenoble, Rhone-Alpes																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/software/c08b5441a05b9777b7a6012728caddd9?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Software</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/sigma-gestion?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Sigma Gestion</a>, <a href="https://www.crunchbase.com/organization/rhne-alpes-cration?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Rhône Alpes Création</a>, <a href="https://www.crunchbase.com/organization/expansinvest?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Expansinvest</a>, <a href="https://www.crunchbase.com/organization/entrepreneurs-factory?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Entrepreneurs Factory</a> <a class="value" href="https://www.crunchbase.com/organization/biboard?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">... See More</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Ferris"><a href="https://www.crunchbase.com/organization/ferris?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Ferris</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$2.0M																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/santa-monica/f38eecd93079f0404849ef0d7d2023a6?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Santa Monica, California																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/video/c6adf8227fa3c0b35188556e08d72128?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Video</a>, <a href="https://www.crunchbase.com/category/video-on-demand/e5445f23204d6d7953092c17f1e66d78?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Video on Demand</a>, <a href="https://www.crunchbase.com/category/apps/af3332489c7e50c5168ae91b86595a17?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Apps</a>, <a href="https://www.crunchbase.com/category/mobile/e907cf2a842d8a30a0b107d9de4a8178?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Mobile</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/upfront-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Upfront Ventures</a>, <a href="https://www.crunchbase.com/organization/daher-capital?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Daher Capital</a>, <a href="https://www.crunchbase.com/person/tim-sanders?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Tim Sanders</a>, <a href="https://www.crunchbase.com/person/jeff-dachis?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Jeff Dachis</a>, <a href="https://www.crunchbase.com/person/allen-debevoise-2?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Allen DeBevoise</a> <a class="value" href="https://www.crunchbase.com/organization/ferris?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">... See More</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="iContainers"><a href="https://www.crunchbase.com/organization/icontainers?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">iContainers</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$1.4M																					</span>
+										<span class="value">Series B</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/barcelona/eead2c0cb178ad334e6d6c813c955e99?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Barcelona, Catalonia																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/trading/80517ad68d5dd55ab779ab45472d07fd?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Trading</a>, <a href="https://www.crunchbase.com/category/shipping/216f5e42a641b0f3270ac9d698604f40?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Shipping</a>, <a href="https://www.crunchbase.com/category/public-transportation/404d4762e5b61721c0456b0556619e73?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Public Transportation</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/kibo-ventures?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Kibo Ventures</a>, <a href="https://www.crunchbase.com/organization/vitaminak?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">VitaminaK</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Dash Robotics"><a href="https://www.crunchbase.com/organization/dash-robotics?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Dash Robotics</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$1.4M																					</span>
+										<span class="value">Seed</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/berkeley/d340d6cb72d4da97d841b637ba12f8c5?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									Berkeley, California																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/hardware-+-software/6826312c814aadc750ab9de1e9bd1999?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Hardware + Software</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/ironfire-capital?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Ironfire Capital</a>									</li>
+								</ul>
+							</div>
+						</li>
+																																																						
+																						<li>
+							<div class="data-card">
+								<h4 class="card-title" title="Samba Ads"><a href="https://www.crunchbase.com/organization/samba-ads?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">Samba Ads</a></h4>
+								<ul class="card-info">
+									<li class="full">
+										<span class="value larger">
+																							$1.0M																					</span>
+										<span class="value">Series A</span>
+									</li>
+									<li class="full">
+										<span class="key">HQ:</span>
+																					<span class="value">
+																								<a href="https://www.crunchbase.com/location/são-paulo/f8a963b5dd72cf5241d7819da740ac5e?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" target="_blank">
+																									São Paulo, Alagoas																								</a>
+																							</span>
+																			</li>
+									<li class="full">
+										<span class="key">Categories:</span>
+										<a href="https://www.crunchbase.com/category/advertising/6cb685372de1b0412ee5451ff81bccab?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Advertising</a>, <a href="https://www.crunchbase.com/category/video/c6adf8227fa3c0b35188556e08d72128?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Video</a>, <a href="https://www.crunchbase.com/category/technology/a596ac1954dc8da4ff04aad8d0861082?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Technology</a>, <a href="https://www.crunchbase.com/category/content-syndication/f544c5627d7f01841344ce30946b60e3?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Content Syndication</a>									</li>
+									<li class="full investors">
+										<span class="key">Investors:</span>
+										<a href="https://www.crunchbase.com/organization/500-startups?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">500 Startups</a>, <a href="https://www.crunchbase.com/organization/rhodium?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Rhodium</a>, <a href="https://www.crunchbase.com/organization/initial-capital?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">Initial Capital</a>, <a href="https://www.crunchbase.com/organization/e-bricks-digital?utm_source=tc_river&#038;utm_medium=export&#038;utm_campaign=dataset" class="value" target="_blank">e.Bricks Digital</a>									</li>
+								</ul>
+							</div>
+						</li>
+											</ul>
+				</div>
+			</div>
+			<!-- end .carousel-horizontal -->
+			<a href="https://crunchbase.com/funding-rounds" class="more-fundings cf right text-btn" target="_blank">All recent fundings</a>
+		</div>
+	</section>
+</div>
+		</div>
+	</div>
+
+</div>
+
+<div class="feature-island-container">
+	<div class="ad-cluster-container ad-cluster-no-ad" style="display: none;">
+	<small class="advertise-here"><a href="http://techcrunch.com/advertise/" title="Advertise on TechCrunch">Advertisement</a></small>
+	<ul class="ad-cluster-6" data-adcount="6">
+	</ul>
+</div></div>
+<!-- Begin Footer -->
+<footer class="footer" role="contentinfo">
+	<div class="footer-content">
+
+		<!-- Begin Primary Nav (Footer) -->
+		<nav class="nav-footer">
+			<h4 class="footer-logo"><a href="/" rel="home">TechCrunch</a></h4>
+
+			<div class="g g-3up g-nogutter">
+
+				<!-- Begin TechCrunch Column -->
+				<div class="gi">
+					<h4 class="footer-logo-crunch-network"><img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/crunch-network.jpg"/></h4>
+					<div>
+						<ul class="footer-links-about"><li id="menu-item-899764" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-899764"><a href="http://techcrunch.com/">News</a></li>
+<li id="menu-item-899765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899765"><a href="http://techcrunch.com/video/">TCTV</a></li>
+<li id="menu-item-899766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899766"><a href="http://techcrunch.com/events/">Events</a></li>
+<li id="menu-item-899767" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899767"><a href="http://www.crunchbase.com">CrunchBase</a></li>
+</ul>
+					</div>
+				</div>
+				<!-- End TechCrunch Column -->
+
+				<!-- Begin About Column -->
+				<div class="gi">
+					<h4>About</h4>
+					<div>
+						<ul class="footer-links-about"><li id="menu-item-899768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899768"><a href="http://techcrunch.com/about/">Staff</a></li>
+<li id="menu-item-899769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899769"><a href="http://techcrunch.com/contact/">Contact Us</a></li>
+<li id="menu-item-899770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899770"><a href="http://techcrunch.com/advertise/">Advertise With Us</a></li>
+<li id="menu-item-899771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899771"><a href="http://techcrunch.com/got-a-tip/">Send Us A Tip</a></li>
+</ul>
+					</div>
+				</div>
+				<!-- End About Column -->
+
+				<!-- Begin International Column -->
+				<div class="gi">
+					<h4>International</h4>
+					<div>
+						<ul class="footer-links-about"><li id="menu-item-899772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899772"><a href="http://techcrunch.cn/">China</a></li>
+<li id="menu-item-899773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-899773"><a href="http://techcrunch.com/europe/">Europe</a></li>
+<li id="menu-item-899774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899774"><a href="http://jp.techcrunch.com/">Japan</a></li>
+</ul>
+					</div>
+				</div>
+				<!-- End International Column -->
+
+			</div>
+		</nav>
+		<!-- End Primary Nav (Footer) -->
+
+		<!-- Begin Secondary Nav (Footer) -->
+		<div class="footer-follow g g-3up">
+
+			<!-- Begin Social Column -->
+			<div class="gi">
+				<div class="footer-social">
+					<h3>Follow TechCrunch</h3>
+					<ul class="inline-list social-list sprite-social">
+						<li><a href="https://www.facebook.com/techcrunch" rel="external" class="spricon nosprite dark icon-facebook" target="_blank"><span class="is-vishidden">Facebook</span></a></li>
+						<li><a href="https://twitter.com/techcrunch" rel="external" class="spricon nosprite dark icon-twitter" target="_blank"><span class="is-vishidden">Twitter</span></a></li>
+						<li><a href="https://plus.google.com/+TechCrunch" rel="external" class="spricon nosprite dark icon-google-plus" target="_blank"><span class="is-vishidden">Google+</span></a></li>
+						<li><a href="http://www.linkedin.com/company/techcrunch" rel="external" class="spricon nosprite dark icon-linkedin" target="_blank"><span class="is-vishidden">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com/user/techcrunch" rel="external" class="spricon nosprite dark icon-youtube" target="_blank"><span class="is-vishidden">Youtube</span></a></li>
+						<li><a href="http://pinterest.com/techcrunch/" rel="external" class="spricon nosprite dark icon-pinterest" target="_blank"><span class="is-vishidden">Pinterest</span></a></li>
+						<li><a href="http://techcrunch.tumblr.com/" rel="external" class="spricon i-tumblr" target="_blank"><span class="is-vishidden">Tumblr</span></a></li>
+						<li><a href="http://instagram.com/techcrunch" rel="external" class="spricon i-instagram" target="_blank"><span class="is-vishidden">Instagram</span></a></li>
+						<li><a href="http://www.stumbleupon.com/channel/techcrunch/" rel="external" class="spricon nosprite dark icon-stumbleupon" target="_blank"><span class="is-vishidden">StumbleUpon</span></a></li>
+						<li><a href="/rssfeeds/" rel="external" class="spricon nosprite dark icon-rss"><span class="is-vishidden">Feed</span></a></li>
+					</ul>
+				</div>
+			</div>
+			<!-- End Social Column -->
+
+			<!-- Begin TC Apps Column -->
+			<div class="gi">
+				<h3>TechCrunch Apps</h3>
+				<ul class="inline-list social-list sprite-social">
+					<li><a href="https://itunes.apple.com/us/app/techcrunch/id526058642?mt=8" class="spricon i-apple" rel="external" target="_blank"><span class="is-vishidden">iOS</span></a></li>
+					<li><a href="https://play.google.com/store/apps/details?id=com.aol.mobile.techcrunch" class="spricon i-android" rel="external" target="_blank"><span class="is-vishidden">Android</span></a></li>
+					<li><a href="http://apps.microsoft.com/windows/en-US/app/techcrunch-the-inside-story/e1127f3e-b8da-4939-9778-0a4e3a51d2d9" class="spricon i-windows" target="_blank"><span class="is-vishidden">Windows 8</span></a></li>
+				</ul>
+			</div>
+			<!-- End TC Apps Column -->
+
+			<!-- Begin Subscribe Column -->
+			<div class="gi">
+				
+<h3 class="section-title aside-adjacent"><span class="no-mobile">Subscribe to </span>TechCrunch Daily</h3 >
+<div class="">
+	<p class="crunchdaily-tagline">Latest headlines delivered to you daily</p>
+	<div class="newsletter newsletter-side-bar-crunchdaily">
+		<form method="post" class="inline-form form-newsletters crunchdaily-newsletter" data-crunchlist="crunchdaily" action="http://link.techcrunch.com/s/Readership" data-nonce="be7ae2f9fa">
+			<input type="checkbox" name="crunchdaily" checked="checked" class="is-hidden">
+			<fieldset>
+				<legend>Subscribe to &lt;span class=&quot;no-mobile&quot;&gt;Subscribe to &lt;/span&gt;TechCrunch Daily</legend>
+				<label class="is-vishidden">Enter Email Address</label>
+				<input type="email" name="email" placeholder="Enter Email Address">
+				<button type="submit" class="newsletter-submit">Subscribe</button>
+			</fieldset>
+		</form>
+	</div>
+</div>			</div>
+			<!-- End Subscribe Column -->
+
+		</div>
+		<!-- End Secondary Nav (Footer) -->
+
+		<!-- Begin Copyright -->
+		<div class="footer-meta-nav g g-1up">
+			<div class="copyright gi">
+				<span class="footer-section">
+					&copy; 2013-2015 AOL Inc. All rights reserved.
+				</span>
+				<span class="footer-section">
+					<a href="http://www.aoltech.com/" rel="external">Aol Tech</a>
+					<a href="http://privacy.aol.com/">Privacy Policy</a>
+					<a href="http://adinfo.aol.com/about-our-ads">About Our Ads</a>
+					<a href="/anti-harassment-policy/">Anti Harassment Policy</a>
+					<a href="http://legal.aol.com/TOS/">Terms of Service</a>
+				</span>
+				<span class="footer-section">
+					<div class="vip-shoutout-container">Powered by <a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></div>
+				</span>
+				<span class="footer-section">
+					<div class="webtype-shout-out">Fonts by <a href="http://www.webtype.com/" rel="external" style="padding:0;" target="_blank"><img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png" data-src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/webtype_footer_link.png" alt="<Webtype>" /></a></div>
+				</span>
+			</div>
+		</div>
+		<!-- End Copyright -->
+
+	</div>
+</footer>
+
+<!--[if lte IE 9 ]>
+    <script src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/js/placeMe-1.0.js"></script>
+<![endif]-->
+<!--[if lte IE 8 ]>
+	<script src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/js/ie8.js"></script>
+<![endif]-->
+
+<!-- wpcom_wp_footer -->
+<noscript><img src="http://b.scorecardresearch.com/b?c1=2&c2=6036210&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="height:0;width:0;visibility:hidden" /></noscript><img src="http://leadback.advertising.com/adcedge/lb?site=695501&srvc=1&betr=22708=580803[720]" width="1" height="1" border="0" /><script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201517x'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/js/devicepx.js?m=1429298047g'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PushUpNotificationSettings = {"domain":"https:\/\/tctechcrunch2011.wordpress.com","userID":"271","websitePushID":"web.com.wordpress.tctechcrunch2011","webServiceURL":"https:\/\/push.10up.com","prompt":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"1","is_single":"0","is_front_page":"1","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TC_VideoLoader_Settings = {"yt_key":"AIzaSyBhsoyL5FHDdWDh-w7DgTTHaC8PS2dvFdI"};
+var TC_Language_Settings = {"ajax_url":{"chinese":"http:\/\/techcrunch.com\/chinesemodal"},"chinese":["zh","zh-hk","zh-cn","zh-sg","zh-tw"],"english":["en","en-au","en-bz","en-ca","en-ie","en-jm","en-nz","en-ph","en-za","en-tt","en-gb","en-us","en-zw"],"japanese":["ja"]};
+var TC_Async_Scripts = {"tc_livefyre":"http:\/\/zor.livefyre.com\/wjs\/v1.0\/javascripts\/CommentCount.js","tc_gravity":"http:\/\/cdn.insights.gravity.com\/moth-min.js","commscore":"http:\/\/b.scorecardresearch.com\/beacon.js","aol_universal_navbar":"https:\/\/s.aolcdn.com\/os\/aol\/unb.min.js","tc_adsonar":"http:\/\/js.adsonar.com\/js\/aslJSON.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVjcsKwjAQRX/IOPah6EL8ljQdmonNGDKTFv9eKhY3UnB34XLOgTkZ92BFVojFpLEMxAI6kypm043W3TvKvUmEkJB74mEfZAf/cIwT5t+seowoMFGC1ZGK+JIgrGsfiTeStVng8HYYy3Z8KjnZ6Cg673Jh5019qBqwIqiyGL7Pp3mL16qtz6dL3Rzb8ALRRG79'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?46" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'24588526','blog_tz':'-7','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'24588526','v':'wpcom','tz':'-7','user_id':'0','subd':'tctechcrunch2011'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=24588526&v=wpcomvt&tz=-7&user_id=0&subd=tctechcrunch2011&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdETWI1alhvb1oseHImN101ZFpEakVpYjlQYVFLYzBaVHRtPz0wXS9bUV05fk9JPTFfdlhyYStyZUstX2w4fj1dNE1KNl9LMyZ+LnppTT0sLEVqaWEmU116VDhOZyY4LXIwWTFyOHZxdS1WSHxLVEkyY3BuMDFdYWEzbEJDYT1hVytLPXl5MHQuQV9SdWJNQz1mMm05Lj0mbGZMODRFTWJbeXNHY3FxRUQ/SEcmWEI/dkxwSzFIPWdpQi9lRHZ2flJmSDY='}]);
+_stq.push([ 'clickTrackerInit', '24588526', '0' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><!--Page generated in 0.6154 seconds.-->
+</body>
+</html>
+<!--
+	generated 167 seconds ago
+	generated in 0.664 seconds
+	served from batcache in 0.003 seconds
+	expires in 133 seconds
+-->

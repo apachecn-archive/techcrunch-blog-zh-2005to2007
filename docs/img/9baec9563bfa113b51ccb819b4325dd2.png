@@ -1,0 +1,374 @@
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+
+
+
+
+
+
+
+<head>
+<META NAME="page" CONTENT="main.jsp">
+<title>ShoZu</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<LINK REL="StyleSheet" HREF="include/main.css" TYPE="text/css">
+<SCRIPT src="include/main.js" type="text/javascript"></SCRIPT>
+</head>
+<script>
+<!--
+//This makes sure this frame can only appear in the top.
+if(top!=self)
+top.location.href=self.location.href;
+//-->
+</script>
+
+<body style="background-image: url(http://www.shozu.com/resources/portal/default/images/misc/background_page.jpg); background-repeat: repeat-x">
+<table class="fullheight fullwidth">
+
+<!--prevent page bouncing around during shuffle on firefox-->
+<tr style="height:0%">
+  <td width="5%"><img src="http://www.shozu.com/resources/portal/default/images/misc/spacer.gif" width="1px" height="1px"/></td>
+  <td align="center" width="742px"><img src="http://www.shozu.com/resources/portal/default/images/misc/spacer.gif" width="1px" height="1px"/></td>
+  <td width="5%"><img src="http://www.shozu.com/resources/portal/default/images/misc/spacer.gif" width="1px" height="1px"/></td>
+</tr>
+<!-- -->
+
+<tr style="height:100%">
+  <td width="5%"><img src="http://www.shozu.com/resources/portal/default/images/misc/spacer.gif" width="1px" height="1px"/></td>
+  <td width="90%" valign="top" align="center">
+    <!--START MIDDLE-COLUMN-->
+    <table class="fullheight" width="742px" cellpadding="0" cellspacing="0" bgcolor="white">
+
+        <tr>
+          <td valign="top" align="center">
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+function addBCrumbs(link, msg, includeBottom) {
+  if(null == msg || "" == msg){
+    return;
+  }
+  var bcrumbs = document.getElementById('bcrumbs');
+  var existingText = bcrumbs.innerHTML;
+  if(existingText==null || existingText=="" || trim(existingText)==""){
+    
+      existingText = '<a href="index.do">Home</a>';
+    
+  }
+  if(null == link || "" == link || "" == trim(link)){
+    existingText += '&nbsp;&gt;&nbsp;<b>'+msg+'</b>';
+  }else{
+    existingText += '&nbsp;&gt;&nbsp;<a href="'+link+'">'+msg+'</a>';
+  }
+  bcrumbs.innerHTML = existingText;
+
+  if(includeBottom) {
+      addBCrumbsBottom(link, msg);
+  }
+}
+//empty the
+function resetBCrumbs() {
+  document.getElementById('bcrumbs').innerHTML = "";
+}
+
+var bcrumbsBottomContent = null; 
+function addBCrumbsBottom(link, msg) {
+  if(null == msg || "" == msg || null == link || "" == link){
+    return;
+  }
+  if(bcrumbsBottomContent==null || bcrumbsBottomContent=="" || trim(bcrumbsBottomContent)==""){
+      bcrumbsBottomContent = '<b>Back to:</b> ';
+  } else {
+      bcrumbsBottomContent += " | ";
+  }
+  bcrumbsBottomContent += '<a href="'+link+'"><strong>'+msg+'</strong></a>';
+}
+
+function trim(s){
+  return s.replace(/^\s*|\s*$/g,"");
+}
+//-->
+</script>
+
+            <!--START HEADER/CONTENT TABLE-->
+            <table class="fullheight" width="742px" cellpadding="0" cellspacing="0">
+
+              
+
+              
+              <tr>
+                <td valign="top">
+                  <!--START HEADER-->
+                  
+
+
+
+
+
+
+
+<!-- begin header-->
+<table class="fullwidth" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="padleft" align="left">
+       <a href='index.do?operation=home'
+          title='ShoZu'
+       ><img src="http://www.shozu.com/resources/portal/default/images/logo.gif" border="0" /></a>
+    </td>
+
+    <td class="padright valignmiddle" align="right">
+      
+            <b><a target="_blank" href="http://forum.shozu.com">forum</a></b> |
+      
+            <b><a href="/resources/portal/support/en" target="_new">help</a></b> |
+        <b><a href="main.do?operation=feedback">contact</a></b>
+    </td>
+
+    <!--curvey corner-->
+    <td class="valigntop" align="right">
+      <img src="http://www.shozu.com/resources/portal/default/images/misc/corner_topright.gif" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="3" valign="bottom" align="center">
+
+      <!--begin tabs-->
+      <table class="padtop" width="650px" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td align="left" colspan="3" class="nudgeleft small" id="bcrumbs">
+            </td>
+          </tr>
+
+        <tr>
+
+          <td class="padtop nudgeright valignbottom">
+            <a href="tour.do?operation=imagesharing">
+            <img src ="http://www.shozu.com/resources/portal/default/images/tour/sharing_tab.gif" alt ="Share-It" /><br/>
+            </a>
+          </td>
+
+          <td class="nudgeright valignbottom">
+            <a href="tour.do?operation=pmedia">
+            <img src ="http://www.shozu.com/resources/portal/default/images/tour/pmedia_tab.gif" alt ="ZuCast" /><br/>
+            </a>
+          </td>
+
+          <td class="fullwidth alignright">
+            
+            
+                <span id="signin_instruction">
+                    Existing members:
+                    <b><a href="account.do">sign-in</a></b>
+                </span>
+            
+          </td>
+
+        </tr>
+
+      </table>
+      <!--end tabs-->
+
+
+    </td>
+  </tr>
+</table>
+<!-- end header-->
+
+                  <!--END HEADER-->
+                </td>
+              </tr>
+              
+
+            
+              <tr>
+                <td valign="top" align="center">
+                  <!--START SUBTITLE-->
+                  <table class="subtitlebar" width="650px" cellspacing="0" >
+                    <tr>
+                      <td class="fullwidth">
+                        
+                        
+                        <span id="title" class="padleft subtitlebar"></span>
+                        
+                      </td>
+
+                    
+                    
+                      <td class="valignbottom alignright">
+                            
+                            <img src="http://www.shozu.com/resources/portal/default/images/titlebar/titlebar_image_sharing.gif" alt="Title image" />
+                           
+                      </td>
+                    
+
+                    </tr>
+                  </table>
+                  <!--END SUBTITLE-->
+                </td>
+              </tr>
+            
+
+              <tr>
+                <td valign="top" class="fullheight" align="center">
+                  <!--START CONTENT-->
+                  <table class="fullheight" width="650px" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td valign="top">
+                        
+
+
+
+<script language="javaScript">document.getElementById("title").innerHTML = 'That page does not exist on our servers.'</script>
+
+
+  <meta http-equiv="refresh" content="10;url=index.do">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td valign="top" class="errortext">
+    The page you have requested is not present on our servers. <br />It may no longer exist or may have been moved.
+  </td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td valign="top" class="errortext">
+	
+	
+	  	Please <a href="index.do">click here</a> to return to our front page if you are not redirected there within 10 seconds.
+	
+  </td>
+</tr>
+</table>
+
+                    </td>
+                  </tr>
+                  </table>
+                  <!--END CONTENT-->
+                </td>
+              </tr>
+
+                <tr>
+                  <td valign="top" class="fullheight" align="center">
+                    <table class="fullheight" width="650px" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td id="bcrumbsBottom"></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+
+            </table>
+            <!--END HEADER/CONTENT TABLE-->
+
+
+<script type="text/javascript" language="javascript">
+<!--
+    if(bcrumbsBottomContent!=null && bcrumbsBottomContent!="" && trim(bcrumbsBottomContent)!=""){
+        var bcrumbsBottom = document.getElementById('bcrumbsBottom');
+        bcrumbsBottom.innerHTML = bcrumbsBottomContent;
+    }
+//-->
+</script>
+
+
+
+
+
+
+
+
+	<!--End table started by main_top-->
+          </td>
+    	</tr>
+
+      	<!--START FOOTER-->
+    	<tr>
+          <td valign="bottom" align="center">
+            
+
+
+
+<SCRIPT src="include/main.js" type="text/javascript"></SCRIPT>
+<table width="742px">
+<tr>
+<td align="left" valign="middle" nowrap="nowrap">
+  <span class='footer'>Copyright &copy; 2006 ShoZu. All rights reserved.&nbsp;</span>
+  <span class='footerlink'><a href="javascript:showTC();">User Agreement.</a></span>
+  <span class='footerlink'><a href="javascript:showPrivPol();">Privacy.</a></span>
+  <span class='footerlink'><a href="http://www.shozu.com/AboutUs" target="_new">About us.</a></span>
+</td>
+</tr>
+</table>
+<script language="javascript">
+function showTC() {
+  cogpop_scrollable(500, 500, 'tandc', '/resources/portal/support/en/tandc/index.html');
+}
+function showPrivPol() {
+  cogpop_scrollable(500, 500, 'privpol', '/resources/portal/support/en/privacy/index.html');
+}
+</script>
+
+          </td>
+    	</tr>
+        <!--END FOOTER-->
+
+    </table>
+    <!--END MIDDLE COLUMN-->
+  </td>
+  <td width="5%"><img src="http://www.shozu.com/resources/portal/default/images/misc/spacer.gif" width="1px" height="1px"/></td>
+  </tr>
+</table>
+
+
+
+		
+
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+			_uacct = 'UA-609958-1';
+
+			
+			var shozuPage = '';
+			if(shozuPage.length == 0) {
+				var titleControl = document.getElementById("title");
+				if(titleControl != null && titleControl.innerHTML != null) {
+					shozuPage = titleControl.innerHTML;
+				}
+			}
+			if(shozuPage.length == 0) {
+				shozuPage = document.URL;
+			}
+
+			
+			urchinTracker(shozuPage);
+
+			
+			
+		</script>
+
+	
+
+
+</body>
+
+</html>

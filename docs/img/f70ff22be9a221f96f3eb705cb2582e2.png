@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr-FR">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Page non trouvée - lebloggadget</title>
+
+<script type="text/javascript"> sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1; function SmartAdServer(sas_pageid,sas_formatid,sas_target) {  if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};  document.write('<scr'+'ipt src="http://www3.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>'); } </script> 
+		 
+
+
+<!--Stylesheets-->
+<link rel="stylesheet" href="http://www.lebloggadget.com/wp-content/themes/Backstreet/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="http://www.lebloggadget.com/wp-content/themes/Backstreet/css/text.css" type="text/css" />
+<link rel="stylesheet" href="http://www.lebloggadget.com/wp-content/themes/Backstreet/css/960.css" type="text/css" />
+<link rel="stylesheet" href="http://www.lebloggadget.com/wp-content/themes/Backstreet/js/colorbox/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="http://www.lebloggadget.com/wp-content/themes/Backstreet/css/prettyPhoto.css" type="text/css" />
+<link rel="stylesheet" href="http://www.lebloggadget.com/wp-content/themes/Backstreet/style.css" type="text/css" />
+<link rel="stylesheet" href="http://www.lebloggadget.com/wp-content/themes/Backstreet/css/nivo-slider.css" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Patua+One|Patua+One|" rel="stylesheet" type="text/css" />
+
+<!--Jquery-->
+
+<!--CSS Options-->
+<style type="text/css" media="screen">
+	body, .magazine-widget .block-small h3, .block-tabs .description h3, .magazine-widget .block-small-noimage h3, .related-post h6, .postForm textarea { font-family: 'Arial'; }
+	.picture_title a, .picture_counter, ul#filter a, ul.tabs-sidebar li a, ul.tabs li a, .postForm .submit, .nav-left, .nav-right, .button a, .pagination, .nivoSlider a, .nivo-caption .date-info, .nivo-caption a, .comment-submit, .title-social, .commenters, .widget-footer-title, .single-title h1, .comment-author .name, .author-title a, .content-title p, .bottomNav a, .title-404 span, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Patua One';
+	}
+	.mainNav a, .bottomNav a { font-family: 'Patua One'; }
+    html {
+        background-color:#6dcff6;
+		    }
+	 body {
+	 			
+    }
+	.current-menu-parent a, .current-menu-item a  { color:#777; }
+	.mainNav li  > ul li a:hover, .error_msg, readmore, a:hover, .single-content ul.tabs li a:hover, .single-content ul.tabs li a.active, h5.toggle a:hover, .nivo-caption a:hover{
+	 	color:#06deff;
+	}
+	.nivo-prevNav:hover { background:#06deff url('http://www.lebloggadget.com/wp-content/themes/Backstreet/images/nivo-left-arrow.png') no-repeat 50% 50%; }
+	.nivo-nextNav:hover { background:#06deff url('http://www.lebloggadget.com/wp-content/themes/Backstreet/images/nivo-right-arrow.png') no-repeat 50% 50%; }
+	.tagcloud a:hover, .reply-comment:hover, .comment-submit:hover, .pagination a:hover, .pagination span.current, .postForm .submit:hover, ul#filter li.current a, ul#filter li a.current, ul#filter a:hover { background:#06deff; }
+	.postForm .error { border: 1px solid #06deff; }
+	.header { position:relative; height:70px; }
+	.top { background:#272625; }
+				.spotlight-title { background:#BA0D16 url('http://www.lebloggadget.com/wp-content/themes/Backstreet/images/side-title-spotlight.png') no-repeat right; }
+	
+</style>
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.1.5 - http://yoast.com/wordpress/seo/ -->
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="lebloggadget &raquo; Flux" href="http://www.lebloggadget.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="lebloggadget &raquo; Flux des commentaires" href="http://www.lebloggadget.com/comments/feed/" />
+<script type='text/javascript' src='http://www.lebloggadget.com/wp-includes/js/jquery/jquery.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.lebloggadget.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.lebloggadget.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.lebloggadget.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+<script src='http://blogs.thesocialmedia.com/?dm=312759056b23756d4c2f7d3e04f7e410&amp;action=load&amp;blogid=34&amp;siteid=1&amp;t=317736761&amp;back=http%3A%2F%2Fwww.lebloggadget.com%2Fimages%2Fheroshot_ipod_white.jpg' type='text/javascript'></script>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.2: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-117700-2']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<script type='text/javascript'>
+jQuery(function() {
+	// Implementation of Nivo Slider
+    jQuery('#slider').nivoSlider({
+		effect: 'slideInLeft',
+		pauseTime: 7000,
+		controlNav: true,
+        directionNav: true,
+        directionNavHide: true,
+		captionOpacity: 0.9	});
+		
+	// PrettyPhoto
+	jQuery("a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'fast',theme:'dark_rounded', autoplay_slideshow: false});
+
+});
+</script>
+
+</head>
+
+<body class="error404">
+<!-- Begin Top -->
+<div class="top">
+	<div class="top-wrap">
+		<!-- Begin Top Navigation -->
+		<div class="top-nav-wrapper">
+					</div>
+		<!-- End Top Navigation -->
+				<!-- Begin Date -->
+		<div class="datetime">
+			Wednesday 22nd January 2014, 			<span id="theTime"></span>
+		</div>
+		<!-- End Date -->
+			</div>
+</div>
+<!-- End Top -->
+<!-- Begin General -->
+<div class="general">
+<!-- Begin Container -->
+<div class="container">
+	<!-- Begin Top Container 960 gs -->
+	<div class="header container_12">
+			<!-- Begin Logo Header -->
+			<div class="grid_4 logo-header">
+								<a href='http://www.lebloggadget.com'><img src="http://blogs.thesocialmedia.com/lebloggadget/files/2012/07/lebloggadget.gif" alt="lebloggadget" /></a>
+			</div>
+
+			<!-- End Logo Header -->	
+			<!-- Begin Header Content -->
+			<div class="grid_8 prefix_4 header-content">
+								
+								<!-- Begin Social Header -->
+				<div class="social-header">
+					<ul>
+																																																											</ul>
+				</div>
+				<!-- End Social Header -->
+					
+				
+			</div>
+			<!-- End Header Content -->
+			
+	</div>
+				<div style="width: 728px; height: 50px; display: block; padding-bottom: 35px; margin: 12px auto;">
+				<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5076202127624280";
+/* Le Blog gadget Leaderboard */
+google_ad_slot = "8842844746";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" 
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>			</div>
+		<!-- End Top Container 960 gs -->
+	<div class="container_12">
+		<!-- Begin Main Navigation -->
+		<div class="grid_12 main-nav-wrapper">
+			<div class="menu-toolbar-container"><ul id="menu-toolbar" class="mainNav"><li id="menu-item-23575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23575"><a href="http://www.lebloggadget.com/category/enfants/">Enfants</a></li>
+<li id="menu-item-23576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23576"><a href="http://www.lebloggadget.com/category/gps/">GPS</a></li>
+<li id="menu-item-23577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23577"><a href="http://www.lebloggadget.com/category/inclassables/">Inclassables</a></li>
+<li id="menu-item-23578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23578"><a href="http://www.lebloggadget.com/category/internet/">Internet</a>
+<ul class="sub-menu">
+	<li id="menu-item-23584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23584"><a href="http://www.lebloggadget.com/category/logiciels/">Logiciels</a></li>
+	<li id="menu-item-23586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23586"><a href="http://www.lebloggadget.com/category/wi-fi/">Wi-Fi</a></li>
+	<li id="menu-item-23585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23585"><a href="http://www.lebloggadget.com/category/peripheriques/">Periphériques</a></li>
+	<li id="menu-item-23583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23583"><a href="http://www.lebloggadget.com/category/bluetooth/">Bluetooth</a></li>
+</ul>
+</li>
+<li id="menu-item-23579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23579"><a href="http://www.lebloggadget.com/category/multimedia/">Multimedia</a></li>
+<li id="menu-item-23580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23580"><a href="http://www.lebloggadget.com/category/music/">Music</a>
+<ul class="sub-menu">
+	<li id="menu-item-23587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23587"><a href="http://www.lebloggadget.com/category/hi-fi/">Hi-Fi</a></li>
+	<li id="menu-item-23588" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23588"><a href="http://www.lebloggadget.com/category/ipod/">Ipod</a></li>
+	<li id="menu-item-23589" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23589"><a href="http://www.lebloggadget.com/category/mp3/">MP3</a></li>
+</ul>
+</li>
+<li id="menu-item-23581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23581"><a href="http://www.lebloggadget.com/category/photo-numerique/">Photo Numérique</a></li>
+<li id="menu-item-23582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23582"><a href="http://www.lebloggadget.com/category/webtech/">Web/Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-23590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23590"><a href="http://www.lebloggadget.com/category/telephonie-mobile/">Téléphonie mobile</a></li>
+	<li id="menu-item-23591" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23591"><a href="http://www.lebloggadget.com/category/television/">Television</a></li>
+	<li id="menu-item-23592" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23592"><a href="http://www.lebloggadget.com/category/tests/">Tests</a></li>
+</ul>
+</li>
+</ul></div>		</div>
+		<!-- End Main Navigation -->
+	</div>
+	<div class="clear"></div>
+	<div class="line-head"></div>
+	<div class="clear"></div>
+			<!-- Begin Spotlight -->
+		<div class="side-corner">
+			<div class="spotlight">
+												<h6 class="spotlight-title"><span><img src="http://www.lebloggadget.com/wp-content/themes/Backstreet/images/star-spotlight.png" height="16" width="15"/></span>A la une</h6>
+				<ul id="ticker">
+																	<li><a href='http://www.lebloggadget.com/2009/11/05/interview-esurdej-les-nouveautes-lg/'>Interview E.Surdej: Les nouveautés LG </a>
+						</li>
+																	<li><a href='http://www.lebloggadget.com/2009/09/14/contacter-les-elus-prohadopi/'>Contacter les élus pro-HADOPI </a>
+						</li>
+																	<li><a href='http://www.lebloggadget.com/2009/09/05/lemulateur-ultimate-arcade-ii-cabinet-mame/'>L&#8217;émulateur Ultimate Arcade II Cabinet MAME </a>
+						</li>
+									</ul>
+					
+			
+						
+				
+				
+							</div>
+		</div>
+		<!--End Spotlight -->
+		
+						<div class="clear"></div>
+	<!-- Begin Bottom Container 960 gs -->
+	<div class="container_12 wrapper">
+					<!-- Begin Content -->
+			<div class="content grid_12" >
+				<h1 class="error404_title"></h1>
+				<div class="clear"></div>
+				<h6 class="error404_text"></h6>
+				<div class="clear"></div>
+				<div class="error404_image" >
+								</div>
+			</div>
+			<!-- End Content -->
+		</div>
+		<!-- End Bottom Container 960 gs -->
+	</div>
+	<!-- End Container -->
+	<div class="clear"></div>
+	<!-- Begin Footer -->
+	<div class="footer">
+		
+		<!-- Begin Footer Widget -->
+		<div class="footer-widget">
+			<div class="container_12">
+				<!-- Begin Widget 1 -->
+				<div class="grid_3">
+									</div>
+				<!-- End Widget 1 -->
+				
+				<!-- Begin Widget 2 -->
+				<div class="grid_3">
+									</div>
+				<!-- End Widget 2 -->
+				
+				<!-- Begin Widget 3 -->
+				<div class="grid_3">
+									</div>
+				<!-- End Widget 3 -->
+				<!-- Begin Widget 4 -->
+				<div class="grid_3">
+									</div>
+				<!-- End Widget 4 -->
+			
+			</div>
+		</div>
+		<!-- End Footer Widget -->
+		
+		<div class="clear"></div>
+		<!-- Begin Footer Bottom -->
+		<div class="footer-bottom" >
+			<div class="container_12">
+			<div class="footer-bottom-wrap grid_12">
+				<!-- Begin Footer Logo -->
+				<div class="logo-bottom grid_4 alpha">
+										<a href='http://www.thesocialmediagroup.com/' target="_blank"><img src="http://blogs.thesocialmedia.com/leblogfinance/files/2012/06/logo_SocialMediaGroup.png" alt="lebloggadget" /></a>
+				</div>
+				<!-- End Footer Logo -->
+				<!-- Begin Footer Text -->
+				<div class="grid_8 alpha">
+					<div class="bottomNav-wrapper">
+											</div>
+					<div class="clear"></div>
+					<div class="credits">
+						<p><table style="align: center">
+<tr>
+<td valign="top" style="width: 150px; padding: 10px; border-right: 1px solid #ffffff; ">
+<h3>Auto / Moto</h3>
+<a href="http://www.leblogauto.com">Le Blog Auto</a>
+<br><a href="http://www.leblogmoto.com">Le Blog Moto</a>
+<br><a href="http://www.dasautoblog.com">Das Auto Blog</a>
+<br><a href="http://www.petrol-head.com">Petrol Head</a>
+<br>
+
+</td>
+
+
+<td valign="top" style="width: 150px; padding: 10px; border-right: 1px solid #d6d6d6; ">
+<h3>Lifestyle </h3>
+<a href="http://www.leblogluxe.com">Le Blog Luxe</a>
+<br><a href="http://www.leblogjardin.com">Le Blog Jardin</a>
+<br><a href="http://www.lebloggadget.com">Le Blog Gadget</a>
+<br><a href="http://www.leblogbebe.com">Le Blog Bébé</a>
+
+<br><a href="http://www.leblogsante.com">Le Blog Santé</a>
+
+
+
+<td valign="top" style="width: 150px; padding: 10px; border-right: 1px solid #666666; ">
+
+<h3>Finances</h3>
+<a href="http://www.leblogfinance.com">Le Blog Finance</a>
+<br><a href="http://www.le-blog-immobilier.com">Le Blog Immobilier</a>
+<br clear="left">
+
+<br><h3>Culture</h3>
+<a href="http://www.leblogmusique.net">Le Blog Musique</a>
+<br><a href="http://www.leblogculture.com">Le Blog Culture</a>
+<br><a href="http://www.leblogart.com">Le Blog Art</a>
+
+</td>
+
+<td valign="top" style="width: 150px; padding: 10px; border-right: 0px solid #666666; ">
+<h3>Energie</h3>
+<a href="http://www.leblogenergie.com">Le Blog Energie</a>	
+<a href="http://www.consciencenergetique.com/">Conscience Energétique</a>
+<br clear="left">
+
+
+</td>
+</tr>
+</table>
+
+<p><strong>Le Blog Finance</strong>, un site du <a href="http://www.thesocialmediagroup.com/">Social Media Group</a>, réseau de blogs thématiques.
+<br>© Copyright Social Media Group – Tous droits réservés</p>
+					</div>
+				</div>
+				<!-- End Footer Text -->
+			</div>
+			</div>
+		</div>
+		<!-- End Footer Bottom -->
+		
+	</div>
+	<!-- End Footer -->
+</div>
+<!-- End General -->
+
+	<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://lebloggadget.fr.intellitxt.com/intellitxt/front.asp?ipid=11729"></script>
+<!-- end Vibrant Media IntelliTXT script section -->	<script type='text/javascript' src='http://www.lebloggadget.com/wp-content/themes/Backstreet/js/jcarousellite_1.0.1.pack.js'></script>
+<script type='text/javascript' src='http://www.lebloggadget.com/wp-content/themes/Backstreet/js/custom.js'></script>
+<script type='text/javascript' src='http://www.lebloggadget.com/wp-content/themes/Backstreet/js/jquery.nivo.slider.pack.js'></script>
+<script type='text/javascript' src='http://www.lebloggadget.com/wp-content/themes/Backstreet/js/colorbox/jquery.colorbox-min.js'></script>
+<script type='text/javascript' src='http://www.lebloggadget.com/wp-content/themes/Backstreet/js/jquery.prettyPhoto.js'></script>
+<script type='text/javascript' src='http://www.lebloggadget.com/wp-content/themes/Backstreet/js/scrolltopcontrol.js'></script>
+<script type='text/javascript' src='http://www.lebloggadget.com/wp-content/themes/Backstreet/js/jquery.li-scroller.1.0.js'></script>
+</body>
+</html>

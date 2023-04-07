@@ -1,0 +1,443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" xml:lang="en" lang="en">
+<head><script type="text/javascript">var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+  <title>Learn Languages Online with Babbel.com</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+    
+  
+    <meta property="fb:admins" content="701170671" />
+    <meta property="fb:page_id" content="23820609833" />
+  
+  <meta content="Lesson Nine GmbH" name="copyright" />
+  <meta name="keywords" content="online language learning,learn languages,language courses, learn french online, learn german online, learn spanish online, learn swedish online, learn portuguese online, grammar courses, pronunciation training" />
+  <meta name="description" content="Babbel is the new way to learn a foreign language. The comprehensive learning system combines effective education methods with state-of-the-art technology. Interactive online courses will improve your grammar, vocabulary and pronunciation skills in no time. You'll make fast progress and have fun doing it." />
+  
+  <link href="/stylesheets/babbel30_packaged.css?1317723798" media="screen" rel="stylesheet" type="text/css" />
+  <link type="image/x-icon" rel="shortcut icon" href="/images/favicon.ico" />
+  <!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/babbel30-ie6.css" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/babbel30-ie7.css" />
+  <![endif]-->
+  <!--[if IE 8]>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/babbel30-ie.css" />
+  <![endif]-->
+  <!--[if IE 9]>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/babbel30-ie9.css" />
+  <![endif]-->
+  <script type="text/javascript">
+    var babbel = {};
+    babbel.env = "production";
+    babbel.tracking = {};
+    babbel.tracking.woopra = false;
+    babbel.tracking.google = false;
+    babbel.tracking.facebook = false;
+  </script>
+  <script src="/javascripts/lpseo_packaged.js?1317723773" type="text/javascript"></script>
+  
+    <script type="text/javascript">
+    /* <![CDATA[ */
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2220720-1']);
+      _gaq.push(['_setDomainName', '.babbel.com' ]);
+      _gaq.push(['_setAllowHash', false]);
+      
+        _gaq.push(['_setCustomVar', 2, 'shortlink', 'friendsabroad', 1]);
+      
+      _gaq.push(['_trackPageview' , '/html/en/LP/---' ]);
+
+      
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+      facebook_enabled = false;
+      /* ]]> */
+    </script>
+  
+  
+  <script type="text/javascript" async="" src="http://connect.facebook.net/en_US/all.js"></script>
+  <script src="http://apis.google.com/js/plusone.js" type="text/javascript">{lang: 'en'}</script>
+  
+</head>
+<body>  <div id="page" class="frontpage">
+  <div id="page-inner" class="inner">
+    
+
+<div id="header"><!-- Header -->
+  <div id="site-name">
+    <h3><a rel="home" title="Learn Languages Online" href="/">Learn Languages Online</a></h3>
+  </div>
+</div><!-- /Header -->
+
+<div id="navigation">
+  <div id="navigation-inner" class="inner">
+  
+
+  
+    
+      <div id="facebookconnect">
+  <a id="fbconnect" href="https://graph.facebook.com/oauth/authorize?client_id=c9b4fe3bc89fbf05db04e75917080087&amp;redirect_uri=http://www.babbel.com/login_register/facebook_login&amp;scope=email"><span class="before button">&nbsp;</span><span class="button within">connect</span><span class="button after">&nbsp;</span><span class="clearboth">&nbsp;</span></a>
+</div>
+<div id="LoginBox" class="small">
+  
+    <form action="https://secure.babbel.com/login_register/login" id="NavbarLogin" method="post">
+    <div class="top">
+      <input id="hidden_submit" name="submit" value="true" type="hidden" />
+      <a href="/login_register/reset_password" class="fr" id="forgot_password">Forgot your password?</a>
+      <div class="clearboth">&nbsp;</div>
+    </div>
+    <div class="bottom">
+      <!--[if IE 6]>
+      <div style="display:none !important;"
+      <![endif]-->
+      <div class="button_small_grey fr button">
+        <div class="before fl">
+          &nbsp;
+        </div>
+        <input id="commit" name="commit" value="Login" type="submit" class="within fl" />
+        <div class="after fl">
+          &nbsp;
+        </div>
+      </div>
+      <!--[if IE 6]>
+      </div>
+      <input id="commit-ie6" name="commit" value="Login" type="submit" class="within fl" />
+      <![endif]-->
+      <input class="fr textfield italic" id="LoginBox-password" name="password" tabindex="2" value="Password" type="password" />
+      <div class="wrapper">
+          <div class="wrapper-inner">
+            <input name="auto_login" value="true" checked="checked" id="auto_login" type="checkbox" class="checkbox fl" />
+            <label id="for_auto_login" class="fl" for="auto_login">Keep me logged in</label>
+          </div>
+        <input class="fr textfield italic" id="LoginBox-email" tabindex="1" name="babbel_email" type="text" value="Email" />
+      </div>
+    </div>
+    </form>
+  
+</div>
+    
+  
+  </div>
+</div>
+    <div id="container">
+      <div id="container-inner" class="inner sidebar_right landingpage generic">
+        <div id="content-top">
+          <div id="content-top-inner" class="inner">
+            <div class="oh">
+  
+<div id="lang_course_list" style="padding: 0 100px !important; margin:0;">
+  <ul id="language_courses" class="centered">
+    
+      <li class="lang_course_item" id="lang_course_NLD">
+        <a href="http://www.babbel.com/learn-dutch-online">Dutch</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_ENG">
+        <a href="http://www.babbel.com/learn-english-online">English</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_FRA">
+        <a href="http://www.babbel.com/learn-french-online">French</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_DEU">
+        <a href="http://www.babbel.com/learn-german-online">German</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_IND">
+        <a href="http://www.babbel.com/learn-indonesian-online">Indonesian</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_ITA">
+        <a href="http://www.babbel.com/learn-italian-online">Italian</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_POL">
+        <a href="http://www.babbel.com/learn-polish-online">Polish</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_POR">
+        <a href="http://www.babbel.com/learn-portuguese-online">Portuguese</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_SPA">
+        <a href="http://www.babbel.com/learn-spanish-online">Spanish</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_SWE">
+        <a href="http://www.babbel.com/learn-swedish-online">Swedish</a>&nbsp;-
+      </li>
+      
+    
+      <li class="lang_course_item" id="lang_course_TUR">
+        <a href="http://www.babbel.com/learn-turkish-online">Turkish</a>
+      </li>
+      
+    
+  </ul>
+</div>
+  <div class="anythingSlider" id="teaser-stage">
+    <div class="wrapper">
+      <ul class="slide_wrapper clearfix">
+        <li class="slide">
+          
+          <img class="teaser" title="More than a million users" src="/images/landinpage/general/eng.jpg" id="slider-teaser-image1" height="330" alt="More than a million users" width="500" />
+          <div class="text">
+            <h1>Enjoy Learning Languages</h1>
+            <p>Babbel is the new way to learn a foreign language. The comprehensive learning system combines effective education methods with state-of-the-art technology. Interactive online courses will improve your grammar, vocabulary and pronunciation skills in no time. You'll make fast progress and have fun doing it.</p>
+          </div>
+        </li>
+        <li class="slide">
+          <img class="teaser" title="Realtime speech recognition" src="/images/landinpage/default_multimedia_teaser/eng_eng.jpg" id="slider-teaser-image2" height="330" alt="Realtime speech recognition" width="500" />
+          <div class="text">
+            <h1>Pronunciation Training</h1>
+            <p>With the integrated speech recognition tool you can test and practice your pronunciation. It works directly in the browser. You will only need a microphone and the latest Flash-Player.</p>
+          </div>
+        </li>
+        <li class="slide">
+          <img class="teaser" title="Example of the Babbel Review Manager" src="/images/landinpage/default_review-manager_teaser/eng_eng.jpg" id="slider-teaser-image3" height="330" alt="Example of the Babbel Review Manager" width="500" />
+          <div class="text">
+            <h1>Review Manager</h1>
+            <p>Babbel knows what you've already learned and where your problems lie. The review manager adjusts exercises accordingly at evenly spaced intervals designed to optimize human memory.</p>
+          </div>
+        </li>
+        <li class="slide">
+          <img class="teaser" title="iPhone App" src="/images/landinpage/default_app_teaser/teaser_iphone-app.jpg" id="slider-teaser-image4" height="330" alt="iPhone App" width="500" />
+          <div class="text">
+            <h1>iPhone App</h1>
+            <p>You can use the iPhone app in tandem with the Babbel website. Your learning progress will be synchronized between them, so you can learn and review anywhere, anytime.</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <span class="video_link">
+      <a href="/home/vimeo/10742992/640x360/1" class="startVideo" id="startVideo" title="Babbel TV Spot">Take a look at the Babbel video.</a>
+    </span>
+  </div>
+</div>
+
+
+<div id="register_start_popup">
+  <a href="/home/register-iframe?l2=ALL" class="fb_xml_popup info_popup ENG" id="register_popup" rel="nofollow">Try it now</a>
+  <script>
+  $("#register_popup").bind("click", function(e){
+      if (typeof fancyboxIsActive == 'undefined' ) {
+        fancyboxIsActive = false
+      };
+      e.preventDefault();
+
+      var iframe = document.createElement("iframe");
+      iframe.setAttribute("src",$(this).attr('href'));
+      iframe.setAttribute("width","700");
+      iframe.setAttribute("height","400");
+      iframe.setAttribute("border","0");
+      iframe.setAttribute("style","border: none;");
+
+      babbelPopup("", "register_popup");
+      $("#fancybox-content div .centered").append(iframe);
+  });
+  </script>
+</div>
+
+
+
+<script type="text/javascript">
+var Sliderhashes = new Array(
+  "",
+  "Enjoy-Learning-Languages",
+  "Pronunciation-Training",
+  "Review-Manager",
+  "iPhone-App"
+);
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+  function formatText(index, panel){
+    if (index == 1) {
+      // <![CDATA[
+      var text = "<span><cite><strong>Enjoy Learning Languages</strong></cite></span>";
+      // ]]>
+    }
+    else if (index == 2) {
+      // <![CDATA[
+      var text = "<span><cite><strong>Pronunciation Training</strong></cite></span>";
+      // ]]>
+      }
+    else if (index == 3) {
+      // <![CDATA[
+      var text = "<span><cite><strong>Review Manager</strong></cite></span>";
+      // ]]>
+      }
+    else if (index == 4) {
+      // <![CDATA[
+      var text = "<span><cite><strong>iPhone App</strong></cite></span>";
+      // ]]>
+      }
+    else {var text = index + panel;}
+    return text;
+  };
+
+  $('.anythingSlider').anythingSlider({
+    easing: "swing", // Anything other than "linear" or "swing" requires the easing plugin
+    autoPlay: true, // This turns off the entire FUNCTIONALY, not just if it starts running or not.
+    delay: 10000, // How long between slide transitions in AutoPlay mode
+    startStopped: false, // If autoPlay is on, this can force it to start stopped
+    animationTime: 300, // How long the slide transition takes
+    hashTags: true, // Should links change the hashtag in the URL?
+    buildNavigation: true, // If true, builds and list of anchor links to link to each slide
+    pauseOnHover: true, // If true, and autoPlay is enabled, the show will pause on hover
+    startText: "Go", // Start text
+    stopText: "Stop", // Stop text
+    navigationFormatter: formatText
+  });
+
+  //click on more link will go to next slide
+  $(".next-slide-1").click(function(e){
+    $('.anythingSlider').anythingSlider(1);
+    e.preventDefault();
+  });
+  $(".next-slide-2").click(function(e){
+    $('.anythingSlider').anythingSlider(2);
+    e.preventDefault();
+  });
+  $(".next-slide-3").click(function(e){
+    $('.anythingSlider').anythingSlider(3);
+    e.preventDefault();
+  });
+  $(".next-slide-4").click(function(e){
+    $('.anythingSlider').anythingSlider(4);
+    e.preventDefault();
+  });
+
+  $(".notab").bind("keydown", function(e){
+    var key = e.charCode ? e.charCode : e.keyCode;
+    if(key==9){
+      return false;
+    }
+    return true;
+  });
+});
+</script>
+          </div>
+        </div>
+        <div id="content">
+          <div id="content-inner" class="inner">
+            <div class="wrapper">
+  <img width="100" height="85" class="teaser-img" alt="Online, on your computer, mobile" src="/images/sprites-illustrations_r1_c1.png" />
+  <h2 class="title">Online, on your computer, mobile</h2>
+  <p class="description">There are multiple ways to use Babbel so you can learn on-the-go or in your in-between time. First, Babbel.com is a multimedia website that can be accessed from any computer with internet. Then with Babbel Mobile, you can learn anywhere on your iPhone, iPod Touch or iPad. 
+Do something productive with time that would have otherwise been wasted: Learn a language.</p>
+</div>
+<div class="wrapper">
+  <img width="64" height="64" class="teaser-img" alt="Fun and effective language learning" src="/images/sprites-illustrations_r1_c3.png" />
+  <h2 class="title">Fun and effective language learning</h2>
+  <p class="description">Lively, interactive exercises and courses make studying fun -- and efficient. Babbel offers all kinds of learning material, from beginners' courses and vocabulary training to grammar and practical phrases. The system detects your level and suggests a selection of courses that correspond to your interests and knowledge.</p>
+</div>
+<div class="wrapper">
+  <img width="64" height="64" class="teaser-img" alt="Education through technology" src="/images/sprites-illustrations_r1_c2.png" />
+  <h2 class="title">Education through technology</h2>
+  <p class="description">Babbel employs state-of-the-art technology to make learning a language easy and convenient. The internet, modern software and mobile devices make for new, exciting ways to learn on your own. Babbel takes advantage of this technology and combines it with the most effective foreign language education methods around. The result is a comprehensive system that facilitates stress-free learning.</p>
+</div>
+
+          </div>
+        </div>
+        <div class="sidebar">
+	<div id="sidebar-inner" class="inner">		
+		<div id="babbel-trailer-block" class="sidebar_block clean_block"><!-- block -->
+			<div id="babbel-trailer-block-inner" class="block_inner inner">
+				<div class="grey_wrapper">
+					
+					<img width="200" height="51" title="" alt="" src="http://www.babbel.com/home/sites/babbel.com/files/imagecache/200_scale/images/dummy_killerstartups.png" />
+					<blockquote><p>"If you really want to learn a language without spending thousands of  dollars or leaving the country, try Babbel."</p></blockquote>
+					
+				</div>
+			</div>
+		</div><!-- /block -->		
+	</div>
+</div>
+        <div class="clearboth"><!-- element for disable floating -->
+          &nbsp;
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+  <div id="footer-inner" class="inner">
+    <ul>
+      <li class="column_1">About Babbel:
+        <ul>
+          <li><a href="/home/babbel-idea" rel="nofollow" title="The Babbel Idea">The Babbel Idea</a></li>
+          <li><a href="/home/babbel-mobile" rel="nofollow" title="Babbel Mobile">Babbel Mobile</a></li>
+          <li><a href="/home/about" rel="nofollow" title="About us">About us</a></li>
+          <li><a href="/prices" title="Prices">Prices</a></li>
+          
+          <li><a href="/home/b2b" rel="nofollow" title="Babbel for Business">Babbel for Business</a></li>
+          <li><a href="/home/news" rel="nofollow" title="New at Babbel">New at Babbel</a></li>
+          
+          <li><a href="http://www.babbel.com/home/about/jobs" rel="nofollow" title="Jobs">Jobs</a></li>
+          <li><a href="/home/FAQ" rel="nofollow" title="Help/FAQ">Help/FAQ</a></li>
+          <li><a href="mailto:support@babbel.com">Email Support</a></li>
+        </ul>
+      </li>
+
+      <li class="column_2">Social Media:
+        <ul>
+          <li><a href="http://blog.babbel.com/" title="Babbel Blog" target="_blank" rel="nofollow">Babbel Blog</a></li>
+          <li><a href="http://www.facebook.com/babbel.languages" title="Babbel on Facebook" target="_blank" rel="nofollow">Facebook</a></li>
+          <li><a href="http://www.twitter.com/babbel" title="Babbel on Twitter" target="_blank" rel="nofollow">Twitter</a></li>
+          <li><a href="http://www.youtube.com/view_play_list?p=DBF77DC49549D373" title="Babbel on Youtube" target="_blank" rel="nofollow">Youtube</a></li>
+        </ul>
+      </li>
+
+      <li class="column_3">Learn Languages Online:
+        <ul class='menu'><li class="leaf"><a href="http://www.babbel.com/learn-german-online" title="Learn German online">Learn German online</a></li><li class="leaf"><a href="http://www.babbel.com/learn-english-online" title="Learn English online">Learn English online</a></li><li class="leaf"><a href="http://www.babbel.com/learn-french-online" title="Learn French online">Learn French online</a></li><li class="leaf"><a href="http://www.babbel.com/learn-spanish-online" title="Learn Spanish online">Learn Spanish online</a></li><li class="leaf"><a href="http://www.babbel.com/learn-italian-online" title="Learn Italian online">Learn Italian online</a></li><li class="leaf"><a href="http://www.babbel.com/learn-swedish-online" title="Learn Swedish online">Learn Swedish online</a></li><li class="leaf"><a href="http://www.babbel.com/learn-portuguese-online" title="Learn Portuguese online">Learn Portuguese online</a></li></ul>
+      </li>
+
+      <li class="column_4">This page in:
+        <ul class="menu"><li class="leaf"><a href="http://de.babbel.com/online-englisch-lernen" class="language-link shortlink-switcher" id="switch-de">Online Englisch lernen</a></li><li class="leaf"><a href="http://www.babbel.com/learn-english-online" class="language-link shortlink-switcher" id="switch-en">Learn English online</a></li><li class="leaf"><a href="http://fr.babbel.com/apprendre-anglais-en-ligne" class="language-link shortlink-switcher" id="switch-fr">Apprendre l'anglais en ligne</a></li><li class="leaf"><a href="http://es.babbel.com/aprender-ingles-en-linea" class="language-link shortlink-switcher" id="switch-es">Aprender inglés en línea</a></li><li class="leaf"><a href="http://it.babbel.com/impara-inglese-online" class="language-link shortlink-switcher" id="switch-it">Impara l'inglese online</a></li><li class="leaf"><a href="http://se.babbel.com/lara-sig-engelska-online" class="language-link shortlink-switcher" id="switch-se">Lära sig engelska online</a></li><li class="leaf"><a href="http://pt.babbel.com/aprender-ingles-online" class="language-link shortlink-switcher" id="switch-pt">Aprender inglês on-line</a></li></ul>
+      </li>
+
+      <li class="clearboth">&nbsp;</li>
+    </ul>
+    <ul id="imprint-line"><li class="inline first">&copy; Lesson Nine GmbH</li><li class="inline"><span class="seperator">-</span><a href="http://www.babbel.com/home/imprint" class="fb_xml_popup info_popup" data="/home/info/imprint/eng" id="imprint" rel="nofollow" title="Imprint">Imprint</a></li><li class="inline"><span class="seperator">-</span><a href="http://www.babbel.com/home/terms-and-conditons" class="fb_xml_popup info_popup" data="/home/info/terms/eng" id="terms" rel="nofollow" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li><li class="inline"><span class="seperator">-</span><a href="http://www.babbel.com/home/privacy-statement" class="fb_xml_popup info_popup" data="/home/info/privacy/eng" id="privacy" rel="nofollow" title="/home/privacy-statement">Privacy</a></li><li class="inline last"><span class="seperator">-</span><a href="http://www.babbel.com/home/about/press" id="press" target="_blank" title="Press">Press</a></li></ul>
+
+  </div>
+</div>
+
+  </div>
+</div>
+<div id="vimeo-dialog" title="Babbel TV Spot">
+  <script type="text/javascript" charset="utf-8">
+  var video_iframe = {src: "/home/vimeo/10742992/640x360/1", id: "video-iframe",width: "640",height: "390",name: "video-iframe",scrolling: "no",frameborder: "0",style: "overflow:auto; border:0px;", longdesc: "http://www.babbel.com"}
+  </script>
+</div>
+
+
+    
+
+
+
+
+<script type="text/javascript">if (!NREUMQ.f) NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/19/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+if(window.onload!==NREUMQ.f){NREUMQ.a=window.onload;window.onload=NREUMQ.f;};
+NREUMQ.push(["nrf2","beacon-1.newrelic.com","c50d8960df",125454,"dV9aRERcCFpVQB0DSEZcXVNXRw1ZXh1bDFxTSA==",0,303,new Date().getTime()])</script></body></html>

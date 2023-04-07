@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 Not Found 1</title>
+<meta name="description" content="Page description" />
+<meta name="keywords" content="Page keywords" />
+<meta name="robots" content="INDEX,FOLLOW" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<!-- [if lt IE 9]>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" >
+<![endif] -->
+<link rel="icon" href="https://www.paramountzone.com/skin/frontend/giftstore/ma_giftstore/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.paramountzone.com/skin/frontend/giftstore/ma_giftstore/favicon.ico" type="image/x-icon" />
+<meta property="og:site_name" content="Website - Paramountzone.com" />
+<meta property="og:url" content="" />
+<meta property="fb:app_id" content="167676293255706" />
+<meta property="fb:page_id" content="124362237615741" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="404 Not Found 1"/>
+<!-- <link media="all" href="https://www.paramountzone.com/skin/frontend/giftstore/ma_giftstore/css/styles.css3.php?url=https://www.paramountzone.com/skin/frontend/giftstore/ma_giftstore/" type="text/css" rel="stylesheet" /> -->
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.paramountzone.com/js/blank.html';
+    var BLANK_IMG = 'https://www.paramountzone.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.paramountzone.com/skin/m/1446650335/skin/frontend/giftstore/ma_giftstore/css/bootstrap.css,/skin/frontend/giftstore/ma_giftstore/css/bootstrap-responsive.css,/skin/frontend/base/default/css/widgets.css,/skin/frontend/base/default/css/aw_zblocks.css,/skin/frontend/base/default/css/amshopby.css,/skin/frontend/base/default/css/amasty/amsocial/popup.css,/skin/frontend/giftstore/ma_giftstore/css/orderbeforex.css,/skin/frontend/base/default/multipledeals/css/multipledeals.css,/skin/frontend/giftstore/ma_giftstore/magentothem/css/custommenu.css,/skin/frontend/giftstore/ma_giftstore/magentothem/css/ma.lastesttweet.css,/skin/frontend/giftstore/ma_giftstore/magentothem/css/ma.upsellslider.css,/skin/frontend/giftstore/ma_giftstore/ajaxaddtocart/ajaxaddtocart.css,/skin/frontend/giftstore/ma_giftstore/ajaxaddtocart/base/jquery.ui.all.css,/skin/frontend/giftstore/ma_giftstore/css/pz.css" media="all" />
+<script type="text/javascript" src="https://www.paramountzone.com/skin/m/1446649579/js/prototype/prototype.js,/js/lib/ccard.js,/js/prototype/validation.js,/js/scriptaculous/builder.js,/js/scriptaculous/effects.js,/js/scriptaculous/dragdrop.js,/js/scriptaculous/controls.js,/js/scriptaculous/slider.js,/js/varien/js.js,/js/varien/form.js,/js/varien/menu.js,/js/mage/translate.js,/js/mage/cookies.js,/js/magentothem/ma.jq.slide.js,/js/magentothem/ma.flexslider.js,/js/bootstrap/bootstrap.min.js,/js/magentothem/ma.mobilemenu.js,/js/magentothem/ma.menu.effect.js,/js/magentothem/backtotop.js,/js/amasty/amsocial/social.js,/js/multipledeals/swfobject.js,/js/multipledeals/countdown.js,/js/GoogleAnalyticsPlus/distilled.FirstTouch.js,/js/magentothem/custommenu/custommenu.js,/js/varien/product.js,/skin/frontend/giftstore/ma_giftstore/ajaxaddtocart/jquery-1.4.4.min.js,/skin/frontend/giftstore/ma_giftstore/ajaxaddtocart/jquery-ui-1.8.10.custom.min.js,/skin/frontend/giftstore/ma_giftstore/ajaxaddtocart/jQuery-noconflict.js,/skin/frontend/giftstore/ma_giftstore/ajaxaddtocart/ajaxaddtocart.js" ></script>
+<link type="text/css" rel="stylesheet" href="https://www.paramountzone.com/skin/m/1446649566/skin/frontend/giftstore/ma_giftstore/css/print.css" media="print" />
+<link rel="alternate" type="application/rss+xml" href="https://www.paramountzone.com/rss/catalog/new/store_id/1/" title="New Products" />
+<link rel="alternate" type="application/rss+xml" href="https://www.paramountzone.com/rss/catalog/special/store_id/1/cid/0/" title="Special Products" />
+<!--[if lt IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.paramountzone.com/skin/m/1446649565/skin/frontend/giftstore/ma_giftstore/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.paramountzone.com/skin/m/1446649565/skin/frontend/giftstore/ma_giftstore/css/styles-ie8.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.paramountzone.com/skin/m/1446650231/js/lib/ds-sleight.js,/skin/frontend/base/default/js/ie6.js" ></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.paramountzone.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IE","RO"];
+//]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    window.HDUSeed = '500a0527787eb25d00fba8e7d1796399';
+    window.HDUSeedIntId = setInterval(function() {
+        if (document.observe) {
+            document.observe('dom:loaded', function() {
+                for (var i = 0; i < document.forms.length; i++) {
+                    if (document.forms[i].getAttribute('action') && document.forms[i].getAttribute('action').match('contacts/index/post')) {
+                        var el = document.createElement('input');
+                        el.type = ('hidden');
+                        el.name = 'hdu_seed';
+                        el.value = window.HDUSeed;
+                        document.forms[i].appendChild(el);
+
+                    }
+                }
+            });
+            clearInterval(window.HDUSeedIntId)
+        }
+    }, 100)
+    //]]>
+</script>	
+	<link href="https://fonts.googleapis.com/css?family=Lato:400italic,700italic" rel="stylesheet" type="text/css" />
+
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'https://ssl.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+            var _gaq = _gaq || [];
+
+            _gaq.push(["_setAccount", "UA-5814968-1"]);
+            asyncDistilledFirstTouch(_gaq);
+            _gaq.push(["_trackPageview","/images/june06/bg/WIN43.jpg"], ["_trackPageLoadTime"]);
+
+            if(Ajax){
+                if(Ajax.Responders){
+                    Ajax.Responders.register({
+                      onComplete: function(response){
+                        if(!response.url.include("progress")){
+                            if(response.url.include("saveOrder")){
+                                _gaq.push(["_trackPageview", "/images/june06/bg/WIN43.jpg"+ "opc-review-placeOrderClicked"]);
+                            }else if(accordion.currentSection){
+                                _gaq.push(["_trackPageview", "/images/june06/bg/WIN43.jpg"+ accordion.currentSection]);
+                            }
+                        }
+                      }
+                    });
+                }
+            }
+
+//]]>
+</script>
+
+<!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+
+
+<!-- set css color -->
+    <link rel="stylesheet" type="text/css" href="https://www.paramountzone.com/skin/frontend/giftstore/ma_giftstore/css/styles_blue.css" media="screen" />
+
+<style type="text/css">
+            body { background-color: #002348;}
+                body { background-image: url(https://www.paramountzone.com/skin/frontend/giftstore/ma_giftstore/images/pattern/pattern1.png) ; background-repeat: repeat; }
+       
+</style>
+<link href="/layered-popups/css/style.css?ver=3.22" rel="stylesheet" type="text/css">
+<script src="/layered-popups/js/ulp-jsonp.js?ver=3.22"></script>
+</head>
+<body class=" cms-index-noroute cms-no-route">
+<div class="ma-wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="ma-page">
+        
+
+<div class="ma-header-container">
+        <div class="header">
+            <div class="container">
+                <div class="toplink">
+                    <div class="container-inner">
+                        <div class="row-fluid">
+                            <div class="currency span4">
+                                            <!-- START How to add Currency selector to Magento's header -->
+            
+            <!-- END   How to add Currency selector to Magento's header -->
+                                                               <!-- <p class="welcome-msg">Welcome to ParamountZone.com </p> -->
+                            </div>
+                            <div class="desktop-toplinks span8 hidden-phone">
+                                <ul class="links">
+                        <li class="first" id='toplink_help'><a href="/help.htm" title="Help" >Help</a></li>
+                                <li id='toplink_track'><a href="/trackorder.php" title="Track Order" >Track Order</a></li>
+                                <li id='toplink_contact'><a href="/contacts" title="Contact Us" >Contact Us</a></li>
+                                                                <li ><a href="https://www.paramountzone.com/multipledeals/index/list/" title="Multiple Deals" >Current Deals</a></li>
+                                <li ><a href="https://www.paramountzone.com/checkout/cart/" title="My Basket" class="top-link-cart">My Basket</a></li>
+                                <li ><a href="https://www.paramountzone.com/onestepcheckout/" title="Checkout" class="top-link-onestepcheckout">Checkout</a></li>
+                                <li class=" last" ><a href="https://www.paramountzone.com/customer/account/login/" title="Log In" >Log In</a></li>
+            </ul>
+                            </div>
+                            <div class="mobile-toplinks visible-phone ">
+                                <ul class="links">
+                                <li><a class="top-link-cart" title="My Basket" href="/checkout/cart/">My Basket</a></li>
+                                <li><a class="top-link-onestepcheckout" title="Checkout" href="/onestepcheckout/">Checkout</a></li>
+                                <li class=" last"><a title="Log In" href="/customer/account/login/">Log In</a></li>
+                                 </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-content">
+                <div class="container">
+                    <div class="container-inner">
+                        <div class="row-fluid">
+                            <div class="span4">
+                                                                <a href="https://www.paramountzone.com/" title="Birthday Presents Ideas And Cool Gadgets For Men" class="logo"><strong>Birthday Presents Ideas And Cool Gadgets For Men</strong><img src="https://www.paramountzone.com/skin/frontend/giftstore/ma_giftstore/images/birthdaypresentslogo3.png" alt="Birthday Presents Ideas And Cool Gadgets For Men" /></a>
+                                                            </div>
+                            <div class="header-phone span4">
+                                <div class="header-phone-contact"><span class="text-1">Lines open: Mon - Fri 10am - 4pm</span><span class="text-2"> 0203 384 8304</span></div>                            </div>
+                            <div class="quick-access-span span4">
+                                <div class="quick-access">
+                                    <div class="top-cart-wrap"><div class="top-cart-contain">
+        <span class="top-cart-title"><a href="/checkout/cart" rel="nofollow" title="Checkout">Shopping Basket</a></span>
+    <span class="top-cart-count">
+            0 item(s) -             <span class="price">£0.00</span>    </span>
+    <div class="top-cart-content">
+                            <p class="empty">Your basket is empty... Please feed it!</p>
+                    </div>
+    
+</div>
+</div>
+                                    <form id="search_mini_form" action="https://www.paramountzone.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" />
+        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search for cool gifts…');
+            searchForm.initAutocomplete('https://www.paramountzone.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    </div>
+</div>
+<div class="ma-nav-mobile-container hidden-desktop">
+		<div class="container">
+				<div class="container-inner">
+					    <div class="navbar">
+						    <div id="navbar-inner" class="navbar-inner navbar-inactive">
+                                                        <span class="brand">Browse Categories</span>
+							    <a class="btn btn-navbar">
+								    <span class="icon-bar"></span>
+								    <span class="icon-bar"></span>
+								    <span class="icon-bar"></span>
+							    </a>
+							    
+							    <ul id="ma-mobilemenu" class="mobilemenu nav-collapse collapse">
+								    <li class="level0 nav-1 level-top first parent">
+<a href="https://www.paramountzone.com/birthday-gifts-presents.php" class="level-top">
+<span>Birthday Gifts</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="https://www.paramountzone.com/birthday-gifts-him.php">
+<span>Gifts For Him</span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="https://www.paramountzone.com/birthday-gifts-her.php">
+<span>Gifts For Her</span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="https://www.paramountzone.com/birthday-gifts-teenagers.php">
+<span>Gifts For Teenagers</span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="https://www.paramountzone.com/birthday-gifts-kids.php">
+<span>Gifts For Nippers</span>
+</a>
+</li><li class="level1 nav-1-5 last">
+<a href="https://www.paramountzone.com/tots-kids-teenager-gifts.php">
+<span>Tots &amp; Teens</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
+<a href="https://www.paramountzone.com/gadgets.php" class="level-top">
+<span>Gadgets</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="https://www.paramountzone.com/phone-accessories.php">
+<span>Phone Accessories</span>
+</a>
+</li><li class="level1 nav-2-2 last">
+<a href="https://www.paramountzone.com/pocket-gadgets.php">
+<span>Pocket Gadgets</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top parent">
+<a href="https://www.paramountzone.com/boys-toys.php" class="level-top">
+<span>Toys</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="https://www.paramountzone.com/rc-toys.php">
+<span>RC Toys</span>
+</a>
+</li><li class="level1 nav-3-2 last">
+<a href="https://www.paramountzone.com/indoor-games.php">
+<span>Indoor Games</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-4 level-top">
+<a href="https://www.paramountzone.com/multibuy-offers-gifts.php" class="level-top">
+<span>Deals</span>
+</a>
+</li><li class="level0 nav-5 level-top parent">
+<a href="https://www.paramountzone.com/lifestyle.php" class="level-top">
+<span>Home &amp; Lifestyle</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-5-1 first">
+<a href="https://www.paramountzone.com/clocks.php">
+<span>Clocks</span>
+</a>
+</li><li class="level1 nav-5-2 last">
+<a href="https://www.paramountzone.com/lighting.php">
+<span>Lighting</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-6 level-top last parent">
+<a href="https://www.paramountzone.com/bar-stuff.php" class="level-top">
+<span>Drink Stuff</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-6-1 first">
+<a href="https://www.paramountzone.com/mugs.php">
+<span>Mugs</span>
+</a>
+</li><li class="level1 nav-6-2 last">
+<a href="https://www.paramountzone.com/bar-accessories.php">
+<span>Bar Accessories</span>
+</a>
+</li>
+</ul>
+</li>							    </ul>
+						    </div>
+					    </div>
+				</div>
+		</div>
+
+</div>
+<div class="nav-container visible-desktop">
+		<div class="container">
+				<div class="container-inner">	
+						<div id="pt_custommenu" class="pt_custommenu">
+						    							<div id="pt_menu35" class="pt_menu" onmouseover="ptShowMenuPopup(this, 'popup35', 'block135', 'block235');" onmouseout="ptHideMenuPopup(this, event, 'popup35', 'pt_menu35')">
+<div class="parentMenu">
+<a href="https://www.paramountzone.com/birthday-gifts-presents.php">
+<span>Birthday&nbsp;Gifts</span>
+</a>
+</div>
+<div id="popup35" class="popup" onmouseout="ptHideMenuPopup(this, event, 'popup35', 'pt_menu35')">
+<div class="block1" id="block135">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/birthday-gifts-him.php"><span>Gifts&nbsp;For&nbsp;Him</span></a><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/birthday-gifts-her.php"><span>Gifts&nbsp;For&nbsp;Her</span></a><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/birthday-gifts-teenagers.php"><span>Gifts&nbsp;For&nbsp;Teenagers</span></a><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/birthday-gifts-kids.php"><span>Gifts&nbsp;For&nbsp;Nippers</span></a><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/tots-kids-teenager-gifts.php"><span>Tots&nbsp;&amp;&nbsp;Teens</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>						    							<div id="pt_menu5" class="pt_menu" onmouseover="ptShowMenuPopup(this, 'popup5', 'block15', 'block25');" onmouseout="ptHideMenuPopup(this, event, 'popup5', 'pt_menu5')">
+<div class="parentMenu">
+<a href="https://www.paramountzone.com/gadgets.php">
+<span>Gadgets</span>
+</a>
+</div>
+<div id="popup5" class="popup" onmouseout="ptHideMenuPopup(this, event, 'popup5', 'pt_menu5')">
+<div class="block1" id="block15">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/phone-accessories.php"><span>Phone&nbsp;Accessories</span></a><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/pocket-gadgets.php"><span>Pocket&nbsp;Gadgets</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>						    							<div id="pt_menu6" class="pt_menu" onmouseover="ptShowMenuPopup(this, 'popup6', 'block16', 'block26');" onmouseout="ptHideMenuPopup(this, event, 'popup6', 'pt_menu6')">
+<div class="parentMenu">
+<a href="https://www.paramountzone.com/boys-toys.php">
+<span>Toys</span>
+</a>
+</div>
+<div id="popup6" class="popup" onmouseout="ptHideMenuPopup(this, event, 'popup6', 'pt_menu6')">
+<div class="block1" id="block16">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/rc-toys.php"><span>RC&nbsp;Toys</span></a><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/indoor-games.php"><span>Indoor&nbsp;Games</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>						    							<div id="pt_menu81" class="pt_menu pt_menu_no_child">
+<div class="parentMenu">
+<a href="https://www.paramountzone.com/multibuy-offers-gifts.php">
+<span>Deals</span>
+</a>
+</div>
+</div>						    							<div id="pt_menu7" class="pt_menu" onmouseover="ptShowMenuPopup(this, 'popup7', 'block17', 'block27');" onmouseout="ptHideMenuPopup(this, event, 'popup7', 'pt_menu7')">
+<div class="parentMenu">
+<a href="https://www.paramountzone.com/lifestyle.php">
+<span>Home&nbsp;&amp;&nbsp;Lifestyle</span>
+</a>
+</div>
+<div id="popup7" class="popup" onmouseout="ptHideMenuPopup(this, event, 'popup7', 'pt_menu7')">
+<div class="block1" id="block17">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/clocks.php"><span>Clocks</span></a><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/lighting.php"><span>Lighting</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>						    							<div id="pt_menu8" class="pt_menu" onmouseover="ptShowMenuPopup(this, 'popup8', 'block18', 'block28');" onmouseout="ptHideMenuPopup(this, event, 'popup8', 'pt_menu8')">
+<div class="parentMenu">
+<a href="https://www.paramountzone.com/bar-stuff.php">
+<span>Drink&nbsp;Stuff</span>
+</a>
+</div>
+<div id="popup8" class="popup" onmouseout="ptHideMenuPopup(this, event, 'popup8', 'pt_menu8')">
+<div class="block1" id="block18">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/mugs.php"><span>Mugs</span></a><a class="itemMenuName level1 nochild" href="https://www.paramountzone.com/bar-accessories.php"><span>Bar&nbsp;Accessories</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>						    						    
+						    						    
+						    <div class="clearBoth"></div>
+						</div>
+				</div>
+		</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var CUSTOMMENU_POPUP_WIDTH = 0;
+var CUSTOMMENU_POPUP_TOP_OFFSET = 54;
+var CUSTOMMENU_POPUP_RIGHT_OFFSET_MIN = 48;
+var CUSTOMMENU_POPUP_EFFECT = 1;
+//]]>
+
+$jq(document).ready(function(){
+    $jq("#pt_menu_link ul li").each(function(){
+//        alert("test");
+        var url = document.URL;
+        $jq("#pt_menu_link ul li a").removeClass("act");
+        $jq('#pt_menu_link ul li a[href="'+url+'"]').addClass('act');
+    }); 
+        
+    $jq('.pt_menu').hover(function(){
+       var widthblock1 = $jq(this).find('.popup .block1').width();
+       var widthblock2 = $jq(this).find('.popup .block2').width();
+       var new_width_popup = 0;
+       if(widthblock1 && !widthblock2){
+           new_width_popup = widthblock1;
+       }
+       if(!widthblock1 && widthblock2){
+           new_width_popup = widthblock2;
+       }
+       if(widthblock1 && widthblock2){
+            if(widthblock1 >= widthblock2){
+                new_width_popup = widthblock1;
+            }
+            if(widthblock1 < widthblock2){
+                new_width_popup = widthblock2;
+            }
+        }
+        new_width_popup = new_width_popup;
+        $jq(this).find('.popup').css('width',new_width_popup);
+        $jq(this).find('.popup .block1').css('width',new_width_popup);
+       
+       if(CUSTOMMENU_POPUP_EFFECT == 0) $jq(this).find('.popup').stop(true,true).slideDown('slow');
+       if(CUSTOMMENU_POPUP_EFFECT == 1) $jq(this).find('.popup').stop(true,true).fadeIn('slow');
+       if(CUSTOMMENU_POPUP_EFFECT == 2) $jq(this).find('.popup').stop(true,true).show('slow');
+    },function(){
+       if(CUSTOMMENU_POPUP_EFFECT == 0) $jq(this).find('.popup').stop(true,true).slideUp();
+       if(CUSTOMMENU_POPUP_EFFECT == 1) $jq(this).find('.popup').stop(true,true).fadeOut('fast');
+       if(CUSTOMMENU_POPUP_EFFECT == 2) $jq(this).find('.popup').stop(true,true).hide('fast');
+    })
+    $jq('.pt_menu_no_child').hover(function(){
+        $jq(this).addClass("active");
+    },function(){
+        $jq(this).removeClass("active");
+    })
+    
+});
+</script>
+
+<style scoped>
+    .header-deals .container {background-color: #fff;}
+    .featured-deal #free-delivery-message {display: none;}
+</style>
+<div class="onehour_delivery">
+    <div class="container">
+        <div class="container-inner">
+            <div class="content"><img alt="One hour time slot deliveries" src="/skin/frontend/base/default/images/interlink.png" />Interlink Express Next Day Delivery - 1 Hour Time Slot Notification. <a title="Click here for delivery information" href="/one-hour-window-delivery">Click For Delivery Info</a></div>
+        </div>
+    </div>
+</div>
+
+
+        <div class="ma-main-container col2-right-layout">
+            <div class="container">
+                <div class="container-inner">
+                                                            <div class="main">
+                        <div class="main-inner">
+                                                        <div class="row-fluid">
+                                <div class="col-main span9">
+                                                                        
+<div class="std"><div class="page-title"><h1>Whoops, our bad...</h1></div>
+<dl>
+<dt>The page you requested was not found, and we have a fine guess why.</dt>
+<dd>
+<ul class="disc">
+<li>If you typed the URL directly, please make sure the spelling is correct.</li>
+<li>If you clicked on a link to get here, the link is outdated.</li>
+</ul></dd>
+</dl>
+<dl>
+<dt>What can you do?</dt>
+<dd>Have no fear, help is near! There are many ways you can get back on track with Magento Store.</dd>
+<dd>
+<ul class="disc">
+<li><a href="#" onclick="history.back(); return false;">Go back</a> to the previous page.</li>
+<li>Use the search bar at the top of the page to search for your products.</li>
+<li>Follow these links to get you back on track!<br /><a href="https://www.paramountzone.com/">Store Home</a> <span class="separator">|</span> <a href="https://www.paramountzone.com/customer/account/">My Account</a></li></ul></dd></dl></div><!-- Check whether the plugin is enabled -->
+<style>
+#at3win #at3winheader h3 {
+	text-align:left !important;
+}
+</style>                                </div>
+                                <div class="col-right sidebar span3">
+ 
+<div class="block block-review">
+    <div class="block-title">
+        <strong><span>CUSTOMER REVIEWS</span></strong>
+    </div>
+    <div class="block-content">
+                
+    <div class="product-images"> 
+            <a href="https://www.paramountzone.com/24-ghz-remote-control-helicopter.htm"><img src="https://www.paramountzone.com/media/catalog/product/cache/1/thumbnail/100x/9df78eab33525d08d6e5fb8d27136e95/2/0/20121119_204230.jpg" alt="2.4 GHZ Remote Control Helicopter - Speed Master V911" width="100" height="100" /></a>
+            <a href="https://www.paramountzone.com/24-ghz-remote-control-helicopter.htm"><div class="review-price" style="float: right; padding: 10px; background-color: #16A4D8; color: white;"><span class="price-label">Only: </span><span class="price"><span class="price">£38.99</span></span></div></a>
+    </div> 
+    
+    <h5><a href="https://www.paramountzone.com/24-ghz-remote-control-helicopter.htm">2.4 GHZ Remote Control Helicopter - Speed Master V911</a></h5>
+    Review by matt        <table class="ratings-list">
+        <tbody>
+                        <tr>
+                <td class="label"><strong>Rating</strong>:</td>
+                <td>
+                    <div class="rating-box">
+                        <div class="rating" style="width: 100.0000%;"></div>
+                    </div>
+                </td>
+            </tr>
+                    </tbody>
+    </table>
+        <strong>great!!!</strong>.<br/>
+    This is my second helicopter and the best. When I brought this I was expecting it to be harder but it is great for beginners and with its LED display    <br />
+    <br />
+                
+    <div class="product-images"> 
+            <a href="https://www.paramountzone.com/solar-mobile-phone-charger.htm"><img src="https://www.paramountzone.com/media/catalog/product/cache/1/thumbnail/100x/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-charger-3.jpg" alt="Solar Phone Charger - Solar Boost" width="100" height="100" /></a>
+            <a href="https://www.paramountzone.com/solar-mobile-phone-charger.htm"><div class="review-price" style="float: right; padding: 10px; background-color: #16A4D8; color: white;"><span class="price-label">Only: </span><span class="price"><span class="price">£19.99</span></span></div></a>
+    </div> 
+    
+    <h5><a href="https://www.paramountzone.com/solar-mobile-phone-charger.htm">Solar Phone Charger - Solar Boost</a></h5>
+    Review by Big Dawg Taylor        <table class="ratings-list">
+        <tbody>
+                        <tr>
+                <td class="label"><strong>Rating</strong>:</td>
+                <td>
+                    <div class="rating-box">
+                        <div class="rating" style="width: 100.0000%;"></div>
+                    </div>
+                </td>
+            </tr>
+                    </tbody>
+    </table>
+        <strong>Top marks</strong>.<br/>
+    I went to Thailand on holiday, and I realized that in a moment of utter incompetence, that I'd forgotten an adapter! No fear though, because I'd remembered the solar charger!!!    <br />
+    <br />
+                
+    <div class="product-images"> 
+            <a href="https://www.paramountzone.com/ihelicopter-lightspeed-phone-controlled-i-helicopter.htm"><img src="https://www.paramountzone.com/media/catalog/product/cache/1/thumbnail/100x/9df78eab33525d08d6e5fb8d27136e95/i/h/iheli.jpg" alt="iHelicopter Lightspeed Phone Controlled i-Helicopter" width="100" height="100" /></a>
+            <a href="https://www.paramountzone.com/ihelicopter-lightspeed-phone-controlled-i-helicopter.htm"><div class="review-price" style="float: right; padding: 10px; background-color: #16A4D8; color: white;"><span class="price-label">Only: </span><span class="price"><span class="price">£22.99</span></span></div></a>
+    </div> 
+    
+    <h5><a href="https://www.paramountzone.com/ihelicopter-lightspeed-phone-controlled-i-helicopter.htm">iHelicopter Lightspeed Phone Controlled i-Helicopter</a></h5>
+    Review by Johnny        <table class="ratings-list">
+        <tbody>
+                        <tr>
+                <td class="label"><strong>Rating</strong>:</td>
+                <td>
+                    <div class="rating-box">
+                        <div class="rating" style="width: 100.0000%;"></div>
+                    </div>
+                </td>
+            </tr>
+                    </tbody>
+    </table>
+        <strong>A fantastic gadget</strong>.<br/>
+    This helicopter is fantastic! It is very controllable, but not so easy that you get bored after five minutes. I'm getting better and better at landing and performing tricks everytime    <br />
+    <br />
+                
+    <div class="product-images"> 
+            <a href="https://www.paramountzone.com/hoverfly.htm"><img src="https://www.paramountzone.com/media/catalog/product/cache/1/thumbnail/100x/9df78eab33525d08d6e5fb8d27136e95/z/m/zmer5.jpg" alt="Mini Remote Control Helicopter - RC Gyro Zoomer" width="100" height="100" /></a>
+            <a href="https://www.paramountzone.com/hoverfly.htm"><div class="review-price" style="float: right; padding: 10px; background-color: #16A4D8; color: white;"><span class="price-label">Only: </span><span class="price"><span class="price">£19.99</span></span></div></a>
+    </div> 
+    
+    <h5><a href="https://www.paramountzone.com/hoverfly.htm">Mini Remote Control Helicopter - RC Gyro Zoomer</a></h5>
+    Review by dudley:)        <table class="ratings-list">
+        <tbody>
+                        <tr>
+                <td class="label"><strong>Rating</strong>:</td>
+                <td>
+                    <div class="rating-box">
+                        <div class="rating" style="width: 90.0000%;"></div>
+                    </div>
+                </td>
+            </tr>
+                    </tbody>
+    </table>
+        <strong>a good buy great fun </strong>.<br/>
+    my first mini helicopter and they are great only things i can say are the frquancys are a bit odd when you want to fly 2 independantly from 2 remotes    <br />
+    <br />
+                
+    <div class="product-images"> 
+            <a href="https://www.paramountzone.com/robot-vacuum-cleaner-new.htm"><img src="https://www.paramountzone.com/media/catalog/product/cache/1/thumbnail/100x/9df78eab33525d08d6e5fb8d27136e95/x/r/xr_advanced_new_3.jpg" alt="Robot Vacuum Cleaner Advanced" width="100" height="100" /></a>
+            <a href="https://www.paramountzone.com/robot-vacuum-cleaner-new.htm"><div class="review-price" style="float: right; padding: 10px; background-color: #16A4D8; color: white;"><span class="price-label">Only: </span><span class="price"><span class="price">£159.99</span></span></div></a>
+    </div> 
+    
+    <h5><a href="https://www.paramountzone.com/robot-vacuum-cleaner-new.htm">Robot Vacuum Cleaner Advanced</a></h5>
+    Review by B Elyson, Coventry        <table class="ratings-list">
+        <tbody>
+                        <tr>
+                <td class="label"><strong>Rating</strong>:</td>
+                <td>
+                    <div class="rating-box">
+                        <div class="rating" style="width: 100.0000%;"></div>
+                    </div>
+                </td>
+            </tr>
+                    </tbody>
+    </table>
+        <strong>Time Saving Robot Vacuum Cleaner</strong>.<br/>
+    I rarely write to companies praising them but felt compelled to. Your delivery was fantastic and am thrilled with my Vacuum. Had it a week now and it's already saved    <br />
+    <br />
+        </div>
+</div>
+  
+</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="ma-footer-static-top">
+    <div class="container">
+        <div class="container-inner">
+            <div class="footer-static-top row-fluid">
+<div class="footer-box1 footer-box span3">0203 384 8304</div>
+<div class="footer-box2 footer-box span5"></div>
+<div class="footer-box3 footer-box span4">
+<ul class="social">
+<li class="first"><a target="_blank" rel="nofollow" href="https://www.facebook.com/ParamountZone"><img src="https://www.paramountzone.com/media/wysiwyg/icon-f.png" alt="" /></a></li>
+<!-- <li><a href=""><img src="https://www.paramountzone.com/media/wysiwyg/icon-q.png" alt="" /></a></li>
+<li><a href="#"><img src="https://www.paramountzone.com/media/wysiwyg/icon-newletter.png" alt="" /></a></li> -->
+<li><a target="_blank" rel="nofollow" href="https://twitter.com/paramountzone"><img src="https://www.paramountzone.com/media/wysiwyg/icon-t.png" alt="" /></a></li>
+<li class="last"><a target="_blank" rel="nofollow" href="https://plus.google.com/+paramountzone/posts"><img src="https://www.paramountzone.com/media/wysiwyg/icon-g.png" alt="" /></a></li>
+</ul>
+</div>
+</div>        </div>
+    </div>
+</div>
+<div class="ma-footer-container">
+    <div class="container">
+        <div class="container-inner">
+            <div class="footer-static-bottom row-fluid">
+<div class="footer-bottom-box1 footer-bottom-box span4">
+<div class="footer-bottom-title">SHOP WITH CONFIDENCE</div>
+<div class="footer-bottom-content" style="width: 100%; float: left; margin-bottom: 15px;">
+<div class="text">
+<div>
+
+</div>
+</div>
+</div>
+  </div>
+<div class="footer-bottom-box1 footer-bottom-box span4">
+<div class="footer-bottom-title">Information</div>
+<div class="footer-bottom-content">
+<ul class="col-1">
+<li><a href="/aboutus.htm">About Us</a></li>
+<li><a href="/help.htm#terms">Terms & Conditions & Privacy</a></li>
+<li><a href="/pzpages1.html">Archive</a></li>
+<li><a href="https://plus.google.com/+paramountzone" rel="publisher">Find us on Google+</a>
+<li><a href="https://twitter.com/Paramountzone">Follow Us On Twitter</a>
+<li><a href="http://www.facebook.com/ParamountZone">Like Us On Facebook</a>
+
+</ul>
+<ul class="col-2">
+<li><a href="/competition.htm">Competition</a></li>
+<li><a href="/multibuy-offers-gifts.php">Specials</a></li>
+<li><a href="/affiliate.htm">Affiliate Scheme</a></li>
+<li><a href="/gifts-selection.htm">Selection </a></li>
+<li><a rel="nofollow" href="http://www.gadgetheaven.co.uk/">Gadget Reviews</a></li>
+<li><a rel="nofollow" href="/cookie-policy">Cookie Policy</a>
+<li><a href="http://www.youtube.com/user/Paramountzone">Our YouTube Channel</a>
+
+
+</ul>
+</div>
+</div>
+<div class="footer-bottom-box1 footer-bottom-box span4">
+<div class="footer-bottom-title">Latest Tweets</div>
+<div class="footer-bottom-content">    <div id="twitter-feed"></div>
+<script type="text/javascript">
+	$jq(document).ready(function () {
+		var displaylimit = 3;
+		var twitterprofile = "Plazathemes";
+		var screenname = "Latest Tweets";
+		var showdirecttweets = false;
+		var showretweets = true;
+		var showtweetlinks = true;
+		var showprofilepic = true;
+		
+		var headerHTML = '';
+		var loadingHTML = '';
+		headerHTML += '<div class="tweet-title"><h3>'+screenname+'</h3></div>';
+		loadingHTML += '<div id="loading-container"><img src="https://www.paramountzone.com/skin/frontend/giftstore/ma_giftstore/magentothem/images/ajax-loader.gif" width="32" height="32" alt="tweet loader" /></div>';
+		
+		$jq('#twitter-feed').html(headerHTML + loadingHTML);
+		 
+		$jq.getJSON('https://www.paramountzone.com/twitter/get-tweets.php', 
+			function(feeds) {   
+			   //alert(feeds);
+				var feedHTML = '<div class="tweet-content">';
+				var displayCounter = 1;         
+				for (var i=0; i<feeds.length; i++) {
+					var tweetscreenname = feeds[i].user.name;
+					var tweetusername = feeds[i].user.screen_name;
+					var profileimage = feeds[i].user.profile_image_url_https;
+					var status = feeds[i].text; 
+					var isaretweet = false;
+					var isdirect = false;
+					var tweetid = feeds[i].id_str;
+					
+					//If the tweet has been retweeted, get the profile pic of the tweeter
+					if(typeof feeds[i].retweeted_status != 'undefined'){
+					   profileimage = feeds[i].retweeted_status.user.profile_image_url_https;
+					   tweetscreenname = feeds[i].retweeted_status.user.name;
+					   tweetusername = feeds[i].retweeted_status.user.screen_name;
+					   tweetid = feeds[i].retweeted_status.id_str
+					   isaretweet = true;
+					 };
+					 
+					 
+					 //Check to see if the tweet is a direct message
+					 if (feeds[i].text.substr(0,1) == "@") {
+						 isdirect = true;
+					 }
+					 
+					//console.log(feeds[i]);
+					 
+					 if (((showretweets == true) || ((isaretweet == false) && (showretweets == false))) && ((showdirecttweets == true) || ((showdirecttweets == false) && (isdirect == false)))) { 
+						if ((feeds[i].text.length > 1) && (displayCounter <= displaylimit)) {             
+							if (showtweetlinks == true) {
+								status = addlinks(status);
+							}
+							 
+							if (displayCounter == 1) {
+								feedHTML += headerHTML;
+							}
+										 
+							feedHTML += '<div class="twitter-article">';                  
+							feedHTML += '<div class="twitter-pic"><a href="https://twitter.com/'+tweetusername+'" ><img src="'+profileimage+'"images/twitter-feed-icon.png" width="42" height="42" alt="twitter icon" /></a></div>';
+							feedHTML += '<div class="twitter-text"><span class="tweetprofilelink"><strong><a href="https://twitter.com/'+tweetusername+'" >'+tweetscreenname+'</a></strong> <a href="https://twitter.com/'+tweetusername+'" >@'+tweetusername+'</a></span><br/>'+status+'<br/>';
+                                                        feedHTML += '<span class="tweet-time"><a href="https://twitter.com/'+tweetusername+'/status/'+tweetid+'">'+relative_time(feeds[i].created_at)+'</a></span>';
+                            							feedHTML += '</div></div>';
+							displayCounter++;
+						}   
+					 }
+				}
+				feedHTML += '</div>';
+				$jq('#twitter-feed').html(feedHTML);
+		});
+			 
+		//Function modified from Stack Overflow
+		function addlinks(data) {
+			//Add link to all http:// links within tweets
+			data = data.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
+				return '<a href="'+url+'" >'+url+'</a>';
+			});
+				 
+			//Add link to @usernames used within tweets
+			data = data.replace(/\B@([_a-z0-9]+)/ig, function(reply) {
+				return '<a href="http://twitter.com/'+reply.substring(1)+'" style="font-weight:lighter;" >'+reply.charAt(0)+reply.substring(1)+'</a>';
+			});
+			return data;
+		}
+		 
+		 
+		function relative_time(time_value) {
+		  var values = time_value.split(" ");
+		  time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
+		  var parsed_date = Date.parse(time_value);
+		  var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
+		  var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
+		  var shortdate = time_value.substr(4,2) + " " + time_value.substr(0,3);
+		  delta = delta + (relative_to.getTimezoneOffset() * 60);
+		 
+		  if (delta < 60) {
+			return '1m';
+		  } else if(delta < 120) {
+			return '1m';
+		  } else if(delta < (60*60)) {
+			return (parseInt(delta / 60)).toString() + 'm';
+		  } else if(delta < (120*60)) {
+			return '1h';
+		  } else if(delta < (24*60*60)) {
+			return (parseInt(delta / 3600)).toString() + 'h';
+		  } else if(delta < (48*60*60)) {
+			//return '1 day';
+			return shortdate;
+		  } else {
+			return shortdate;
+		  }
+		}
+		 
+	});
+	
+</script>
+
+
+</div>
+</div>
+</div>
+<div id='laPlaceholder' class="hidden-mobile"></div> 
+<script type="text/javascript"> 
+(function(d,t) { 
+var script = d.createElement(t); script.id = 'la_x2s6df8d'; script.async = true; 
+  script.src = 'https://www.paramountzone.com/liveagent/scripts/track.js'; 
+var image = d.createElement('img'); script.async = true; 
+image.src = 'https://www.paramountzone.com/liveagent/scripts/pix.gif'; 
+image.style.position = 'absolute'; 
+script.onload = script.onreadystatechange = function() { 
+var rs = this.readyState; if (rs && (rs != 'complete') && (rs != 'loaded')) return; 
+LiveAgentTracker.createButton('7f3affd9', this); 
+}; 
+var placeholder = document.getElementById('laPlaceholder'); 
+placeholder.parentNode.insertBefore(script, placeholder); 
+placeholder.parentNode.insertBefore(image, placeholder); 
+placeholder.parentNode.removeChild(placeholder); 
+})(document, 'script'); 
+</script>            <div class="footer">
+                <div class="row-fluid">
+                    <div class="span6">
+                        <address>&copy; ParamountZone.com</address>
+                    </div>
+                    <div class="span6">
+                        <ul class="payment">
+<li class="first"><img src="/skin/frontend/giftstore/ma_giftstore/images/3dsecure.jpg" alt="" /></li>
+<li><img src="https://www.paramountzone.com/media/wysiwyg/payment-1.jpg" alt="" /></li>
+<li><img src="https://www.paramountzone.com/media/wysiwyg/payment-2.jpg" alt="" /></li>
+<li><img src="https://www.paramountzone.com/media/wysiwyg/payment-3.jpg" alt="" /></li>
+<li class="last"><img src="https://www.paramountzone.com/media/wysiwyg/payment-4.jpg" alt="" /></li>
+</ul>                        
+                    </div>
+                </div>
+                <div id="back-top" class="hidden-phone">	</div>
+            </div>
+        </div>
+    </div>
+</div>
+	
+<!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+        var gts = gts || [];
+ 
+    gts.push(["id", "605689"]);
+    gts.push(["badge_position", "BOTTOM_LEFT"]);
+    gts.push(["locale", "en"]);
+    gts.push(["google_base_offer_id", ""]);
+    gts.push(["google_base_country", "GB"]);
+    gts.push(["google_base_language", "en"]);
+	gts.push(["google_base_subaccount_id", "106386"]);
+    (function() {
+        var gts = document.createElement("script");
+        gts.type = "text/javascript";
+        gts.async = true;
+        gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(gts, s);
+    })();
+</script>
+<!-- END: Google Trusted Stores -->        <div id="ajaxaddtocart-dialog" title="Shopping Basket">
+    <div class="ajaxaddtocart-message">
+    </div>
+    <div class="ajaxaddtocart-summary">
+    </div>
+    <div class="ajaxaddtocart-loader"></div>
+    </div>
+<script type="text/javascript">
+    //<![CDATA[
+    _ajaxaddtocart_carturl = "https://www.paramountzone.com/checkout/cart/";
+    _ajaxaddtocart_dialogWidth = 400;
+    _ajaxaddtocart_confirmdelete = "Are you sure you would like to remove this item from the shopping cart?";
+    _ajaxaddtocart_simpleqtyform = 0;
+    /* standard buttons for the dialog box*/
+    var closeDialog = function() {
+        jQuery("#ajaxaddtocart-dialog").dialog( "close" );
+    }
+    var dialogButtons = {
+        "Go to Cart" : function() {
+            window.location = window._ajaxaddtocart_carturl;
+        },
+        "Continue Shopping" : closeDialog
+    };
+    /* buttons for the configurable product */
+    var dialogButtonsConfigurable = {
+        "Add to Cart": function() {
+            productAddToCartForm.submit();
+        },
+        "Cancel": closeDialog
+    };
+    /* buttons for the simple product */
+    var dialogButtonsSimple = {
+        "Add to Cart": function() {
+            simpleProductAddToCartForm.submit();
+        },
+        "Cancel": closeDialog
+    };
+    
+//]]>
+</script>
+
+
+    </div>
+</div>
+</body>
+</html>

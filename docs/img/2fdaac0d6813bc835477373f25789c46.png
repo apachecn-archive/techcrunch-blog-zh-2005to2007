@@ -1,0 +1,3212 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head id="_ctl0_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	
+    Ask, answer, discover and take surveys to earn rewards | Toluna
+
+</title>
+    <meta name="description" content="Toluna, the easiest way to ask and answer questions and get rewarded for sharing your opinions." />      
+
+    
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+    </script>
+
+    <link rel="icon" href="/Content/images/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="https://us.toluna.com/Content/images/favicon.ico"
+        type="image/x-icon" />
+    <link rel="icon" href="https://us.toluna.com/Content/images/favicon.ico"
+        type="image/vnd.microsoft.icon" />
+    <link rel="apple-touch-icon" href="https://us.toluna.com/Content/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" href="https://us.toluna.com/Content/images/apple-touch-icon-precomposed.png">
+    <link rel="shortcut icon" href="/Content/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="https://us.toluna.com/Content/images/favicon.ico" type="image/x-icon" />
+    
+    <script type="text/javascript" src="/Js/JsTranslations"></script>
+    <script type="text/javascript" src="/Js/JsCommonVariables"></script>
+    <script type="text/javascript" src="/Js/JsActionUrls"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.3.1/jquery.cookie.min.js" type="text/javascript" ></script>
+   
+    <link rel="stylesheet" type="text/css" href="/combres.axd/MasterStyle/-17294994/"/><link rel="stylesheet" type="text/css" href="/combres.axd/ResendVerificationCSS/-586149106/"/><script type="text/javascript" src="/combres.axd/ResendVerificationJS/-1166647422/"></script>
+
+    <!-- Google Plus attributes-->
+    <meta itemprop='name' content='Title of your content'/><meta itemprop='description' content='Make your voice heard with Toluna.com. Tell the world what you think, answer polls and surveys and earn rewards. '/>
+    <!-- Facebook like Attribute -->
+    <meta property='og:type' content='website' /><meta property='og:site_name' content='Toluna - Opinions for all' /><meta property='fb:app_id' content='281276625223048' />
+        <meta property='og:title' content='Toluna - Opinions for all' />
+        <meta property='og:url' content='https://us.toluna.com/'/>
+        <meta property='og:description' content='Make your voice heard with Toluna.com. Tell the world what you think, answer polls and surveys and earn rewards. ' />
+        <meta property='og:image' content='https://us.toluna.com/Content/images/logos/tolunaFB.png'/>
+    
+    <script type="text/javascript">
+        
+        debugToolsActivation = true;
+        
+
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '281276625223048', // App ID
+                status: true, // check login status
+                cookie: true, // enable cookies to allow the server to access the session
+                xfbml: true  // parse XFBML
+            });
+            if (getParameterByName("fillFbDetails") == "true") {
+                FB.getLoginStatus(function (response) { // check to see if the user has authenticated the App.
+                    if (response.status === 'connected') { // user is connected and has all permissions
+                        FB.api('/me', { fields: 'username,last_name,first_name,email,locale' }, function (response) {
+                            //console.log(response);
+                            $("#profileForm #firstName").val(response.first_name);
+                            $("#profileForm #lastName").val(response.last_name);
+                            $("#profileForm #email").val(response.email);
+                            $("#profileForm #userName").val(response.email.substr(0, response.email.indexOf('@')));
+                        });
+                    }
+                });
+            }
+        };
+        
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+    </script>
+   
+    
+      <link rel="stylesheet" type="text/css" href="/combres.axd/LandingPageCss/-1746207113/"/>
+
+    <link rel="canonical" href="https://us.toluna.com/"/>
+
+
+    <!-- Google Analytics Universal tracking code -->
+    <script>
+        
+            var isLoggedIn = 'No';
+        
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-43117342-1', 'toluna.com');
+        //ga('set', 'isLoggedIn', isLoggedIn);
+        //ga('send', 'pageview', { 'isLoggedIn': isLoggedIn });
+        ga('set', 'dimension1', isLoggedIn);
+        ga('send', 'pageview');
+  
+  
+        
+        
+    </script>
+
+
+    <meta name="viewport" content="width=320,  initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=1"><link rel="stylesheet" media="only screen and (max-device-width: 1024px)" href="/Content/Styles/iPad.css" type="text/css" /><link rel="stylesheet" href="/Content/Styles/mobilestyle.css" type="text/css" /></head>
+<body>
+    <div class="sticky_wrapper">
+    <script type="text/javascript">
+        if (!window.console) console = { log: function () { } };
+
+        $(document).ready(function () {
+            if ((navigator.userAgent.match(/iPad/i))) {
+                $('.submenu a').on('click touchend', function(e) {
+                    var el = $(this);
+                    var link = el.attr('href');
+                    window.location = link;
+                });
+            } else {
+            }
+            
+            
+            
+        });
+
+    </script>
+    <div id="fb-root">
+    </div>
+    <div class="main" id="TolunaNG_main_content">
+         
+<div id="embedPopupsContainer">
+    
+
+<div id="WidgetEmbedPopup" class="generalRound">
+    <div id="widgetEmbedPart">
+        <div id="topPanel" class="generalRound">
+            <h3 class="avenirLTBlack">
+                Sharing Tools
+            </h3>
+            <div class="x_close close">
+            </div>
+        </div>
+        <div id="topMidPanel">
+            <h4 id="PollLinkSpan">
+                <span id="EmbeddedWidgeType">Poll</span>
+                link
+            </h4>
+
+            <input type="text" value="" readonly id="pollShortUrlLink" />
+            
+            <div class="btn twitter">
+                &nbsp; <a class="twitterImg"></a>
+            </div>
+            <div class="btn facebook">
+                &nbsp; <a class="facebookImg"></a>
+            </div>
+            
+            <div class="btn copy">
+                Copy
+            </div>
+            <div class="clearfix">
+            </div>
+        </div>
+        <div id="bottomPanel">
+            <h4 id="EmbedWidgetSpan">
+                Embed Widget
+            </h4>
+            <div class="textareaWithoutScrollContainer">
+                <img id="loadingBoxes" src="/Content/images/loadingBoxes.gif"/><textarea id="codeTextArea" cols="20" rows="20" readonly="readonly"></textarea>
+            </div>
+            <div class="WidgetWidthDiv">
+                <h4>
+                    Widget width
+                </h4>
+                
+                <div class="widgetSizeHolder">
+                    <input name="sizeSelect" checked class="widgetEmbedCheckbox"
+                        value="500" type="radio" />
+                    <span>
+                        500
+                        px </span>
+                </div>
+                
+                <div class="widgetSizeHolder">
+                    <input name="sizeSelect"  class="widgetEmbedCheckbox"
+                        value="350" type="radio" />
+                    <span>
+                        350
+                        px </span>
+                </div>
+                
+                <div class="widgetSizeHolder">
+                    <input name="sizeSelect"  class="widgetEmbedCheckbox"
+                        value="250" type="radio" />
+                    <span>
+                        250
+                        px </span>
+                </div>
+                
+                <div class="widgetSizeHolder">
+                    <input name="sizeSelect" class="widgetEmbedCheckbox" value="Custom" type="radio" />
+                    <span class="customSizeLbl">
+                        Custom
+                    </span>
+                    <input type="text" disabled id="customSizeTextbox">
+                    <span style="float:left;margin-left:10px;">px </span>
+                </div>
+                <div class="clearfix">
+                </div>
+            </div>
+            <div class="clearfix">
+            </div>
+            <div id="widgetEmbedPopupErrorMsg">
+            </div>
+            <div id="buttonsHolder">
+                <div class="btn" id="previewBtn">
+                    Preview
+                </div>
+                <div class="btn copy">
+                    Copy
+                </div>
+                <div class="clearfix">
+                </div>
+            </div>
+        </div>
+    </div>
+   
+</div>
+<div id="widgetPreviewPart" style="right: 9999px;z-index:99999;">
+        <div class="widgetPreviewTop">
+            <div class="widgetPreviewTopLeft">
+                <h2>
+                    Embedded
+                    <span id="widgetPreviewWidgetTypeText"></span>
+                    widget preview:
+                </h2>
+                <h3>
+                    Width - <span id="widgetPreviewWidthText"></span>
+                    px  Height - <span id="widgetPreviewHeightText"></span>
+                    px
+                </h3>
+            </div>
+            <a class="btn" id="closePreviewBtn">
+                Close preview</a>
+            <div class="clearfix">
+            </div>
+        </div>
+        <div class="widgetPreviewBottom">
+        </div>
+    </div>
+    
+    </div>
+
+<div class="header"><!--browsersupported-->       
+
+    <div class="wrap">
+        <span class="TimeDiffDiv" id="TimeDiffDiv_0" style="color: rgb(253,253,253); left: 224px; position: absolute; white-space: normal; width: 550px;"> WILTDCIIS5 - toluna-4.1.27-date2014-04-09-time11-27-44-250df50af6f0 </span>
+        <a href="/" class="logo" id="mainSiteLogo">
+            <img src="https://media.tolunacdn.com/static/toluna-4.1.27-date2014-04-09-time11-27-44-250df50af6f0/content/images/maintolunalogo.png" alt="" />    
+        </a>
+      
+        <div id="topMenu" class="menu de_menu">
+            <ul id="jsddm">
+                
+                <li class="mobiletopmenumore">
+                    <span class="mobiletopmenu"></span>
+                    <a href="/Dashboard/All" class="MenuHeader exploreLink" data-title="Explore">
+                         <span class="blue_arrow"></span><span class="link">EXPLORE</span>
+                    </a>
+                    <div class="submenu">
+                        <a href="/rewards" data-title="Rewards Centre">
+                            Rewards Center
+                        </a>
+                        <a href="/products" data-title="Test Products">
+                            Test Products
+                        </a>          
+                                      
+                        <a href="/Dashboard/Polls" data-title="Polls">
+                            Polls
+                        </a>
+                        <a href="/Dashboard/Topics" data-title="Topics">
+                            Topics
+                        </a>
+                        <a href="/Dashboard/Battles" data-title="Battles">
+                            Battles
+                        </a>
+                        <a href="/Dashboard/Thumbs" data-title="Thumb it">
+                            Thumb it
+                        </a>
+                        <a href="/Dashboard/QuickVotes" data-title="Sponsored Content">
+                            Sponsored Content
+                        </a>                        
+                    </div>
+                </li>
+                
+                
+                <li id="topMenuSurveysLi" class="mobiletopmenuexploreLink">
+                    <span class="mobiletopmenu"></span>
+                    <a href="/Register/Short" id="topMenuSurveys" class="MenuHeader more arrowed" data-title="Surveys"  onclick="_gaq.push(['_trackEvent', 'SurveysTab', 'Click']);">
+                        <span class="blue_arrow"></span><span class="link">SURVEYS   </span>                    
+                    </a>
+                    <div class="submenu">
+                        
+                        <a href="/Register/Short" data-title="Register">
+                            Register
+                        </a>
+                        
+                    </div>
+                </li>
+                
+                <li>
+                    <a data-title="Create" href="/Recent/?create" class="MenuHeader createMenuBtn">
+                        <span class="link">CREATE</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="header_right_wrp">
+            
+<div id="loginLineDiv" class='UserNotLoggedIn'>
+    
+                        <span class="fbConnectImg fbConnectImg_homepage" onclick="return CommonManager.fbPopUp('http://www.facebook.com/dialog/oauth/?response_type=token&display=popup&scope=publish_stream,offline_access,email,user_birthday,user_photos&client_id=281276625223048&redirect_uri=https://us.toluna.com//Auth/FacebookAutoRegisterCallBack?fb=1');"><span></span></span>
+                    
+        
+        <div class="s_up_s_in">
+            
+                    <a href="javascript:void(0);" id="headerLoginBtn" class="headersignin headersignin_homepage" onclick="CommonManager.ShowSignInModal();">
+                        Sign in
+                    </a>
+                
+        </div>
+    
+    
+</div>
+
+
+
+        </div>
+
+        
+        <div class="headersearch">
+            <span class="icon" id="headersearch_icon"></span>
+            <div class="search">
+                <form id="headerSearchForm" title="Quick search" autocomplete="off" >
+                    <input id="btnSearch" type="submit" class="go" value=" " />
+                    <input id="txtSearch" type="text" name="query" title="" 
+                        defaultValue="Search..." 
+                        placeholder="Search..." />
+                </form>
+            </div>
+        </div>
+
+    </div>
+    <div class="specialclear"></div>
+</div>
+
+        <span id="HeaderToContentSepertor"></span>
+        
+<div class="landingpage">
+<div class="landingpageBlue">
+<div data-class="cloudsImg" class="landingpagewrap">
+<div class="signinWithFacebook" onclick="return CommonManager.fbPopUp('http://www.facebook.com/dialog/oauth/?response_type=token&display=popup&scope=publish_stream,offline_access,email,user_birthday,user_photos&client_id=281276625223048&redirect_uri=https://us.toluna.com//Auth/FacebookAutoRegisterCallBack?fb=1');" >
+    <div class="facebookLogo"></div>
+    <div class="facebookSigninText">SIGN UP WITH FACEBOOK</div>
+</div>    
+<div class="orSignUpWithEmail" >
+    <span class="line-through">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+    OR SIGN UP WITH EMAIL    
+    <span class="line-through">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+</div>
+<div class="signbox">
+    <form class="cmxform styleform short" id="profileForm" method="get" action="" autocomplete="off"  data-domain="true" onsubmit="return false;">    
+    <div class="doubleinput">
+            <label class="label" id="label_firstName">First Name</label>
+            <label id="label_lastName">Last Name</label>
+            <div class="firstsep"><input type="text" id="firstName" name="firstName" class="firstName firstNameRegex" /><span class="okNet"></span></div>
+            <div class="otherdiv"><input type="text" id="lastName" name="lastName" class="lastName lastNameRegex" /><span class="okNet"></span></div>
+        </div>
+        <div class="sexbirthday">
+            <label class="label" id="label_gender">Gender</label>
+            <label class="label" id="label_birthDate">Date of Birth</label>
+            <div class="sex">
+                <input type="button" class="male" field="2000247" />
+                <input type="button" class="female" field="2000246" />
+            </div>
+            <div class="birthday">
+                
+                <div class="day longField"><input type="text" pattern="[0-9]*" defaultValue="Month" value="Month" id="DOB_month" maxlength="2" /></div>
+                <div class="mont shortField"><input type="text" pattern="[0-9]*" defaultValue="Day" value="Day" id="DOB_day" maxlength="2" /></div>
+                
+                <div class="year"><input type="text" pattern="[0-9]*" defaultValue="Year" value="Year" id="DOB_year" maxlength="4" /></div>
+            </div>
+        </div>
+        <div class="doubleinput username_password">
+            
+            <div class="shortleftside">
+                <label id="label_userName">Username</label>
+                <div class="firstsep"><input type="text" id="userName" name="userName" class="userName userNameRegex userNameFree userNameToluna" /><span class="okNet"></span></div>
+            </div>
+
+            <div class="shortrightside">
+                <label id="label_regPassword">Password</label>
+                <div class="pass">
+                    <input type="password" id="regPassword" name="password" class="password passwordLongerThan passwordDifferentThanUsername passwordContainsDigitsAndLetters" /><span class="okNet"></span>
+                    <p class="showPassWrapper"><input id="passwordCheckBox" class="styledInput" type="checkbox" />
+                            <label class="showPassLabel" for="passwordCheckBox" >Show characters</label></p>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+         <div class="email">
+                <label id="label_email">Email</label>
+                <div><input type="text" id="email" class="emailRegex emailFree" /><span class="okNet"></span></div>
+         </div>
+         <div class="country">
+                <label id="label_country">Country</label>
+                   
+                <div class="w_bg_input shortregistration" id="regCountrySelect">
+                    <select tabindex="6" data-storage="false">
+                          <option value=""></option>
+                            <option value="102"
+                                              
+                                             data-country="4"
+                                             data-local="en-af" 
+                                             data-cultureid="102" 
+                                             data-curpage="/">
+                                                Afghanistan
+                                        </option><option value="34"
+                                              
+                                             data-country="7"
+                                             data-local="sq-al" 
+                                             data-cultureid="34" 
+                                             data-curpage="/">
+                                                Albania
+                                        </option><option value="35"
+                                              
+                                             data-country="61"
+                                             data-local="ar-dz" 
+                                             data-cultureid="35" 
+                                             data-curpage="/">
+                                                Algeria
+                                        </option><option value="36"
+                                              
+                                             data-country="13"
+                                             data-local="en-as" 
+                                             data-cultureid="36" 
+                                             data-curpage="/">
+                                                American Samoa
+                                        </option><option value="103"
+                                              
+                                             data-country="2"
+                                             data-local="en-ad" 
+                                             data-cultureid="103" 
+                                             data-curpage="/">
+                                                Andorra
+                                        </option><option value="37"
+                                              
+                                             data-country="10"
+                                             data-local="pt-ao" 
+                                             data-cultureid="37" 
+                                             data-curpage="/">
+                                                Angola
+                                        </option><option value="38"
+                                              
+                                             data-country="6"
+                                             data-local="en-ai" 
+                                             data-cultureid="38" 
+                                             data-curpage="/">
+                                                Anguilla
+                                        </option><option value="104"
+                                              
+                                             data-country="11"
+                                             data-local="en-aq" 
+                                             data-cultureid="104" 
+                                             data-curpage="/">
+                                                Antarctica
+                                        </option><option value="105"
+                                              
+                                             data-country="5"
+                                             data-local="en-ag" 
+                                             data-cultureid="105" 
+                                             data-curpage="/">
+                                                Antigua and Barbuda
+                                        </option><option value="39"
+                                              
+                                             data-country="12"
+                                             data-local="es-ar" 
+                                             data-cultureid="39" 
+                                             data-curpage="/">
+                                                Argentina
+                                        </option><option value="106"
+                                              
+                                             data-country="8"
+                                             data-local="en-am" 
+                                             data-cultureid="106" 
+                                             data-curpage="/">
+                                                Armenia
+                                        </option><option value="107"
+                                              
+                                             data-country="16"
+                                             data-local="en-aw" 
+                                             data-cultureid="107" 
+                                             data-curpage="/">
+                                                Aruba
+                                        </option><option value="16"
+                                              
+                                             data-country="15"
+                                             data-local="en-au" 
+                                             data-cultureid="16" 
+                                             data-curpage="/">
+                                                Australia
+                                        </option><option value="108"
+                                              
+                                             data-country="17"
+                                             data-local="en-az" 
+                                             data-cultureid="108" 
+                                             data-curpage="/">
+                                                Azerbaijan
+                                        </option><option value="54"
+                                              
+                                             data-country="31"
+                                             data-local="en-bs" 
+                                             data-cultureid="54" 
+                                             data-curpage="/">
+                                                Bahamas
+                                        </option><option value="40"
+                                              
+                                             data-country="24"
+                                             data-local="ar-bh" 
+                                             data-cultureid="40" 
+                                             data-curpage="/">
+                                                Bahrain
+                                        </option><option value="109"
+                                              
+                                             data-country="20"
+                                             data-local="en-bd" 
+                                             data-cultureid="109" 
+                                             data-curpage="/">
+                                                Bangladesh
+                                        </option><option value="110"
+                                              
+                                             data-country="19"
+                                             data-local="en-bb" 
+                                             data-cultureid="110" 
+                                             data-curpage="/">
+                                                Barbados
+                                        </option><option value="41"
+                                              
+                                             data-country="35"
+                                             data-local="be-by" 
+                                             data-cultureid="41" 
+                                             data-curpage="/">
+                                                Belarus (Belarusian)
+                                        </option><option value="42"
+                                              
+                                             data-country="35"
+                                             data-local="ru-by" 
+                                             data-cultureid="42" 
+                                             data-curpage="/">
+                                                Belarus (Russian)
+                                        </option><option value="9"
+                                              
+                                             data-country="21"
+                                             data-local="nl-be" 
+                                             data-cultureid="9" 
+                                             data-curpage="/">
+                                                Belgie (Nederlands)
+                                        </option><option value="10"
+                                              
+                                             data-country="21"
+                                             data-local="fr-be" 
+                                             data-cultureid="10" 
+                                             data-curpage="/">
+                                                Belgique (français)
+                                        </option><option value="111"
+                                              
+                                             data-country="36"
+                                             data-local="en-bz" 
+                                             data-cultureid="111" 
+                                             data-curpage="/">
+                                                Belize
+                                        </option><option value="112"
+                                              
+                                             data-country="26"
+                                             data-local="en-bj" 
+                                             data-cultureid="112" 
+                                             data-curpage="/">
+                                                Benin
+                                        </option><option value="113"
+                                              
+                                             data-country="27"
+                                             data-local="en-bm" 
+                                             data-cultureid="113" 
+                                             data-curpage="/">
+                                                Bermuda
+                                        </option><option value="114"
+                                              
+                                             data-country="32"
+                                             data-local="en-bt" 
+                                             data-cultureid="114" 
+                                             data-curpage="/">
+                                                Bhutan
+                                        </option><option value="115"
+                                              
+                                             data-country="29"
+                                             data-local="en-bo" 
+                                             data-cultureid="115" 
+                                             data-curpage="/">
+                                                Bolivia
+                                        </option><option value="116"
+                                              
+                                             data-country="18"
+                                             data-local="en-ba" 
+                                             data-cultureid="116" 
+                                             data-curpage="/">
+                                                Bosnia and Herzegovina
+                                        </option><option value="117"
+                                              
+                                             data-country="34"
+                                             data-local="en-bw" 
+                                             data-cultureid="117" 
+                                             data-curpage="/">
+                                                Botswana
+                                        </option><option value="118"
+                                              
+                                             data-country="33"
+                                             data-local="en-bv" 
+                                             data-cultureid="118" 
+                                             data-curpage="/">
+                                                Bouvet Island
+                                        </option><option value="21"
+                                              
+                                             data-country="30"
+                                             data-local="pt-br" 
+                                             data-cultureid="21" 
+                                             data-curpage="/">
+                                                Brasil
+                                        </option><option value="119"
+                                              
+                                             data-country="103"
+                                             data-local="en-io" 
+                                             data-cultureid="119" 
+                                             data-curpage="/">
+                                                British Indian Ocean Territory
+                                        </option><option value="120"
+                                              
+                                             data-country="28"
+                                             data-local="en-bn" 
+                                             data-cultureid="120" 
+                                             data-curpage="/">
+                                                Brunei Darussalam
+                                        </option><option value="44"
+                                              
+                                             data-country="23"
+                                             data-local="bg-bg" 
+                                             data-cultureid="44" 
+                                             data-curpage="/">
+                                                Bulgaria
+                                        </option><option value="121"
+                                              
+                                             data-country="22"
+                                             data-local="en-bf" 
+                                             data-cultureid="121" 
+                                             data-curpage="/">
+                                                Burkina Faso
+                                        </option><option value="122"
+                                              
+                                             data-country="25"
+                                             data-local="en-bi" 
+                                             data-cultureid="122" 
+                                             data-curpage="/">
+                                                Burundi
+                                        </option><option value="123"
+                                              
+                                             data-country="113"
+                                             data-local="en-kh" 
+                                             data-cultureid="123" 
+                                             data-curpage="/">
+                                                Cambodia
+                                        </option><option value="124"
+                                              
+                                             data-country="46"
+                                             data-local="en-cm" 
+                                             data-cultureid="124" 
+                                             data-curpage="/">
+                                                Cameroon
+                                        </option><option value="2"
+                                              
+                                             data-country="37"
+                                             data-local="en-ca" 
+                                             data-cultureid="2" 
+                                             data-curpage="/">
+                                                Canada (English)
+                                        </option><option value="4"
+                                              
+                                             data-country="37"
+                                             data-local="fr-ca" 
+                                             data-cultureid="4" 
+                                             data-curpage="/">
+                                                Canada (français)
+                                        </option><option value="125"
+                                              
+                                             data-country="52"
+                                             data-local="en-cv" 
+                                             data-cultureid="125" 
+                                             data-curpage="/">
+                                                Cape Verde
+                                        </option><option value="126"
+                                              
+                                             data-country="120"
+                                             data-local="en-ky" 
+                                             data-cultureid="126" 
+                                             data-curpage="/">
+                                                Cayman Islands
+                                        </option><option value="127"
+                                              
+                                             data-country="40"
+                                             data-local="en-cf" 
+                                             data-cultureid="127" 
+                                             data-curpage="/">
+                                                Central African Republic
+                                        </option><option value="47"
+                                              
+                                             data-country="55"
+                                             data-local="cs-cz" 
+                                             data-cultureid="47" 
+                                             data-curpage="/">
+                                                Česká republika
+                                        </option><option value="128"
+                                              
+                                             data-country="206"
+                                             data-local="en-td" 
+                                             data-cultureid="128" 
+                                             data-curpage="/">
+                                                Chad
+                                        </option><option value="45"
+                                              
+                                             data-country="45"
+                                             data-local="es-cl" 
+                                             data-cultureid="45" 
+                                             data-curpage="/">
+                                                Chile
+                                        </option><option value="129"
+                                              
+                                             data-country="53"
+                                             data-local="en-cx" 
+                                             data-cultureid="129" 
+                                             data-curpage="/">
+                                                Christmas Island
+                                        </option><option value="130"
+                                              
+                                             data-country="38"
+                                             data-local="en-cc" 
+                                             data-cultureid="130" 
+                                             data-curpage="/">
+                                                Cocos (Keeling) Islands
+                                        </option><option value="46"
+                                              
+                                             data-country="48"
+                                             data-local="es-co" 
+                                             data-cultureid="46" 
+                                             data-curpage="/">
+                                                Colombia
+                                        </option><option value="131"
+                                              
+                                             data-country="115"
+                                             data-local="en-km" 
+                                             data-cultureid="131" 
+                                             data-curpage="/">
+                                                Comoros
+                                        </option><option value="132"
+                                              
+                                             data-country="41"
+                                             data-local="en-cg" 
+                                             data-cultureid="132" 
+                                             data-curpage="/">
+                                                Congo
+                                        </option><option value="133"
+                                              
+                                             data-country="39"
+                                             data-local="en-cd" 
+                                             data-cultureid="133" 
+                                             data-curpage="/">
+                                                Congo, the Democratic Republic of the
+                                        </option><option value="134"
+                                              
+                                             data-country="44"
+                                             data-local="en-ck" 
+                                             data-cultureid="134" 
+                                             data-curpage="/">
+                                                Cook Islands
+                                        </option><option value="135"
+                                              
+                                             data-country="49"
+                                             data-local="en-cr" 
+                                             data-cultureid="135" 
+                                             data-curpage="/">
+                                                Costa Rica
+                                        </option><option value="136"
+                                              
+                                             data-country="43"
+                                             data-local="en-ci" 
+                                             data-cultureid="136" 
+                                             data-curpage="/">
+                                                Cote D'Ivoire
+                                        </option><option value="89"
+                                              
+                                             data-country="96"
+                                             data-local="hr-hr" 
+                                             data-cultureid="89" 
+                                             data-curpage="/">
+                                                Croatia
+                                        </option><option value="137"
+                                              
+                                             data-country="51"
+                                             data-local="en-cu" 
+                                             data-cultureid="137" 
+                                             data-curpage="/">
+                                                Cuba
+                                        </option><option value="138"
+                                              
+                                             data-country="54"
+                                             data-local="en-cy" 
+                                             data-cultureid="138" 
+                                             data-curpage="/">
+                                                Cyprus
+                                        </option><option value="22"
+                                              
+                                             data-country="58"
+                                             data-local="da-dk" 
+                                             data-cultureid="22" 
+                                             data-curpage="/">
+                                                Danmark
+                                        </option><option value="7"
+                                              
+                                             data-country="56"
+                                             data-local="de-de" 
+                                             data-cultureid="7" 
+                                             data-curpage="/">
+                                                Deutschland
+                                        </option><option value="139"
+                                              
+                                             data-country="57"
+                                             data-local="en-dj" 
+                                             data-cultureid="139" 
+                                             data-curpage="/">
+                                                Djibouti
+                                        </option><option value="140"
+                                              
+                                             data-country="59"
+                                             data-local="en-dm" 
+                                             data-cultureid="140" 
+                                             data-curpage="/">
+                                                Dominica
+                                        </option><option value="141"
+                                              
+                                             data-country="60"
+                                             data-local="en-do" 
+                                             data-cultureid="141" 
+                                             data-curpage="/">
+                                                Dominican Republic
+                                        </option><option value="48"
+                                              
+                                             data-country="62"
+                                             data-local="es-ec" 
+                                             data-cultureid="48" 
+                                             data-curpage="/">
+                                                Ecuador
+                                        </option><option value="77"
+                                              
+                                             data-country="64"
+                                             data-local="ar-eg" 
+                                             data-cultureid="77" 
+                                             data-curpage="/">
+                                                Egypt
+                                        </option><option value="97"
+                                              
+                                             data-country="202"
+                                             data-local="es-sv" 
+                                             data-cultureid="97" 
+                                             data-curpage="/">
+                                                El Salvador
+                                        </option><option value="143"
+                                              
+                                             data-country="86"
+                                             data-local="en-gq" 
+                                             data-cultureid="143" 
+                                             data-curpage="/">
+                                                Equatorial Guinea
+                                        </option><option value="144"
+                                              
+                                             data-country="66"
+                                             data-local="en-er" 
+                                             data-cultureid="144" 
+                                             data-curpage="/">
+                                                Eritrea
+                                        </option><option value="13"
+                                              
+                                             data-country="67"
+                                             data-local="es-es" 
+                                             data-cultureid="13" 
+                                             data-curpage="/">
+                                                España
+                                        </option><option value="3"
+                                              
+                                             data-country="224"
+                                             data-local="es-us" 
+                                             data-cultureid="3" 
+                                             data-curpage="/">
+                                                Estados Unidos (español)
+                                        </option><option value="49"
+                                              
+                                             data-country="63"
+                                             data-local="et-ee" 
+                                             data-cultureid="49" 
+                                             data-curpage="/">
+                                                Estonia
+                                        </option><option value="145"
+                                              
+                                             data-country="68"
+                                             data-local="en-et" 
+                                             data-cultureid="145" 
+                                             data-curpage="/">
+                                                Ethiopia
+                                        </option><option value="146"
+                                              
+                                             data-country="71"
+                                             data-local="en-fk" 
+                                             data-cultureid="146" 
+                                             data-curpage="/">
+                                                Falkland Islands (Malvinas)
+                                        </option><option value="147"
+                                              
+                                             data-country="73"
+                                             data-local="en-fo" 
+                                             data-cultureid="147" 
+                                             data-curpage="/">
+                                                Faroe Islands
+                                        </option><option value="148"
+                                              
+                                             data-country="70"
+                                             data-local="en-fj" 
+                                             data-cultureid="148" 
+                                             data-curpage="/">
+                                                Fiji
+                                        </option><option value="6"
+                                              
+                                             data-country="74"
+                                             data-local="fr-fr" 
+                                             data-cultureid="6" 
+                                             data-curpage="/">
+                                                France
+                                        </option><option value="150"
+                                              
+                                             data-country="79"
+                                             data-local="en-gf" 
+                                             data-cultureid="150" 
+                                             data-curpage="/">
+                                                French Guiana
+                                        </option><option value="151"
+                                              
+                                             data-country="169"
+                                             data-local="en-pf" 
+                                             data-cultureid="151" 
+                                             data-curpage="/">
+                                                French Polynesia
+                                        </option><option value="152"
+                                              
+                                             data-country="207"
+                                             data-local="en-tf" 
+                                             data-cultureid="152" 
+                                             data-curpage="/">
+                                                French Southern Territories
+                                        </option><option value="153"
+                                              
+                                             data-country="75"
+                                             data-local="en-ga" 
+                                             data-cultureid="153" 
+                                             data-curpage="/">
+                                                Gabon
+                                        </option><option value="154"
+                                              
+                                             data-country="83"
+                                             data-local="en-gm" 
+                                             data-cultureid="154" 
+                                             data-curpage="/">
+                                                Gambia
+                                        </option><option value="155"
+                                              
+                                             data-country="78"
+                                             data-local="en-ge" 
+                                             data-cultureid="155" 
+                                             data-curpage="/">
+                                                Georgia
+                                        </option><option value="156"
+                                              
+                                             data-country="80"
+                                             data-local="en-gh" 
+                                             data-cultureid="156" 
+                                             data-curpage="/">
+                                                Ghana
+                                        </option><option value="157"
+                                              
+                                             data-country="81"
+                                             data-local="en-gi" 
+                                             data-cultureid="157" 
+                                             data-curpage="/">
+                                                Gibraltar
+                                        </option><option value="158"
+                                              
+                                             data-country="82"
+                                             data-local="en-gl" 
+                                             data-cultureid="158" 
+                                             data-curpage="/">
+                                                Greenland
+                                        </option><option value="159"
+                                              
+                                             data-country="77"
+                                             data-local="en-gd" 
+                                             data-cultureid="159" 
+                                             data-curpage="/">
+                                                Grenada
+                                        </option><option value="160"
+                                              
+                                             data-country="85"
+                                             data-local="en-gp" 
+                                             data-cultureid="160" 
+                                             data-curpage="/">
+                                                Guadeloupe
+                                        </option><option value="161"
+                                              
+                                             data-country="90"
+                                             data-local="en-gu" 
+                                             data-cultureid="161" 
+                                             data-curpage="/">
+                                                Guam
+                                        </option><option value="162"
+                                              
+                                             data-country="89"
+                                             data-local="en-gt" 
+                                             data-cultureid="162" 
+                                             data-curpage="/">
+                                                Guatemala
+                                        </option><option value="163"
+                                              
+                                             data-country="84"
+                                             data-local="en-gn" 
+                                             data-cultureid="163" 
+                                             data-curpage="/">
+                                                Guinea
+                                        </option><option value="164"
+                                              
+                                             data-country="91"
+                                             data-local="en-gw" 
+                                             data-cultureid="164" 
+                                             data-curpage="/">
+                                                Guinea-Bissau
+                                        </option><option value="165"
+                                              
+                                             data-country="92"
+                                             data-local="en-gy" 
+                                             data-cultureid="165" 
+                                             data-curpage="/">
+                                                Guyana
+                                        </option><option value="166"
+                                              
+                                             data-country="97"
+                                             data-local="en-ht" 
+                                             data-cultureid="166" 
+                                             data-curpage="/">
+                                                Haiti
+                                        </option><option value="167"
+                                              
+                                             data-country="94"
+                                             data-local="en-hm" 
+                                             data-cultureid="167" 
+                                             data-curpage="/">
+                                                Heard Island and Mcdonald Islands
+                                        </option><option value="168"
+                                              
+                                             data-country="227"
+                                             data-local="en-va" 
+                                             data-cultureid="168" 
+                                             data-curpage="/">
+                                                Holy See (Vatican City State)
+                                        </option><option value="78"
+                                              
+                                             data-country="95"
+                                             data-local="es-hn" 
+                                             data-cultureid="78" 
+                                             data-curpage="/">
+                                                Honduras
+                                        </option><option value="94"
+                                              
+                                             data-country="93"
+                                             data-local="en-hk" 
+                                             data-cultureid="94" 
+                                             data-curpage="/">
+                                                Hong Kong (English)
+                                        </option><option value="51"
+                                              
+                                             data-country="98"
+                                             data-local="hu-hu" 
+                                             data-cultureid="51" 
+                                             data-curpage="/">
+                                                Hungary
+                                        </option><option value="90"
+                                              
+                                             data-country="106"
+                                             data-local="is-is" 
+                                             data-cultureid="90" 
+                                             data-curpage="/">
+                                                Iceland
+                                        </option><option value="18"
+                                              
+                                             data-country="102"
+                                             data-local="en-in" 
+                                             data-cultureid="18" 
+                                             data-curpage="/">
+                                                India
+                                        </option><option value="52"
+                                              
+                                             data-country="99"
+                                             data-local="id-id" 
+                                             data-cultureid="52" 
+                                             data-curpage="/">
+                                                Indonesia
+                                        </option><option value="53"
+                                              
+                                             data-country="105"
+                                             data-local="fa-ir" 
+                                             data-cultureid="53" 
+                                             data-curpage="/">
+                                                Iran, Islamic Republic of
+                                        </option><option value="79"
+                                              
+                                             data-country="104"
+                                             data-local="ar-iq" 
+                                             data-cultureid="79" 
+                                             data-curpage="/">
+                                                Iraq
+                                        </option><option value="19"
+                                              
+                                             data-country="100"
+                                             data-local="en-ie" 
+                                             data-cultureid="19" 
+                                             data-curpage="/">
+                                                Ireland
+                                        </option><option value="81"
+                                              
+                                             data-country="101"
+                                             data-local="he-il" 
+                                             data-cultureid="81" 
+                                             data-curpage="/">
+                                                Israel
+                                        </option><option value="12"
+                                              
+                                             data-country="107"
+                                             data-local="it-it" 
+                                             data-cultureid="12" 
+                                             data-curpage="/">
+                                                Italia
+                                        </option><option value="169"
+                                              
+                                             data-country="108"
+                                             data-local="en-jm" 
+                                             data-cultureid="169" 
+                                             data-curpage="/">
+                                                Jamaica
+                                        </option><option value="262"
+                                              
+                                             data-country="109"
+                                             data-local="ar-jo" 
+                                             data-cultureid="262" 
+                                             data-curpage="/">
+                                                Jordan (Arabic)
+                                        </option><option value="170"
+                                              
+                                             data-country="109"
+                                             data-local="en-jo" 
+                                             data-cultureid="170" 
+                                             data-curpage="/">
+                                                Jordan (English)
+                                        </option><option value="171"
+                                              
+                                             data-country="121"
+                                             data-local="en-kz" 
+                                             data-cultureid="171" 
+                                             data-curpage="/">
+                                                Kazakhstan
+                                        </option><option value="172"
+                                              
+                                             data-country="111"
+                                             data-local="en-ke" 
+                                             data-cultureid="172" 
+                                             data-curpage="/">
+                                                Kenya
+                                        </option><option value="173"
+                                              
+                                             data-country="114"
+                                             data-local="en-ki" 
+                                             data-cultureid="173" 
+                                             data-curpage="/">
+                                                Kiribati
+                                        </option><option value="174"
+                                              
+                                             data-country="117"
+                                             data-local="en-kp" 
+                                             data-cultureid="174" 
+                                             data-curpage="/">
+                                                Korea, Democratic People's Republic of
+                                        </option><option value="95"
+                                              
+                                             data-country="118"
+                                             data-local="en-kr" 
+                                             data-cultureid="95" 
+                                             data-curpage="/">
+                                                Korea, Republic of (English)
+                                        </option><option value="24"
+                                              
+                                             data-country="118"
+                                             data-local="ko-kr" 
+                                             data-cultureid="24" 
+                                             data-curpage="/">
+                                                Korea, Republic of (한국어)
+                                        </option><option value="80"
+                                              
+                                             data-country="119"
+                                             data-local="ar-kw" 
+                                             data-cultureid="80" 
+                                             data-curpage="/">
+                                                Kuwait
+                                        </option><option value="175"
+                                              
+                                             data-country="112"
+                                             data-local="en-kg" 
+                                             data-cultureid="175" 
+                                             data-curpage="/">
+                                                Kyrgyzstan
+                                        </option><option value="176"
+                                              
+                                             data-country="122"
+                                             data-local="en-la" 
+                                             data-cultureid="176" 
+                                             data-curpage="/">
+                                                Lao People's Democratic Republic
+                                        </option><option value="82"
+                                              
+                                             data-country="131"
+                                             data-local="lv-lv" 
+                                             data-cultureid="82" 
+                                             data-curpage="/">
+                                                Latvia
+                                        </option><option value="177"
+                                              
+                                             data-country="123"
+                                             data-local="en-lb" 
+                                             data-cultureid="177" 
+                                             data-curpage="/">
+                                                Lebanon
+                                        </option><option value="178"
+                                              
+                                             data-country="128"
+                                             data-local="en-ls" 
+                                             data-cultureid="178" 
+                                             data-curpage="/">
+                                                Lesotho
+                                        </option><option value="179"
+                                              
+                                             data-country="127"
+                                             data-local="en-lr" 
+                                             data-cultureid="179" 
+                                             data-curpage="/">
+                                                Liberia
+                                        </option><option value="180"
+                                              
+                                             data-country="132"
+                                             data-local="en-ly" 
+                                             data-cultureid="180" 
+                                             data-curpage="/">
+                                                Libyan Arab Jamahiriya
+                                        </option><option value="181"
+                                              
+                                             data-country="125"
+                                             data-local="en-li" 
+                                             data-cultureid="181" 
+                                             data-curpage="/">
+                                                Liechtenstein
+                                        </option><option value="83"
+                                              
+                                             data-country="129"
+                                             data-local="lt-lt" 
+                                             data-cultureid="83" 
+                                             data-curpage="/">
+                                                Lithuania
+                                        </option><option value="182"
+                                              
+                                             data-country="130"
+                                             data-local="en-lu" 
+                                             data-cultureid="182" 
+                                             data-curpage="/">
+                                                Luxembourg
+                                        </option><option value="183"
+                                              
+                                             data-country="142"
+                                             data-local="en-mo" 
+                                             data-cultureid="183" 
+                                             data-curpage="/">
+                                                Macao
+                                        </option><option value="149"
+                                              
+                                             data-country="138"
+                                             data-local="en-mk" 
+                                             data-cultureid="149" 
+                                             data-curpage="/">
+                                                Macedonia, the Former Yugoslav Republic of
+                                        </option><option value="184"
+                                              
+                                             data-country="136"
+                                             data-local="en-mg" 
+                                             data-cultureid="184" 
+                                             data-curpage="/">
+                                                Madagascar
+                                        </option><option value="185"
+                                              
+                                             data-country="150"
+                                             data-local="en-mw" 
+                                             data-cultureid="185" 
+                                             data-curpage="/">
+                                                Malawi
+                                        </option><option value="55"
+                                              
+                                             data-country="152"
+                                             data-local="ms-my" 
+                                             data-cultureid="55" 
+                                             data-curpage="/">
+                                                Malaysia (Bahasa Melayu)
+                                        </option><option value="92"
+                                              
+                                             data-country="152"
+                                             data-local="en-my" 
+                                             data-cultureid="92" 
+                                             data-curpage="/">
+                                                Malaysia (English)
+                                        </option><option value="186"
+                                              
+                                             data-country="149"
+                                             data-local="en-mv" 
+                                             data-cultureid="186" 
+                                             data-curpage="/">
+                                                Maldives
+                                        </option><option value="187"
+                                              
+                                             data-country="139"
+                                             data-local="en-ml" 
+                                             data-cultureid="187" 
+                                             data-curpage="/">
+                                                Mali
+                                        </option><option value="188"
+                                              
+                                             data-country="147"
+                                             data-local="en-mt" 
+                                             data-cultureid="188" 
+                                             data-curpage="/">
+                                                Malta
+                                        </option><option value="189"
+                                              
+                                             data-country="137"
+                                             data-local="en-mh" 
+                                             data-cultureid="189" 
+                                             data-curpage="/">
+                                                Marshall Islands
+                                        </option><option value="190"
+                                              
+                                             data-country="144"
+                                             data-local="en-mq" 
+                                             data-cultureid="190" 
+                                             data-curpage="/">
+                                                Martinique
+                                        </option><option value="191"
+                                              
+                                             data-country="145"
+                                             data-local="en-mr" 
+                                             data-cultureid="191" 
+                                             data-curpage="/">
+                                                Mauritania
+                                        </option><option value="192"
+                                              
+                                             data-country="148"
+                                             data-local="en-mu" 
+                                             data-cultureid="192" 
+                                             data-curpage="/">
+                                                Mauritius
+                                        </option><option value="193"
+                                              
+                                             data-country="237"
+                                             data-local="en-yt" 
+                                             data-cultureid="193" 
+                                             data-curpage="/">
+                                                Mayotte
+                                        </option><option value="25"
+                                              
+                                             data-country="151"
+                                             data-local="es-mx" 
+                                             data-cultureid="25" 
+                                             data-curpage="/">
+                                                Mexico
+                                        </option><option value="194"
+                                              
+                                             data-country="72"
+                                             data-local="en-fm" 
+                                             data-cultureid="194" 
+                                             data-curpage="/">
+                                                Micronesia, Federated States of
+                                        </option><option value="195"
+                                              
+                                             data-country="135"
+                                             data-local="en-md" 
+                                             data-cultureid="195" 
+                                             data-curpage="/">
+                                                Moldova, Republic of
+                                        </option><option value="196"
+                                              
+                                             data-country="134"
+                                             data-local="en-mc" 
+                                             data-cultureid="196" 
+                                             data-curpage="/">
+                                                Monaco
+                                        </option><option value="197"
+                                              
+                                             data-country="141"
+                                             data-local="en-mn" 
+                                             data-cultureid="197" 
+                                             data-curpage="/">
+                                                Mongolia
+                                        </option><option value="198"
+                                              
+                                             data-country="146"
+                                             data-local="en-ms" 
+                                             data-cultureid="198" 
+                                             data-curpage="/">
+                                                Montserrat
+                                        </option><option value="100"
+                                              
+                                             data-country="133"
+                                             data-local="ar-ma" 
+                                             data-cultureid="100" 
+                                             data-curpage="/">
+                                                Morocco
+                                        </option><option value="199"
+                                              
+                                             data-country="153"
+                                             data-local="en-mz" 
+                                             data-cultureid="199" 
+                                             data-curpage="/">
+                                                Mozambique
+                                        </option><option value="200"
+                                              
+                                             data-country="140"
+                                             data-local="en-mm" 
+                                             data-cultureid="200" 
+                                             data-curpage="/">
+                                                Myanmar
+                                        </option><option value="201"
+                                              
+                                             data-country="154"
+                                             data-local="en-na" 
+                                             data-cultureid="201" 
+                                             data-curpage="/">
+                                                Namibia
+                                        </option><option value="202"
+                                              
+                                             data-country="163"
+                                             data-local="en-nr" 
+                                             data-cultureid="202" 
+                                             data-curpage="/">
+                                                Nauru
+                                        </option><option value="8"
+                                              
+                                             data-country="160"
+                                             data-local="nl-nl" 
+                                             data-cultureid="8" 
+                                             data-curpage="/">
+                                                Nederland 
+                                        </option><option value="203"
+                                              
+                                             data-country="162"
+                                             data-local="en-np" 
+                                             data-cultureid="203" 
+                                             data-curpage="/">
+                                                Nepal
+                                        </option><option value="204"
+                                              
+                                             data-country="9"
+                                             data-local="en-an" 
+                                             data-cultureid="204" 
+                                             data-curpage="/">
+                                                Netherlands Antilles
+                                        </option><option value="56"
+                                              
+                                             data-country="155"
+                                             data-local="fr-nc" 
+                                             data-cultureid="56" 
+                                             data-curpage="/">
+                                                New Caledonia
+                                        </option><option value="15"
+                                              
+                                             data-country="165"
+                                             data-local="en-nz" 
+                                             data-cultureid="15" 
+                                             data-curpage="/">
+                                                New Zealand
+                                        </option><option value="205"
+                                              
+                                             data-country="159"
+                                             data-local="en-ni" 
+                                             data-cultureid="205" 
+                                             data-curpage="/">
+                                                Nicaragua
+                                        </option><option value="206"
+                                              
+                                             data-country="156"
+                                             data-local="en-ne" 
+                                             data-cultureid="206" 
+                                             data-curpage="/">
+                                                Niger
+                                        </option><option value="87"
+                                              
+                                             data-country="158"
+                                             data-local="en-ng" 
+                                             data-cultureid="87" 
+                                             data-curpage="/">
+                                                Nigeria
+                                        </option><option value="207"
+                                              
+                                             data-country="164"
+                                             data-local="en-nu" 
+                                             data-cultureid="207" 
+                                             data-curpage="/">
+                                                Niue
+                                        </option><option value="208"
+                                              
+                                             data-country="157"
+                                             data-local="en-nf" 
+                                             data-cultureid="208" 
+                                             data-curpage="/">
+                                                Norfolk Island
+                                        </option><option value="26"
+                                              
+                                             data-country="161"
+                                             data-local="nb-no" 
+                                             data-cultureid="26" 
+                                             data-curpage="/">
+                                                Norge
+                                        </option><option value="209"
+                                              
+                                             data-country="143"
+                                             data-local="en-mp" 
+                                             data-cultureid="209" 
+                                             data-curpage="/">
+                                                Northern Mariana Islands
+                                        </option><option value="84"
+                                              
+                                             data-country="166"
+                                             data-local="ar-om" 
+                                             data-cultureid="84" 
+                                             data-curpage="/">
+                                                Oman
+                                        </option><option value="20"
+                                              
+                                             data-country="14"
+                                             data-local="de-at" 
+                                             data-cultureid="20" 
+                                             data-curpage="/">
+                                                Österreich
+                                        </option><option value="210"
+                                              
+                                             data-country="172"
+                                             data-local="en-pk" 
+                                             data-cultureid="210" 
+                                             data-curpage="/">
+                                                Pakistan
+                                        </option><option value="211"
+                                              
+                                             data-country="179"
+                                             data-local="en-pw" 
+                                             data-cultureid="211" 
+                                             data-curpage="/">
+                                                Palau
+                                        </option><option value="99"
+                                              
+                                             data-country="167"
+                                             data-local="es-pa" 
+                                             data-cultureid="99" 
+                                             data-curpage="/">
+                                                Panama
+                                        </option><option value="212"
+                                              
+                                             data-country="170"
+                                             data-local="en-pg" 
+                                             data-cultureid="212" 
+                                             data-curpage="/">
+                                                Papua New Guinea
+                                        </option><option value="98"
+                                              
+                                             data-country="180"
+                                             data-local="es-py" 
+                                             data-cultureid="98" 
+                                             data-curpage="/">
+                                                Paraguay
+                                        </option><option value="57"
+                                              
+                                             data-country="168"
+                                             data-local="es-pe" 
+                                             data-cultureid="57" 
+                                             data-curpage="/">
+                                                Peru
+                                        </option><option value="59"
+                                              
+                                             data-country="171"
+                                             data-local="en-ph" 
+                                             data-cultureid="59" 
+                                             data-curpage="/">
+                                                Philippines
+                                        </option><option value="213"
+                                              
+                                             data-country="175"
+                                             data-local="en-pn" 
+                                             data-cultureid="213" 
+                                             data-curpage="/">
+                                                Pitcairn
+                                        </option><option value="27"
+                                              
+                                             data-country="173"
+                                             data-local="pl-pl" 
+                                             data-cultureid="27" 
+                                             data-curpage="/">
+                                                Polska
+                                        </option><option value="28"
+                                              
+                                             data-country="178"
+                                             data-local="pt-pt" 
+                                             data-cultureid="28" 
+                                             data-curpage="/">
+                                                Portugal
+                                        </option><option value="214"
+                                              
+                                             data-country="176"
+                                             data-local="en-pr" 
+                                             data-cultureid="214" 
+                                             data-curpage="/">
+                                                Puerto Rico
+                                        </option><option value="60"
+                                              
+                                             data-country="181"
+                                             data-local="ar-qa" 
+                                             data-cultureid="60" 
+                                             data-curpage="/">
+                                                Qatar (Arabic)
+                                        </option><option value="260"
+                                              
+                                             data-country="181"
+                                             data-local="en-qa" 
+                                             data-cultureid="260" 
+                                             data-curpage="/">
+                                                Qatar (English)
+                                        </option><option value="215"
+                                              
+                                             data-country="182"
+                                             data-local="en-re" 
+                                             data-cultureid="215" 
+                                             data-curpage="/">
+                                                Reunion
+                                        </option><option value="61"
+                                              
+                                             data-country="183"
+                                             data-local="ro-ro" 
+                                             data-cultureid="61" 
+                                             data-curpage="/">
+                                                Romania
+                                        </option><option value="216"
+                                              
+                                             data-country="185"
+                                             data-local="en-rw" 
+                                             data-cultureid="216" 
+                                             data-curpage="/">
+                                                Rwanda
+                                        </option><option value="217"
+                                              
+                                             data-country="192"
+                                             data-local="en-sh" 
+                                             data-cultureid="217" 
+                                             data-curpage="/">
+                                                Saint Helena
+                                        </option><option value="218"
+                                              
+                                             data-country="116"
+                                             data-local="en-kn" 
+                                             data-cultureid="218" 
+                                             data-curpage="/">
+                                                Saint Kitts and Nevis
+                                        </option><option value="219"
+                                              
+                                             data-country="124"
+                                             data-local="en-lc" 
+                                             data-cultureid="219" 
+                                             data-curpage="/">
+                                                Saint Lucia
+                                        </option><option value="220"
+                                              
+                                             data-country="174"
+                                             data-local="en-pm" 
+                                             data-cultureid="220" 
+                                             data-curpage="/">
+                                                Saint Pierre and Miquelon
+                                        </option><option value="230"
+                                              
+                                             data-country="228"
+                                             data-local="en-vc" 
+                                             data-cultureid="230" 
+                                             data-curpage="/">
+                                                Saint Vincent and the Grenadines
+                                        </option><option value="221"
+                                              
+                                             data-country="235"
+                                             data-local="en-ws" 
+                                             data-cultureid="221" 
+                                             data-curpage="/">
+                                                Samoa
+                                        </option><option value="222"
+                                              
+                                             data-country="197"
+                                             data-local="en-sm" 
+                                             data-cultureid="222" 
+                                             data-curpage="/">
+                                                San Marino
+                                        </option><option value="223"
+                                              
+                                             data-country="201"
+                                             data-local="en-st" 
+                                             data-cultureid="223" 
+                                             data-curpage="/">
+                                                Sao Tome and Principe
+                                        </option><option value="62"
+                                              
+                                             data-country="186"
+                                             data-local="ar-sa" 
+                                             data-cultureid="62" 
+                                             data-curpage="/">
+                                                Saudi Arabia
+                                        </option><option value="30"
+                                              
+                                             data-country="42"
+                                             data-local="de-ch" 
+                                             data-cultureid="30" 
+                                             data-curpage="/">
+                                                Schweiz (Deutsch)
+                                        </option><option value="224"
+                                              
+                                             data-country="198"
+                                             data-local="en-sn" 
+                                             data-cultureid="224" 
+                                             data-curpage="/">
+                                                Senegal
+                                        </option><option value="225"
+                                              
+                                             data-country="188"
+                                             data-local="en-sc" 
+                                             data-cultureid="225" 
+                                             data-curpage="/">
+                                                Seychelles
+                                        </option><option value="226"
+                                              
+                                             data-country="196"
+                                             data-local="en-sl" 
+                                             data-cultureid="226" 
+                                             data-curpage="/">
+                                                Sierra Leone
+                                        </option><option value="72"
+                                              
+                                             data-country="191"
+                                             data-local="zh-sg" 
+                                             data-cultureid="72" 
+                                             data-curpage="/">
+                                                Singapore (Chinese Simplified)
+                                        </option><option value="71"
+                                              
+                                             data-country="191"
+                                             data-local="en-sg" 
+                                             data-cultureid="71" 
+                                             data-curpage="/">
+                                                Singapore (English)
+                                        </option><option value="63"
+                                              
+                                             data-country="195"
+                                             data-local="sk-sk" 
+                                             data-cultureid="63" 
+                                             data-curpage="/">
+                                                Slovakia
+                                        </option><option value="64"
+                                              
+                                             data-country="193"
+                                             data-local="sl-si" 
+                                             data-cultureid="64" 
+                                             data-curpage="/">
+                                                Slovenia
+                                        </option><option value="227"
+                                              
+                                             data-country="187"
+                                             data-local="en-sb" 
+                                             data-cultureid="227" 
+                                             data-curpage="/">
+                                                Solomon Islands
+                                        </option><option value="228"
+                                              
+                                             data-country="199"
+                                             data-local="en-so" 
+                                             data-cultureid="228" 
+                                             data-curpage="/">
+                                                Somalia
+                                        </option><option value="65"
+                                              
+                                             data-country="238"
+                                             data-local="en-za" 
+                                             data-cultureid="65" 
+                                             data-curpage="/">
+                                                South Africa
+                                        </option><option value="231"
+                                              
+                                             data-country="88"
+                                             data-local="en-gs" 
+                                             data-cultureid="231" 
+                                             data-curpage="/">
+                                                South Georgia and the South Sandwich Islands
+                                        </option><option value="229"
+                                              
+                                             data-country="126"
+                                             data-local="en-lk" 
+                                             data-cultureid="229" 
+                                             data-curpage="/">
+                                                Sri Lanka
+                                        </option><option value="232"
+                                              
+                                             data-country="189"
+                                             data-local="en-sd" 
+                                             data-cultureid="232" 
+                                             data-curpage="/">
+                                                Sudan
+                                        </option><option value="31"
+                                              
+                                             data-country="42"
+                                             data-local="fr-ch" 
+                                             data-cultureid="31" 
+                                             data-curpage="/">
+                                                Suisse (français)
+                                        </option><option value="23"
+                                              
+                                             data-country="69"
+                                             data-local="fi-fi" 
+                                             data-cultureid="23" 
+                                             data-curpage="/">
+                                                Suomi
+                                        </option><option value="233"
+                                              
+                                             data-country="200"
+                                             data-local="en-sr" 
+                                             data-cultureid="233" 
+                                             data-curpage="/">
+                                                Suriname
+                                        </option><option value="234"
+                                              
+                                             data-country="194"
+                                             data-local="en-sj" 
+                                             data-cultureid="234" 
+                                             data-curpage="/">
+                                                Svalbard and Jan Mayen
+                                        </option><option value="29"
+                                              
+                                             data-country="190"
+                                             data-local="sv-se" 
+                                             data-cultureid="29" 
+                                             data-curpage="/">
+                                                Sverige
+                                        </option><option value="235"
+                                              
+                                             data-country="204"
+                                             data-local="en-sz" 
+                                             data-cultureid="235" 
+                                             data-curpage="/">
+                                                Swaziland
+                                        </option><option value="85"
+                                              
+                                             data-country="42"
+                                             data-local="it-ch" 
+                                             data-cultureid="85" 
+                                             data-curpage="/">
+                                                Switzerland (Italian)
+                                        </option><option value="236"
+                                              
+                                             data-country="203"
+                                             data-local="en-sy" 
+                                             data-cultureid="236" 
+                                             data-curpage="/">
+                                                Syrian Arab Republic
+                                        </option><option value="73"
+                                              
+                                             data-country="219"
+                                             data-local="zh-tw" 
+                                             data-cultureid="73" 
+                                             data-curpage="/">
+                                                Taiwan
+                                        </option><option value="237"
+                                              
+                                             data-country="210"
+                                             data-local="en-tj" 
+                                             data-cultureid="237" 
+                                             data-curpage="/">
+                                                Tajikistan
+                                        </option><option value="238"
+                                              
+                                             data-country="220"
+                                             data-local="en-tz" 
+                                             data-cultureid="238" 
+                                             data-curpage="/">
+                                                Tanzania, United Republic of
+                                        </option><option value="93"
+                                              
+                                             data-country="209"
+                                             data-local="en-th" 
+                                             data-cultureid="93" 
+                                             data-curpage="/">
+                                                Thailand (English)
+                                        </option><option value="142"
+                                              
+                                             data-country="212"
+                                             data-local="en-tl" 
+                                             data-cultureid="142" 
+                                             data-curpage="/">
+                                                Timor-Leste
+                                        </option><option value="239"
+                                              
+                                             data-country="208"
+                                             data-local="en-tg" 
+                                             data-cultureid="239" 
+                                             data-curpage="/">
+                                                Togo
+                                        </option><option value="240"
+                                              
+                                             data-country="211"
+                                             data-local="en-tk" 
+                                             data-cultureid="240" 
+                                             data-curpage="/">
+                                                Tokelau
+                                        </option><option value="241"
+                                              
+                                             data-country="215"
+                                             data-local="en-to" 
+                                             data-cultureid="241" 
+                                             data-curpage="/">
+                                                Tonga
+                                        </option><option value="242"
+                                              
+                                             data-country="217"
+                                             data-local="en-tt" 
+                                             data-cultureid="242" 
+                                             data-curpage="/">
+                                                Trinidad and Tobago
+                                        </option><option value="261"
+                                              
+                                             data-country="214"
+                                             data-local="ar-tn" 
+                                             data-cultureid="261" 
+                                             data-curpage="/">
+                                                Tunisia (Arabic)
+                                        </option><option value="243"
+                                              
+                                             data-country="214"
+                                             data-local="en-tn" 
+                                             data-cultureid="243" 
+                                             data-curpage="/">
+                                                Tunisia (English)
+                                        </option><option value="263"
+                                              
+                                             data-country="214"
+                                             data-local="fr-tn" 
+                                             data-cultureid="263" 
+                                             data-curpage="/">
+                                                Tunisie (français)
+                                        </option><option value="67"
+                                              
+                                             data-country="216"
+                                             data-local="tr-tr" 
+                                             data-cultureid="67" 
+                                             data-curpage="/">
+                                                Türkiye
+                                        </option><option value="244"
+                                              
+                                             data-country="213"
+                                             data-local="en-tm" 
+                                             data-cultureid="244" 
+                                             data-curpage="/">
+                                                Turkmenistan
+                                        </option><option value="245"
+                                              
+                                             data-country="205"
+                                             data-local="en-tc" 
+                                             data-cultureid="245" 
+                                             data-curpage="/">
+                                                Turks and Caicos Islands
+                                        </option><option value="246"
+                                              
+                                             data-country="218"
+                                             data-local="en-tv" 
+                                             data-cultureid="246" 
+                                             data-curpage="/">
+                                                Tuvalu
+                                        </option><option value="247"
+                                              
+                                             data-country="222"
+                                             data-local="en-ug" 
+                                             data-cultureid="247" 
+                                             data-curpage="/">
+                                                Uganda
+                                        </option><option value="68"
+                                              
+                                             data-country="221"
+                                             data-local="uk-ua" 
+                                             data-cultureid="68" 
+                                             data-curpage="/">
+                                                Ukraine
+                                        </option><option value="69"
+                                              
+                                             data-country="3"
+                                             data-local="ar-ae" 
+                                             data-cultureid="69" 
+                                             data-curpage="/">
+                                                United Arab Emirates (Arabic)
+                                        </option><option value="91"
+                                              
+                                             data-country="3"
+                                             data-local="en-ae" 
+                                             data-cultureid="91" 
+                                             data-curpage="/">
+                                                United Arab Emirates (English)
+                                        </option><option value="5"
+                                              
+                                             data-country="76"
+                                             data-local="en-gb" 
+                                             data-cultureid="5" 
+                                             data-curpage="/">
+                                                United Kingdom
+                                        </option><option value="1"
+                                             selected='selected' 
+                                             data-country="224"
+                                             data-local="en-us" 
+                                             data-cultureid="1" 
+                                             data-curpage="/">
+                                                United States (English)
+                                        </option><option value="248"
+                                              
+                                             data-country="223"
+                                             data-local="en-um" 
+                                             data-cultureid="248" 
+                                             data-curpage="/">
+                                                United States Minor Outlying Islands
+                                        </option><option value="96"
+                                              
+                                             data-country="225"
+                                             data-local="es-uy" 
+                                             data-cultureid="96" 
+                                             data-curpage="/">
+                                                Uruguay
+                                        </option><option value="249"
+                                              
+                                             data-country="226"
+                                             data-local="en-uz" 
+                                             data-cultureid="249" 
+                                             data-curpage="/">
+                                                Uzbekistan
+                                        </option><option value="250"
+                                              
+                                             data-country="233"
+                                             data-local="en-vu" 
+                                             data-cultureid="250" 
+                                             data-curpage="/">
+                                                Vanuatu
+                                        </option><option value="70"
+                                              
+                                             data-country="229"
+                                             data-local="es-ve" 
+                                             data-cultureid="70" 
+                                             data-curpage="/">
+                                                Venezuela
+                                        </option><option value="88"
+                                              
+                                             data-country="232"
+                                             data-local="vi-vn" 
+                                             data-cultureid="88" 
+                                             data-curpage="/">
+                                                Viet Nam
+                                        </option><option value="43"
+                                              
+                                             data-country="230"
+                                             data-local="en-vg" 
+                                             data-cultureid="43" 
+                                             data-curpage="/">
+                                                Virgin Islands, British
+                                        </option><option value="251"
+                                              
+                                             data-country="231"
+                                             data-local="en-vi" 
+                                             data-cultureid="251" 
+                                             data-curpage="/">
+                                                Virgin Islands, U.s.
+                                        </option><option value="252"
+                                              
+                                             data-country="234"
+                                             data-local="en-wf" 
+                                             data-cultureid="252" 
+                                             data-curpage="/">
+                                                Wallis and Futuna
+                                        </option><option value="253"
+                                              
+                                             data-country="65"
+                                             data-local="en-eh" 
+                                             data-cultureid="253" 
+                                             data-curpage="/">
+                                                Western Sahara
+                                        </option><option value="254"
+                                              
+                                             data-country="236"
+                                             data-local="en-ye" 
+                                             data-cultureid="254" 
+                                             data-curpage="/">
+                                                Yemen
+                                        </option><option value="255"
+                                              
+                                             data-country="239"
+                                             data-local="en-zm" 
+                                             data-cultureid="255" 
+                                             data-curpage="/">
+                                                Zambia
+                                        </option><option value="256"
+                                              
+                                             data-country="240"
+                                             data-local="en-zw" 
+                                             data-cultureid="256" 
+                                             data-curpage="/">
+                                                Zimbabwe
+                                        </option><option value="50"
+                                              
+                                             data-country="87"
+                                             data-local="el-gr" 
+                                             data-cultureid="50" 
+                                             data-curpage="/">
+                                                Ελλάδα
+                                        </option><option value="14"
+                                              
+                                             data-country="184"
+                                             data-local="ru-ru" 
+                                             data-cultureid="14" 
+                                             data-curpage="/">
+                                                Россия
+                                        </option><option value="66"
+                                              
+                                             data-country="209"
+                                             data-local="th-th" 
+                                             data-cultureid="66" 
+                                             data-curpage="/">
+                                                ไทย (ไทย)
+                                        </option><option value="11"
+                                              
+                                             data-country="47"
+                                             data-local="zh-cn" 
+                                             data-cultureid="11" 
+                                             data-curpage="/">
+                                                中国
+                                        </option><option value="17"
+                                              
+                                             data-country="110"
+                                             data-local="ja-jp" 
+                                             data-cultureid="17" 
+                                             data-curpage="/">
+                                                日本
+                                        </option><option value="32"
+                                              
+                                             data-country="93"
+                                             data-local="zh-hk" 
+                                             data-cultureid="32" 
+                                             data-curpage="/">
+                                                香港 (中文(繁體) 舊版)
+                                        </option>
+                            
+                    </select>
+                </div>
+         </div>
+         
+        
+            <div class="PostalCode">
+                <label id="label_PostalCode">Zip</label>
+                <div><input type="text" id="PostalCode" class="" /><!-- <span class="okNet"></span> --></div>
+            </div>
+            <input type="hidden" id="CityTown" value="" />
+            <input type="hidden" id="State" value="" />
+            <script type="text/javascript">
+                $(document).ready(function() {
+                    $("#PostalCode").blur(function() {
+                        var zipCodeInput = $('#PostalCode');
+                        if (zipCodeInput.length > 0) {
+                            var countryId = $('#regCountrySelect option:selected').attr('data-country');
+                            HandleZipCodeValidation(parseInt(countryId), false);
+                        }
+                    });
+                    $("#PostalCode").autocomplete(
+                        {
+                            source: function(request, response) {
+                                $.ajax({
+                                    url: '/MiscAjax/GetAutocompleteZip',
+                                    dataType: "json",
+                                    data: {
+                                        term: request.term,
+                                        country: 'us'
+                                    },
+                                    success: function(data) {
+                                        if (!data) {
+                                            response('');
+                                        }
+                                        response($.map(data, function(item) {
+                                            var itemArr = item.split('|');
+                                            return {
+                                                label: itemArr[0] + ', ' + itemArr[1],
+                                                value: itemArr[0],
+                                                city: itemArr[1],
+                                                state: itemArr[2]
+                                            };
+                                        }));
+                                    }
+                                });
+                            },
+                            open: function(event, ui) {
+                                var objAutocomplete = $(".ui-autocomplete").eq(0);
+                                objAutocomplete.css("width", 257);                              
+                            },
+                            select: function(event, ui) {
+                                if (ui.item) {                                    
+                                    $('#CityTown').val(ui.item.city);
+                                    $('#State').val(ui.item.state);
+                                    //selectStateAutocomplete(ui.item.state);
+                                    //HandleCityValidation();
+                                    
+                                    setTimeout(function() {
+                                        var zipCodeInput = $('#PostalCode');
+                                        if (zipCodeInput.length > 0) {
+                                            var countryId = $('#regCountrySelect option:selected').attr('data-country');
+                                            HandleZipCodeValidation(parseInt(countryId), false);
+                                        }    
+                                    },100);
+                                    
+                                }
+                            },
+                            minLength: 2
+                        });
+                });
+            </script>
+
+        
+            <div class="signup" id="SignUpBtnShort">
+         
+
+        <span class="leftbotcorner"></span><a href="javascript:void(0);">SIGN UP</a><span class="rightbotcorner"></span></div>
+        <div class="terms">By connecting you accept our <a href="/Terms">terms of use</a></div>
+        
+
+<div id="imgUploadPopup">
+    <div class="ReplaceImageInner stage2">
+        <p>
+            We're working on it...</p>
+        <div class="ajaxHolder">
+        </div>
+    </div>
+    <div class="successMsg">
+        <p>
+            Your picture has been successfully uploaded!
+        </p>
+    </div>
+    <div class="ReplaceImageInner">
+        <p>
+            Upload your profile image now.
+        </p>
+        <div id="uploadImgBtn" class="voteBtn">
+            Upload</div>
+    </div>
+</div>
+
+    </form>
+</div>
+<div id="slides">
+    <div class="slides_container">
+            <div class="slide">                                                 
+                <h1>Ask, Answer, Discover</h1>
+                <h3>
+                Welcome to the fastest, easiest and most fun way to ask and answer questions. Whether you're looking for facts, other people's opinions or just to give yours, Toluna is your new HQ.
+                </h3>
+            </div>
+            <div class="slide">                                                 
+                <h1>A rewarding experience</h1>
+                <h3>
+                Sharing knowledge gives you good karma, right? Well we think that can take a little too long, so we bring the rewards straight to you. Answer surveys, vote on special polls and give your opinion to earn points redeemable for cash, prizes or gifts. It's good to share.
+                </h3>                
+            </div>
+            <div class="slide">                                                 
+                <h1>More than a community</h1>
+                <h3>
+                Your interests are unique, so this community is built around you. Find the topics and people you care about and discover a whole new way to engage and share on the topics that matter to you.
+                </h3>                   
+            </div>            
+    </div>
+    <ul class="pagination">
+        <li class="express"><a href="#"><h2>Ask, Answer, Discover</h2></a></li>  
+        <li class="give"><a href="#"><h2>A rewarding experience</h2></a></li>
+        <li class="spark"><a href="#"><h2>More than a community</h2></a></li> 
+    </ul> 
+</div>
+
+<a href="javascript:void(0);" class="tour2" id="tourVideo">
+    
+    <img src="https://media.tolunacdn.com/static/toluna-4.1.27-date2014-04-09-time11-27-44-250df50af6f0/content/images/take_a_tour_button.png" alt="Take a short tour" />
+    
+    <span id="shortTour">Take a short tour</span>
+</a>
+<div class="clear50"></div>
+
+<div class="dottedbox fbUsers">
+    <div class="l_sidedot">
+        <div class="r_sidedot">
+            <div class="topdot userspic">
+                
+                <div class="iframeContainer">
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="whytitle">WHY JOIN TOLUNA</div>
+<div class="planeRelativeContainer">
+    <div data-class="plane"></div>
+</div>
+<div class="useboxes">
+    <div class="dottedbox">
+        <div class="l_sidedot">
+            <div class="r_sidedot">
+                <div class="topdot">
+                    
+                      <div data-class="landingPageSprite sprite-landingpage2">
+                        
+                    </div>
+                
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2>Discover what the world thinks</h2>
+    <p>Toluna's design creates stunning, professional polls and questions like never before. We worked hard to make sure your experience is a fun, interesting and stylish one.</p>
+    <a href="/About" class="more">Learn more</a>
+    <a href="#top" class="pageup"></a>
+</div>
+
+<div class="useboxes">
+    <div class="dottedbox">
+        <div class="l_sidedot">
+            <div class="r_sidedot">
+                <div class="topdot">
+                    <div data-class="landingPageSprite sprite-landingpage1">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2>Ask questions & get answers</h2>
+    <p>Our unique wizard enables users to create customized polls and ask pertinent questions while enriching their content with photos & videos - you'll have your content online in no time, getting seen by millions.</p>
+    <a href="/About" class="more">Learn more</a>
+    <a href="#top" class="pageup"></a>    
+</div>
+
+<div class="useboxes">
+    <div class="dottedbox">
+        <div class="l_sidedot">
+            <div class="r_sidedot">
+                <div class="topdot">
+                      <div data-class="landingPageSprite sprite-landingpage3">
+                        
+                    </div>
+                
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2>Answer surveys and get great rewards</h2>
+    <p>Express your opinion & make your voice heard while getting rewarded in the process! After each survey completed you'll get points that can be redeemed for lots of fantastic prizes.</p>
+    <a href="/About" class="more">Learn more</a>
+    <a href="#top" class="pageup"></a>
+</div>
+
+<div class="useboxes">
+    <div class="dottedbox">
+        <div class="l_sidedot">
+            <div class="r_sidedot">
+                <div class="topdot">
+               <div data-class="landingPageSprite sprite-landingpage4">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2>Prizes like never before with Gifties</h2>
+    <p>Introducing Gifties, a new concept from Toluna that allows users to send virtual gifts to friends. So what's so cool about that? There's a chance that those virtual gifts will become real!</p>
+    <a href="/About" class="more">Learn more</a>
+    <a href="#top" class="pageup"></a>
+</div>
+
+<div class="useboxes">
+    <div class="dottedbox mb50">
+        <div class="l_sidedot">
+            <div class="r_sidedot">
+                <div class="topdot">
+              
+                <div data-class="landingPageSprite sprite-landingpage5">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2>Sharing is caring</h2>
+    <p>We understand that just about everything on the web today is about sharing. We've made it easy for you.</p>
+    <a href="/About" class="more">Learn more</a>
+    <a href="#top" class="pageup"></a>
+</div>
+
+
+</div>
+<div data-class="bottomsugnup" class="async">
+    <span>So.. what do you say?</span>
+    <a href="#">SIGN UP</a>
+</div>
+</div>
+</div>
+</div>
+
+<script>
+    $(window).load(function () {
+        $(".movieContainer").append("<iframe width=\"550\" height=\"400\" src=\"https://www.youtube.com/embed/O_ct3NmzZ_A\" frameborder=\"0\" allowfullscreen></iframe>");
+    })
+</script>
+<div id="videoPopup" >    
+    <div class="movieContainer">
+                
+     
+    </div>
+</div>
+
+            
+        
+
+        
+        
+        
+<div id="FBConnectToToluna" >
+    <div id="FBConnectToTolunaInner" class="join_signup">
+        <div id="FBConnectToTolunaMain">
+            <br /><br />
+            <p align="center">
+                Your Facebook token has expired, you need to reconnect your Toluna account with Facebook or disconnect the two accounts for now.
+            </p>
+            <br />
+            <p align="center">
+               <a href="javascript:window.open('http://www.facebook.com/dialog/oauth/?response_type=token&display=popup&scope=publish_stream,offline_access,email,user_birthday,user_photos&client_id=281276625223048&redirect_uri=https://us.toluna.com//Auth/FacebookCallBackStore?fb=1','','height=280,width=460,resizable=yes');$('#FBConnectToToluna .close').click();void(0); " class="connectusing_f" style="color:white !important;">
+                   Reconnect now
+                   
+               </a>
+               <br/><br/><a href="javascript:CommonManager.PerformAjaxCall(__UnSubscriptFacebookAutoShareUrl);void(0);">Disconnect my Facebook account for now</a>
+            </p>    
+        </div>
+        <div class="FBConnectToTolunaLogo"></div>
+    </div>
+</div>
+<div class="generalPopup" id="GeneralNotificationPopup">
+    <div class="textPanel">
+        <h3 class="notificationTitle"></h3>
+        <div class="notificationMsg"></div>
+    </div>
+</div>
+
+<div id="GeneralConfirmPopup" class="generalPopup generalConfirm">
+    <div class="textPanel">
+        <div class="notificationMsg"></div>
+        <div class="buttonsRow">
+            <div class="generalButton" id="btnOK">
+                <span>OK</span>
+            </div>
+            <div class="generalButton" id="btnCancel">
+                <span>Cancel</span>
+            </div>            
+        </div>
+    </div>
+</div>
+
+ <div id="SponsoredIframePopup" class="generalRound" style="display:none;">
+            <div class="SponsoredIframePopupTitle generalRound">
+                <div class="g_close close">
+                </div>
+                <h3 class="avenirLTBlack">
+                    It's all about you!
+                </h3>
+            </div>
+            <div class="RewardsRedeempopupcontent stage1 generalRound">
+              <iframe scrolling="auto" style="background-color: white;" id="sponsoredIframeFrame" frameborder="0"  width="873">
+              </iframe>
+                
+                    <!--
+                    <div  class="blueButton generalRound redeemActive">
+                        <span>Next</span>   
+                    </div>
+                    <div class="blueButton generalRound redeemActive">
+                        <span>Back</span>
+                    </div>
+                    -->
+                    <br style="clear:both;"/>
+                </div>
+            </div>
+
+<div id="loginPopup" >    
+    <div id="portlet1" class="join_signup">
+       <h2>
+           Log in to Toluna
+           <span class="popuplogin_span">or</span>
+           <input type="button" value="Sign up" class="popuplogin" onclick="CommonManager.ShowRegistrationModal();" />
+       </h2>
+  
+       
+        <a href="javascript:void(0);" onclick="return CommonManager.fbPopUp('http://www.facebook.com/dialog/oauth/?response_type=token&display=popup&scope=publish_stream,offline_access,email,user_birthday,user_photos&client_id=281276625223048&redirect_uri=https://us.toluna.com//Auth/FacebookAutoRegisterCallBack?fb=1');" class="fbConnectImg">
+            <span class="icon"></span><span>Facebook Connect</span>
+        </a>                    
+        
+        <span class="forgotPassword">
+            <a href="/ForgotPassword">What is my password?</a>
+        </span>
+
+        
+       <div class="clear"></div>
+
+       <div class="loginPopupErrorMsg"><span class="greydownarrow"></span>Please enter correct Toluna credentials.</div>   
+            
+       <div class="loginshortside">
+            <form id="SignInForm" action="" autocomplete="off">
+                
+                <div class="greyplace">
+                    <div class="loginleftside">
+                        <label for="usernameSignIn">Username</label>
+                        <div class="popupbginput longinput"><input id="usernameSignIn" type="text"name="usernameSignIn" /><span class="okNet"></span></div>
+                    </div>
+                    <div class="loginrightside">
+                        <label for="passwordSignIn">Password</label>
+                        <div class="popupbginput longinput"><input class="short" id="passwordSignIn" type="password" name="passwordSignIn" value="" /><span class="okNet"></span></div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                 <div class="rememberDiv">
+                    <input id="remember" type="checkbox" class="styledInput" value="Remember me" />
+                    <label class="labelRemember" for="remember">Remember me</label>
+                </div>   
+
+                <button type="submit" class="logininlogin roundContainer" name="submit">Log in</button>
+            </form>
+          </div>
+        
+      
+       <div style="display:none">
+        <strong>Share your opinions with the world</strong>
+        <span id="loginErrorSpan"> </span>
+        <span id="loginSuccessSpan"> </span>
+        </div>
+    </div>
+
+    <div class="SignInConfirmation join_signup" style="display:none;">
+        <h2>Log in to Toluna</h2>
+        <div class="greyplace">
+        <img src="/Content/images/loadingbig.gif" class="logingif" alt="" />
+        <h3>Checking, please wait...</h3>
+
+       
+        </div>
+    </div>
+
+    <input type="hidden" id="hidLoginCurrPage" value="/"/>
+</div>
+
+
+<div id="joinTolunaPopup" >
+    <div id="JoinTolunaInner" class="join_signup">
+        <h2>
+            Join Toluna
+            <input type="button" value="Log in" class="popuplogin" onclick="CommonManager.ShowSignInModal();"  />
+            <input type="button" value="Sign up" class="popuplogin" onclick="CommonManager.ShowRegistrationModal();" />
+        </h2>
+        <div class="cb"></div>
+        <div class="blueframe">
+            <div class="whitelinetop"></div>
+            <div class="loginPopupErrorMsg"></div> 
+            <div class="midPanel" >
+                <div class="fb-like" data-href="http://www.facebook.com/Toluna" data-send="false" data-layout="standard" data-width="290" data-show-faces="true" data-font="arial"></div>
+                <br/>
+                <a href="javascript:void(0);" onclick="return CommonManager.fbPopUp('http://www.facebook.com/dialog/oauth/?response_type=token&display=popup&scope=publish_stream,offline_access,email,user_birthday,user_photos&client_id=281276625223048&redirect_uri=https://us.toluna.com//Auth/FacebookAutoRegisterCallBack?fb=1');" class="fbHeader fbConnectImg">
+                    <span class="icon"></span>
+                    <span>Facebook Connect</span>
+                </a>
+                <div class="whitelinebottom"></div>
+            </div>
+            <p class="starfooter">
+                <strong>
+                    Join and start sharing your opinions with the world
+                </strong>       
+                <span class="bottonText">
+                    By signing up you accept our
+                    <a href="javascript:window.open('/Terms');void(0);">
+                        terms of use
+                    </a>
+                </span>
+                <br />
+                <span style="color: red; font-size: 14px; line-height: 3em;" id="loginErrorSpan"></span>
+                <span style="color: green; font-size: 14px; line-height: 3em;" id="loginSuccessSpan"></span>
+            </p>
+        </div>
+    </div>
+</div>
+        
+        <script type="text/javascript">
+        //    CommonManager.doCufon();
+            //Cufon.now();
+        </script>
+    </div>
+    </div><!--/stickt_wrapper -->
+    <div class="footerSpacer">
+        
+<div style="clear: both;">
+</div>
+<div class="footer greyform" style="border: 0px solid #ff0000;">
+    
+    <div class="socialplaceContainer" style="border: 0px solid #000000;"></div>
+    
+
+    <div style="border:0px solid #0000ff;" class="footerFloorTwo">
+    <div class="footerRightBottom">
+        <div id="pageLangCur" class="w_bg_input">
+            <select tabindex="17" onchange="HandleSelectCountry($(this).find('option:selected'));HandleChangeCulture();">
+                >
+                
+                <option class="registrationListItem" subdomain="us" cookievalue="TargetCountries=224&ContentLanguages=1&UICulture=en-US"
+                    changedatacenter="" selected='selected'>
+                    United States (English)
+                </option>
+                
+                <option class="registrationListItem" subdomain="ca" cookievalue="TargetCountries=37&ContentLanguages=1&UICulture=en-CA"
+                    changedatacenter="" >
+                    Canada (English)
+                </option>
+                
+                <option class="registrationListItem" subdomain="esus" cookievalue="TargetCountries=224&ContentLanguages=38&UICulture=es-US"
+                    changedatacenter="" >
+                    Estados Unidos (español)
+                </option>
+                
+                <option class="registrationListItem" subdomain="frca" cookievalue="TargetCountries=37&ContentLanguages=16&UICulture=fr-CA"
+                    changedatacenter="" >
+                    Canada (français)
+                </option>
+                
+                <option class="registrationListItem" subdomain="uk" cookievalue="TargetCountries=76&ContentLanguages=1&UICulture=en-GB"
+                    changedatacenter="" >
+                    United Kingdom
+                </option>
+                
+                <option class="registrationListItem" subdomain="fr" cookievalue="TargetCountries=74&ContentLanguages=16&UICulture=fr-FR"
+                    changedatacenter="" >
+                    France
+                </option>
+                
+                <option class="registrationListItem" subdomain="de" cookievalue="TargetCountries=56&ContentLanguages=17&UICulture=de-DE"
+                    changedatacenter="" >
+                    Deutschland
+                </option>
+                
+                <option class="registrationListItem" subdomain="nl" cookievalue="TargetCountries=160&ContentLanguages=12&UICulture=nl-NL"
+                    changedatacenter="" >
+                    Nederland 
+                </option>
+                
+                <option class="registrationListItem" subdomain="nlbe" cookievalue="TargetCountries=21&ContentLanguages=12&UICulture=nl-BE"
+                    changedatacenter="" >
+                    Belgie (Nederlands)
+                </option>
+                
+                <option class="registrationListItem" subdomain="be" cookievalue="TargetCountries=21&ContentLanguages=16&UICulture=fr-BE"
+                    changedatacenter="" >
+                    Belgique (français)
+                </option>
+                
+                <option class="registrationListItem" subdomain="cn" cookievalue="TargetCountries=47&ContentLanguages=7&UICulture=zh-CN"
+                    changedatacenter="" >
+                    China
+                </option>
+                
+                <option class="registrationListItem" subdomain="it" cookievalue="TargetCountries=107&ContentLanguages=23&UICulture=it-IT"
+                    changedatacenter="" >
+                    Italia
+                </option>
+                
+                <option class="registrationListItem" subdomain="es" cookievalue="TargetCountries=67&ContentLanguages=38&UICulture=es-ES"
+                    changedatacenter="" >
+                    España
+                </option>
+                
+                <option class="registrationListItem" subdomain="ru" cookievalue="TargetCountries=184&ContentLanguages=34&UICulture=ru-RU"
+                    changedatacenter="" >
+                    Россия
+                </option>
+                
+                <option class="registrationListItem" subdomain="au" cookievalue="TargetCountries=15&ContentLanguages=1&UICulture=en-AU"
+                    changedatacenter="" >
+                    Australia
+                </option>
+                
+                <option class="registrationListItem" subdomain="jp" cookievalue="TargetCountries=110&ContentLanguages=24&UICulture=ja-JP"
+                    changedatacenter="" >
+                    Japan
+                </option>
+                
+                <option class="registrationListItem" subdomain="in" cookievalue="TargetCountries=102&ContentLanguages=1&UICulture=en-IN"
+                    changedatacenter="" >
+                    India
+                </option>
+                
+                <option class="registrationListItem" subdomain="ie" cookievalue="TargetCountries=100&ContentLanguages=1&UICulture=en-IE"
+                    changedatacenter="" >
+                    Ireland
+                </option>
+                
+                <option class="registrationListItem" subdomain="at" cookievalue="TargetCountries=14&ContentLanguages=17&UICulture=de-AT"
+                    changedatacenter="" >
+                    Österreich
+                </option>
+                
+                <option class="registrationListItem" subdomain="br" cookievalue="TargetCountries=30&ContentLanguages=32&UICulture=pt-BR"
+                    changedatacenter="" >
+                    Brasil
+                </option>
+                
+                <option class="registrationListItem" subdomain="dk" cookievalue="TargetCountries=58&ContentLanguages=11&UICulture=da-DK"
+                    changedatacenter="" >
+                    Danmark
+                </option>
+                
+                <option class="registrationListItem" subdomain="fi" cookievalue="TargetCountries=69&ContentLanguages=15&UICulture=fi-FI"
+                    changedatacenter="" >
+                    Suomi
+                </option>
+                
+                <option class="registrationListItem" subdomain="mx" cookievalue="TargetCountries=151&ContentLanguages=38&UICulture=es-MX"
+                    changedatacenter="" >
+                    Mexico
+                </option>
+                
+                <option class="registrationListItem" subdomain="no" cookievalue="TargetCountries=161&ContentLanguages=29&UICulture=nb-NO"
+                    changedatacenter="" >
+                    Norge
+                </option>
+                
+                <option class="registrationListItem" subdomain="pl" cookievalue="TargetCountries=173&ContentLanguages=31&UICulture=pl-PL"
+                    changedatacenter="" >
+                    Polska
+                </option>
+                
+                <option class="registrationListItem" subdomain="pt" cookievalue="TargetCountries=178&ContentLanguages=32&UICulture=pt-PT"
+                    changedatacenter="" >
+                    Portugal
+                </option>
+                
+                <option class="registrationListItem" subdomain="se" cookievalue="TargetCountries=190&ContentLanguages=39&UICulture=sv-SE"
+                    changedatacenter="" >
+                    Sverige
+                </option>
+                
+                <option class="registrationListItem" subdomain="dech" cookievalue="TargetCountries=42&ContentLanguages=17&UICulture=de-CH"
+                    changedatacenter="" >
+                    Schweiz (Deutsch)
+                </option>
+                
+                <option class="registrationListItem" subdomain="ch" cookievalue="TargetCountries=42&ContentLanguages=16&UICulture=fr-CH"
+                    changedatacenter="" >
+                    Suisse (français)
+                </option>
+                
+                <option class="registrationListItem" subdomain="ar" cookievalue="TargetCountries=12&ContentLanguages=38&UICulture=es-AR"
+                    changedatacenter="" >
+                    Argentina
+                </option>
+                
+                <option class="registrationListItem" subdomain="cl" cookievalue="TargetCountries=45&ContentLanguages=38&UICulture=es-CL"
+                    changedatacenter="" >
+                    Chile
+                </option>
+                
+                <option class="registrationListItem" subdomain="cz" cookievalue="TargetCountries=55&ContentLanguages=10&UICulture=cs-CZ"
+                    changedatacenter="" >
+                    Česká republika
+                </option>
+                
+                <option class="registrationListItem" subdomain="gr" cookievalue="TargetCountries=87&ContentLanguages=18&UICulture=el-GR"
+                    changedatacenter="" >
+                    Ελλάδα
+                </option>
+                
+                <option class="registrationListItem" subdomain="pe" cookievalue="TargetCountries=168&ContentLanguages=38&UICulture=es-PE"
+                    changedatacenter="" >
+                    Peru
+                </option>
+                
+                <option class="registrationListItem" subdomain="za" cookievalue="TargetCountries=238&ContentLanguages=1&UICulture=en-ZA"
+                    changedatacenter="" >
+                    South Africa
+                </option>
+                
+                <option class="registrationListItem" subdomain="tr" cookievalue="TargetCountries=216&ContentLanguages=41&UICulture=tr-TR"
+                    changedatacenter="" >
+                    Türkiye
+                </option>
+                
+                <option class="registrationListItem" subdomain="sg" cookievalue="TargetCountries=191&ContentLanguages=1&UICulture=en-SG"
+                    changedatacenter="" >
+                    Singapore (English)
+                </option>
+                
+                <option class="registrationListItem" subdomain="my" cookievalue="TargetCountries=152&ContentLanguages=28&UICulture=ms-MY"
+                    changedatacenter="" >
+                    Malaysia (Bahasa Melayu)
+                </option>
+                
+                <option class="registrationListItem" subdomain="hk" cookievalue="TargetCountries=93&ContentLanguages=8&UICulture=zh-HK"
+                    changedatacenter="" >
+                    Hong Kong (Chinese Traditional )
+                </option>
+                
+                <option class="registrationListItem" subdomain="th" cookievalue="TargetCountries=209&ContentLanguages=40&UICulture=th-TH"
+                    changedatacenter="" >
+                    Thailand (Thai)
+                </option>
+                
+                <option class="registrationListItem" subdomain="kr" cookievalue="TargetCountries=118&ContentLanguages=25&UICulture=ko-KR"
+                    changedatacenter="" >
+                    Korea, Republic of (Korean)
+                </option>
+                
+                <option class="registrationListItem" subdomain="nz" cookievalue="TargetCountries=165&ContentLanguages=1&UICulture=en-NZ"
+                    changedatacenter="" >
+                    New Zealand
+                </option>
+                
+                <option class="registrationListItem" subdomain="id" cookievalue="TargetCountries=99&ContentLanguages=22&UICulture=id-ID"
+                    changedatacenter="" >
+                    Indonesia
+                </option>
+                
+                <option class="registrationListItem" subdomain="frtn" cookievalue="TargetCountries=0&ContentLanguages=16&UICulture=fr-TN"
+                    changedatacenter="" >
+                    Tunisie (français)
+                </option>
+                
+            </select>
+        </div>
+        <div class="clear"></div>
+        <div class="logos_grey">
+            <!--
+            <div id="d2a91304-8ff7-4856-9098-5de84b0acd98">
+                <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Toluna-USA,-Inc-/asc?rid=d2a91304-8ff7-4856-9098-5de84b0acd98"></script>
+                <a href="//privacy.truste.com/privacy-seal/Toluna-USA,-Inc-/validation?rid=13b9fcd6-c5a4-4a06-82e7-c2b6f17e3e41" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Toluna-USA,-Inc-/seal?rid=13b9fcd6-c5a4-4a06-82e7-c2b6f17e3e41" alt="TRUSTe European Safe Harbor certification"/></a>
+            </div>
+            -->
+            <div id="d2a91304-8ff7-4856-9098-5de84b0acd98">
+                <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Toluna-USA,-Inc-/asc?rid=d2a91304-8ff7-4856-9098-5de84b0acd98"></script>
+                <a href="//privacy.truste.com/privacy-seal/Toluna-USA,-Inc-/validation?rid=13b9fcd6-c5a4-4a06-82e7-c2b6f17e3e41" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Toluna-USA,-Inc-/seal?rid=13b9fcd6-c5a4-4a06-82e7-c2b6f17e3e41" alt="TRUSTe European Safe Harbor certification"/></a>
+            </div>
+
+            <div class="toluna_grey_logo l_g_toluna"></div>
+            <!--<a href="https://us.quicksurveys.com"><img src="https://media.tolunacdn.com/static/toluna-4.1.27-date2014-04-09-time11-27-44-250df50af6f0/content/images/logos/toluna_q_grey.png" alt="" /></a>-->
+            <div class="copyright">
+                ©
+                2014
+                Toluna Group Ltd.</div>
+            <div id="siteCopyright">
+        </div>
+        </div>
+        
+    <!-- Backoffice Cookies -->
+    
+
+
+    
+    
+    <script type="text/javascript">setTimeout(function(){var a=document.createElement('script');var b=document.getElementsByTagName('script')[0];a.src=document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9930.js?'+Math.floor(new Date().getTime()/3600000);a.async=true;a.type='text/javascript';b.parentNode.insertBefore(a,b)}, 1); </script>
+    
+    
+    
+    <script type="text/javascript">
+        $(function () { $('#PageReadyFlag').val('true'); });
+    </script>
+    <form action="">
+    <input id="PageReadyFlag" value="false" type="hidden" /></form>
+    
+         <div class="apps">
+            <a href="https://play.google.com/store/apps/details?id=com.toluna.webservice"
+                target="_blank">
+                <div class="appStoreImg">
+                    <span class="footerAppStore">
+                        Available on
+                    </span>
+                </div>
+            </a>
+            <br />
+            <a href="http://itunes.apple.com/us/app/toluna-people-opinions-polls/id428253034?mt=8" target="_blank">
+                <div class="gPlayImg">
+                    <span class="footerGooglePlay">
+                        Available on
+                    </span>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div id="pageBottomMenu" class="bottomMenu" style="border: 0px solid red;">
+        <div>
+            
+                <a href="http://www.toluna-group.com/" target="_blank">
+                    Toluna Group site</a>
+            
+                <a href="/About">
+                    About Us</a>
+            
+                <a href="/contactus">
+                    Contact</a>
+            
+                <a href="http://www.quicksurveys.com" target="_blank" rel="nofollow">
+                    QuickSurveys</a>
+            
+                <a href="http://usblog.toluna.com/" target="_blank">
+                    Latest News</a>
+            
+                <a href="http://www.thinkaction.com" target="_blank" title="PARTNER WITH US">
+                    Affiliates</a>            
+        </div>
+        <div>
+            
+                <a href="/help">
+                    FAQ</a>
+            
+            
+                <a class="footer_link_terms" href="/Terms">
+                    Site Terms</a>
+            
+                <a class="footer_link_privacy" href="/Privacy">
+                    Privacy Policy</a>
+            
+                <a href="/jobs">
+                    Jobs</a>
+        </div>
+        
+        <div>
+            
+                <a href="https://www.facebook.com/174516888027"
+                    target="_blank">Facebook</a>
+            
+                <a href="https://twitter.com/toluna" target="_blank">Twitter</a>
+            
+                <a href="https://plus.google.com/108551394622911583662" target="_blank">Google+</a>
+            
+                <a href="https://www.youtube.com/watch?v=O_ct3NmzZ_A" target="_blank">Youtube</a>
+        </div>
+        
+    </div>
+    <div class="socialsicons" >
+        
+        <div class="socialShareContainer">
+            
+            <div class="fb-like" data-href="http://www.facebook.com/Toluna"
+                data-send="false" data-layout="button_count" data-width="60" data-show-faces="false"
+                data-font="arial">
+            </div>
+        </div>
+        <div class="socialShareContainer">
+            
+            <div class="g-plusone" data-href="https://us.toluna.com">
+            </div>
+        </div>
+        <div class="socialShareContainer">
+           
+            <a href="https://twitter.com/Toluna"
+                class="twitter-follow-button" data-show-screen-name="false">Follow @Toluna</a>
+        </div>
+        
+        <a href="http://instagram.com/Toluna" target="_blank">
+            <div class="socialShareContainer">
+                <div class="follow-instagram" data-href="#"> </div>
+            </div>
+        </a>
+
+    </div>
+       
+    <span id="timeMeasure" style="color: #F0F0F0; right: 250px; display: none; position: absolute;
+        white-space: normal; top: 133px;"></span>
+    
+    </div>
+    
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        //loadContactForm("#ContactPopup #contactForm");
+        $(".ContactPopupcontent #contactSend").click(function () {
+            submitForm(true, '.ContactPopupcontent');
+        });
+    });    
+    
+</script>
+<div id="ContactPopup" style="width: 695px;
+    display: none; border: 4px solid #458DB1; border-radius: 19px 19px 19px 19px;
+    -moz-border-radius: 19px 19px 19px 19px; -webkit-border-radius: 19px 19px 19px 19px;">
+    <div class="ContactPopuptitle popuptitle">
+        <div class="g_close close">
+        </div>
+        <h3 class="avenirLTBlack">
+            Contact Us
+        </h3>
+    </div>
+    <div class="errorPanel">
+    </div>
+    <div class="ContactPopupcontent stage1" style="padding: 13px 0px 10px 5px;">
+        <div class="whiteplace">
+            <div class="smallcontactplace" >
+                <p>
+                    We'd love to hear your feedback on the site.
+                </p>
+                
+<div class="smallcontact contactFormWrapper ">
+    <form id="contactForm" action="">
+    <div class="smallcontact_left greyform">
+        
+        <span>
+            Name</span><input type="text"
+                id="contactName" name="contactName" value="" />
+        <span>
+            Email</span><input type="text"
+                id="contactEmail" name="contactEmail" value="" />
+        <span>
+            User name</span><input type="text"
+                id="contactUsername" name="contactUsername" value="" />
+        
+    </div>
+    <div class="smallcontact_right">
+        <span>
+            Subject</span><input class="longinput"
+                type="text" id="contactSubject" name="contactSubject"  />
+        <span>
+            Content</span><textarea rows="2" cols="20" id="contactContent" name="contactContent"></textarea>
+        <input type="button" value="Send"
+            id="contactSend" />
+    </div>
+    </form>
+</div>
+<div class="smallcontact contactThankYou">
+    <div class="difsizetitle">
+        <h1 class="bigH">
+            <span></span>
+        </h1>
+        <h2 class="contactThankYouRegText">
+        </h2>
+        <input value="Take Me Home" id="ContactTakeMeHome" type="button" />
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div> 
+
+<style>
+    #TourPopup {
+        top: 240px !important; 
+    }
+    
+    #TourPopup .joyride-close-tip{
+        background: none !important;
+        text-indent: inherit !important;
+    }
+    
+    #TourPopup .buttonWrapper {
+        float: right;
+        padding-right: 19px;
+        
+    }
+    
+    #TourPopup p {
+        padding-right: 25px;
+    }
+</style>
+ <div id="TourPopup" class="joyride-tip-guide" style="display: none;">
+            <h2>Take A Quick Tour </h2>
+            <p>Welcome to Toluna! <BR>Here's a quick tour of a few features to help you get the maximum out of our site.</p>
+            <a class="buttonWrapper">
+                <span class="joyride-next-tip small nice radius yellow button"  style="cursor:pointer;" onclick="javascript:$('.joyride-close-tip.g_close.close').click();">Skip</span>
+                <span class="joyride-next-tip small nice radius yellow button"  style="cursor:pointer;" onclick="javascript:$('.joyride-close-tip.g_close.close').click();CommonManager.HandleTourTipsLocations(this);$('#tourMask').show();">Start</span>
+            </a>
+            <span class="joyride-close-tip g_close close" >X</span>
+</div>
+<script type='text/javascript'> /* <![CDATA[ */ var google_conversion_id = 1006210472; var google_conversion_label = 'pQjsCJDO9gMQqJvm3wM'; var google_custom_params = window.google_tag_params; var google_remarketing_only = true; /* ]]> */ </script> <script type='text/javascript' src='//www.googleadservices.com/pagead/conversion.js'> </script> <noscript> <div style='display:inline;'> <img height='1' width='1' style='border-style:none;' alt='' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006210472/?value=0&label=pQjsCJDO9gMQqJvm3wM&guid=ON&script=0'/> </div> </noscript> 
+
+
+
+
+<!-- Meetrics cookie -->
+
+    </div>
+    <input type="hidden" id="hidShareContentFromEmail" value="notifications@toluna.com" />
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-8694985-1']); // This is my account number, I have added the zeros in this editor
+
+        
+            _gaq.push(['_setCustomVar',1, 'isLoggedIn', 'No', 2 ]);
+        
+      
+        _gaq.push(['_trackPageview']);
+    </script>
+    <script type="text/javascript" src="/combres.axd/siteJs/1197127163/"></script>
+      
+        <script type="text/javascript" src="/combres.axd/LandingPageJs/-735313651/"></script>
+        
+<script type="text/javascript">
+    currentTab = "Surveys";  
+    var imageUrl = '';
+
+    var localDatePattern = "M/d/yyyy";
+    var currYear = 2014;
+    var localDatePattern = "M/d/yyyy";
+    var localDateSeperator = "/";
+    
+    $("document").ready(function () {     
+        
+        $('#tourVideo').click(function () {
+            CommonManager.ShowMovieModal();
+        });
+        
+        
+        CommonManager.HighlightSubmenu("Register");
+    });
+    $(window).load(function() {
+        $(".iframeContainer").append("<iframe src=\"//www.facebook.com/plugins/likebox.php?id=174516888027&amp;width=978&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:978px; height:234px;\" allowTransparency=\"true\"></iframe>");
+    });
+</script>
+
+   
+    <script type="text/javascript" src="/combres.axd/siteDynamicJs/527/"></script>
+
+    
+    <script type="text/javascript">
+        $(window).load(CommonManager.addSocialButtons);
+    </script>
+    
+    <script src="/Js/JsRegistartionPartial" type="text/javascript"></script>
+    <script type="text/javascript" src="/combres.axd/MasterGuestJs/1281717295/"></script>
+    <link rel="stylesheet" type="text/css" href="/combres.axd/MasterGuestCss/-1599557745/"/>
+    
+
+<div id="uploadProfileImagePopup">    
+    <div class="ReplaceImageInner" style="display: block;">
+        <div class="stage2">
+            We're working on it... 
+            <span style="display:block;" class="ajaxHolder"></span> 
+        </div> 
+        <div class="firstMsg">
+            When you upload a picture, our site looks better.
+        </div>
+        <div class="errorMsg"></div>
+        <div class="successMsg" style="display:none;">Your picture has been successfully uploaded! </div> 
+        <div class="uploadBtnContainer">
+            <div id="uploadImgBtn" class="voteBtnlight">Upload</div>
+        </div>
+        <a href="javascript:finishRegistration(true)" class="uploadBtnContainer">
+            Maybe Later...
+        </a>
+        <div class="bluemonster"></div>
+    </div>
+</div>
+    
+    
+</body>
+</html>

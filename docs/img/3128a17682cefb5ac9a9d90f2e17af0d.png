@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>GetGlue - Your app for TV, Movies, and Sports</title>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta names="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+	<link rel="stylesheet" href="/css/main.css?v=3.8.3" type="text/css" />
+	<script src="/js/vendor/cordova-1.7.0.js"></script>
+	<script src="/js/vendor/phonegap-plugins/PushNotification.js"></script>
+	<script type="text/javascript">
+		var require = {
+			urlArgs: "v=3.8.3"
+		};
+	</script>
+	<script src="/js/vendor/require.js"></script>
+	<script type="text/javascript">
+		window.iphone = !!navigator.userAgent.match(/iPhone/i);
+		window.ipad = !!navigator.userAgent.match(/iPad/i);
+		window.inNativeApp = !!((ipad || iphone) && !navigator.userAgent.match(/Safari/i));
+		window.inWebsite = !iphone && !inNativeApp;
+
+		var ready = function(){var b=!1;return function(e){var a=function(){if(!b)return b=!0,e()},d=function(){if(!b){try{document.documentElement.doScroll("left")}catch(c){setTimeout(d,1);return}return a()}};if("complete"===document.readyState)return a();if(document.addEventListener)document.addEventListener("DOMContentLoaded",a,!1),window.addEventListener("load",a,!1);else if(document.attachEvent){document.attachEvent("onreadystatechange",a);window.attachEvent("onload",a);var c=!1;try{c=null==window.frameElement}catch(f){}if(document.documentElement.doScroll&&
+c)return d()}}}();
+
+		var path;
+		if (inWebsite && window.location.pathname !== '/') {
+			path = window.location.pathname.substr(1);
+		} else {
+			path = window.location.hash.substr(1);
+		}
+		if (path.indexOf('quickrate') === 0) {
+		  window.page = "quickrate";
+		} else if (path.indexOf('accounts') === 0) {
+		  window.page = "accounts";
+		} else if (path.indexOf('video') === 0) {
+		  window.page = "video";
+		} else if (path.indexOf('media') === 0) {
+		  window.page = "media";
+		} else {
+		  window.page = "index";
+		}
+
+		var launch = function() {
+			require.config({
+				waitSeconds: 30,
+				baseUrl: '/js/',
+				paths:{
+					text: 'vendor/text',
+					jquery: 'vendor/jquery',
+					underscore: 'vendor/underscore',
+					backbone: 'vendor/backbone',
+					mustache: 'vendor/mustache',
+					iscroll: 'vendor/iscroll',
+					scrollfix: 'vendor/scrollfix',
+					moment: 'vendor/moment',
+					cookies: 'vendor/cookies',
+					hammer: 'vendor/hammer',
+					pusher: 'vendor/pusher',
+					wookmark: 'vendor/jquery.wookmark',
+					masonry: 'vendor/jquery.masonry',
+					embedly: 'vendor/jquery.embedly',
+					imagesloaded: 'vendor/jquery.imagesloaded',
+					iecors: 'vendor/jquery.ie.cors',
+					flexie: 'vendor/flexie',
+					tmpl: '../templates',
+					plugin: 'vendor/plugins',
+					data: '../data'
+				}
+			})
+
+			if(page == 'index') {
+				require(['main'], function(){
+				})
+			} else {
+				require(['pages/' + window.page], function(Page){
+					page = new Page({el: $('body')})
+					page.load()
+				})
+			}
+		};
+
+		if (inNativeApp) {
+			document.addEventListener("deviceready", launch);
+		} else {
+			ready(launch);
+		}
+
+	</script>
+	<script type="text/javascript">
+		window.fbAsyncInit = function() {
+			FB.init({
+				appId      : '22711173293',
+				channelUrl : '//'+window.location.hostname+'/channel.html',
+				status     : true,
+				cookie     : true,
+				xfbml      : true
+			});
+		};
+		// Load the SDK Asynchronously
+		(function(d){
+			 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+			 if (d.getElementById(id)) {return;}
+			 js = d.createElement('script'); js.id = id; js.async = true;
+			 js.src = "//connect.facebook.net/en_US/all.js";
+			 ref.parentNode.insertBefore(js, ref);
+		 }(document));
+	</script>
+	</head>
+	
+	<body>
+		<div id="fb-root"></div>
+		<div id="app">
+			<div id="menu-container">
+				<ul id="menu"> </ul>
+			</div>
+			<div id="hidden-section"></div>
+			<div id="main-container">
+				<div id="sidebar"></div>
+				<div id="content"></div>
+			</div>
+			<div id="footer-container">
+
+				<div id="footer">
+					<div class="social">
+						<a class="facebook" href="http://facebook.com/GetGlue" target="_blank">Facebook</a>
+						<a class="twitter" href="http://twitter.com/GetGlue" target="_blank">Twitter</a>
+						<a class="blog" href="http://blog.getglue.com/" target="_blank">Blog</a>
+						<a class="email" href="mailto:support@getglue.com">Email</a>
+					</div>
+
+					<div class="links">
+						<a data-backbone-router="true" class="about" href="/about">About</a>
+						<a data-backbone-router="true" class="press" href="/press">Press</a>
+						<a data-backbone-router="true" class="jobs" href="/jobs">Jobs</a>
+						<a data-backbone-router="true" class="apps" href="/apps">Apps</a>
+						<a data-backbone-router="true" class="privacy" href="/privacy">Privacy</a>
+						<a data-backbone-router="true" class="faq" href="/faq">FAQ</a>
+						<a data-backbone-router="true" class="api" href="/api">Developers</a>
+					</div>
+
+					<div class="links old-site">
+						<a href="http://o.getglue.com/" target="_blank">Looking for the old site?</a>
+					</div>
+
+					<div class="copyright">
+						<p>Made in NYC</p>
+						<p>© 2012 AdaptiveBlue, Inc.</p>
+					</div>
+				</div>
+			</div>
+			<div id="card_stack"></div>
+			<div id="popovers"></div>
+			<div id="overlay"></div>
+		</div>
+	</body>
+</html>

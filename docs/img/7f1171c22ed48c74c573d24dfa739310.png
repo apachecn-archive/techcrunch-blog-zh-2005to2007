@@ -1,0 +1,884 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Homechoice</title>
+<meta name="DCSext.new_nav" content="1" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" />
+<meta name="content-style-type" content="text/css" />
+<meta name="content-script-type" content="text/javascript" />
+<meta name="author" content="TalkTalk web studio" />
+<meta name="language" content="English" />
+
+
+<!-- WebTrends tags --><!-- /WebTrends tags -->
+
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<link rel="search" href="/search/opensearch-talktalk.php" type="application/opensearchdescription+xml" title="TalkTalk Search" />
+<link rel="stylesheet" href="//m0.ttxm.co.uk/css/gen6/core-talktalk-gen6-20131022.css" type="text/css" />
+<link rel="stylesheet" href="//m0.ttxm.co.uk/css/tv-talktalk-sales-gen6-2013-08-15.css" type="text/css" />
+<!--[if gt IE 8]>
+<link rel="stylesheet" href="//m0.ttxm.co.uk/css/gen6/core-talktalk-gen6-ie-20131022.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="//m1.ttxm.co.uk/css/gen6/core-talktalk-gen6-ie8-20130418.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="//m2.ttxm.co.uk/css/gen6/core-talktalk-gen6-ie7-20130418.css" type="text/css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="//m3.ttxm.co.uk/css/gen6/core-talktalk-gen6-ie6-20130418.css" type="text/css" />
+<![endif]-->
+<link rel="stylesheet" href="//m0.ttxm.co.uk/css/gen6/tthdr-20140102b.css" type="text/css" />
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="//m0.ttxm.co.uk/css/tthdr-ltie9-131002.css" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="//m0.ttxm.co.uk/css/tthdr-ie6-20120802.css" type="text/css" />
+<![endif]-->
+<script type="text/javascript" src="//m0.ttxm.co.uk/scripts/myaccount/main.js"></script>
+<script type="text/javascript" src="//m0.ttxm.co.uk/scripts/core-js-2013-10-01.js"></script>
+<script type="text/javascript" src="//m0.ttxm.co.uk/scripts/text-gradient-2012-07-23.js"></script>
+<script type="text/javascript" src="//m0.ttxm.co.uk/scripts/header-core-javascript-20121207.js"></script>
+<meta name="DCSext.new_nav" content="1" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" />
+<meta name="content-style-type" content="text/css" />
+<meta name="content-script-type" content="text/javascript" />
+<meta name="author" content="TalkTalk web studio" />
+<meta name="language" content="English" />
+<link rel="stylesheet" href="//m1.ttxm.co.uk/css/core-style-2010-10-15a.css" type="text/css" />
+<!--[if lt IE 9]>
+<style type="text/css">
+    .tt_tooltip, .box_t1, .box_t2, .box_t3, .box_t4, .box_t6, .gradtypev1, .gradtypev1ro, .gradtypev2, .gradtypev2ro, .gradtypev3, .gradtypev3ro, .gradtypev4, .gradtypev4ro, .icnshadow, .icnborder, .icnborder2, .icnsize-xs, .icnsize-s, .icnsize-l, .icnsize-xl, .icnsize-xxl, .ttcssicn, .gradtype6_glow, .gradtype5_glow, .gradtype4_glow, .gradtype3_glow, .gradtype2_glow, .gradtype1_glow, .gradtype6, .gradtype6_glow, .gradtype6_glow_ro, .gradtype5, .gradtype5_glow, .gradtype5_glow_ro, .gradtype4, .gradtype4_glow, .gradtype4_glow_ro, .gradtype3, .gradtype3_glow, .gradtype3_glow_ro, .gradtype2, .gradtype2_glow, .gradtype2_glow_ro, .gradtype1, .gradtype1_glow, .gradtype1_glow_ro, .panelBox, button, .button, .btn, .btnalt, .btnalt2, .btnlight, .btnlow, .type1, .type2, .type3, .type4, .type5, .type6, .type7, .type8, .type9, .type10, .type11, .type12, .type13, .type14, .type15, .measure, #tbox_close_btn, .gradtypeprime, .gradtypealt, .dull_ro_type1, .dull_ro_type2, .dull_ro_type3, .dull_ro_type4, .dull_ro_type5, .dull_ro_type6, .tabtype3 tbody, .tcolactive, .gradtypev5, .gradtypev5ro, .gradtypev7ro, .gradtypev6, .gradtypev7, .gradtypev8, .picwall-v2 p, .picwall-v2wide p, .picwall-v3 p, .picwall-v4 p, .picstrip-v1, .tthdr .navmenu, .ttftr .content, li:hover, .bg-rad-grad, .greyhr, .whitehr, .navmenu, .measure>span, .measure>div, #GRID .mb-epg-wrap .mb-nav-date, .mbst-search-holder .mbst-search-box, .mb-epg-move .mb-epg-move-over .seenow, .subnavmenu, #tbox_window, .usage-mins, .usage-text, .usage-web, .usage-back  {behavior: url(/media/css/pie.php);}
+    #tbox_outbox * {-pie-poll: true;}
+</style>
+<![endif]--> 
+<!--[if IE 6]>
+<style type="text/css">
+img, .tab a, .infotag {behavior: url(/media/css/pie.php);}
+</style>
+<![endif]-->
+</head>
+<body class="ttheme_0 ttlegacycon">
+<div class="access"><a href="#accessibility">Accessibility options</a></div>
+<div class="tthdr">
+<div class="tthdrinner">
+<div class="topcon">
+<div class="topconinner">
+<a href="javascript:window.history.back();" class="ui-btn-left ui-btn hide"><span class="ui-btn-inner"><span class="ui-btn-text">Back</span></span></a>
+<a id="menu-btn" href="#menu" class="ui-btn-right ui-btn hide"><span class="ui-btn-inner"><span class="ui-btn-text">Menu</span></span></a>
+<div id="mobile-menu" class="mobile-menu hide">
+	<ul>
+		<li><a href="http://sales.talktalk.co.uk/product/broadband">TV, BroadBand &amp; Phone</a></li>
+		<li><a href="http://www.talktalk.co.uk/migration/mytalktalk/">News &amp; More</a></li>
+		<li><a href="https://myaccount.talktalk.co.uk/home/dashboard">My Account</a></li>
+		<li><a href="http://www.talktalk.co.uk/mail/?check_cookie=1">Mail</a></li>
+		<li><a href="http://help2.talktalk.co.uk/">Help</a></li>
+	</ul>
+</div>
+<div class="logo"><a href="http://www.talktalk.co.uk/" title="TalkTalk"><img src="//m0.ttxm.co.uk/gfx/core/tthdr/logo.png" width="162" height="35" alt="logo" class="gradtypeprime" /></a></div>
+
+<div class="meminfo">
+	<a id="tthdrhomePage" href="#" title="Make TalkTalk my Homepage" class="hide color1 fright">Make TalkTalk my Homepage</a>
+	<a id="tthdrdefsrch" href="/search/" title="Make TalkTalk my default search" class="hide color1 fleft"><span class="ttcssicn icnsize-xs gradtypeprime"><strong title="Make TalkTalk my default search" class="icntype11"></strong></span>&nbsp;Make TalkTalk my default search</a>
+		
+</div>
+<div class="center">
+
+<form class="mainsrch srchweb" action="http://www.talktalk.co.uk/search/mainsearch.php" id="srchfrm" name="srchfrm">
+<input type="hidden" name="from" value="headersearch-homechoice" />
+<input type="hidden" name="type" value="web" />
+<p class="fleft">
+<input type="text" id="tthdrquery" name="query" value="" placeholder="Search with..." tabindex="1" onkeydown="inpKeydwn(this)" onkeyup="inpKeyup(this)" />
+<input type="text" id="tthdrlocation" name="location" placeholder="Where?" tabindex="2" onkeydown="inpKeydwn(this)" />
+<button type="submit" class="btngrad1 btnsmall">Search</button>
+<span class="fright">
+	<span class="fleft">
+		<input type="radio" name="searchType" id="srchweb" class="access" />
+		<span class="radBtn" onclick="radBtnClk(this)" id="srchwebspan"></span>
+		<label for="srchweb" class="small" onclick="radBtnClk(this)">Web</label>
+	</span>
+	<br />
+	<span class="fleft">
+		<input type="radio" name="searchType" id="srchbusiness" class="access" />
+		<span class="radBtn" onclick="radBtnClk(this)" id="srchbusinessspan"></span>
+		<label for="srchbusiness" class="small" onclick="radBtnClk(this)">Local</label>
+	</span>
+</span>
+</p>
+</form>
+
+<script type="text/javascript">
+<!--
+if (window.jQuery) {
+    jQuery(document).ready(function() {
+		jQuery("a#tthdrhomePage").click(function () {
+			if (jQuery.browser.msie && document.all) {
+				document.body.style.behavior='url(#default#homepage)';
+				document.body.setHomePage('https://www.talktalk.co.uk');
+                return false;
+			} else {
+				window.location.href = "http://help2.talktalk.co.uk/broadband-wireless/make-talktalk-my-homepage";
+			}
+       		return false;
+    });
+	  
+    jQuery('#tthdrdefsrch').click(function(e) {
+      e.preventDefault();
+      addSearch();
+    });
+
+		jQuery(".tthdr .mainsrch button").click(function () {
+            var stype = jQuery(".mainsrch").attr('class').toString();
+	     	if(stype.indexOf('srchbusiness') >= 0 && !(jQuery.trim(jQuery(".tthdr .mainsrch input[name='query']").val())) == ""){
+				var n = 'thomsonlocal-searchbox';
+	     		if(window.dcsMultiTrack)	
+            	  dcsMultiTrack('DCS.dcsuri',window.location.pathname,'WT.ac',n,'WT.z_at',n);
+	     	}
+		});
+	});
+}	
+	window.onload = function() {
+		var loc = '' + document.location;
+		// to stop focus for webmail page and page is not auto refresh
+		if (!loc.match(/refresh=true/) && !window.disableTalkTalkSearchFocus) {
+			document.srchfrm.query.focus();
+		}
+		var searchType = document.getElementsByName('type')[0].value;
+		changeSearchMode('srch' + searchType);
+	}
+	
+	function changeSearchMode(id) {
+		if (id.match(/^srch(\w+)$/)) {
+			var frmClsName = document.getElementById('srchfrm').className;
+			document.getElementById('srchfrm').className = frmClsName.substr(0, frmClsName.indexOf(' srch')) + ' ' + id;
+			var type = RegExp.$1;
+			var placeHolders = {"web":["Web","Search with..."],"business":[" Local","Search                                  for..."]};
+			var placeHolder = placeHolders[type] ? placeHolders[type][1] : '';
+			document.getElementsByName('type')[0].value = type;
+			var querFld = document.getElementsByName('query')[0];
+			var locFld = document.getElementsByName('location')[0];
+			var querVal = querFld.value;
+			var querFlg = false;
+			for(var ind = 0; ind < 2; ind++) {
+				if(placeHolders['web'][1] == querVal || placeHolders['business'][1] == querVal) {
+					querVal = '';
+					break;
+				}
+			}
+			querFld.setAttribute('placeholder', placeHolder);
+			if(querVal.length == 0) {
+				querFlg = true;
+				querVal = querFld.getAttribute('placeholder');
+			}
+			var userAgent = navigator.userAgent;
+			if(userAgent.toLowerCase().indexOf('chrome') == -1 && userAgent.toLowerCase().indexOf('firefox') == -1) {
+				querFld.value = querVal;
+				locFld.value = locFld.getAttribute('placeholder');
+			} else if(userAgent.toLowerCase().indexOf('chrome') == -1) {
+				locFld.value = locFld.getAttribute('placeholder');
+			}
+			
+			if(querFlg) {
+				removeClass(querFld, 'nobackgroundImage');
+			} else {
+				addClass(querFld, 'nobackgroundImage');
+			}
+			
+			// to stop focus for webmail page
+			if(!window.disableTalkTalkSearchFocus) {
+				setCaretPosition(document.getElementById('tthdrquery'), document.getElementById('tthdrquery').value);
+			}
+			
+			return true;
+		}
+	}
+	
+	function inpKeydwn(elm) {
+		var userAgent = navigator.userAgent;
+		if(userAgent.toLowerCase().indexOf('chrome') == -1) {
+			var placeholders = {"web":["Web","Search with..."],"business":[" Local","Search                                  for..."]};
+			var hidTypFld = document.getElementsByName('type')[0].value;
+			if(elm.value == placeholders[hidTypFld][1] || elm.value == elm.getAttribute('placeholder')) {
+				elm.value = '';
+				removeClass(elm, 'color4');
+			}
+		}
+	}
+	
+	function inpKeyup(elm) {
+		var placeholders = {"web":["Web","Search with..."],"business":[" Local","Search                                  for..."]};
+		var hidTypFld = document.getElementsByName('type')[0].value;
+		var tmpVal = elm.value;
+		if(elm.value.length > 0 && elm.value != placeholders[hidTypFld][1]) {
+			addClass(elm, 'nobackgroundImage');
+		} else {
+			removeClass(elm, 'nobackgroundImage');
+		}
+	}
+// -->
+</script>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="tthdrbase gradtypeprime hide"></div>
+<ul class="nav">
+<li><a href="http://sales.talktalk.co.uk/product/broadband">TV, Broadband &amp; Calls</a></li><li class="active"><a href="http://www.talktalk.co.uk/migration/mytalktalk/">News &amp; More</a></li><li><a href="https://myaccount.talktalk.co.uk/home/dashboard">My Account</a></li><li><a href="http://www.talktalk.co.uk/mail/?check_cookie=1">Mail</a></li><li class="omega"><a href="http://help2.talktalk.co.uk/">Help</a></li></ul>
+
+<div class="subnav" id="tthdrsubnav" style="border-bottom: none"> 
+<ul>
+<li><a href="http://www.talktalk.co.uk/" data-nav-exactmatch="1">Home</a></li><li class="hasmenu"><a href="http://www.talktalk.co.uk/news/">News</a><br /><div class="navmenuwrap">
+<span class="arrow"><strong>^</strong></span>
+  <ul class="navmenu">
+  <li>
+    <ul>
+    <li><a href="http://www.talktalk.co.uk/news/uk/">UK</a></li><li><a href="http://www.talktalk.co.uk/news/world/">World</a></li><li><a href="http://www.talktalk.co.uk/news/showbiz/">Showbiz</a></li><li><a href="http://www.talktalk.co.uk/news/business/">Business</a></li>
+    </ul>
+  </li><li>
+    <ul>
+    <li><a href="http://www.talktalk.co.uk/news/technology/">Technology</a></li><li><a href="http://www.talktalk.co.uk/news/sport/">Sport</a></li><li><a href="http://www.talktalk.co.uk/news/odd/">Weird news</a></li><li><a href="http://www.talktalk.co.uk/weather/">Weather</a></li>
+    </ul>
+  </li>
+  </ul>
+  </div>
+</li><li><a href="http://www.talktalk.co.uk/tv-guide/tv-made-for-you/christmas">TV Picks</a></li><li class="hasmenu"><a href="http://www.talktalk.co.uk/tv-guide/">TV Guide</a><br /><div class="navmenuwrap">
+    <span class="arrow"><strong>^</strong></span>
+    <ul class="navmenu">
+        <li>
+            <ul>
+    <li><a href="http://www.talktalk.co.uk/tv-guide/listings">Listings</a></li><li><a href="http://www.talktalk.co.uk/tv-guide/tv-made-for-you/christmas">TV Picks</a></li>
+    </ul>
+  </li>
+  </ul>
+  </div>
+</li><li class="hasmenu"><a href="http://www.talktalk.co.uk/money/">Money</a><br /><div class="navmenuwrap">
+<span class="arrow"><strong>^</strong></span>
+  <ul class="navmenu">
+  <li>
+    <ul>
+    <li><a href="http://www.moneysupermarket.com/credit-cards/?source=Talk">Credit cards</a></li><li><a href="http://www.moneysupermarket.com/savings/?source=TALK">Savings</a></li><li><a href="http://digitallook.talktalk.co.uk/">Shares</a></li>
+    </ul>
+  </li>
+  </ul>
+  </div>
+</li><li class="hasmenu"><a href="http://talktalk.parentdish.co.uk?ncid=ttg_nav">Parenting</a><br /><div class="navmenuwrap">
+<span class="arrow"><strong>^</strong></span>
+  <ul class="navmenu">
+  <li>
+    <ul>
+    <li><a href="http://talktalk.parentdish.co.uk/is-it-just-me/?ncid=ttg_nav">Is it Just Me?</a></li><li><a href="http://talktalk.parentdish.co.uk/babies/?ncid=ttg_nav">Babies</a></li><li><a href="http://talktalk.parentdish.co.uk/teenagers/?ncid=ttg_nav">Teens</a></li><li><a href="http://talktalk.parentdish.co.uk/food/?ncid=ttg_nav">Food</a></li><li><a href="http://talktalk.parentdish.co.uk/blogs/?ncid=ttg_nav">Blogs</a></li>    
+    </ul>
+   </li><li>
+    <ul>
+    <li><a href="http://talktalk.parentdish.co.uk/pregnancy-and-birth/?ncid=ttg_nav">Pregnancy &amp; Birth</a></li><li><a href="http://talktalk.parentdish.co.uk/kids/?ncid=ttg_nav">Kids</a></li><li><a href="http://talktalk.parentdish.co.uk/family-and-parents/?ncid=ttg_nav">Family</a></li><li><a href="http://talktalk.parentdish.co.uk/fun/?ncid=ttg_nav">Fun</a></li><li><a href="http://talktalk.parentdish.co.uk/celebrity/?ncid=ttg_nav">Celeb</a></li>    
+    </ul>
+  </li>
+  </ul>
+</div>
+</li><li class="hasmenu"><a href="http://www.talktalk.co.uk/lifestyle/">Lifestyle</a><br /><div class="navmenuwrap">
+<span class="arrow"><strong>^</strong></span>
+  <ul class="navmenu">
+  <li>
+    <ul>
+    <li><a href="http://k.ilius.net/?mtcmk=087410&amp;fsid=100">Dating</a></li><li><a href="http://www.talktalk.co.uk/shopping/">Shopping</a></li><li><a href="http://www.talktalk.co.uk/motoring/">Cars</a></li><li><a href="http://www.talktalk.co.uk/reference/">Encyclopaedia</a></li>
+    </ul>
+   </li><li>
+	<ul>
+    <li><a href="http://www.talktalk.co.uk/community/">Community</a></li><li><a href="http://www.talktalk.co.uk/home-garden/">Home &amp; garden</a></li><li><a href="http://talktalk.matchaffinity.com/?mtcmk=721451">Relationships</a></li><li><a href="http://www.talktalk.co.uk/lifestyle/healthfitness/">Health</a></li>
+    </ul>
+  </li>
+  </ul>
+</div>
+</li><li class="hasmenu"><a href="http://www.talktalk.co.uk/travel/">Travel</a><br />
+</li><li class="hasmenu"><a href="http://play.talktalk.co.uk/">Games</a><br /><div class="navmenuwrap">
+<span class="arrow"><strong>^</strong></span>
+  <ul class="navmenu">
+  <li>
+    <ul>
+    <li><a href="http://play.talktalk.co.uk/online-games">Play online</a></li><li><a href="http://play.talktalk.co.uk/download-games">Download</a></li>
+    </ul>
+  </li>
+  </ul>
+</div>
+</li><li class="hasmenu"><a href="http://www.talktalk.co.uk/gambling/">Play to Win</a><br /><div class="navmenuwrap">
+<span class="arrow"><strong>^</strong></span>
+  <ul class="navmenu">
+  <li>
+    <ul>
+    <li><a href="http://ad-emea.doubleclick.net/clk;260401858;84732141;d">Deal or No Deal</a></li><li><a href="http://ad-emea.doubleclick.net/clk;274310258;84732141;b">Big Value Bingo</a></li><li><a href="http://ad-emea.doubleclick.net/clk;274310367;84732141;c">Get £35 to Play*</a></li>
+    </ul>
+  </li>
+  </ul>
+</div>
+</li><li class="hasmenu menupos2"><a href="http://talktalk.zoopla.co.uk/">Property</a>
+<br /><div class="navmenuwrap">
+<span class="arrow"><strong>^</strong></span>
+<ul class="navmenu">
+  <li>
+    <ul>
+      <li><a href="http://talktalk.zoopla.co.uk/for-sale/">For sale</a></li><li><a href="http://talktalk.zoopla.co.uk/to-rent">To rent</a></li><li><a href="http://talktalk.zoopla.co.uk/home-values/">Current values</a></li><li><a href="http://talktalk.zoopla.co.uk/house-prices/">Sold prices</a></li>
+    </ul>
+   </li><li>
+    <ul>
+      <li><a href="http://talktalk.zoopla.co.uk/new-homes/">New homes</a></li><li><a href="http://talktalk.zoopla.co.uk/find-agents/">Find agents</a></li><li><a href="https://talktalk.zoopla.co.uk/signin/#section-register">Free email alerts</a></li><li><a href="http://www.talktalk.co.uk/property/features.html">Features</a></li>
+    </ul>
+  </li>
+</ul>
+</div>
+</li><li><a href="http://music.talktalk.co.uk/"><span class="colorprime">NEW</span> Music</a></li><li class="omega"><a href="http://portal.ebay.eu/talktalk/uk/">eBay</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+<!--
+//Highlight links.
+(function(){
+  function matchUri(uri, currentUri, exactMatch) {
+    uri = String(uri).replace(/^https:/,'http:');
+    currentUri = String(currentUri).replace(/^https:/,'http:');
+    var res = false;
+    if (uri == currentUri) {
+        res = true;
+    } else if (!exactMatch) {
+        // Test for prefix
+        var urls = [];
+        if (uri.indexOf('?') == -1) {
+          urls[urls.length] = uri + '?';
+          var len = uri.length;
+          if (uri.lastIndexOf('/') == (len-1)) {
+             urls[urls.length] = uri;
+          } else {
+             urls[urls.length] = uri + '/';
+          }
+        }
+        var i;
+        for (i = 0;i < urls.length; i++) {
+          if (currentUri.indexOf(urls[i]) === 0) {
+             // Prefix match.
+             res = true;
+             break;
+          }
+        }
+    }
+    return res;
+  }
+
+  function matchLink(item, currentUri) {
+    var res = false;
+    if (item) {
+      var uri = item.getAttribute('href');
+      var exactMatch = false;
+      if (item.getAttribute('data-nav-exactmatch')) {
+          exactMatch = true;
+      }
+      res = matchUri(uri, currentUri, exactMatch);
+      if (!res) {
+        var m = item.getAttribute('data-nav-match');
+        if (m && m != '') {
+          var matches = m.split(/,/);
+          var i;
+          for (i = 0;i < matches.length;i++) {
+            var href = matches[i];
+            if (window.mapHost) {
+              var href = href.replace(mapHost, document.location.host);
+            }
+
+            if (matchUri(href, currentUri, false)) {
+               res = true;
+               break;
+            }
+          }
+        }
+      }
+    }
+    return res;
+  }
+
+  function getLinkDepth(item) {
+    var maxDepth = 10;
+    var depth = 0;
+    var i;
+    var ob = item;
+    for(i = 0; i < maxDepth;i++) {
+       if (ob && ob.parentElement) {
+          ob = ob.parentElement;
+          if (String(ob.tagName).toUpperCase() == 'UL') {
+            depth++;
+          }
+          if (String(ob.className).match(/\bsubnav\b/)) {
+            break;
+          }
+       } else {
+          break;
+       }
+    }
+    return depth;
+  }
+
+  function highlightLink(item) {
+    var i;
+    var max = 20;
+    var ob = item;
+    for (i = 0;i < max;i++) {
+      if (!ob || String(ob.className).match(/\bsubnav\b/)) {
+        break;
+      }
+      if (String(ob.tagName).toUpperCase() == 'LI') {
+        ob.className += ' active';
+      }
+      ob = ob.parentElement;
+    }
+  }
+
+  var subNav = document.getElementById('tthdrsubnav');
+  if (subNav) {
+    var links = subNav.getElementsByTagName('a');
+    if (links.length) {
+      var curLoc = '' + document.location;
+      var numLinks = links.length;
+      var matchedElem = null;
+      var matchedDepth = 0;
+      var i;
+      for (i = 0; i < numLinks; i++) {
+        var item = links[i];
+        if (window.mapHost) {
+          var href = String(item.getAttribute('href'));
+          var newHref = href.replace(mapHost, document.location.host);
+          if (href != newHref) {
+              item.setAttribute('href', newHref);
+          }
+        }
+
+        if (matchLink(item, curLoc)) {
+          var depth = getLinkDepth(item);
+          if (depth > matchedDepth) {
+            matchedDepth = depth;
+            matchedElem = item;
+          }
+        }
+      }
+
+      if (matchedElem) {
+        // Highlight element.
+        highlightLink(matchedElem);
+      }
+    }
+  }
+})();
+// -->
+</script>
+</div>
+</div>
+<!-- header end -->
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function() {
+var theme;
+  jQuery(".show-logout").tbox({
+    id: "logout-box",
+    type: "clone",
+    showCloseBox: false,
+    width: 400
+  });
+  jQuery(".show-logout-tv").tbox({
+      id: "logout-tv-box",
+      type: "clone",
+      showCloseBox: true,
+      width: 500
+    });
+jQuery('#show-logout-theme').click(function() {
+	theme = jQuery(document.body).attr('class');
+       jQuery(document.body).removeClass(theme).addClass('ttheme_4');
+	gradientText.setHiddenElements();
+
+});
+
+jQuery('#tbox_close_btn, #logout-cancel').click(function(){
+    if(jQuery('#logout-tv-box').is(':visible')){
+	jQuery(document.body).removeClass('ttheme_4').addClass(theme);
+	gradientText.setHiddenElements();
+    }
+});
+
+  jQuery(".primegradient, .altgradient").each(function(index) {
+		if(jQuery(this).attr("data-gradlen") > 0) {
+				var charsPerLine = jQuery(this).attr("data-gradlen");
+				//var charsPerLine=28;
+				var lineStart='<span>';
+				var lineEnd='<\/span><br \/>';
+				var d=document.getElementById("myText");
+				var x=d.innerHTML.replace(/<BR/g,'<br').split(" ");
+				var y=[""];
+				for(var i=0;i<x.length;i++){
+					x[i]+=" ";
+					var t=y[y.length-1]+x[i];
+					if(t.length-t.lastIndexOf('<br')>charsPerLine){y.push(x[i])} else {y[y.length-1]=t}
+				};
+				d.innerHTML=lineStart+y.join(lineEnd+lineStart)+lineEnd;
+			}
+		});
+		//***** PLEASE DO NOT REMOVE THIS LINE, IT IS IMPORTANT TO RELOAD THE SCRIPT OR IT WILL NOT WORK *****//
+		jQuery.getScript('//m0.ttxm.co.uk/scripts/text-gradient-2012-07-23.js');
+  
+});
+//--><!]]>
+</script>
+
+<div id="page-gen6">
+  <div id="page-top"></div>
+
+ <div id="page-middle" class="">
+
+
+	<!-- body start -->
+
+<div id="page-middle">
+	<div class="col16-x content_txt easyread">
+	<a name="contentstart"></a>
+
+	
+	<!-- main content -->
+		<div class="col15-x2">
+				
+
+			<!-- top story -->
+			
+			<div class="promo md4_1">
+<h1 class="mdhdr">Welcome to TalkTalk</h1>
+	
+	<img src="/media/images/gfx/welcome-to-talktalk.jpg" width="150" height="150" alt="Welcome to TalkTalk" class="img" />
+	If you want to check your homechoice email account you can still do this at <a href="http://www.talktalk.co.uk/email/">www.talktalk.co.uk/email/</a>
+	<br /><br />
+	Simply type in your full email address e.g. username@homechoice.co.uk and password to access your account as normal.
+	<br /><br />
+	Please save the above url for future use.
+	<br /><br />
+		
+	<div class="md_clear"></div>
+</div>
+<div class="md_spc"></div>
+<!-- Encyclopedia module end -->
+			
+		
+		</div>	
+		<!-- main content -->		
+		<div class="col6-x2 noprint">
+		<h3 class="access"><strong>Advertisement starts</strong></h3><hr class="access" />
+<script type="text/javascript">
+<!--
+iframead('2394507', 300, 250, window.adgroupid);
+//-->
+</script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/com.greserve.talktalk.2394507;sz=300x250;ord=[timestamp]?" target="_blank"><img src="//ad.uk.doubleclick.net/ad/com.greserve.talktalk.2394507;sz=300x250;ord=[timestamp]?" border="0" width="300" height="250" alt="" /></a></noscript><script src="/misc/im/im.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+im_update_info();
+//-->
+</script><div class="adv-mpu pt4">Advertisement</div>
+<div class="spacer"></div>
+<hr class="access" /><h3 class="access"><strong>Advertisement ends</strong></h3>
+
+ <!-- version 5 -->
+<div class="promo-block md4_2">
+
+<h2 class="access"><a name="secnav">More Links Within This Section</a></h2><hr class="access" />
+
+
+
+
+<h4><strong><a href="http://www.talktalk.co.uk/" target="_top">More from Today:</a></strong></h4>
+<div class="lhlf">
+<ul class="link-list">
+<li><a href="http://dating.talktalk.co.uk/?mtcmk=087410" target="_top" class="lnav">Find a date</a></li><li><a href="http://www.talktalk.co.uk/money/" target="_top" class="lnav">Money tips</a></li><li><a href="http://www.talktalk.co.uk/movies/" target="_top" class="lnav">Movies</a></li><li><a href="http://www.talktalk.co.uk/news/" target="_top" class="lnav">News</a></li><li><a href="http://play.talktalk.co.uk/index.htm?RefId=1000" target="_top" class="lnav">Play games</a></li>
+</ul>
+</div>
+
+<div class="rhlf">
+<ul class="link-list">
+<li><a href="http://www.talktalk.co.uk/news/pa/photos/galleries/today.html" target="_top" class="lnav">Pics of the Day</a></li><li><a href="http://www.kelkoo.talktalk.co.uk/sm_site-map.html" target="_top" class="lnav">Shopping search</a></li><li><a href="http://www.talktalk.co.uk/entertainment/tvguide/" target="_top" class="lnav">TV&nbsp;guide</a></li><li><a href="http://www.talktalk.co.uk/weather/" target="_top" class="lnav">Weather</a></li><li><a href="http://kelkootravel.talktalk.co.uk/" target="_top" class="lnav">Travel search</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+
+</div>
+<div class="spacer"></div>
+<!-- version 5 --> 			
+<!-- promotion start -->
+
+<!-- promotion end -->
+	
+<!-- Column 6 content start -->
+	
+<!-- Column 6 content end -->
+<div class="clear"></div>
+			</div>
+		<div class="clear"> </div>
+	
+	</div>
+
+	<!-- body end -->
+		
+<div class="clear"></div>
+</div>
+</div>    <div class="clear"></div>
+  </div>
+</div>
+
+<!-- footer start -->
+<div class="ttftr">
+<div class="ttftrinner">
+
+<ul class="breadcrumbs">
+<li class="logo"><a href="http://www.talktalk.co.uk/"><img src="//m2.ttxm.co.uk/gfx/core/tthdr/logo-sml.png" width="77" height="21" class="gradtypeprime" alt="TalkTalk" /></a></li>
+<li class="msg"><span class="colorprime">A brighter home for everyone</span></li>
+</ul>
+
+<div class="content">
+<div class="page-content grid_width_5">
+
+<!-- search start -->
+<div class="grid_12">
+<div class="box">
+<form action="http://www.talktalk.co.uk/search/mainsearch.php" method="post" class="ftrsrch">
+<input type="hidden" name="type" value="web" />
+<input type="hidden" name="from" value="gen6footer" />
+<p>
+<input type="text" name="query" id="footerquery" class="field" />
+<button type="submit" class="btngrad1">Search</button>
+</p>
+<script type="text/javascript">
+<!--
+document.getElementById('footerquery').setAttribute('placeholder','Search the web here...');
+// -->
+</script>
+</form>
+</div>
+</div>
+<div class="clear"></div>
+<!-- search end -->
+
+<div class="grid_col">
+<h2 class="no-borders"><a href="http://sales.talktalk.co.uk/product/broadband">TV, Broadband &amp; Phone</a></h2>
+<ul>
+<li><a href="http://sales.talktalk.co.uk/product/broadband/simplybb">SimplyBroadband</a></li>
+<li><a href="http://sales.talktalk.co.uk/product/tv">Plus TV</a></li>
+<li><a href="http://sales.talktalk.co.uk/products/broadband/fibre-optic/check/">Fibre</a></li>
+<li><a href="http://sales.talktalk.co.uk/products/mobile">Mobile</a></li>
+<li><a href="http://sales.talktalk.co.uk/product/phone">Home Phone</a></li>
+<li><a href="http://sales.talktalk.co.uk/product/homesafe">HomeSafe</a></li>
+<li><a href="http://www.talktalkbusiness.co.uk/products-and-services/connectivity-networking/business-broadband/?utm_source=talktalk&amp;utm_medium=referral&amp;utm_campaign=tt-businessbroadband&amp;cid=ttpref">Business Broadband</a></li>
+<li class="omega"><a href="http://www.talktalk.co.uk/shop">Accessories</a></li>
+</ul>
+</div>
+
+<div class="grid_col">
+<h2 class="no-borders"><a href="http://www.talktalk.co.uk/migration/mytalktalk/">News &amp; More</a></h2>
+<ul>
+<li><a href="http://www.talktalk.co.uk/">Home</a></li>
+<li><a href="http://www.talktalk.co.uk/news/">News</a></li>
+<li><a href="http://www.talktalk.co.uk/tv-guide/">TV guide</a></li>
+<li><a href="http://www.talktalk.co.uk/money/">Money</a></li>
+<li><a href="http://www.talktalk.co.uk/lifestyle/">Lifestyle</a></li>
+<li><a href="http://talktalk.parentdish.co.uk?ncid=ttg_footer">Parenting</a></li>
+<li><a href="http://www.talktalk.co.uk/travel/">Travel</a></li>
+<li><a href="http://play.talktalk.co.uk/">Games</a></li>
+<li><a href="http://www.talktalk.co.uk/gambling/">Play to Win</a></li>
+<li><a href="http://portal.ebay.eu/talktalk/uk/">eBay</a></li>
+<li class="omega"><a href="http://www.talktalk.co.uk/sitemap/">Sitemap</a></li>
+</ul>
+</div>
+
+<div class="grid_col">
+<h2 class="no-borders"><a href="https://myaccount.talktalk.co.uk/home/dashboard">My Account</a></h2>
+<ul>
+<li><a href="https://myaccount.talktalk.co.uk/mybill">Bills &amp; payment</a></li>
+<li><a href="https://myaccount.talktalk.co.uk/accountdetails/Editaccountdetails/accountdetailslanding">Profile &amp; settings</a></li>
+<li><a href="https://myaccount.talktalk.co.uk/myservices/myservices/view">Package &amp; Boosts</a></li>
+<li><a href="https://myaccount.talktalk.co.uk/myservices/myservices/extrasfromtalktalk">Extras from TalkTalk</a></li>
+<li><a href="https://myaccount.talktalk.co.uk/home/dashboard/ordertracker">Track order</a></li>
+<li><a href="https://myaccount.talktalk.co.uk/homemover/brochure">Move home</a></li>
+<li><a href="https://my.talktalk.co.uk/servicecentre/">Service Centre</a></li>
+<li class="omega"><a href="https://myaccount.talktalk.co.uk/supporttools">Support &amp; tools</a></li>
+</ul>
+</div>
+
+<div class="grid_col">
+<h2 class="no-borders"><a href="http://www.talktalk.co.uk/mail/?check_cookie=1">My Mail</a></h2>
+<ul>
+<li><a onclick="if(window.goWebmail) {goWebmail('inbox');return false;}" href="http://www.talktalk.co.uk/mail/#inbox">Inbox</a></li>
+<li><a onclick="if(window.goWebmail) {goWebmail('contacts');return false;}" href="http://www.talktalk.co.uk/mail/#contacts">Contacts</a></li>
+<li><a onclick="if(window.goWebmail) {goWebmail('calendar');return false;}" href="http://www.talktalk.co.uk/mail/#calendar">Calendar</a></li>
+<li class="omega"><a onclick="if(window.goWebmail) {goWebmail('settings');return false;}" href="http://www.talktalk.co.uk/mail/#settings">Settings</a></li>
+</ul>
+</div>
+
+<div class="grid_col">
+<h2 class="no-borders"><a href="http://help2.talktalk.co.uk/">Help</a></h2>
+<ul>
+<li><a href="http://help2.talktalk.co.uk/my-account-bills">My Account &amp; bills</a></li>
+<li><a href="http://help2.talktalk.co.uk/tv">TV</a></li>
+<li><a href="http://help2.talktalk.co.uk/broadband-wireless">Broadband &amp; wi-fi</a></li>
+<li><a href="http://help2.talktalk.co.uk/mobile">Mobile</a></li>
+<li><a href="http://help2.talktalk.co.uk/home-phone">Home phone</a></li>
+<li><a href="http://help2.talktalk.co.uk/email">Email</a></li>
+<li><a href="http://help2.talktalk.co.uk/joining-talktalk">Joining us</a></li>
+<li><a href="http://help2.talktalk.co.uk/moving-home">Moving home</a></li>
+<li><a href="http://myaccount.talktalk.co.uk/supporttools">Support &amp; tools</a></li>
+<li class="omega"><a href="http://www.talktalk.co.uk/contactus">Contact Us</a></li>
+</ul>
+</div>
+
+<div class="clear"></div>
+
+</div>
+</div>
+
+<div class="aboutus">
+  <ul class="ultype3">
+    <li><a href="http://www.talktalkgroup.com/">Corporate site</a></li>
+    <li><a href="http://careers.talktalk.co.uk/">Work at TalkTalk</a></li>
+    <li><a href="http://www.talktalk.co.uk/advertise/">Advertise</a></li>
+    <li><a href="http://www.talktalk.co.uk/presscentre/">Press</a></li>
+    <li><a href="https://my.talktalk.co.uk/servicecentre/">Service Centre</a></li>
+    <li><a href="http://www.talktalk.co.uk/help/">Help</a></li>
+    <li class="omega"><a href="http://www.talktalk.co.uk/contactus/">Contact Us</a></li>
+    <li class="omega fright"><a href="http://www.talktalk.co.uk/legal/cookie-policy/"><strong class="colorprime">Cookies and our policy</strong></a></li>
+  </ul>
+
+  <ul class="ultype3">
+    <li><a href="http://www.talktalk.co.uk/legal/code-of-practice/">Code of Practice</a></li>
+    <li><a href="http://help2.talktalk.co.uk/my-account-bills/how-do-i-make-complaint">Customer Complaints Code</a></li>
+
+    <li><a href="http://www.talktalk.co.uk/legal/">Legal</a></li>
+    <li><a href="http://www.talktalk.co.uk/legal/privacy-policy/">Privacy Policy</a></li>
+    <li class="omega"><a href="http://www.talktalk.co.uk/legal/terms/">Terms &amp; Conditions</a></li>
+    <li class="omega fright">&copy; TalkTalk <span title="portal7nec
+">2014</span></li>
+  </ul>
+
+  <div class="clear"></div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- Cookie info -->
+<div id="cookie_shout" class="color1 small" style="display:none;">
+	This site uses cookies. If you continue without changing your settings, you're consenting to receive the cookies set by our website. <a href="http://www.talktalk.co.uk/legal/what-are-cookies.html"> Find out more</a>&nbsp;
+	<a href="#">
+		<span class="ttcssicn icnsize-xs gradtype3">
+			<strong class="icntype4" title="icntype4" id="close-cookie">Add</strong>
+		</span>
+	</a>
+</div>
+<!-- footer end -->
+
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b")
++ ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+COMSCORE.beacon({
+c1:2,
+c2:"6035756",
+c3:"6035756",
+c4:document.location,
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="//b.scorecardresearch.com/b?c1=2&amp;c2=6035756&amp;c3=6035756&amp;c4=http://www.talktalk.co.uk/homechoice/index.html&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" width="0" height="0" alt="-" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<!-- WebTrends base tags --><!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2010 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 8.6.2 -->
+<!-- Tag Builder Version: 3.0  -->
+<!-- Created: 7/8/2010 8:46:43 AM -->
+<!-- <script src="/media-compressed/js/webtrends.js" type="text/javascript"></script> //-->
+<script src="//m2.ttxm.co.uk/scripts/portal/webtrends.js" type="text/javascript"></script>
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<script type="text/javascript">
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+<script type="text/javascript">
+// Add custom parameters here.
+_tag.WT.cg_n="Portal_Homechoice";_tag.WT.cg_s="Top_Portal_Homechoice";_tag.WT.site = "TTPortal";
+_tag.dcsCollect();</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs835q2j00000oiyds9fvdwp_6d8h/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+<!-- /WebTrends base tags -->
+
+<!--  <a href="http://help.talktalk.co.uk/app/answers/detail/a_id/2590" id="sidebar-right" class="sidebar-container"></a> -->
+<script type="text/javascript">
+<!--
+if (window.jQuery) {
+    jQuery(document).ready(function() {
+           //On Initial page load, if browser window dimension is less than 1040x500, hide the sidebar
+           if(jQuery(window).height() < 500 || jQuery(window).width()< 1040)
+           {
+             jQuery("#sidebar-right").hide();
+           } 
+           else
+               {                  
+                 jQuery("#sidebar-right").show("fast",function() {
+                      jQuery(this).animate({width: "55px"},200);
+                      jQuery(this).animate({width: "60px"},200);     
+                      jQuery(this).animate({width: "55px"},200);
+                      jQuery(this).animate({width: "60px"},200);
+                    });
+               }           
+
+           //when browser window is resized, if browser window dimension is less than 1040x500, hide the sidebar  
+           jQuery(window).resize(function() {
+              if(jQuery(window).height() < 500 || jQuery(window).width()< 1040)
+               {
+                  jQuery("#sidebar-right").hide();
+               } 
+               else
+               {                  
+                  jQuery("#sidebar-right").stop(true,true).show("fast",function() {
+                      jQuery(this).animate({width: "55px"},200);
+                      jQuery(this).animate({width: "60px"},200);     
+                  });
+                
+               }
+                                 
+           });
+                     
+           //On Mouse-enter, display the inactive sidebar image, on Mouse-leave display the hover image to its full visible length
+           jQuery("#sidebar-right").hover(function(){
+                jQuery(this).animate({width: "80px"});
+           },
+           function(){
+                jQuery(this).animate({width: "60px"});
+           });
+    });           
+}
+// -->
+</script>
+
+<!-- section:  -->
+<!-- version: gen6 -->
+</body>
+</html>
+
+<!-- ver 4.0 -->
+</body>
+</html>

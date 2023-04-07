@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Error - usbcell.com</title>
+<meta name="generator" content="TextPad 4.4" />
+<meta name="author" content="Moixa Energy - USBCELL Rechargeable Batteries - www.usbcell.com" />
+<meta name="keywords" content="USBCELL.com, Mobile batteries, USB Power, USB rechargeable cell, USB Rechargeable batteries, AA Battery, 9V battery, cell phone battery, USB CELL, USBCEL, AA Rechargeable USB Batteries, wireless battery, gaming battery, mouse battery, Cell, Cells, AA Cells, Green Battery" />
+<meta name="description" content="usbcell - revolutionary rechargeable battery that can charge from any USB port" />
+<meta name="robots" content="index,follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" href="/moixa.css" media="all" />
+<script type="text/javascript" src="/js/common.js"></script>
+</head>
+
+<body>
+
+<div id="header">
+	<div id="headerleft">
+		<a href="/"><img src="/headerimages/1.jpg" width="200" height="64" style="border: 0px;" alt="usbcell" /></a>
+	</div>
+	<div id="headerright">
+		<ul>
+						<li><img src="/images/basket.gif" width="15" height="10" style="vertical-align: middle;" alt="basket" />&nbsp;<a href="/cart/view">View Basket</a></li>
+			<!--<li><a href="/account">My account</a></li>-->
+		</ul>
+	</div>
+</div>
+<div id="orangestrip"><img class="noimgbord" src="/images/no-header-flash.gif" width="770" height="4" alt="pulse" /></div>
+<div id="topnav">
+	<ul>
+		<li class="tn1"><a href="/">Home</a></li>
+		<li class="tn5"><a href="/products">Our Products</a></li>
+		<li class="tn2"><a href="/product/1/cases/2">Explore Uses</a></li>
+		<li class="tn4"><a href="/product/1">Buy Now!</a></li>
+		<li class="tn3"><a href="/media">Media / Blog Room</a></li>
+		<li class="tn6"><a href="/support">Support</a></li>
+		<li class="tn7"><a href="/about">About us</a></li>
+	</ul>
+</div>
+<div id="pagecontainer">
+	<div id="fullbody" style="padding-top: 20px; padding-right: 10px;">
+		<h1>An error has occurred</h1>
+
+				<h2>Page Not Found</h2>
+
+		<p>The page you were looking for could not be found. This could be because:</p>
+
+		<ul>
+			<li>You followed a broken or mistyped link from another website</li>
+			<li>There was a slight spelling error in the URL you typed</li>
+			<li>The page you were looking for has been moved or removed from the website.</li>
+		</ul>
+
+		<p>Please use the navigation at the top of the page to look around our website. We apologise for the inconvenience.</p>
+			</div>
+</div>
+
+<div id="footer">
+	<div style="float: left; padding-top: 5px;">
+	&copy; Moixa Energy Ltd 2006
+
+	<ul>
+		<li>| <a href="/privacy">Privacy</a></li>
+		<li>| <a href="/legal">Legal and Contacts</a></li>
+		<li>| <a href="/links">Links</a></li>
+		<li>| <a href="/sitemap">Site Map</a></li>
+		<li>| <a href="" onClick="var fin=window.open('/feedback','popup_product','toolbar=no,status=no,resizable=no,menubar=no,scrollbars=yes,width=470,height=500,left=10,top=10'); fin.focus(); return false;">Feedback</a></li>
+		<li>| <a href="http://www.moixa.com/">Moixa Group</a></li>
+
+			</ul>
+	</div>
+	<div style="float: right; text-align: right;">
+		<a href="https://www.securitymetrics.com/site_certificate.adp?s=217%2e160%2e4%2e87&amp;i=242607" target="_blank" ><img src="https://www.securitymetrics.com/images/sm_ccsafe_wh.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a>
+		<a href="/about"><img src="/images/moixalogo.gif" alt="Moixa Energy" style="width:60px; height: 30px; border: 0px;" /></a>
+	</div>
+
+</div>
+</body>
+</html>

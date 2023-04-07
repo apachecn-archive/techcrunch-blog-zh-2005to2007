@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="UTF-8" />
+<title>Error generating thumbnail</title>
+</head>
+<body>
+<h1>Error generating thumbnail</h1>
+<p>
+The source file 'Blu-ray_Disc.svg' does not exist.
+</p>
+<!-- http://en.wikipedia.org/w/thumb_handler.php/1/14/Blu-ray_Disc.svg/201px-Blu-ray_Disc.svg.png -->
+<!-- mw1154 -->
+
+</body>
+</html>

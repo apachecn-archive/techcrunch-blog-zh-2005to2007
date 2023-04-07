@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<script type='text/javascript'>
+	setTimeout("window.location.href='http://www.rapleaf.com';",3000);
+</script>
+<html>
+
+  <head>
+
+    <title>Page Not Found | Rapleaf</title>
+
+    <style type="text/css">
+
+      body {
+        background-color: #fff;
+	text-align:center;
+	margin:48px;
+	font-family: arial,sans-serif;
+      }
+      
+      h1 {
+        line-height: 1.5em;
+	font-size:1.3em;
+      }	 
+
+      div#footer { 
+        margin-top: 50px; 
+      }
+
+    </style>
+
+  </head>
+  
+  <body>
+
+    <div id="page">
+    
+      <div id="logo"><img src="/images/layout/logo_leaf.gif" alt="RapLeaf" border="0" /></div>
+	  <br/>
+      <h1>Oops! We can't find that page.</h1><br/>
+
+      <p>Please update your bookmarks. You will be re-directed to Rapleaf's home page in 3 seconds.</p><br/>
+			<p>Click <a href="http://www.rapleaf.com">here</a> if you are not redirected or do not wish to wait.</p>
+
+    </div>
+
+    <div id="footer">
+     Questions? Think this might be an error?  <a href="mailto:people@rapleaf.com">Please tell us</a>.
+    </div>
+
+  </body>
+
+</html>

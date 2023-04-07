@@ -1,0 +1,863 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta property="og:image" content="http://cdn2.maxim.com/maxim/sites/default/files/devil_logo_red.gif" />
+<meta property="og:url" content="http://www.maxim.com/uk" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Maxim" />
+<link rel="canonical" href="http://www.maxim.com/uk" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:title" content="Maxim UK" />
+<meta property="twitter:site" content="@MaximMag" />
+<meta property="twitter:image" content="http://cdn2.maxim.com/maxim/sites/default/files/devil_logo_red.gif" />
+<link rel="shortcut icon" href="http://www.maxim.com/sites/default/themes/maxim_base/favicon.ico" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta property="twitter:description" content="Maxim: It’s what guys want." />
+<meta property="twitter:title" content="Maxim UK" />
+<meta property="twitter:creator" content="@MaximMag" />
+<meta property="twitter:url" content="http://www.maxim.com/uk" />
+<meta name="copyright" content="&quot;Maxim Digital&quot;, &quot;MAXIM&quot;, &quot;MAXIM ONLINE&quot;, &quot;Maximonline.com&quot;, &quot;Maxim.com&quot; and the &quot;M&quot; Logo&quot; are registered trademarks owned by Maxim Inc. &quot;Maxim.com&quot; and &quot;MAXIM TO GO&quot; are trademark owned by Maxim Inc." />
+<meta name="description" content="Maxim is home to the latest and greatest Maxim UK content. Read all about the Maxim UK on Maxim.com." />
+<link rel="apple-touch-icon" href="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/apple-touch-icon-76x76.png" sizes="76x76" />
+<link rel="apple-touch-icon" href="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/apple-touch-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" href="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/apple-touch-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" href="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/apple-touch-icon-60x60.png" sizes="60x60" />
+<link rel="dns-prefetch" href="//" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cdn2.maxim.com" />
+<meta name="msapplication-navbutton-color" content="#980202" />
+<meta name="msapplication-square150x150logo" content="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/mstile-150x150.png" />
+<meta name="msapplication-TileColor" content="#980602" />
+<link href="https://plus.google.com/109577250522656249315" rel="publisher" />
+<meta name="msapplication-TileImage" content="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/mstile-144x144.png" />
+<meta name="msapplication-wide310x150logo" content="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/mstile-310x310.png" />
+<meta name="msapplication-square70x70logo" content="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/mstile-70x70.png" />
+<meta name="keywords" content="girls, hot girls, sexy girls, sexy photos, sexy videos, hometown hotties, celebrities, gaming, hot 100, entertainment, maxim, cars, sports, babes, jokes, funny, maxim.com" />
+  <title>Maxim UK | Maxim</title>  
+  <link rel="stylesheet" href="http://www.maxim.com/sites/default/files/cdn/css/http/css_mhRQsr3rxC3_7gvE9c6jiAxtIeIMKEP-b9S0YlrogrY.css" media="all" />
+<link rel="stylesheet" href="http://www.maxim.com/sites/default/files/cdn/css/http/css_Otl0lkqDZyARTdRWnn0IymczNFYjRBOigBElmCwFhJ8.css" media="all" />
+<link rel="stylesheet" href="http://www.maxim.com/sites/default/files/cdn/css/http/css_VnuYsFCsFb3Pk8DoKf01EUdztL-oLlyO7pfncupBX_k.css" media="all" />
+<link rel="stylesheet" href="http://www.maxim.com/sites/default/files/cdn/css/http/css_OTXj3x-ViItjLM3_F_WqpLdbszju_pF6rTQZ5eDZaYE.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link rel="stylesheet" href="http://www.maxim.com/sites/default/files/cdn/css/http/css_5HmfCdpHW4i24AolcogMnSSbP0QYgMui8EB1Iqr99bk.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link rel="stylesheet" href="http://www.maxim.com/sites/default/files/cdn/css/http/css_mwLtXJfw9itCWKF0l5jhO5b9AmKi6Ijy16nx3pj-AxE.css" media="all" />
+<!--<![endif]-->
+  <script src="http://www.maxim.com/sites/default/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script src="http://www.maxim.com/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script src="http://www.maxim.com/sites/default/files/js/js_KOSlx-3LGnvT8f1xl2rJYLSFlBtcePxz3K8nQ_InhS0.js"></script>
+<script src="http://www.maxim.com/sites/all/libraries/postscribe/dist/postscribe.min.js?n5ivjf"></script>
+<script src="http://www.maxim.com/sites/default/files/js/js_IY0I1VzTRnNakmHmmnRbsLELG1qUSCRcOtnECmGx4iw.js"></script>
+<script>
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+</script>
+<script src="http://www.maxim.com/sites/default/files/js/js_w-mhQN-VLU_EosFj57GsiIEI1hWvzPuNq-zNGV0NXC8.js"></script>
+<script>
+jQuery.ajaxSetup({ cache:true });
+var dart_url = "http://ad.doubleclick.net";
+var ord = 1000000000 + Math.floor(Math.random() * 900000000);
+Drupal.DART.settings.writeTags = false;
+Drupal.DART.settings.loadLastTags = {};
+</script>
+<script src="//fonts.maxim.com/anp3txv.js"></script>
+<script>
+try{Typekit.load();}catch(e){}
+</script>
+<script src="https://apis.google.com/js/plusone.js"></script>
+<script src="http://www.maxim.com/sites/default/files/js/js_-WKl3jL7u7Ki1Au5md4l9Y9VqXiHi6Qiw66OcYDcaLU.js"></script>
+<script src="http://platform.twitter.com/anywhere.js?id=bv56eopiTVBpYEHJYi1plg&amp;v=1"></script>
+<script src="http://www.maxim.com/sites/default/files/js/js_RLn2__BbfL4HHYTmpKXzrTzGNMqTJs0yFLdXAueHd_Y.js"></script>
+<script>
+  fw_configuration = {
+    networkId: 376289,
+    siteSectionNetworkId: 376289,
+    videoAssetNetworkId: 376289,
+    amLocation: "http://adm.fwmrm.net/p/maxim_brightcove_as3_live/AdManager.swf",
+    amLocation_js: "http://adm.fwmrm.net/p/maxim_brightcove_html5_live/AdManager.js",
+    fw_server: "http://5bde1.v.fwmrm.net",
+    siteSection: "MaximSiteSection_Right",
+    cb_profile: "maxim_brightcove_as3_live",
+    cb_profile_js: "maxim_brightcove_html5_live",
+    assetIdField: "standardBC_id"
+  };
+  function fw_config() { return fw_configuration; }
+</script>
+<script src="http://www.maxim.com/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script>
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"maxim_base","theme_token":"ttiWzr1FPj8vLMdWr3zPdLGtIGkefHJrkr-wiHUB4IM","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/default\/modules\/custom\/jtweetsanywhere\/jquery.jtweetsanywhere-1.3.1.js":1,"sites\/default\/modules\/custom\/mobilead_float\/mobileAd.js":1,"sites\/all\/libraries\/postscribe\/dist\/postscribe.min.js":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.js":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":1,"http:\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/modules\/patched\/pollanon\/js\/pollanon.pack.js":1,"0":1,"sites\/all\/modules\/patched\/dart\/js\/dart.js":1,"1":1,"sites\/default\/libraries\/news_carousel\/carousel.js":1,"sites\/default\/libraries\/news_carousel\/jcarousellite_1.0.1.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/libraries\/jquery\/jquery.ba-resize.min.js":1,"sites\/default\/themes\/maxim_base\/js\/common.js":1,"2":1,"3":1,"\/\/fonts.maxim.com\/anp3txv.js":1,"4":1,"https:\/\/apis.google.com\/js\/plusone.js":1,"sites\/default\/themes\/maxim_base\/js\/nav.overlay.js":1,"http:\/\/platform.twitter.com\/anywhere.js?id=bv56eopiTVBpYEHJYi1plg\u0026v=1":1,"5":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/default\/modules\/custom\/custom_contact\/contact-form.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/default\/modules\/custom\/jtweetsanywhere\/jquery.jtweetsanywhere-1.3.1.css":1,"sites\/default\/modules\/custom\/mobilead_float\/mobilead_float.css":1,"sites\/all\/modules\/patched\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/patched\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/patched\/pollanon\/pollanon.css":1,"sites\/default\/libraries\/news_carousel\/news_carousel.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/default\/themes\/maxim_base\/css\/block--boxes--in-this-issue.css":1,"sites\/default\/themes\/maxim_base\/css\/global.css":1,"ie::normal::sites\/default\/themes\/maxim_base\/css\/grid\/maxim_base_default\/normal\/maxim-base-default-normal-12.css":1,"sites\/default\/themes\/maxim_base\/css\/grid\/maxim_base_default\/normal\/maxim-base-default-normal-12.css":1,"tablet_wide::sites\/default\/themes\/maxim_base\/css\/maxim-base-maxim-base-default-tablet-wide.css":1,"sites\/default\/themes\/maxim_base\/css\/grid\/maxim_base_default\/tablet_wide\/maxim-base-default-tablet-wide-12.css":1,"tablet_narrow::sites\/default\/themes\/maxim_base\/css\/maxim-base-maxim-base-default-tablet-narrow.css":1,"sites\/default\/themes\/maxim_base\/css\/grid\/maxim_base_default\/tablet_narrow\/maxim-base-default-tablet-narrow-12.css":1,"narrow::sites\/default\/themes\/maxim_base\/css\/maxim-base-maxim-base-default-narrow.css":1,"sites\/default\/themes\/maxim_base\/css\/grid\/maxim_base_default\/narrow\/maxim-base-default-narrow-12.css":1}},"apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"DART":{"bgAdVars":[],"ajax_jquery_plugin":"postscribe"},"mobileAds":{"options":[],"ads":[]},"Maxim":{"channel":[]},"omega":{"layouts":{"primary":"normal","order":["normal","tablet_wide","tablet_narrow","narrow"],"queries":{"normal":"all","tablet_wide":"only screen and (min-width: 680px) and (max-width: 980px)","tablet_narrow":"only screen and (min-width: 480px) and (max-width: 679px)","narrow":"only screen and  (max-width: 479px)"}}}});
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in page-uk context-uk">
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M4NZ6F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M4NZ6F');</script>
+  <!-- End Google Tag Manager -->
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="block block-delta-blocks block-logo block-delta-blocks-logo odd block-without-title" id="block-delta-blocks-logo">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="logo-img"><a href="/"><img typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/uk_logo2.png" alt="Maxim Homepage" /> </a></div>    </div>
+  </div>
+</div><div class="block block-block block-56 block-block-56 even block-without-title" id="block-block-56">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+       <style>
+<!--/*--><![CDATA[/* ><!--*/
+
+.dart-name-dart_big_box_infocus { display:block; }
+/*#zone-pushdown .dart-name-dart_banner { height: auto; }*/
+
+/*--><!]]>*/
+</style><script>
+<!--//--><![CDATA[// ><!--
+
+window.slideshowAdCheck = function() {
+  var refreshAdInterval = 2; // Refresh ad interval
+  if (typeof window.slideshowClickIndex === 'undefined') {
+    window.slideshowClickIndex=0;
+  }
+  slideshowClickIndex++;
+  if (slideshowClickIndex >= refreshAdInterval){
+    slideshowClickIndex=0;
+    maxim_dart('dart_big_box', 1);
+    maxim_dart('dart_leaderboard', 1);
+  }
+}
+
+//--><!]]>
+</script>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-utility-menu-wrapper" class="zone-wrapper zone-utility-menu-wrapper clearfix">  
+  <div id="zone-utility-menu" class="zone zone-utility-menu clearfix container-12">
+    <div class="grid-12 region region-utility-menu" id="region-utility-menu">
+  <div class="region-inner region-utility-menu-inner">
+    <div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/uk" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-searchfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="apachesolr-autocomplete unprocessed form-text form-search" onblur="if (this.value == &#039;&#039;) { jQuery(this).removeClass(&#039;expanded&#039;); jQuery(this).parent().children(&#039;label&#039;).show(); window.disableKeyEvents=0; }" onfocus="jQuery(this).addClass(&#039;expanded&#039;); if (this.value == &#039;&#039;) { jQuery(this).parent().children(&#039;label&#039;).hide(); window.disableKeyEvents=1; }" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-T6unWncTO7PWin4FO2rBGC1aCL1T9kS6H6gZ5x0eJHc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div><section class="block block-system block-menu block-user-menu block-system-user-menu even" id="block-system-user-menu">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">User menu</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first last leaf"><a href="http://www.maxim.com/models" title="">MODEL SUBMISSIONS</a></li>
+</ul>    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <section class="block block-menu-block block-dropdown-menu-1 block-menu-block-dropdown-menu-1 odd" id="block-menu-block-dropdown-menu-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Main menu</h2>
+            
+    <div class="content clearfix">
+      <form>
+<select id="dropDownMenu">
+  <option value="/">Home</option>
+  <optgroup label="Girls"><option value="/girls">Girls Home</option>
+<option value="/girls/girls-of-maxim">Girls of Maxim</option>
+<option value="/girls/hometown-hotties">Hometown Hotties</option>
+<option value="/girls/hot100">Hot 100</option>
+</optgroup><optgroup label="Sports"><option value="/sports">Sports Home</option>
+<option value="/sports/the-big-leagues">The Big Leagues</option>
+<option value="/sports/ufc">MMA</option>
+<option value="/sports/other">Other Sports</option>
+<option value="/sports/girls-of-sports">Girls of Sports</option>
+<option value="/actionsports">Maxim Action Sports</option>
+</optgroup><optgroup label="Entertainment"><option value="/entertainment">Entertainment Home</option>
+<option value="/entertainment/gaming">Gaming</option>
+<option value="/entertainment/movies">Movies</option>
+<option value="/entertainment/tv">TV</option>
+<option value="/entertainment/music">Music</option>
+<option value="/entertainment/comics">Comics</option>
+</optgroup><optgroup label="Tech"><option value="/gadgets-rides">Tech Home</option>
+<option value="/gadgets-rides/gadgets">Gadgets</option>
+<option value="/gadgets-rides/rides">Rides</option>
+<option value="/gadgets-rides/gift-guides">Gift Guides</option>
+</optgroup><optgroup label="Upkeep"><option value="/upkeep">Upkeep Home</option>
+<option value="/upkeep/clothes">Clothes</option>
+<option value="/upkeep/grooming">Grooming</option>
+<option value="/upkeep/fitness">Fitness</option>
+<option value="/upkeep/money">Money</option>
+<option value="/upkeep/how-to">How To</option>
+</optgroup><optgroup label="Vices"><option value="/vices">Vices Home</option>
+<option value="/vices/booze">Booze</option>
+<option value="/vices/food">Food</option>
+<option value="/vices/travel">Travel</option>
+<option value="/upkeep/sex-relationships">Sex & Relationships</option>
+<option value="/tough/true-crime">True Crime</option>
+<option value="/vices/maxim-parties">Maxim Parties</option>
+<option value="/lasvegas">Las Vegas</option>
+</optgroup><optgroup label="Military"><option value="/tough/military">Military Home</option>
+<option value="/tough/maximum-warrior">Maximum Warrior</option>
+<option value="/http://www.maximumwarrior.com/warrior4/#/warriors">Meet the Warriors</option>
+<option value="/http://www.maximumwarrior.com/warrior4/#/challenges">Warrior Challenges</option>
+</optgroup><optgroup label="Funny"><option value="/funny">Funny Home</option>
+<option value="/funny/comedians">Comedians</option>
+</optgroup><optgroup label="Maxim TV"><option value="/maximtv">Maxim TV Home</option>
+</optgroup></select>
+<input type="button" value="Go" onclick="location.href=document.getElementById('dropDownMenu').options[document.getElementById('dropDownMenu').selectedIndex].value;" />
+</form>
+    </div>
+  </div>
+</section><section class="block block-system block-menu block-main-menu block-system-main-menu even" id="block-system-main-menu">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Main menu</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first expanded mtid-1"><a href="/girls" title="Girls">Girls</a><ul class="menu"><li class="first leaf mtid-12"><a href="/girls/girls-of-maxim" title="Girls of Maxim">Girls of Maxim</a></li>
+<li class="leaf mtid-9"><a href="/girls/hometown-hotties" title="Hometown Hotties">Hometown Hotties</a></li>
+<li class="last leaf mtid-10"><a href="/girls/hot100" title="Hot 100">Hot 100</a></li>
+</ul></li>
+<li class="expanded mtid-2"><a href="/sports" title="Sports">Sports</a><ul class="menu"><li class="first leaf mtid-16"><a href="/sports/the-big-leagues" title="NFL, MLB, NBA, NHL, NASCAR">The Big Leagues</a></li>
+<li class="leaf mtid-17"><a href="/sports/ufc" title="MMA">MMA</a></li>
+<li class="leaf mtid-18"><a href="/sports/other" title="Other Sports">Other Sports</a></li>
+<li class="leaf mtid-19"><a href="/sports/girls-of-sports" title="Girls of Sports">Girls of Sports</a></li>
+<li class="last leaf mtid-actionsports"><a href="/actionsports" title="">Maxim Action Sports</a></li>
+</ul></li>
+<li class="expanded mtid-3"><a href="/entertainment" title="Entertainment">Entertainment</a><ul class="menu"><li class="first leaf mtid-22"><a href="/entertainment/gaming" title="Features, Reviews, Lists, Trailers, Game Guides, Quizzes/Games, Platform">Gaming</a></li>
+<li class="leaf mtid-23"><a href="/entertainment/movies" title="Features, Reviews, Lists, Trailers, Quizzes, Games, Videos">Movies</a></li>
+<li class="leaf mtid-29"><a href="/entertainment/tv" title="Features, Reviews, Lists, Trailers, Quizzes, Games, Videos">TV</a></li>
+<li class="leaf mtid-27"><a href="/entertainment/music" title="Features, Reviews, Lists, Tracks, Quizzes, Games, Videos">Music</a></li>
+<li class="last leaf mtid-24"><a href="/entertainment/comics" title="Features, Reviews, Lists, Previews, Quizzes, Games, Videos">Comics</a></li>
+</ul></li>
+<li class="expanded mtid-5"><a href="/gadgets-rides" title="Tech">Tech</a><ul class="menu"><li class="first leaf mtid-33"><a href="/gadgets-rides/gadgets" title="Features, Reviews, Lists, Tips, Videos">Gadgets</a></li>
+<li class="leaf mtid-34"><a href="/gadgets-rides/rides" title="Features, Reviews, Buying Guide, Motorcycles, Boats">Rides</a></li>
+<li class="last leaf mtid-314"><a href="/gadgets-rides/gift-guides" title="Gift Guides">Gift Guides</a></li>
+</ul></li>
+<li class="expanded mtid-6"><a href="/upkeep" title="Upkeep">Upkeep</a><ul class="menu"><li class="first leaf mtid-317"><a href="/upkeep/clothes" title="Style Guide, Mag Spreads, Advice From Women">Clothes</a></li>
+<li class="leaf mtid-318"><a href="/upkeep/grooming" title="Hair, Face, Body">Grooming</a></li>
+<li class="leaf mtid-43"><a href="/upkeep/fitness" title="Workout Guides, Transformations">Fitness</a></li>
+<li class="leaf mtid-319"><a href="/upkeep/money" title="Money">Money</a></li>
+<li class="last leaf mtid-320"><a href="/upkeep/how-to" title="How To">How To</a></li>
+</ul></li>
+<li class="expanded mtid-7"><a href="/vices" title="Vices">Vices</a><ul class="menu"><li class="first leaf mtid-38"><a href="/vices/booze" title="Booze">Booze</a></li>
+<li class="leaf mtid-39"><a href="/vices/food" title="Food">Food</a></li>
+<li class="leaf mtid-42"><a href="/vices/travel" title="Travel">Travel</a></li>
+<li class="leaf mtid-37"><a href="/upkeep/sex-relationships" title="Sex &amp; Relationships">Sex &amp; Relationships</a></li>
+<li class="leaf mtid-324"><a href="/tough/true-crime" title="Investigative Features, War Stories">True Crime</a></li>
+<li class="leaf mtid-45"><a href="/vices/maxim-parties" title="Maxim Parties">Maxim Parties</a></li>
+<li class="last leaf mtid-lasvegas"><a href="/lasvegas" title="">Las Vegas</a></li>
+</ul></li>
+<li class="expanded mtid-44"><a href="/tough/military" title="Military">Military</a><ul class="menu"><li class="first leaf mtid-323"><a href="/tough/maximum-warrior" title="Maximum Warrior">Maximum Warrior</a></li>
+<li class="leaf mtid-http://www.maximumwarrior.com/warrior4/#/warriors"><a href="http://www.maximumwarrior.com/warrior4/#/warriors" title="">Meet the Warriors</a></li>
+<li class="last leaf mtid-http://www.maximumwarrior.com/warrior4/#/challenges"><a href="http://www.maximumwarrior.com/warrior4/#/challenges" title="">Warrior Challenges</a></li>
+</ul></li>
+<li class="expanded mtid-8"><a href="/funny" title="Funny">Funny</a><ul class="menu"><li class="first last leaf mtid-48"><a href="/funny/comedians" title="Comedians">Comedians</a></li>
+</ul></li>
+<li class="last leaf mtid-maximtv"><a href="/maximtv" title="">Maxim TV</a></li>
+</ul>    </div>
+  </div>
+</section>  </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-3 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-views block-newsreel-block block-views-newsreel-block odd block-without-title" id="block-views-newsreel-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      
+<div class="topModule"><div class="carousel carouselWLongAd"><a href="#" class="prevBtn navBtn">Previous</a><div class="header">- POPULAR STORIES -</div><div class="jCarouselLite"><ul><li>  
+          <a href="/music/maxims-sexiest-singers"><img alt="Maxims Sexiest Singers" title="Maxims Sexiest Singers"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/maxim/files/maxim2/Maxim/Images/2011/07/12sexy_singers_asset.jpg?itok=6aZa_d_9" /></a>    
+          <a href="/music/maxims-sexiest-singers">Maxim&#039;s Sexiest Singers</a>  <small>1 of 16</small></li><li>  
+          <a href="/girls-of-maxim/eva-longoria-maxim-january-february-cover-girl"><img alt="Eva Longoria: Maxim January/February Cover Girl" title="Eva Longoria: Maxim January/February Cover Girl"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/190_evalongoria_cv_promo_new.jpg?itok=tUf5lX8h" /></a>    
+          <a href="/girls-of-maxim/eva-longoria-maxim-january-february-cover-girl">Eva Longoria: Maxim January/February Cover...</a>  <small>2 of 16</small></li><li>  
+          <a href="/girls/girls-with-art"><img alt="Katheryn Winnick" title="Girls With Art "  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/girlswithart_promo.jpg?itok=BWrADauc" /></a>    
+          <a href="/girls/girls-with-art">Girls With Art </a>  <small>3 of 16</small></li><li>  
+          <a href="/maxim-subscribe-today"><img alt="MAXIM: Subscribe Today!" title="MAXIM: Subscribe Today!"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/Maxim_70X50.jpg?itok=Atvn_U9K" /></a>    
+          <a href="/maxim-subscribe-today">MAXIM: Subscribe Today!</a>  <small>4 of 16</small></li><li>  
+          <a href="/music/24-hours-live-ludacris"><img alt="24 Hours to Live: Ludacris" title="24 Hours to Live: Ludacris"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/179_24hourstoludacris_promo.jpg?itok=1GS1cDoE" /></a>    
+          <a href="/music/24-hours-live-ludacris">24 Hours to Live: Ludacris</a>  <small>5 of 16</small></li><li>  
+          <a href="/food/andrew-zimmern-talks-lobster-rolls-cauldrons-and-summer-grilling"><img alt="Andrew Zimmern Talks Lobster Rolls, Cauldrons, and Grilling Tips" title="Andrew Zimmern Talks Lobster Rolls, Cauldrons, and Grilling Tips"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/np0613_andrew_zimmern_promo.jpg?itok=Zmh-Sn1H" /></a>    
+          <a href="/food/andrew-zimmern-talks-lobster-rolls-cauldrons-and-summer-grilling">Andrew Zimmern Talks Lobster Rolls,...</a>  <small>6 of 16</small></li><li>  
+          <a href="/girls-of-maxim/paulina-gretzky-maxim-december-cover-girl"><img alt="Paulina Gretzky: Maxim December Cover Girl" title="Paulina Gretzky: Maxim December Cover Girl"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/189_paulina_promo.jpg?itok=70Ozoscp" /></a>    
+          <a href="/girls-of-maxim/paulina-gretzky-maxim-december-cover-girl">Paulina Gretzky: Maxim December Cover Girl</a>  <small>7 of 16</small></li><li>  
+          <a href="/the-maxim-store"><img alt="maxim store shop now" title="The Maxim Store"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/thumb_ticker_store.jpeg?itok=pejR1aVm" /></a>    
+          <a href="/the-maxim-store">The Maxim Store</a>  <small>8 of 16</small></li><li>  
+          <a href="/girls-of-maxim/kate-stoltzfus"><img alt="Kate Stoltzfus" title="Kate Stoltzfus"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/185_katestoltzfus_promo.jpg?itok=N4wMlA1i" /></a>    
+          <a href="/girls-of-maxim/kate-stoltzfus">Kate Stoltzfus</a>  <small>9 of 16</small></li><li>  
+          <a href="/girls/women-corsets"><img alt="Women in Corsets" title="Women in Corsets"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/maxim/files/2009/08/14/women-in-corsets/gm_corsets_girlsfeature.jpg?itok=EZ5vX0ar" /></a>    
+          <a href="/girls/women-corsets">Women in Corsets</a>  <small>10 of 16</small></li><li>  
+          <a href="/todays-girl/malin-akerman"><img alt="Malin Akerman " title="Malin Akerman "  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/maxim/files/maxim2/Maxim/Slideshows/2011/06/MalinAkerman_mediaasset.jpg?itok=XX8Jn-qM" /></a>    
+          <a href="/todays-girl/malin-akerman">Malin Akerman </a>  <small>11 of 16</small></li><li>  
+          <a href="/maxim-subscribe-today-0"><img alt="MAXIM: Subscribe Today!" title="MAXIM: Subscribe Today!"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/Maxim_70X50.jpg?itok=Atvn_U9K" /></a>    
+          <a href="/maxim-subscribe-today-0">MAXIM: Subscribe Today!</a>  <small>12 of 16</small></li><li>  
+          <a href="/girls/the-hottest-women-comics"><img alt="The Hottest Women in Comics" title="The Hottest Women in Comics"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/maxim/files/2007/07/14/hottest-women-in-comics/tn_comic_hotties_15_l1.jpg?itok=TmLtM3jL" /></a>    
+          <a href="/girls/the-hottest-women-comics">The Hottest Women in Comics</a>  <small>13 of 16</small></li><li>  
+          <a href="/tv/hanging-out-with-the-stars-of-finding-bigfoot"><img alt="Hanging Out with the Stars of Finding Bigfoot" title="Hanging Out with the Stars of Finding Bigfoot"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/173bigfoot_promo.jpg?itok=aV7Lg-Ec" /></a>    
+          <a href="/tv/hanging-out-with-the-stars-of-finding-bigfoot">Hanging Out with the Stars of Finding Bigfoot</a>  <small>14 of 16</small></li><li>  
+          <a href="/girls/women-black"><img alt="Women in Black" title="Women in Black"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/girlsinblack_lakebell_promo.jpg?itok=SvkQF_mC" /></a>    
+          <a href="/girls/women-black">Women in Black</a>  <small>15 of 16</small></li><li>  
+          <a href="/maximtv/can-music-get-you-naked-april-rose-hits-the-beach-find-out"><img alt="Can Music Get You Naked? April Rose Hits The Beach To Find Out!" title="Can Music Get You Naked? April Rose Hits The Beach To Find Out!"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/feature_icon/public/video_boom_0701_promo1.jpg?itok=hN_vrTCt" /></a>    
+          <a href="/maximtv/can-music-get-you-naked-april-rose-hits-the-beach-find-out">Can Music Get You Naked? April Rose Hits The...</a>  <small>16 of 16</small></li></ul></div><a href="#" class="nextBtn navBtn">Next</a></div></div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-9 region region-header-second" id="region-header-second">
+  <div class="region-inner region-header-second-inner">
+    <div class="block block-dart block-dart-tag-dart-leaderboard block-dart-dart-tag-dart-leaderboard odd block-without-title" id="block-dart-dart-tag-dart-leaderboard">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      
+<div  class="dart-tag dart-name-dart_leaderboard">
+  
+            <script type="text/javascript">Drupal.DART.settings.loadLastTags['dart_leaderboard'] = '{"machinename":"dart_leaderboard","name":"DART Ad: Leaderboard","pos":"sub_top","sz":"728x90","block":"1","settings":{"overrides":{"site":"","zone":"","slug":""},"options":{"scriptless":0,"method":"adj","include_terms":0},"key_vals":[{"key":"tile","val":"1","eval":0}],"scheduler":[]},"table":"dart_tags","type":"Normal","export_type":1,"key_vals":{"pos":[{"val":"sub_top","eval":false}],"sz":[{"val":"728x90","eval":false}],"tile":[{"val":"1","eval":0}],"ord":[{"val":"ord","eval":true}]},"prefix":"maxim","site":"dart","zone":"","slug":"","network_id":"","noscript":{"src":"http:\/\/ad.doubleclick.net\/ad\/maxim.dart\/;pos=sub_top;sz=728x90;tile=1;tile=-1;ord=1910779254?","href":"http:\/\/ad.doubleclick.net\/jump\/maxim.dart\/;pos=sub_top;sz=728x90;tile=1;tile=-1;ord=1910779254?"}}';</script>
+      </div>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></header>      <div class="ad gpt" id="ad-320x50-a"></div>
+  
+      <section id="section-content" class="section section-content">
+  <div id="zone-wide-feature-wrapper" class="zone-wrapper zone-wide-feature-wrapper clearfix">  
+  <div id="zone-wide-feature" class="zone zone-wide-feature clearfix container-12">
+    <div class="grid-12 region region-wide-feature" id="region-wide-feature">
+  <div class="region-inner region-wide-feature-inner">
+    <div class="block block-delta-blocks block-page-title block-delta-blocks-page-title odd block-without-title" id="block-delta-blocks-page-title">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <h1 id="page-title" class="title">Maxim UK</h1>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-8 region region-content-container" id="region-content-container">
+  <div class="region-inner region-content-container-inner">
+    <div class="grid-6 region region-content alpha" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-international-channel view-id-international_channel view-display-id-page view-dom-id-de7b22651c95bea1c602709c09a0fbca">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first content-teaser clearfix Article ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/travel/the-7-best-beaches-the-world?view_src=uk"><img alt="The 7 Best Beaches in the World" title="The 7 Best Beaches in the World"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/bestbeaches_promo.jpg?itok=QJYRmzQ2" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/vices/travel" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Travel</a></h2>    
+          <h1><a href="http://www.maxim.com/travel/the-7-best-beaches-the-world?view_src=uk">The 7 Best Beaches in the World</a></h1>    
+          <div class="field-content teaser-body">So you think you know what a great beach looks like?</div>    </div>
+  <div class="views-row views-row-2 views-row-even content-teaser clearfix Article ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/rides/the-7-fastest-and-coolest-cop-cars?view_src=uk"><img alt="The 7 Fastest (and Coolest) Cop Cars" title="The 7 Fastest (and Coolest) Cop Cars"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/coolestpolicecars_promo.jpg?itok=bRGl8dEg" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/gadgets-rides/rides" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rides</a></h2>    
+          <h1><a href="http://www.maxim.com/rides/the-7-fastest-and-coolest-cop-cars?view_src=uk">The 7 Fastest (and Coolest) Cop Cars</a></h1>    
+          <div class="field-content teaser-body">The Italian State <em>Polizia</em> just bought a Lamborghini Huracán, the latest in a long line of high-horsepower interceptors.</div>    </div>
+  <div class="views-row views-row-3 views-row-odd content-teaser clearfix Slideshow ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/girls/women-black?view_src=uk"><img alt="Women in Black" title="Women in Black"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/girlsinblack_lakebell_promo.jpg?itok=GCvSKkvt" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/girls" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Girls</a></h2>    
+          <h1><a href="http://www.maxim.com/girls/women-black?view_src=uk">Women in Black</a></h1>    
+          <div class="field-content teaser-body">These sexy girls wearing black are about to make things spooky. In the sexiest possible way, of course.</div>    </div>
+  <div class="views-row views-row-4 views-row-even content-teaser clearfix Article ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/movies/the-5-most-legendary-beatdowns-in-cinema-history?view_src=uk"><img alt="movie beatings" title="The 5 Most Legendary Beatdowns in Cinema History"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/moviebeatings_promo.jpg?itok=m1E8_uDx" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/entertainment/movies" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Movies</a></h2>    
+          <h1><a href="http://www.maxim.com/movies/the-5-most-legendary-beatdowns-in-cinema-history?view_src=uk">The 5 Most Legendary Beatdowns in Cinema History</a></h1>    
+          <div class="field-content teaser-body">Sometimes justice requires a garbage can.</div>    </div>
+  <div class="views-row views-row-5 views-row-odd content-teaser clearfix Article ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/girls/suit-with-today-s-girl-meghan-markle?view_src=uk"><img alt="Meghan Markle" title="Suit Up With Today’s Girl Meghan Markle"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/celeb_profile_meghan_markle_promo.jpg?itok=s90o4bBW" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/girls" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Girls</a></h2>    
+          <h1><a href="http://www.maxim.com/girls/suit-with-today-s-girl-meghan-markle?view_src=uk">Suit Up With Today’s Girl Meghan Markle</a></h1>    
+          <div class="field-content teaser-body"></div>    </div>
+  <div class="views-row views-row-6 views-row-even content-teaser clearfix Article ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/girls/lupita-nyongo-cast-star-wars-episode-vii?view_src=uk"><img alt="Lupita Nyongo" title="Lupita Nyongo Cast In Star Wars Episode VII"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/np060314_starwars_cast_promo.jpg?itok=QWANRIJq" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/girls" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Girls</a></h2>    
+          <h1><a href="http://www.maxim.com/girls/lupita-nyongo-cast-star-wars-episode-vii?view_src=uk">Lupita Nyong&#039;o Cast In &quot;Star Wars Episode VII&quot;</a></h1>    
+          <div class="field-content teaser-body">The recent Oscar winner is the latest to join the Force.</div>    </div>
+  <div class="views-row views-row-7 views-row-odd content-teaser clearfix Article ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/vices/godfather-of-ecstasy-sasha-shulgin-dies?view_src=uk"><img alt="Sasha Shulgin" title="Godfather of Ecstasy Sasha Shulgin Has Died"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/np060314_sashashulgin_promo.jpg?itok=OZJtU4R5" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/vices" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Vices</a></h2>    
+          <h1><a href="http://www.maxim.com/vices/godfather-of-ecstasy-sasha-shulgin-dies?view_src=uk">Godfather of Ecstasy Sasha Shulgin Has Died</a></h1>    
+          <div class="field-content teaser-body">Presumably while surrounded by kandi bracelets and thumping electronic music.</div>    </div>
+  <div class="views-row views-row-8 views-row-even content-teaser clearfix Article ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/girls/maxim-loves-zooey-deschanel-singing?view_src=uk"><img alt="Zooey Deschanel " title="Maxim Loves...Zooey Deschanel Singing"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/maximloves_zooeydeschanel_promo.jpg?itok=wM3GdFQI" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/girls" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Girls</a></h2>    
+          <h1><a href="http://www.maxim.com/girls/maxim-loves-zooey-deschanel-singing?view_src=uk">Maxim Loves...Zooey Deschanel Singing</a></h1>    
+          <div class="field-content teaser-body">Her voice is music to our ears (literally).</div>    </div>
+  <div class="views-row views-row-9 views-row-odd content-teaser clearfix Slideshow ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/girls/girls-with-bangs?view_src=uk"><img alt="Girls With Bangs" title="Girls With Bangs"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/girlswithbangs_promo_new.jpg?itok=KLQCyf2z" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/girls" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Girls</a></h2>    
+          <h1><a href="http://www.maxim.com/girls/girls-with-bangs?view_src=uk">Girls With Bangs</a></h1>    
+          <div class="field-content teaser-body">These girls with bangs are seriously bangin' (see what we did there?)!</div>    </div>
+  <div class="views-row views-row-10 views-row-even views-row-last content-teaser clearfix Article ">
+      
+          <div class="teaser-image"><a href="http://www.maxim.com/gadgets/highlights-from-apple-s-2014-wwdc-announcement?view_src=uk"><img alt="What You Need to Know About Todays Apple Announcement" title="What You Need to Know About Todays Apple Announcement"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_large/public/applewwdc_ios8_article.jpg?itok=xcQVsOEP" />
+<div class="icon-overlay"></div></a></div>    
+          <h2 class="field-content"><a href="/gadgets-rides/gadgets" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Gadgets</a></h2>    
+          <h1><a href="http://www.maxim.com/gadgets/highlights-from-apple-s-2014-wwdc-announcement?view_src=uk">What You Need to Know About Today&#039;s Apple Announcement</a></h1>    
+          <div class="field-content teaser-body">Tim Cook offers a new OS for everyone, and unveils plans to turn your iPhone into a remote control for your whole house.</div>    </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager clearfix"><li class="pager-current first">1</li><li class="pager-item"><a href="/uk?page=1&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to page 2" class="active">2</a></li><li class="pager-item"><a href="/uk?page=2&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to page 3" class="active">3</a></li><li class="pager-item"><a href="/uk?page=3&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to page 4" class="active">4</a></li><li class="pager-item"><a href="/uk?page=4&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to page 5" class="active">5</a></li><li class="pager-item"><a href="/uk?page=5&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to page 6" class="active">6</a></li><li class="pager-item"><a href="/uk?page=6&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to page 7" class="active">7</a></li><li class="pager-item"><a href="/uk?page=7&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to page 8" class="active">8</a></li><li class="pager-item"><a href="/uk?page=8&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to page 9" class="active">9</a></li><li class="pager-ellipsis">…</li><li class="pager-next last"><a href="/uk?page=1&amp;amp%3Bamp%3Bt=site&amp;amp%3Bamp%3Bc=772" title="Go to next page" class="active">next</a><span class="next-image"></span></li></ul></div>  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>      </div>
+</div><aside class="grid-2 region region-sidebar-first omega" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <div class="block block-views block-maximtv-browser-maxim-tv-latest block-views-maximtv-browser-maxim-tv-latest odd block-without-title" id="block-views-maximtv-browser-maxim-tv-latest">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-maximtv-browser view-id-maximtv_browser view-display-id-maxim_tv_latest view-dom-id-b06262e1e3c17efbffe5a9894f09b75d">
+            <div class="view-header">
+       <h2 class="block-title"><a href="/maximtv"> Latest MaximTV</a></h2>     </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="sidebar-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <div class="teaser-image"><a href="/maximtv/maxim-takes-spin-with-2014-indy-500-winner-ryan-hunter-reay"><img alt="Maxim Takes a Spin With 2014 Indy 500 Winner Ryan Hunter-Reay" title="Maxim Takes a Spin With 2014 Indy 500 Winner Ryan Hunter-Reay"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_small/public/video_indy500winner_promo.jpg?itok=bxv99I6w" /></a></div>    
+          <div class="teaser-title"><a href="/maximtv/maxim-takes-spin-with-2014-indy-500-winner-ryan-hunter-reay">Maxim Takes a Spin With 2014 Indy 500...</a></div>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <div class="teaser-image"><a href="/maximtv/the-2014-hot-100"><img alt="The 2014 Hot 100" title="The 2014 Hot 100"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_small/public/video_hot2014_promo_new.jpg?itok=V9QIZb7I" /></a></div>    
+          <div class="teaser-title"><a href="/maximtv/the-2014-hot-100">The 2014 Hot 100</a></div>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <div class="teaser-image"><a href="/maximtv/go-behind-the-scenes-of-sarah-dumont-s-sexy-photo-shoot"><img alt="Go Behind The Scenes of Sarah Dumont’s Sexy Photo Shoot" title="Go Behind The Scenes of Sarah Dumont’s Sexy Photo Shoot"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_small/public/sarahdumont_promo.jpg?itok=qX5xsQl9" /></a></div>    
+          <div class="teaser-title"><a href="/maximtv/go-behind-the-scenes-of-sarah-dumont-s-sexy-photo-shoot">Go Behind The Scenes of Sarah Dumont’s...</a></div>  </li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+          <div class="teaser-image"><a href="/maximtv/go-behind-the-scenes-with-maxim-s-2014-hometown-hotties-finalists-their-sexy-lingerie-shoot"><img alt="Go Behind the Scenes with Maxim’s 2014 Hometown Hotties Finalists at Their Sexy Lingerie Shoot" title="Go Behind the Scenes with Maxim’s 2014 Hometown Hotties Finalists at Their Sexy Lingerie Shoot"  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_small/public/video_lingerie_hth13_promo.jpg?itok=JvJJF64K" /></a></div>    
+          <div class="teaser-title"><a href="/maximtv/go-behind-the-scenes-with-maxim-s-2014-hometown-hotties-finalists-their-sexy-lingerie-shoot">Go Behind the Scenes with Maxim’s 2014...</a></div>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+       <div style="text-align: center; margin-bottom:10px;">
+<!-- begin ad tag -->
+<script type="text/javascript" src="http://ad.doubleclick.net/adj/maxim.dart/;adid=6392585;sz=70x65;ord=[timestamp]?"></script><noscript><a href="http://ad.doubleclick.net/jump/maxim.dart/;adid=6392585;sz=70x65;ord=[timestamp]?"><img src="http://ad.doubleclick.net/ad/maxim.dart/;adid=6392585;sz=70x65;ord=[timestamp]?" border="0" alt="" /></a></noscript>
+<img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=19&amp;mc=imp&amp;pli=6392585&amp;PluID=0&amp;ord=%n&amp;rtu=-1" /><img src="http://amch.questionmarket.com/adsc/d1015507/9/1019097/adscout.php?ord=[randnum]" height="1" width="1" border="0" /><!-- end ad tag --></div>     </div>
+  
+  
+</div>    </div>
+  </div>
+</div><div class="block block-views block-home-page-promo-block-2 block-views-home-page-promo-block-2 even block-without-title" id="block-views-home-page-promo-block-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-home-page view-id-home_page view-display-id-promo_block_2 view-dom-id-46154e61a786d6dfb13b41890688e5a6">
+            <div class="view-header">
+       <h2 class="block-title"><a href="http://shop.maxim.com">SHOP</a></h2>     </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="sidebar-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+          <div class="teaser-image"><a href="/the-maxim-store"><img alt="maxim store shop now" title=""  typeof="foaf:Image" src="http://cdn2.maxim.com/maxim/sites/default/files/styles/thumbnail_medium/public/thumb_ticker_store.jpeg?itok=lZjfs1ML" /></a></div>    
+          <div class="teaser-title"><a href="http://shop.maxim.com" target="_blank">Shop Maxim</a></div>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</aside>  </div>
+</div><aside class="grid-4 region region-sidebar-second" id="region-sidebar-second">
+  <div class="region-inner region-sidebar-second-inner">
+    <section class="block block-boxes block-boxes-simple block-social-media block-boxes-social-media odd" id="block-boxes-social-media">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Follow Us</h2>
+            
+    <div class="content clearfix">
+      <div id='boxes-box-social_media' class='boxes-box'><div class="boxes-box-content"> <div class="social-media clearfix">
+<ul><li><a href="https://www.facebook.com/maximmagazine" target="_blank"><img src="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/facebook.png" height="40" width="40" alt="Facebook" title="Facebook" /></a></li>
+<li><a href="https://twitter.com/MaximMag" target="_blank"><img src="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/twitter.png" height="40" width="40" alt="Twitter" title="Twitter" /></a></li>
+<li><a href="https://plus.google.com/+MaximMag" target="_blank"><img src="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/googleplus.png" height="40" width="40" alt="Google+" title="Google+" /></a></li>
+<li><a href="http://instagram.com/maximmag/" target="_blank"><img src="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/instagram.png" height="40" width="40" alt="Instagram" title="Instagram" /></a></li>
+<li><a href="https://www.youtube.com/user/videosbyMaxim" target="_blank"><img src="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/youtube.png" height="40" width="40" alt="YouTube" title="YouTube" /></a></li>
+</ul></div> </div></div>    </div>
+  </div>
+</section><div class="block block-dart block-dart-tag-dart-big-box block-dart-dart-tag-dart-big-box even block-without-title" id="block-dart-dart-tag-dart-big-box">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      
+<div  class="dart-tag dart-name-dart_big_box">
+  
+            <script type="text/javascript">Drupal.DART.settings.loadLastTags['dart_big_box'] = '{"machinename":"dart_big_box","name":"DART Ad: Big Box","pos":"sub_top","sz":"300x600,300x250","block":"1","settings":{"overrides":{"site":"","zone":"","slug":""},"options":{"scriptless":0,"method":"adj","include_terms":0},"key_vals":[{"key":"tile","val":"2","eval":0}],"scheduler":[]},"table":"dart_tags","type":"Normal","export_type":1,"key_vals":{"pos":[{"val":"sub_top","eval":false}],"sz":[{"val":"300x600,300x250","eval":false}],"tile":[{"val":"2","eval":0}],"ord":[{"val":"ord","eval":true}]},"prefix":"maxim","site":"dart","zone":"","slug":"","network_id":"","noscript":{"src":"http:\/\/ad.doubleclick.net\/ad\/maxim.dart\/;pos=sub_top;sz=300x600,300x250;tile=2;tile=-1;ord=1910779254?","href":"http:\/\/ad.doubleclick.net\/jump\/maxim.dart\/;pos=sub_top;sz=300x600,300x250;tile=2;tile=-1;ord=1910779254?"}}';</script>
+      </div>
+    </div>
+  </div>
+</div><div class="block block-boxes block-boxes-simple block-maxim-newsletter block-boxes-maxim-newsletter odd block-without-title" id="block-boxes-maxim-newsletter">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id='boxes-box-maxim_newsletter' class='boxes-box'><div class="boxes-box-content"> <a href="http://www.maxim.com/subscribe/form"><img src="http://cdn2.maxim.com/maxim/sites/default/files/sixpack_newsletter_promo.jpg" /></a><p></p>
+ </div></div>    </div>
+  </div>
+</div><div class="block block-boxes block-boxes-simple block-mostrecenttweets block-boxes-mostrecenttweets even block-without-title" id="block-boxes-mostrecenttweets">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id='boxes-box-mostrecenttweets' class='boxes-box'><div class="boxes-box-content"> <a class="twitter-timeline" href="https://twitter.com/MaximMag" data-widget-id="308681926607257600">Tweets by @MaximMag</a>
+<script>
+<!--//--><![CDATA[// ><!--
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+//--><!]]>
+</script></div></div>    </div>
+  </div>
+</div><div class="block block-boxes block-boxes-simple block-in-this-issue block-boxes-in-this-issue odd block-without-title" id="block-boxes-in-this-issue">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id='boxes-box-in_this_issue' class='boxes-box'><div class="boxes-box-content"> <h4 class="rhs-block-title">Get Maxim Today</h4>
+<div id="in-this-issue-content">
+  <a href="https://ssl.palmcoastd.com/0815B/apps/3OFFERS?ikey=I**PA4" target="_blank"><img src="http://cdn2.maxim.com/maxim/sites/default/files/mini_mag_cover.jpg" /></a>
+  <div id="in-this-issue-items">
+      <ul><li><a href="https://ssl.palmcoastd.com/0815B/apps/3OFFERS?ikey=I**PA4" target="_blank">Only $1.99 an Issue!</a></li>
+          <li><a href="http://www.maxim.com/digital-editions" target="_blank">Go Digital, get it anywhere</a></li>
+          <li><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=0815B&amp;i4Ky=IG96" target="_blank">Give it as a gift</a></li>
+          <p> </p>
+      </ul><div class="btn-subscribe">
+       <a href="https://ssl.palmcoastd.com/0815B/apps/3OFFERS?ikey=I**PA6">Subscribe</a>
+     </div>
+  </div>
+</div>
+
+<script>
+<!--//--><![CDATA[// ><!--
+jQuery(function() { if (window.location.href.indexOf("/uk") > -1 || jQuery('.uk-banner').length > 0) { jQuery("#in-this-issue-content .btn-subscribe a").attr('href','/digital-editions'); } });
+//--><!]]>
+</script></div></div>    </div>
+  </div>
+</div><div class="block block-boxes block-boxes-simple block-facebookrecentactivity block-boxes-facebookrecentactivity even block-without-title" id="block-boxes-facebookrecentactivity">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id='boxes-box-facebookrecentactivity' class='boxes-box'><div class="boxes-box-content"> <div class="module"><div class="fb-recommendations" data-site="maxim.com" data-app-id="230097690335739" data-action="like" data-width="300" data-height="290" data-header="true"></div></div> </div></div>    </div>
+  </div>
+</div>  </div>
+</aside>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="mobileAdFloat" style="display:none;"><span class="mobileAdImage"></span><span class="mobileAdPixel"></span><div class="close"></div></div><div id="zone-partners-wrapper" class="zone-wrapper zone-partners-wrapper clearfix">  
+  <div id="zone-partners" class="zone zone-partners clearfix container-12">
+    <div class="grid-3 region region-partners-first" id="region-partners-first">
+  <div class="region-inner region-partners-first-inner">
+    <section class="block block-aggregator block-feed-1 block-aggregator-feed-1 odd" id="block-aggregator-feed-1">
+  <div class="block-inner clearfix partner-links">
+                                    <div class="view-header">
+            <h2 class="block-title"><img src="http://cdn2.maxim.com/maxim/sites/default/files/logo_heavy_0.png" alt="Heavy"></h2>
+          </div>
+                    
+    <div class="content clearfix">
+      <div class="item-list"><ul><li class="first"><a href="http://heavy.com/news/2014/05/prince-david-eugene-smith-lakeland-murder/" target="_blank" rel="nofollow">David Eugene Smith, Florida Murder Suspect: 5 Fast Facts You Need to Know</a>
+</li><li><a href="http://heavy.com/tech/2014/05/best-lg-g3-cases/" target="_blank" rel="nofollow">Top 5 Best LG G3 Cases</a>
+</li><li class="last"><a href="http://heavy.com/tech/2014/05/watch-lg-g3-livestream-launch-event/" target="_blank" rel="nofollow">WATCH: LG G3 Livestream Launch Event</a>
+</li></ul></div>    </div>
+  </div>
+</section>
+  </div>
+</div><div class="grid-3 region region-partners-second" id="region-partners-second">
+  <div class="region-inner region-partners-second-inner">
+    <section class="block block-aggregator block-feed-6 block-aggregator-feed-6 odd" id="block-aggregator-feed-6">
+  <div class="block-inner clearfix partner-links">
+                                    <div class="view-header">
+            <h2 class="block-title"><img src="http://cdn2.maxim.com/maxim/sites/default/files/coed_25px.png" alt="COED Magazine"></h2>
+          </div>
+                    
+    <div class="content clearfix">
+      <div class="item-list"><ul><li class="first"><a href="http://coed.com/2014/05/27/chloe-dykstra-on-heroes-of-cosplay-see-her-tonight/" target="_blank" rel="nofollow">Chloe Dykstra on “Heroes of Cosplay” [SEE HER TONIGHT]</a>
+</li><li><a href="http://coed.com/2014/05/27/sara-jean-underwoods-hottest-photos-from-redfest-music-festival-photos/" target="_blank" rel="nofollow">Sara Jean Underwood’s Hottest Photos From Redfest Music Festival [PHOTOS]</a>
+</li><li class="last"><a href="http://coed.com/2014/05/27/wwe-diva-natalya-neidhart-has-a-slammin-birthday-35-pics/" target="_blank" rel="nofollow">WWE Diva Natalya Neidhart Has A Slammin’ Birthday [35 PICS]</a>
+</li></ul></div>    </div>
+  </div>
+</section>
+  </div>
+</div><div class="grid-3 region region-partners-third" id="region-partners-third">
+  <div class="region-inner region-partners-third-inner">
+    <section class="block block-aggregator block-feed-16 block-aggregator-feed-16 odd" id="block-aggregator-feed-16">
+  <div class="block-inner clearfix partner-links">
+                                    <div class="view-header">
+            <h2 class="block-title"><img src="http://cdn2.maxim.com/maxim/sites/default/files/logo_busted_coverage_sm.png" alt="Busted Coverage"></h2>
+          </div>
+                    
+    <div class="content clearfix">
+      <div class="item-list"><ul><li class="first"><a href="http://feedproxy.google.com/~r/bustedcoverage/XSZo/~3/KxVXnaJlLR0/" target="_blank" rel="nofollow">Here’s Kent State’s MAC Championship Pile Diving Via A GoPro</a>
+</li><li><a href="http://feedproxy.google.com/~r/bustedcoverage/XSZo/~3/FUPCzPoJbjk/" target="_blank" rel="nofollow">Semi-Shirtless Nick Saban About To Shred Wake On His Jet Ski</a>
+</li><li class="last"><a href="http://feedproxy.google.com/~r/bustedcoverage/XSZo/~3/LPIBqXPenSc/" target="_blank" rel="nofollow">Katy Perry Leg Show, Vince Wilfork Grillin’ &amp; Scherzinger Goes Alba On A Boat</a>
+</li></ul></div>    </div>
+  </div>
+</section>
+  </div>
+</div><div class="grid-3 region region-partners-fourth" id="region-partners-fourth">
+  <div class="region-inner region-partners-fourth-inner">
+    <section class="block block-aggregator block-feed-21 block-aggregator-feed-21 odd" id="block-aggregator-feed-21">
+  <div class="block-inner clearfix partner-links">
+                                    <div class="view-header">
+            <h2 class="block-title"><img src="http://cdn2.maxim.com/maxim/sites/default/files/lacesoutlogo.png" alt="Lacesout"></h2>
+          </div>
+                    
+    <div class="content clearfix">
+      <div class="item-list"><ul><li class="first"><a href="http://msn.foxsports.com/nfl/laces-out/while-the-usa-takes-a-day-off-justin-houston-benches-serious-weight-052614" target="_blank" rel="nofollow">While the USA takes a day off, Justin Houston benches serious weight</a>
+</li><li><a href="http://msn.foxsports.com/nfl/laces-out/prince-amukamara-has-a-blast-at-a-bar-mitzvah-this-holiday-weekend-052614" target="_blank" rel="nofollow">Prince Amukamara had a blast at a Bar Mitzvah this holiday weekend</a>
+</li><li class="last"><a href="http://msn.foxsports.com/nfl/laces-out/what-s-better-than-rob-ryan-how-about-rob-ryan-dancing-052514" target="_blank" rel="nofollow">What&#039;s better than Rob Ryan? How about Rob Ryan dancing?</a>
+</li></ul></div>    </div>
+  </div>
+</section>
+  </div>
+</div>  </div>
+</div><div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-2 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-boxes block-boxes-simple block-footer-max block-boxes-footer-max odd block-without-title" id="block-boxes-footer-max">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id='boxes-box-footer_max' class='boxes-box'><div class="boxes-box-content"> <p><a href="/"><img alt="" src="http://cdn2.maxim.com/maxim/sites/default/themes/maxim_base/images/devil_side.png" style="width: 103px; height: 161px; " /></a></p> </div></div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-2 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <section class="block block-menu-block block-footer-menu-1 block-menu-block-footer-menu-1 odd" id="block-menu-block-footer-menu-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Categories</h2>
+            
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-footer_menu-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-460 mtid-1"><a href="/girls" title="Girls">Girls</a></li>
+<li class="leaf has-children menu-mlid-465 mtid-2"><a href="/sports" title="Sports">Sports</a></li>
+<li class="leaf has-children menu-mlid-471 mtid-3"><a href="/entertainment" title="Entertainment">Entertainment</a></li>
+<li class="leaf has-children menu-mlid-478 mtid-5"><a href="/gadgets-rides" title="Tech">Tech</a></li>
+<li class="leaf has-children menu-mlid-483 mtid-6"><a href="/upkeep" title="Upkeep">Upkeep</a></li>
+<li class="leaf has-children menu-mlid-490 mtid-7"><a href="/vices" title="Vices">Vices</a></li>
+<li class="leaf has-children menu-mlid-497 mtid-44"><a href="/tough/military" title="Military">Military</a></li>
+<li class="leaf has-children menu-mlid-501 mtid-8"><a href="/funny" title="Funny">Funny</a></li>
+<li class="last leaf menu-mlid-1769 mtid-maximtv"><a href="/maximtv" title="">Maxim TV</a></li>
+</ul></div>
+    </div>
+  </div>
+</section>  </div>
+</div><div class="grid-2 region region-footer-third" id="region-footer-third">
+  <div class="region-inner region-footer-third-inner">
+    <section class="block block-views block-magazine-links-block block-views-magazine-links-block odd" id="block-views-magazine-links-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">The Magazine</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-magazine-links view-id-magazine_links view-display-id-block view-dom-id-4e0299c08556c2baccfff9acfed2ea43">
+        
+  
+  
+      <div class="view-content">
+      <div class="footer-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-stub-link">        <div class="field-content"><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDgxNUIzNTI0NCZpVHlwZT1NQUlO" target="_blank">Renew Subscription</a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-stub-link">        <div class="field-content"><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=0815B&amp;i4Ky=IG80" target="_blank">Give a Gift</a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-field-stub-link">        <div class="field-content"><a href="https://secure.palmcoastd.com/pcd/einit?iKey=0815BA" target="_blank">Order Back Issues</a></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-field-stub-link">        <div class="field-content"><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDgxNUIzNTI0NCZpVHlwZT1FTlRFUg" target="_blank">Customer Service</a></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-field-stub-link">        <div class="field-content"><a href="https://ssl.palmcoastd.com/0815B/apps/3OFFERS?ikey=I%2A%2APB1" target="_blank">Subscribe</a></div>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-field-stub-link">        <div class="field-content"><a href="http://www.maxim.com/digital-editions" target="_blank">Digital Editions</a></div>  </div></li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-stub-link">        <div class="field-content"><a href="http://www.maximmediakit.com/" target="_blank">Magazine Advertising</a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section>  </div>
+</div><div class="grid-2 region region-footer-fourth" id="region-footer-fourth">
+  <div class="region-inner region-footer-fourth-inner">
+    <section class="block block-views block-featured-links-block block-views-featured-links-block odd" id="block-views-featured-links-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Popular</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-featured-links view-id-featured_links view-display-id-block view-dom-id-88c4c4062bb372d4b634765f44f6394d">
+        
+  
+  
+      <div class="view-content">
+      <div class="footer-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/the-maxim-store">The Maxim Store</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/girls-who-love-maxim">Girls Who Love Maxim</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/models">Model Submission </a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/submit-images-maxim">Submit Images to Maxim</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/corporate/model-safety">Model Safety</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section>  </div>
+</div><div class="grid-2 region region-footer-fifth" id="region-footer-fifth">
+  <div class="region-inner region-footer-fifth-inner">
+    <section class="block block-views block-about-maxim-links-block block-views-about-maxim-links-block odd" id="block-views-about-maxim-links-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">About Maxim</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-about-maxim-links view-id-about_maxim_links view-display-id-block view-dom-id-a34f2dcc2f65791159379d2af6698a66">
+        
+  
+  
+      <div class="view-content">
+      <div class="footer-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contact-us-0">Contact Us</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/careers">Careers</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/corporate/subscription-issues">Subscription Issues</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/corporate/privacy-policy">Privacy Policy</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/corporate/terms-conditions">Terms &amp; Conditions</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/rss-content-feed"> RSS Content Feed</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/maxim-newsletter">Maxim Newsletter</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div><div id="zone-copyright-wrapper" class="zone-wrapper zone-copyright-wrapper clearfix">  
+  <div id="zone-copyright" class="zone zone-copyright clearfix container-12">
+    <div class="grid-12 region region-copyright" id="region-copyright">
+  <div class="region-inner region-copyright-inner">
+    <div class="block block-boxes block-boxes-simple block-footer-copyright block-boxes-footer-copyright odd block-without-title" id="block-boxes-footer-copyright">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"> <p style="text-align: center;">© 2014 Maxim Inc. All rights reserved Use of this site constitutes your acceptance of our <a href="http://www.maxim.com/corporate/terms-conditions" target="_blank">User Agreement</a> and <a href="http://www.maxim.com/corporate/privacy-policy" target="_blank">Privacy Policy</a>. Your <a href="http://www.maxim.com/corporate/privacy-policy#California" target="_blank">California Privacy Rights</a>. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Maxim Inc..</p>
+ </div></div>    </div>
+  </div>
+</div><div class="block block-boxes block-boxes-simple block-mobile-ad-global block-boxes-mobile-ad-global even block-without-title" id="block-boxes-mobile-ad-global">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id='boxes-box-mobile_ad_global' class='boxes-box'><div class="boxes-box-content"> <script>
+<!--//--><![CDATA[// ><!--
+
+Drupal.settings.mobileAds.ads.push({
+  'name': 'mobile',
+  'url': 'http://ad.doubleclick.net/jump/maxim.dart/mobile;sz=318x75;ord=[timestamp]?',
+  'img':  'http://ad.doubleclick.net/ad/maxim.dart/mobile;sz=318x75;ord=[timestamp]?',
+  'pixel': '<a href="http://ad.doubleclick.net/jump/maxim.dart/mobile;sz=1x1;ord=[timestamp]?" target="_blank"><img  src="http://ad.doubleclick.net/ad/maxim.dart/mobile;sz=1x1;ord=[timestamp]?" border="0" alt="" />',
+  'close_x': 288,
+  'close_y': 24
+});
+
+//--><!]]>
+</script><!--<script src="http://ad.doubleclick.net/adj/maxim.dart/mobile;sz=318x75;ord=1378825596267?"></script>--></div></div>    </div>
+  </div>
+</div><div class="block block-dart block-dart-tag-dart-overlay block-dart-dart-tag-dart-overlay odd block-without-title" id="block-dart-dart-tag-dart-overlay">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      
+<div  class="dart-tag dart-name-dart_overlay">
+  
+            <script type="text/javascript">Drupal.DART.settings.loadLastTags['dart_overlay'] = '{"machinename":"dart_overlay","name":"overlay","pos":"overlay","sz":"1x1","block":"1","settings":{"overrides":{"site":"","zone":"","slug":""},"options":{"scriptless":0,"method":"adj","include_terms":0},"key_vals":[],"scheduler":[]},"table":"dart_tags","type":"Normal","export_type":1,"key_vals":{"pos":[{"val":"overlay","eval":false}],"sz":[{"val":"1x1","eval":false}],"ord":[{"val":"ord","eval":true}]},"prefix":"maxim","site":"dart","zone":"","slug":"","network_id":"","noscript":{"src":"http:\/\/ad.doubleclick.net\/ad\/maxim.dart\/;pos=overlay;sz=1x1;tile=-1;ord=1910779254?","href":"http:\/\/ad.doubleclick.net\/jump\/maxim.dart\/;pos=overlay;sz=1x1;tile=-1;ord=1910779254?"}}';</script>
+      </div>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div></body>
+</html>
