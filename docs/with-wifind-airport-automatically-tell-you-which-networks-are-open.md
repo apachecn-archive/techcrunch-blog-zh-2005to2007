@@ -1,4 +1,4 @@
-# 使用 WiFind，Airport 会自动告诉您哪些网络是开放的| TechCrunch
+# 使用 WiFind，Airport 会自动告诉您哪些网络是开放的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/28/with-wifind-airport-automatically-tell-you-which-networks-are-open/>
 

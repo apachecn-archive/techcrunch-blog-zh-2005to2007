@@ -1,4 +1,4 @@
-# 嵌入式 Joost 将改变市场——TechCrunch
+# 嵌入式 Joost 将改变市场
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/15/embedded-joost-will-change-the-market/>
 

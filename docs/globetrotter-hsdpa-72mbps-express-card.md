@@ -1,4 +1,4 @@
-# 环球旅行者 HSDPA 7.2Mbps 快速卡| TechCrunch
+# 环球旅行者 HSDPA 7.2Mbps 快速卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/globetrotter-hsdpa-72mbps-express-card/>
 

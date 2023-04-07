@@ -1,4 +1,4 @@
-# Memorex M-Flyer Pilot 刷新，仍然是一个 USB 驱动器| TechCrunch
+# Memorex M-Flyer Pilot 刷新，仍然是一个 USB 驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/memorex-m-flyer-pilot-gets-refreshed-still-a-usb-drive/>
 

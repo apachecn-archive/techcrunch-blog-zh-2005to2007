@@ -1,4 +1,4 @@
-# SocialText/wikiCalc:比谷歌电子表格更有趣——TechCrunch
+# SocialText/wikiCalc:比谷歌电子表格更有趣
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/06/08/socialtextwikicalc-more-interesting-than-google-spreadsheets/>
 

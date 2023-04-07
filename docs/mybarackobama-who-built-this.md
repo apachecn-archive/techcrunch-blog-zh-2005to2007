@@ -1,4 +1,4 @@
-# 这是谁建造的？TechCrunch
+# 这是谁建造的？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/11/mybarackobama-who-built-this/>
 

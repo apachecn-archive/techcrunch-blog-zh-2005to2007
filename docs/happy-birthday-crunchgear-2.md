@@ -1,4 +1,4 @@
-# 生日快乐，克朗彻格！TechCrunch
+# 生日快乐，克朗彻格！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/happy-birthday-crunchgear-2/>
 

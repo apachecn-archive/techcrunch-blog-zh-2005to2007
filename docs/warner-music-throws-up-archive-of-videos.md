@@ -1,4 +1,4 @@
-# 华纳音乐推出视频档案| TechCrunch
+# 华纳音乐推出视频档案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/warner-music-throws-up-archive-of-videos/>
 

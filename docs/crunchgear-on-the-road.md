@@ -1,4 +1,4 @@
-# CrunchGear 在路上 TechCrunch
+# CrunchGear 在路上 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/05/crunchgear-on-the-road/>
 

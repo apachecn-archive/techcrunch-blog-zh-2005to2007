@@ -1,4 +1,4 @@
-# Memeorandum 猎人——TechCrunch
+# Memeorandum 猎人
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/04/a-look-at-the-memeorandum-killers/>
 

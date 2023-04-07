@@ -1,4 +1,4 @@
-# 索尼爱立信 SO903iTV Bravia 手机–TechCrunch
+# 索尼爱立信 SO903iTV Bravia 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/sony-ericsson-so903itv-bravia-cell-phone/>
 

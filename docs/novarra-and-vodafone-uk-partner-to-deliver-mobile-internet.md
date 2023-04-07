@@ -1,4 +1,4 @@
-# Novarra 和沃达丰英国合作推出移动互联网| TechCrunch
+# Novarra 和沃达丰英国合作推出移动互联网
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/novarra-and-vodafone-uk-partner-to-deliver-mobile-internet/>
 

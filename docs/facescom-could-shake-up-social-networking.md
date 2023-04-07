@@ -1,4 +1,4 @@
-# Faces.com 在社交网络领域独树一帜——TechCrunch
+# Faces.com 在社交网络领域独树一帜
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/30/facescom-could-shake-up-social-networking>
 

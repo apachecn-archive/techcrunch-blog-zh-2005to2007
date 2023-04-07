@@ -1,4 +1,4 @@
-# Blacknight 是首家引入 Ruby on Rails 支持的爱尔兰主机提供商。TechCrunch
+# Blacknight 是首家引入 Ruby on Rails 支持的爱尔兰主机提供商。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/blacknight-first-irish-hosting-provider-to-introduce-support-for-ruby-on-rails/>
 

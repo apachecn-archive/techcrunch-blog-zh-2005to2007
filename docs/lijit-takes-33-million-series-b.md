@@ -1,4 +1,4 @@
-# Lijit 获得 330 万美元的 B 轮融资——TechCrunch
+# Lijit 获得 330 万美元的 B 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/lijit-takes-33-million-series-b/>
 

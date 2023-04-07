@@ -1,4 +1,4 @@
-# Web 1.0 成功案例:惠普以 16 亿美元收购 op sware TechCrunch
+# Web 1.0 成功案例:惠普以 16 亿美元收购 op sware 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/23/a-web-10-success-story-hp-acquires-opsware-for-16-billion/>
 

@@ -1,4 +1,4 @@
-# 下一代游戏进入印度——TechCrunch
+# 下一代游戏进入印度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/next-gen-gaming-reaches-india/>
 

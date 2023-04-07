@@ -1,4 +1,4 @@
-# 生活在 80 年代！–TechCrunch
+# 生活在 80 年代！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/living-in-the-80%e2%80%99s/>
 

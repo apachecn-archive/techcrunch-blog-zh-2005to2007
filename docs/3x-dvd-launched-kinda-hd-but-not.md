@@ -1,4 +1,4 @@
-# 推出 3 张 DVD:有点高清，但不是——TechCrunch
+# 推出 3 张 DVD:有点高清，但不是
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/3x-dvd-launched-kinda-hd-but-not/>
 

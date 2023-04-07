@@ -1,4 +1,4 @@
-# Evoca 听起来像 Odeo——TechCrunch
+# Evoca 听起来像 Odeo
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/27/evoca-sounds-off-to-odeo/>
 

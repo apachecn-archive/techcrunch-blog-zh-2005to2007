@@ -1,4 +1,4 @@
-# 谷歌将相册添加到 Picasa！我需要发泄 TechCrunch
+# 谷歌将相册添加到 Picasa！我需要发泄 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/06/google-to-add-albums-to-picassa/>
 

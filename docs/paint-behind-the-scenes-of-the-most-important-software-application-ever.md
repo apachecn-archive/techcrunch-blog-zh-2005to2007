@@ -1,4 +1,4 @@
-# Paint:有史以来最重要的软件应用——TechCrunch 的幕后
+# Paint:有史以来最重要的软件应用 的幕后
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/paint-behind-the-scenes-of-the-most-important-software-application-ever/>
 

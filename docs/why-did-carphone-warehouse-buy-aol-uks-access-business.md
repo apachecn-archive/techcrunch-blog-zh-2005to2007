@@ -1,4 +1,4 @@
-# Carphone Warehouse 为什么要收购 AOL 英国的“access”业务！？TechCrunch
+# Carphone Warehouse 为什么要收购 AOL 英国的“access”业务！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/why-did-carphone-warehouse-buy-aol-uks-access-business/>
 

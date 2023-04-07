@@ -1,4 +1,4 @@
-# 苹果因 iPhone 推迟 OS X 豹 TechCrunch
+# 苹果因 iPhone 推迟 OS X 豹 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/13/apple-delays-os-x-leopard-due-to-iphone/>
 

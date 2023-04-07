@@ -1,4 +1,4 @@
-# 三星转型游戏手机——TechCrunch
+# 三星转型游戏手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/19/samsung%E2%80%99s-transforming-game-phone/>
 

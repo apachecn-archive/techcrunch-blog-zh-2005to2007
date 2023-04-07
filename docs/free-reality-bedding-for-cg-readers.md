@@ -1,4 +1,4 @@
-# 免费*面向企业管治读者的真实床上用品–TechCrunch
+# 免费*面向企业管治读者的真实床上用品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/free-reality-bedding-for-cg-readers/>
 

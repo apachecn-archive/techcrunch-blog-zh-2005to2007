@@ -1,4 +1,4 @@
-# M60M 手表没有时针、分针或秒针——TechCrunch
+# M60M 手表没有时针、分针或秒针
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/04/m60m-watch-doesnt-have-hour-minute-or-second-hands/>
 

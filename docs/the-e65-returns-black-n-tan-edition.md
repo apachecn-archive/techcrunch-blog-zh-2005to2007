@@ -1,4 +1,4 @@
-# E65 回归:黑棕版——TechCrunch
+# E65 回归:黑棕版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/29/the-e65-returns-black-n-tan-edition/>
 

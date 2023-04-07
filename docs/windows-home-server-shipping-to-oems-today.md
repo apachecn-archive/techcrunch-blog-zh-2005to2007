@@ -1,4 +1,4 @@
-# Windows Home Server 今天向 OEM 发货| TechCrunch
+# Windows Home Server 今天向 OEM 发货
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/windows-home-server-shipping-to-oems-today/>
 

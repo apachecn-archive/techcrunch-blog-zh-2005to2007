@@ -1,4 +1,4 @@
-# 哥特 3 开始于移动| TechCrunch
+# 哥特 3 开始于移动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/gothic-3-begins-on-mobile/>
 

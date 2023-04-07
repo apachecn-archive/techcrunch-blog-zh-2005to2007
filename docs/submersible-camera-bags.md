@@ -1,4 +1,4 @@
-# 潜水相机包| TechCrunch
+# 潜水相机包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/submersible-camera-bags/>
 

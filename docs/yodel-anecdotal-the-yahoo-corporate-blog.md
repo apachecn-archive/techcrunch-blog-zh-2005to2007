@@ -1,4 +1,4 @@
-# Yodel 轶事-雅虎公司博客 TechCrunch
+# Yodel 轶事-雅虎公司博客 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/01/yodel-anecdotal-the-yahoo-corporate-blog/>
 

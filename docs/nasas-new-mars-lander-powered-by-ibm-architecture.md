@@ -1,4 +1,4 @@
-# 由 IBM 架构支持的 NASA 新火星着陆器——TechCrunch
+# 由 IBM 架构支持的 NASA 新火星着陆器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/nasas-new-mars-lander-powered-by-ibm-architecture/>
 

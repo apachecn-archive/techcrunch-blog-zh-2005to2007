@@ -1,4 +1,4 @@
-# MacBook nasty–TechCrunch
+# MacBook nasty
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/04/macbook-nastiness/>
 

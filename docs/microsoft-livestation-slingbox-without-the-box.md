@@ -1,4 +1,4 @@
-# 微软 LiveStation:没有盒子的 Slingbox-TechCrunch
+# 微软 LiveStation:没有盒子的 Slingbox-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/microsoft-livestation-slingbox-without-the-box/>
 

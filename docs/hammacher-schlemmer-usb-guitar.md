@@ -1,4 +1,4 @@
-# Hammacher Schlemmer USB 吉他| TechCrunch
+# Hammacher Schlemmer USB 吉他
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/hammacher-schlemmer-usb-guitar/>
 

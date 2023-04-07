@@ -1,4 +1,4 @@
-# 在你的博客中嵌入 Flash 游戏——TechCrunch
+# 在你的博客中嵌入 Flash 游戏
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/05/embed-flash-games-in-your-blog/>
 

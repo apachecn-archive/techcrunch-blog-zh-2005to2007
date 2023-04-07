@@ -1,4 +1,4 @@
-# Windows Live 和 Office Live | TechCrunch
+# Windows Live 和 Office Live 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/01/windows-live-and-office-live/>
 

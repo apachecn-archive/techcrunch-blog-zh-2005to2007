@@ -1,4 +1,4 @@
-# Circuit City 优惠券对 Wii | TechCrunch 无效
+# Circuit City 优惠券对 Wii  无效
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/20/circuit-city-coupons-wont-work-for-a-wii/>
 

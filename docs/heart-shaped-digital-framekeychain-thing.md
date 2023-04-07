@@ -1,4 +1,4 @@
-# 心形数码相框/钥匙扣之类的东西| TechCrunch
+# 心形数码相框/钥匙扣之类的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/heart-shaped-digital-framekeychain-thing/>
 

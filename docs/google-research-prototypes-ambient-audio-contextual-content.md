@@ -1,4 +1,4 @@
-# 谷歌研究原型环境音频上下文内容 TechCrunch
+# 谷歌研究原型环境音频上下文内容 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/08/google-research-prototypes-ambient-audio-contextual-content/>
 

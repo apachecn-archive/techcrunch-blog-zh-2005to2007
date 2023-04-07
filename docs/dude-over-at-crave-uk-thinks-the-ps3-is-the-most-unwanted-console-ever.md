@@ -1,4 +1,4 @@
-# Crave UK 的伙计认为 PS3 是有史以来最不受欢迎的游戏机——TechCrunch
+# Crave UK 的伙计认为 PS3 是有史以来最不受欢迎的游戏机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/dude-over-at-crave-uk-thinks-the-ps3-is-the-most-unwanted-console-ever/>
 

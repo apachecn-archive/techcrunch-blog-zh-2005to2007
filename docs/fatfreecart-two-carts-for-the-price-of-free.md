@@ -1,4 +1,4 @@
-# FatFreeCart:以免费的价格购买两辆车——TechCrunch
+# FatFreeCart:以免费的价格购买两辆车
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/09/fatfreecart-two-carts-for-the-price-of-free/>
 

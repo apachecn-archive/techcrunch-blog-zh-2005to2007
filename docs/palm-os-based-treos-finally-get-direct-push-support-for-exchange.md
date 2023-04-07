@@ -1,4 +1,4 @@
-# 基于 Palm OS 的 Treos 终于获得了对 Exchange | TechCrunch 的直接推送支持
+# 基于 Palm OS 的 Treos 终于获得了对 Exchange  的直接推送支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/palm-os-based-treos-finally-get-direct-push-support-for-exchange/>
 

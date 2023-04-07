@@ -1,4 +1,4 @@
-# Wii 可用性再探| TechCrunch
+# Wii 可用性再探
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/wii-availability-revisited/>
 

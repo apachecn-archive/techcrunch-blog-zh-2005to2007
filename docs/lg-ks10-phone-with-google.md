@@ -1,4 +1,4 @@
-# LG KS10:带谷歌| TechCrunch 的手机
+# LG KS10:带谷歌 的手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/lg-ks10-phone-with-google/>
 

@@ -1,4 +1,4 @@
-# Sprint 与 Google | TechCrunch 达成热门交易
+# Sprint 与 Google  达成热门交易
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/26/sprint-making-the-hot-deals-with-google/>
 

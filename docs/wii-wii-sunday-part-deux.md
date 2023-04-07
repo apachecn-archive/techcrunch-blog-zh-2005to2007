@@ -1,4 +1,4 @@
-# Wii Wii 周日版 Deux | TechCrunch
+# Wii Wii 周日版 Deux 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/03/wii-wii-sunday-part-deux/>
 

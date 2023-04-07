@@ -1,4 +1,4 @@
-# 面向威瑞森的 Sierra Wireless AirCard 595 现已上市–TechCrunch
+# 面向威瑞森的 Sierra Wireless AirCard 595 现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/sierra-wireless-aircard-595-for-verizon-now-available/>
 

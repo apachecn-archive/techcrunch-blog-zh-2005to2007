@@ -1,4 +1,4 @@
-# 华盛顿邮报进入博客广告游戏——TechCrunch
+# 华盛顿邮报进入博客广告游戏
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/18/washington-post-gets-into-blog-ad-game/>
 

@@ -1,4 +1,4 @@
-# 即插即用雅达利钥匙链–TechCrunch
+# 即插即用雅达利钥匙链
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/08/plug-and-play-atari-keychains/>
 

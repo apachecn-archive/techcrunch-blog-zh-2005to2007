@@ -1,4 +1,4 @@
-# 微软追求雅虎！收购 TechCrunch
+# 微软追求雅虎！收购 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/04/microsoft-pursues-yahoo-takeover/>
 

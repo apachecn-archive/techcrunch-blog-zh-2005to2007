@@ -1,4 +1,4 @@
-# 新的微格式图标——TechCrunch
+# 新的微格式图标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/new-microformat-icons/>
 

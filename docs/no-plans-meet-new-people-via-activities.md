@@ -1,4 +1,4 @@
-# 没有计划吗？通过活动结识新朋友——TechCrunch
+# 没有计划吗？通过活动结识新朋友
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/23/no-plans-meet-new-people-via-activities>
 

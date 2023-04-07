@@ -1,4 +1,4 @@
-# omnidrive–在线存储完善–TechCrunch
+# omnidrive–在线存储完善
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/28/omnidrive-online-storage-perfection/>
 

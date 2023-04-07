@@ -1,4 +1,4 @@
-# D-Link DNS-323 网络附加存储| TechCrunch
+# D-Link DNS-323 网络附加存储
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/d-link-dns-232-network-attached-storage/>
 

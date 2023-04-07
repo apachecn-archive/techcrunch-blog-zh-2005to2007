@@ -1,4 +1,4 @@
-# Mempile TeraDisc 号称 1TB 存储| TechCrunch
+# Mempile TeraDisc 号称 1TB 存储
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/27/mempile-teradisc-boasts-1tb-of-storage/>
 

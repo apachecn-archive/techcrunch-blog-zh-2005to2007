@@ -1,4 +1,4 @@
-# TailRank 2.0 发布，挑战 TechMeme-TechCrunch
+# TailRank 2.0 发布，挑战 TechMeme-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/tailrank-20-launches-to-take-on-techmeme/>
 

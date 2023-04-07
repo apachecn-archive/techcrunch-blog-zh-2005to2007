@@ -1,4 +1,4 @@
-# OLPC 将色情带到第三世界——TechCrunch
+# OLPC 将色情带到第三世界
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/07/21/olpc-brings-porn-to-the-third-world/>
 

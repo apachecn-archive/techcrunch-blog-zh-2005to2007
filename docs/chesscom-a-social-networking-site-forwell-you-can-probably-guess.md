@@ -1,4 +1,4 @@
-# Chess.com:社交网站...你可能会猜到 TechCrunch
+# Chess.com:社交网站...你可能会猜到 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/08/chesscom-a-social-networking-site-forwell-you-can-probably-guess/>
 

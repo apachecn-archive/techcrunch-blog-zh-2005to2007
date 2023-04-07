@@ -1,4 +1,4 @@
-# 狼王战士 TechCrunch
+# 狼王战士 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/18/wolf-king-warrior/>
 

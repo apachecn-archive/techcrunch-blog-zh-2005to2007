@@ -1,4 +1,4 @@
-# 守望先锋:守望极客警报——TechCrunch
+# 守望先锋:守望极客警报
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/22/watchmywrist-watch-geekery-alert/>
 

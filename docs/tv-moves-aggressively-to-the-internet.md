@@ -1,4 +1,4 @@
-# 电视大举进军互联网——TechCrunch
+# 电视大举进军互联网
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/14/tv-moves-aggressively-to-the-internet/>
 

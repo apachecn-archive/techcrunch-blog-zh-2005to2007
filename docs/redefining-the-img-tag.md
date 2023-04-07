@@ -1,4 +1,4 @@
-# 重新定义 IMG 标签 TechCrunch
+# 重新定义 IMG 标签 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/29/redefining-the-img-tag/>
 

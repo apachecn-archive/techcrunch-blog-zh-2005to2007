@@ -1,4 +1,4 @@
-# 惠普、沃尔玛将在黑色星期五销售 398 美元的台式机和笔记本电脑？TechCrunch
+# 惠普、沃尔玛将在黑色星期五销售 398 美元的台式机和笔记本电脑？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/03/hp-wal-mart-to-sell-398-desktops-laptops-on-black-friday/>
 

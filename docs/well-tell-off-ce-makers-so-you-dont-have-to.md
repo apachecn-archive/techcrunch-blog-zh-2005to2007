@@ -1,4 +1,4 @@
-# 我们会告诉 CE 制造商，这样你就不用说了——TechCrunch
+# 我们会告诉 CE 制造商，这样你就不用说了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/well-tell-off-ce-makers-so-you-dont-have-to/>
 

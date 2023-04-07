@@ -1,4 +1,4 @@
-# 你妈妈想要一个粉红色的 Zune-TechCrunch
+# 你妈妈想要一个粉红色的 Zune-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/your-mom-wants-a-pink-zune/>
 

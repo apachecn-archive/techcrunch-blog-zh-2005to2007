@@ -1,4 +1,4 @@
-# 该死的吉姆。我是医生，不是平板电脑| TechCrunch
+# 该死的吉姆。我是医生，不是平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/04/damnit-jim-im-a-doctor-not-a-tablet/>
 

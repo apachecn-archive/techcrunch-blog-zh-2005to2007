@@ -1,4 +1,4 @@
-# Windows Live 购物–TechCrunch
+# Windows Live 购物
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/17/windows-live-shopping/>
 

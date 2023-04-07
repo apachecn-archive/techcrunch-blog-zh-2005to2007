@@ -1,4 +1,4 @@
-# Truveo 每月增长 50%,表示视频搜索变得越来越重要| TechCrunch
+# Truveo 每月增长 50%,表示视频搜索变得越来越重要
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/19/truveo-growing-50-per-month-says-video-search-becoming-more-important/>
 

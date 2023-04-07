@@ -1,4 +1,4 @@
-# 索尼 VAIO TZ1 在野外发现| TechCrunch
+# 索尼 VAIO TZ1 在野外发现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/sony-vaio-tz1-spotted-in-the-wild/>
 

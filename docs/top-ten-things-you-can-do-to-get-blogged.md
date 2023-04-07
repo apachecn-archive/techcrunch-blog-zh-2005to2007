@@ -1,4 +1,4 @@
-# 获得博客的十大法宝 TechCrunch
+# 获得博客的十大法宝 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/08/top-ten-things-you-can-do-to-get-blogged/>
 

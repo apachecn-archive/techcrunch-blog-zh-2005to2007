@@ -1,4 +1,4 @@
-# MyLugger:把你的桌面装进袋子里——TechCrunch
+# MyLugger:把你的桌面装进袋子里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/20/mylugger-stuff-your-desktop-in-a-sack/>
 

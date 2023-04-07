@@ -1,4 +1,4 @@
-# 脸书将允许开放注册——TechCrunch
+# 脸书将允许开放注册
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/11/facebook-to-allow-open-registrations/>
 

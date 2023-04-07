@@ -1,4 +1,4 @@
-# 雅虎！答案发布向地球提问活动——TechCrunch
+# 雅虎！答案发布向地球提问活动
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/13/yahoo-answers-launches-ask-the-planet-campaign/>
 

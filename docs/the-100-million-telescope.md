@@ -1,4 +1,4 @@
-# 价值 1 亿美元的望远镜——TechCrunch
+# 价值 1 亿美元的望远镜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/the-100-million-telescope/>
 

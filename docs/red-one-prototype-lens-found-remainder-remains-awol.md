@@ -1,4 +1,4 @@
-# 红色一号样机，镜头找到；剩余人员仍然擅离职守| TechCrunch
+# 红色一号样机，镜头找到；剩余人员仍然擅离职守
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/08/red-one-prototype-lens-found-remainder-remains-awol/>
 

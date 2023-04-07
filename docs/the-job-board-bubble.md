@@ -1,4 +1,4 @@
-# 工作板块泡沫——TechCrunch
+# 工作板块泡沫
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/24/the-job-board-bubble/>
 

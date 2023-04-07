@@ -1,4 +1,4 @@
-# adobe CS3:3 月 27 日–TechCrunch
+# adobe CS3:3 月 27 日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/adobe-cs3-march-27/>
 

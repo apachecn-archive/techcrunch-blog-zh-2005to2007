@@ -1,4 +1,4 @@
-# Helio 正式登陆纽约——TechCrunch
+# Helio 正式登陆纽约
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/22/helio-officially-lands-in-nyc/>
 

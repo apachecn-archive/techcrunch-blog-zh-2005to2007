@@ -1,4 +1,4 @@
-# TailRank 开放服务平台——TechCrunch
+# TailRank 开放服务平台
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/28/tailrank-opens-service-as-a-platform/>
 

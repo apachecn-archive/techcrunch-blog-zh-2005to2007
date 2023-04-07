@@ -1,4 +1,4 @@
-# 周末 wee war | TechCrunch
+# 周末 wee war 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/02/weewar-for-the-weekend/>
 

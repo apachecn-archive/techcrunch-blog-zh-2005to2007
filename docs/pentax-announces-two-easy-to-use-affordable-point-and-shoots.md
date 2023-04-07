@@ -1,4 +1,4 @@
-# 宾得宣布推出两款易于使用且价格合理的相机| TechCrunch
+# 宾得宣布推出两款易于使用且价格合理的相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/12/pentax-announces-two-easy-to-use-affordable-point-and-shoots/>
 

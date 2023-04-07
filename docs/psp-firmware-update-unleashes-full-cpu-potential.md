@@ -1,4 +1,4 @@
-# PSP 固件更新释放全部 CPU 潜力——TechCrunch
+# PSP 固件更新释放全部 CPU 潜力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/23/psp-firmware-update-unleashes-full-cpu-potential/>
 

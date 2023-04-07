@@ -1,4 +1,4 @@
-# iTunes 视频下载没有未来，免费在线流媒体 FTW-TechCrunch
+# iTunes 视频下载没有未来，免费在线流媒体 FTW-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/itunes-video-downloads-have-no-future-free-online-streaming-ftw/>
 

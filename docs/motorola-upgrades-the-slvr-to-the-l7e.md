@@ -1,4 +1,4 @@
-# 摩托罗拉用魔法升级了 SLVR:认识 SLVR L7e | TechCrunch
+# 摩托罗拉用魔法升级了 SLVR:认识 SLVR L7e 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/29/motorola-upgrades-the-slvr-to-the-l7e/>
 

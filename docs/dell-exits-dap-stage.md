@@ -1,4 +1,4 @@
-# 戴尔退出 DAP 阶段–TechCrunch
+# 戴尔退出 DAP 阶段
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/22/dell-exits-dap-stage/>
 

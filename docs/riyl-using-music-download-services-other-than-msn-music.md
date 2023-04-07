@@ -1,4 +1,4 @@
-# RIYL:使用 MSN Music | TechCrunch 以外的音乐下载服务
+# RIYL:使用 MSN Music  以外的音乐下载服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/riyl-using-music-download-services-other-than-msn-music/>
 

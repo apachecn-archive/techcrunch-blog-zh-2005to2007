@@ -1,4 +1,4 @@
-# GoogleTube 会在本周公布吗？TechCrunch
+# GoogleTube 会在本周公布吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/09/will-googletube-be-announced-this-week/>
 

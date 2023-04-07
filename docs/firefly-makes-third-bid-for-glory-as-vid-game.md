@@ -1,4 +1,4 @@
-# FireFly 第三次竞标视频游戏——TechCrunch
+# FireFly 第三次竞标视频游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/11/firefly-makes-third-bid-for-glory-as-vid-game/>
 

@@ -1,4 +1,4 @@
-# 简介-feed shake TechCrunch
+# 简介-feed shake 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/24/profile-feedshake/>
 

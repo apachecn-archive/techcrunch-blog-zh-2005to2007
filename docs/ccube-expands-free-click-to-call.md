@@ -1,4 +1,4 @@
-# Ccube 扩大免费点击通话 TechCrunch
+# Ccube 扩大免费点击通话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/ccube-expands-free-click-to-call/>
 

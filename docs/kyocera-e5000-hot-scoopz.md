@@ -1,4 +1,4 @@
-# 京瓷:热门话题 TechCrunch
+# 京瓷:热门话题 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/kyocera-e5000-hot-scoopz/>
 

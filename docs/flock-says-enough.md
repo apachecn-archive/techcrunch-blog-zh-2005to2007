@@ -1,4 +1,4 @@
-# Flock 说“够了”——TechCrunch
+# Flock 说“够了”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/21/flock-says-enough/>
 

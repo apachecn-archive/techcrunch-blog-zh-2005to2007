@@ -1,4 +1,4 @@
-# 三星双面液晶屏| TechCrunch
+# 三星双面液晶屏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/04/samsung-double-sided-lcd-screen/>
 

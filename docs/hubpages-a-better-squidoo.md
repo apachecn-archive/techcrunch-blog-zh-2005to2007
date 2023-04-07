@@ -1,4 +1,4 @@
-# HubPages，更好的 Squidoo？TechCrunch
+# HubPages，更好的 Squidoo？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/07/hubpages-a-better-squidoo/>
 

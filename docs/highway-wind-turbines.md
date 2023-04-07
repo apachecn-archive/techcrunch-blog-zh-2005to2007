@@ -1,4 +1,4 @@
-# 公路风力涡轮机 TechCrunch
+# 公路风力涡轮机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/highway-wind-turbines/>
 

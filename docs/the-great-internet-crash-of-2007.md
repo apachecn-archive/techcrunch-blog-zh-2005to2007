@@ -1,4 +1,4 @@
-# 2007 年互联网大崩盘——TechCrunch
+# 2007 年互联网大崩盘
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/22/the-great-internet-crash-of-2007/>
 

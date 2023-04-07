@@ -1,4 +1,4 @@
-# 柯达最新长焦:EasyShare Z712 IS | TechCrunch
+# 柯达最新长焦:EasyShare Z712 IS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/kodaks-newest-long-zoom-easyshare-z712-is/>
 

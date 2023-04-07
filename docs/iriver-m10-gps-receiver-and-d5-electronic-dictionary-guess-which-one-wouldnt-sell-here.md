@@ -1,4 +1,4 @@
-# iRiver M10 GPS 接收器和 D5 电子词典:猜猜哪个在这里卖不出去？TechCrunch
+# iRiver M10 GPS 接收器和 D5 电子词典:猜猜哪个在这里卖不出去？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/iriver-m10-gps-receiver-and-d5-electronic-dictionary-guess-which-one-wouldnt-sell-here/>
 

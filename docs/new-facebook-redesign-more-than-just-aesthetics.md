@@ -1,4 +1,4 @@
-# 新脸书重新设计不仅仅是美学| TechCrunch
+# 新脸书重新设计不仅仅是美学
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/05/new-facebook-redesign-more-than-just-aesthetics/>
 

@@ -1,4 +1,4 @@
-# CNET 找到了自己的最佳状态——TechCrunch
+# CNET 找到了自己的最佳状态
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/08/cnets-getting-its-groove/>
 

@@ -1,4 +1,4 @@
-# Segway 推出新热点——TechCrunch
+# Segway 推出新热点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/14/segway-unveils-new-hotness/>
 

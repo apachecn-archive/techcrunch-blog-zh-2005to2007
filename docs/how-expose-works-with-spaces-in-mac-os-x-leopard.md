@@ -1,4 +1,4 @@
-# Expose 如何在 Mac OS X Leopard | TechCrunch 中使用空格
+# Expose 如何在 Mac OS X Leopard  中使用空格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/how-expose-works-with-spaces-in-mac-os-x-leopard/>
 

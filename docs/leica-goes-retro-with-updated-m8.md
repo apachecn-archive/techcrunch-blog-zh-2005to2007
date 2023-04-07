@@ -1,4 +1,4 @@
-# 徕卡复古升级 M8——TechCrunch
+# 徕卡复古升级 M8
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/leica-goes-retro-with-updated-m8/>
 

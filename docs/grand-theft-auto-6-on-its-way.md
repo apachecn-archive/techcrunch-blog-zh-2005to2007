@@ -1,4 +1,4 @@
-# 侠盗猎车手 6 上路了！–TechCrunch
+# 侠盗猎车手 6 上路了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/23/grand-theft-auto-6-on-its-way/>
 

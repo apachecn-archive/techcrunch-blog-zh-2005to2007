@@ -1,4 +1,4 @@
-# Helio 发布 EV-DO 卡——TechCrunch
+# Helio 发布 EV-DO 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/04/helio-releases-ev-do-card/>
 

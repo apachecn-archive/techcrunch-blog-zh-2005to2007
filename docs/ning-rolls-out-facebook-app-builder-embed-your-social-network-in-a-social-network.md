@@ -1,4 +1,4 @@
-# 宁推出 App Builder:将你的社交网络嵌入社交网络——TechCrunch
+# 宁推出 App Builder:将你的社交网络嵌入社交网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/16/ning-rolls-out-facebook-app-builder-embed-your-social-network-in-a-social-network/>
 

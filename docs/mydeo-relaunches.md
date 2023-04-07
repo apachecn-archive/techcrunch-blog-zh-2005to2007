@@ -1,4 +1,4 @@
-# Mydeo(重新)推出，谢天谢地，这不是另一个 GooTube 的崇拜者。TechCrunch
+# Mydeo(重新)推出，谢天谢地，这不是另一个 GooTube 的崇拜者。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/24/mydeo-relaunches/>
 

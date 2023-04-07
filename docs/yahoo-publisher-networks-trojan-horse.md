@@ -1,4 +1,4 @@
-# 雅虎出版商网络的特洛伊木马 TechCrunch
+# 雅虎出版商网络的特洛伊木马 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/25/yahoo-publisher-networks-trojan-horse/>
 

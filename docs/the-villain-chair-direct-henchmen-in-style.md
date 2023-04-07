@@ -1,4 +1,4 @@
-# 恶棍之椅:时尚的直接追随者| TechCrunch
+# 恶棍之椅:时尚的直接追随者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/14/the-villain-chair-direct-henchmen-in-style/>
 

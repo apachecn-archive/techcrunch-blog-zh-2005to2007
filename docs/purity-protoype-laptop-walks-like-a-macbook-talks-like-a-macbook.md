@@ -1,4 +1,4 @@
-# Purity 原型笔记本电脑:走路像 MacBook，说话像 MacBook | TechCrunch
+# Purity 原型笔记本电脑:走路像 MacBook，说话像 MacBook 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/purity-protoype-laptop-walks-like-a-macbook-talks-like-a-macbook/>
 

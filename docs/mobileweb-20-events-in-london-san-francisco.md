@@ -1,4 +1,4 @@
-# 伦敦和旧金山的 MobileWeb 2.0 活动| TechCrunch
+# 伦敦和旧金山的 MobileWeb 2.0 活动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/01/mobileweb-20-events-in-london-san-francisco/>
 

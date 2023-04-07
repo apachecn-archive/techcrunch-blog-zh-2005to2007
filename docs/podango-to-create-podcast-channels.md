@@ -1,4 +1,4 @@
-# Podango 将创建播客频道——TechCrunch
+# Podango 将创建播客频道
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/29/podango-to-create-podcast-channels/>
 

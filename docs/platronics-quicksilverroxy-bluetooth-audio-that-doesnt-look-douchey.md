@@ -1,4 +1,4 @@
-# Plantronics + Quiksilver/Roxy =看起来不傻的蓝牙音响| TechCrunch
+# Plantronics + Quiksilver/Roxy =看起来不傻的蓝牙音响
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/platronics-quicksilverroxy-bluetooth-audio-that-doesnt-look-douchey/>
 

@@ -1,4 +1,4 @@
-# SlingLink 电力线解决方案:电线上的 SlingBox | TechCrunch
+# SlingLink 电力线解决方案:电线上的 SlingBox 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/17/slinglink-powerline-solutions-slingbox-over-electrical-lines/>
 

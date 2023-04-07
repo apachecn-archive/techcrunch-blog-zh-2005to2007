@@ -1,4 +1,4 @@
-# 诺基亚互联网平板操作系统升级| TechCrunch
+# 诺基亚互联网平板操作系统升级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/06/nokia-internet-tablet-os-gets-upgraded/>
 

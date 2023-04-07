@@ -1,4 +1,4 @@
-# 我喜欢免费的搜索工具，但是...TechCrunch
+# 我喜欢免费的搜索工具，但是...
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/16/i-like-freebie-finder-but/>
 

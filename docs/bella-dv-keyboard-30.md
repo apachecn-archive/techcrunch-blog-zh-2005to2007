@@ -1,4 +1,4 @@
-# 贝拉 DV 键盘 3.0 | TechCrunch
+# 贝拉 DV 键盘 3.0 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/14/bella-dv-keyboard-30/>
 

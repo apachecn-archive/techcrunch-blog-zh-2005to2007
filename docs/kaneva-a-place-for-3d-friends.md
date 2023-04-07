@@ -1,4 +1,4 @@
-# kaneva :( 3D)朋友的地方 TechCrunch
+# kaneva :( 3D)朋友的地方 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/16/kaneva-a-place-for-3d-friends/>
 

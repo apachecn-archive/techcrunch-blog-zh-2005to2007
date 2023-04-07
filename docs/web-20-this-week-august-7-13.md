@@ -1,4 +1,4 @@
-# Web 2.0 本周(8 月 7 日至 13 日)——TechCrunch
+# Web 2.0 本周(8 月 7 日至 13 日)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/14/web-20-this-week-august-7-13/>
 

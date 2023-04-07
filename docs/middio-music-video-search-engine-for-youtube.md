@@ -1,4 +1,4 @@
-# middio:YouTube 的音乐视频搜索引擎——TechCrunch
+# middio:YouTube 的音乐视频搜索引擎
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/22/middio-music-video-search-engine-for-youtube/>
 

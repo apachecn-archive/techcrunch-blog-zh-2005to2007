@@ -1,4 +1,4 @@
-# 哦，不，谷歌支持 XML-RPC！TechCrunch
+# 哦，不，谷歌支持 XML-RPC！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/06/oh-no-google-supports-xml-rpc/>
 

@@ -1,4 +1,4 @@
-# Ojos 现在是 Riya TechCrunch
+# Ojos 现在是 Riya 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/20/ojos-is-now-riya/>
 

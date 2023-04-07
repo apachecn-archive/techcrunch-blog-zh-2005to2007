@@ -1,4 +1,4 @@
-# 活动–酒吧营(第二天)–TechCrunch
+# 活动–酒吧营(第二天)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/21/event-bar-camp-day-2/>
 

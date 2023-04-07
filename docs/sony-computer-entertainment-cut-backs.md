@@ -1,4 +1,4 @@
-# 索尼电脑娱乐削减| TechCrunch
+# 索尼电脑娱乐削减
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/sony-computer-entertainment-cut-backs/>
 

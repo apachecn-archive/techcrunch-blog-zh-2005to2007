@@ -1,4 +1,4 @@
-# Plaxo:现在少了一些邪恶——TechCrunch
+# Plaxo:现在少了一些邪恶
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/22/plaxo-now-with-less-evil/>
 

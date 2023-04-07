@@ -1,4 +1,4 @@
-# Hyperwords 插件——TechCrunch
+# Hyperwords 插件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/26/the-hyperwords-plugin/>
 

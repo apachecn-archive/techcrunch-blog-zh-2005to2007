@@ -1,4 +1,4 @@
-# 苹果的蒙面博主 a Brit | TechCrunch
+# 苹果的蒙面博主 a Brit 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/10/apples-masked-blogger-a-brit/>
 

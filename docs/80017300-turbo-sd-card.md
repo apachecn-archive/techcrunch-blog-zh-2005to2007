@@ -1,4 +1,4 @@
-# 80，173.00 美元的 Turbo SD 卡| TechCrunch
+# 80，173.00 美元的 Turbo SD 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/80017300-turbo-sd-card/>
 

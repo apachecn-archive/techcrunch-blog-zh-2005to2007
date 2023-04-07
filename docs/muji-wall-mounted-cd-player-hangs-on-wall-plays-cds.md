@@ -1,4 +1,4 @@
-# 无印良品壁挂式 CD 播放器挂在墙上，播放 CDs | TechCrunch
+# 无印良品壁挂式 CD 播放器挂在墙上，播放 CDs 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/muji-wall-mounted-cd-player-hangs-on-wall-plays-cds/>
 

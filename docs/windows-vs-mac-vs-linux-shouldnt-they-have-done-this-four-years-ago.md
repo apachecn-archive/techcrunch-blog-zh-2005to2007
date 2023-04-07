@@ -1,4 +1,4 @@
-# Windows vs. Mac vs. Linux:他们不应该在四年前就这么做吗？TechCrunch
+# Windows vs. Mac vs. Linux:他们不应该在四年前就这么做吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/windows-vs-mac-vs-linux-shouldnt-they-have-done-this-four-years-ago/>
 

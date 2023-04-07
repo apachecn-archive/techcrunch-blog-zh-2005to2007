@@ -1,4 +1,4 @@
-# 我们回来了| TechCrunch
+# 我们回来了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/annnnd-were-back/>
 

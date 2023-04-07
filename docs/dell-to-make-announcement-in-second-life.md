@@ -1,4 +1,4 @@
-# 戴尔将在第二人生中发布公告——TechCrunch
+# 戴尔将在第二人生中发布公告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/13/dell-to-make-announcement-in-second-life/>
 

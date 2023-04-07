@@ -1,4 +1,4 @@
-# 索尼 LocationFree 技术并入 VAIO 基站| TechCrunch
+# 索尼 LocationFree 技术并入 VAIO 基站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/sony-locationfree-technology-merged-into-vaio-base-station/>
 

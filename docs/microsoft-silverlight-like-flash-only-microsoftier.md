@@ -1,4 +1,4 @@
-# 微软 Silverlight:就像只有 Flash 的微软——TechCrunch
+# 微软 Silverlight:就像只有 Flash 的微软
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/microsoft-silverlight-like-flash-only-microsoftier/>
 

@@ -1,4 +1,4 @@
-# 周末最佳反 PS3 歌曲| TechCrunch
+# 周末最佳反 PS3 歌曲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/25/the-best-anti-ps3-song-of-the-weekend/>
 

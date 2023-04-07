@@ -1,4 +1,4 @@
-# 五大 Web 2.0 风险投资家 TechCrunch
+# 五大 Web 2.0 风险投资家 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/19/top-five-web-20-venture-capitalists/>
 

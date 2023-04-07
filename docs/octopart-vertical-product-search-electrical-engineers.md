@@ -1,4 +1,4 @@
-# Octopart:小配件的搜索引擎 TechCrunch
+# Octopart:小配件的搜索引擎 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/05/octopart-vertical-product-search-electrical-engineers/>
 

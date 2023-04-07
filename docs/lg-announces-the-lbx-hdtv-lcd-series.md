@@ -1,4 +1,4 @@
-# LG 宣布推出 LBX 高清液晶电视系列——TechCrunch
+# LG 宣布推出 LBX 高清液晶电视系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/lg-announces-the-lbx-hdtv-lcd-series/>
 

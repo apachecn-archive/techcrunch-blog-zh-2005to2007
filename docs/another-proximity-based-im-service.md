@@ -1,4 +1,4 @@
-# 另一项基于近距离的即时消息服务——TechCrunch
+# 另一项基于近距离的即时消息服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/22/another-proximity-based-im-service/>
 

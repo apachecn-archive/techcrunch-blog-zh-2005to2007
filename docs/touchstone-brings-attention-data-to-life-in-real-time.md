@@ -1,4 +1,4 @@
-# Touchstone 将注意力数据实时融入生活 TechCrunch
+# Touchstone 将注意力数据实时融入生活 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/28/touchstone-brings-attention-data-to-life-in-real-time>
 

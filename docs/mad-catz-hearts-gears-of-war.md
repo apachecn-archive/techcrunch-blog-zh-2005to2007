@@ -1,4 +1,4 @@
-# 疯狂猫心战争机器| TechCrunch
+# 疯狂猫心战争机器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/mad-catz-hearts-gears-of-war/>
 

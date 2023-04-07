@@ -1,4 +1,4 @@
-# CBS | TechCrunch 明天将播出世界电视游戏系列赛
+# CBS  明天将播出世界电视游戏系列赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/28/world-series-of-video-games-tomorrow-on-cbs/>
 

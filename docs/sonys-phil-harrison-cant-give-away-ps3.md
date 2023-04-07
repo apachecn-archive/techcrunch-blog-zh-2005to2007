@@ -1,4 +1,4 @@
-# 索尼的菲尔·哈里森不能放弃 PS3 | TechCrunch
+# 索尼的菲尔·哈里森不能放弃 PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/sonys-phil-harrison-cant-give-away-ps3/>
 

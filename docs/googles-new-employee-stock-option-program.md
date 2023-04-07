@@ -1,4 +1,4 @@
-# 谷歌新的员工股票期权计划——TechCrunch
+# 谷歌新的员工股票期权计划
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/13/googles-new-employee-stock-option-program/>
 

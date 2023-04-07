@@ -1,4 +1,4 @@
-# 幕后:科技贸易展的肮脏世界——TechCrunch
+# 幕后:科技贸易展的肮脏世界
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/behind-the-curtain-the-sordid-world-of-tech-trade-shows/>
 

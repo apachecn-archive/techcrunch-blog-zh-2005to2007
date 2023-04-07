@@ -1,4 +1,4 @@
-# 独家:神秘的 Paypal 安全存储——TechCrunch
+# 独家:神秘的 Paypal 安全存储
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/22/exclusive-mysterious-paypal-secure-storage/>
 

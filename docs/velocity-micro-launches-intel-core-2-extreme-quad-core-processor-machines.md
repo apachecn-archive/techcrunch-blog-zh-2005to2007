@@ -1,4 +1,4 @@
-# Velocity Micro 推出英特尔酷睿 2 至尊四核处理器机器| TechCrunch
+# Velocity Micro 推出英特尔酷睿 2 至尊四核处理器机器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/velocity-micro-launches-intel-core-2-extreme-quad-core-processor-machines/>
 

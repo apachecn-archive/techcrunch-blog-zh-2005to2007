@@ -1,4 +1,4 @@
-# 罗杰的幻听| TechCrunch
+# 罗杰的幻听
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/roger%e2%80%99s-hearing-voices/>
 

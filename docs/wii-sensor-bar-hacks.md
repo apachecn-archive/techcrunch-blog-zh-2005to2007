@@ -1,4 +1,4 @@
-# Wii 感应条黑客| TechCrunch
+# Wii 感应条黑客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/wii-sensor-bar-hacks/>
 

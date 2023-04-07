@@ -1,4 +1,4 @@
-# 动手操作 LG Trax–TechCrunch
+# 动手操作 LG Trax
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/hands-on-with-the-lg-trax/>
 

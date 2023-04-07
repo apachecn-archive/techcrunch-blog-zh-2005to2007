@@ -1,4 +1,4 @@
-# WebWorkerDaily，面向 Web 2.0 工作者——TechCrunch
+# WebWorkerDaily，面向 Web 2.0 工作者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/04/webworkerdaily-for-the-web-20-worker/>
 

@@ -1,4 +1,4 @@
-# 带 32GB 闪存的索尼 Vaio Type U | TechCrunch
+# 带 32GB 闪存的索尼 Vaio Type U 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/sony-vaio-type-u-with-32gb-flash/>
 

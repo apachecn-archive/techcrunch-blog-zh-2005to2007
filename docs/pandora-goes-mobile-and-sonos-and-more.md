@@ -1,4 +1,4 @@
-# Pandora 开始移动化，Sonos 等等 TechCrunch
+# Pandora 开始移动化，Sonos 等等 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/22/pandora-goes-mobile-and-sonos-and-more/>
 

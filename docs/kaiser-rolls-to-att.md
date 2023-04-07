@@ -1,4 +1,4 @@
-# 凯撒滚到美国电话电报公司？–TechCrunch
+# 凯撒滚到美国电话电报公司？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/kaiser-rolls-to-att/>
 

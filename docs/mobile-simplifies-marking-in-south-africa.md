@@ -1,4 +1,4 @@
-# 移动简化南非的营销——TechCrunch
+# 移动简化南非的营销
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/mobile-simplifies-marking-in-south-africa/>
 

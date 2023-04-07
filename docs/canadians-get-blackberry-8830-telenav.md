@@ -1,4 +1,4 @@
-# 加拿大人获得黑莓 8830，TeleNav | TechCrunch
+# 加拿大人获得黑莓 8830，TeleNav 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/29/canadians-get-blackberry-8830-telenav/>
 

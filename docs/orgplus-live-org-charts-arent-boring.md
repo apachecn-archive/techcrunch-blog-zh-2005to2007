@@ -1,4 +1,4 @@
-# OrgPlus Live:组织结构图不无聊！TechCrunch
+# OrgPlus Live:组织结构图不无聊！
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/18/orgplus-live-org-charts-arent-boring/>
 

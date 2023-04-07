@@ -1,4 +1,4 @@
-# Smartvue S4 无线 Draft-N IP Cam Peeps 具有更好的范围–TechCrunch
+# Smartvue S4 无线 Draft-N IP Cam Peeps 具有更好的范围
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/04/smartvue-s4-wireless-draft-n-ip-cam-peeps-with-better-range/>
 

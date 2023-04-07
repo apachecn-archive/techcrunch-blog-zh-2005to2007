@@ -1,4 +1,4 @@
-# 来自美国的便捷驱动器模块化| TechCrunch
+# 来自美国的便捷驱动器模块化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/handy-drive-from-us-modular/>
 

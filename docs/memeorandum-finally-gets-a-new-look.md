@@ -1,4 +1,4 @@
-# Memeorandum(终于)有了新面貌——TechCrunch
+# Memeorandum(终于)有了新面貌
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/01/memeorandum-finally-gets-a-new-look/>
 

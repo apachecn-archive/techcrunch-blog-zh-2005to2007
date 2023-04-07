@@ -1,4 +1,4 @@
-# 神秘的沃达丰品牌掌上设备出现——TechCrunch
+# 神秘的沃达丰品牌掌上设备出现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/10/mystery-vodafone-branded-palm-device-appears/>
 

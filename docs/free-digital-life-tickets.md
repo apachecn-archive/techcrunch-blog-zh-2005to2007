@@ -1,4 +1,4 @@
-# 免费数字生活门票——TechCrunch
+# 免费数字生活门票
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/free-digital-life-tickets/>
 

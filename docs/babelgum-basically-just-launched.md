@@ -1,4 +1,4 @@
-# Babelgum 基本上刚刚推出——TechCrunch
+# Babelgum 基本上刚刚推出
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/08/babelgum-basically-just-launched/>
 

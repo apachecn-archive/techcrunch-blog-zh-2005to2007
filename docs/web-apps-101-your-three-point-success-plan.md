@@ -1,4 +1,4 @@
-# 网络应用 101:你的三点成功计划——TechCrunch
+# 网络应用 101:你的三点成功计划
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/22/web-apps-101-your-three-point-success-plan/>
 

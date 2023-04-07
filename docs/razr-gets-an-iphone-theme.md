@@ -1,4 +1,4 @@
-# RAZR 获得了一个 iPhone 主题——TechCrunch
+# RAZR 获得了一个 iPhone 主题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/razr-gets-an-iphone-theme/>
 

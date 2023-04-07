@@ -1,4 +1,4 @@
-# 创意 SE2300 无线耳机发布| TechCrunch
+# 创意 SE2300 无线耳机发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/creative-se2300-wireless-headphones-released/>
 

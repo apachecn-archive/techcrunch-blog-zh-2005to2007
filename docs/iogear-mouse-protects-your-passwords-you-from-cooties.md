@@ -1,4 +1,4 @@
-# IOGEAR 鼠标保护密码，让你远离虱子——TechCrunch
+# IOGEAR 鼠标保护密码，让你远离虱子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/iogear-mouse-protects-your-passwords-you-from-cooties/>
 

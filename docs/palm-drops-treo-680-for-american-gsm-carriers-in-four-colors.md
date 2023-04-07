@@ -1,4 +1,4 @@
-# Palm Drops Treo 680 适用于美国 GSM 运营商，有四种颜色——TechCrunch
+# Palm Drops Treo 680 适用于美国 GSM 运营商，有四种颜色
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/palm-drops-treo-680-for-american-gsm-carriers-in-four-colors/>
 

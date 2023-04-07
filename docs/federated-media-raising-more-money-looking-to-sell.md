@@ -1,4 +1,4 @@
-# 联合媒体筹集更多资金，寻求出售——TechCrunch
+# 联合媒体筹集更多资金，寻求出售
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/07/federated-media-raising-more-money-looking-to-sell/>
 

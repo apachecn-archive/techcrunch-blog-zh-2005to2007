@@ -1,4 +1,4 @@
-# 战斗测试:诺基亚 E62 和 BH-800 | TechCrunch
+# 战斗测试:诺基亚 E62 和 BH-800 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/25/battle-test-nokia-e62-and-bh-800/>
 

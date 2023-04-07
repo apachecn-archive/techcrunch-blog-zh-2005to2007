@@ -1,4 +1,4 @@
-# 创意声霸 X-Fi 至尊音频笔记本| TechCrunch
+# 创意声霸 X-Fi 至尊音频笔记本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/creative-sound-blaster-x-fi-extreme-audio-notebook/>
 

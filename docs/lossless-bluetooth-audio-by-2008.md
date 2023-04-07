@@ -1,4 +1,4 @@
-# 2008 年无损蓝牙音频| TechCrunch
+# 2008 年无损蓝牙音频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/01/lossless-bluetooth-audio-by-2008/>
 

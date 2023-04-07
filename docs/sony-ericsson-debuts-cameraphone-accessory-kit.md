@@ -1,4 +1,4 @@
-# 索尼-爱立信首次推出照相手机配件套件——TechCrunch
+# 索尼-爱立信首次推出照相手机配件套件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/sony-ericsson-debuts-cameraphone-accessory-kit/>
 

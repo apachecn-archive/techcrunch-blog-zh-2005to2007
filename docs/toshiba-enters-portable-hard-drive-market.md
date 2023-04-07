@@ -1,4 +1,4 @@
-# 东芝进入便携式硬盘市场——TechCrunch
+# 东芝进入便携式硬盘市场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/toshiba-enters-portable-hard-drive-market/>
 

@@ -1,4 +1,4 @@
-# Bix 发起 5 万美元竞赛| TechCrunch
+# Bix 发起 5 万美元竞赛
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/09/bix-launches-50000-contest/>
 

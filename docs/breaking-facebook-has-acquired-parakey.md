@@ -1,4 +1,4 @@
-# FaceBook 的首次收购:Parakey | TechCrunch
+# FaceBook 的首次收购:Parakey 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/breaking-facebook-has-acquired-parakey/>
 

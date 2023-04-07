@@ -1,4 +1,4 @@
-# 博主 Wii 竞赛——TechCrunch
+# 博主 Wii 竞赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/wii-contest-for-bloggers/>
 

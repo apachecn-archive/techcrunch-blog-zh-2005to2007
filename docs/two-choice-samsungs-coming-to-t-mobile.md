@@ -1,4 +1,4 @@
-# 两款精选三星 9 月 11 日亮相 T-Mobile | TechCrunch
+# 两款精选三星 9 月 11 日亮相 T-Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/two-choice-samsungs-coming-to-t-mobile/>
 

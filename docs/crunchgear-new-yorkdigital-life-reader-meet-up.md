@@ -1,4 +1,4 @@
-# 纽约/数字生活阅读器见面会| TechCrunch
+# 纽约/数字生活阅读器见面会
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/02/crunchgear-new-yorkdigital-life-reader-meet-up>
 

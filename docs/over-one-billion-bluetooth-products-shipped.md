@@ -1,4 +1,4 @@
-# 售出超过 10 亿件蓝牙产品——TechCrunch
+# 售出超过 10 亿件蓝牙产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/over-one-billion-bluetooth-products-shipped/>
 

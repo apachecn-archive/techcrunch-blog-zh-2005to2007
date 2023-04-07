@@ -1,4 +1,4 @@
-# 创意禅视觉:M 固件更新，FM 录音回归| TechCrunch
+# 创意禅视觉:M 固件更新，FM 录音回归
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/creative-zen-visionm-firmware-update-fm-recording-returns/>
 

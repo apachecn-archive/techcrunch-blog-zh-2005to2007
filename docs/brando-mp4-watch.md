@@ -1,4 +1,4 @@
-# Brando MP4 手表——TechCrunch
+# Brando MP4 手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/05/brando-mp4-watch/>
 

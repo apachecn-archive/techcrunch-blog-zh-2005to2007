@@ -1,4 +1,4 @@
-# 24 英寸 iMac First Look | TechCrunch
+# 24 英寸 iMac First Look 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/24-inch-imac-first-look/>
 

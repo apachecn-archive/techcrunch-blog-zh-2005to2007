@@ -1,4 +1,4 @@
-# 昨天发布的另一个博客搜索引擎——TechCrunch
+# 昨天发布的另一个博客搜索引擎
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/06/02/the-other-blog-search-engine-that-launched-yesterday/>
 

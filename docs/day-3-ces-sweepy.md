@@ -1,4 +1,4 @@
-# CES 第三天:Sweepy–TechCrunch
+# CES 第三天:Sweepy
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/10/day-3-ces-sweepy/>
 

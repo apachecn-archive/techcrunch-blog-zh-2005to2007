@@ -1,4 +1,4 @@
-# 以 Web 2.0 外观重新发布的网络快照| TechCrunch
+# 以 Web 2.0 外观重新发布的网络快照
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/10/webshots-to-relaunch-with-a-web-20-look/>
 

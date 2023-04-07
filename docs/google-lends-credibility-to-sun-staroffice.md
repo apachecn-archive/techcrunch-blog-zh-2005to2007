@@ -1,4 +1,4 @@
-# 谷歌为 Sun star office——TechCrunch 增加可信度
+# 谷歌为 Sun star office 增加可信度
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/15/google-lends-credibility-to-sun-staroffice/>
 

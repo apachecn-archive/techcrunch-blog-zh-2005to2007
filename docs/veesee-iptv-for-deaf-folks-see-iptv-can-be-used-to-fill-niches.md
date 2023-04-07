@@ -1,4 +1,4 @@
-# 面向聋人的网络电视:看，网络电视可以用来填补空白 TechCrunch
+# 面向聋人的网络电视:看，网络电视可以用来填补空白 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/veesee-iptv-for-deaf-folks-see-iptv-can-be-used-to-fill-niches/>
 

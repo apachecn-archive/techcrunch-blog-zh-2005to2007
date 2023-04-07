@@ -1,4 +1,4 @@
-# 吃豆人首次亮相 Xbox Live Arcade:现在高清| TechCrunch
+# 吃豆人首次亮相 Xbox Live Arcade:现在高清
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/pac-man-debuts-on-xbox-live-arcade-now-in-high-definiton/>
 

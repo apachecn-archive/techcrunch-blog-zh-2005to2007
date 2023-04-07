@@ -1,4 +1,4 @@
-# iMac 在 WWDC 亮相——TechCrunch
+# iMac 在 WWDC 亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/imac-gets-dolled-up-for-wwdc/>
 

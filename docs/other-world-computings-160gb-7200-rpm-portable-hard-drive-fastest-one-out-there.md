@@ -1,4 +1,4 @@
-# Other World Computing 的 160GB 7200 RPM 便携式硬盘:最快的一款| TechCrunch
+# Other World Computing 的 160GB 7200 RPM 便携式硬盘:最快的一款
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/other-world-computings-160gb-7200-rpm-portable-hard-drive-fastest-one-out-there/>
 

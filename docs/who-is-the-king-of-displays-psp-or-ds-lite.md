@@ -1,4 +1,4 @@
-# 谁是显示器之王:PSP 还是 DS Lite？TechCrunch
+# 谁是显示器之王:PSP 还是 DS Lite？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/who-is-the-king-of-displays-psp-or-ds-lite/>
 

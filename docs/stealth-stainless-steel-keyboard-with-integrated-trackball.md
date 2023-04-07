@@ -1,4 +1,4 @@
-# 集成轨迹球的隐形不锈钢键盘| TechCrunch
+# 集成轨迹球的隐形不锈钢键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/stealth-stainless-steel-keyboard-with-integrated-trackball/>
 

@@ -1,4 +1,4 @@
-# 三星为 SID 2007 带来了重磅武器——TechCrunch
+# 三星为 SID 2007 带来了重磅武器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/samsung-brings-out-the-big-guns-for-sid-2007/>
 

@@ -1,4 +1,4 @@
-# 曼彻斯特 Geekup | TechCrunch
+# 曼彻斯特 Geekup 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/manchester-geekup/>
 

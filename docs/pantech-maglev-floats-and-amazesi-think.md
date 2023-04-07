@@ -1,4 +1,4 @@
-# 泛泰磁悬浮浮动和惊奇…我认为| TechCrunch
+# 泛泰磁悬浮浮动和惊奇…我认为
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/pantech-maglev-floats-and-amazesi-think/>
 

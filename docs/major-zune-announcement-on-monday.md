@@ -1,4 +1,4 @@
-# 周一 Zune 少校宣布！–TechCrunch
+# 周一 Zune 少校宣布！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/05/major-zune-announcement-on-monday/>
 

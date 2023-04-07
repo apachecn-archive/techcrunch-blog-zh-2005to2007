@@ -1,4 +1,4 @@
-# 简介-谷歌地球(重新推出)| TechCrunch
+# 简介-谷歌地球(重新推出)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/07/profile-google-earth-relaunch/>
 

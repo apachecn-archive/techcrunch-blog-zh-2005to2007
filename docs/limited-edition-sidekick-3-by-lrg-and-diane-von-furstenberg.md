@@ -1,4 +1,4 @@
-# LRG 和黛安·冯·芙丝汀宝的限量版 Sidekick 3——TechCrunch
+# LRG 和黛安·冯·芙丝汀宝的限量版 Sidekick 3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/limited-edition-sidekick-3-by-lrg-and-diane-von-furstenberg/>
 

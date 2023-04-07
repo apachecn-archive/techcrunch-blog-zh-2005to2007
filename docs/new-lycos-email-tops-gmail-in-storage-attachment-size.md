@@ -1,4 +1,4 @@
-# 新 Lycos 电子邮件在存储、附件大小方面超过 Gmail——TechCrunch
+# 新 Lycos 电子邮件在存储、附件大小方面超过 Gmail
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/02/new-lycos-email-tops-gmail-in-storage-attachment-size/>
 

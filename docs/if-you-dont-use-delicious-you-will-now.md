@@ -1,4 +1,4 @@
-# 如果你没有使用 Del.icio.us，你现在可以使用 TechCrunch
+# 如果你没有使用 Del.icio.us，你现在可以使用 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/04/05/if-you-dont-use-delicious-you-will-now/>
 

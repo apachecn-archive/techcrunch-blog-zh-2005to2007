@@ -1,4 +1,4 @@
-# 苹果电视操作系统运行外部高清，Mac Mini(排序)| TechCrunch
+# 苹果电视操作系统运行外部高清，Mac Mini(排序)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/27/apple-tv-os-runs-off-external-hd-mac-mini-sorta/>
 

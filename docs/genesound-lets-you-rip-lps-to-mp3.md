@@ -1,4 +1,4 @@
-# Genesound 让你把唱片翻录成 MP3——TechCrunch
+# Genesound 让你把唱片翻录成 MP3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/genesound-lets-you-rip-lps-to-mp3/>
 

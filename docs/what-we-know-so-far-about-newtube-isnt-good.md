@@ -1,4 +1,4 @@
-# 亲爱的小丑公司:在为时已晚之前赶快给这个东西命名吧 TechCrunch
+# 亲爱的小丑公司:在为时已晚之前赶快给这个东西命名吧 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/23/what-we-know-so-far-about-newtube-isnt-good/>
 

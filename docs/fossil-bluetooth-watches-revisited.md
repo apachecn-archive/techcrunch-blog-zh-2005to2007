@@ -1,4 +1,4 @@
-# 化石蓝牙手表重访:一个 CrunchGear 访谈| TechCrunch
+# 化石蓝牙手表重访:一个 CrunchGear 访谈
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/fossil-bluetooth-watches-revisited/>
 

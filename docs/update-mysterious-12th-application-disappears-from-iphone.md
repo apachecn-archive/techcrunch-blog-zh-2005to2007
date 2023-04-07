@@ -1,4 +1,4 @@
-# 更新:神秘的第 12 个应用程序从 iPhone 上消失了——TechCrunch
+# 更新:神秘的第 12 个应用程序从 iPhone 上消失了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/update-mysterious-12th-application-disappears-from-iphone/>
 

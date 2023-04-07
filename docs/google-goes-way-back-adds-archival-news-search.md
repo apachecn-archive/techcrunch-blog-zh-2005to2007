@@ -1,4 +1,4 @@
-# 谷歌存档 200 年新闻——TechCrunch
+# 谷歌存档 200 年新闻
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/05/google-goes-way-back-adds-archival-news-search/>
 

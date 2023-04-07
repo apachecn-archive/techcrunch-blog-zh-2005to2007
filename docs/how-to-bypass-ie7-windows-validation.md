@@ -1,4 +1,4 @@
-# 如何绕过 IE7 Windows 验证| TechCrunch
+# 如何绕过 IE7 Windows 验证
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/23/how-to-bypass-ie7-windows-validation/>
 

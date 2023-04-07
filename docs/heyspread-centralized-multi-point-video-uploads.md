@@ -1,4 +1,4 @@
-# 嘿！传播:集中式多点视频上传–TechCrunch
+# 嘿！传播:集中式多点视频上传
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/08/heyspread-centralized-multi-point-video-uploads/>
 

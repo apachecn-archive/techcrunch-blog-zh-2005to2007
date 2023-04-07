@@ -1,4 +1,4 @@
-# Amp 'd Mobile 破产，声称他们变得太大了——TechCrunch
+# Amp 'd Mobile 破产，声称他们变得太大了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/03/ampd-mobile-goes-bankrupt-claims-theyre-getting-too-big/>
 

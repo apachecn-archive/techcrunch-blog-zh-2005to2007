@@ -1,4 +1,4 @@
-# 可移动类型的版本 4.0 最终发布 TechCrunch
+# 可移动类型的版本 4.0 最终发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/14/movable-types-version-40-final-release/>
 

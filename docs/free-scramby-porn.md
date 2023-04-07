@@ -1,4 +1,4 @@
-# 免费的 Scramby，色情——TechCrunch
+# 免费的 Scramby，色情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/free-scramby-porn/>
 

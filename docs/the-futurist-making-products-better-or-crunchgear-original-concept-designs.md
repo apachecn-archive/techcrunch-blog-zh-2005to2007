@@ -1,4 +1,4 @@
-# 未来主义者:让产品更好还是……crunch gear 原创概念设计| TechCrunch
+# 未来主义者:让产品更好还是……crunch gear 原创概念设计
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/the-futurist-making-products-better-or-crunchgear-original-concept-designs/>
 

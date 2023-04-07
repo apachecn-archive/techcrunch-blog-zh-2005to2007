@@ -1,4 +1,4 @@
-# 你可以在家尝试的 68 个 iPhone bug TechCrunch
+# 你可以在家尝试的 68 个 iPhone bug 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/68-iphone-bugs-that-you-can-try-at-home/>
 

@@ -1,4 +1,4 @@
-# Sandisk 黄金存储卡大赛| TechCrunch
+# Sandisk 黄金存储卡大赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/01/sandisk-gold-memory-card-contest/>
 

@@ -1,4 +1,4 @@
-# MSMv2.0 击中 Helio，它是热，热，热| TechCrunch
+# MSMv2.0 击中 Helio，它是热，热，热
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/msmv20-hits-helio-and-its-hot-hot-hot/>
 

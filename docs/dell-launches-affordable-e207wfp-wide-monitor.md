@@ -1,4 +1,4 @@
-# 戴尔推出经济实惠的 E207WFP 宽屏显示器–TechCrunch
+# 戴尔推出经济实惠的 E207WFP 宽屏显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/dell-launches-affordable-e207wfp-wide-monitor/>
 

@@ -1,4 +1,4 @@
-# 罗技 DJ:另一个无线音乐系统——TechCrunch
+# 罗技 DJ:另一个无线音乐系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/09/logitech-dj-another-wireless-music-system/>
 

@@ -1,4 +1,4 @@
-# 死党 3，英雄女孩拯救世界| TechCrunch
+# 死党 3，英雄女孩拯救世界
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/sidekick-3-heroic-girl-save-the-day/>
 

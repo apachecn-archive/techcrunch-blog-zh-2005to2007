@@ -1,4 +1,4 @@
-# 苹果不再使用 apple works——TechCrunch
+# 苹果不再使用 apple works
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/apple-is-done-with-appleworks/>
 

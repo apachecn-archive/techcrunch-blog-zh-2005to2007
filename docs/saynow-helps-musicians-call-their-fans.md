@@ -1,4 +1,4 @@
-# SayNow 帮助音乐人打电话给他们的粉丝——TechCrunch
+# SayNow 帮助音乐人打电话给他们的粉丝
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/07/26/saynow-helps-musicians-call-their-fans/>
 

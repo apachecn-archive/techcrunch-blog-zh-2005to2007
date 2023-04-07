@@ -1,4 +1,4 @@
-# 索尼 DVP-FX860DT 便携式 DVD 播放器| TechCrunch
+# 索尼 DVP-FX860DT 便携式 DVD 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/sony-dvp-fx860dt-portable-dvd-player/>
 

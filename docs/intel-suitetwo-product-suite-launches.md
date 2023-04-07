@@ -1,4 +1,4 @@
-# 英特尔“SuiteTwo”产品套件发布——TechCrunch
+# 英特尔“SuiteTwo”产品套件发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/07/intel-suitetwo-product-suite-launches/>
 

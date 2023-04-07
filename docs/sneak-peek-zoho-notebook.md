@@ -1,4 +1,4 @@
-# 独家:Zoho 笔记本先睹为快 TechCrunch
+# 独家:Zoho 笔记本先睹为快 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/30/sneak-peek-zoho-notebook/>
 

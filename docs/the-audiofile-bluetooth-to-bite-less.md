@@ -1,4 +1,4 @@
-# 音频文件:蓝牙少咬——TechCrunch
+# 音频文件:蓝牙少咬
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/the-audiofile-bluetooth-to-bite-less/>
 

@@ -1,4 +1,4 @@
-# 柯达 Easyshare 打印机:有什么大惊小怪的？–TechCrunch
+# 柯达 Easyshare 打印机:有什么大惊小怪的？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/kodak-easyshare-printers-whats-all-the-fuss/>
 

@@ -1,4 +1,4 @@
-# 诺基亚推出 3109 经典| TechCrunch
+# 诺基亚推出 3109 经典
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/nokia-introduces-3109-classic/>
 

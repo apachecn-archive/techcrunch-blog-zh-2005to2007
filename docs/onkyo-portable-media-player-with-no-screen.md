@@ -1,4 +1,4 @@
-# 不带屏幕的 Onkyo 便携式媒体播放器–TechCrunch
+# 不带屏幕的 Onkyo 便携式媒体播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/onkyo-portable-media-player-with-no-screen/>
 

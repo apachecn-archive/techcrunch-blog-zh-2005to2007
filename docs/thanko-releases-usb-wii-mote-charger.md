@@ -1,4 +1,4 @@
-# Thanko 发布 USB Wii-mote 充电器 TechCrunch
+# Thanko 发布 USB Wii-mote 充电器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/thanko-releases-usb-wii-mote-charger/>
 

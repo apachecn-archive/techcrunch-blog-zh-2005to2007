@@ -1,4 +1,4 @@
-# Palm Treo 800w | TechCrunch 上泄露的细节
+# Palm Treo 800w  上泄露的细节
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/10/details-leaked-on-palm-treo-800w/>
 

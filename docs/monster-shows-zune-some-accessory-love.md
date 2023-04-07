@@ -1,4 +1,4 @@
-# Monster 向 Zune 展示一些配饰之爱| TechCrunch
+# Monster 向 Zune 展示一些配饰之爱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/monster-shows-zune-some-accessory-love/>
 

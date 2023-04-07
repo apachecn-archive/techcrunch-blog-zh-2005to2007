@@ -1,4 +1,4 @@
-# 自杀女孩获得 iPhoned | TechCrunch
+# 自杀女孩获得 iPhoned 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/03/suicide-girls-get-iphoned/>
 

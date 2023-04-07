@@ -1,4 +1,4 @@
-# WWDC 豹测试版泄露到 BitTorrent 网站 TechCrunch
+# WWDC 豹测试版泄露到 BitTorrent 网站 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/wwdc-leopard-beta-leaked-onto-bittorrent-site/>
 

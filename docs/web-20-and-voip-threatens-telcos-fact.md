@@ -1,4 +1,4 @@
-# Web 2.0 和 VOIP 威胁着电信公司。事实。–TechCrunch
+# Web 2.0 和 VOIP 威胁着电信公司。事实。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/web-20-and-voip-threatens-telcos-fact/>
 

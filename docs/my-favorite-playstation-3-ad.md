@@ -1,4 +1,4 @@
-# 我最喜欢的 PlayStation 3 广告| TechCrunch
+# 我最喜欢的 PlayStation 3 广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/my-favorite-playstation-3-ad/>
 

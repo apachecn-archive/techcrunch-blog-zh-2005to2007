@@ -1,4 +1,4 @@
-# 更新–浏览器(火狐向前冲)–TechCrunch
+# 更新–浏览器(火狐向前冲)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/11/update-browster-firefox-surging-ahead/>
 

@@ -1,4 +1,4 @@
-# iPhone 谣言#4，629，000 | TechCrunch
+# iPhone 谣言#4，629，000 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/iphone-rumor-4629000/>
 

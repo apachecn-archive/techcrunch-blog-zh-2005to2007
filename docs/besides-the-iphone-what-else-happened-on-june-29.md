@@ -1,4 +1,4 @@
-# 除了 iPhone，6 月 29 日还发生了什么？–TechCrunch
+# 除了 iPhone，6 月 29 日还发生了什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/besides-the-iphone-what-else-happened-on-june-29/>
 

@@ -1,4 +1,4 @@
-# 快速下一个极客晚宴宣布。TechCrunch
+# 快速下一个极客晚宴宣布。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/quick-the-next-geek-dinner-is-announced/>
 

@@ -1,4 +1,4 @@
-# 问:你在哪里？TechCrunch
+# 问:你在哪里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/question-where-are-you/>
 

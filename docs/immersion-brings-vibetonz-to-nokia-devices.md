@@ -1,4 +1,4 @@
-# 沉浸式体验将 VibeTonz 带入诺基亚设备| TechCrunch
+# 沉浸式体验将 VibeTonz 带入诺基亚设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/immersion-brings-vibetonz-to-nokia-devices/>
 

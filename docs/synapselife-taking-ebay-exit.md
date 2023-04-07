@@ -1,4 +1,4 @@
-# SynapseLife 走易贝出口| TechCrunch
+# SynapseLife 走易贝出口
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/23/synapselife-taking-ebay-exit/>
 

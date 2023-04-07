@@ -1,4 +1,4 @@
-# 我整个周日晚上都在玩 kdice——TechCrunch
+# 我整个周日晚上都在玩 kdice
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/17/i-spent-sunday-evening-playing-kdice/>
 

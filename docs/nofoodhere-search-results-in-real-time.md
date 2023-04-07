@@ -1,4 +1,4 @@
-# NoFoodHere:实时搜索结果 TechCrunch
+# NoFoodHere:实时搜索结果 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/04/nofoodhere-search-results-in-real-time/>
 

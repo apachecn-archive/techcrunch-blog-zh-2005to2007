@@ -1,4 +1,4 @@
-# ZFS *穿着豹纹——欢呼吧！–TechCrunch
+# ZFS *穿着豹纹——欢呼吧！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/zfs-is-in-leopard-rejoice/>
 

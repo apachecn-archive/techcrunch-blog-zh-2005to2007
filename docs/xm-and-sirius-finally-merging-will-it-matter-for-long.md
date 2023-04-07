@@ -1,4 +1,4 @@
-# XM 和天狼星终于合并了；这会持续很久吗？TechCrunch
+# XM 和天狼星终于合并了；这会持续很久吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/19/xm-and-sirius-finally-merging-will-it-matter-for-long/>
 

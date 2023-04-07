@@ -1,4 +1,4 @@
-# 用疯狂蛋的“五彩纸屑”追踪每一次点击——TechCrunch
+# 用疯狂蛋的“五彩纸屑”追踪每一次点击
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/18/track-every-click-with-crazy-eggs-confetti/>
 

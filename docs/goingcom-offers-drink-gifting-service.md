@@ -1,4 +1,4 @@
-# Going.com 提供饮料礼品服务——TechCrunch
+# Going.com 提供饮料礼品服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/04/goingcom-offers-drink-gifting-service/>
 

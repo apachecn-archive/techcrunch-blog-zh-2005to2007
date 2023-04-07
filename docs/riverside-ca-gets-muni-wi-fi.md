@@ -1,4 +1,4 @@
-# 加州河滨市获得市政 Wi-Fi——TechCrunch
+# 加州河滨市获得市政 Wi-Fi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/riverside-ca-gets-muni-wi-fi/>
 

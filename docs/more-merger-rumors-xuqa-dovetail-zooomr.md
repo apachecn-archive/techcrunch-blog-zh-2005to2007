@@ -1,4 +1,4 @@
-# 更多合并传闻——Xuqa、燕尾、Zooomr——TechCrunch
+# 更多合并传闻——Xuqa、燕尾、Zooomr
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/21/more-merger-rumors-xuqa-dovetail-zooomr/>
 

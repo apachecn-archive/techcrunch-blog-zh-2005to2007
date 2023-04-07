@@ -1,4 +1,4 @@
-# 这就是支持 Vista 的 Halo 2 的原因——TechCrunch
+# 这就是支持 Vista 的 Halo 2 的原因
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/this-is-what-is-holding-up-halo-2-for-vista/>
 

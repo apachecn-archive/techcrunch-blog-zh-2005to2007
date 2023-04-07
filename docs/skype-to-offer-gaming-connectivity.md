@@ -1,4 +1,4 @@
-# Skype 将提供游戏连接| TechCrunch
+# Skype 将提供游戏连接
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/skype-to-offer-gaming-connectivity/>
 

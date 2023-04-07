@@ -1,4 +1,4 @@
-# TechStars:企业家夏令营(和现金)TechCrunch
+# TechStars:企业家夏令营(和现金)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/25/techstars-summer-camp-for-entrepreneurs/>
 

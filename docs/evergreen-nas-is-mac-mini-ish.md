@@ -1,4 +1,4 @@
-# Evergreen NAS 是 Mac 迷你版| TechCrunch
+# Evergreen NAS 是 Mac 迷你版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/evergreen-nas-is-mac-mini-ish/>
 

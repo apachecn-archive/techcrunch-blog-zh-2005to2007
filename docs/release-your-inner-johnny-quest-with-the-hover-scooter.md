@@ -1,4 +1,4 @@
-# 使用 Hover Scooter——TechCrunch 释放你内心的渴望
+# 使用 Hover Scooter 释放你内心的渴望
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/release-your-inner-johnny-quest-with-the-hover-scooter/>
 

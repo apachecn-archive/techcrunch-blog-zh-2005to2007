@@ -1,4 +1,4 @@
-# 东芝加入桌面 Linux 派对| TechCrunch
+# 东芝加入桌面 Linux 派对
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/toshiba-horns-in-on-the-desktop-linux-party/>
 

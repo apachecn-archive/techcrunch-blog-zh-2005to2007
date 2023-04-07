@@ -1,4 +1,4 @@
-# 惠普收购 Tabblo TechCrunch
+# 惠普收购 Tabblo 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/22/hp-acquires-tabblo/>
 

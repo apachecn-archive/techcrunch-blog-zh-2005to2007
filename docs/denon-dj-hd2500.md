@@ -1,4 +1,4 @@
-# denon DJ-HD 2500–TechCrunch
+# denon DJ-HD 2500
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/11/denon-dj-hd2500/>
 

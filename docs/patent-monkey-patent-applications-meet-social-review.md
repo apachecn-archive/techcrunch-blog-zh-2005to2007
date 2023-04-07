@@ -1,4 +1,4 @@
-# 专利猴:专利申请符合社会评论| TechCrunch
+# 专利猴:专利申请符合社会评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/06/patent-monkey-patent-applications-meet-social-review/>
 

@@ -1,4 +1,4 @@
-# Snipperoo 聚焦于 Widgetisation | TechCrunch
+# Snipperoo 聚焦于 Widgetisation 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/snipperoo-focus-on-widgetisation/>
 

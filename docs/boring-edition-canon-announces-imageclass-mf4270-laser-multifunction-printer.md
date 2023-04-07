@@ -1,4 +1,4 @@
-# 无聊版:佳能发布 imageCLASS MF4270 激光多功能打印机| TechCrunch
+# 无聊版:佳能发布 imageCLASS MF4270 激光多功能打印机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/boring-edition-canon-announces-imageclass-mf4270-laser-multifunction-printer/>
 

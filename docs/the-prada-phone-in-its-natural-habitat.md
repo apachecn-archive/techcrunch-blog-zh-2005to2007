@@ -1,4 +1,4 @@
-# 自然环境中的普拉达手机——TechCrunch
+# 自然环境中的普拉达手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/the-prada-phone-in-its-natural-habitat/>
 

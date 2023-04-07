@@ -1,4 +1,4 @@
-# 南非初创企业推出移动 VoIP 服务——TechCrunch
+# 南非初创企业推出移动 VoIP 服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/south-african-start-up-launches-mobile-voip-service/>
 

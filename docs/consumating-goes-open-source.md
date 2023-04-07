@@ -1,4 +1,4 @@
-# 消费开源 TechCrunch
+# 消费开源 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/10/consumating-goes-open-source/>
 

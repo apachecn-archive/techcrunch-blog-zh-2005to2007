@@ -1,4 +1,4 @@
-# nodus psy clone PSP Dock | TechCrunch
+# nodus psy clone PSP Dock 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/nodus-psyclone-psp-dock/>
 

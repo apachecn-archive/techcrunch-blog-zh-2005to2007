@@ -1,4 +1,4 @@
-# 世界上最贵的换挡手柄| TechCrunch
+# 世界上最贵的换挡手柄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/worlds-most-expensive-shift-knob/>
 

@@ -1,4 +1,4 @@
-# moto-i880-随时可用| TechCrunch
+# moto-i880-随时可用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/21/moto-i880-ready-to-rola/>
 

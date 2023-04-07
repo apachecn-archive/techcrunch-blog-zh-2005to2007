@@ -1,4 +1,4 @@
-# 钻石 BizView BV300 和 BV200 | TechCrunch
+# 钻石 BizView BV300 和 BV200 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/diamond-bizview-bv300-and-bv200/>
 

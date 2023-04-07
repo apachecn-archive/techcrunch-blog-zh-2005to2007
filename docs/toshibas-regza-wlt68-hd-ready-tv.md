@@ -1,4 +1,4 @@
-# 东芝 REGZA WLT68 高清电视–TechCrunch
+# 东芝 REGZA WLT68 高清电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/toshibas-regza-wlt68-hd-ready-tv/>
 

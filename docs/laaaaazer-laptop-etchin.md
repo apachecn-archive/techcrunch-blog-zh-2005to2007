@@ -1,4 +1,4 @@
-# Laaaaazer 笔记本电脑等–TechCrunch
+# Laaaaazer 笔记本电脑等
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/laaaaazer-laptop-etchin/>
 

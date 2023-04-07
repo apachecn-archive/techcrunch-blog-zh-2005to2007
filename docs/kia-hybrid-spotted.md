@@ -1,4 +1,4 @@
-# 起亚混合动力发现 TechCrunch
+# 起亚混合动力发现 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/kia-hybrid-spotted/>
 

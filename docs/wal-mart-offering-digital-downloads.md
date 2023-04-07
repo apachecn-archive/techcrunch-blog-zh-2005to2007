@@ -1,4 +1,4 @@
-# 沃尔玛提供数字下载——TechCrunch
+# 沃尔玛提供数字下载
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/wal-mart-offering-digital-downloads/>
 

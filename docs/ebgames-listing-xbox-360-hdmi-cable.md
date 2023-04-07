@@ -1,4 +1,4 @@
-# EBGames 上市 Xbox 360 HDMI 线缆| TechCrunch
+# EBGames 上市 Xbox 360 HDMI 线缆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/ebgames-listing-xbox-360-hdmi-cable/>
 

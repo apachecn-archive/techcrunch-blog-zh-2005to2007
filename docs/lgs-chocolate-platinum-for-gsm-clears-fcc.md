@@ -1,4 +1,4 @@
-# LG 的 GSM 巧克力白金通过 FCC | TechCrunch
+# LG 的 GSM 巧克力白金通过 FCC 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/lgs-chocolate-platinum-for-gsm-clears-fcc/>
 

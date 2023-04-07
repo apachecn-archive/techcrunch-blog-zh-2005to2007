@@ -1,4 +1,4 @@
-# Webshots 添加视频 TechCrunch
+# Webshots 添加视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/20/webshots-adds-video/>
 

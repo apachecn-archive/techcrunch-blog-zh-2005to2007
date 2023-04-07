@@ -1,4 +1,4 @@
-# Bagir iPod 套装| TechCrunch
+# Bagir iPod 套装
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/bagir-ipod-suit/>
 

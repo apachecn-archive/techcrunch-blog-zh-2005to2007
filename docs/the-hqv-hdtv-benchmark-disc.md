@@ -1,4 +1,4 @@
-# HQV 高清电视基准光盘——TechCrunch
+# HQV 高清电视基准光盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/the-hqv-hdtv-benchmark-disc/>
 

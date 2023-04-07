@@ -1,4 +1,4 @@
-# Wiimote Mod:电子鼓——TechCrunch
+# Wiimote Mod:电子鼓
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/wiimote-mod-electronic-drums/>
 

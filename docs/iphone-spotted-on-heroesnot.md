@@ -1,4 +1,4 @@
-# iPhone 上发现英雄…不是！！！TechCrunch
+# iPhone 上发现英雄…不是！！！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/02/iphone-spotted-on-heroesnot/>
 

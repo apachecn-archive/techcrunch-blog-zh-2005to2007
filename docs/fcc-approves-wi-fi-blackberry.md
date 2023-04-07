@@ -1,4 +1,4 @@
-# FCC 批准 Wi-Fi 黑莓| TechCrunch
+# FCC 批准 Wi-Fi 黑莓
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/08/fcc-approves-wi-fi-blackberry/>
 

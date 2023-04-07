@@ -1,4 +1,4 @@
-# 高清视频销售仍然缓慢| TechCrunch
+# 高清视频销售仍然缓慢
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/09/hd-video-sales-still-slow/>
 

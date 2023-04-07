@@ -1,4 +1,4 @@
-# Thinkpad Reserve:伪装的| TechCrunch
+# Thinkpad Reserve:伪装的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/17/thinkpad-reserve-x61-in-disguise/>
 

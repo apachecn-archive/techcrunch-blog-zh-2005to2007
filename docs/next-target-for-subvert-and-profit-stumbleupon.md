@@ -1,4 +1,4 @@
-# 颠覆和盈利的下一个目标:stumble upon-TechCrunch
+# 颠覆和盈利的下一个目标:stumble upon-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/22/next-target-for-subvert-and-profit-stumbleupon/>
 

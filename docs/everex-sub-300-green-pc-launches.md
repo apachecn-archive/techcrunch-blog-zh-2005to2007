@@ -1,4 +1,4 @@
-# Everex 推出低于 300 美元的绿色电脑| TechCrunch
+# Everex 推出低于 300 美元的绿色电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/everex-sub-300-green-pc-launches/>
 

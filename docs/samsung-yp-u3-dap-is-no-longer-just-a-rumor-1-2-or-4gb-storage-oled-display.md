@@ -1,4 +1,4 @@
-# 三星 YP-U3 DAP 不再只是谣言:1、2 或 4GB 存储，有机发光二极管显示器| TechCrunch
+# 三星 YP-U3 DAP 不再只是谣言:1、2 或 4GB 存储，有机发光二极管显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/18/samsung-yp-u3-dap-is-no-longer-just-a-rumor-1-2-or-4gb-storage-oled-display/>
 

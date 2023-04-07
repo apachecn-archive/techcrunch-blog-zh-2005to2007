@@ -1,4 +1,4 @@
-# 滚动机器人 iPod Dock | TechCrunch
+# 滚动机器人 iPod Dock 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/rolling-robot-ipod-dock/>
 

@@ -1,4 +1,4 @@
-# USB 可折叠键盘| TechCrunch
+# USB 可折叠键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/29/usb-roll-up-keyboard/>
 

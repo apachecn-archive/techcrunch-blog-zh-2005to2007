@@ -1,4 +1,4 @@
-# 炭疽热吉他手不能在 GH2 | TechCrunch 播放自己的歌曲
+# 炭疽热吉他手不能在 GH2  播放自己的歌曲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/30/anthrax-guitarist-cant-play-his-own-song-in-gh2/>
 

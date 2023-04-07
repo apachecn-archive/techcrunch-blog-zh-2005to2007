@@ -1,4 +1,4 @@
-# 微软 Office Live 进入测试阶段——TechCrunch
+# 微软 Office Live 进入测试阶段
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/15/microsoft-office-live-goes-into-beta/>
 

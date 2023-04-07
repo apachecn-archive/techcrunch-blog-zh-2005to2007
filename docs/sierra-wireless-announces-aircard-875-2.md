@@ -1,4 +1,4 @@
-# 塞拉无线宣布 AirCard 875 | TechCrunch
+# 塞拉无线宣布 AirCard 875 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/sierra-wireless-announces-aircard-875-2/>
 

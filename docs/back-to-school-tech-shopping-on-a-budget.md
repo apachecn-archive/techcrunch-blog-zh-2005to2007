@@ -1,4 +1,4 @@
-# 预算有限的返校科技购物| TechCrunch
+# 预算有限的返校科技购物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/back-to-school-tech-shopping-on-a-budget/>
 

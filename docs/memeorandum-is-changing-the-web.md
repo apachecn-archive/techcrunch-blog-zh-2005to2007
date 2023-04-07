@@ -1,4 +1,4 @@
-# Memeorandum 正在改变网络 TechCrunch
+# Memeorandum 正在改变网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/12/memeorandum-is-changing-the-web/>
 

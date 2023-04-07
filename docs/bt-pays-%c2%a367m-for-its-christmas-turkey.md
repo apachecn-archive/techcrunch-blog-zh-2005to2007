@@ -1,4 +1,4 @@
-# 英国电信为其圣诞火鸡支付 6700 万英镑。TechCrunch
+# 英国电信为其圣诞火鸡支付 6700 万英镑。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/bt-pays-%c2%a367m-for-its-christmas-turkey/>
 

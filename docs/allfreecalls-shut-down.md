@@ -1,4 +1,4 @@
-# 关闭所有免费电话 TechCrunch
+# 关闭所有免费电话 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/16/allfreecalls-shut-down/>
 

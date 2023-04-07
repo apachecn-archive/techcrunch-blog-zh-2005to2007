@@ -1,4 +1,4 @@
-# 法拉第媒体推出 Particls 侧边栏，Engagd | TechCrunch
+# 法拉第媒体推出 Particls 侧边栏，Engagd 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/24/farady-media-launches-particls-sidebar-engagd/>
 

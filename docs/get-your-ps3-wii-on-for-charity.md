@@ -1,4 +1,4 @@
-# 为慈善事业购买 PS3 和 Wii——TechCrunch
+# 为慈善事业购买 PS3 和 Wii
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/get-your-ps3-wii-on-for-charity/>
 

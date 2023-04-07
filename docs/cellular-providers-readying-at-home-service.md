@@ -1,4 +1,4 @@
-# 手机供应商准备好了家庭服务——TechCrunch
+# 手机供应商准备好了家庭服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/cellular-providers-readying-at-home-service/>
 

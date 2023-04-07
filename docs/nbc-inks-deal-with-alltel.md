@@ -1,4 +1,4 @@
-# NBC 油墨与 Alltel | TechCrunch 达成协议
+# NBC 油墨与 Alltel  达成协议
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/nbc-inks-deal-with-alltel/>
 

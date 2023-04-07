@@ -1,4 +1,4 @@
-# 移动内容的现状——TechCrunch
+# 移动内容的现状
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/the-state-of-mobile-content/>
 

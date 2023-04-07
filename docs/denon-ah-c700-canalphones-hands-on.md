@@ -1,4 +1,4 @@
-# Denon AH-C700 Canalphones 动手–TechCrunch
+# Denon AH-C700 Canalphones 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/05/denon-ah-c700-canalphones-hands-on/>
 

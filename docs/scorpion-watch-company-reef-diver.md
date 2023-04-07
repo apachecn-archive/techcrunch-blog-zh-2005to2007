@@ -1,4 +1,4 @@
-# 蝎子手表公司暗礁潜水员| TechCrunch
+# 蝎子手表公司暗礁潜水员
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/scorpion-watch-company-reef-diver/>
 

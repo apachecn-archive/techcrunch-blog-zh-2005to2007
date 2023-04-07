@@ -1,4 +1,4 @@
-# NBBC 加入死亡池——TechCrunch
+# NBBC 加入死亡池
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/05/nbbc-joins-the-deadpool/>
 

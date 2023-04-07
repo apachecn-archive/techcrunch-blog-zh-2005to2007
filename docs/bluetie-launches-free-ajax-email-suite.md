@@ -1,4 +1,4 @@
-# BlueTie 推出免费的 Ajax 电子邮件套件——TechCrunch
+# BlueTie 推出免费的 Ajax 电子邮件套件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/29/bluetie-launches-free-ajax-email-suite/>
 

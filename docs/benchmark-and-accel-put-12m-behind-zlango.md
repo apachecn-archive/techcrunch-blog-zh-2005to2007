@@ -1,4 +1,4 @@
-# Benchmark 和 Accel 投资 1200 万美元支持 Zlango——TechCrunch
+# Benchmark 和 Accel 投资 1200 万美元支持 Zlango
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/11/benchmark-and-accel-put-12m-behind-zlango/>
 

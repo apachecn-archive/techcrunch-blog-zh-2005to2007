@@ -1,4 +1,4 @@
-# 苹果 iTunes 7 音乐购买不适用于 SLVR 和 ROKR 手机？| TechCrunch
+# 苹果 iTunes 7 音乐购买不适用于 SLVR 和 ROKR 手机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/apple-itunes-7-music-purchases-not-working-on-slvr-and-rokr-phones-2/>
 

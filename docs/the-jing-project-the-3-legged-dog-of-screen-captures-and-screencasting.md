@@ -1,4 +1,4 @@
-# Jing 项目:截屏和截屏的三条腿 TechCrunch
+# Jing 项目:截屏和截屏的三条腿 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/the-jing-project-the-3-legged-dog-of-screen-captures-and-screencasting/>
 

@@ -1,4 +1,4 @@
-# 问:披萨自动贩卖机——是文明的巅峰，还是堕落的深渊？(答:都有)| TechCrunch
+# 问:披萨自动贩卖机——是文明的巅峰，还是堕落的深渊？(答:都有)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/01/q-pizza-vending-machine-pinnacle-of-civilization-or-depths-or-depravity-a-both/>
 

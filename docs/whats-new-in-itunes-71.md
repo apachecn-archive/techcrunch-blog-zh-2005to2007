@@ -1,4 +1,4 @@
-# iTunes 7.1 有什么新功能？–TechCrunch
+# iTunes 7.1 有什么新功能？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/whats-new-in-itunes-71/>
 

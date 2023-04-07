@@ -1,4 +1,4 @@
-# 脸书广告取消:楔形的薄端？TechCrunch
+# 脸书广告取消:楔形的薄端？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/08/04/facebook-advertising-cancelations-the-thin-end-of-the-wedge/>
 

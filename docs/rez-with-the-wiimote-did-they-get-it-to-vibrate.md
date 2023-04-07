@@ -1,4 +1,4 @@
-# 他们让它振动了吗？–TechCrunch
+# 他们让它振动了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/rez-with-the-wiimote-did-they-get-it-to-vibrate/>
 

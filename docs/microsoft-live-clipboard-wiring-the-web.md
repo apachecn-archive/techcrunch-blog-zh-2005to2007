@@ -1,4 +1,4 @@
-# 微软 Live 剪贴板——“连接网络”——TechCrunch
+# 微软 Live 剪贴板——“连接网络”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/07/microsoft-live-clipboard-wiring-the-web/>
 

@@ -1,4 +1,4 @@
-# 死亡橡皮筋机枪——TechCrunch
+# 死亡橡皮筋机枪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/rubberband-machine-gun-of-death/>
 

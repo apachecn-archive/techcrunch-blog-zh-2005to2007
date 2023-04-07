@@ -1,4 +1,4 @@
-# 没有细菌的 IOGEAR 无菌鼠标| TechCrunch
+# 没有细菌的 IOGEAR 无菌鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/iogear-germ-free-mouse-free-of-germs/>
 

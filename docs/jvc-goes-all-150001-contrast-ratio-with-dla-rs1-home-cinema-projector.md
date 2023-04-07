@@ -1,4 +1,4 @@
-# JVC 采用 DLA-RS1 家庭影院投影仪，对比度高达 15，| TechCrunch
+# JVC 采用 DLA-RS1 家庭影院投影仪，对比度高达 15，
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/jvc-goes-all-150001-contrast-ratio-with-dla-rs1-home-cinema-projector/>
 

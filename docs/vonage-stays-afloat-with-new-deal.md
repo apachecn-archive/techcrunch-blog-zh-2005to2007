@@ -1,4 +1,4 @@
-# Vonage 通过新交易——TechCrunch 保持运转
+# Vonage 通过新交易 保持运转
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/vonage-stays-afloat-with-new-deal/>
 

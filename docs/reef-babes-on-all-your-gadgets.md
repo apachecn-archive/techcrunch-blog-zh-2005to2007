@@ -1,4 +1,4 @@
-# 你所有设备上的礁石宝贝——TechCrunch
+# 你所有设备上的礁石宝贝
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/reef-babes-on-all-your-gadgets/>
 

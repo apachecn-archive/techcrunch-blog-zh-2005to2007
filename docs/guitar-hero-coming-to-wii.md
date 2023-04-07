@@ -1,4 +1,4 @@
-# 吉他英雄来到 Wii——TechCrunch
+# 吉他英雄来到 Wii
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/guitar-hero-coming-to-wii/>
 

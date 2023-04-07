@@ -1,4 +1,4 @@
-# 可用的 SpiderSapien:不织网，高| TechCrunch
+# 可用的 SpiderSapien:不织网，高
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/22/spidersapien-available-spins-no-webs-way-up-high/>
 

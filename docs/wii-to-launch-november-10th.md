@@ -1,4 +1,4 @@
-# Wii 将于 11 月 10 日发布？TechCrunch
+# Wii 将于 11 月 10 日发布？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/wii-to-launch-november-10th/>
 

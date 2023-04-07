@@ -1,4 +1,4 @@
-# 手机提交的分类列表:IQ zone–TechCrunch
+# 手机提交的分类列表:IQ zone
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/31/cell-phone-submitted-classified-listings-iqzone/>
 

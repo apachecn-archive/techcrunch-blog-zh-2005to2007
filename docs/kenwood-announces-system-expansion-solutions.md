@@ -1,4 +1,4 @@
-# 建伍宣布系统扩展解决方案——TechCrunch
+# 建伍宣布系统扩展解决方案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/kenwood-announces-system-expansion-solutions/>
 

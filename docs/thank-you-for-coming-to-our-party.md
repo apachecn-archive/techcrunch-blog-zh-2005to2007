@@ -1,4 +1,4 @@
-# 感谢您参加我们的聚会 TechCrunch
+# 感谢您参加我们的聚会 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/22/thank-you-for-coming-to-our-party/>
 

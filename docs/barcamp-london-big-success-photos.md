@@ -1,4 +1,4 @@
-# BarCamp 伦敦大获成功[图片] | TechCrunch
+# BarCamp 伦敦大获成功[图片] 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/04/barcamp-london-big-success-photos/>
 

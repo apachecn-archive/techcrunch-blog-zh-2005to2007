@@ -1,4 +1,4 @@
-# 每日危机:海滩派对版| TechCrunch
+# 每日危机:海滩派对版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/daily-crunch-beach-party-edition/>
 

@@ -1,4 +1,4 @@
-# Denon 为 iPods ' n More 开发的新 WiFi 坞站——TechCrunch
+# Denon 为 iPods ' n More 开发的新 WiFi 坞站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/25/denons-new-wifi-dock-for-ipods-n-more/>
 

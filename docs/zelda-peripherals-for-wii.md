@@ -1,4 +1,4 @@
-# Wii 的塞尔达外设？TechCrunch
+# Wii 的塞尔达外设？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/zelda-peripherals-for-wii/>
 

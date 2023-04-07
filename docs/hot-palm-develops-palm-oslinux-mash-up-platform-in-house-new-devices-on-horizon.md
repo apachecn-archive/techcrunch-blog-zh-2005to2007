@@ -1,4 +1,4 @@
-# 热门:Palm 内部开发 Palm-OS/Linux 混搭平台；地平线上的新设备| TechCrunch
+# 热门:Palm 内部开发 Palm-OS/Linux 混搭平台；地平线上的新设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/hot-palm-develops-palm-oslinux-mash-up-platform-in-house-new-devices-on-horizon/>
 

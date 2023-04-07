@@ -1,4 +1,4 @@
-# 四分之一的年轻人没有固定电话——TechCrunch
+# 四分之一的年轻人没有固定电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/no-land-line-for-one-quarter-of-young-adults/>
 

@@ -1,4 +1,4 @@
-# Lisensa 将帮助博客授权内容 TechCrunch
+# Lisensa 将帮助博客授权内容 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/12/lisensa-to-help-bloggers-license-content/>
 

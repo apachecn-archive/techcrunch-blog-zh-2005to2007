@@ -1,4 +1,4 @@
-# 马科夫知道什么？TechCrunch
+# 马科夫知道什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/what-does-markoff-know/>
 

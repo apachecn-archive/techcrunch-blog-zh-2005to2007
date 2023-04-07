@@ -1,4 +1,4 @@
-# 死池中的 fon pods | TechCrunch
+# 死池中的 fon pods 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/25/fonpods-in-deadpool/>
 

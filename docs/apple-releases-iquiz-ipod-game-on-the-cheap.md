@@ -1,4 +1,4 @@
-# 苹果发布廉价的 iQuiz iPod 游戏——TechCrunch
+# 苹果发布廉价的 iQuiz iPod 游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/apple-releases-iquiz-ipod-game-on-the-cheap/>
 

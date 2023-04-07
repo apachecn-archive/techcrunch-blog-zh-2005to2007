@@ -1,4 +1,4 @@
-# 带 Santa Rosa 的联想平板电脑–TechCrunch
+# 带 Santa Rosa 的联想平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/lenovo-tablet-pc-with-santa-rosa/>
 

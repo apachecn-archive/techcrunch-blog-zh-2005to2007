@@ -1,4 +1,4 @@
-# Nyko 即将推出的主唱无线吉他英雄控制器——TechCrunch
+# Nyko 即将推出的主唱无线吉他英雄控制器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/nykos-upcoming-frontman-wireless-guitar-hero-controller/>
 

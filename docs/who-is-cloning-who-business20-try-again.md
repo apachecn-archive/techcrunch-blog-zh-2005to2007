@@ -1,4 +1,4 @@
-# 谁在克隆谁？商务 2.0，再试一次 TechCrunch
+# 谁在克隆谁？商务 2.0，再试一次 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/who-is-cloning-who-business20-try-again/>
 

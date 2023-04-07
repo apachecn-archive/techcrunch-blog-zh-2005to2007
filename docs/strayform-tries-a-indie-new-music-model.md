@@ -1,4 +1,4 @@
-# Strayform 尝试新的独立音乐模式——TechCrunch
+# Strayform 尝试新的独立音乐模式
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/13/strayform-tries-a-indie-new-music-model/>
 

@@ -1,4 +1,4 @@
-# 雅虎！说他们不是在建图书馆——TechCrunch
+# 雅虎！说他们不是在建图书馆
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/01/yahoo-says-theyre-not-building-a-library/>
 

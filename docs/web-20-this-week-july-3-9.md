@@ -1,4 +1,4 @@
-# 本周(7 月 3 日至 9 日)web 2.0 TechCrunch
+# 本周(7 月 3 日至 9 日)web 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/08/web-20-this-week-july-3-9/>
 

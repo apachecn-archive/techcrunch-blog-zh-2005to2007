@@ -1,4 +1,4 @@
-# BodyGard:口袋里的 5 合 1 偏执狂| TechCrunch
+# BodyGard:口袋里的 5 合 1 偏执狂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/08/bodygard-5-in-1-paranoia-in-your-pocket/>
 

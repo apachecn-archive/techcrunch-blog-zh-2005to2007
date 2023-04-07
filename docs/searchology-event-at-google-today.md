@@ -1,4 +1,4 @@
-# 今天谷歌的搜索事件:大量公告——TechCrunch
+# 今天谷歌的搜索事件:大量公告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/16/searchology-event-at-google-today/>
 

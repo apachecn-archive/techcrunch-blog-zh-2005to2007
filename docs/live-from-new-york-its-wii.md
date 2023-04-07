@@ -1,4 +1,4 @@
-# 来自纽约的现场直播，这是 Wii-TechCrunch
+# 来自纽约的现场直播，这是 Wii-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/19/live-from-new-york-its-wii/>
 

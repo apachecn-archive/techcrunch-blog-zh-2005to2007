@@ -1,4 +1,4 @@
-# 帮助关键:机场技术生存指南 TechCrunch
+# 帮助关键:机场技术生存指南 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/29/the-help-key-an-airport-tech-survival-guide/>
 

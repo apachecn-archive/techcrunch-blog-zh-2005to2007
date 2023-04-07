@@ -1,4 +1,4 @@
-# Entropia Universe 许可 CryENGINE TechCrunch
+# Entropia Universe 许可 CryENGINE 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/entropia-universe-licenses-cryengine/>
 

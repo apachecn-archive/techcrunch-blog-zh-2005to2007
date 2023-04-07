@@ -1,4 +1,4 @@
-# 实用机器人:啤酒发射冰箱！TechCrunch
+# 实用机器人:啤酒发射冰箱！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/practical-robotics-beer-launching-fridge/>
 

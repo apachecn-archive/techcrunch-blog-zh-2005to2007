@@ -1,4 +1,4 @@
-# 借助 AirPod | TechCrunch 轻松呼吸
+# 借助 AirPod  轻松呼吸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/breathe-easy-with-airpod/>
 

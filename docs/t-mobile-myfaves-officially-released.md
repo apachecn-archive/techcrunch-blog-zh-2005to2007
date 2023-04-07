@@ -1,4 +1,4 @@
-# t-Mobile my aves 正式发布| TechCrunch
+# t-Mobile my aves 正式发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/t-mobile-myfaves-officially-released/>
 

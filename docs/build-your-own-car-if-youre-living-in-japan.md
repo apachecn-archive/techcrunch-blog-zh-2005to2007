@@ -1,4 +1,4 @@
-# 打造你自己的汽车(如果你住在日本)——TechCrunch
+# 打造你自己的汽车(如果你住在日本)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/26/build-your-own-car-if-youre-living-in-japan/>
 

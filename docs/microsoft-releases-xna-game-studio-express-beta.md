@@ -1,4 +1,4 @@
-# 微软发布 XNA 游戏工作室快速测试版| TechCrunch
+# 微软发布 XNA 游戏工作室快速测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/microsoft-releases-xna-game-studio-express-beta/>
 

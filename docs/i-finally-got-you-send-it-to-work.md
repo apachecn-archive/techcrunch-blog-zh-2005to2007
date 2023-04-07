@@ -1,4 +1,4 @@
-# 我终于让“你发送它”工作了——TechCrunch
+# 我终于让“你发送它”工作了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/04/i-finally-got-you-send-it-to-work/>
 

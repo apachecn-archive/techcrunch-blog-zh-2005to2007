@@ -1,4 +1,4 @@
-# RoombaCtrl 用手机控制你的 Roomba——TechCrunch
+# RoombaCtrl 用手机控制你的 Roomba
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/roombactrl-controls-your-roomba-with-your-cell-phone/>
 

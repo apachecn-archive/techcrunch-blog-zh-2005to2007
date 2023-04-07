@@ -1,4 +1,4 @@
-# TAC 吉他不支持吉他英雄 2–TechCrunch
+# TAC 吉他不支持吉他英雄 2
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/tac-guitars-do-not-work-with-guitar-hero-2/>
 

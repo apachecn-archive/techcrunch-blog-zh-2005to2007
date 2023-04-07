@@ -1,4 +1,4 @@
-# iPhone 使用 1.5:1 的宽高比–TechCrunch
+# iPhone 使用 1.5:1 的宽高比
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/iphone-uses-151-aspect-ratio/>
 

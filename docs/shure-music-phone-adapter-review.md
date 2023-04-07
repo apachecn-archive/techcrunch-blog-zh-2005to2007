@@ -1,4 +1,4 @@
-# 舒尔音乐手机适配器评论| TechCrunch
+# 舒尔音乐手机适配器评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/shure-music-phone-adapter-review/>
 

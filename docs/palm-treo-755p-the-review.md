@@ -1,4 +1,4 @@
-# Palm Treo 755p:评论–TechCrunch
+# Palm Treo 755p:评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/palm-treo-755p-the-review/>
 

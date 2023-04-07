@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:hang timer–TechCrunch
+# 10 天的 CrunchGear 赠品:hang timer
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/11/10-days-of-crunchgear-giveaway-hangtimer/>
 

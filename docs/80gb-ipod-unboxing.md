@@ -1,4 +1,4 @@
-# 80GB iPod 拆箱–TechCrunch
+# 80GB iPod 拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/21/80gb-ipod-unboxing/>
 

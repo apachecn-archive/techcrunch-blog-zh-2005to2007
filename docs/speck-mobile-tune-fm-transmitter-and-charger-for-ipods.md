@@ -1,4 +1,4 @@
-# 用于 iPods 的 Speck Mobile Tune FM 发射机和充电器–TechCrunch
+# 用于 iPods 的 Speck Mobile Tune FM 发射机和充电器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/speck-mobile-tune-fm-transmitter-and-charger-for-ipods/>
 

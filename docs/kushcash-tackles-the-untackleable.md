@@ -1,4 +1,4 @@
-# 库什卡什解决无法解决的问题 TechCrunch
+# 库什卡什解决无法解决的问题 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/30/kushcash-tackles-the-untackleable/>
 

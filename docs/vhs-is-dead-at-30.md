@@ -1,4 +1,4 @@
-# VHS 在 30 时死亡| TechCrunch
+# VHS 在 30 时死亡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/vhs-is-dead-at-30/>
 

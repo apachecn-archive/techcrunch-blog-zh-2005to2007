@@ -1,4 +1,4 @@
-# 当机器人接管时——TechCrunch
+# 当机器人接管时
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/when-the-robots-take-over/>
 

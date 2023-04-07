@@ -1,4 +1,4 @@
-# 澳航升级机队，现在包括电力和无线网络| TechCrunch
+# 澳航升级机队，现在包括电力和无线网络
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/qantas-upgrades-fleet-now-includes-power-and-wi-fi/>
 

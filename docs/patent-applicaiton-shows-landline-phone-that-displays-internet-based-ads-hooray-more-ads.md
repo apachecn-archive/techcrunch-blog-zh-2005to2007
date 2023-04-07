@@ -1,4 +1,4 @@
-# 专利申请显示固定电话显示基于互联网的广告:万岁，更多广告| TechCrunch
+# 专利申请显示固定电话显示基于互联网的广告:万岁，更多广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/patent-applicaiton-shows-landline-phone-that-displays-internet-based-ads-hooray-more-ads/>
 

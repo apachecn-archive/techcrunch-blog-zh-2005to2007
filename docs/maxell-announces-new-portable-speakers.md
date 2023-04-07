@@ -1,4 +1,4 @@
-# Maxell 发布新型便携式扬声器| TechCrunch
+# Maxell 发布新型便携式扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/maxell-announces-new-portable-speakers/>
 

@@ -1,4 +1,4 @@
-# 黑莓断网蔓延！–TechCrunch
+# 黑莓断网蔓延！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/blackberry-outage-spreads/>
 

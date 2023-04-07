@@ -1,4 +1,4 @@
-# 用户生成动画网站 MyToons 发布| TechCrunch
+# 用户生成动画网站 MyToons 发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/14/user-generated-animation-site-mytoons-launches/>
 

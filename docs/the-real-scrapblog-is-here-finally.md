@@ -1,4 +1,4 @@
-# 真正的剪贴簿在这里...最后 TechCrunch
+# 真正的剪贴簿在这里...最后 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/29/the-real-scrapblog-is-here-finally/>
 

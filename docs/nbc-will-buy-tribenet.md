@@ -1,4 +1,4 @@
-# NBC 可能收购 Tribe.net TechCrunch
+# NBC 可能收购 Tribe.net 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/07/nbc-will-buy-tribenet/>
 

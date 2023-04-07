@@ -1,4 +1,4 @@
-# NewsGator Go！:现在针对 Java 和黑莓——TechCrunch
+# NewsGator Go！:现在针对 Java 和黑莓
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/newsgator-go-now-for-java-and-blackberry/>
 

@@ -1,4 +1,4 @@
-# Flixster 注册用户达到 1000 万——TechCrunch
+# Flixster 注册用户达到 1000 万
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/20/flixster-hits-10-million-registered-users/>
 

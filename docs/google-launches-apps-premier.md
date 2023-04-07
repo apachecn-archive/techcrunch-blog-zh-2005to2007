@@ -1,4 +1,4 @@
-# 今天是谷歌日:谷歌发布应用卓越计划——TechCrunch
+# 今天是谷歌日:谷歌发布应用卓越计划
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/google-launches-apps-premier/>
 

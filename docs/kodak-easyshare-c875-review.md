@@ -1,4 +1,4 @@
-# 柯达 EasyShare C875 回顾–TechCrunch
+# 柯达 EasyShare C875 回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/kodak-easyshare-c875-review/>
 

@@ -1,4 +1,4 @@
-# 揭开数码相机的神秘面纱:简单易用的新型数码傻瓜相机——TechCrunch
+# 揭开数码相机的神秘面纱:简单易用的新型数码傻瓜相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/demystifyingdigital-new-easy-digital-point-and-shoot-cameras/>
 

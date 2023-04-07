@@ -1,4 +1,4 @@
-# 我们在 CES 上错过了什么:三洋的东西——TechCrunch
+# 我们在 CES 上错过了什么:三洋的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/what-we-missed-at-ces-sanyo-stuff/>
 

@@ -1,4 +1,4 @@
-# 骑士 3D 立体摄像机–TechCrunch
+# 骑士 3D 立体摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/17/horseman-3d-stereo-camera/>
 

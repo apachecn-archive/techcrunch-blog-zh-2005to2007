@@ -1,4 +1,4 @@
-# 将推出 page flakes 2.0 TechCrunch
+# 将推出 page flakes 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/03/pageflakes-20-to-launch/>
 

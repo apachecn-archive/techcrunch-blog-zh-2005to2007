@@ -1,4 +1,4 @@
-# 苹果的下一个产品 Photoshop——TechCrunch
+# 苹果的下一个产品 Photoshop
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/28/apples-next-product-photoshops/>
 

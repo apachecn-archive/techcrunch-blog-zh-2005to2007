@@ -1,4 +1,4 @@
-# 在 iTunes 上完成我的专辑:打折完成部分下载的专辑| TechCrunch
+# 在 iTunes 上完成我的专辑:打折完成部分下载的专辑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/complete-my-album-on-itunes-finish-partially-downloaded-albums-at-a-discount/>
 

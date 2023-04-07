@@ -1,4 +1,4 @@
-# 公爵抵达威瑞森无线 TechCrunch
+# 公爵抵达威瑞森无线 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/the-duke-arrives-on-verizon-wireless/>
 

@@ -1,4 +1,4 @@
-# bite my Photo–第二简单的照片上传工具| TechCrunch
+# bite my Photo–第二简单的照片上传工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/21/bitemyphoto-2nd-easiest-photo-uploading-tool/>
 

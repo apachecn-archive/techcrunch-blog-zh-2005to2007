@@ -1,4 +1,4 @@
-# Treo 750:模糊的照片，功能列表–TechCrunch
+# Treo 750:模糊的照片，功能列表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/treo-750-blurry-pics-feature-list/>
 

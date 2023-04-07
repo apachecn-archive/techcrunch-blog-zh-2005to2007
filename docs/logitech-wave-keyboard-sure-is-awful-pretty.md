@@ -1,4 +1,4 @@
-# 罗技 Wave 键盘确实非常漂亮——TechCrunch
+# 罗技 Wave 键盘确实非常漂亮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/logitech-wave-keyboard-sure-is-awful-pretty/>
 

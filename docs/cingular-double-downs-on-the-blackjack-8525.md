@@ -1,4 +1,4 @@
-# 21 点的 Cingular 双倍下注，8525 | TechCrunch
+# 21 点的 Cingular 双倍下注，8525 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/16/cingular-double-downs-on-the-blackjack-8525/>
 

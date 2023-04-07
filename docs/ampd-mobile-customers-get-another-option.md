@@ -1,4 +1,4 @@
-# 手机用户又多了一个选择| TechCrunch
+# 手机用户又多了一个选择
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/ampd-mobile-customers-get-another-option/>
 

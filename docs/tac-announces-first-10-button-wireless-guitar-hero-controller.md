@@ -1,4 +1,4 @@
-# TAC 发布首款 10 按钮无线吉他英雄控制器| TechCrunch
+# TAC 发布首款 10 按钮无线吉他英雄控制器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/tac-announces-first-10-button-wireless-guitar-hero-controller/>
 

@@ -1,4 +1,4 @@
-# FuckedCompany 的 Adbrite Spawn 升级到 2.0 TechCrunch
+# FuckedCompany 的 Adbrite Spawn 升级到 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/05/fuckedcompanys-adbrite-spawn-goes-20/>
 

@@ -1,4 +1,4 @@
-# FreshBooks 发布开放 API TechCrunch
+# FreshBooks 发布开放 API 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/28/freshbooks-launches-open-api/>
 

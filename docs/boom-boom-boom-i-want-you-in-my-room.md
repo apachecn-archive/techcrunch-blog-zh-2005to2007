@@ -1,4 +1,4 @@
-# 嘣嘣嘣，我要你进我房间！TechCrunch
+# 嘣嘣嘣，我要你进我房间！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/boom-boom-boom-i-want-you-in-my-room/>
 

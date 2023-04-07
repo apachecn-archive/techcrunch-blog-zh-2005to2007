@@ -1,4 +1,4 @@
-# 用该死的激光找乐子！TechCrunch
+# 用该死的激光找乐子！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/21/fun-with-frickin-lasers/>
 

@@ -1,4 +1,4 @@
-# Final Cut Studio 2 亮相——TechCrunch
+# Final Cut Studio 2 亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/16/final-cut-studio-2-unveiled/>
 

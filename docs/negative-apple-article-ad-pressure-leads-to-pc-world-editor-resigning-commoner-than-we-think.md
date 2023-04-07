@@ -1,4 +1,4 @@
-# 负面苹果文章，广告压力导致 PC 世界编辑辞职:比我们想象的更普通？–TechCrunch
+# 负面苹果文章，广告压力导致 PC 世界编辑辞职:比我们想象的更普通？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/negative-apple-article-ad-pressure-leads-to-pc-world-editor-resigning-commoner-than-we-think/>
 

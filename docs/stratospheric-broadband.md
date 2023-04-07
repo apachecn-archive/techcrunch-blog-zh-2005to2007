@@ -1,4 +1,4 @@
-# 平流层宽带| TechCrunch
+# 平流层宽带
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/03/stratospheric-broadband/>
 

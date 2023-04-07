@@ -1,4 +1,4 @@
-# 移动中的谷歌阅读器| TechCrunch
+# 移动中的谷歌阅读器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/07/google-reader-on-the-go/>
 

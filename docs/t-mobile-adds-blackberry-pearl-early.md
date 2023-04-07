@@ -1,4 +1,4 @@
-# T-Mobile 提前加入黑莓珍珠| TechCrunch
+# T-Mobile 提前加入黑莓珍珠
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/t-mobile-adds-blackberry-pearl-early/>
 

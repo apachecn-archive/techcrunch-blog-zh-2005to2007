@@ -1,4 +1,4 @@
-# 第一眼:Helio Heat | TechCrunch
+# 第一眼:Helio Heat 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/first-look-helio-heat/>
 

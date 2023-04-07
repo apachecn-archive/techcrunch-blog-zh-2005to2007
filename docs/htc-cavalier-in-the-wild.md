@@ -1,4 +1,4 @@
-# HTC 骑士在野外| TechCrunch
+# HTC 骑士在野外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/htc-cavalier-in-the-wild/>
 

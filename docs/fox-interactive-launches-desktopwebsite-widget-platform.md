@@ -1,4 +1,4 @@
-# 福克斯互动推出桌面/网站小工具平台 TechCrunch
+# 福克斯互动推出桌面/网站小工具平台 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/06/fox-interactive-launches-desktopwebsite-widget-platform/>
 

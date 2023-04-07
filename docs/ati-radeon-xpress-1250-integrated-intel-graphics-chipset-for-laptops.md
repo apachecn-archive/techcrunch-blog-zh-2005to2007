@@ -1,4 +1,4 @@
-# 面向笔记本电脑的 ATI 镭龙 Xpress 1250 集成英特尔显卡芯片组| TechCrunch
+# 面向笔记本电脑的 ATI 镭龙 Xpress 1250 集成英特尔显卡芯片组
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/ati-radeon-xpress-1250-integrated-intel-graphics-chipset-for-laptops/>
 

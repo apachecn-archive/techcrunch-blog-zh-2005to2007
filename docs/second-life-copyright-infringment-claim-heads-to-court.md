@@ -1,4 +1,4 @@
-# 第二人生版权侵权索赔诉诸法庭 TechCrunch
+# 第二人生版权侵权索赔诉诸法庭 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/04/second-life-copyright-infringment-claim-heads-to-court/>
 

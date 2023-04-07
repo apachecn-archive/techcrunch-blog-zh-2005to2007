@@ -1,4 +1,4 @@
-# Windows Mobile | TechCrunch 上运行的 Vista 小工具的视频
+# Windows Mobile  上运行的 Vista 小工具的视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/27/video-of-vista-gadgets-running-on-windows-mobile/>
 

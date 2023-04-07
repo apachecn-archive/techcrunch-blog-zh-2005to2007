@@ -1,4 +1,4 @@
-# 任天堂之书——TechCrunch
+# 任天堂之书
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/16/the-book-of-nintendo/>
 

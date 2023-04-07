@@ -1,4 +1,4 @@
-# 一家真正的媒体获得资金支持轻松创建在线幻灯片 TechCrunch
+# 一家真正的媒体获得资金支持轻松创建在线幻灯片 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/11/one-true-media-gets-funding-for-easy-online-slide-show-creation/>
 

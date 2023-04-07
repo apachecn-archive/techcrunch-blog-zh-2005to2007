@@ -1,4 +1,4 @@
-# 汤姆汤姆进入手机市场？–TechCrunch
+# 汤姆汤姆进入手机市场？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/tom-tom-entering-the-cellphone-market/>
 

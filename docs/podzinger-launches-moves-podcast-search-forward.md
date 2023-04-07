@@ -1,4 +1,4 @@
-# Podzinger 发布，推进播客搜索——TechCrunch
+# Podzinger 发布，推进播客搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/14/podzinger-launches-moves-podcast-search-forward/>
 

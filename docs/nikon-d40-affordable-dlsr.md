@@ -1,4 +1,4 @@
-# 尼康 D40:负担得起的 DSLR？TechCrunch
+# 尼康 D40:负担得起的 DSLR？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/nikon-d40-affordable-dlsr/>
 

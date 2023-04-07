@@ -1,4 +1,4 @@
-# 三星超薄 F700 说 iPhone 谁？–TechCrunch
+# 三星超薄 F700 说 iPhone 谁？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/samsungs-ultra-slim-f700-says-iphone-who-post-asap/>
 

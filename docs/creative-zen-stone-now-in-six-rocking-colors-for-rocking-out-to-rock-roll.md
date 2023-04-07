@@ -1,4 +1,4 @@
-# 创意禅石，现在有六种摇滚颜色可供摇滚| TechCrunch
+# 创意禅石，现在有六种摇滚颜色可供摇滚
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/creative-zen-stone-now-in-six-rocking-colors-for-rocking-out-to-rock-roll/>
 

@@ -1,4 +1,4 @@
-# Iomega 的 Rev Loader 560 可容纳 560GB | TechCrunch
+# Iomega 的 Rev Loader 560 可容纳 560GB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/iomegas-rev-loader-560-holds-560gb/>
 

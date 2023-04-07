@@ -1,4 +1,4 @@
-# cingular/美国电话电报公司的 KRZR 获得 3G 内置摄像头——TechCrunch
+# cingular/美国电话电报公司的 KRZR 获得 3G 内置摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/cingularatts-krzr-gets-internal-cam-3g/>
 

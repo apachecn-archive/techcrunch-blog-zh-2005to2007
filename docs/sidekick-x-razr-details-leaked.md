@@ -1,4 +1,4 @@
-# Sidekick X RAZR 细节泄露——TechCrunch
+# Sidekick X RAZR 细节泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/22/sidekick-x-razr-details-leaked/>
 

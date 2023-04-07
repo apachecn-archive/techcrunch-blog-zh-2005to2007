@@ -1,4 +1,4 @@
-# 谁会是视频直播的 YouTube？–TechCrunch
+# 谁会是视频直播的 YouTube？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/06/22/will-live-video-catch-on-like-youtube/>
 

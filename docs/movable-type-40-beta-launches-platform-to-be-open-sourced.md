@@ -1,4 +1,4 @@
-# 可移动类型 4.0 测试版发布，平台开源 TechCrunch
+# 可移动类型 4.0 测试版发布，平台开源 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/05/movable-type-40-beta-launches-platform-to-be-open-sourced/>
 

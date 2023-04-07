@@ -1,4 +1,4 @@
-# 你的 PS3 今天获得了更多乐趣——TechCrunch
+# 你的 PS3 今天获得了更多乐趣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/your-ps3-just-got-a-lot-more-fun-today/>
 

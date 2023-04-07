@@ -1,4 +1,4 @@
-# FastMac TruePower 65 瓦电源适配器被汽车碾过仍能工作！TechCrunch
+# FastMac TruePower 65 瓦电源适配器被汽车碾过仍能工作！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/17/fastmac-truepower-65-watt-power-adapter-gets-run-over-by-a-car-and-still-works/>
 

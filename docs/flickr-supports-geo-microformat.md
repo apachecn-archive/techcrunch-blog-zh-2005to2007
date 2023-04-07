@@ -1,4 +1,4 @@
-# Flickr 支持“地理”微格式 TechCrunch
+# Flickr 支持“地理”微格式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/flickr-supports-geo-microformat/>
 

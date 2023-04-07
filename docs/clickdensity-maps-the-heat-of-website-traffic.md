@@ -1,4 +1,4 @@
-# 点击密度映射网站流量的热度 TechCrunch
+# 点击密度映射网站流量的热度 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/04/clickdensity-maps-the-heat-of-website-traffic/>
 

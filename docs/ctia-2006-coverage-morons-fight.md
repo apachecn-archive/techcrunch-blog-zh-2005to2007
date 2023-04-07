@@ -1,4 +1,4 @@
-# CTIA 2006 年报道:白痴-战斗！TechCrunch
+# CTIA 2006 年报道:白痴-战斗！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/13/ctia-2006-coverage-morons-fight/>
 

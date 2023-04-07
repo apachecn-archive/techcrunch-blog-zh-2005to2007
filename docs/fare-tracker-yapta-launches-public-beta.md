@@ -1,4 +1,4 @@
-# 票价追踪器 Yapta 发布公开测试版 TechCrunch
+# 票价追踪器 Yapta 发布公开测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/21/fare-tracker-yapta-launches-public-beta/>
 

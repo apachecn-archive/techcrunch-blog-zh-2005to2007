@@ -1,4 +1,4 @@
-# PayPerPost 的业余时间——TechCrunch
+# PayPerPost 的业余时间
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/04/payperpost-walks-from-performancing-deal/>
 

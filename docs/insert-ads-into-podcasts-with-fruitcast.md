@@ -1,4 +1,4 @@
-# 使用 Fruitcast 在播客中插入广告 TechCrunch
+# 使用 Fruitcast 在播客中插入广告 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/03/insert-ads-into-podcasts-with-fruitcast/>
 

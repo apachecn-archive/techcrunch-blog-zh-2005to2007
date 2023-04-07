@@ -1,4 +1,4 @@
-# Ballbot:即使只有一个轮子，也不容易——TechCrunch
+# Ballbot:即使只有一个轮子，也不容易
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/10/ballbot-even-on-one-wheel-its-no-pushover/>
 

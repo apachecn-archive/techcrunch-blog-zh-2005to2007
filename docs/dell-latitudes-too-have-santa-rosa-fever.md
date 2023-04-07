@@ -1,4 +1,4 @@
-# 戴尔纬度也有圣罗莎热——TechCrunch
+# 戴尔纬度也有圣罗莎热
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/dell-latitudes-too-have-santa-rosa-fever/>
 

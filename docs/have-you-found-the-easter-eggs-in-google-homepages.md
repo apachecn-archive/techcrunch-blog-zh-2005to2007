@@ -1,4 +1,4 @@
-# 你在谷歌主页上找到复活节彩蛋了吗？–TechCrunch
+# 你在谷歌主页上找到复活节彩蛋了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/22/have-you-found-the-easter-eggs-in-google-homepages/>
 

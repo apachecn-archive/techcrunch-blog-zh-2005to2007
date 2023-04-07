@@ -1,4 +1,4 @@
-# T-Mobile 将于下月推出 UMTS/3G 网络？TechCrunch
+# T-Mobile 将于下月推出 UMTS/3G 网络？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/t-mobile-set-to-launch-umts3g-network-next-month/>
 

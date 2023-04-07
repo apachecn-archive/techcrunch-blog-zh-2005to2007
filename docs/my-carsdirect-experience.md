@@ -1,4 +1,4 @@
-# 我的 CarsDirect 体验 TechCrunch
+# 我的 CarsDirect 体验 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/28/my-carsdirect-experience/>
 

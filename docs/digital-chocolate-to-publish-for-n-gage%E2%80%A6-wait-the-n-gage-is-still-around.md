@@ -1,4 +1,4 @@
-# 数字巧克力将为 N-Gage 出版…等等，N-Gage 还在吗？TechCrunch
+# 数字巧克力将为 N-Gage 出版…等等，N-Gage 还在吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/digital-chocolate-to-publish-for-n-gage%E2%80%A6-wait-the-n-gage-is-still-around/>
 

@@ -1,4 +1,4 @@
-# Powerset 会有 PowerGrowth 吗？–TechCrunch
+# Powerset 会有 PowerGrowth 吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/05/will-powerset-have-powergrowth/>
 

@@ -1,4 +1,4 @@
-# hula ——(可能)一个新的 Ajax 日历——TechCrunch
+# hula ——(可能)一个新的 Ajax 日历
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/23/hula-possibly-a-new-ajax-calendar/>
 

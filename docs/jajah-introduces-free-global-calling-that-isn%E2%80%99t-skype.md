@@ -1,4 +1,4 @@
-# JAJAH 推出免费全球通话服务，这不是 Skype | TechCrunch
+# JAJAH 推出免费全球通话服务，这不是 Skype 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/jajah-introduces-free-global-calling-that-isn%E2%80%99t-skype/>
 

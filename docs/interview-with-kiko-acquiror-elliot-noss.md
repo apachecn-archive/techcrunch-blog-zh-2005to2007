@@ -1,4 +1,4 @@
-# 采访 Kiko Acquiror Elliot Noss——TechCrunch
+# 采访 Kiko Acquiror Elliot Noss
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/06/interview-with-kiko-acquiror-elliot-noss/>
 

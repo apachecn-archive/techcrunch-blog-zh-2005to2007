@@ -1,4 +1,4 @@
-# 提要聚合器市场份额 TechCrunch
+# 提要聚合器市场份额 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/11/update-techcrunch-aggregator-share/>
 

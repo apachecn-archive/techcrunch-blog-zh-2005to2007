@@ -1,4 +1,4 @@
-# Ultimate Ears triple.fi 10 Pro 三重驱动耳机| TechCrunch
+# Ultimate Ears triple.fi 10 Pro 三重驱动耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/ultimate-ears-triplefi-10-pro-triple-driver-earphones/>
 

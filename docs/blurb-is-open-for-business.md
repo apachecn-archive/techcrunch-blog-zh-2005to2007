@@ -1,4 +1,4 @@
-# 广告已开始营业| TechCrunch
+# 广告已开始营业
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/02/blurb-is-open-for-business/>
 

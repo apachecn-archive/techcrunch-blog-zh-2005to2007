@@ -1,4 +1,4 @@
-# LG Combo Display 希望淘汰您的电视——TechCrunch
+# LG Combo Display 希望淘汰您的电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/03/lg-combo-display-hopes-to-eliminate-your-tv/>
 

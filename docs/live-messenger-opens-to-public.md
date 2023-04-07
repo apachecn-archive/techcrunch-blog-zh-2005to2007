@@ -1,4 +1,4 @@
-# Live Messenger 向公众开放——TechCrunch
+# Live Messenger 向公众开放
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/08/live-messenger-opens-to-public/>
 

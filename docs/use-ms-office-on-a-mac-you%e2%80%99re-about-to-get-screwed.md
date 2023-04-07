@@ -1,4 +1,4 @@
-# 在 Mac 上使用 MS Office？你要完蛋了——TechCrunch
+# 在 Mac 上使用 MS Office？你要完蛋了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/use-ms-office-on-a-mac-you%e2%80%99re-about-to-get-screwed/>
 

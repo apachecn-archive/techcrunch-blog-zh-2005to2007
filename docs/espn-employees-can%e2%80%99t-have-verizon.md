@@ -1,4 +1,4 @@
-# ESPN 员工不能拥有威瑞森 TechCrunch
+# ESPN 员工不能拥有威瑞森 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/espn-employees-can%e2%80%99t-have-verizon/>
 

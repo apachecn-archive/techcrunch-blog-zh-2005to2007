@@ -1,4 +1,4 @@
-# Olufsen 内置:新的 862 美元 4GB 音乐播放器| TechCrunch
+# Olufsen 内置:新的 862 美元 4GB 音乐播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/banged-in-the-olufsen-new-862-4gb-music-player/>
 

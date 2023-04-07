@@ -1,4 +1,4 @@
-# 帮助键:如何在便宜的| TechCrunch 上录制音乐演示
+# 帮助键:如何在便宜的 上录制音乐演示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/26/help-key-how-to-record-your-music-demo-on-the-cheap/>
 

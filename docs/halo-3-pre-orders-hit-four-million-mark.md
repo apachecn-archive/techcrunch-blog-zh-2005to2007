@@ -1,4 +1,4 @@
-# 《光环 3》预购量突破 400 万——TechCrunch
+# 《光环 3》预购量突破 400 万
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/halo-3-pre-orders-hit-four-million-mark/>
 

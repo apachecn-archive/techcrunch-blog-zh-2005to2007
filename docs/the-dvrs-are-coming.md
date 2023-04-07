@@ -1,4 +1,4 @@
-# DVR 来了——TechCrunch
+# DVR 来了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/the-dvrs-are-coming/>
 

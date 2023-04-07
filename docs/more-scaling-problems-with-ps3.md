@@ -1,4 +1,4 @@
-# PS3 的更多扩展问题——TechCrunch
+# PS3 的更多扩展问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/more-scaling-problems-with-ps3/>
 

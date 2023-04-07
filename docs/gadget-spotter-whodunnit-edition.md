@@ -1,4 +1,4 @@
-# 小工具观察员:侦探版| TechCrunch
+# 小工具观察员:侦探版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/gadget-spotter-whodunnit-edition/>
 

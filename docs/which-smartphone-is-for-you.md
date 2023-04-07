@@ -1,4 +1,4 @@
-# 哪款智能手机适合你？TechCrunch
+# 哪款智能手机适合你？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/05/which-smartphone-is-for-you/>
 

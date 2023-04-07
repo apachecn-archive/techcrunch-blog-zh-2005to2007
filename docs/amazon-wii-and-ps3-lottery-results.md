@@ -1,4 +1,4 @@
-# 亚马逊 Wii 和 PS3 抽奖结果 TechCrunch
+# 亚马逊 Wii 和 PS3 抽奖结果 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/amazon-wii-and-ps3-lottery-results/>
 

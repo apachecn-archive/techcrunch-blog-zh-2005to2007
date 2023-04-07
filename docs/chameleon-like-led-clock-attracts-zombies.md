@@ -1,4 +1,4 @@
-# 变色龙般的 LED 时钟吸引僵尸| TechCrunch
+# 变色龙般的 LED 时钟吸引僵尸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/chameleon-like-led-clock-attracts-zombies/>
 

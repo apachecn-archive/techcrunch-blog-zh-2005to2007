@@ -1,4 +1,4 @@
-# 秘密任天堂培训视频 TechCrunch
+# 秘密任天堂培训视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/07/secret-nintendo-training-video/>
 

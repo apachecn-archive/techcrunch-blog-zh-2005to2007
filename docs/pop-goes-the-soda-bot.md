@@ -1,4 +1,4 @@
-# 汽水机器人流行了 TechCrunch
+# 汽水机器人流行了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/pop-goes-the-soda-bot/>
 

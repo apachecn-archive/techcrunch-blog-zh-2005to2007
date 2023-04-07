@@ -1,4 +1,4 @@
-# AdBrite 制作出色的视频产品——TechCrunch
+# AdBrite 制作出色的视频产品
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/04/adbrite-makes-brilliant-video-product/>
 

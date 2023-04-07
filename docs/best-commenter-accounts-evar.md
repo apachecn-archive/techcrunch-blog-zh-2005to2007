@@ -1,4 +1,4 @@
-# 最佳评论账户 Evar–TechCrunch
+# 最佳评论账户 Evar
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/best-commenter-accounts-evar/>
 

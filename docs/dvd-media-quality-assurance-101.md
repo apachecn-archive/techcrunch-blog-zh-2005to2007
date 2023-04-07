@@ -1,4 +1,4 @@
-# DVD 媒体质量保证 101–TechCrunch
+# DVD 媒体质量保证 101
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/dvd-media-quality-assurance-101/>
 

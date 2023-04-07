@@ -1,4 +1,4 @@
-# 重力抗拒鞋实际上并不抗拒重力——TechCrunch
+# 重力抗拒鞋实际上并不抗拒重力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/18/gravity-defyer-shoes-dont-actually-defy-gravity/>
 

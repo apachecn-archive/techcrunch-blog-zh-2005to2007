@@ -1,4 +1,4 @@
-# Bose 入耳式耳机动手操作| TechCrunch
+# Bose 入耳式耳机动手操作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/bose-in-ear-headphones-hands-on/>
 

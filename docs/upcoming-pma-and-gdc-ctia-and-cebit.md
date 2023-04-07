@@ -1,4 +1,4 @@
-# 即将举办:PMA 和全球数据中心，CTIA 和 CeBIT-TechCrunch
+# 即将举办:PMA 和全球数据中心，CTIA 和 CeBIT-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/upcoming-pma-and-gdc-ctia-and-cebit/>
 

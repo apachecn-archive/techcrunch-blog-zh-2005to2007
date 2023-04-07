@@ -1,4 +1,4 @@
-# 洛杉矶童子军给予版权材料应有的尊重| TechCrunch
+# 洛杉矶童子军给予版权材料应有的尊重
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/22/la-boy-scouts-giving-copyrighted-material-the-respect-it-deserves/>
 

@@ -1,4 +1,4 @@
-# InstaCalc:共享嵌入式计算器——TechCrunch
+# InstaCalc:共享嵌入式计算器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/01/instacalc-an-embedable-ajax-calculator-to-share/>
 

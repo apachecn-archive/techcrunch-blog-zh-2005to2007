@@ -1,4 +1,4 @@
-# 声音部跳上了 iPod 的潮流——TechCrunch
+# 声音部跳上了 iPod 的潮流
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/ministry-of-sound-hops-on-the-ipod-case-bandwagon/>
 

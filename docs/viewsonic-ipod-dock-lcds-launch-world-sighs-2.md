@@ -1,4 +1,4 @@
-# 优派 iPod-Dock LCD 发布会——TechCrunch
+# 优派 iPod-Dock LCD 发布会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/viewsonic-ipod-dock-lcds-launch-world-sighs-2/>
 

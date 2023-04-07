@@ -1,4 +1,4 @@
-# 首款 iPhone 显示屏| TechCrunch
+# 首款 iPhone 显示屏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/first-iphone-display/>
 

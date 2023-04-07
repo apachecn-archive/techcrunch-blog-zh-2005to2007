@@ -1,4 +1,4 @@
-# 耶稣有答案(或至少 20 个)——TechCrunch
+# 耶稣有答案(或至少 20 个)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/jesus-has-the-answers-or-at-least-20-of-them/>
 

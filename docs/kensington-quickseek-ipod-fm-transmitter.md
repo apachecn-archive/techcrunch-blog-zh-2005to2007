@@ -1,4 +1,4 @@
-# Kensington QuickSeek iPod FM 发射机| TechCrunch
+# Kensington QuickSeek iPod FM 发射机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/kensington-quickseek-ipod-fm-transmitter/>
 

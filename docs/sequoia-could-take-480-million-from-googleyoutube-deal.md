@@ -1,4 +1,4 @@
-# 红杉可能从谷歌/YouTube 交易中获得 4.8 亿美元 TechCrunch
+# 红杉可能从谷歌/YouTube 交易中获得 4.8 亿美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/09/sequoia-could-take-480-million-from-googleyoutube-deal/>
 

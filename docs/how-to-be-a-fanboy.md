@@ -1,4 +1,4 @@
-# 如何成为粉丝——TechCrunch
+# 如何成为粉丝
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/how-to-be-a-fanboy/>
 

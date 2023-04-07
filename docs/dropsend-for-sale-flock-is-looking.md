@@ -1,4 +1,4 @@
-# DropSend 出售:Flock 正在寻找 TechCrunch
+# DropSend 出售:Flock 正在寻找 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/05/dropsend-for-sale-flock-is-looking/>
 

@@ -1,4 +1,4 @@
-# Cingular 的下颚骨——TechCrunch
+# Cingular 的下颚骨
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/21/cingular-goes-for-the-jawbone/>
 

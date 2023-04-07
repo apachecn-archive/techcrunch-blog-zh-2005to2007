@@ -1,4 +1,4 @@
-# CTIA 无线的| TechCrunch
+# CTIA 无线的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/25/mc-at-ctia-wireless/>
 

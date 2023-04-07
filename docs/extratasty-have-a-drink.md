@@ -1,4 +1,4 @@
-# 喝一杯| TechCrunch
+# 喝一杯
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/07/extratasty-have-a-drink/>
 

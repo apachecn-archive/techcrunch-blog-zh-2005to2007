@@ -1,4 +1,4 @@
-# Vyew 协作套件现已上市——TechCrunch
+# Vyew 协作套件现已上市
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/14/vyew-collaboration-suite-now-commercially-available/>
 

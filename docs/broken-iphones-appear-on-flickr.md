@@ -1,4 +1,4 @@
-# Flickr | TechCrunch 上出现坏掉的 iPhones
+# Flickr  上出现坏掉的 iPhones
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/02/broken-iphones-appear-on-flickr/>
 

@@ -1,4 +1,4 @@
-# 魔方 MP3 播放器概念–TechCrunch
+# 魔方 MP3 播放器概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/rubiks-cube-mp3-player-concept/>
 

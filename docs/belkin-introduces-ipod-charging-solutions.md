@@ -1,4 +1,4 @@
-# Belkin 推出 iPod 充电解决方案| TechCrunch
+# Belkin 推出 iPod 充电解决方案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/07/belkin-introduces-ipod-charging-solutions/>
 

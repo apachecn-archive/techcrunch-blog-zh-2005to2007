@@ -1,4 +1,4 @@
-# 在不到两年的时间里，每个孩子一台笔记本电脑只需 50 美元| TechCrunch
+# 在不到两年的时间里，每个孩子一台笔记本电脑只需 50 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/one-laptop-per-child-laptop-to-cost-only-50-in-less-than-two-years/>
 

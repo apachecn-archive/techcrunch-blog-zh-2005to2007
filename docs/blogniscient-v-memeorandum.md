@@ -1,4 +1,4 @@
-# 博客科学诉 memeor andum TechCrunch
+# 博客科学诉 memeor andum 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/29/blogniscient-v-memeorandum/>
 

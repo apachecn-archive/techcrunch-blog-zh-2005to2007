@@ -1,4 +1,4 @@
-# Palm、三星将在圣诞节推出惊喜 QWERTY Fun(带 Cingular 回扣)！Palm、三星将在圣诞节推出惊喜 QWERTY Fun(带 Cingular 回扣)！TechCrunch
+# Palm、三星将在圣诞节推出惊喜 QWERTY Fun(带 Cingular 回扣)！Palm、三星将在圣诞节推出惊喜 QWERTY Fun(带 Cingular 回扣)！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/palm-samsung-to-drop-surprise-qwerty-fun-for-xmas-with-cingular-rebatespalm-samsung-to-drop-surprise-qwerty-fun-for-xmas-with-cingular-rebates/>
 

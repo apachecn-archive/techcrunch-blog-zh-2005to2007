@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:圣诞十四行诗| TechCrunch
+# CrunchGear 周回顾:圣诞十四行诗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/25/crunchgear-week-in-review-christmas-sonnet/>
 

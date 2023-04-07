@@ -1,4 +1,4 @@
-# AIRcable 将蓝牙范围扩展至 20 英里| TechCrunch
+# AIRcable 将蓝牙范围扩展至 20 英里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/03/aircable-extends-bluetooth-range-to-20-miles/>
 

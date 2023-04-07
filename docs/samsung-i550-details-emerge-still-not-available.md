@@ -1,4 +1,4 @@
-# 三星 i550 细节浮出水面，仍不可用| TechCrunch
+# 三星 i550 细节浮出水面，仍不可用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/samsung-i550-details-emerge-still-not-available/>
 

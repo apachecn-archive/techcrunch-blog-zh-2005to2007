@@ -1,4 +1,4 @@
-# Diller 寻求在英国收购——TechCrunch
+# Diller 寻求在英国收购
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/30/diller-looks-to-uk-for-acquisitions/>
 

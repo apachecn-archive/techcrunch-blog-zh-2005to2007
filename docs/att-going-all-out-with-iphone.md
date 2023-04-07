@@ -1,4 +1,4 @@
-# 美国电话电报公司全力以赴开发 iPhone——TechCrunch
+# 美国电话电报公司全力以赴开发 iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/att-going-all-out-with-iphone/>
 

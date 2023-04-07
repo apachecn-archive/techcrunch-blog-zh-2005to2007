@@ -1,4 +1,4 @@
-# 裸奔发布会:MySpace+stumble upon = Something–TechCrunch
+# 裸奔发布会:MySpace+stumble upon = Something
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/16/streakr-launches-myspace-stumbleupon-something/>
 

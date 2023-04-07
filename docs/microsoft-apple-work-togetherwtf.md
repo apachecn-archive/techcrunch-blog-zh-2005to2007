@@ -1,4 +1,4 @@
-# 微软，苹果联手…WTF？！TechCrunch
+# 微软，苹果联手…WTF？！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/microsoft-apple-work-togetherwtf/>
 

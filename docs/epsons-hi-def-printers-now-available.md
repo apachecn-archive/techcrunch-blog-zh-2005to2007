@@ -1,4 +1,4 @@
-# 爱普生的高清打印机现已上市| TechCrunch
+# 爱普生的高清打印机现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/19/epsons-hi-def-printers-now-available/>
 

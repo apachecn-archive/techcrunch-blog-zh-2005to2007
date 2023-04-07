@@ -1,4 +1,4 @@
-# Sling Media 为假期投放了三个弹匣——TechCrunch
+# Sling Media 为假期投放了三个弹匣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/27/slingmedia-drops-three-slingboxes-for-the-holidays/>
 

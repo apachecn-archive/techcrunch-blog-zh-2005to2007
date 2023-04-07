@@ -1,4 +1,4 @@
-# 4INFO 完成新一轮融资| TechCrunch
+# 4INFO 完成新一轮融资
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/4info-closes-round-of-funding/>
 

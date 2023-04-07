@@ -1,4 +1,4 @@
-# 诺基亚比摩托罗拉酷，我的妈| TechCrunch
+# 诺基亚比摩托罗拉酷，我的妈
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/nokia-cooler-than-motorola-my-mom/>
 

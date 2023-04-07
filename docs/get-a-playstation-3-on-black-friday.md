@@ -1,4 +1,4 @@
-# 在黑色星期五| TechCrunch 购买 PlayStation 3
+# 在黑色星期五 购买 PlayStation 3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/get-a-playstation-3-on-black-friday/>
 

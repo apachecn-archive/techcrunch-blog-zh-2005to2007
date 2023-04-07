@@ -1,4 +1,4 @@
-# 诺维特猎鹰现在发货。不真的。确实是。保证。TechCrunch
+# 诺维特猎鹰现在发货。不真的。确实是。保证。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/novint-falcon-now-shipping-no-really-it-is-promise/>
 

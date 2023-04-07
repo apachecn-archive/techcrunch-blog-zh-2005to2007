@@ -1,4 +1,4 @@
-# Cogenz 企业社交书签| TechCrunch
+# Cogenz 企业社交书签
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/13/cogenz-social-bookmarking-for-the-enterprise/>
 

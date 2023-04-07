@@ -1,4 +1,4 @@
-# Xbox 360 HD DVD 电脑版| TechCrunch
+# Xbox 360 HD DVD 电脑版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/13/xbox-360-hd-dvd-for-pc/>
 

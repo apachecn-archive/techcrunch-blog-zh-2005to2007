@@ -1,4 +1,4 @@
-# 战斗测试:Trolltech Qtopia 绿色电话 TechCrunch
+# 战斗测试:Trolltech Qtopia 绿色电话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/24/battle-test-trolltech-otopia-greenphone/>
 

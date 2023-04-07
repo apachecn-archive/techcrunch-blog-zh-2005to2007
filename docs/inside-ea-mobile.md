@@ -1,4 +1,4 @@
-# EA Mobile 内部——TechCrunch
+# EA Mobile 内部
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/15/inside-ea-mobile/>
 

@@ -1,4 +1,4 @@
-# 富士 Z5fd 评论| TechCrunch
+# 富士 Z5fd 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/08/fujifilm-z5fd-review/>
 

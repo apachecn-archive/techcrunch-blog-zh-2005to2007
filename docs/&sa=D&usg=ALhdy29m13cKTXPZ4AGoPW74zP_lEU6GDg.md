@@ -1,4 +1,4 @@
-# 找不到页面| TechCrunch
+# 找不到页面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/30/myspace-confirms-photobucket-flektor-acquisitions/&sa=D&usg=ALhdy29m13cKTXPZ4AGoPW74zP_lEU6GDg/>
 

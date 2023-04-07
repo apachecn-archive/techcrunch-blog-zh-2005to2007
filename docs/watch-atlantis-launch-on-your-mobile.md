@@ -1,4 +1,4 @@
-# 在手机上观看 Atlantis 发布——TechCrunch
+# 在手机上观看 Atlantis 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/watch-atlantis-launch-on-your-mobile/>
 

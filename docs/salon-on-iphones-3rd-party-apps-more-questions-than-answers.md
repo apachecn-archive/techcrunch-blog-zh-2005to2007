@@ -1,4 +1,4 @@
-# iPhone 第三方应用沙龙:问题多于答案| TechCrunch
+# iPhone 第三方应用沙龙:问题多于答案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/salon-on-iphones-3rd-party-apps-more-questions-than-answers/>
 

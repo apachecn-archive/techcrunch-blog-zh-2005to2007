@@ -1,4 +1,4 @@
-# 孩之宝面向儿童的大型迷你 DAP——TechCrunch
+# 孩之宝面向儿童的大型迷你 DAP
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/hasbros-massively-mini-dap-for-kids/>
 

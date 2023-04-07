@@ -1,4 +1,4 @@
-# MySpace，274 亿英镑的大猩猩 TechCrunch
+# MySpace，274 亿英镑的大猩猩 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/13/myspace-the-27-billion-pound-gorilla/>
 

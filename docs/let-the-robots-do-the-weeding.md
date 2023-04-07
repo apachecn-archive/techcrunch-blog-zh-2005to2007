@@ -1,4 +1,4 @@
-# 让机器人来除草——TechCrunch
+# 让机器人来除草
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/let-the-robots-do-the-weeding/>
 

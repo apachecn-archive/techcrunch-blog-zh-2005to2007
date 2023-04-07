@@ -1,4 +1,4 @@
-# Cingular 发布，HTC Star Trek 未发布(3125) | TechCrunch
+# Cingular 发布，HTC Star Trek 未发布(3125) 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/cingular-releases-unreleases-htc-star-trek-3125-2/>
 

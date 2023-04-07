@@ -1,4 +1,4 @@
-# 德沃夏克希望我们都停止崇拜 iPhone——TechCrunch
+# 德沃夏克希望我们都停止崇拜 iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/dvorak-wants-us-all-to-stop-worshiping-the-iphone/>
 

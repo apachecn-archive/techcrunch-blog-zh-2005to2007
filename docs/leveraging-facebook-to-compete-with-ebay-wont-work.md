@@ -1,4 +1,4 @@
-# 利用脸书与易贝竞争行不通 TechCrunch
+# 利用脸书与易贝竞争行不通 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/07/leveraging-facebook-to-compete-with-ebay-wont-work/>
 

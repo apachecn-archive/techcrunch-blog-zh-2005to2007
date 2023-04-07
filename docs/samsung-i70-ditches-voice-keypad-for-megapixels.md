@@ -1,4 +1,4 @@
-# 三星 i70 放弃语音，百万像素键盘| TechCrunch
+# 三星 i70 放弃语音，百万像素键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/samsung-i70-ditches-voice-keypad-for-megapixels/>
 

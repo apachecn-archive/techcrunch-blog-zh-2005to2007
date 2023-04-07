@@ -1,4 +1,4 @@
-# 世嘉玩具的 mu-bot 耳机:微小的人造音乐？–TechCrunch
+# 世嘉玩具的 mu-bot 耳机:微小的人造音乐？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/sega-toys-mu-bot-headphones-tiny-man-generated-music/>
 

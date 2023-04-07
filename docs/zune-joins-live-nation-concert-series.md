@@ -1,4 +1,4 @@
-# Zune 加入 Live Nation 音乐会系列 TechCrunch
+# Zune 加入 Live Nation 音乐会系列 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/16/zune-joins-live-nation-concert-series/>
 

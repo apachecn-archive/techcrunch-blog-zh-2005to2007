@@ -1,4 +1,4 @@
-# 马里奥进入愤怒管理| TechCrunch
+# 马里奥进入愤怒管理
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/18/mario-enters-anger-management/>
 

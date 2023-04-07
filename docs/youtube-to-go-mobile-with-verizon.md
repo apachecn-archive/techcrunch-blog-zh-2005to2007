@@ -1,4 +1,4 @@
-# YouTube 将和威瑞森一起移动？TechCrunch
+# YouTube 将和威瑞森一起移动？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/youtube-to-go-mobile-with-verizon/>
 

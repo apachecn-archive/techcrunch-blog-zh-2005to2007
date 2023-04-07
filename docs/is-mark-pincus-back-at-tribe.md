@@ -1,4 +1,4 @@
-# 马克·平卡斯回到部落了吗？TechCrunch
+# 马克·平卡斯回到部落了吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/24/is-mark-pincus-back-at-tribe>
 

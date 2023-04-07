@@ -1,4 +1,4 @@
-# 无线充电——TechCrunch
+# 无线充电
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/08/wildcharger-charges-wirelessly/>
 

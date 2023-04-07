@@ -1,4 +1,4 @@
-# 危险冒险的廉价世界电话！TechCrunch
+# 危险冒险的廉价世界电话！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/21/cheapo-world-phone-for-hazardous-perilous-adventures/>
 

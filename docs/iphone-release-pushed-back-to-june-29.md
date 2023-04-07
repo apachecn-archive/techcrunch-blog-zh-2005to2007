@@ -1,4 +1,4 @@
-# 谣言:iPhone 发布“推迟”到 6 月 29 日——TechCrunch
+# 谣言:iPhone 发布“推迟”到 6 月 29 日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/03/iphone-release-pushed-back-to-june-29/>
 

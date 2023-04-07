@@ -1,4 +1,4 @@
-# Treo 755p 官方| TechCrunch
+# Treo 755p 官方
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/treo-755p-officialized/>
 

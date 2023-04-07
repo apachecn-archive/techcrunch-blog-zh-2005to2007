@@ -1,4 +1,4 @@
-# 简单命令行的用处——TechCrunch
+# 简单命令行的用处
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/03/the-usefulness-of-the-simple-command-line>
 

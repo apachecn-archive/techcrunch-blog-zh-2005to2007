@@ -1,4 +1,4 @@
-# XM 提供停机信用| TechCrunch
+# XM 提供停机信用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/xm-offering-credit-for-downtime/>
 

@@ -1,4 +1,4 @@
-# Update - Del.icio.us(搜索和推荐)TechCrunch
+# Update - Del.icio.us(搜索和推荐)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/15/update-delicious-search-and-recommend-features/>
 

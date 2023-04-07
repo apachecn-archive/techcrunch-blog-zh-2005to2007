@@ -1,4 +1,4 @@
-# 美国军方的 poopy Brown Halo 3 Zune–TechCrunch
+# 美国军方的 poopy Brown Halo 3 Zune
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/poopy-brown-halo-3-zune-for-us-military/>
 

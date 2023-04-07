@@ -1,4 +1,4 @@
-# 三星即将推出的第三代高清产品——TechCrunch
+# 三星即将推出的第三代高清产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/samsungs-upcoming-3rd-generation-hd-lineup/>
 

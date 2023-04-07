@@ -1,4 +1,4 @@
-# 好莱坞瞄准手机——TechCrunch
+# 好莱坞瞄准手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/hollywood-targets-cell-phones/>
 

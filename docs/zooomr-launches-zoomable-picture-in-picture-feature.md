@@ -1,4 +1,4 @@
-# Zooomr 推出可缩放的画中画功能——TechCrunch
+# Zooomr 推出可缩放的画中画功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/21/zooomr-launches-zoomable-picture-in-picture-feature/>
 

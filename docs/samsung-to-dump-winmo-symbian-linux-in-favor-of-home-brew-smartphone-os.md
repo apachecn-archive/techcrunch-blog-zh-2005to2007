@@ -1,4 +1,4 @@
-# 三星抛弃 WinMo，Symbian，Linux，转而支持家酿智能手机操作系统！？TechCrunch
+# 三星抛弃 WinMo，Symbian，Linux，转而支持家酿智能手机操作系统！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/samsung-to-dump-winmo-symbian-linux-in-favor-of-home-brew-smartphone-os/>
 

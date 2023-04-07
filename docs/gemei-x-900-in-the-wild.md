@@ -1,4 +1,4 @@
-# 野外的梅格 X-900——TechCrunch
+# 野外的梅格 X-900
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/gemei-x-900-in-the-wild/>
 

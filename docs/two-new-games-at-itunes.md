@@ -1,4 +1,4 @@
-# iTunes | TechCrunch 上的两款新游戏
+# iTunes  上的两款新游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/two-new-games-at-itunes/>
 

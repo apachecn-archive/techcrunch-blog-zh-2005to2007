@@ -1,4 +1,4 @@
-# 查看第二修正案——TechCrunch
+# 查看第二修正案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/28/check-out-the-2nd-amendment-in-action/>
 

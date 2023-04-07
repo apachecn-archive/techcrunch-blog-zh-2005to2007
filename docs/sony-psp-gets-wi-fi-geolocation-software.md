@@ -1,4 +1,4 @@
-# 索尼 PSP 获得 Wi-Fi 地理定位软件 TechCrunch
+# 索尼 PSP 获得 Wi-Fi 地理定位软件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/sony-psp-gets-wi-fi-geolocation-software/>
 

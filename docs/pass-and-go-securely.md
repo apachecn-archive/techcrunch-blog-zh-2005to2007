@@ -1,4 +1,4 @@
-# 安全通过| TechCrunch
+# 安全通过
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/pass-and-go-securely/>
 

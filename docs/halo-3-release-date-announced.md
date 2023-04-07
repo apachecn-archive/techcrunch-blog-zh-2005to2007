@@ -1,4 +1,4 @@
-# 光环 3 发布日期宣布| TechCrunch
+# 光环 3 发布日期宣布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/halo-3-release-date-announced/>
 

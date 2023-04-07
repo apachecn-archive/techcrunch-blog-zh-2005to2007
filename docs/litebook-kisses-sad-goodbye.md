@@ -1,4 +1,4 @@
-# Litebook 吻别——TechCrunch
+# Litebook 吻别
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/05/litebook-kisses-sad-goodbye/>
 

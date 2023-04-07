@@ -1,4 +1,4 @@
-# LG VX8550:巧克力再次来袭，这次表现更好——TechCrunch
+# LG VX8550:巧克力再次来袭，这次表现更好
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/lg-vx8550-the-chocolate-strikes-again-does-better-this-time/>
 

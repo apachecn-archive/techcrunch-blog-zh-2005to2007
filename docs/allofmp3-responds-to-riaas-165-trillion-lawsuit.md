@@ -1,4 +1,4 @@
-# AllOfMP3 回应 RIAA 1.65 万亿美元的诉讼——TechCrunch
+# AllOfMP3 回应 RIAA 1.65 万亿美元的诉讼
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/27/allofmp3-responds-to-riaas-165-trillion-lawsuit/>
 

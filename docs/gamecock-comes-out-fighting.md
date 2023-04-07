@@ -1,4 +1,4 @@
-# Gamecock 出来战斗——TechCrunch
+# Gamecock 出来战斗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/gamecock-comes-out-fighting/>
 

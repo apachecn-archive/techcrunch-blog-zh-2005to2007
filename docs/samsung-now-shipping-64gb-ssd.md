@@ -1,4 +1,4 @@
-# 三星现推出 64GB 固态硬盘——TechCrunch
+# 三星现推出 64GB 固态硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/samsung-now-shipping-64gb-ssd/>
 

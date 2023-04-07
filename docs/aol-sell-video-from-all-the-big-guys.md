@@ -1,4 +1,4 @@
-# AOL 将提供所有大人物的视频 TechCrunch
+# AOL 将提供所有大人物的视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/24/aol-sell-video-from-all-the-big-guys/>
 

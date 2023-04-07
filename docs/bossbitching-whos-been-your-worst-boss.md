@@ -1,4 +1,4 @@
-# 老板抱怨:谁是你最糟糕的老板？TechCrunch
+# 老板抱怨:谁是你最糟糕的老板？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/08/bossbitching-whos-been-your-worst-boss/>
 

@@ -1,4 +1,4 @@
-# 为什么雅虎的巴拿马项目很重要 TechCrunch
+# 为什么雅虎的巴拿马项目很重要 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/26/why-yahoos-panama-project-is-important/>
 

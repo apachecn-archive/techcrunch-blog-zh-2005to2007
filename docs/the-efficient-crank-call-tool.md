@@ -1,4 +1,4 @@
-# 高效的骚扰电话工具——TechCrunch
+# 高效的骚扰电话工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/26/the-efficient-crank-call-tool/>
 

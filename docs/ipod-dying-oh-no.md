@@ -1,4 +1,4 @@
-# iPod 快死了:哦不！TechCrunch
+# iPod 快死了:哦不！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/ipod-dying-oh-no/>
 

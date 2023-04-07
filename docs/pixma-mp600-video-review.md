@@ -1,4 +1,4 @@
-# Pixma MP600 视频回顾–TechCrunch
+# Pixma MP600 视频回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/20/pixma-mp600-video-review/>
 

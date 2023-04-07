@@ -1,4 +1,4 @@
-# 法拉利做 GPS Thang | TechCrunch
+# 法拉利做 GPS Thang 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/14/ferrari-does-that-gps-thang/>
 

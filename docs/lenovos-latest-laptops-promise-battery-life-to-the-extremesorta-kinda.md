@@ -1,4 +1,4 @@
-# 联想最新的笔记本电脑承诺将电池续航时间发挥到极致……有点像——TechCrunch
+# 联想最新的笔记本电脑承诺将电池续航时间发挥到极致……有点像
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/lenovos-latest-laptops-promise-battery-life-to-the-extremesorta-kinda/>
 

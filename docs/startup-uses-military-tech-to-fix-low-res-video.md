@@ -1,4 +1,4 @@
-# 初创公司使用军事技术修复低分辨率视频 TechCrunch
+# 初创公司使用军事技术修复低分辨率视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/31/startup-uses-military-tech-to-fix-low-res-video/>
 

@@ -1,4 +1,4 @@
-# iPhone 研究:到底谁会排队买一部？TechCrunch
+# iPhone 研究:到底谁会排队买一部？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/iphone-research-who-exactly-will-wait-in-line-for-one/>
 

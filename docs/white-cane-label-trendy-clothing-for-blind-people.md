@@ -1,4 +1,4 @@
-# 白色手杖标签:盲人的时尚服装——TechCrunch
+# 白色手杖标签:盲人的时尚服装
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/13/white-cane-label-trendy-clothing-for-blind-people/>
 

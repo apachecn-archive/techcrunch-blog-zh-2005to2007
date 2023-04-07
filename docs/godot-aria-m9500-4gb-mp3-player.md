@@ -1,4 +1,4 @@
-# Godot Aria M9500 4GB MP3 播放器–TechCrunch
+# Godot Aria M9500 4GB MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/godot-aria-m9500-4gb-mp3-player/>
 

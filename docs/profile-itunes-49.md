@@ -1,4 +1,4 @@
-# 简介:iTunes 4.9-TechCrunch
+# 简介:iTunes 4.9-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/28/profile-itunes-49/>
 

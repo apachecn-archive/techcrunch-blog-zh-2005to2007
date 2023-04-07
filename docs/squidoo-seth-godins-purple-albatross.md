@@ -1,4 +1,4 @@
-# 斯奎杜:塞思·戈丁的《紫色信天翁》？TechCrunch
+# 斯奎杜:塞思·戈丁的《紫色信天翁》？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/09/squidoo-seth-godins-purple-albatross/>
 

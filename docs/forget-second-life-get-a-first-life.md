@@ -1,4 +1,4 @@
-# 忘记第二人生。获得第一次生命。TechCrunch
+# 忘记第二人生。获得第一次生命。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/21/forget-second-life-get-a-first-life/>
 

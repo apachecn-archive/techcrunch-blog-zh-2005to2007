@@ -1,4 +1,4 @@
-# 想在你的电脑上便宜的蓝牙？TechCrunch
+# 想在你的电脑上便宜的蓝牙？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/23/want-bluetooth-on-your-pc-for-cheap/>
 

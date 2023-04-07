@@ -1,4 +1,4 @@
-# Hovland Stratos:富裕的音响发烧友版| TechCrunch
+# Hovland Stratos:富裕的音响发烧友版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/hovland-stratos-wealthy-audiophile-edition/>
 

@@ -1,4 +1,4 @@
-# 谷歌基地启动。呸。TechCrunch
+# 谷歌基地启动。呸。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/15/google-base-launched-yuck/>
 

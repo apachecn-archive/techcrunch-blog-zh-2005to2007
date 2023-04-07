@@ -1,4 +1,4 @@
-# 我要 iPod Nano | TechCrunch 的 3 号
+# 我要 iPod Nano  的 3 号
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/07/i%E2%80%99ll-have-the-3-for-the-ipod-nano/>
 

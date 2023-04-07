@@ -1,4 +1,4 @@
-# AMD 瞄准客厅| TechCrunch
+# AMD 瞄准客厅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/18/amd-aims-at-living-room/>
 

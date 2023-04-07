@@ -1,4 +1,4 @@
-# 兽交可能在第二人生中被击败 TechCrunch
+# 兽交可能在第二人生中被击败 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/21/bestiality-may-be-knackered-in-second-life/>
 

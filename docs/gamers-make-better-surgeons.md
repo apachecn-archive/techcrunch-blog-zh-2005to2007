@@ -1,4 +1,4 @@
-# 游戏玩家成为更好的外科医生——TechCrunch
+# 游戏玩家成为更好的外科医生
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/gamers-make-better-surgeons/>
 

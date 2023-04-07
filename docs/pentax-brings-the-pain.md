@@ -1,4 +1,4 @@
-# 宾得带来痛苦| TechCrunch
+# 宾得带来痛苦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/pentax-brings-the-pain/>
 

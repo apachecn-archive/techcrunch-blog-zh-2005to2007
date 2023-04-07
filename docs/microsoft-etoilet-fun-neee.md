@@ -1,4 +1,4 @@
-# 微软 eToilet:有趣！TechCrunch
+# 微软 eToilet:有趣！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/microsoft-etoilet-fun-neee/>
 

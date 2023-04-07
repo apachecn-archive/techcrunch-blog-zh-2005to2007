@@ -1,4 +1,4 @@
-# 电话和遥控器的结合——TechCrunch
+# 电话和遥控器的结合
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/phone-and-remote-get-hitched/>
 

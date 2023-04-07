@@ -1,4 +1,4 @@
-# 索尼完整的春夏电视产品线——TechCrunch
+# 索尼完整的春夏电视产品线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/27/sonys-complete-springsummer-tv-line/>
 

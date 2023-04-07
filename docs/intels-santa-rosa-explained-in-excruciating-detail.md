@@ -1,4 +1,4 @@
-# 英特尔的桑塔·罗萨极其详细地解释了——TechCrunch
+# 英特尔的桑塔·罗萨极其详细地解释了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/intels-santa-rosa-explained-in-excruciating-detail/>
 

@@ -1,4 +1,4 @@
-# 独家新变形金刚拖车可用| TechCrunch
+# 独家新变形金刚拖车可用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/exclusive-new-transformers-trailer-available/>
 

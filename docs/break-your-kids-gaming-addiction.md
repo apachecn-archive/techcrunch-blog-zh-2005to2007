@@ -1,4 +1,4 @@
-# 打破孩子的游戏瘾| TechCrunch
+# 打破孩子的游戏瘾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/break-your-kids-gaming-addiction/>
 

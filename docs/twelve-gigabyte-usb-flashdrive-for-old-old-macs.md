@@ -1,4 +1,4 @@
-# USB 闪存盘，适用于旧的 MAC 电脑| TechCrunch
+# USB 闪存盘，适用于旧的 MAC 电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/twelve-gigabyte-usb-flashdrive-for-old-old-macs/>
 

@@ -1,4 +1,4 @@
-# 每个孩子一台 Linux 电脑或每个孩子 1/3 的 Windows 电脑| TechCrunch
+# 每个孩子一台 Linux 电脑或每个孩子 1/3 的 Windows 电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/one-linux-computer-per-child-or-13-of-a-windows-computer-per-child/>
 

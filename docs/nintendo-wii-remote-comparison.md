@@ -1,4 +1,4 @@
-# 任天堂 Wii 遥控器对比——TechCrunch
+# 任天堂 Wii 遥控器对比
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/nintendo-wii-remote-comparison/>
 

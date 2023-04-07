@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/04/01/google-really-takes-april-1-seriousy/&js=1&rnd=0.5781313439365476>
 
@@ -41,7 +41,7 @@ FuckedCompany 于 2000 年首次上线，以其独特而粗糙的风格记录了
 > 
 > 每月观众人数将会翻倍，并创造新的扩张机会
 > 
-> 2007 年 4 月 1 日，加州阿瑟顿——TechCrunch 今天宣布，它已经同意收购 FuckedCompany 的资产，fucked company 是一家专门报道网络公司失败的网站。交易中要转让的资产包括域名 fuckedcompany.com、网站上的所有内容以及与其业务相关的其他资产。
+> 2007 年 4 月 1 日，加州阿瑟顿 今天宣布，它已经同意收购 FuckedCompany 的资产，fucked company 是一家专门报道网络公司失败的网站。交易中要转让的资产包括域名 fuckedcompany.com、网站上的所有内容以及与其业务相关的其他资产。
 > 
 > 交易完成后，合并后网站的每月独立访客数量将是 TechCrunch.com 目前的两倍。
 > 
@@ -51,7 +51,7 @@ FuckedCompany 于 2000 年首次上线，以其独特而粗糙的风格记录了
 > 
 > 该交易预计将很快完成。更多细节可在 www.techcrunch.com 和 www.fuckedcompany.com。
 > 
-> 关于 TechCrunch
+> 关于 
 > 
 > TechCrunch 成立于 2005 年，是一家领先的博客和其他网站网络，专注于提供新技术创业公司的新闻、分析和服务。TechCrunch 网络每月为 150 万独立访客提供超过 400 万的页面浏览量。TechCrunch 网络包括专注于新网络初创公司的博客 TechCrunch、专注于新技术设备的博客 CrunchGear.com、专注于移动技术的博客 MobileCrunch、日语和法语版的 TechCrunch，以及招聘网站 Crunchboard。
 > 

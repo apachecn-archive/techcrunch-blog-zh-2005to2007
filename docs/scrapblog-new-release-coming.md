@@ -1,4 +1,4 @@
-# Scrapblog 新版本即将发布 TechCrunch
+# Scrapblog 新版本即将发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/scrapblog-new-release-coming/>
 

@@ -1,4 +1,4 @@
-# Farecast 在美国 55 个城市推出 TechCrunch
+# Farecast 在美国 55 个城市推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/20/farecast-launches-for-55-us-cities/>
 

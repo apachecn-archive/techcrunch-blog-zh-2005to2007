@@ -1,4 +1,4 @@
-# 首届短跑比赛参赛者| TechCrunch
+# 首届短跑比赛参赛者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/11/first-dash-contest-entrant/>
 

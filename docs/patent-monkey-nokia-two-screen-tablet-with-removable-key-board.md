@@ -1,4 +1,4 @@
-# 专利猴:诺基亚双屏平板电脑，带可拆卸键盘——TechCrunch
+# 专利猴:诺基亚双屏平板电脑，带可拆卸键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/24/patent-monkey-nokia-two-screen-tablet-with-removable-key-board/>
 

@@ -1,4 +1,4 @@
-# Helio 紧跟音乐下载潮流——TechCrunch
+# Helio 紧跟音乐下载潮流
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/helio-jumps-on-the-music-downloading-bandwagon/>
 

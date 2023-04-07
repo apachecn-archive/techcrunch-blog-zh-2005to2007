@@ -1,4 +1,4 @@
-# Zoho 增加了跨在线套件的单点登录——TechCrunch
+# Zoho 增加了跨在线套件的单点登录
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/07/zoho-adds-single-sign-on-across-online-suite/>
 

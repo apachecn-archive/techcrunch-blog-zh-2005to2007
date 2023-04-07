@@ -1,4 +1,4 @@
-# Hammacher Schlemmer iPod 扬声器去游泳| TechCrunch
+# Hammacher Schlemmer iPod 扬声器去游泳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/hammacher-schlemmer-ipod-speakers-go-swimming/>
 

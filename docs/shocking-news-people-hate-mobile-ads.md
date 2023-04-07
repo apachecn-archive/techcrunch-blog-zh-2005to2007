@@ -1,4 +1,4 @@
-# 令人震惊的消息:人们讨厌移动广告！TechCrunch
+# 令人震惊的消息:人们讨厌移动广告！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/shocking-news-people-hate-mobile-ads/>
 

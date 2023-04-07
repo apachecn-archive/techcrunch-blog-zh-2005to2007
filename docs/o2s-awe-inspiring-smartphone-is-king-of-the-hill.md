@@ -1,4 +1,4 @@
-# O2 令人敬畏的智能手机是山中之王——TechCrunch
+# O2 令人敬畏的智能手机是山中之王
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/o2s-awe-inspiring-smartphone-is-king-of-the-hill/>
 

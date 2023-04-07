@@ -1,4 +1,4 @@
-# 康泰纳仕发布 Flip-TechCrunch
+# 康泰纳仕发布 Flip-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/conde-nast-launches-flip/>
 

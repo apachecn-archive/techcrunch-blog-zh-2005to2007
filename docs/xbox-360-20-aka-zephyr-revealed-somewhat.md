@@ -1,4 +1,4 @@
-# Xbox 360 2.0(又名泽法)透露了一些| TechCrunch
+# Xbox 360 2.0(又名泽法)透露了一些
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/xbox-360-20-aka-zephyr-revealed-somewhat/>
 

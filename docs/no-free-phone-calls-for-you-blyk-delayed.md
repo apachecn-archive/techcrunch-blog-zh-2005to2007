@@ -1,4 +1,4 @@
-# 没有免费电话给你:Blyk 延迟| TechCrunch
+# 没有免费电话给你:Blyk 延迟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/no-free-phone-calls-for-you-blyk-delayed/>
 

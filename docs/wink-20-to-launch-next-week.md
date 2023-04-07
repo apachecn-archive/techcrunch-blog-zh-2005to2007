@@ -1,4 +1,4 @@
-# Wink 2.0 将于下周发布——TechCrunch
+# Wink 2.0 将于下周发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/25/wink-20-to-launch-next-week/>
 

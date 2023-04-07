@@ -1,4 +1,4 @@
-# 希捷停止销售 IDE，也许你会喜欢一点 SATA？TechCrunch
+# 希捷停止销售 IDE，也许你会喜欢一点 SATA？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/26/seagate-to-stop-selling-the-ide-maybe-a-little-sata-you-would-like/>
 

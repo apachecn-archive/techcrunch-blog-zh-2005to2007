@@ -1,4 +1,4 @@
-# Wink 拿下半个 Odeo，部分清算 TechCrunch
+# Wink 拿下半个 Odeo，部分清算 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/19/wink-pulls-half-an-odeo-partially-liquidates/>
 

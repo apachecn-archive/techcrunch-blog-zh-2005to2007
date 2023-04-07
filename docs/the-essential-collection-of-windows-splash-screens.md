@@ -1,4 +1,4 @@
-# Windows 闪屏的基本集合–TechCrunch
+# Windows 闪屏的基本集合
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/16/the-essential-collection-of-windows-splash-screens/>
 

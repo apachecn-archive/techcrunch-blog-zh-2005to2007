@@ -1,4 +1,4 @@
-# 雅虎！收购竞赛网站 Bix | TechCrunch
+# 雅虎！收购竞赛网站 Bix 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/16/yahoo-acquires-contest-site-bix/>
 

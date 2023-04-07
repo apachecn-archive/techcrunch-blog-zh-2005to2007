@@ -1,4 +1,4 @@
-# 苹果 iPhone 将在 Macworld’07 | TechCrunch 发布
+# 苹果 iPhone 将在 Macworld’07  发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/apple-iphone-coming-at-macworld-07/>
 

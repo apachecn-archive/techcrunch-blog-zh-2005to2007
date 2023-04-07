@@ -1,4 +1,4 @@
-# 为天生寒冷的人准备的微型桌上加热器| TechCrunch
+# 为天生寒冷的人准备的微型桌上加热器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/20/tiny-desk-heater-for-the-inherently-frigid/>
 

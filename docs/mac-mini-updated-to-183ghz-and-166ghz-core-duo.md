@@ -1,4 +1,4 @@
-# Mac Mini 更新至 1.83GHz 和 1.66 GHz Core Duo–TechCrunch
+# Mac Mini 更新至 1.83GHz 和 1.66 GHz Core Duo
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/mac-mini-updated-to-183ghz-and-166ghz-core-duo/>
 

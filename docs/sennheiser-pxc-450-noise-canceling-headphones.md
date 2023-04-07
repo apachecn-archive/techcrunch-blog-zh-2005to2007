@@ -1,4 +1,4 @@
-# 森海塞尔 PXC 450 降噪耳机| TechCrunch
+# 森海塞尔 PXC 450 降噪耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/sennheiser-pxc-450-noise-canceling-headphones/>
 

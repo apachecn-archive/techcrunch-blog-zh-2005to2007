@@ -1,4 +1,4 @@
-# 你一整天都需要的视频| TechCrunch
+# 你一整天都需要的视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/17/the-video-youve-needed-all-day/>
 

@@ -1,4 +1,4 @@
-# 母亲节 Zune 大赛:加油！TechCrunch
+# 母亲节 Zune 大赛:加油！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/28/mothers-day-zune-contest-come-on/>
 

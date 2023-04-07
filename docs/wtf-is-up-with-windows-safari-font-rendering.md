@@ -1,4 +1,4 @@
-# WTF 和 WINDOWS SAFARI 一起上！！！字体渲染！–TechCrunch
+# WTF 和 WINDOWS SAFARI 一起上！！！字体渲染！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/wtf-is-up-with-windows-safari-font-rendering/>
 

@@ -1,4 +1,4 @@
-# LG 将举办全国短信锦标赛——TechCrunch
+# LG 将举办全国短信锦标赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/lg-to-host-national-texting-championship/>
 

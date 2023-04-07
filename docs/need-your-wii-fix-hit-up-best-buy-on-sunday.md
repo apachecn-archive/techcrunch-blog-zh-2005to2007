@@ -1,4 +1,4 @@
-# 需要你的 Wii 补丁吗？周日登陆百思买——TechCrunch
+# 需要你的 Wii 补丁吗？周日登陆百思买
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/need-your-wii-fix-hit-up-best-buy-on-sunday/>
 

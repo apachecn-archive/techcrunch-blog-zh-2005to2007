@@ -1,4 +1,4 @@
-# 老牌英国媒体集团登上混搭 cluetrain | TechCrunch
+# 老牌英国媒体集团登上混搭 cluetrain 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/old-uk-media-group-gets-on-the-mashup-cluetrain/>
 

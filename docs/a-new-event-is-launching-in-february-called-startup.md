@@ -1,4 +1,4 @@
-# 一项名为“启动”的新活动将于二月份启动！TechCrunch
+# 一项名为“启动”的新活动将于二月份启动！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/a-new-event-is-launching-in-february-called-startup/>
 

@@ -1,4 +1,4 @@
-# 我们的健康圈:因为痛苦爱公司——TechCrunch
+# 我们的健康圈:因为痛苦爱公司
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/ourhealthcircle-because-misery-loves-company/>
 

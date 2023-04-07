@@ -1,4 +1,4 @@
-# 无臭味的榴莲——TechCrunch
+# 无臭味的榴莲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/stink-free-durian/>
 

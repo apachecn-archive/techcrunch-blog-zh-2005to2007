@@ -1,4 +1,4 @@
-# Otavo 将于 5 月推出| TechCrunch
+# Otavo 将于 5 月推出
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/10/otavo-to-launch-in-may/>
 

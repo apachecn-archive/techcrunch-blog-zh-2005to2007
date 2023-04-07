@@ -1,4 +1,4 @@
-# 微软收购移动广告公司 TechCrunch
+# 微软收购移动广告公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/microsoft-buys-mobile-ad-firm/>
 

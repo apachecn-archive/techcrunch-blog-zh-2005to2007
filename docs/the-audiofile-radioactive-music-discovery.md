@@ -1,4 +1,4 @@
-# 音频文件:放射性音乐发现——TechCrunch
+# 音频文件:放射性音乐发现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/13/the-audiofile-radioactive-music-discovery/>
 

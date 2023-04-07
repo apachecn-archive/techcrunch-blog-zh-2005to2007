@@ -1,4 +1,4 @@
-# Firefox 2.0 Alpha 发布–TechCrunch
+# Firefox 2.0 Alpha 发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/19/firefox-20-alpha-released/>
 

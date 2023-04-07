@@ -1,4 +1,4 @@
-# Ugenie 处理购物数据 TechCrunch
+# Ugenie 处理购物数据 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/01/ugenie-crunches-shopping-numbers/>
 

@@ -1,4 +1,4 @@
-# 脸书拥有迄今为止最好的支持 iPhone 的网站——TechCrunch
+# 脸书拥有迄今为止最好的支持 iPhone 的网站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/facebook-has-best-iphone-enabled-site-yet/>
 

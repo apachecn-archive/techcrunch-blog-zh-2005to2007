@@ -1,4 +1,4 @@
-# 飞利浦电子收购配件制造商 DLO-TechCrunch
+# 飞利浦电子收购配件制造商 DLO-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/13/philips-electronics-buys-accessory-maker-dlo/>
 

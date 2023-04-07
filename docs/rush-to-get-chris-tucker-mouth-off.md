@@ -1,4 +1,4 @@
-# 急于让克里斯·塔克闭嘴——TechCrunch
+# 急于让克里斯·塔克闭嘴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/rush-to-get-chris-tucker-mouth-off/>
 

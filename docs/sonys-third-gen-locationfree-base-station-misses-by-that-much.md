@@ -1,4 +1,4 @@
-# 索尼的第三代无定位基站差那么多——TechCrunch
+# 索尼的第三代无定位基站差那么多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/17/sonys-third-gen-locationfree-base-station-misses-by-that-much/>
 

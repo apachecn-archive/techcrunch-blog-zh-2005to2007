@@ -1,4 +1,4 @@
-# 阿迪达斯帮助你监测心脏| TechCrunch
+# 阿迪达斯帮助你监测心脏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/11/adidas-helps-you-monitor-your-heart/>
 

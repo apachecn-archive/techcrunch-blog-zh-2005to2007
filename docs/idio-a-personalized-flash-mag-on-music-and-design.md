@@ -1,4 +1,4 @@
-# Idio:关于音乐和设计的个性化 Flash 杂志——TechCrunch
+# Idio:关于音乐和设计的个性化 Flash 杂志
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/24/idio-a-personalized-flash-mag-on-music-and-design/>
 

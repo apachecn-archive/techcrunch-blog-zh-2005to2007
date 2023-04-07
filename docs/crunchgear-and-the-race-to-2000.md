@@ -1,4 +1,4 @@
-# CrunchGear 和奔向 2000 年——TechCrunch
+# CrunchGear 和奔向 2000 年
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/crunchgear-and-the-race-to-2000/>
 

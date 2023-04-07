@@ -1,4 +1,4 @@
-# Xinu:任何网站的更多统计数据 TechCrunch
+# Xinu:任何网站的更多统计数据 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/14/xinu-comprehensive-page/>
 

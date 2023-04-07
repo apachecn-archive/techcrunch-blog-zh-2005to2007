@@ -1,4 +1,4 @@
-# 森海塞尔 HD650:我最喜欢的耳机——TechCrunch
+# 森海塞尔 HD650:我最喜欢的耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/sennheiser-hd650-my-favorite-headphones/>
 

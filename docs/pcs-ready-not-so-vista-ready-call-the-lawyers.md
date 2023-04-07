@@ -1,4 +1,4 @@
-# 电脑准备好了，但 Vista 还没准备好:打电话给律师！TechCrunch
+# 电脑准备好了，但 Vista 还没准备好:打电话给律师！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/pcs-ready-not-so-vista-ready-call-the-lawyers/>
 

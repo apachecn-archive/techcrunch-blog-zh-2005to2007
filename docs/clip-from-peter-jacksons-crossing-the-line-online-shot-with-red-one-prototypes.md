@@ -1,4 +1,4 @@
-# 剪辑自彼得·杰克逊的《过线》在线；用红色一号原型拍摄–TechCrunch
+# 剪辑自彼得·杰克逊的《过线》在线；用红色一号原型拍摄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/clip-from-peter-jacksons-crossing-the-line-online-shot-with-red-one-prototypes/>
 

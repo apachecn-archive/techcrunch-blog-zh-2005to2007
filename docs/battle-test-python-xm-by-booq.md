@@ -1,4 +1,4 @@
-# 战斗测试:booq | TechCrunch 的 Python XM
+# 战斗测试:booq  的 Python XM
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/28/battle-test-python-xm-by-booq/>
 

@@ -1,4 +1,4 @@
-# 东芝 TDP-ET20U:即时影院–TechCrunch
+# 东芝 TDP-ET20U:即时影院
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/toshiba-tdp-et20u-instant-theater/>
 

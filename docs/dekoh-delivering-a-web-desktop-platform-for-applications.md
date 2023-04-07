@@ -1,4 +1,4 @@
-# Dekoh 为应用程序提供网络桌面平台——TechCrunch
+# Dekoh 为应用程序提供网络桌面平台
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/23/dekoh-delivering-a-web-desktop-platform-for-applications/>
 

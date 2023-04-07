@@ -1,4 +1,4 @@
-# 忘记高清电视，我们想要高清游戏——TechCrunch
+# 忘记高清电视，我们想要高清游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/30/forget-hdtv-we-want-hd-gaming/>
 

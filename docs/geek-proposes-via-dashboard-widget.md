@@ -1,4 +1,4 @@
-# 极客通过仪表盘小工具| TechCrunch 求婚
+# 极客通过仪表盘小工具 求婚
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/30/geek-proposes-via-dashboard-widget/>
 

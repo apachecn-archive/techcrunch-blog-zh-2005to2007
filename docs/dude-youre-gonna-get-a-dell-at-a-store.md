@@ -1,4 +1,4 @@
-# 伙计，你会在商店里买到戴尔电脑——TechCrunch
+# 伙计，你会在商店里买到戴尔电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/01/dude-youre-gonna-get-a-dell-at-a-store/>
 

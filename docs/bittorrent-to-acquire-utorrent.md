@@ -1,4 +1,4 @@
-# BitTorrent 将收购 Torrent–TechCrunch
+# BitTorrent 将收购 Torrent
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/12/07/bittorrent-to-acquire-utorrent/>
 

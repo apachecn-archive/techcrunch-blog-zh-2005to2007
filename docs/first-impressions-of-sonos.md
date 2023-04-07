@@ -1,4 +1,4 @@
-# 对 Sonos 的第一印象——TechCrunch
+# 对 Sonos 的第一印象
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/23/first-impressions-of-sonos/>
 

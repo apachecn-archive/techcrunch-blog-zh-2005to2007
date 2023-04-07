@@ -1,4 +1,4 @@
-# MUD 创造者 Richard Bartle 在 MMORPGS | TechCrunch
+# MUD 创造者 Richard Bartle 在 MMORPGS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/mud-creator-richard-bartle-on-mmorpgs/>
 

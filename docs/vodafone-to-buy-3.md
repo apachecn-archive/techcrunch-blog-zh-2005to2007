@@ -1,4 +1,4 @@
-# 沃达丰收购 3？–TechCrunch
+# 沃达丰收购 3？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/vodafone-to-buy-3/>
 

@@ -1,4 +1,4 @@
-# NextWave 将收购 IP Mobile–TechCrunch
+# NextWave 将收购 IP Mobile
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/nextwave-to-acquire-ip-mobile/>
 

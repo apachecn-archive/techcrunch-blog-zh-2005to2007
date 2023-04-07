@@ -1,4 +1,4 @@
-# 微软 SoapBox 刚刚推出 TechCrunch
+# 微软 SoapBox 刚刚推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/18/microsoft-soapbox-to-launch-on-tuesday/>
 

@@ -1,4 +1,4 @@
-# 帮助关键:抓住 802.11n 暴跌——TechCrunch
+# 帮助关键:抓住 802.11n 暴跌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/help-key-taking-the-80211n-plunge/>
 

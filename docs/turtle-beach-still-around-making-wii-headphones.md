@@ -1,4 +1,4 @@
-# 海龟海滩还在，制作 Wii 耳机——TechCrunch
+# 海龟海滩还在，制作 Wii 耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/turtle-beach-still-around-making-wii-headphones/>
 

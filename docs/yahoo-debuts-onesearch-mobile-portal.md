@@ -1,4 +1,4 @@
-# 雅虎！首次亮相 oneSearch 移动门户| TechCrunch
+# 雅虎！首次亮相 oneSearch 移动门户
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/yahoo-debuts-onesearch-mobile-portal/>
 

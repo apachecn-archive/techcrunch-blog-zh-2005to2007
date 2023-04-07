@@ -1,4 +1,4 @@
-# 当你可以打电话给当地警察时，为什么要打 911 呢？–TechCrunch
+# 当你可以打电话给当地警察时，为什么要打 911 呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/why-dial-911-when-you-can-ring-your-local-constable/>
 

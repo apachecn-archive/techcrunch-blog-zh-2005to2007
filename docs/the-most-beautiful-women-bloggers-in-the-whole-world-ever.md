@@ -1,4 +1,4 @@
-# 世界上最美丽的女性博主| TechCrunch
+# 世界上最美丽的女性博主
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/26/the-most-beautiful-women-bloggers-in-the-whole-world-ever/>
 

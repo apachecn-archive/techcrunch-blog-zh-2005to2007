@@ -1,4 +1,4 @@
-# Zune 发布日令人头痛——TechCrunch
+# Zune 发布日令人头痛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/zune-headache-on-launch-day/>
 

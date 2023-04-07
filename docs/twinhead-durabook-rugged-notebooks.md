@@ -1,4 +1,4 @@
-# 双头 Durabook 加固笔记本电脑–TechCrunch
+# 双头 Durabook 加固笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/twinhead-durabook-rugged-notebooks/>
 

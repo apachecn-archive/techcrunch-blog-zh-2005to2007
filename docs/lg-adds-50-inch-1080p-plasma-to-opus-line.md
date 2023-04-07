@@ -1,4 +1,4 @@
-# LG 为 Opus 系列增加 50 英寸 1080p 等离子| TechCrunch
+# LG 为 Opus 系列增加 50 英寸 1080p 等离子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/lg-adds-50-inch-1080p-plasma-to-opus-line/>
 

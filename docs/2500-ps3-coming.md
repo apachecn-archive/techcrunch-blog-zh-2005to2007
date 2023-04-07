@@ -1,4 +1,4 @@
-# 2500 美元的 PS3 来了？TechCrunch
+# 2500 美元的 PS3 来了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/22/2500-ps3-coming/>
 

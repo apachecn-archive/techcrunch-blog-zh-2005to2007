@@ -1,4 +1,4 @@
-# 戴尔宣布推出电视、打印机和可超频的 XPS M1710 笔记本电脑| TechCrunch
+# 戴尔宣布推出电视、打印机和可超频的 XPS M1710 笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/dell-announces-tvs-printers-and-overclockable-xps-m1710-notebook/>
 

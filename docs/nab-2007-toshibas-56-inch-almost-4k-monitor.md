@@ -1,4 +1,4 @@
-# NAB 2007:东芝的 56 英寸几乎 4K 显示器——TechCrunch
+# NAB 2007:东芝的 56 英寸几乎 4K 显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/nab-2007-toshibas-56-inch-almost-4k-monitor/>
 

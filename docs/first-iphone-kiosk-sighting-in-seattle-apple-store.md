@@ -1,4 +1,4 @@
-# 西雅图首次发现 iPhone 信息亭 TechCrunch
+# 西雅图首次发现 iPhone 信息亭 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/25/first-iphone-kiosk-sighting-in-seattle-apple-store/>
 

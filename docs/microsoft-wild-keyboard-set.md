@@ -1,4 +1,4 @@
-# 微软狂野键盘套装| TechCrunch
+# 微软狂野键盘套装
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/microsoft-wild-keyboard-set/>
 

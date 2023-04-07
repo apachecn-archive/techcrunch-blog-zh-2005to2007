@@ -1,4 +1,4 @@
-# Palm Gandolf 规格披露| TechCrunch
+# Palm Gandolf 规格披露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/palm-gandolf-specs-revealed/>
 

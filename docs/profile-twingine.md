@@ -1,4 +1,4 @@
-# 简介:twin engine–TechCrunch
+# 简介:twin engine
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/24/profile-twingine/>
 

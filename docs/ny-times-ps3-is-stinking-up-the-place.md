@@ -1,4 +1,4 @@
-# 纽约时报:PS3 正在发臭这个地方——TechCrunch
+# 纽约时报:PS3 正在发臭这个地方
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/ny-times-ps3-is-stinking-up-the-place/>
 

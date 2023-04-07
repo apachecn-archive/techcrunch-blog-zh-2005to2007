@@ -1,4 +1,4 @@
-# 索尼的 70 英寸 Bravia 动力系统——TechCrunch
+# 索尼的 70 英寸 Bravia 动力系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/sonys-70-inch-bravia-powerhouse/>
 

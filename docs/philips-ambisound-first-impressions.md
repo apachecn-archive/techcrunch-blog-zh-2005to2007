@@ -1,4 +1,4 @@
-# 飞利浦 Ambisound 第一印象–TechCrunch
+# 飞利浦 Ambisound 第一印象
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/philips-ambisound-first-impressions/>
 

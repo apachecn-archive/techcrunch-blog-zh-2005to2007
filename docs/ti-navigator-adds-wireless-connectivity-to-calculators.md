@@ -1,4 +1,4 @@
-# TI Navigator 为计算器增加了无线连接| TechCrunch
+# TI Navigator 为计算器增加了无线连接
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/ti-navigator-adds-wireless-connectivity-to-calculators/>
 

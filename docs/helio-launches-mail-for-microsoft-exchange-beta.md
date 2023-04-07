@@ -1,4 +1,4 @@
-# Helio 推出微软 Exchange 邮件测试版| TechCrunch
+# Helio 推出微软 Exchange 邮件测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/25/helio-launches-mail-for-microsoft-exchange-beta/>
 

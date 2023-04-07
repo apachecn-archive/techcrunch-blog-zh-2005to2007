@@ -1,4 +1,4 @@
-# 日立 W51H Cell 拥有甜美的屏幕——TechCrunch
+# 日立 W51H Cell 拥有甜美的屏幕
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/hitachi-w51h-cell-has-sweet-screen/>
 

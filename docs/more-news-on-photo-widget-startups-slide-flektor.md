@@ -1,4 +1,4 @@
-# 幻灯片揭示了重要的统计数据；关注新来者 Flektor——TechCrunch
+# 幻灯片揭示了重要的统计数据；关注新来者 Flektor
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/11/more-news-on-photo-widget-startups-slide-flektor/>
 

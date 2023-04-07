@@ -1,4 +1,4 @@
-# 巴拿马不足以对抗谷歌:雅虎收购 right media TechCrunch
+# 巴拿马不足以对抗谷歌:雅虎收购 right media 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/29/panama-not-enough-to-battle-google-yahoo-acquires-rightmedia/>
 

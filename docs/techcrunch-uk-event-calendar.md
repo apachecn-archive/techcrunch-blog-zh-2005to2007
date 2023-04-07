@@ -1,4 +1,4 @@
-# 英国活动日历| TechCrunch
+# 英国活动日历
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/techcrunch-uk-event-calendar/>
 

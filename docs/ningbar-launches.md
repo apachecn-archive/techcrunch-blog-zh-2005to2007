@@ -1,4 +1,4 @@
-# 宁吧推出，加上宁统计 TechCrunch
+# 宁吧推出，加上宁统计 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/25/ningbar-launches/>
 

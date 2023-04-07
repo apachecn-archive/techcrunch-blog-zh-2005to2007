@@ -1,4 +1,4 @@
-# ZDNet 希望你评论产品，让你保留它们——TechCrunch
+# ZDNet 希望你评论产品，让你保留它们
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/zdnet-wants-you-to-review-products-will-let-you-keep-em/>
 

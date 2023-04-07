@@ -1,4 +1,4 @@
-# 三星 MP4 播放器泄露| TechCrunch
+# 三星 MP4 播放器泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/22/samsung-mp4-player-leaked/>
 

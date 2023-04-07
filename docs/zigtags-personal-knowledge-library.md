@@ -1,4 +1,4 @@
-# Zigtag 的个人知识库| TechCrunch
+# Zigtag 的个人知识库
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/04/zigtags-personal-knowledge-library/>
 

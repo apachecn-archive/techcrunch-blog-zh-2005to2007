@@ -1,4 +1,4 @@
-# 系绳时间:分享你的 iPhone 的边缘连接 TechCrunch
+# 系绳时间:分享你的 iPhone 的边缘连接 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/tether-time-share-your-iphones-edge-connection/>
 

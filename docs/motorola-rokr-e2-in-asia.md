@@ -1,4 +1,4 @@
-# 亚洲的摩托罗拉 ROKR E2 | TechCrunch
+# 亚洲的摩托罗拉 ROKR E2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/motorola-rokr-e2-in-asia/>
 

@@ -1,4 +1,4 @@
-# 完整的 XM+Sirius 公告电话| TechCrunch
+# 完整的 XM+Sirius 公告电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/the-full-xmsirius-announcement-call/>
 

@@ -1,4 +1,4 @@
-# 战斗测试:G-Tech 斜挎包| TechCrunch
+# 战斗测试:G-Tech 斜挎包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/battle-test-g-tech-messenger-bag/>
 

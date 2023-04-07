@@ -1,4 +1,4 @@
-# WiFi 第六感| TechCrunch
+# WiFi 第六感
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/wifi-sixth-sense/>
 

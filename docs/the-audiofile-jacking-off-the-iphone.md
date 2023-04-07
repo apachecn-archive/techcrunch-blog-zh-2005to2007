@@ -1,4 +1,4 @@
-# 音频文件:偷拿 iPhone——TechCrunch
+# 音频文件:偷拿 iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/29/the-audiofile-jacking-off-the-iphone/>
 

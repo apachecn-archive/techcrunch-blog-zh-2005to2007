@@ -1,4 +1,4 @@
-# 惠普是在吃苹果的报应吗？–TechCrunch
+# 惠普是在吃苹果的报应吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/is-hp-eating-apples-karma/>
 

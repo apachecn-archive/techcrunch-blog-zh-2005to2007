@@ -1,4 +1,4 @@
-# 翻译中的文本| TechCrunch
+# 翻译中的文本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/text-in-translation/>
 

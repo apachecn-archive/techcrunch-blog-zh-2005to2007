@@ -1,4 +1,4 @@
-# WJAu 谈第二人生营销| TechCrunch
+# WJAu 谈第二人生营销
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/wjau-speaks-on-second-life-marketing/>
 

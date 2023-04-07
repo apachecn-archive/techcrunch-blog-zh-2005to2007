@@ -1,4 +1,4 @@
-# 亚马逊投资 Shelfari TechCrunch
+# 亚马逊投资 Shelfari 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/25/amazon-invests-in-shelfari/>
 

@@ -1,4 +1,4 @@
-# 汉堡王游戏匹配战争机器销售| TechCrunch
+# 汉堡王游戏匹配战争机器销售
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/23/burger-king-games-match-gears-of-war-sales/>
 

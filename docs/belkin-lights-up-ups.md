@@ -1,4 +1,4 @@
-# Belkin 点亮 UPS | TechCrunch
+# Belkin 点亮 UPS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/belkin-lights-up-ups/>
 

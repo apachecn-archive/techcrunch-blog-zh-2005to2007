@@ -1,4 +1,4 @@
-# 互联创新者的最后呼吁| TechCrunch
+# 互联创新者的最后呼吁
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/23/last-call-for-connected-innovators/>
 

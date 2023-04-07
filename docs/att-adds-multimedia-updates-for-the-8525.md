@@ -1,4 +1,4 @@
-# 美国电话电报公司为 8525 | TechCrunch 添加多媒体更新
+# 美国电话电报公司为 8525  添加多媒体更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/att-adds-multimedia-updates-for-the-8525/>
 

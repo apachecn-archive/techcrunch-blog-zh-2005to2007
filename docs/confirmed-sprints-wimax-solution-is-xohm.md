@@ -1,4 +1,4 @@
-# 确认:Sprint 的 WiMAX 解决方案是“Xohm”| TechCrunch
+# 确认:Sprint 的 WiMAX 解决方案是“Xohm”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/confirmed-sprints-wimax-solution-is-xohm/>
 

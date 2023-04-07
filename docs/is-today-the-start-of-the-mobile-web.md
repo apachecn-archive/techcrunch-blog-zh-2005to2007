@@ -1,4 +1,4 @@
-# 今天是移动网络的开端。TechCrunch
+# 今天是移动网络的开端。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/17/is-today-the-start-of-the-mobile-web/>
 

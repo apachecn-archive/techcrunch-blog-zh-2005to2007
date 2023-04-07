@@ -1,4 +1,4 @@
-# 便携式直播电视单元现已上市；包括电源、电视| TechCrunch
+# 便携式直播电视单元现已上市；包括电源、电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/portable-directv-unit-available-now-includes-power-tv/>
 

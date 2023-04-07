@@ -1,4 +1,4 @@
-# ampd Mobile 来到加拿大| TechCrunch
+# ampd Mobile 来到加拿大
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/20/ampd-mobile-comes-to-canada/>
 

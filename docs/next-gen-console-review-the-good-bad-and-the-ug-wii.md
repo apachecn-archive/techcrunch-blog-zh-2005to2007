@@ -1,4 +1,4 @@
-# 下一代游戏机评论:好的，坏的，和 Ug-Wii-TechCrunch
+# 下一代游戏机评论:好的，坏的，和 Ug-Wii-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/next-gen-console-review-the-good-bad-and-the-ug-wii/>
 

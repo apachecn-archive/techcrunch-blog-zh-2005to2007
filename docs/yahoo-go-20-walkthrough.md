@@ -1,4 +1,4 @@
-# 雅虎！Go 2.0 演练–TechCrunch
+# 雅虎！Go 2.0 演练
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/yahoo-go-20-walkthrough/>
 

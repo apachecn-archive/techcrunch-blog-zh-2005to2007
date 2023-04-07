@@ -1,4 +1,4 @@
-# 光环 3 Beta 扩展版| TechCrunch
+# 光环 3 Beta 扩展版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/halo-3-beta-extended/>
 

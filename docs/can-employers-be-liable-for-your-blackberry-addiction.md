@@ -1,4 +1,4 @@
-# 雇主会对你的黑莓上瘾负责吗？TechCrunch
+# 雇主会对你的黑莓上瘾负责吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/can-employers-be-liable-for-your-blackberry-addiction/>
 

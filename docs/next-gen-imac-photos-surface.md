@@ -1,4 +1,4 @@
-# 新一代 iMac 照片 Surface | TechCrunch
+# 新一代 iMac 照片 Surface 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/next-gen-imac-photos-surface/>
 

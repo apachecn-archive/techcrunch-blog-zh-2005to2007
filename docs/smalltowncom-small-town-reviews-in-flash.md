@@ -1,4 +1,4 @@
-# Small Town . com:Flash 中的小镇评论 TechCrunch
+# Small Town . com:Flash 中的小镇评论 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/10/smalltowncom-small-town-reviews-in-flash/>
 

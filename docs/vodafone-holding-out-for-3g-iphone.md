@@ -1,4 +1,4 @@
-# 沃达丰坚守 3G iPhone——TechCrunch
+# 沃达丰坚守 3G iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/vodafone-holding-out-for-3g-iphone/>
 

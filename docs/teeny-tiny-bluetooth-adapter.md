@@ -1,4 +1,4 @@
-# 极小的蓝牙适配器| TechCrunch
+# 极小的蓝牙适配器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/teeny-tiny-bluetooth-adapter/>
 

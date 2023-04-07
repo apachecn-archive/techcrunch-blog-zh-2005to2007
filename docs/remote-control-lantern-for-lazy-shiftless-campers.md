@@ -1,4 +1,4 @@
-# 为懒惰、无所事事的露营者准备的遥控提灯——TechCrunch
+# 为懒惰、无所事事的露营者准备的遥控提灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/15/remote-control-lantern-for-lazy-shiftless-campers/>
 

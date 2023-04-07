@@ -1,4 +1,4 @@
-# 西门子疯狂铁对抗皱纹、犯罪| TechCrunch
+# 西门子疯狂铁对抗皱纹、犯罪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/siemens-crazy-lookin-iron-fights-wrinkles-crime/>
 

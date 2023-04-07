@@ -1,4 +1,4 @@
-# Kongregate 获得 100 万美元，推出用户生成游戏——TechCrunch
+# Kongregate 获得 100 万美元，推出用户生成游戏
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/22/kongregate-gets-1m-launches-user-generated-games/>
 

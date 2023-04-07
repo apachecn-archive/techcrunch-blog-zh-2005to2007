@@ -1,4 +1,4 @@
-# PSP 触摸屏| TechCrunch
+# PSP 触摸屏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/psp-touch-screen/>
 

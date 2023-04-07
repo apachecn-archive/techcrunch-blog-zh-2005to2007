@@ -1,4 +1,4 @@
-# I-Rocks RF-6570 2.4GHz 无线键盘| TechCrunch
+# I-Rocks RF-6570 2.4GHz 无线键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/i-rocks-rf-6570-24ghz-wireless-keyboard/>
 

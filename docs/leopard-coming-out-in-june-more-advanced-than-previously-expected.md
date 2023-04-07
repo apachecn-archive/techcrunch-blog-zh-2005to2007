@@ -1,4 +1,4 @@
-# Leopard 将于 6 月上市，比之前预期的更先进——TechCrunch
+# Leopard 将于 6 月上市，比之前预期的更先进
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/leopard-coming-out-in-june-more-advanced-than-previously-expected/>
 

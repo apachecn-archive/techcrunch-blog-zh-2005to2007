@@ -1,4 +1,4 @@
-# 因为保罗·凡·戴克和 X 的三次成功还不够——TechCrunch
+# 因为保罗·凡·戴克和 X 的三次成功还不够
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/lightcast-because-paul-van-dyk-and-three-hits-of-x-arent-enough/>
 

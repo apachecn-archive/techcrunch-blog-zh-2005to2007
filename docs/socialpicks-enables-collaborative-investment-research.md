@@ -1,4 +1,4 @@
-# SocialPicks 支持合作投资研究 TechCrunch
+# SocialPicks 支持合作投资研究 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/21/socialpicks-enables-collaborative-investment-research/>
 

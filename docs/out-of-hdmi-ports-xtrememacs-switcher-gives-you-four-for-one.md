@@ -1,4 +1,4 @@
-# HDMI 端口用完？XtremeMac 的 Switcher 让您买一送一| TechCrunch
+# HDMI 端口用完？XtremeMac 的 Switcher 让您买一送一
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/05/out-of-hdmi-ports-xtrememacs-switcher-gives-you-four-for-one/>
 

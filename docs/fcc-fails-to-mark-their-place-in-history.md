@@ -1,4 +1,4 @@
-# FCC 未能在历史上留下自己的印记 TechCrunch
+# FCC 未能在历史上留下自己的印记 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/31/fcc-fails-to-mark-their-place-in-history/>
 

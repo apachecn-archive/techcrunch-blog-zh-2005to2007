@@ -1,4 +1,4 @@
-# Cingular 8525 动手–TechCrunch
+# Cingular 8525 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/cingular-8525-hands-on/>
 

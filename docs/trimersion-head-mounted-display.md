@@ -1,4 +1,4 @@
-# Trimersion 头戴式显示器–TechCrunch
+# Trimersion 头戴式显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/trimersion-head-mounted-display/>
 

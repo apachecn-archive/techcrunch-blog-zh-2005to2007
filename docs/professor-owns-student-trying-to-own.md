@@ -1,4 +1,4 @@
-# 教授拥有学生试图拥有| TechCrunch
+# 教授拥有学生试图拥有
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/professor-owns-student-trying-to-own/>
 

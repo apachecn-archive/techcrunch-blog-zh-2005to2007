@@ -1,4 +1,4 @@
-# Ubuntu Linux 来到你身边的智能手机——TechCrunch
+# Ubuntu Linux 来到你身边的智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/ubuntu-linux-coming-to-a-smartphone-near-you/>
 

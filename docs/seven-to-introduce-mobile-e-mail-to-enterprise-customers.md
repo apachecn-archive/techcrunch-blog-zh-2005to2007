@@ -1,4 +1,4 @@
-# 向企业客户介绍移动电子邮件的七种方法| TechCrunch
+# 向企业客户介绍移动电子邮件的七种方法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/seven-to-introduce-mobile-e-mail-to-enterprise-customers/>
 

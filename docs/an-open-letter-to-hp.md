@@ -1,4 +1,4 @@
-# 致惠普| TechCrunch 的公开信
+# 致惠普 的公开信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/an-open-letter-to-hp/>
 

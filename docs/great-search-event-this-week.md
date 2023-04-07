@@ -1,4 +1,4 @@
-# 本周伟大的搜索事件| TechCrunch
+# 本周伟大的搜索事件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/06/great-search-event-this-week/>
 

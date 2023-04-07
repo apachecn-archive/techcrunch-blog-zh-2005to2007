@@ -1,4 +1,4 @@
-# SD Zabady 防水 DAP:淋浴时间的乐趣，某种双关语 TechCrunch
+# SD Zabady 防水 DAP:淋浴时间的乐趣，某种双关语 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/sd-zabady-waterproof-dap-shower-time-fun-some-kind-of-pun/>
 

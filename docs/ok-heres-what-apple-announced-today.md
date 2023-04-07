@@ -1,4 +1,4 @@
-# 好的，这是苹果今天宣布的消息——TechCrunch
+# 好的，这是苹果今天宣布的消息
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/12/ok-heres-what-apple-announced-today/>
 

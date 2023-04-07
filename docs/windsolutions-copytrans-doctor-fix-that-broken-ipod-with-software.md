@@ -1,4 +1,4 @@
-# 医生:用软件修好那个坏掉的 iPod！–TechCrunch
+# 医生:用软件修好那个坏掉的 iPod！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/31/windsolutions-copytrans-doctor-fix-that-broken-ipod-with-software/>
 

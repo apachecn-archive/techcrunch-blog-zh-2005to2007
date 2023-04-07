@@ -1,4 +1,4 @@
-# 6 度:很快，我的宠物——TechCrunch
+# 6 度:很快，我的宠物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/6-degrees-soon-my-pets/>
 

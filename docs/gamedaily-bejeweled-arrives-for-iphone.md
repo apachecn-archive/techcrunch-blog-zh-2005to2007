@@ -1,4 +1,4 @@
-# GameDaily:宝石迷阵登陆 iPhone | TechCrunch
+# GameDaily:宝石迷阵登陆 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/gamedaily-bejeweled-arrives-for-iphone/>
 

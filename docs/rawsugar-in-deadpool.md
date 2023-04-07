@@ -1,4 +1,4 @@
-# DeadPool 中的粗糖——TechCrunch
+# DeadPool 中的粗糖
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/30/rawsugar-in-deadpool/>
 

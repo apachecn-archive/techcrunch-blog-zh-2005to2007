@@ -1,4 +1,4 @@
-# CrunchGear 摧毁你的座机竞赛| TechCrunch
+# CrunchGear 摧毁你的座机竞赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/crunchgears-destroy-your-landline-contest/>
 

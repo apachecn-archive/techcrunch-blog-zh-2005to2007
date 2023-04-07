@@ -1,4 +1,4 @@
-# 苹果依偎谷歌，施密特加入 BOD TechCrunch
+# 苹果依偎谷歌，施密特加入 BOD 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/29/apple-snuggles-up-to-google-with-schmidt-joining-bod/>
 

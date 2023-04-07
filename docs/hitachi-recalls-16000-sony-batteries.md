@@ -1,4 +1,4 @@
-# 日立召回 16，000 块索尼电池–TechCrunch
+# 日立召回 16，000 块索尼电池
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/hitachi-recalls-16000-sony-batteries/>
 

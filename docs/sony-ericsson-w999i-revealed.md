@@ -1,4 +1,4 @@
-# 索尼爱立信 W999i 透露| TechCrunch
+# 索尼爱立信 W999i 透露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/sony-ericsson-w999i-revealed/>
 

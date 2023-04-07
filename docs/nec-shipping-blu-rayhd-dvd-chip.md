@@ -1,4 +1,4 @@
-# NEC 发运蓝光/HD DVD 芯片–TechCrunch
+# NEC 发运蓝光/HD DVD 芯片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/nec-shipping-blu-rayhd-dvd-chip/>
 

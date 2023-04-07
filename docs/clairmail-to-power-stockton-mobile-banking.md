@@ -1,4 +1,4 @@
-# ClairMail 助力斯托克顿移动银行| TechCrunch
+# ClairMail 助力斯托克顿移动银行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/23/clairmail-to-power-stockton-mobile-banking/>
 

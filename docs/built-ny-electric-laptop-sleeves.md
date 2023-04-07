@@ -1,4 +1,4 @@
-# 内置纽约电动笔记本电脑套| TechCrunch
+# 内置纽约电动笔记本电脑套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/built-ny-electric-laptop-sleeves/>
 

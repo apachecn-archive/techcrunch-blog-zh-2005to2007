@@ -1,4 +1,4 @@
-# 64GB 盘售价 5740 美元| TechCrunch
+# 64GB 盘售价 5740 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/64gb-thumb-drive-for-5740/>
 

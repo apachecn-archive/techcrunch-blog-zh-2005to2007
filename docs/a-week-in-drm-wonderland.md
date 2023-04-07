@@ -1,4 +1,4 @@
-# DRM 仙境一周 TechCrunch
+# DRM 仙境一周 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/19/a-week-in-drm-wonderland/>
 

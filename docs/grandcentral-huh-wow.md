@@ -1,4 +1,4 @@
-# GrandCentral:嗯。哇哦。TechCrunch
+# GrandCentral:嗯。哇哦。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/19/grandcentral-huh-wow/>
 

@@ -1,4 +1,4 @@
-# Google Gears 让开发者将应用离线 TechCrunch
+# Google Gears 让开发者将应用离线 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/30/google-gears-lets-developers-take-apps-offline/>
 

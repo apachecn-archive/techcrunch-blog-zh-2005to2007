@@ -1,4 +1,4 @@
-# 诺基亚斯普林特公司将 WiMax 引入 N800 | TechCrunch
+# 诺基亚斯普林特公司将 WiMax 引入 N800 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/sprint-nokia-bring-wimax-to-n800/>
 

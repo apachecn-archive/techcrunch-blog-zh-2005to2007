@@ -1,4 +1,4 @@
-# Pleo 现可在美国预购–TechCrunch
+# Pleo 现可在美国预购
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/21/pleo-now-available-for-us-pre-order/>
 

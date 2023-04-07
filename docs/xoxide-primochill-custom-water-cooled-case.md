@@ -1,4 +1,4 @@
-# Xoxide PrimoChill 定制水冷机箱–TechCrunch
+# Xoxide PrimoChill 定制水冷机箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/xoxide-primochill-custom-water-cooled-case/>
 

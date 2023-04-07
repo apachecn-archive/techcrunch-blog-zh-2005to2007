@@ -1,4 +1,4 @@
-# AIM 页面发布-第一印象 TechCrunch
+# AIM 页面发布-第一印象 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/10/aim-pages-launches-first-impression/>
 

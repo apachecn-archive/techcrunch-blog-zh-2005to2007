@@ -1,4 +1,4 @@
-# 苹果 iPhone 细节来自凯文·罗斯 TechCrunch
+# 苹果 iPhone 细节来自凯文·罗斯 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/03/apple-iphone-details-from-kevin-rose/>
 

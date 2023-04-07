@@ -1,4 +1,4 @@
-# Polywell Poly i680SLI 评论| TechCrunch
+# Polywell Poly i680SLI 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/polywell-poly-i680sli-reviewed/>
 

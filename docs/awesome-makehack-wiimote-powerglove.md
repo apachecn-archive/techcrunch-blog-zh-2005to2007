@@ -1,4 +1,4 @@
-# 令人敬畏的制作/破解:Wiimote PowerGlove | TechCrunch
+# 令人敬畏的制作/破解:Wiimote PowerGlove 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/awesome-makehack-wiimote-powerglove/>
 

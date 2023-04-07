@@ -1,4 +1,4 @@
-# GotVoice 获得 300 万美元首轮融资——TechCrunch
+# GotVoice 获得 300 万美元首轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/25/gotvoice-takes-3m-in-series-a-funding/>
 

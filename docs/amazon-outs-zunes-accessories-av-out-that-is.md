@@ -1,4 +1,4 @@
-# 亚马逊淘汰 Zune 的配件。也就是 A/V 输出。TechCrunch
+# 亚马逊淘汰 Zune 的配件。也就是 A/V 输出。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/amazon-outs-zunes-accessories-av-out-that-is/>
 

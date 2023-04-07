@@ -1,4 +1,4 @@
-# 威瑞森点亮更多 EV-DO Rev. A，覆盖大部分美国地铁| TechCrunch
+# 威瑞森点亮更多 EV-DO Rev. A，覆盖大部分美国地铁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/verizon-lights-up-more-ev-do-rev-a-covers-much-of-metro-usa/>
 

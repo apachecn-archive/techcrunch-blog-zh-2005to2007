@@ -1,4 +1,4 @@
-# 输入输出数据 HDMC 大学，为笨拙的——TechCrunch
+# 输入输出数据 HDMC 大学，为笨拙的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/04/i-o-data-hdmc-u-for-the-clumsy/>
 

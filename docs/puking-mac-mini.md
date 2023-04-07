@@ -1,4 +1,4 @@
-# 呕吐的 Mac Mini | TechCrunch
+# 呕吐的 Mac Mini 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/puking-mac-mini/>
 

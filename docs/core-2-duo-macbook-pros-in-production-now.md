@@ -1,4 +1,4 @@
-# Core 2 Duo MacBook Pros:现已投入生产？TechCrunch
+# Core 2 Duo MacBook Pros:现已投入生产？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/core-2-duo-macbook-pros-in-production-now/>
 

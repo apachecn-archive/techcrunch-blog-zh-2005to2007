@@ -1,4 +1,4 @@
-# 东芝 Gigabeat S60 评测| TechCrunch
+# 东芝 Gigabeat S60 评测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/toshiba-gigabeat-s60-reviewed/>
 

@@ -1,4 +1,4 @@
-# 夏末推出新款 IMAC——TechCrunch
+# 夏末推出新款 IMAC
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/18/new-imacs-coming-late-summer/>
 

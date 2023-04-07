@@ -1,4 +1,4 @@
-# Flash 9 中的 Commodore 64 模拟器| TechCrunch
+# Flash 9 中的 Commodore 64 模拟器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/commodore-64-emulator-in-flash-9/>
 

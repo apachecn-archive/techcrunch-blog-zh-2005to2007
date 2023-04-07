@@ -1,4 +1,4 @@
-# 红杉投资博客网络糖出版 TechCrunch
+# 红杉投资博客网络糖出版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/sequoia-invests-in-blog-network-team-sugar>
 

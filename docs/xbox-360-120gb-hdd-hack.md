@@ -1,4 +1,4 @@
-# Xbox 360 120GB 硬盘黑客| TechCrunch
+# Xbox 360 120GB 硬盘黑客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/23/xbox-360-120gb-hdd-hack/>
 

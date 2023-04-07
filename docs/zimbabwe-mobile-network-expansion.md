@@ -1,4 +1,4 @@
-# 津巴布韦移动网络扩展–TechCrunch
+# 津巴布韦移动网络扩展
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/zimbabwe-mobile-network-expansion/>
 

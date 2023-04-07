@@ -1,4 +1,4 @@
-# 天合伙伴 SP101:无线 Skype/PSTN DECT 电话| TechCrunch
+# 天合伙伴 SP101:无线 Skype/PSTN DECT 电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/skypartner-sp101-cordless-skypelandline-dect-phone/>
 

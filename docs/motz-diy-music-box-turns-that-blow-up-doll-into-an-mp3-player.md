@@ -1,4 +1,4 @@
-# MOTZ DIY 音乐盒将充气娃娃变成 MP3 播放器——TechCrunch
+# MOTZ DIY 音乐盒将充气娃娃变成 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/motz-diy-music-box-turns-that-blow-up-doll-into-an-mp3-player/>
 

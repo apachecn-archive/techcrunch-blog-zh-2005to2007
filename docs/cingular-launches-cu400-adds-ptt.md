@@ -1,4 +1,4 @@
-# Cingular 推出 CU400，增加 PTT–TechCrunch
+# Cingular 推出 CU400，增加 PTT
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/cingular-launches-cu400-adds-ptt/>
 

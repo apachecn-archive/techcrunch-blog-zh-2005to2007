@@ -1,4 +1,4 @@
-# 苹果之前亚马逊到电视——TechCrunch
+# 苹果之前亚马逊到电视
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/08/amazon-to-the-tv-before-apple/>
 

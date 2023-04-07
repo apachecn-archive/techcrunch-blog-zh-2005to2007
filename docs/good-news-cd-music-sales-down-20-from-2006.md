@@ -1,4 +1,4 @@
-# 好消息！CD 音乐销量比 2006 年下降 20% TechCrunch
+# 好消息！CD 音乐销量比 2006 年下降 20% 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/21/good-news-cd-music-sales-down-20-from-2006/>
 

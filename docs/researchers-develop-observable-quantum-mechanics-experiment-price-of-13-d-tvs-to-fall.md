@@ -1,4 +1,4 @@
-# 研究人员开发可观测的量子力学实验；13-D 电视价格下降——TechCrunch
+# 研究人员开发可观测的量子力学实验；13-D 电视价格下降
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/researchers-develop-observable-quantum-mechanics-experiment-price-of-13-d-tvs-to-fall/>
 

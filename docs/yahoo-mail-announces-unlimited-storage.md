@@ -1,4 +1,4 @@
-# 雅虎邮箱宣布无限存储 TechCrunch
+# 雅虎邮箱宣布无限存储 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/27/yahoo-mail-announces-unlimited-storage/>
 

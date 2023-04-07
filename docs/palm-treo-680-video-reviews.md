@@ -1,4 +1,4 @@
-# Palm Treo 680 视频拆箱–TechCrunch
+# Palm Treo 680 视频拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/palm-treo-680-video-reviews/>
 

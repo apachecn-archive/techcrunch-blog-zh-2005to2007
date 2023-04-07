@@ -1,4 +1,4 @@
-# 猜猜今天谁捡到了一部 iPhone？！TechCrunch
+# 猜猜今天谁捡到了一部 iPhone？！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/guess-who-picked-up-an-iphone-today/>
 

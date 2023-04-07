@@ -1,4 +1,4 @@
-# Automattic 获得资金——TechCrunch
+# Automattic 获得资金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/13/automattic-takes-funding/>
 

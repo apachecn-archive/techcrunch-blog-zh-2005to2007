@@ -1,4 +1,4 @@
-# 隐藏一切的小浏览器？TechCrunch
+# 隐藏一切的小浏览器？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/31/the-little-browzar-that-hides-everything/>
 

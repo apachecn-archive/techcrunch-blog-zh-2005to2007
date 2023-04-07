@@ -1,4 +1,4 @@
-# Windows Vista 上的 CompUSA 银行或退款保证 TechCrunch
+# Windows Vista 上的 CompUSA 银行或退款保证 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/compusa-banks-on-windows-vista-or-money-back-guarantee/>
 

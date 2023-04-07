@@ -1,4 +1,4 @@
-# 在 Cingular | TechCrunch 反击的七种方式
+# 在 Cingular  反击的七种方式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/07/seven-ways-to-fight-back-at-cingular/>
 

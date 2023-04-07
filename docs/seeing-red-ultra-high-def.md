@@ -1,4 +1,4 @@
-# 看见红色:超高清–TechCrunch
+# 看见红色:超高清
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/seeing-red-ultra-high-def/>
 

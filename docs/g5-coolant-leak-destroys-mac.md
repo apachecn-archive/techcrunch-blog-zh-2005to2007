@@ -1,4 +1,4 @@
-# G5 冷却剂泄漏摧毁 Mac–TechCrunch
+# G5 冷却剂泄漏摧毁 Mac
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/11/g5-coolant-leak-destroys-mac/>
 

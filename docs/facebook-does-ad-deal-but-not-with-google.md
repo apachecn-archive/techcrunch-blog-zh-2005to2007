@@ -1,4 +1,4 @@
-# 脸书做广告交易，但不是和谷歌 TechCrunch
+# 脸书做广告交易，但不是和谷歌 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/23/facebook-does-ad-deal-but-not-with-google/>
 

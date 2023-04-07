@@ -1,4 +1,4 @@
-# 探索 iPhone 现场测试模式——TechCrunch
+# 探索 iPhone 现场测试模式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/iphone-field-test-mode-explored/>
 

@@ -1,4 +1,4 @@
-# 谷歌工程师成为硬盘极客——TechCrunch
+# 谷歌工程师成为硬盘极客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/google-engineers-go-geek-on-hard-drives/>
 

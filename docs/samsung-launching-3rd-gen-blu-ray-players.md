@@ -1,4 +1,4 @@
-# 三星发布第三代蓝光播放器——TechCrunch
+# 三星发布第三代蓝光播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/12/samsung-launching-3rd-gen-blu-ray-players/>
 

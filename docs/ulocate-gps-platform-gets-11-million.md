@@ -1,4 +1,4 @@
-# uLocate GPS 平台获得 1100 万美元| TechCrunch
+# uLocate GPS 平台获得 1100 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/16/ulocate-gps-platform-gets-11-million/>
 

@@ -1,4 +1,4 @@
-# Bose 入耳式耳机| TechCrunch
+# Bose 入耳式耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/bose-in-ear-headphones/>
 

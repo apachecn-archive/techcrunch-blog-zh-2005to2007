@@ -1,4 +1,4 @@
-# 孢子即将成为蒸汽制品| TechCrunch
+# 孢子即将成为蒸汽制品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/spore-about-to-become-vaporware/>
 

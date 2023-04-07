@@ -1,4 +1,4 @@
-# 光晕 2 与光晕 3——TechCrunch
+# 光晕 2 与光晕 3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/halo-2-vs-halo-3/>
 

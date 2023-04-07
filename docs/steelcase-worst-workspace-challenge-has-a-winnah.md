@@ -1,4 +1,4 @@
-# Steelcase 最差工作空间挑战有一个获奖者——TechCrunch
+# Steelcase 最差工作空间挑战有一个获奖者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/steelcase-worst-workspace-challenge-has-a-winnah/>
 

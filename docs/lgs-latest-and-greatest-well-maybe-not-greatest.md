@@ -1,4 +1,4 @@
-# LG 最新也是最棒的(也许不是最棒的)——TechCrunch
+# LG 最新也是最棒的(也许不是最棒的)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/29/lgs-latest-and-greatest-well-maybe-not-greatest/>
 

@@ -1,4 +1,4 @@
-# 索尼处于“恢复模式”，重启财务 TechCrunch
+# 索尼处于“恢复模式”，重启财务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/sony-in-recovery-mode-rebooting-finances/>
 

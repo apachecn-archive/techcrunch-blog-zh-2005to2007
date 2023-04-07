@@ -1,4 +1,4 @@
-# Kensington VoIP 电话在您手中融化——TechCrunch
+# Kensington VoIP 电话在您手中融化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/04/kensington-voip-phone-melts-in-your-hand/>
 

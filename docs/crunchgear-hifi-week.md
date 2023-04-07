@@ -1,4 +1,4 @@
-# CrunchGear HiFi 周| TechCrunch
+# CrunchGear HiFi 周
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/crunchgear-hifi-week/>
 

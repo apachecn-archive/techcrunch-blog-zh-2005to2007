@@ -1,4 +1,4 @@
-# 为网络运动员准备的 AimBLADE 鼠标支架——TechCrunch
+# 为网络运动员准备的 AimBLADE 鼠标支架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/aimblade-mousing-brace-for-cyber-athletes/>
 

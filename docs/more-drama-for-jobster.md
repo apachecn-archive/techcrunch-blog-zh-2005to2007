@@ -1,4 +1,4 @@
-# 求职者的更多戏剧性事件 TechCrunch
+# 求职者的更多戏剧性事件 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/more-drama-for-jobster/>
 

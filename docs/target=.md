@@ -1,4 +1,4 @@
-# 目标广告显示 299 美元的 Xbox 360 精英版，250 美元的 Xbox 360 专业版| TechCrunch
+# 目标广告显示 299 美元的 Xbox 360 精英版，250 美元的 Xbox 360 专业版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/04/online-photo-editing-overview/target=/>
 

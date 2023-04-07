@@ -1,4 +1,4 @@
-# 新的 iSoundCap:看起来像工具的另一种方式——TechCrunch
+# 新的 iSoundCap:看起来像工具的另一种方式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/new-isoundcap-one-more-way-to-look-like-a-tool/>
 

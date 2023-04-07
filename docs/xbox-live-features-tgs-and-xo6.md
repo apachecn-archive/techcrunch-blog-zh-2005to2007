@@ -1,4 +1,4 @@
-# Xbox Live 以 TGS 和 XO6 为特色——TechCrunch
+# Xbox Live 以 TGS 和 XO6 为特色
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/xbox-live-features-tgs-and-xo6/>
 

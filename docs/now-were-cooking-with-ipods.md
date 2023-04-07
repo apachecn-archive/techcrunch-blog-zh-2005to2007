@@ -1,4 +1,4 @@
-# 现在我们用 iPods | TechCrunch 做饭
+# 现在我们用 iPods  做饭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/now-were-cooking-with-ipods/>
 

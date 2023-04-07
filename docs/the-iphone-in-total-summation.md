@@ -1,4 +1,4 @@
-# iPhone 的总和| TechCrunch
+# iPhone 的总和
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/the-iphone-in-total-summation/>
 

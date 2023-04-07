@@ -1,4 +1,4 @@
-# 介绍 TechCrunch 论坛-TechCrunch
+# 介绍 TechCrunch 论坛-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/04/introducing-techcrunch-forums>
 

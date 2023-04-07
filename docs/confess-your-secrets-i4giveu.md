@@ -1,4 +1,4 @@
-# 坦白你的秘密:i4 giveu–TechCrunch
+# 坦白你的秘密:i4 giveu
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/21/confess-your-secrets-i4giveu/>
 

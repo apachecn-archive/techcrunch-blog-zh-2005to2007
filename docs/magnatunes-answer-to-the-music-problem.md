@@ -1,4 +1,4 @@
-# Magnatune 对音乐问题的回答 TechCrunch
+# Magnatune 对音乐问题的回答 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/28/magnatunes-answer-to-the-music-problem/>
 

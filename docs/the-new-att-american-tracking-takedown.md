@@ -1,4 +1,4 @@
-# 新美国电话电报公司:美国追踪与逮捕 TechCrunch
+# 新美国电话电报公司:美国追踪与逮捕 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/13/the-new-att-american-tracking-takedown/>
 

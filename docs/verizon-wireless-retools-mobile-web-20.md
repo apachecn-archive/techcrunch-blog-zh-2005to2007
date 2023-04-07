@@ -1,4 +1,4 @@
-# 威瑞森无线重组移动 Web 2.0–TechCrunch
+# 威瑞森无线重组移动 Web 2.0
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/verizon-wireless-retools-mobile-web-20/>
 

@@ -1,4 +1,4 @@
-# USBCell 是一个很棒的想法…–TechCrunch
+# USBCell 是一个很棒的想法…
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/01/usbcell-is-just-a-great-idea/>
 

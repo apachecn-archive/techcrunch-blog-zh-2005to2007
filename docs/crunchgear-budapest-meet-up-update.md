@@ -1,4 +1,4 @@
-# 布达佩斯会议更新| TechCrunch
+# 布达佩斯会议更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/crunchgear-budapest-meet-up-update/>
 

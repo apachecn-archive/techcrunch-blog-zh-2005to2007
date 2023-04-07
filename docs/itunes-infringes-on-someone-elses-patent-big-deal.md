@@ -1,4 +1,4 @@
-# iTunes 侵犯了别人的专利——大事| TechCrunch
+# iTunes 侵犯了别人的专利——大事
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/01/itunes-infringes-on-someone-elses-patent-big-deal/>
 

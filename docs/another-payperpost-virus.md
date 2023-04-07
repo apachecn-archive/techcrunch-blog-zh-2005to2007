@@ -1,4 +1,4 @@
-# 另一种付费发布病毒 TechCrunch
+# 另一种付费发布病毒 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/15/another-payperpost-virus>
 

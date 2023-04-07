@@ -1,4 +1,4 @@
-# 奥科罗价值 4595 美元的 OMS-GX300 媒体中心| TechCrunch
+# 奥科罗价值 4595 美元的 OMS-GX300 媒体中心
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/okoros-4595-oms-gx300-media-center/>
 

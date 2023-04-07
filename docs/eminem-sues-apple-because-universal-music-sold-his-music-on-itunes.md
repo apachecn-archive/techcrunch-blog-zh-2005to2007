@@ -1,4 +1,4 @@
-# 阿姆起诉苹果，因为环球音乐在 iTunes | TechCrunch 上出售他的音乐
+# 阿姆起诉苹果，因为环球音乐在 iTunes  上出售他的音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/eminem-sues-apple-because-universal-music-sold-his-music-on-itunes/>
 

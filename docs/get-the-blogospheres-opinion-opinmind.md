@@ -1,4 +1,4 @@
-# 获取博客圈的意见-opin mind TechCrunch
+# 获取博客圈的意见-opin mind 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/12/get-the-blogospheres-opinion-opinmind/>
 

@@ -1,4 +1,4 @@
-# 不要搞砸你的测试版 TechCrunch
+# 不要搞砸你的测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/09/dont-blow-your-beta/>
 

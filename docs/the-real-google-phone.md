@@ -1,4 +1,4 @@
-# 真正的谷歌手机？–TechCrunch
+# 真正的谷歌手机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/06/the-real-google-phone/>
 

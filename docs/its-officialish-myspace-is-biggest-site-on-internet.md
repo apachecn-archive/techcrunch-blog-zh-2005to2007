@@ -1,4 +1,4 @@
-# 官方消息:MySpace 是互联网上最大的网站 TechCrunch
+# 官方消息:MySpace 是互联网上最大的网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/12/its-officialish-myspace-is-biggest-site-on-internet/>
 

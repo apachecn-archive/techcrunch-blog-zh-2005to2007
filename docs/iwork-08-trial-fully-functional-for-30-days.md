@@ -1,4 +1,4 @@
-# iWork’08 试用版:30 天完全可用| TechCrunch
+# iWork’08 试用版:30 天完全可用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/08/iwork-08-trial-fully-functional-for-30-days/>
 

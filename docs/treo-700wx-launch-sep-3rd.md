@@ -1,4 +1,4 @@
-# Sprint Treo 700wx 将于 9 月 3 日正式发布——TechCrunch
+# Sprint Treo 700wx 将于 9 月 3 日正式发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/treo-700wx-launch-sep-3rd/>
 

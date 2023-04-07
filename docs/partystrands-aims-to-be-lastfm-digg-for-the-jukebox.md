@@ -1,4 +1,4 @@
-# Partystrands 的目标是成为点唱机的 last . FM+Digg-TechCrunch
+# Partystrands 的目标是成为点唱机的 last . FM+Digg-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/01/partystrands-aims-to-be-lastfm-digg-for-the-jukebox/>
 

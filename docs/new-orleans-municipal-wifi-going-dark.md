@@ -1,4 +1,4 @@
-# 新奥尔良市政 WiFi 即将关闭| TechCrunch
+# 新奥尔良市政 WiFi 即将关闭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/new-orleans-municipal-wifi-going-dark/>
 

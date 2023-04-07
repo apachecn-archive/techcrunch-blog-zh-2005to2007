@@ -1,4 +1,4 @@
-# YouTube 给竞争对手带来致命一击 TechCrunch
+# YouTube 给竞争对手带来致命一击 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/29/youtube-delivers-knock-out-punch-to-competitors/>
 

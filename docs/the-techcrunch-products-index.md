@@ -1,4 +1,4 @@
-# TechCrunch 产品指数–TechCrunch
+# TechCrunch 产品指数
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/22/the-techcrunch-products-index/>
 

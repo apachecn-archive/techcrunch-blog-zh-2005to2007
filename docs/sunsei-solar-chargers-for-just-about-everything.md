@@ -1,4 +1,4 @@
-# Sunsei 太阳能充电器几乎适用于所有产品——TechCrunch
+# Sunsei 太阳能充电器几乎适用于所有产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/sunsei-solar-chargers-for-just-about-everything/>
 

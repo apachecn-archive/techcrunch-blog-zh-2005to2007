@@ -1,4 +1,4 @@
-# 爱普生的 EMP-1715 USB 投影仪| TechCrunch
+# 爱普生的 EMP-1715 USB 投影仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/epsons-emp-1715-usb-projector/>
 

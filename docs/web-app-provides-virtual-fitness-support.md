@@ -1,4 +1,4 @@
-# Web 应用提供虚拟健身支持| TechCrunch
+# Web 应用提供虚拟健身支持
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/08/web-app-provides-virtual-fitness-support/>
 

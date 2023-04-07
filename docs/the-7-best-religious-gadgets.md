@@ -1,4 +1,4 @@
-# 7 个最好的宗教设备| TechCrunch
+# 7 个最好的宗教设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/the-7-best-religious-gadgets/>
 

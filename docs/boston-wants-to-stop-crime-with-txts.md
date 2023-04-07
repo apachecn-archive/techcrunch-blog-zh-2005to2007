@@ -1,4 +1,4 @@
-# 波士顿希望通过 TXTs | TechCrunch 阻止犯罪
+# 波士顿希望通过 TXTs  阻止犯罪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/15/boston-wants-to-stop-crime-with-txts/>
 

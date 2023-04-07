@@ -1,4 +1,4 @@
-# Mac 广告以 Giselle、Therapy | TechCrunch 为特色
+# Mac 广告以 Giselle、Therapy  为特色
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/mac-ads-feature-giselle-therapy/>
 

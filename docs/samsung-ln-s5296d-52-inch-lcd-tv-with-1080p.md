@@ -1,4 +1,4 @@
-# 三星 LN-S5296D 52 英寸 1080p 液晶电视–TechCrunch
+# 三星 LN-S5296D 52 英寸 1080p 液晶电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/samsung-ln-s5296d-52-inch-lcd-tv-with-1080p/>
 

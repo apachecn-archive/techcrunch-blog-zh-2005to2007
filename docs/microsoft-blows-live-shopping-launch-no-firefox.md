@@ -1,4 +1,4 @@
-# 微软 Live 购物发布——但没有 Firefox——TechCrunch
+# 微软 Live 购物发布——但没有 Firefox
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/28/microsoft-blows-live-shopping-launch-no-firefox/>
 

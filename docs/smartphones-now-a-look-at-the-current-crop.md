@@ -1,4 +1,4 @@
-# 现在的智能手机:看看现在的作物——TechCrunch
+# 现在的智能手机:看看现在的作物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/smartphones-now-a-look-at-the-current-crop/>
 

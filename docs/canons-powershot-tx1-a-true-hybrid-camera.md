@@ -1,4 +1,4 @@
-# 佳能的 PowerShot TX1:真正的混合相机| TechCrunch
+# 佳能的 PowerShot TX1:真正的混合相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/12/canons-powershot-tx1-a-true-hybrid-camera/>
 

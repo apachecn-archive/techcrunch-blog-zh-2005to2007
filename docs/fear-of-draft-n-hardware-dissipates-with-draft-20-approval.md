@@ -1,4 +1,4 @@
-# 对 Draft-N 硬件的恐惧随着 Draft 2.0 的批准而消散——TechCrunch
+# 对 Draft-N 硬件的恐惧随着 Draft 2.0 的批准而消散
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/fear-of-draft-n-hardware-dissipates-with-draft-20-approval/>
 

@@ -1,4 +1,4 @@
-# Vaja 发布新的 iPod Nano 保护套——TechCrunch
+# Vaja 发布新的 iPod Nano 保护套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/vaja-releases-new-ipod-nano-cases/>
 

@@ -1,4 +1,4 @@
-# 更新:Antec 九百非常安静| TechCrunch
+# 更新:Antec 九百非常安静
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/update-antec-nine-hundred-not-that-loud/>
 

@@ -1,4 +1,4 @@
-# TiVo 将与 Cox Out 一起摇滚| TechCrunch
+# TiVo 将与 Cox Out 一起摇滚
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/tivo-to-rock-out-with-its-cox-out/>
 

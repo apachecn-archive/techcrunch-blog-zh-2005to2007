@@ -1,4 +1,4 @@
-# Nyko 为 PSP | TechCrunch 设计的新充电器手柄
+# Nyko 为 PSP  设计的新充电器手柄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/nykos-new-charger-grips-for-psp/>
 

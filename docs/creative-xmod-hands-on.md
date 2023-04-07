@@ -1,4 +1,4 @@
-# 创意 Xmod 实践——TechCrunch
+# 创意 Xmod 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/creative-xmod-hands-on/>
 

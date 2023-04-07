@@ -1,4 +1,4 @@
-# 治疗情绪照明——TechCrunch
+# 治疗情绪照明
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/therapie-mood-lighting/>
 

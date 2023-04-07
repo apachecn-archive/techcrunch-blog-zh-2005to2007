@@ -1,4 +1,4 @@
-# OS X 的 Windows 应用程序:这是 Leopard 能做的吗？–TechCrunch
+# OS X 的 Windows 应用程序:这是 Leopard 能做的吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/windows-apps-in-os-x-is-this-what-leopard-can-do/>
 

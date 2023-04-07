@@ -1,4 +1,4 @@
-# MySpace 开始保护儿童——TechCrunch
+# MySpace 开始保护儿童
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/21/myspace-moves-to-protect-children/>
 

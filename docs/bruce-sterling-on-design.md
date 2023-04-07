@@ -1,4 +1,4 @@
-# 布鲁斯·斯特林谈设计| TechCrunch
+# 布鲁斯·斯特林谈设计
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/bruce-sterling-on-design/>
 

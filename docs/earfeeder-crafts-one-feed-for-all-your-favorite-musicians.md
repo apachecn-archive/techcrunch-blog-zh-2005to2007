@@ -1,4 +1,4 @@
-# Earfeeder 为所有你喜欢的音乐人制作了一个 feed——TechCrunch
+# Earfeeder 为所有你喜欢的音乐人制作了一个 feed
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/earfeeder-crafts-one-feed-for-all-your-favorite-musicians/>
 

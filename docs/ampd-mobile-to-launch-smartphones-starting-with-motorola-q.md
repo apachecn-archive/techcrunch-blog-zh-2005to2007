@@ -1,4 +1,4 @@
-# ampd Mobile 将推出智能手机，从摩托罗拉 Q 开始？TechCrunch
+# ampd Mobile 将推出智能手机，从摩托罗拉 Q 开始？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/ampd-mobile-to-launch-smartphones-starting-with-motorola-q/>
 

@@ -1,4 +1,4 @@
-# Sprint 后台视频回顾–TechCrunch
+# Sprint 后台视频回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/sprint-upstage-video-review/>
 

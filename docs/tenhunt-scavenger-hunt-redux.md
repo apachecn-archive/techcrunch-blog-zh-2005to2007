@@ -1,4 +1,4 @@
-# TenHunt:寻宝游戏 Redux–TechCrunch
+# TenHunt:寻宝游戏 Redux
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/09/tenhunt-scavenger-hunt-redux>
 

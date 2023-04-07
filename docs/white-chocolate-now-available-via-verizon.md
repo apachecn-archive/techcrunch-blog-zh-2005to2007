@@ -1,4 +1,4 @@
-# 威瑞森| TechCrunch 现已推出白巧克力
+# 威瑞森 现已推出白巧克力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/05/white-chocolate-now-available-via-verizon/>
 

@@ -1,4 +1,4 @@
-# 我们都是海盗——TechCrunch
+# 我们都是海盗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/were-all-pirates/>
 

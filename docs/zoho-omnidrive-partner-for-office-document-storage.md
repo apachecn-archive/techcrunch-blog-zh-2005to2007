@@ -1,4 +1,4 @@
-# Zoho，omni drive Office 文档存储合作伙伴 TechCrunch
+# Zoho，omni drive Office 文档存储合作伙伴 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/19/zoho-omnidrive-partner-for-office-document-storage/>
 

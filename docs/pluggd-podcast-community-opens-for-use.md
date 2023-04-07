@@ -1,4 +1,4 @@
-# Pluggd 播客社区今天启动| TechCrunch
+# Pluggd 播客社区今天启动
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/22/pluggd-podcast-community-opens-for-use/>
 

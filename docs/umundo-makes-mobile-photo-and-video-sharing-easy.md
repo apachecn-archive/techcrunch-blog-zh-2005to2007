@@ -1,4 +1,4 @@
-# Umundo 让手机照片和视频分享变得简单 TechCrunch
+# Umundo 让手机照片和视频分享变得简单 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/09/umundo-makes-mobile-photo-and-video-sharing-easy/>
 

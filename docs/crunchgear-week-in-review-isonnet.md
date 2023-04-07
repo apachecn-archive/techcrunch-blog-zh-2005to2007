@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:iSonnet | TechCrunch
+# CrunchGear 周回顾:iSonnet 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/crunchgear-week-in-review-isonnet/>
 

@@ -1,4 +1,4 @@
-# AllPeers 开始开源——TechCrunch
+# AllPeers 开始开源
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/07/allpeers-goes-open-source/>
 

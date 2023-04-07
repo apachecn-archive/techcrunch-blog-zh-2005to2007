@@ -1,4 +1,4 @@
-# Windows Live Hotmail 首次亮相–TechCrunch
+# Windows Live Hotmail 首次亮相
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/05/07/windows-live-hotmail-debuts/>
 

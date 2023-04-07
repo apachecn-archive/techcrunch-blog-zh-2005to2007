@@ -1,4 +1,4 @@
-# 37 Signals 获得杰夫·贝索斯投资 TechCrunch
+# 37 Signals 获得杰夫·贝索斯投资 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/20/37-signals-takes-jeff-bezos-investment/>
 

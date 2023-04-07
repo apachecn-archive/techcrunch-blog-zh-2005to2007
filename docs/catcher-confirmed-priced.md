@@ -1,4 +1,4 @@
-# 捕手确认，定价| TechCrunch
+# 捕手确认，定价
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/08/catcher-confirmed-priced/>
 

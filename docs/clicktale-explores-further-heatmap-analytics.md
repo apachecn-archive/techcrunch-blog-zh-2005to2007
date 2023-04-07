@@ -1,4 +1,4 @@
-# ClickTale 进一步探索热图分析——TechCrunch
+# ClickTale 进一步探索热图分析
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/05/clicktale-explores-further-heatmap-analytics/>
 

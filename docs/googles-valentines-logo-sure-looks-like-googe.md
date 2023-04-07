@@ -1,4 +1,4 @@
-# 谷歌的情人节标志看起来很像“谷歌”——TechCrunch
+# 谷歌的情人节标志看起来很像“谷歌”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/14/googles-valentines-logo-sure-looks-like-googe/>
 

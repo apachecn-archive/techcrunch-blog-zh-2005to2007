@@ -1,4 +1,4 @@
-# 索尼爱立信 W970:阿德里亚娜喜欢它一些视频 TechCrunch
+# 索尼爱立信 W970:阿德里亚娜喜欢它一些视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/sony-ericsson-w970-the-adriana-loves-it-some-video/>
 

@@ -1,4 +1,4 @@
-# CellSwapper，无尽合同的终结——TechCrunch
+# CellSwapper，无尽合同的终结
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/11/cellswapper-an-end-to-endless-contracts/>
 

@@ -1,4 +1,4 @@
-# 索尼爱立信 Z558 登陆美国——TechCrunch
+# 索尼爱立信 Z558 登陆美国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/sony-ericsson-z558-coming-to-america/>
 

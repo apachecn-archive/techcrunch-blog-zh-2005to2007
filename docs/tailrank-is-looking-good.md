@@ -1,4 +1,4 @@
-# TailRank 看起来不错 TechCrunch
+# TailRank 看起来不错 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/17/tailrank-is-looking-good/>
 

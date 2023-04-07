@@ -1,4 +1,4 @@
-# 李正吉街:令人敬畏的新音乐模式 TechCrunch
+# 李正吉街:令人敬畏的新音乐模式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/23/amie-street-awesome-new-music-model/>
 

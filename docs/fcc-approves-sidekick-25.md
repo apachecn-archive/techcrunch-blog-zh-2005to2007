@@ -1,4 +1,4 @@
-# FCC 批准 Sidekick 2.5？–TechCrunch
+# FCC 批准 Sidekick 2.5？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/21/fcc-approves-sidekick-25/>
 

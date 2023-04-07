@@ -1,4 +1,4 @@
-# 看到了吗？我告诉过你 PS3 是有史以来最好的游戏机！–TechCrunch
+# 看到了吗？我告诉过你 PS3 是有史以来最好的游戏机！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/see-i-told-you-the-ps3-is-the-best-console-ever/>
 

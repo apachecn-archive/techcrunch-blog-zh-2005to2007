@@ -1,4 +1,4 @@
-# 泰洛——好产品，愚蠢的策略？–TechCrunch
+# 泰洛——好产品，愚蠢的策略？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/24/tellos-made-some-mistakes-already/>
 

@@ -1,4 +1,4 @@
-# Nodus Psyclone PSP 扬声器底座| TechCrunch
+# Nodus Psyclone PSP 扬声器底座
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/nodus-psyclone-psp-speaker-dock/>
 

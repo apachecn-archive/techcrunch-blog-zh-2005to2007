@@ -1,4 +1,4 @@
-# XBox 自带脏运动裤——TechCrunch
+# XBox 自带脏运动裤
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/xbox-comes-with-dirty-sweatpants/>
 

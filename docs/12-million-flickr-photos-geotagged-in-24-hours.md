@@ -1,4 +1,4 @@
-# 24 小时内 120 万张 Flickr 照片被地理标记——TechCrunch
+# 24 小时内 120 万张 Flickr 照片被地理标记
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/29/12-million-flickr-photos-geotagged-in-24-hours/>
 

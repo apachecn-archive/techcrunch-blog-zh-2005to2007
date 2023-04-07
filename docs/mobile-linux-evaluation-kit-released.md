@@ -1,4 +1,4 @@
-# 发布移动 Linux 评估套件| TechCrunch
+# 发布移动 Linux 评估套件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/mobile-linux-evaluation-kit-released/>
 

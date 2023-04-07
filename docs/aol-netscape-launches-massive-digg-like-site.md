@@ -1,4 +1,4 @@
-# AOL-Netscape 推出大规模“挖掘黑仔”——TechCrunch
+# AOL-Netscape 推出大规模“挖掘黑仔”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/14/aol-netscape-launches-massive-digg-like-site/>
 

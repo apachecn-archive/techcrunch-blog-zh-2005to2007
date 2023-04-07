@@ -1,4 +1,4 @@
-# iRiver NV 便携式 GPS 导航仪:外表漂亮，内在智能——TechCrunch
+# iRiver NV 便携式 GPS 导航仪:外表漂亮，内在智能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/iriver-nv-portable-gps-navigator-pretty-on-the-outside-smart-on-the-inside/>
 

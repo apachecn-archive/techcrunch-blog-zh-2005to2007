@@ -1,4 +1,4 @@
-# Lexar 的 300x UDMA 紧凑型闪存卡–TechCrunch
+# Lexar 的 300x UDMA 紧凑型闪存卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/21/lexars-300x-udma-compactflash-cards/>
 

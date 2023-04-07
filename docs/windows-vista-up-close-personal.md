@@ -1,4 +1,4 @@
-# Windows Vista:近距离个人| TechCrunch
+# Windows Vista:近距离个人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/windows-vista-up-close-personal/>
 

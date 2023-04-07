@@ -1,4 +1,4 @@
-# 黑莓珍珠现已在 Cingular | TechCrunch 上发布
+# 黑莓珍珠现已在 Cingular  上发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/30/blackberry-pearl-now-available-on-cingular/>
 

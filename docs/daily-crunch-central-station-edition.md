@@ -1,4 +1,4 @@
-# 每日新闻:中央电视台版| TechCrunch
+# 每日新闻:中央电视台版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/20/daily-crunch-central-station-edition/>
 

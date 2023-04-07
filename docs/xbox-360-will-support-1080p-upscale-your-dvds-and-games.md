@@ -1,4 +1,4 @@
-# Xbox 360 将支持 1080p，升级您的 DVD 和游戏——TechCrunch
+# Xbox 360 将支持 1080p，升级您的 DVD 和游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/xbox-360-will-support-1080p-upscale-your-dvds-and-games/>
 

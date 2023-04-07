@@ -1,4 +1,4 @@
-# 谷歌视频可能会走向苹果的独立电视——TechCrunch
+# 谷歌视频可能会走向苹果的独立电视
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/18/google-video-could-be-headed-to-apples-itv/>
 

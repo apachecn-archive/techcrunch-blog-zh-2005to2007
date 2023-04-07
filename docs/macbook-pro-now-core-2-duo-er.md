@@ -1,4 +1,4 @@
-# MacBook Pro:现在的 Core 2 Duo-er–TechCrunch
+# MacBook Pro:现在的 Core 2 Duo-er
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/macbook-pro-now-core-2-duo-er/>
 

@@ -1,4 +1,4 @@
-# Skype for OS X 2(测试版)| TechCrunch
+# Skype for OS X 2(测试版)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/skype-for-os-x-2-beta/>
 

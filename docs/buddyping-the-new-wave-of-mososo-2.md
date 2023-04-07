@@ -1,4 +1,4 @@
-# BuddyPing:MoSoSo | TechCrunch 的新浪潮
+# BuddyPing:MoSoSo  的新浪潮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/16/buddyping-the-new-wave-of-mososo-2/>
 

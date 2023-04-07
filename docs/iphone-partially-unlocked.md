@@ -1,4 +1,4 @@
-# iPhone 部分解锁| TechCrunch
+# iPhone 部分解锁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/iphone-partially-unlocked/>
 

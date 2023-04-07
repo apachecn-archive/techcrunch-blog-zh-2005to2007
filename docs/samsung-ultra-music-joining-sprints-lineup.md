@@ -1,4 +1,4 @@
-# 三星 Ultra Music 加入 Sprints 阵容| TechCrunch
+# 三星 Ultra Music 加入 Sprints 阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/23/samsung-ultra-music-joining-sprints-lineup/>
 

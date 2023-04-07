@@ -1,4 +1,4 @@
-# Crumpler 极客旅行大赛冠军# 1——TechCrunch
+# Crumpler 极客旅行大赛冠军# 1
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/21/crumpler-geek-travel-contest-winner-1/>
 

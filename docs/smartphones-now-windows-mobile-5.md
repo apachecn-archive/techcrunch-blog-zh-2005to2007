@@ -1,4 +1,4 @@
-# 现在的智能手机:Windows Mobile 5–TechCrunch
+# 现在的智能手机:Windows Mobile 5
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/02/smartphones-now-windows-mobile-5/>
 

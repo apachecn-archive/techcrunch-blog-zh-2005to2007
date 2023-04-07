@@ -1,4 +1,4 @@
-# Migilia TVMax+让您直接录制到 Apple TV、iPod | TechCrunch
+# Migilia TVMax+让您直接录制到 Apple TV、iPod 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/migilia-tvmax-lets-you-record-right-to-apple-tv-ipod/>
 

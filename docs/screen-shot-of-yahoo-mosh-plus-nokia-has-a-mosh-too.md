@@ -1,4 +1,4 @@
-# 雅虎 Mosh 的屏幕截图；此外，诺基亚也有自己的时尚——TechCrunch
+# 雅虎 Mosh 的屏幕截图；此外，诺基亚也有自己的时尚
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/09/screen-shot-of-yahoo-mosh-plus-nokia-has-a-mosh-too/>
 

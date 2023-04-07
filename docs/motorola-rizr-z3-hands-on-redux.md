@@ -1,4 +1,4 @@
-# 摩托罗拉 RIZR Z3 牵手 Redux | TechCrunch
+# 摩托罗拉 RIZR Z3 牵手 Redux 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/22/motorola-rizr-z3-hands-on-redux/>
 

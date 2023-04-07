@@ -1,4 +1,4 @@
-# Sling 为 WM6 | TechCrunch 发布 SlingPlayer 移动版
+# Sling 为 WM6  发布 SlingPlayer 移动版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/sling-releases-slingplayer-mobile-for-wm6/>
 

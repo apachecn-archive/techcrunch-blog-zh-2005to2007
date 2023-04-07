@@ -1,4 +1,4 @@
-# ATI 镭龙 X1950 XTX 织机–TechCrunch
+# ATI 镭龙 X1950 XTX 织机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/ati-radeon-x1950-xtx-looms/>
 

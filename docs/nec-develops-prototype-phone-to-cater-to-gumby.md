@@ -1,4 +1,4 @@
-# NEC 开发原型手机迎合 Gumby | TechCrunch
+# NEC 开发原型手机迎合 Gumby 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/nec-develops-prototype-phone-to-cater-to-gumby/>
 

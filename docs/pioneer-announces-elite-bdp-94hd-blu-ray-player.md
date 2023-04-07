@@ -1,4 +1,4 @@
-# 先锋宣布推出精英版 BDP-94HD 蓝光播放器| TechCrunch
+# 先锋宣布推出精英版 BDP-94HD 蓝光播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/pioneer-announces-elite-bdp-94hd-blu-ray-player/>
 

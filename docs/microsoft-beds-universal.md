@@ -1,4 +1,4 @@
-# 微软床通用| TechCrunch
+# 微软床通用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/09/microsoft-beds-universal/>
 

@@ -1,4 +1,4 @@
-# Yedda 社区搜索–TechCrunch
+# Yedda 社区搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/25/community-search-with-yedda/>
 

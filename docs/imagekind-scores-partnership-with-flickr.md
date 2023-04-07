@@ -1,4 +1,4 @@
-# ImageKind 与 Flickr | TechCrunch 达成合作关系
+# ImageKind 与 Flickr  达成合作关系
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/19/imagekind-scores-partnership-with-flickr>
 

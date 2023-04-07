@@ -1,4 +1,4 @@
-# 基于 Mozilla 的威尼斯项目——TechCrunch
+# 基于 Mozilla 的威尼斯项目
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/12/venice-project-built-on-mozilla/>
 

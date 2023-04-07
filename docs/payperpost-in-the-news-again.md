@@ -1,4 +1,4 @@
-# 再次成为新闻头条——TechCrunch
+# 再次成为新闻头条
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/27/payperpost-in-the-news-again/>
 

@@ -1,4 +1,4 @@
-# Islandoo 质疑电视和网络孰先孰后？TechCrunch
+# Islandoo 质疑电视和网络孰先孰后？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/islandoo-questions-what-comes-first-the-tv-or-the-web/>
 

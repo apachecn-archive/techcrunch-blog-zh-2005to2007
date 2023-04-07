@@ -1,4 +1,4 @@
-# 你友好的电子酒保| TechCrunch
+# 你友好的电子酒保
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/your-friendly-electronic-bartender/>
 

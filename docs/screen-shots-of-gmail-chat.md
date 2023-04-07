@@ -1,4 +1,4 @@
-# Gmail 聊天的屏幕截图 TechCrunch
+# Gmail 聊天的屏幕截图 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/07/screen-shots-of-gmail-chat/>
 

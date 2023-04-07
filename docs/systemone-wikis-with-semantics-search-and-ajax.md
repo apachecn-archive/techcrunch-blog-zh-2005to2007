@@ -1,4 +1,4 @@
-# 系统一:在写作时收集资源 TechCrunch
+# 系统一:在写作时收集资源 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/14/systemone-wikis-with-semantics-search-and-ajax/>
 

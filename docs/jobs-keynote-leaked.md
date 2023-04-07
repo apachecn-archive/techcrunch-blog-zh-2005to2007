@@ -1,4 +1,4 @@
-# 乔布斯的主题演讲泄露——TechCrunch
+# 乔布斯的主题演讲泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/jobs-keynote-leaked/>
 

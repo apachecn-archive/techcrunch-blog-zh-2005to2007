@@ -1,4 +1,4 @@
-# CrunchedGear:最脆的——TechCrunch
+# CrunchedGear:最脆的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/18/crunchedgear-the-crunchiest/>
 

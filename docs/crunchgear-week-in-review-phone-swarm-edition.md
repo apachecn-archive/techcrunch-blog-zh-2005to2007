@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:Phone Swarm Edition | TechCrunch
+# CrunchGear 周回顾:Phone Swarm Edition 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/crunchgear-week-in-review-phone-swarm-edition/>
 

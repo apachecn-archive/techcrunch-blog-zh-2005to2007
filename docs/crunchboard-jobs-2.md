@@ -1,4 +1,4 @@
-# CrunchBoard Jobs | TechCrunch
+# CrunchBoard Jobs 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/crunchboard-jobs-2/>
 

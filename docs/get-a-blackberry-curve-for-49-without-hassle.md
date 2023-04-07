@@ -1,4 +1,4 @@
-# 49 美元轻松获得一部黑莓 Curve——TechCrunch
+# 49 美元轻松获得一部黑莓 Curve
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/get-a-blackberry-curve-for-49-without-hassle/>
 

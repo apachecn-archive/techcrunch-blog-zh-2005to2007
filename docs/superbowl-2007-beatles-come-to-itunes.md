@@ -1,4 +1,4 @@
-# 2007 年超级碗:披头士登陆 iTunes？TechCrunch
+# 2007 年超级碗:披头士登陆 iTunes？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/04/superbowl-2007-beatles-come-to-itunes/>
 

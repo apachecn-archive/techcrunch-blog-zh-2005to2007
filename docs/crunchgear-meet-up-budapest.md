@@ -1,4 +1,4 @@
-# CrunchGear 会议:布达佩斯 TechCrunch
+# CrunchGear 会议:布达佩斯 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/25/crunchgear-meet-up-budapest/>
 

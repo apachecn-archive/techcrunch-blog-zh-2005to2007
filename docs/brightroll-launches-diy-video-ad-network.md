@@ -1,4 +1,4 @@
-# BrightRoll 推出 DIY 视频广告网络——TechCrunch
+# BrightRoll 推出 DIY 视频广告网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/03/brightroll-launches-diy-video-ad-network/>
 

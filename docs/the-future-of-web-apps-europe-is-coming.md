@@ -1,4 +1,4 @@
-# 欧洲网络应用的未来正在到来。TechCrunch
+# 欧洲网络应用的未来正在到来。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/the-future-of-web-apps-europe-is-coming/>
 

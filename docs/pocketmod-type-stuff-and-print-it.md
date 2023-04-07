@@ -1,4 +1,4 @@
-# PocketMod 类型的东西并打印出来| TechCrunch
+# PocketMod 类型的东西并打印出来
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/04/pocketmod-type-stuff-and-print-it/>
 

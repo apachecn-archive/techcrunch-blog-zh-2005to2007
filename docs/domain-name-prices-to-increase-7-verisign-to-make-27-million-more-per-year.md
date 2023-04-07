@@ -1,4 +1,4 @@
-# 域名价格上涨 7%；Verisign 每年将多赚 2700 万美元 TechCrunch
+# 域名价格上涨 7%；Verisign 每年将多赚 2700 万美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/05/domain-name-prices-to-increase-7-verisign-to-make-27-million-more-per-year/>
 

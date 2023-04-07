@@ -1,4 +1,4 @@
-# 傲慢的苹果人的 iGo 办公桌| TechCrunch
+# 傲慢的苹果人的 iGo 办公桌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/06/igo-desk-for-snooty-apple-folk/>
 

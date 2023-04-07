@@ -1,4 +1,4 @@
-# 我的年鉴瞄准脸书市场 TechCrunch
+# 我的年鉴瞄准脸书市场 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/25/myyearbook-gunning-for-facebook-market/>
 

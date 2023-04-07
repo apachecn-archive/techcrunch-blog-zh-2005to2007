@@ -1,4 +1,4 @@
-# Mpire 购物者价格趋势图| TechCrunch
+# Mpire 购物者价格趋势图
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/29/mpire-graphs-price-trends-for-shoppers/>
 

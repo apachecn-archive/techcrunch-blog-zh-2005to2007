@@ -1,4 +1,4 @@
-# 她钱包里的太阳能| TechCrunch
+# 她钱包里的太阳能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/solar-power-in-her-purse/>
 

@@ -1,4 +1,4 @@
-# Ubiquisys 获得 1200 万美元资金| TechCrunch
+# Ubiquisys 获得 1200 万美元资金
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/07/ubiquisys-secures-12m-funding/>
 

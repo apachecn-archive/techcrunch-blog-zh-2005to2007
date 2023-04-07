@@ -1,4 +1,4 @@
-# 谷歌真的很重视 4 月 1 日 TechCrunch
+# 谷歌真的很重视 4 月 1 日 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/04/01/google-really-takes-april-1-seriousy/>
 

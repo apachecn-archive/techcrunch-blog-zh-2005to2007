@@ -1,4 +1,4 @@
-# Sphere 悄然敲定其商业模式 TechCrunch
+# Sphere 悄然敲定其商业模式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/05/sphere-quietly-nailing-its-business-model/>
 

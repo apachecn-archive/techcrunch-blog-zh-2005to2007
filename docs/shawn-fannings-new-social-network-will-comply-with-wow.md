@@ -1,4 +1,4 @@
-# 肖恩·范宁的新社交网络将遵循 WoW TechCrunch
+# 肖恩·范宁的新社交网络将遵循 WoW 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/12/01/shawn-fannings-new-social-network-will-comply-with-wow/>
 

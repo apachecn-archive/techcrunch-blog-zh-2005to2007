@@ -1,4 +1,4 @@
-# Zooomr 2.0 截图，新功能 TechCrunch
+# Zooomr 2.0 截图，新功能 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/08/zooomr-20-screenshots-new-features/>
 

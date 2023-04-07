@@ -1,4 +1,4 @@
-# 威瑞森正式宣布黑莓 8830-TechCrunch
+# 威瑞森正式宣布黑莓 8830-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/verizon-officially-announces-blackberry-8830/>
 

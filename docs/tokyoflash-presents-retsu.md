@@ -1,4 +1,4 @@
-# TokyoFlash 展示 Retsu–TechCrunch
+# TokyoFlash 展示 Retsu
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/tokyoflash-presents-retsu/>
 

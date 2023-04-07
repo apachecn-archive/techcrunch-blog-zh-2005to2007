@@ -1,4 +1,4 @@
-# t-Mobile Hotspot @ Home Review–TechCrunch
+# t-Mobile Hotspot @ Home Review
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/27/t-mobile-hotspothome-review/>
 

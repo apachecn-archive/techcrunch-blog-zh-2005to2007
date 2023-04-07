@@ -1,4 +1,4 @@
-# RIAA 又搞砸了！–TechCrunch
+# RIAA 又搞砸了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/05/riaa-messes-up-again/>
 

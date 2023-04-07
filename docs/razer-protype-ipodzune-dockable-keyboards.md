@@ -1,4 +1,4 @@
-# Razer Pro |型 iPod/Zune 可对接键盘–TechCrunch
+# Razer Pro |型 iPod/Zune 可对接键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/razer-protype-ipodzune-dockable-keyboards/>
 

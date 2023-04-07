@@ -1,4 +1,4 @@
-# 联想想要 Packard Bell | TechCrunch
+# 联想想要 Packard Bell 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/lenovo-wants-packard-bell/>
 

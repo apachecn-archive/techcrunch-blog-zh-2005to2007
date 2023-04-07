@@ -1,4 +1,4 @@
-# RebTel 上了索引| TechCrunch
+# RebTel 上了索引
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/24/rebtel-gets-on-the-index/>
 

@@ -1,4 +1,4 @@
-# 英特尔酷睿 2 四核:该死，真快！TechCrunch
+# 英特尔酷睿 2 四核:该死，真快！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/intel-core-2-quad-damn-thats-fast/>
 

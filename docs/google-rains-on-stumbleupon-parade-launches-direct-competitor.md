@@ -1,4 +1,4 @@
-# 谷歌在 StumbleUpon 游行上下雨:推出直接竞争对手 TechCrunch
+# 谷歌在 StumbleUpon 游行上下雨:推出直接竞争对手 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/18/google-rains-on-stumbleupon-parade-launches-direct-competitor/>
 

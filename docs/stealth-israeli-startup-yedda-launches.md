@@ -1,4 +1,4 @@
-# 以色列秘密创业公司 Yedda 推出 TechCrunch
+# 以色列秘密创业公司 Yedda 推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/14/stealth-israeli-startup-yedda-launches/>
 

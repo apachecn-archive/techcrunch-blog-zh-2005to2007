@@ -1,4 +1,4 @@
-# 三星手机正在逼近第一——TechCrunch
+# 三星手机正在逼近第一
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/samsung-mobile-closing-in-on-the-top/>
 

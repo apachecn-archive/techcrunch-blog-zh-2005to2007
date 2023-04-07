@@ -1,4 +1,4 @@
-# 威瑞森提供无限消息计划——TechCrunch
+# 威瑞森提供无限消息计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/11/verizon-offering-unlimited-messaging-plan/>
 

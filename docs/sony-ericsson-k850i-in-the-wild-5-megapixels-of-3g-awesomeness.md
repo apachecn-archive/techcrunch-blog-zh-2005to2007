@@ -1,4 +1,4 @@
-# 索尼-爱立信 K850i 在野外:500 万像素的 3G 超赞——TechCrunch
+# 索尼-爱立信 K850i 在野外:500 万像素的 3G 超赞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/sony-ericsson-k850i-in-the-wild-5-megapixels-of-3g-awesomeness/>
 

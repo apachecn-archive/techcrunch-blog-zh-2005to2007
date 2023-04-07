@@ -1,4 +1,4 @@
-# MusicPlusTV 很酷…我觉得| TechCrunch
+# MusicPlusTV 很酷…我觉得
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/14/musicplustv-is-cool-i-think/>
 

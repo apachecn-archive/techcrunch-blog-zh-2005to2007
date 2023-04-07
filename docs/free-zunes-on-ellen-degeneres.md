@@ -1,4 +1,4 @@
-# Ellen DeGeneres 上的免费 Zunes | TechCrunch
+# Ellen DeGeneres 上的免费 Zunes 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/free-zunes-on-ellen-degeneres/>
 

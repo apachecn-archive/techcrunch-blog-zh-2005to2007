@@ -1,4 +1,4 @@
-# SanDisk Sansa Express vs . Apple iPod Shuffle–TechCrunch
+# SanDisk Sansa Express vs . Apple iPod Shuffle
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/sandisk-sansa-express-vs-apple-ipod-shuffle/>
 

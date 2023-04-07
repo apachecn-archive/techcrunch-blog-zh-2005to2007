@@ -1,4 +1,4 @@
-# 星巴克瞄准 iPods | TechCrunch
+# 星巴克瞄准 iPods 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/starbucks-aims-at-ipods/>
 

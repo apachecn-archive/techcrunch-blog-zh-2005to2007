@@ -1,4 +1,4 @@
-# 滚动冷却器为您带来音乐、啤酒| TechCrunch
+# 滚动冷却器为您带来音乐、啤酒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/rolling-cooler-brings-you-tunes-beer/>
 

@@ -1,4 +1,4 @@
-# Vonage 的新网关显示来电显示、语音邮件| TechCrunch
+# Vonage 的新网关显示来电显示、语音邮件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/vonages-new-gateway-displays-caller-id-voicemail/>
 

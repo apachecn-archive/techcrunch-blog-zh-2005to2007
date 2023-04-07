@@ -1,4 +1,4 @@
-# 不要是这家公司| TechCrunch
+# 不要是这家公司
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/18/dont-be-this-company/>
 

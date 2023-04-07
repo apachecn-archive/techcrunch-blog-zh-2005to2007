@@ -1,4 +1,4 @@
-# 水母/CTIA 对决——TechCrunch
+# 水母/CTIA 对决
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/jellyfishctia-smack-off/>
 

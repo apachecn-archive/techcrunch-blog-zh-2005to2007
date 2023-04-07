@@ -1,4 +1,4 @@
-# Monitor110 筹集了 1100 多万美元用于市场监测——TechCrunch
+# Monitor110 筹集了 1100 多万美元用于市场监测
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/30/monitor110-raises-11m-more-for-market-monitoring/>
 

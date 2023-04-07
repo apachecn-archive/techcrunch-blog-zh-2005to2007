@@ -1,4 +1,4 @@
-# WhosOff:轻松的工作场所休假管理——TechCrunch
+# WhosOff:轻松的工作场所休假管理
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/03/whosoff-easy-workplace-leave-management/>
 

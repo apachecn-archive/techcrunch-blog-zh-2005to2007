@@ -1,4 +1,4 @@
-# 更多 Dash 排毒词条| TechCrunch
+# 更多 Dash 排毒词条
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/18/dash-entry-4-your-brain-on-cell-phones/>
 

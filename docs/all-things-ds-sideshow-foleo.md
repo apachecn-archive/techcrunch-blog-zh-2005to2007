@@ -1,4 +1,4 @@
-# 所有 D 的杂耍:Foleo | TechCrunch
+# 所有 D 的杂耍:Foleo 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/all-things-ds-sideshow-foleo/>
 

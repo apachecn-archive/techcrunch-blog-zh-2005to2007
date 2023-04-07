@@ -1,4 +1,4 @@
-# Plantronics 将 DSP 加入蓝牙耳机——TechCrunch
+# Plantronics 将 DSP 加入蓝牙耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/plantronics-adds-dsp-to-bluetooth-headsets/>
 

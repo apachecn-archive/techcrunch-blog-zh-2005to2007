@@ -1,4 +1,4 @@
-# Six Apart 收购罗约 TechCrunch
+# Six Apart 收购罗约 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/09/06/six-apart-acquires-rojo/>
 

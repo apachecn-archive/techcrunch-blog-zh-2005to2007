@@ -1,4 +1,4 @@
-# 诺基亚+雅虎！在 40 系列手机上——TechCrunch
+# 诺基亚+雅虎！在 40 系列手机上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/30/nokia-yahoo-on-series-40-handsets/>
 

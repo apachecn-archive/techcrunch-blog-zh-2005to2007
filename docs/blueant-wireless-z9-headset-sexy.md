@@ -1,4 +1,4 @@
-# BlueAnt 无线 Z9 耳机:性感？TechCrunch
+# BlueAnt 无线 Z9 耳机:性感？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/13/blueant-wireless-z9-headset-sexy/>
 

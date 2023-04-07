@@ -1,4 +1,4 @@
-# 组合 CD+MP3 播放器的概念让其他 DAP 自惭形秽| TechCrunch
+# 组合 CD+MP3 播放器的概念让其他 DAP 自惭形秽
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/combo-cdmp3-player-concept-puts-other-daps-to-shame/>
 

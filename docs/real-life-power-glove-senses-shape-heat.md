@@ -1,4 +1,4 @@
-# 现实生活中的动力手套能够感知形状和热量——TechCrunch
+# 现实生活中的动力手套能够感知形状和热量
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/real-life-power-glove-senses-shape-heat/>
 

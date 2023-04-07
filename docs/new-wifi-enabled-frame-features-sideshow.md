@@ -1,4 +1,4 @@
-# 新的支持 WiFi 的框架功能 SideShow–TechCrunch
+# 新的支持 WiFi 的框架功能 SideShow
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/new-wifi-enabled-frame-features-sideshow/>
 

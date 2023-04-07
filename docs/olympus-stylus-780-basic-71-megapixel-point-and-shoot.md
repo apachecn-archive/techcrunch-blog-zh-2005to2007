@@ -1,4 +1,4 @@
-# Olympus Stylus 780:基本的 710 万像素傻瓜相机——TechCrunch
+# Olympus Stylus 780:基本的 710 万像素傻瓜相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/olympus-stylus-780-basic-71-megapixel-point-and-shoot/>
 

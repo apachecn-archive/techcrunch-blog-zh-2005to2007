@@ -1,4 +1,4 @@
-# 哟伙计！冲出去。图德！–TechCrunch
+# 哟伙计！冲出去。图德！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/yo-dude-bust-out-the-tude/>
 

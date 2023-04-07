@@ -1,4 +1,4 @@
-# iLoad 现在可以翻录 DVD，但还是很傻 TechCrunch
+# iLoad 现在可以翻录 DVD，但还是很傻 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/12/iload-can-now-rip-dvds-still-fairly-silly/>
 

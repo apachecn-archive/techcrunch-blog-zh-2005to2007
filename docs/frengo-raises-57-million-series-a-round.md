@@ -1,4 +1,4 @@
-# Frengo 首轮融资 570 万美元——TechCrunch
+# Frengo 首轮融资 570 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/03/frengo-raises-57-million-series-a-round/>
 

@@ -1,4 +1,4 @@
-# StreetAdvisor 推出新服务——TechCrunch
+# StreetAdvisor 推出新服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/07/31/streetadvisor-launches-new-services/>
 

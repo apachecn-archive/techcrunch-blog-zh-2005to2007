@@ -1,4 +1,4 @@
-# Oasys Mobile 根据第 11 章| TechCrunch 运营
+# Oasys Mobile 根据第 11 章 运营
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/oasys-mobile-operates-under-chapter-11/>
 

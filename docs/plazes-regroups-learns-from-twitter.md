@@ -1,4 +1,4 @@
-# Plazes 重整旗鼓，向 Twitter 学习 TechCrunch
+# Plazes 重整旗鼓，向 Twitter 学习 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/18/plazes-regroups-learns-from-twitter/>
 

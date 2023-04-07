@@ -1,4 +1,4 @@
-# 轻松滑行太费力了——TechCrunch
+# 轻松滑行太费力了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/05/glide-effortless-is-too-much-effort/>
 

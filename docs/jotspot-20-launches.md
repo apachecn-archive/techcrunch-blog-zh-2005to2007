@@ -1,4 +1,4 @@
-# Jotspot 2.0 发布 TechCrunch
+# Jotspot 2.0 发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/24/jotspot-20-launches/>
 

@@ -1,4 +1,4 @@
-# Flikzor 可能会迅速走红——TechCrunch
+# Flikzor 可能会迅速走红
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/14/flikzor-could-get-viral-in-a-hurry/>
 

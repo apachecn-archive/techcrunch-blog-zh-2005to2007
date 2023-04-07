@@ -1,4 +1,4 @@
-# 迈克·布彻加入英国 Techcrunch！TechCrunch
+# 迈克·布彻加入英国 Techcrunch！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/25/mike-butcher-joins-techcrunch-uk/>
 

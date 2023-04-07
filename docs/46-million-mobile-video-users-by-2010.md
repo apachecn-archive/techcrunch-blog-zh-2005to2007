@@ -1,4 +1,4 @@
-# 到 2010 年，移动视频用户将达到 4600 万——TechCrunch
+# 到 2010 年，移动视频用户将达到 4600 万
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/46-million-mobile-video-users-by-2010/>
 

@@ -1,4 +1,4 @@
-# 服从宿醉钱包包括开瓶器 TechCrunch
+# 服从宿醉钱包包括开瓶器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/13/obey-hangover-wallet-includes-bottle-opener/>
 

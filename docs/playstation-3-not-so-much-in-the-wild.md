@@ -1,4 +1,4 @@
-# PlayStation 3:在野外没有那么多——TechCrunch
+# PlayStation 3:在野外没有那么多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/playstation-3-not-so-much-in-the-wild/>
 

@@ -1,4 +1,4 @@
-# 读者:制造色情笑话，赢取 Zune T 恤！TechCrunch
+# 读者:制造色情笑话，赢取 Zune T 恤！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/readers-make-funny-about-porn-win-zune-t-shirt/>
 

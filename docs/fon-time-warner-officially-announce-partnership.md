@@ -1,4 +1,4 @@
-# 时代华纳有线 Wi-Fi 热点合作官方——TechCrunch
+# 时代华纳有线 Wi-Fi 热点合作官方
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/23/fon-time-warner-officially-announce-partnership/>
 

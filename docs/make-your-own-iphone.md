@@ -1,4 +1,4 @@
-# 制作自己的 iPhone | TechCrunch
+# 制作自己的 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/27/make-your-own-iphone/>
 

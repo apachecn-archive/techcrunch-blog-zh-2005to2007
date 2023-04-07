@@ -1,4 +1,4 @@
-# Skype 2.6 测试版现已推出| TechCrunch
+# Skype 2.6 测试版现已推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/31/skype-26-beta-available/>
 

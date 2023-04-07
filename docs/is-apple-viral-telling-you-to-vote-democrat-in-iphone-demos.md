@@ -1,4 +1,4 @@
-# 苹果是在告诉你在 iPhone 演示中投票给民主党吗！？–TechCrunch
+# 苹果是在告诉你在 iPhone 演示中投票给民主党吗！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/is-apple-viral-telling-you-to-vote-democrat-in-iphone-demos/>
 

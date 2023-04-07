@@ -1,4 +1,4 @@
-# 服务了 10 亿个移动广告——TechCrunch
+# 服务了 10 亿个移动广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/08/a-billion-mobile-ads-served/>
 

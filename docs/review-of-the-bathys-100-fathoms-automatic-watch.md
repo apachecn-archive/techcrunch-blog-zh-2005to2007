@@ -1,4 +1,4 @@
-# Bathys 100 英寻自动腕表点评——TechCrunch
+# Bathys 100 英寻自动腕表点评
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/06/review-of-the-bathys-100-fathoms-automatic-watch/>
 

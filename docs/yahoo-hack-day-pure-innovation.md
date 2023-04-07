@@ -1,4 +1,4 @@
-# 雅虎黑客日:纯创新——TechCrunch
+# 雅虎黑客日:纯创新
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/18/yahoo-hack-day-pure-innovation/>
 

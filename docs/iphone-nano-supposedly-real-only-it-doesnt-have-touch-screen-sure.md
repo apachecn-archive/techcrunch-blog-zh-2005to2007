@@ -1,4 +1,4 @@
-# iPhone Nano 应该是真的，只是它没有触摸屏。当然… | TechCrunch
+# iPhone Nano 应该是真的，只是它没有触摸屏。当然… 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/iphone-nano-supposedly-real-only-it-doesnt-have-touch-screen-sure/>
 

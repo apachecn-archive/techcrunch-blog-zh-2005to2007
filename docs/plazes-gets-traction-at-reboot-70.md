@@ -1,4 +1,4 @@
-# Plazes 个人资料 TechCrunch
+# Plazes 个人资料 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/11/plazes-gets-traction-at-reboot-70/>
 

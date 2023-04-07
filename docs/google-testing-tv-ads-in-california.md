@@ -1,4 +1,4 @@
-# 谷歌在加州测试电视广告——TechCrunch
+# 谷歌在加州测试电视广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/11/google-testing-tv-ads-in-california/>
 

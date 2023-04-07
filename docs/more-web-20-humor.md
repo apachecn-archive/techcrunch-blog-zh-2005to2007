@@ -1,4 +1,4 @@
-# 更多 Web 2.0 幽默——TechCrunch
+# 更多 Web 2.0 幽默
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/27/more-web-20-humor/>
 

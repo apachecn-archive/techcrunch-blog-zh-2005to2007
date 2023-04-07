@@ -1,4 +1,4 @@
-# 激光光束保险箱| TechCrunch
+# 激光光束保险箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/13/laaaazer-beam-safe/>
 

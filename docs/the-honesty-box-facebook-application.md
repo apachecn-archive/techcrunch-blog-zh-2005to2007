@@ -1,4 +1,4 @@
-# 诚实盒子脸书应用程序——TechCrunch
+# 诚实盒子脸书应用程序
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/the-honesty-box-facebook-application/>
 

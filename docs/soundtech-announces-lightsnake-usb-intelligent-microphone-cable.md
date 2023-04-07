@@ -1,4 +1,4 @@
-# SoundTech 发布 LightSnake USB 智能麦克风线| TechCrunch
+# SoundTech 发布 LightSnake USB 智能麦克风线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/31/soundtech-announces-lightsnake-usb-intelligent-microphone-cable/>
 

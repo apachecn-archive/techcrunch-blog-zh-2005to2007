@@ -1,4 +1,4 @@
-# 谷歌免费提供 FeedBurner 服务 TechCrunch
+# 谷歌免费提供 FeedBurner 服务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/03/google-makes-feedburner-services-free/>
 

@@ -1,4 +1,4 @@
-# 美国:企业八卦 2.0 TechCrunch
+# 美国:企业八卦 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/04/overhearus-corporate-gossip-2/>
 

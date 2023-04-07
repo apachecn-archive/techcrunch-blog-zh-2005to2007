@@ -1,4 +1,4 @@
-# 哇——Grouper 售价 6500 万美元——TechCrunch
+# 哇——Grouper 售价 6500 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2006/08/22/wow-grouper-sells-for-65-million/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29>
 

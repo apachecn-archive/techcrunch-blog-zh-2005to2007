@@ -1,4 +1,4 @@
-# SNOCAP 宣布与主要唱片公司结盟 TechCrunch
+# SNOCAP 宣布与主要唱片公司结盟 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/15/snocap-announces-alliances-with-major-labels/>
 

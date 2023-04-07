@@ -1,4 +1,4 @@
-# 一个数码相框就能搞定| TechCrunch
+# 一个数码相框就能搞定
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/a-digital-photo-frame-that-gets-it-right/>
 

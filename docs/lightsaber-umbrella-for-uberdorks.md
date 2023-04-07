@@ -1,4 +1,4 @@
-# 超级机器人的光剑伞——TechCrunch
+# 超级机器人的光剑伞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/23/lightsaber-umbrella-for-uberdorks/>
 

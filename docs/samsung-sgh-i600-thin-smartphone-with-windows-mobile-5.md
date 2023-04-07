@@ -1,4 +1,4 @@
-# 搭载 Windows Mobile 5 | TechCrunch 的三星 SGH i600 轻薄智能手机
+# 搭载 Windows Mobile 5  的三星 SGH i600 轻薄智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/samsung-sgh-i600-thin-smartphone-with-windows-mobile-5/>
 

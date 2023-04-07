@@ -1,4 +1,4 @@
-# 黑色的 iMacs，苹果公司的大量硬件更新；iMac 将成为“Mac”吗？–TechCrunch
+# 黑色的 iMacs，苹果公司的大量硬件更新；iMac 将成为“Mac”吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/black-imacs-lots-of-hardware-refreshes-due-from-apple-imac-to-become-just-mac/>
 

@@ -1,4 +1,4 @@
-# PostApp 推出 WidgetBox，一个小部件市场 TechCrunch
+# PostApp 推出 WidgetBox，一个小部件市场 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/22/postapp-launches-widgetbox-a-marketplace-for-widgets/>
 

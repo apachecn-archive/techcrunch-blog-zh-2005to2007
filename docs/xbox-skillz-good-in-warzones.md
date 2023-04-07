@@ -1,4 +1,4 @@
-# Xbox Skillz 在战区的优势——TechCrunch
+# Xbox Skillz 在战区的优势
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/xbox-skillz-good-in-warzones/>
 

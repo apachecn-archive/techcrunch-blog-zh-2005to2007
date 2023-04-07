@@ -1,4 +1,4 @@
-# CrunchGear Reader 相约:这是 TechCrunch
+# CrunchGear Reader 相约:这是 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/crunchgear-reader-meet-up-its-on/>
 

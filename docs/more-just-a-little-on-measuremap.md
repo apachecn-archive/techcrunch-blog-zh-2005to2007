@@ -1,4 +1,4 @@
-# (只有一点点)更多关于测量图——TechCrunch
+# (只有一点点)更多关于测量图
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/17/more-just-a-little-on-measuremap/>
 

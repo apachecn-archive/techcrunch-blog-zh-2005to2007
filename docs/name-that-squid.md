@@ -1,4 +1,4 @@
-# 给那只鱿鱼起名字| TechCrunch
+# 给那只鱿鱼起名字
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/name-that-squid/>
 

@@ -1,4 +1,4 @@
-# 每日危机:你的妈妈，晒黑版| TechCrunch
+# 每日危机:你的妈妈，晒黑版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/daily-crunch-your-mom-tanning-edition/>
 

@@ -1,4 +1,4 @@
-# PS3 即将打折(如果你同意退款)——TechCrunch
+# PS3 即将打折(如果你同意退款)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/discount-ps3s-on-the-horizon-if-youre-ok-with-refurbs/>
 

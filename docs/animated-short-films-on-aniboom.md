@@ -1,4 +1,4 @@
-# AniBoom 上的动画短片–TechCrunch
+# AniBoom 上的动画短片
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/23/animated-short-films-on-aniboom/>
 

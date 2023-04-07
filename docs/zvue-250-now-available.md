@@ -1,4 +1,4 @@
-# ZVUE 250 现已上市–TechCrunch
+# ZVUE 250 现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/zvue-250-now-available/>
 

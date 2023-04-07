@@ -1,4 +1,4 @@
-# 旧的视频游戏广告>新的视频游戏广告| TechCrunch
+# 旧的视频游戏广告>新的视频游戏广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/older-video-game-commercials-newer-video-game-commercials/>
 

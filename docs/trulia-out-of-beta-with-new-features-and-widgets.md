@@ -1,4 +1,4 @@
-# Trulia 测试版推出新功能和新部件——TechCrunch
+# Trulia 测试版推出新功能和新部件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/11/trulia-out-of-beta-with-new-features-and-widgets/>
 

@@ -1,4 +1,4 @@
-# 好莱坞之心 PS3 | TechCrunch
+# 好莱坞之心 PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/hollywood-hearts-ps3/>
 

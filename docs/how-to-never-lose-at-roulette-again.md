@@ -1,4 +1,4 @@
-# 如何在轮盘赌上不再输——TechCrunch
+# 如何在轮盘赌上不再输
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/how-to-never-lose-at-roulette-again/>
 

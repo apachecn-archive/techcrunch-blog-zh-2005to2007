@@ -1,4 +1,4 @@
-# Sling Media 宣布推出 SlingCatcher，增加 Palm OS 支持——TechCrunch
+# Sling Media 宣布推出 SlingCatcher，增加 Palm OS 支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/sling-media-announces-slingcatcher-adds-palm-os-support/>
 

@@ -1,4 +1,4 @@
-# iLike 添加了来自 YouTube——TechCrunch 的音乐视频
+# iLike 添加了来自 YouTube 的音乐视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/09/ilike-adds-music-videos-from-youtube/>
 

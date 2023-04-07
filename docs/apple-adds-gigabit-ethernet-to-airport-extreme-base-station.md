@@ -1,4 +1,4 @@
-# Apple 将千兆以太网添加到 AirPort Extreme 基站| TechCrunch
+# Apple 将千兆以太网添加到 AirPort Extreme 基站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/apple-adds-gigabit-ethernet-to-airport-extreme-base-station/>
 

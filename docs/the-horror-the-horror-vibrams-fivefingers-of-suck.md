@@ -1,4 +1,4 @@
-# 恐怖啊！恐怖啊！Vibram 的五指吮吸——TechCrunch
+# 恐怖啊！恐怖啊！Vibram 的五指吮吸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/the-horror-the-horror-vibrams-fivefingers-of-suck/>
 

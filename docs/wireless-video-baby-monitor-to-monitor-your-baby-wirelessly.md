@@ -1,4 +1,4 @@
-# 无线视频婴儿监视器，以无线方式监控您的宝宝——TechCrunch
+# 无线视频婴儿监视器，以无线方式监控您的宝宝
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/wireless-video-baby-monitor-to-monitor-your-baby-wirelessly/>
 

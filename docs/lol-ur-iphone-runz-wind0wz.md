@@ -1,4 +1,4 @@
-# LOL UR IPHONE RUNZ wind 0 wz | TechCrunch
+# LOL UR IPHONE RUNZ wind 0 wz 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/lol-ur-iphone-runz-wind0wz/>
 

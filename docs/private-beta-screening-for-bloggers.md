@@ -1,4 +1,4 @@
-# 博主私人内测筛选？TechCrunch
+# 博主私人内测筛选？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/11/private-beta-screening-for-bloggers/>
 

@@ -1,4 +1,4 @@
-# kanguru Bio Slider II–TechCrunch
+# kanguru Bio Slider II
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/kanguru-bio-slider-ii/>
 

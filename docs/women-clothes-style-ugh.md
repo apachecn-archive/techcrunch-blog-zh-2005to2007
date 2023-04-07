@@ -1,4 +1,4 @@
-# 女人。衣服。风格。呃。TechCrunch
+# 女人。衣服。风格。呃。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/23/women-clothes-style-ugh/>
 

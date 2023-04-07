@@ -1,4 +1,4 @@
-# Zune 来回报你分享歌曲？TechCrunch
+# Zune 来回报你分享歌曲？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/23/zune-to-pay-you-back-for-sharing-songs/>
 

@@ -1,4 +1,4 @@
-# 维基百科禁止卡塔尔 TechCrunch
+# 维基百科禁止卡塔尔 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/01/wikipedia-bans-qatar/>
 

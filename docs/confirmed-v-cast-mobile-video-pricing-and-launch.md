@@ -1,4 +1,4 @@
-# 已确认:V-Cast 移动视频定价和发布–TechCrunch
+# 已确认:V-Cast 移动视频定价和发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/28/confirmed-v-cast-mobile-video-pricing-and-launch/>
 

@@ -1,4 +1,4 @@
-# 三星狗仔队摄像机，VM-X300 | TechCrunch
+# 三星狗仔队摄像机，VM-X300 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/samsung-paparazzi-camcorder-vm-x300/>
 

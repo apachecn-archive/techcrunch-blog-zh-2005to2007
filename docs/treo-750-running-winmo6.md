@@ -1,4 +1,4 @@
-# Treo 750 运行 WinMo6 | TechCrunch
+# Treo 750 运行 WinMo6 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/treo-750-running-winmo6/>
 

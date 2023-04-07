@@ -1,4 +1,4 @@
-# 更多边缘评论——iNods——TechCrunch
+# 更多边缘评论——iNods
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/10/more-edge-reviews-inods/>
 

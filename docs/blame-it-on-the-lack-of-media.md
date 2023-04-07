@@ -1,4 +1,4 @@
-# 归咎于(缺乏)媒体——TechCrunch
+# 归咎于(缺乏)媒体
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/blame-it-on-the-lack-of-media/>
 

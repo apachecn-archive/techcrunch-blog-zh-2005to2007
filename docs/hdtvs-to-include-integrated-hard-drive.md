@@ -1,4 +1,4 @@
-# 高清电视将包括集成硬盘–TechCrunch
+# 高清电视将包括集成硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/hdtvs-to-include-integrated-hard-drive/>
 

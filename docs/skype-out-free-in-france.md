@@ -1,4 +1,4 @@
-# 法国 Skype-out 免费| TechCrunch
+# 法国 Skype-out 免费
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/skype-out-free-in-france/>
 

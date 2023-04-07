@@ -1,4 +1,4 @@
-# Omnidrive 的在线存储确实有效——TechCrunch
+# Omnidrive 的在线存储确实有效
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/25/omnidrives-online-storage-actually-works/>
 

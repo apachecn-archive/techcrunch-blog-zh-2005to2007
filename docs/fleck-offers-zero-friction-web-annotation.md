@@ -1,4 +1,4 @@
-# Fleck 提供零摩擦网络注释——TechCrunch
+# Fleck 提供零摩擦网络注释
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/16/fleck-offers-zero-friction-web-annotation/>
 

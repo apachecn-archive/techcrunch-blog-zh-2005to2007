@@ -1,4 +1,4 @@
-# 踏板动力:自行车健身产品–TechCrunch
+# 踏板动力:自行车健身产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/17/pedal-power-cycle-fitness-products/>
 

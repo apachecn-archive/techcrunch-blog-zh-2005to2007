@@ -1,4 +1,4 @@
-# Sportingo 混合了用户内容、专业体育统计数据和照片 TechCrunch
+# Sportingo 混合了用户内容、专业体育统计数据和照片 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/08/sportingo-mixes-user-content-profesional-sports-stats-and-photos>
 

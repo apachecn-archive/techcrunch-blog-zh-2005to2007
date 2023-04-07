@@ -1,4 +1,4 @@
-# 外星人 MCE PC:时尚而强大| TechCrunch
+# 外星人 MCE PC:时尚而强大
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/alienware-mce-pc-sleek-and-powerful/>
 

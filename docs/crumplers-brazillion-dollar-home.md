@@ -1,4 +1,4 @@
-# Crumpler 的巴西美元主页| TechCrunch
+# Crumpler 的巴西美元主页
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/15/crumplers-brazillion-dollar-home/>
 

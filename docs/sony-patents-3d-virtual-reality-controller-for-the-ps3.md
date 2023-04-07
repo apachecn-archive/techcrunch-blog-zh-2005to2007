@@ -1,4 +1,4 @@
-# 索尼为 PS3 的 3D 虚拟现实控制器申请专利——TechCrunch
+# 索尼为 PS3 的 3D 虚拟现实控制器申请专利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/13/sony-patents-3d-virtual-reality-controller-for-the-ps3/>
 

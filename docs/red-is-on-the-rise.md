@@ -1,4 +1,4 @@
-# 红色正在崛起| TechCrunch
+# 红色正在崛起
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/red-is-on-the-rise/>
 

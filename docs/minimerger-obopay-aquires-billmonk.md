@@ -1,4 +1,4 @@
-# mini merger:obo pay Aquires bill monk–TechCrunch
+# mini merger:obo pay Aquires bill monk
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/30/minimerger-obopay-aquires-billmonk/>
 

@@ -1,4 +1,4 @@
-# FTC 厌倦了网络中立——TechCrunch
+# FTC 厌倦了网络中立
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/ftc-weary-of-net-neutrality/>
 

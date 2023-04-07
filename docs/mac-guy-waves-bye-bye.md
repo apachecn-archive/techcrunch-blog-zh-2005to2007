@@ -1,4 +1,4 @@
-# 苹果公司的家伙挥手告别| TechCrunch
+# 苹果公司的家伙挥手告别
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/mac-guy-waves-bye-bye/>
 

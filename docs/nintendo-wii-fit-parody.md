@@ -1,4 +1,4 @@
-# 任天堂 Wii Fit 恶搞| TechCrunch
+# 任天堂 Wii Fit 恶搞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/nintendo-wii-fit-parody/>
 

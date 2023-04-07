@@ -1,4 +1,4 @@
-# 富士通推出四款新笔记本电脑——TechCrunch
+# 富士通推出四款新笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/29/fujitsu-drops-four-new-laptops/>
 

@@ -1,4 +1,4 @@
-# Cingular 被迫向客户退款 1850 万美元| TechCrunch
+# Cingular 被迫向客户退款 1850 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/cingular-forced-to-refund-customers-to-the-tune-of-185-million/>
 

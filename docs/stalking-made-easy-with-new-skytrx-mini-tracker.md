@@ -1,4 +1,4 @@
-# 使用新的 SkyTRX 迷你追踪器轻松跟踪| TechCrunch
+# 使用新的 SkyTRX 迷你追踪器轻松跟踪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/stalking-made-easy-with-new-skytrx-mini-tracker/>
 

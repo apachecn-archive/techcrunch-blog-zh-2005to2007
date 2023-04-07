@@ -1,4 +1,4 @@
-# Gmail Ups 附件大小限制| TechCrunch
+# Gmail Ups 附件大小限制
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/gmail-ups-attachment-size-limit/>
 

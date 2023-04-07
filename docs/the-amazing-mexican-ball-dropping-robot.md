@@ -1,4 +1,4 @@
-# 神奇的墨西哥投球机器人——TechCrunch
+# 神奇的墨西哥投球机器人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/18/the-amazing-mexican-ball-dropping-robot/>
 

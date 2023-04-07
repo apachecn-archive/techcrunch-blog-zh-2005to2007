@@ -1,4 +1,4 @@
-# 孤独搜索者的天堂——TechCrunch
+# 孤独搜索者的天堂
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/08/a-place-for-lonely-searchers/>
 

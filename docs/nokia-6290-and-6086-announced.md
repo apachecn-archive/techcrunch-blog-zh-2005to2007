@@ -1,4 +1,4 @@
-# 诺基亚 6290 和 6086 发布| TechCrunch
+# 诺基亚 6290 和 6086 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/nokia-6290-and-6086-announced/>
 

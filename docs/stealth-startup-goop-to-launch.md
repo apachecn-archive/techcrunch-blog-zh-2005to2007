@@ -1,4 +1,4 @@
-# 秘密创业公司 Goop 即将推出——TechCrunch
+# 秘密创业公司 Goop 即将推出
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/01/stealth-startup-goop-to-launch>
 

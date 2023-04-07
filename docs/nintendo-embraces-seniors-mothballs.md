@@ -1,4 +1,4 @@
-# 任天堂拥抱老年人，樟脑丸 TechCrunch
+# 任天堂拥抱老年人，樟脑丸 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/30/nintendo-embraces-seniors-mothballs/>
 

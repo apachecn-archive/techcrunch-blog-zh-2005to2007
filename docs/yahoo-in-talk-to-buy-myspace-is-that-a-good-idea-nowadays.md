@@ -1,4 +1,4 @@
-# 雅虎！在购买 MySpace 的谈话中:现在这是个好主意吗？TechCrunch
+# 雅虎！在购买 MySpace 的谈话中:现在这是个好主意吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/yahoo-in-talk-to-buy-myspace-is-that-a-good-idea-nowadays/>
 

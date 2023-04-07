@@ -1,4 +1,4 @@
-# GTA 在另一个法庭案件中受到指责——TechCrunch
+# GTA 在另一个法庭案件中受到指责
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/gta-blamed-in-another-court-case/>
 

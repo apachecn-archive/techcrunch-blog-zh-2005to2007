@@ -1,4 +1,4 @@
-# KeyTouch:有趣到重要——TechCrunch
+# KeyTouch:有趣到重要
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/keytouch-interesting-enough-to-matter/>
 

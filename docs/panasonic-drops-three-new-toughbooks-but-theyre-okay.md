@@ -1,4 +1,4 @@
-# 松下升级 Toughbooks 中的无线广域网——TechCrunch
+# 松下升级 Toughbooks 中的无线广域网
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/panasonic-drops-three-new-toughbooks-but-theyre-okay/>
 

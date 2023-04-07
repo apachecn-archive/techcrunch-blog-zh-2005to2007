@@ -1,4 +1,4 @@
-# 谷歌收购生物识别公司 Neven Vision TechCrunch
+# 谷歌收购生物识别公司 Neven Vision 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/15/google-acquires-biometric-company-neven-vision/>
 

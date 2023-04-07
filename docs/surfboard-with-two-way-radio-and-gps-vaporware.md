@@ -1,4 +1,4 @@
-# 带双向无线电和 GPS 的冲浪板= Vaporware–TechCrunch
+# 带双向无线电和 GPS 的冲浪板= Vaporware
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/surfboard-with-two-way-radio-and-gps-vaporware/>
 

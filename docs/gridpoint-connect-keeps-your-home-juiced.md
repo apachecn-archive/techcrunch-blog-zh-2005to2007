@@ -1,4 +1,4 @@
-# Gridpoint Connect 让您的家庭充满活力| TechCrunch
+# Gridpoint Connect 让您的家庭充满活力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/gridpoint-connect-keeps-your-home-juiced/>
 

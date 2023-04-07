@@ -1,4 +1,4 @@
-# 索尼定价第一方 PS3 发布游戏| TechCrunch
+# 索尼定价第一方 PS3 发布游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/10/sony-prices-first-party-ps3-launch-games/>
 

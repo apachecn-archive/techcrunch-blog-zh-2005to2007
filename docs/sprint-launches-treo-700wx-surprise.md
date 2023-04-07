@@ -1,4 +1,4 @@
-# Sprint 推出 Treo 700wx。惊喜！–TechCrunch
+# Sprint 推出 Treo 700wx。惊喜！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/03/sprint-launches-treo-700wx-surprise/>
 

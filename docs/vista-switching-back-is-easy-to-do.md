@@ -1,4 +1,4 @@
-# Vista:切换回来很容易——TechCrunch
+# Vista:切换回来很容易
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/vista-switching-back-is-easy-to-do/>
 

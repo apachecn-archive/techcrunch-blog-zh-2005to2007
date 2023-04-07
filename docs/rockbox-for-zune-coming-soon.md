@@ -1,4 +1,4 @@
-# Zune 的 Rockbox 即将推出——TechCrunch
+# Zune 的 Rockbox 即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/rockbox-for-zune-coming-soon/>
 

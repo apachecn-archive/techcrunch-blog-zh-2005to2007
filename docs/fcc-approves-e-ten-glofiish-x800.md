@@ -1,4 +1,4 @@
-# FCC 批准 E-Ten GLO fiish X800–TechCrunch
+# FCC 批准 E-Ten GLO fiish X800
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/fcc-approves-e-ten-glofiish-x800/>
 

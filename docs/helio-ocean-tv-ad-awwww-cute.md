@@ -1,4 +1,4 @@
-# Helio 海洋电视广告:Awwww…可爱！–TechCrunch
+# Helio 海洋电视广告:Awwww…可爱！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/helio-ocean-tv-ad-awwww-cute/>
 

@@ -1,4 +1,4 @@
-# 环球旅行极客的行李标签——TechCrunch
+# 环球旅行极客的行李标签
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/luggage-tags-for-the-globe-trotting-geek/>
 

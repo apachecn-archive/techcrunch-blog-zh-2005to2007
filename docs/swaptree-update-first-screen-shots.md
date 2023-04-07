@@ -1,4 +1,4 @@
-# 交换树更新，第一个屏幕截图——TechCrunch
+# 交换树更新，第一个屏幕截图
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/20/swaptree-update-first-screen-shots/>
 

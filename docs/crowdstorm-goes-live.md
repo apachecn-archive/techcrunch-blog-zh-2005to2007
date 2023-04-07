@@ -1,4 +1,4 @@
-# CrowdStorm 上线。TechCrunch
+# CrowdStorm 上线。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/13/crowdstorm-goes-live/>
 

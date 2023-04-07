@@ -1,4 +1,4 @@
-# MojoBaby Let's SOE Fan Faire 与会者分享经验| TechCrunch
+# MojoBaby Let's SOE Fan Faire 与会者分享经验
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/mojobaby-let%e2%80%99s-soe-fan-faire-attendees-share-the-experience/>
 

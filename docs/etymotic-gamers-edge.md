@@ -1,4 +1,4 @@
-# Etymotic 游戏玩家的 e . d . g . e——TechCrunch
+# Etymotic 游戏玩家的 e . d . g . e
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/27/etymotic-gamers-edge/>
 

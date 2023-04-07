@@ -1,4 +1,4 @@
-# 哥谭市 Helio 盛大开幕派对| TechCrunch
+# 哥谭市 Helio 盛大开幕派对
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/gotham-city-helio-grand-opening-party/>
 

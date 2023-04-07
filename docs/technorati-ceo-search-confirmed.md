@@ -1,4 +1,4 @@
-# Technorati 首席执行官搜索确认–TechCrunch
+# Technorati 首席执行官搜索确认
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/06/technorati-ceo-search-confirmed/>
 

@@ -1,4 +1,4 @@
-# 为隐士、变态者提供太阳能 GPS 接收器——TechCrunch
+# 为隐士、变态者提供太阳能 GPS 接收器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/28/solar-powered-gps-receiver-for-hermits-perverts/>
 

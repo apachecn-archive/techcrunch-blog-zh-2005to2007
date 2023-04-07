@@ -1,4 +1,4 @@
-# iSymphony:还有空间再放一个 iPod 基座吗？–TechCrunch
+# iSymphony:还有空间再放一个 iPod 基座吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/isymphony-is-there-room-for-one-more-ipod-dock/>
 

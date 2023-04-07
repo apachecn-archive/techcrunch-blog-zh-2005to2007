@@ -1,4 +1,4 @@
-# AwkwardTV 将第三方应用程序引入 Apple TV——TechCrunch
+# AwkwardTV 将第三方应用程序引入 Apple TV
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/19/awkwardtv-brings-3rd-party-apps-to-apple-tv/>
 

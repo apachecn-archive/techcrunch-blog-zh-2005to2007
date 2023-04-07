@@ -1,4 +1,4 @@
-# iAlbum 可以让你将照片直接从相机上传到 iPod | TechCrunch
+# iAlbum 可以让你将照片直接从相机上传到 iPod 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/ialbum-lets-you-bring-photos-directly-from-camera-to-ipod/>
 

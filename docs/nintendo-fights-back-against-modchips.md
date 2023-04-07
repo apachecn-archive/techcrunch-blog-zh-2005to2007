@@ -1,4 +1,4 @@
-# 任天堂反击 Modchips | TechCrunch
+# 任天堂反击 Modchips 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/nintendo-fights-back-against-modchips/>
 

@@ -1,4 +1,4 @@
-# 美国电话电报公司现在是审查队伍——TechCrunch
+# 美国电话电报公司现在是审查队伍
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/att-is-now-the-censorship-brigade/>
 

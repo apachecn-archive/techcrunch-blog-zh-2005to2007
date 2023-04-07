@@ -1,4 +1,4 @@
-# Infocase 始终在线 Macbook 手提袋| TechCrunch
+# Infocase 始终在线 Macbook 手提袋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/infocase-always-on-macbook-bag-hands-on/>
 

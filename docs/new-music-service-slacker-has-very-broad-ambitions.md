@@ -1,4 +1,4 @@
-# 新音乐服务懒鬼有(非常)广泛的野心 TechCrunch
+# 新音乐服务懒鬼有(非常)广泛的野心 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/14/new-music-service-slacker-has-very-broad-ambitions/>
 

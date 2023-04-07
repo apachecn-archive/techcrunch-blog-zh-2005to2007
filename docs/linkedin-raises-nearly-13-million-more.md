@@ -1,4 +1,4 @@
-# LinkedIn 再融资近 1300 万美元 TechCrunch
+# LinkedIn 再融资近 1300 万美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/28/linkedin-raises-nearly-13-million-more>
 

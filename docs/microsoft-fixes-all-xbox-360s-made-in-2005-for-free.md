@@ -1,4 +1,4 @@
-# 微软免费修复了 2005 年生产的所有 Xbox 360——TechCrunch
+# 微软免费修复了 2005 年生产的所有 Xbox 360
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/microsoft-fixes-all-xbox-360s-made-in-2005-for-free/>
 

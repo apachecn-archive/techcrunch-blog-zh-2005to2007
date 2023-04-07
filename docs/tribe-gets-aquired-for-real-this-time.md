@@ -1,4 +1,4 @@
-# 部落被收购，这次是真的了 TechCrunch
+# 部落被收购，这次是真的了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/02/tribe-gets-aquired-for-real-this-time/>
 

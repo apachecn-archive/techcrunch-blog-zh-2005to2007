@@ -1,4 +1,4 @@
-# Ultra 带来了快速、大而便宜的 SDHC 卡| TechCrunch
+# Ultra 带来了快速、大而便宜的 SDHC 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/ultra-brings-sdhc-cards-fast-large-and-cheap/>
 

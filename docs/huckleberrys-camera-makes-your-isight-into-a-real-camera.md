@@ -1,4 +1,4 @@
-# 哈克贝利的相机让你的 iSight 变成一个真正的相机——TechCrunch
+# 哈克贝利的相机让你的 iSight 变成一个真正的相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/huckleberrys-camera-makes-your-isight-into-a-real-camera/>
 

@@ -1,4 +1,4 @@
-# GoLive text 2 WAP–TechCrunch
+# GoLive text 2 WAP
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/golive-text2wap/>
 

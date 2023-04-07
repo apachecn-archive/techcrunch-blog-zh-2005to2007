@@ -1,4 +1,4 @@
-# 戴尔将 XPS 笔记本电脑升级到 Core 2 Duo | TechCrunch
+# 戴尔将 XPS 笔记本电脑升级到 Core 2 Duo 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/dell-upgrades-xps-laptops-to-core-2-duo/>
 

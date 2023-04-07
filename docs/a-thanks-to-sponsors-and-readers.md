@@ -1,4 +1,4 @@
-# 感谢我们的网络| TechCrunch
+# 感谢我们的网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/05/a-thanks-to-sponsors-and-readers/>
 

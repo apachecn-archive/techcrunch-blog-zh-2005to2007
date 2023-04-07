@@ -1,4 +1,4 @@
-# Alltel 上的 Pantech PN-218 紧凑型翻盖手机–TechCrunch
+# Alltel 上的 Pantech PN-218 紧凑型翻盖手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/18/pantech-pn-218-compact-flip-phone-on-alltel/>
 

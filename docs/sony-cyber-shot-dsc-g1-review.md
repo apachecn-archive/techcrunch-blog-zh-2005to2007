@@ -1,4 +1,4 @@
-# 索尼 Cyber-shot DSC-G1 评论| TechCrunch
+# 索尼 Cyber-shot DSC-G1 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/sony-cyber-shot-dsc-g1-review/>
 

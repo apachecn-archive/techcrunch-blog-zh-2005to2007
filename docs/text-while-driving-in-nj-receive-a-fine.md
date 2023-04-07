@@ -1,4 +1,4 @@
-# 在新泽西州开车时发短信，被罚款——TechCrunch
+# 在新泽西州开车时发短信，被罚款
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/text-while-driving-in-nj-receive-a-fine/>
 

@@ -1,4 +1,4 @@
-# 富士胶片 249 美元 10 倍光学变焦 S700 | TechCrunch
+# 富士胶片 249 美元 10 倍光学变焦 S700 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/fujifilms-10x-optical-zoom-s700/>
 

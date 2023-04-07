@@ -1,4 +1,4 @@
-# 艺电表示游戏需要创新，发布“游戏需要创新 2007”，即将推出“游戏需要创新 2008”| TechCrunch
+# 艺电表示游戏需要创新，发布“游戏需要创新 2007”，即将推出“游戏需要创新 2008”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/ea-says-games-need-to-innovate-releases-games-need-to-innovate-2007-soon-to-launch-games-need-to-innovate-2008/>
 

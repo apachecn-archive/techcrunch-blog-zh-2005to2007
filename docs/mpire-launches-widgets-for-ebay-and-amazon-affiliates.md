@@ -1,4 +1,4 @@
-# Mpire 为易贝和亚马逊子公司推出 Widgets TechCrunch
+# Mpire 为易贝和亚马逊子公司推出 Widgets 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/09/mpire-launches-widgets-for-ebay-and-amazon-affiliates/>
 

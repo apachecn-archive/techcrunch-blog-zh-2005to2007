@@ -1,4 +1,4 @@
-# GDC 2007 —主题演讲:索尼在| TechCrunch 上找到了自己的最佳状态
+# GDC 2007 —主题演讲:索尼在 上找到了自己的最佳状态
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/07/gdc-2007-the-keynote-sony-gets-its-groove-on/>
 

@@ -1,4 +1,4 @@
-# 不要为 Wii | TechCrunch 购买红钢
+# 不要为 Wii  购买红钢
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/dont-buy-red-steel-for-the-wii/>
 

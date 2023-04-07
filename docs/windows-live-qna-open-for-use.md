@@ -1,4 +1,4 @@
-# Windows Live QnA 开放使用 TechCrunch
+# Windows Live QnA 开放使用 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/29/windows-live-qna-open-for-use/>
 

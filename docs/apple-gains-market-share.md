@@ -1,4 +1,4 @@
-# 苹果获得市场份额——TechCrunch
+# 苹果获得市场份额
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/19/apple-gains-market-share/>
 

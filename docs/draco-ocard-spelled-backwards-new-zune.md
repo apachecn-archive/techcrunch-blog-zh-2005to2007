@@ -1,4 +1,4 @@
-# Draco:反过来拼的 Ocard，New Zune | TechCrunch
+# Draco:反过来拼的 Ocard，New Zune 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/draco-ocard-spelled-backwards-new-zune/>
 

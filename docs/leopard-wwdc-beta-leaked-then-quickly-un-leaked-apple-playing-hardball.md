@@ -1,4 +1,4 @@
-# 豹 WWDC 测试版泄漏，然后迅速解封:苹果玩硬的？TechCrunch
+# 豹 WWDC 测试版泄漏，然后迅速解封:苹果玩硬的？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/16/leopard-wwdc-beta-leaked-then-quickly-un-leaked-apple-playing-hardball/>
 

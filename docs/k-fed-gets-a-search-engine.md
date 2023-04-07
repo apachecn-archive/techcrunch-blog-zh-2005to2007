@@ -1,4 +1,4 @@
-# 美联储获得搜索引擎——TechCrunch
+# 美联储获得搜索引擎
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/22/k-fed-gets-a-search-engine/>
 

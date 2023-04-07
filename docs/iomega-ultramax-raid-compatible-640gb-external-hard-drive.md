@@ -1,4 +1,4 @@
-# Iomega UltraMax RAID 兼容 640GB 外部硬盘驱动器 TechCrunch
+# Iomega UltraMax RAID 兼容 640GB 外部硬盘驱动器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/iomega-ultramax-raid-compatible-640gb-external-hard-drive/>
 

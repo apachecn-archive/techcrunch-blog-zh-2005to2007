@@ -1,4 +1,4 @@
-# PhoneZoo:分享快速、免费的版权铃声——TechCrunch
+# PhoneZoo:分享快速、免费的版权铃声
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/16/phonezoo-make-and-share-free-ringtones/>
 

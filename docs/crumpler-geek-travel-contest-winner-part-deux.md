@@ -1,4 +1,4 @@
-# Crumpler 极客旅行大赛冠军 Part Deux | TechCrunch
+# Crumpler 极客旅行大赛冠军 Part Deux 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/22/crumpler-geek-travel-contest-winner-part-deux/>
 

@@ -1,4 +1,4 @@
-# 谷歌将地理网络添加到地球 TechCrunch
+# 谷歌将地理网络添加到地球 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/09/google-adds-the-geographic-web-to-earth/>
 

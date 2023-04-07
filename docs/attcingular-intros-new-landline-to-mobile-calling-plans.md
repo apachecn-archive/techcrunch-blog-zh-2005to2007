@@ -1,4 +1,4 @@
-# 美国电话电报公司/Cingular 推出新的座机到手机通话计划| TechCrunch
+# 美国电话电报公司/Cingular 推出新的座机到手机通话计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/attcingular-intros-new-landline-to-mobile-calling-plans/>
 

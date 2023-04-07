@@ -1,4 +1,4 @@
-# 欧洲 Digg 黑仔为€募集 400 万美元 TechCrunch
+# 欧洲 Digg 黑仔为€募集 400 万美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/23/europes-digg-killer-raises-e4-million/>
 

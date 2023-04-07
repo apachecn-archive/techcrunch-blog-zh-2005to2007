@@ -1,4 +1,4 @@
-# 30 天内的 Skype 视频–TechCrunch
+# 30 天内的 Skype 视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/18/skype-video-within-30-days/>
 

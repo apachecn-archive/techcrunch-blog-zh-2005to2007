@@ -1,4 +1,4 @@
-# 选项 USB GlobeSurfer 图标 HSUPA 调制解调器| TechCrunch
+# 选项 USB GlobeSurfer 图标 HSUPA 调制解调器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/02/option-usb-globesurfer-icon-hsupa-modem/>
 

@@ -1,4 +1,4 @@
-# Omniture 发布营销 2.0 分析工具——TechCrunch
+# Omniture 发布营销 2.0 分析工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/11/omniture-announces-marketing-20-analytics-tool>
 

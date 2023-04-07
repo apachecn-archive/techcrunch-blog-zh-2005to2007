@@ -1,4 +1,4 @@
-# 如果你抄袭 Digg，至少感谢他们 TechCrunch
+# 如果你抄袭 Digg，至少感谢他们 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/11/suggestion-if-you-copy-digg-at-least-thank-them>
 

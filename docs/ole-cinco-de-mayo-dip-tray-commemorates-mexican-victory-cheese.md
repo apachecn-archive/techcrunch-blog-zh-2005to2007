@@ -1,4 +1,4 @@
-# Ole！Cinco De Mayo 蘸酱托盘纪念墨西哥胜利，奶酪| TechCrunch
+# Ole！Cinco De Mayo 蘸酱托盘纪念墨西哥胜利，奶酪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/ole-cinco-de-mayo-dip-tray-commemorates-mexican-victory-cheese/>
 

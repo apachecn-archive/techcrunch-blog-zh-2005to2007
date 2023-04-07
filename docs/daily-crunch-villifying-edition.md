@@ -1,4 +1,4 @@
-# 每日快讯:趣味版| TechCrunch
+# 每日快讯:趣味版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/16/daily-crunch-villifying-edition/>
 

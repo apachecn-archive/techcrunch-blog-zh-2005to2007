@@ -1,4 +1,4 @@
-# 书呆子欢欣鼓舞:DC 漫画想要你——TechCrunch
+# 书呆子欢欣鼓舞:DC 漫画想要你
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/10/nerds-rejoice-dc-comics-wants-you/>
 

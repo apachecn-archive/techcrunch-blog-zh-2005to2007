@@ -1,4 +1,4 @@
-# golla——来自芬兰的廉价时尚包包——TechCrunch
+# golla——来自芬兰的廉价时尚包包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/10/golla-inexpensive-fashionable-bags-from-finland/>
 

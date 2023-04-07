@@ -1,4 +1,4 @@
-# 带四端口 USB 集线器的呼唤发光鼠标垫–TechCrunch
+# 带四端口 USB 集线器的呼唤发光鼠标垫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/lindy-illuminated-mouse-pad-with-four-port-usb-hub/>
 

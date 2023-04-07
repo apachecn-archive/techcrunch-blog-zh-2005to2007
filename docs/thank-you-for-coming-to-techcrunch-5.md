@@ -1,4 +1,4 @@
-# 感谢您来到 TechCrunch 5 TechCrunch
+# 感谢您来到 TechCrunch 5 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/18/thank-you-for-coming-to-techcrunch-5/>
 

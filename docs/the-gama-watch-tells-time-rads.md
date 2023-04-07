@@ -1,4 +1,4 @@
-# Gama 手表显示时间，RADs–TechCrunch
+# Gama 手表显示时间，RADs
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/18/the-gama-watch-tells-time-rads/>
 

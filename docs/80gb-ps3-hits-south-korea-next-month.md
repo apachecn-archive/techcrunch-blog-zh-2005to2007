@@ -1,4 +1,4 @@
-# 80GB PS3 下月登陆韩国——TechCrunch
+# 80GB PS3 下月登陆韩国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/80gb-ps3-hits-south-korea-next-month/>
 

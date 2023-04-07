@@ -1,4 +1,4 @@
-# 如果你想和微软合作…看这里。–TechCrunch
+# 如果你想和微软合作…看这里。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/if-you-want-to-partner-with-microsoft-look-here/>
 

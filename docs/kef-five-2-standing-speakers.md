@@ -1,4 +1,4 @@
-# KEF 5-2 立式扬声器–TechCrunch
+# KEF 5-2 立式扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/kef-five-2-standing-speakers/>
 

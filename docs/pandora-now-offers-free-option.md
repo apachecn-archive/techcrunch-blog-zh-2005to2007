@@ -1,4 +1,4 @@
-# Pandora 现已免费 TechCrunch
+# Pandora 现已免费 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/10/pandora-now-offers-free-option/>
 

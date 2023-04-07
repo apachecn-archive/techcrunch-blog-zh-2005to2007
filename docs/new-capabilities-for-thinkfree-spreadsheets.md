@@ -1,4 +1,4 @@
-# Thinkfree 电子表格的新功能–TechCrunch
+# Thinkfree 电子表格的新功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/04/new-capabilities-for-thinkfree-spreadsheets/>
 

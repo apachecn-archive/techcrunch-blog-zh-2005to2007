@@ -1,4 +1,4 @@
-# iPhone 之旅:我放弃| TechCrunch
+# iPhone 之旅:我放弃
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/22/the-iphone-tour-i-give-up/>
 

@@ -1,4 +1,4 @@
-# 50 人受邀参加 ThinkFree Premium Beta 测试| TechCrunch
+# 50 人受邀参加 ThinkFree Premium Beta 测试
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/50-free-invites-to-the-thinkfree-premium-beta-test/>
 

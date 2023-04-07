@@ -1,4 +1,4 @@
-# Ghostlight Ltd 宣布 WWI FPS–TechCrunch
+# Ghostlight Ltd 宣布 WWI FPS
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/06/ghostlight-ltd-announces-wwi-fps/>
 

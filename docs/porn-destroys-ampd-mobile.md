@@ -1,4 +1,4 @@
-# 色情摧毁手机——TechCrunch
+# 色情摧毁手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/31/porn-destroys-ampd-mobile/>
 

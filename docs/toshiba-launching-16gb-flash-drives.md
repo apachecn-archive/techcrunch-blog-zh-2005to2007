@@ -1,4 +1,4 @@
-# 东芝推出 16GB 闪存驱动器| TechCrunch
+# 东芝推出 16GB 闪存驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/toshiba-launching-16gb-flash-drives/>
 

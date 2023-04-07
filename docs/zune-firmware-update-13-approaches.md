@@ -1,4 +1,4 @@
-# Zune 固件更新 1.3 临近| TechCrunch
+# Zune 固件更新 1.3 临近
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/zune-firmware-update-13-approaches/>
 

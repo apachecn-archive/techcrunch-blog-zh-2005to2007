@@ -1,4 +1,4 @@
-# 发布剖析:Riya 详细解说 TechCrunch
+# 发布剖析:Riya 详细解说 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/30/anatomy-of-a-launch-the-riya-play-by-play/>
 

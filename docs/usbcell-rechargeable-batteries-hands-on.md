@@ -1,4 +1,4 @@
-# USBCell 充电电池实践–TechCrunch
+# USBCell 充电电池实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/usbcell-rechargeable-batteries-hands-on/>
 

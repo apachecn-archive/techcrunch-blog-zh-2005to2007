@@ -1,4 +1,4 @@
-# iPhone 经受了考验——TechCrunch
+# iPhone 经受了考验
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/30/iphone-gets-put-through-the-wringer/>
 

@@ -1,4 +1,4 @@
-# 你口袋里是星球大战游戏吗？–TechCrunch
+# 你口袋里是星球大战游戏吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/11/is-that-a-star-wars-game-in-your-pocket/>
 

@@ -1,4 +1,4 @@
-# 在线照片编辑概述 TechCrunch
+# 在线照片编辑概述 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/04/online-photo-editing-overview/>
 

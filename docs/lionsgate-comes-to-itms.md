@@ -1,4 +1,4 @@
-# 狮门影业来到 iTMS | TechCrunch
+# 狮门影业来到 iTMS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/lionsgate-comes-to-itms/>
 

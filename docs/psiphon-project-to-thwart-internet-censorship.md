@@ -1,4 +1,4 @@
-# 挫败互联网审查的 Psiphon 项目——TechCrunch
+# 挫败互联网审查的 Psiphon 项目
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/psiphon-project-to-thwart-internet-censorship/>
 

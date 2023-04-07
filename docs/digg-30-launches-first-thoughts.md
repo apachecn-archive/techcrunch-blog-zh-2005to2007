@@ -1,4 +1,4 @@
-# Digg 3.0 发布，第一想法——TechCrunch
+# Digg 3.0 发布，第一想法
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/26/digg-30-launches-first-thoughts/>
 

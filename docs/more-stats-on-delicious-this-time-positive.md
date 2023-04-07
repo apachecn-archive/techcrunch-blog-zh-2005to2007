@@ -1,4 +1,4 @@
-# 更多关于 Del.icio.us 的数据，这次是正面的——TechCrunch
+# 更多关于 Del.icio.us 的数据，这次是正面的
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/04/more-stats-on-delicious-this-time-positive/>
 

@@ -1,4 +1,4 @@
-# 雅虎阿尔法搜索推出令人困惑的测试版——TechCrunch
+# 雅虎阿尔法搜索推出令人困惑的测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/04/yahoo-alpha-search-launches-confusing-beta/>
 

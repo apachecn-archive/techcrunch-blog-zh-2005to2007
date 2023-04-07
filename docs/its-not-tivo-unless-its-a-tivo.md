@@ -1,4 +1,4 @@
-# 它不是 TiVo，除非它是 TiVo——TechCrunch
+# 它不是 TiVo，除非它是 TiVo
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/its-not-tivo-unless-its-a-tivo/>
 

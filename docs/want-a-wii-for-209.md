@@ -1,4 +1,4 @@
-# 想要 209 美元的 Wii 吗？TechCrunch
+# 想要 209 美元的 Wii 吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/want-a-wii-for-209/>
 

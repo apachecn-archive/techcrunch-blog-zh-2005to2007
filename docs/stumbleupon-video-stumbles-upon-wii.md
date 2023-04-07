@@ -1,4 +1,4 @@
-# 视频偶然发现 Wii | TechCrunch
+# 视频偶然发现 Wii 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/13/stumbleupon-video-stumbles-upon-wii/>
 

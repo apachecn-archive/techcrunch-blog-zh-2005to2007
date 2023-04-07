@@ -1,4 +1,4 @@
-# iPhone 上的视频会议现已可用(类似于)| TechCrunch
+# iPhone 上的视频会议现已可用(类似于)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/video-conferencing-now-available-on-the-iphone-sorta/>
 

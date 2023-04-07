@@ -1,4 +1,4 @@
-# TechSelector:选择你的技术——TechCrunch
+# TechSelector:选择你的技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/techselector-select-your-tech/>
 

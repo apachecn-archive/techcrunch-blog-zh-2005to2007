@@ -1,4 +1,4 @@
-# 迪士尼推出唐老鸭内容| TechCrunch
+# 迪士尼推出唐老鸭内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/disney-launches-donald-duck-content/>
 

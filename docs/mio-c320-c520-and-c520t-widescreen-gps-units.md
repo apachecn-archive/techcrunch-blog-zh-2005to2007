@@ -1,4 +1,4 @@
-# Mio C320、C520 和 C520T 宽屏 GPS 设备–TechCrunch
+# Mio C320、C520 和 C520T 宽屏 GPS 设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/16/mio-c320-c520-and-c520t-widescreen-gps-units/>
 

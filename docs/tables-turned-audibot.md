@@ -1,4 +1,4 @@
-# 桌子变成了听觉机器人——TechCrunch
+# 桌子变成了听觉机器人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/tables-turned-audibot/>
 

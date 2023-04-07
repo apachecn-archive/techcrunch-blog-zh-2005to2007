@@ -1,4 +1,4 @@
-# 富士通 Santa Rosa 笔记本电脑即将推出| TechCrunch
+# 富士通 Santa Rosa 笔记本电脑即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/05/fujitsu-santa-rosa-laptops-coming-soon/>
 

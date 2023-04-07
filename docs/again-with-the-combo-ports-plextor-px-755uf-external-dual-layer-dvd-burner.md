@@ -1,4 +1,4 @@
-# 再次与组合端口:Plextor PX-755UF 外部双层 DVD 刻录机 TechCrunch
+# 再次与组合端口:Plextor PX-755UF 外部双层 DVD 刻录机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/again-with-the-combo-ports-plextor-px-755uf-external-dual-layer-dvd-burner/>
 

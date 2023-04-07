@@ -1,4 +1,4 @@
-# 福克斯互动收购广告优化公司 TechCrunch
+# 福克斯互动收购广告优化公司 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/22/fox-interactive-acquires-ad-optimization-company/>
 

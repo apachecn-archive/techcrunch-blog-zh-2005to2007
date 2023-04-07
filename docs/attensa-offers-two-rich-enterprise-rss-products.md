@@ -1,4 +1,4 @@
-# Attensa 提供两款丰富的企业 RSS 产品 TechCrunch
+# Attensa 提供两款丰富的企业 RSS 产品 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/05/attensa-offers-two-rich-enterprise-rss-products/>
 

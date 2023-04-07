@@ -1,4 +1,4 @@
-# 现在还为时尚早，但 Scribd 看起来像是赢家 TechCrunch
+# 现在还为时尚早，但 Scribd 看起来像是赢家 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/25/scribd-growing-like-youtube/>
 

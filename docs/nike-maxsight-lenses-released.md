@@ -1,4 +1,4 @@
-# 耐克 MaxSight 镜片发布| TechCrunch
+# 耐克 MaxSight 镜片发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/nike-maxsight-lenses-released/>
 

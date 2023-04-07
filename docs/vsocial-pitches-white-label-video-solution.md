@@ -1,4 +1,4 @@
-# VSocial 推介白标视频解决方案| TechCrunch
+# VSocial 推介白标视频解决方案
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/27/vsocial-pitches-white-label-video-solution>
 

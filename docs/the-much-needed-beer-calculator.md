@@ -1,4 +1,4 @@
-# 急需的啤酒计算器 TechCrunch
+# 急需的啤酒计算器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/06/the-much-needed-beer-calculator/>
 

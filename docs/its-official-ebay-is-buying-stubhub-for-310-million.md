@@ -1,4 +1,4 @@
-# 官方消息——易贝以 3.1 亿美元收购 StubHub——TechCrunch
+# 官方消息——易贝以 3.1 亿美元收购 StubHub
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/10/its-official-ebay-is-buying-stubhub-for-310-million>
 

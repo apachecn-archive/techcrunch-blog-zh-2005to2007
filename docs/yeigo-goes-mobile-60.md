@@ -1,4 +1,4 @@
-# Yeigo 走向移动 6.0 | TechCrunch
+# Yeigo 走向移动 6.0 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/yeigo-goes-mobile-60/>
 

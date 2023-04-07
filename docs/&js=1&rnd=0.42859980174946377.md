@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/04/04/forget-youtube-go-to-these-sites-if-you-want-hard-core-copyright-infringing-content/&js=1&rnd=0.42859980174946377>
 

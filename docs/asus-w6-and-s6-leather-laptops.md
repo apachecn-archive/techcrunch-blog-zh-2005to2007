@@ -1,4 +1,4 @@
-# 华硕 W6 和 S6 皮革笔记本电脑| TechCrunch
+# 华硕 W6 和 S6 皮革笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/asus-w6-and-s6-leather-laptops/>
 

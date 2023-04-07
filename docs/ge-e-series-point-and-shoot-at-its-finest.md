@@ -1,4 +1,4 @@
-# 通用电气 E 系列:最佳状态下的傻瓜相机| TechCrunch
+# 通用电气 E 系列:最佳状态下的傻瓜相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/ge-e-series-point-and-shoot-at-its-finest/>
 

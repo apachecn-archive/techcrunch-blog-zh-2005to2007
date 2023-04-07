@@ -1,4 +1,4 @@
-# 在 PalmOS 上注册 Sling——TechCrunch
+# 在 PalmOS 上注册 Sling
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/sign-up-for-sling-on-palmos/>
 

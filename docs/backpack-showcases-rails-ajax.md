@@ -1,4 +1,4 @@
-# 背包简介–TechCrunch
+# 背包简介
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/12/backpack-showcases-rails-ajax/>
 

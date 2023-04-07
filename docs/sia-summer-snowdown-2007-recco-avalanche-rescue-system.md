@@ -1,4 +1,4 @@
-# SIA 夏日斯诺登 2007: RECCO，雪崩救援系统| TechCrunch
+# SIA 夏日斯诺登 2007: RECCO，雪崩救援系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/11/sia-summer-snowdown-2007-recco-avalanche-rescue-system/>
 

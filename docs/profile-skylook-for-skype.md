@@ -1,4 +1,4 @@
-# 个人资料–sky look(适用于 Skype)–TechCrunch
+# 个人资料–sky look(适用于 Skype)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/20/profile-skylook-for-skype/>
 

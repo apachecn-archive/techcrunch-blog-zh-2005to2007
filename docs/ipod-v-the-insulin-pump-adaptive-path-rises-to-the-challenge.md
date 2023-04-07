@@ -1,4 +1,4 @@
-# iPod v .胰岛素泵:适应路径迎接挑战 TechCrunch
+# iPod v .胰岛素泵:适应路径迎接挑战 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/14/ipod-v-the-insulin-pump-adaptive-path-rises-to-the-challenge/>
 

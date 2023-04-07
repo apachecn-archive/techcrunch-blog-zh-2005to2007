@@ -1,4 +1,4 @@
-# 克里特爆米花机。是的，我们去过那里。TechCrunch
+# 克里特爆米花机。是的，我们去过那里。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/cretors-popcorn-makers-yup-weve-gone-there/>
 

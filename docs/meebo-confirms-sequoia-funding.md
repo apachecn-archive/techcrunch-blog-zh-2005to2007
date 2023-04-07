@@ -1,4 +1,4 @@
-# Meebo 证实红杉投资 TechCrunch
+# Meebo 证实红杉投资 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/16/meebo-confirms-sequoia-funding/>
 

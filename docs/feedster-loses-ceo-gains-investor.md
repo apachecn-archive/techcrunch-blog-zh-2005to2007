@@ -1,4 +1,4 @@
-# Feedster 失去首席执行官，赢得投资者 TechCrunch
+# Feedster 失去首席执行官，赢得投资者 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/07/feedster-loses-ceo-gains-investor/>
 

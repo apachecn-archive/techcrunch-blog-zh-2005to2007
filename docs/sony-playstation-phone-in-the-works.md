@@ -1,4 +1,4 @@
-# 索尼 PlayStation 手机正在研发中？TechCrunch
+# 索尼 PlayStation 手机正在研发中？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/sony-playstation-phone-in-the-works/>
 

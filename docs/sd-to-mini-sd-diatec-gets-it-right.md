@@ -1,4 +1,4 @@
-# 标清到迷你标清，Diatec 搞定| TechCrunch
+# 标清到迷你标清，Diatec 搞定
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/sd-to-mini-sd-diatec-gets-it-right/>
 

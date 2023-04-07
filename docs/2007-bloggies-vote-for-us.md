@@ -1,4 +1,4 @@
-# 2007 Bloggies:为我们投票！–TechCrunch
+# 2007 Bloggies:为我们投票！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/2007-bloggies-vote-for-us/>
 

@@ -1,4 +1,4 @@
-# 谷歌日历上线了——TechCrunch
+# 谷歌日历上线了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/12/google-calendar-is-live/>
 

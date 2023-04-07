@@ -1,4 +1,4 @@
-# 明基 DC C1000 1000 万像素傻瓜相机| TechCrunch
+# 明基 DC C1000 1000 万像素傻瓜相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/benq-dc-c1000-10-megapixel-point-and-shoot/>
 

@@ -1,4 +1,4 @@
-# WoW Inflitrates 南方公园| TechCrunch
+# WoW Inflitrates 南方公园
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/wow-inflitrates-south-park/>
 

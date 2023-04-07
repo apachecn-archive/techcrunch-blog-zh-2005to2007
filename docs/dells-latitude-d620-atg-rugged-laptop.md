@@ -1,4 +1,4 @@
-# 戴尔 Latitude D620 ATG 加固型笔记本电脑| TechCrunch
+# 戴尔 Latitude D620 ATG 加固型笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/dells-latitude-d620-atg-rugged-laptop/>
 

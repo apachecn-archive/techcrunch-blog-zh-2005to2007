@@ -1,4 +1,4 @@
-# 三星将在 CES | TechCrunch 发布 Ultra Video
+# 三星将在 CES  发布 Ultra Video
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/04/samsung-to-release-ultra-video-at-ces/>
 

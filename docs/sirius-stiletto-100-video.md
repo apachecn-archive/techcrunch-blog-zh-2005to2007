@@ -1,4 +1,4 @@
-# 天狼星高跟鞋 100 视频| TechCrunch
+# 天狼星高跟鞋 100 视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/sirius-stiletto-100-video/>
 

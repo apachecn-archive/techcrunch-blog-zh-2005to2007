@@ -1,4 +1,4 @@
-# 微软 2.0 来了:在线拥抱轻量级开源应用 TechCrunch
+# 微软 2.0 来了:在线拥抱轻量级开源应用 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/10/31/here-comes-microsoft-20-embracing-lighweight-open-source-apps-online/>
 

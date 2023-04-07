@@ -1,4 +1,4 @@
-# 根。Net 的“领先”市场——TechCrunch
+# 根。Net 的“领先”市场
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/25/rootnets-lead-market/>
 

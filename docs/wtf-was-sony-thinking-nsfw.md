@@ -1,4 +1,4 @@
-# 索尼到底在想什么？！NSFW——TechCrunch
+# 索尼到底在想什么？！NSFW
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/wtf-was-sony-thinking-nsfw/>
 

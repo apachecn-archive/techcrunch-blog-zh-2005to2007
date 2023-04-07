@@ -1,4 +1,4 @@
-# 光晕 2 Windows Vista 版将于 5 月 22 日“发售”——TechCrunch
+# 光晕 2 Windows Vista 版将于 5 月 22 日“发售”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/halo-2-windows-vista-edition-drops-on-may-22/>
 

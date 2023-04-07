@@ -1,4 +1,4 @@
-# 脸书的“虫子”不完全是。–TechCrunch
+# 脸书的“虫子”不完全是。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/22/the-facebook-bug-not-really/>
 

@@ -1,4 +1,4 @@
-# KDDI au 三重 LCD 概念手机让你说 Wha？！TechCrunch
+# KDDI au 三重 LCD 概念手机让你说 Wha？！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/kddi-au-triple-lcd-concept-phone-makes-you-say-wha/>
 

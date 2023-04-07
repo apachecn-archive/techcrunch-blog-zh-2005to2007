@@ -1,4 +1,4 @@
-# Palm 将于周四在 Digital Life | TechCrunch 上发布新 Treo
+# Palm 将于周四在 Digital Life  上发布新 Treo
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/palm-to-announce-new-treo-thursday-at-digital-life/>
 

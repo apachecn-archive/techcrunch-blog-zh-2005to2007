@@ -1,4 +1,4 @@
-# Bebo 拒绝 5.5 亿美元的收购要约 TechCrunch
+# Bebo 拒绝 5.5 亿美元的收购要约 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/10/bebo-shuns-550-million-acquisition-offer/>
 

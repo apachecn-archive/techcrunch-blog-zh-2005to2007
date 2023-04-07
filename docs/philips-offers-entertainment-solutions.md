@@ -1,4 +1,4 @@
-# 飞利浦提供娱乐解决方案| TechCrunch
+# 飞利浦提供娱乐解决方案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/26/philips-offers-entertainment-solutions/>
 

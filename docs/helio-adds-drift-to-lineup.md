@@ -1,4 +1,4 @@
-# Helio 增加了漂移阵容| TechCrunch
+# Helio 增加了漂移阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/helio-adds-drift-to-lineup/>
 

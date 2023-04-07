@@ -1,4 +1,4 @@
-# Suunto t3:它拥有一切 TechCrunch
+# Suunto t3:它拥有一切 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/20/suunto-t3-its-got-it-all/>
 

@@ -1,4 +1,4 @@
-# 夏普发布首款蓝光播放器——TechCrunch
+# 夏普发布首款蓝光播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/sharp-announces-first-blu-ray-player/>
 

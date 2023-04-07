@@ -1,4 +1,4 @@
-# Crunchgasm 余波:内务管理–TechCrunch
+# Crunchgasm 余波:内务管理
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/crunchgasm-aftermath-housekeeping/>
 

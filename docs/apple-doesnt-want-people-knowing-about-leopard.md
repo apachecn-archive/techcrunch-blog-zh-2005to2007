@@ -1,4 +1,4 @@
-# 苹果不想让人们知道 Leopard | TechCrunch
+# 苹果不想让人们知道 Leopard 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/apple-doesnt-want-people-knowing-about-leopard/>
 

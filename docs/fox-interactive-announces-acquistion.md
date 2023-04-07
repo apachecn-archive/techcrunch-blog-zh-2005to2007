@@ -1,4 +1,4 @@
-# 福克斯宣布收购；独家视频 TechCrunch
+# 福克斯宣布收购；独家视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/02/fox-interactive-announces-acquistion/>
 

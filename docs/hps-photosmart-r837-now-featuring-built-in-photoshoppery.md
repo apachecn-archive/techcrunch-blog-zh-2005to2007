@@ -1,4 +1,4 @@
-# 惠普的 Photosmart R837:现在内置了 Photoshoppery | TechCrunch
+# 惠普的 Photosmart R837:现在内置了 Photoshoppery 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/hps-photosmart-r837-now-featuring-built-in-photoshoppery/>
 

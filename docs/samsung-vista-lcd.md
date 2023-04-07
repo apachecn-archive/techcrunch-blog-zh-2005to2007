@@ -1,4 +1,4 @@
-# 三星 Vista LCD | TechCrunch
+# 三星 Vista LCD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/samsung-vista-lcd/>
 

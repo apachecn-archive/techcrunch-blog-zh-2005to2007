@@ -1,4 +1,4 @@
-# 索尼为烧了你的裤子道歉，自责| TechCrunch
+# 索尼为烧了你的裤子道歉，自责
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/sony-apologizes-for-burning-your-pants-blames-self/>
 

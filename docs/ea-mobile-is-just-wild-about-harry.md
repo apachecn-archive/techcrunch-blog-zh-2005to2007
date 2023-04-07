@@ -1,4 +1,4 @@
-# EA Mobile 非常喜欢哈利| TechCrunch
+# EA Mobile 非常喜欢哈利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/05/ea-mobile-is-just-wild-about-harry/>
 

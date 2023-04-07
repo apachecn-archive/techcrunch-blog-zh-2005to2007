@@ -1,4 +1,4 @@
-# 一位编辑的观点:你的 iPhone“应用程序”糟透了——TechCrunch
+# 一位编辑的观点:你的 iPhone“应用程序”糟透了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/12/one-editors-opinion-your-iphone-app-sucks/>
 

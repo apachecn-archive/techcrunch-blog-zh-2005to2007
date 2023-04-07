@@ -1,4 +1,4 @@
-# 2007 年 Skype 大赛:结束| TechCrunch
+# 2007 年 Skype 大赛:结束
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/the-great-skype-contest-of-2007-the-end/>
 

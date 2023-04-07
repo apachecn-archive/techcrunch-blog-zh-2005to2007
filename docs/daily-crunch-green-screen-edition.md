@@ -1,4 +1,4 @@
-# 每日危机:绿屏版| TechCrunch
+# 每日危机:绿屏版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/daily-crunch-green-screen-edition/>
 

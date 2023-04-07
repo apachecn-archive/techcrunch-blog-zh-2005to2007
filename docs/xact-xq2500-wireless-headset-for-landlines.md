@@ -1,4 +1,4 @@
-# XACT XQ2500 无线座机耳机| TechCrunch
+# XACT XQ2500 无线座机耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/xact-xq2500-wireless-headset-for-landlines/>
 

@@ -1,4 +1,4 @@
-# AllPeers 来了；独家截图 TechCrunch
+# AllPeers 来了；独家截图 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/16/allpeers-is-coming-exclusive-screenshots/>
 

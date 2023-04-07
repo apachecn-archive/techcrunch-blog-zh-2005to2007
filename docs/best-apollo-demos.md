@@ -1,4 +1,4 @@
-# 最佳阿波罗演示 TechCrunch
+# 最佳阿波罗演示 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/28/best-apollo-demos/>
 

@@ -1,4 +1,4 @@
-# 土耳其说“不再有 YouTube”——TechCrunch
+# 土耳其说“不再有 YouTube”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/07/turkey-says-no-more-youtube/>
 

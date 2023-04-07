@@ -1,4 +1,4 @@
-# 每日危机:抓获！机器人版| TechCrunch
+# 每日危机:抓获！机器人版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/daily-crunch-captured-by-robots-edition/>
 

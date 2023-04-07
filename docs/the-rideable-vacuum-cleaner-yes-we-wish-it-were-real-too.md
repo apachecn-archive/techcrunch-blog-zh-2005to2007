@@ -1,4 +1,4 @@
-# 可骑乘的吸尘器:是的，我们也希望它是真的——TechCrunch
+# 可骑乘的吸尘器:是的，我们也希望它是真的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/the-rideable-vacuum-cleaner-yes-we-wish-it-were-real-too/>
 

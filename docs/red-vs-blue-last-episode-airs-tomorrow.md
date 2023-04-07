@@ -1,4 +1,4 @@
-# 《红蓝大战》最后一集将于明天播出——TechCrunch
+# 《红蓝大战》最后一集将于明天播出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/26/red-vs-blue-last-episode-airs-tomorrow/>
 

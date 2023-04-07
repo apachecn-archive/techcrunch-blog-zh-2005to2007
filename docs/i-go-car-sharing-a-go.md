@@ -1,4 +1,4 @@
-# 共享 GO 的 I-GO 汽车| TechCrunch
+# 共享 GO 的 I-GO 汽车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/i-go-car-sharing-a-go/>
 

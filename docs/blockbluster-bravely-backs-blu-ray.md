@@ -1,4 +1,4 @@
-# Blockbluster 勇敢支持蓝光——TechCrunch
+# Blockbluster 勇敢支持蓝光
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/blockbluster-bravely-backs-blu-ray/>
 

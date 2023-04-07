@@ -1,4 +1,4 @@
-# 维珍移动关闭移动电视| TechCrunch
+# 维珍移动关闭移动电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/virgin-mobile-switches-off-mobile-tv/>
 

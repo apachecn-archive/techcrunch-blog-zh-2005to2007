@@ -1,4 +1,4 @@
-# 制作你自己的 iPhone(实际上没有功能)——TechCrunch
+# 制作你自己的 iPhone(实际上没有功能)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/27/make-your-own-iphone-does-not-actually-function/>
 

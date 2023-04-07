@@ -1,4 +1,4 @@
-# W531 双级手机成功冲刺| TechCrunch
+# W531 双级手机成功冲刺
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/w531-dual-class-phone-makes-its-way-to-sprint/>
 

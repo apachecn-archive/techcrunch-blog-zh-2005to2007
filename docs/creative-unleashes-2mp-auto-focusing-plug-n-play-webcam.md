@@ -1,4 +1,4 @@
-# 创意释放 200 万像素自动对焦、即插即用网络摄像头| TechCrunch
+# 创意释放 200 万像素自动对焦、即插即用网络摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/22/creative-unleashes-2mp-auto-focusing-plug-n-play-webcam/>
 

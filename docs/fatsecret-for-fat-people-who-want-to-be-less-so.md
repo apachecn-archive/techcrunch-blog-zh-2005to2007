@@ -1,4 +1,4 @@
-# Fatsecret:针对想变瘦的胖子——TechCrunch
+# Fatsecret:针对想变瘦的胖子
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/04/29/fatsecret-for-fat-people-who-want-to-be-less-so/>
 

@@ -1,4 +1,4 @@
-# Stick 单线电话路由器| TechCrunch
+# Stick 单线电话路由器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/stick-1-line-phone-router/>
 

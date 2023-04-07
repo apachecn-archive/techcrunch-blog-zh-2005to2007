@@ -1,4 +1,4 @@
-# MySpace 微妙地转向强调视频——TechCrunch
+# MySpace 微妙地转向强调视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/myspace-makes-subtle-shifts-to-emphasize-video/>
 

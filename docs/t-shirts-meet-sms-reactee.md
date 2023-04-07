@@ -1,4 +1,4 @@
-# t 恤遇到短信:Reactee–TechCrunch
+# t 恤遇到短信:Reactee
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/03/t-shirts-meet-sms-reactee/>
 

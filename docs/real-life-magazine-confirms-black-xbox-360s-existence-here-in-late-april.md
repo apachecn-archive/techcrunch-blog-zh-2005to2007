@@ -1,4 +1,4 @@
-# 真实生活杂志证实了黑色 Xbox 360 的存在，这里是 4 月下旬——TechCrunch
+# 真实生活杂志证实了黑色 Xbox 360 的存在，这里是 4 月下旬
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/real-life-magazine-confirms-black-xbox-360s-existence-here-in-late-april/>
 

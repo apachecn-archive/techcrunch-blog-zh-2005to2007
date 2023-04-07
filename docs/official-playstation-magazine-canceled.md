@@ -1,4 +1,4 @@
-# 官方 PlayStation 杂志取消——TechCrunch
+# 官方 PlayStation 杂志取消
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/official-playstation-magazine-canceled/>
 

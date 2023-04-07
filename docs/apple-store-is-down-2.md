@@ -1,4 +1,4 @@
-# 苹果商店关闭——TechCrunch
+# 苹果商店关闭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/apple-store-is-down-2/>
 

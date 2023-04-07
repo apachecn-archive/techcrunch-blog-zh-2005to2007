@@ -1,4 +1,4 @@
-# 即将推出:微软厨房 TechCrunch
+# 即将推出:微软厨房 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/06/coming-soon-microsoft-kitchen>
 

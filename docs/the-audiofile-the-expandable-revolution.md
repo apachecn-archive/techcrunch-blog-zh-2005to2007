@@ -1,4 +1,4 @@
-# 音频文件:可扩展的革命——TechCrunch
+# 音频文件:可扩展的革命
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/the-audiofile-the-expandable-revolution/>
 

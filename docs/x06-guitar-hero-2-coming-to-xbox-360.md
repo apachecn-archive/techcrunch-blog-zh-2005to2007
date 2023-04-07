@@ -1,4 +1,4 @@
-# X06:吉他英雄 2 即将登陆 Xbox 360——TechCrunch
+# X06:吉他英雄 2 即将登陆 Xbox 360
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/x06-guitar-hero-2-coming-to-xbox-360/>
 

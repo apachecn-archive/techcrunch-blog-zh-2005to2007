@@ -1,4 +1,4 @@
-# 全球 30 亿手机用户:这是一大笔 iphone——TechCrunch
+# 全球 30 亿手机用户:这是一大笔 iphone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/3-billion-mobile-subscriptions-worldwide-thats-a-lot-of-iphones/>
 

@@ -1,4 +1,4 @@
-# Windows Live Messenger 速度超过测试版 TechCrunch
+# Windows Live Messenger 速度超过测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/19/windows-live-messenger-speeds-out-of-beta/>
 

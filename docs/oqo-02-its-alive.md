@@ -1,4 +1,4 @@
-# OQO 02:它还活着| TechCrunch
+# OQO 02:它还活着
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/08/oqo-02-its-alive/>
 

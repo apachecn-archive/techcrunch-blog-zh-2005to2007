@@ -1,4 +1,4 @@
-# 洗衣机，不需要洗涤剂——TechCrunch
+# 洗衣机，不需要洗涤剂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/01/washing-machine-no-detergent-necessary/>
 

@@ -1,4 +1,4 @@
-# 专利猴:诺基亚>苹果在 LT | TechCrunch
+# 专利猴:诺基亚>苹果在 LT 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/patentmonkey-nokia-apple-in-the-lt/>
 

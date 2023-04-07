@@ -1,4 +1,4 @@
-# TellMe 推出黑仔移动产品——TechCrunch
+# TellMe 推出黑仔移动产品
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/23/tellme-mobile-launches/>
 

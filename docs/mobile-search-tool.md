@@ -1,4 +1,4 @@
-# 移动搜索工具| TechCrunch
+# 移动搜索工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/mobile-search-tool/>
 

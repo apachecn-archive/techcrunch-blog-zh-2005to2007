@@ -1,4 +1,4 @@
-# iPhone 遇到麻烦的迹象——TechCrunch
+# iPhone 遇到麻烦的迹象
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/07/signs-of-trouble-for-the-iphone/>
 

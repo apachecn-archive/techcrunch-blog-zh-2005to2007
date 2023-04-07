@@ -1,4 +1,4 @@
-# 六度挤压:结论| TechCrunch
+# 六度挤压:结论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/six-degrees-of-crunchiation-the-verdict/>
 

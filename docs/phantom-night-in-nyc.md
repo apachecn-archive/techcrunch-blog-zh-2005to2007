@@ -1,4 +1,4 @@
-# 纽约的幽灵之夜| TechCrunch
+# 纽约的幽灵之夜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/phantom-night-in-nyc/>
 

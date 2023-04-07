@@ -1,4 +1,4 @@
-# 脸书和雅虎就 10 亿美元的收购进行谈判？TechCrunch
+# 脸书和雅虎就 10 亿美元的收购进行谈判？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/21/facebook-and-yahoo-in-acquisition-talks-for-1-billion/>
 

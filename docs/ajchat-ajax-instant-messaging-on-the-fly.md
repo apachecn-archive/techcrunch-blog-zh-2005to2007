@@ -1,4 +1,4 @@
-# aj chat–AJax 即时消息| TechCrunch
+# aj chat–AJax 即时消息
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/20/ajchat-ajax-instant-messaging-on-the-fly/>
 

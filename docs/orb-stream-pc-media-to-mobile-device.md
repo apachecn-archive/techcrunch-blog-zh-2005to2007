@@ -1,4 +1,4 @@
-# Orb 压力测试在 36，000 英尺 TechCrunch
+# Orb 压力测试在 36，000 英尺 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/23/orb-stream-pc-media-to-mobile-device/>
 

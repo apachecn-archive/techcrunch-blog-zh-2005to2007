@@ -1,4 +1,4 @@
-# iPhone 评论滚滚而来——TechCrunch
+# iPhone 评论滚滚而来
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/iphone-reviews-are-rolling-in/>
 

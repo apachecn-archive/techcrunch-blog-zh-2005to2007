@@ -1,4 +1,4 @@
-# 关注 Shelfari——TechCrunch
+# 关注 Shelfari
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/18/keep-an-eye-on-shelfari/>
 

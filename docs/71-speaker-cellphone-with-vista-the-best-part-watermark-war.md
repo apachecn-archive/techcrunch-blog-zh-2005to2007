@@ -1,4 +1,4 @@
-# 7.1 扬声器 Vista 手机:最好的部分？水印大战！TechCrunch
+# 7.1 扬声器 Vista 手机:最好的部分？水印大战！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/02/71-speaker-cellphone-with-vista-the-best-part-watermark-war/>
 

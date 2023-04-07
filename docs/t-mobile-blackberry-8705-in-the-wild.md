@@ -1,4 +1,4 @@
-# T-Mobile 黑莓 8705 在野外| TechCrunch
+# T-Mobile 黑莓 8705 在野外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/t-mobile-blackberry-8705-in-the-wild/>
 

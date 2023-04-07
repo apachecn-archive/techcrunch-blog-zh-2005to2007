@@ -1,4 +1,4 @@
-# 苹果与世界:专利猴子知识产权-评论 TechCrunch
+# 苹果与世界:专利猴子知识产权-评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/08/apple-vs-the-world-patentmonkey-ip-review/>
 

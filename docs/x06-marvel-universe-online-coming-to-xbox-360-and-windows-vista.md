@@ -1,4 +1,4 @@
-# X06:漫威宇宙在线即将登陆 Xbox 360 和 Windows Vista——TechCrunch
+# X06:漫威宇宙在线即将登陆 Xbox 360 和 Windows Vista
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/x06-marvel-universe-online-coming-to-xbox-360-and-windows-vista/>
 

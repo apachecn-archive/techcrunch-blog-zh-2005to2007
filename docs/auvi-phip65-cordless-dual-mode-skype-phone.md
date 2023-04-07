@@ -1,4 +1,4 @@
-# Auvi PHIP65 无绳双模 Skype 电话–TechCrunch
+# Auvi PHIP65 无绳双模 Skype 电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/auvi-phip65-cordless-dual-mode-skype-phone/>
 

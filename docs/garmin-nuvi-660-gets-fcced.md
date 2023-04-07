@@ -1,4 +1,4 @@
-# Garmin Nuvi 660 获得 FCC 认证–TechCrunch
+# Garmin Nuvi 660 获得 FCC 认证
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/22/garmin-nuvi-660-gets-fcced/>
 

@@ -1,4 +1,4 @@
-# 疯狂的麻省理工学生制造了超级皮带——TechCrunch
+# 疯狂的麻省理工学生制造了超级皮带
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/crazy-mit-student-whips-up-superbelt/>
 

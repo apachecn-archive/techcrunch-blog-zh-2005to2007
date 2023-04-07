@@ -1,4 +1,4 @@
-# 简介:博客公司 TechCrunch
+# 简介:博客公司 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/20/profile-weblogs-inc/>
 

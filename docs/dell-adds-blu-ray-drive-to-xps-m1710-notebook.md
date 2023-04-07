@@ -1,4 +1,4 @@
-# 戴尔为 XPS M1710 笔记本电脑添加蓝光驱动器| TechCrunch
+# 戴尔为 XPS M1710 笔记本电脑添加蓝光驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/dell-adds-blu-ray-drive-to-xps-m1710-notebook/>
 

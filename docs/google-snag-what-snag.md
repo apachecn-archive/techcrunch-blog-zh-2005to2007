@@ -1,4 +1,4 @@
-# 谷歌:障碍？什么障碍？–TechCrunch
+# 谷歌:障碍？什么障碍？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/12/google-snag-what-snag/>
 

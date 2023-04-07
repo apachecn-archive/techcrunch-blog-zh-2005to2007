@@ -1,4 +1,4 @@
-# Google Talk Live，功能| TechCrunch
+# Google Talk Live，功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/23/google-talk-live-functional/>
 

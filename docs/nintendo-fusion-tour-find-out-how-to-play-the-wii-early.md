@@ -1,4 +1,4 @@
-# 任天堂融合之旅——尽早了解如何玩 Wii——TechCrunch
+# 任天堂融合之旅——尽早了解如何玩 Wii
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/nintendo-fusion-tour-find-out-how-to-play-the-wii-early/>
 

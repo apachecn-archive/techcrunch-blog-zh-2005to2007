@@ -1,4 +1,4 @@
-# 圣诞快乐/光明节快乐/去喝酒和玩战争机器| TechCrunch
+# 圣诞快乐/光明节快乐/去喝酒和玩战争机器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/merry-christmashappy-chanukahgo-drink-and-play-gears-of-war/>
 

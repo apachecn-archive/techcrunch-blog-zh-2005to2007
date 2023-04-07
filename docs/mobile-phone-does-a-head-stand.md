@@ -1,4 +1,4 @@
-# 手机做头倒立——TechCrunch
+# 手机做头倒立
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/mobile-phone-does-a-head-stand/>
 

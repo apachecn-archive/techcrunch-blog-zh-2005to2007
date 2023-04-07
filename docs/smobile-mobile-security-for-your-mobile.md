@@ -1,4 +1,4 @@
-# SMobile:为您的手机提供移动安全| TechCrunch
+# SMobile:为您的手机提供移动安全
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/smobile-mobile-security-for-your-mobile/>
 

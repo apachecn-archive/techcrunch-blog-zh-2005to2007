@@ -1,4 +1,4 @@
-# 大卫·波格讨厌 Zune，然后喜欢，然后讨厌| TechCrunch
+# 大卫·波格讨厌 Zune，然后喜欢，然后讨厌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/09/david-pogue-hates-on-zune-then-loves-then-hates/>
 

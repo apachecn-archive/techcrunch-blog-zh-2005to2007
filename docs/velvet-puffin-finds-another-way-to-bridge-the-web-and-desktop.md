@@ -1,4 +1,4 @@
-# 天鹅绒海雀找到了另一种连接网络和桌面的方式——TechCrunch
+# 天鹅绒海雀找到了另一种连接网络和桌面的方式
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/velvet-puffin-finds-another-way-to-bridge-the-web-and-desktop/>
 

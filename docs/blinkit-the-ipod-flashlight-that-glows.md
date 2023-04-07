@@ -1,4 +1,4 @@
-# BlinkIt:会发光的 iPod 手电筒——TechCrunch
+# BlinkIt:会发光的 iPod 手电筒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/blinkit-the-ipod-flashlight-that-glows/>
 

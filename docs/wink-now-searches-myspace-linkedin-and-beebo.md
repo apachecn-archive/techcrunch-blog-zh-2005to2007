@@ -1,4 +1,4 @@
-# Wink 现在搜索 MySpace、LinkedIn 和 Bebo——TechCrunch
+# Wink 现在搜索 MySpace、LinkedIn 和 Bebo
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/10/wink-now-searches-myspace-linkedin-and-beebo/>
 

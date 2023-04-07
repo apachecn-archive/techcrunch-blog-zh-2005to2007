@@ -1,4 +1,4 @@
-# 苹果 iPhone 常见问题解答–TechCrunch
+# 苹果 iPhone 常见问题解答
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/10/apple-iphone-faq/>
 

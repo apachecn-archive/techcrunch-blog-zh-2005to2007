@@ -1,4 +1,4 @@
-# 售出 155，000 台 Xbox 360 HD DVD 附加组件——TechCrunch
+# 售出 155，000 台 Xbox 360 HD DVD 附加组件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/155000-xbox-360-hd-dvd-add-ons-sold/>
 

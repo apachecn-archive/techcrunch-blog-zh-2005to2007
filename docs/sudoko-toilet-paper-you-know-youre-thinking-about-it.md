@@ -1,4 +1,4 @@
-# Sudoko 卫生纸:你知道你正在考虑它| TechCrunch
+# Sudoko 卫生纸:你知道你正在考虑它
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/21/sudoko-toilet-paper-you-know-youre-thinking-about-it/>
 

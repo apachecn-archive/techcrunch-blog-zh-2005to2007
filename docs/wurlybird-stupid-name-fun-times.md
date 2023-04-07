@@ -1,4 +1,4 @@
-# WurlyBird——愚蠢的名字，有趣的时代| TechCrunch
+# WurlyBird——愚蠢的名字，有趣的时代
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/wurlybird-stupid-name-fun-times/>
 

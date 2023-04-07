@@ -1,4 +1,4 @@
-# 改变一切让目标共享成为无声广告 TechCrunch
+# 改变一切让目标共享成为无声广告 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/06/changeeverything-makes-goal-sharing-a-quiet-advertisement/>
 

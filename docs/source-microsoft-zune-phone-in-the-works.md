@@ -1,4 +1,4 @@
-# 来源:正在研发中的微软 Zune 手机——TechCrunch
+# 来源:正在研发中的微软 Zune 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/01/source-microsoft-zune-phone-in-the-works/>
 

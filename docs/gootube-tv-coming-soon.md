@@ -1,4 +1,4 @@
-# 谷歌电视即将推出… | TechCrunch
+# 谷歌电视即将推出… 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/gootube-tv-coming-soon/>
 

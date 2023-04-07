@@ -1,4 +1,4 @@
-# 蓝光和 HD-DVD 得到“处理”——TechCrunch
+# 蓝光和 HD-DVD 得到“处理”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/blu-ray-and-hd-dvd-get-processed/>
 

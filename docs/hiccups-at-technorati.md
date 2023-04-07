@@ -1,4 +1,4 @@
-# Technorati 打嗝——TechCrunch
+# Technorati 打嗝
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/23/hiccups-at-technorati/>
 

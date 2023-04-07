@@ -1,4 +1,4 @@
-# antec 900:我的天，你的粉丝真多——TechCrunch
+# antec 900:我的天，你的粉丝真多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/antec-nine-hundred-my-my-what-big-fans-you-have/>
 

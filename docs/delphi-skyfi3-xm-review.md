@@ -1,4 +1,4 @@
-# 德尔福 SkyFi3 XM 评论| TechCrunch
+# 德尔福 SkyFi3 XM 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/10/delphi-skyfi3-xm-review/>
 

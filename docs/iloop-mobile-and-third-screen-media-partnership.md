@@ -1,4 +1,4 @@
-# iLoop 移动和第三屏媒体合作| TechCrunch
+# iLoop 移动和第三屏媒体合作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/01/iloop-mobile-and-third-screen-media-partnership/>
 

@@ -1,4 +1,4 @@
-# AMD 对世界:我们这里有您的 65 纳米 CPU | TechCrunch
+# AMD 对世界:我们这里有您的 65 纳米 CPU 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/amd-to-world-weve-got-your-65nm-cpus-right-here/>
 

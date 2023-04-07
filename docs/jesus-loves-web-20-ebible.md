@@ -1,4 +1,4 @@
-# 耶稣爱 Web 2.0:eBible-TechCrunch
+# 耶稣爱 Web 2.0:eBible-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/09/jesus-loves-web-20-ebible/>
 

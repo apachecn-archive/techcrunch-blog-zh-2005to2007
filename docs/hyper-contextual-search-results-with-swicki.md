@@ -1,4 +1,4 @@
-# 使用 Swicki 的超上下文搜索结果–TechCrunch
+# 使用 Swicki 的超上下文搜索结果
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/16/hyper-contextual-search-results-with-swicki/>
 

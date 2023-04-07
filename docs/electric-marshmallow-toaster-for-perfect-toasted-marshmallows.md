@@ -1,4 +1,4 @@
-# 完美烘烤棉花糖的电动棉花糖烤面包机| TechCrunch
+# 完美烘烤棉花糖的电动棉花糖烤面包机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/electric-marshmallow-toaster-for-perfect-toasted-marshmallows/>
 

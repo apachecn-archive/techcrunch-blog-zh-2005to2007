@@ -1,4 +1,4 @@
-# 谷歌在假日新闻发布会上显得有些傲慢 TechCrunch
+# 谷歌在假日新闻发布会上显得有些傲慢 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/google-somewhat-frugal-at-holiday-press-party/>
 

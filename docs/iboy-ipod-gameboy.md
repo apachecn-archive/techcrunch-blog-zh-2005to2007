@@ -1,4 +1,4 @@
-# iBoy: iPod + GameBoy | TechCrunch
+# iBoy: iPod + GameBoy 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/iboy-ipod-gameboy/>
 

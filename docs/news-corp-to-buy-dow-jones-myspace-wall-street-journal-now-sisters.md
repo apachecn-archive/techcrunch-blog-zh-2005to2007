@@ -1,4 +1,4 @@
-# 新闻集团和道琼斯非常接近交易。有人担心吗？TechCrunch
+# 新闻集团和道琼斯非常接近交易。有人担心吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/16/news-corp-to-buy-dow-jones-myspace-wall-street-journal-now-sisters/>
 

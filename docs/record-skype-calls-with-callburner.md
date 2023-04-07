@@ -1,4 +1,4 @@
-# 用 CallBurner 记录 Skype 通话 TechCrunch
+# 用 CallBurner 记录 Skype 通话 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/08/record-skype-calls-with-callburner/>
 

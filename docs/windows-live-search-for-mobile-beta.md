@@ -1,4 +1,4 @@
-# Windows Live 移动搜索测试版| TechCrunch
+# Windows Live 移动搜索测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/30/windows-live-search-for-mobile-beta/>
 

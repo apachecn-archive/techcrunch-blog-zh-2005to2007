@@ -1,4 +1,4 @@
-# YouTube 每天提供 1 亿个视频 TechCrunch
+# YouTube 每天提供 1 亿个视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/17/youtube-serves-100m-videos-each-day/>
 

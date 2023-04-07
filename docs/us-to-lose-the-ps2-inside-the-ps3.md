@@ -1,4 +1,4 @@
-# 美国将失去 PS3 里面的 PS2？–TechCrunch
+# 美国将失去 PS3 里面的 PS2？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/us-to-lose-the-ps2-inside-the-ps3/>
 

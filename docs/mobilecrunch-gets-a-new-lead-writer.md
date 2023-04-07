@@ -1,4 +1,4 @@
-# MobileCrunch 有了新的首席作家| TechCrunch
+# MobileCrunch 有了新的首席作家
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/mobilecrunch-gets-a-new-lead-writer/>
 

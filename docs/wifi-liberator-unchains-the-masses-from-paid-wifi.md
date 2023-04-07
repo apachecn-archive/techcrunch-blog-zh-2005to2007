@@ -1,4 +1,4 @@
-# WiFi 解放者将大众从付费 WiFi 中解放出来——TechCrunch
+# WiFi 解放者将大众从付费 WiFi 中解放出来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/wifi-liberator-unchains-the-masses-from-paid-wifi/>
 

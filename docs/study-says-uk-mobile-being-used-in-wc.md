@@ -1,4 +1,4 @@
-# 研究称英国手机被用于 WC | TechCrunch
+# 研究称英国手机被用于 WC 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/study-says-uk-mobile-being-used-in-wc/>
 

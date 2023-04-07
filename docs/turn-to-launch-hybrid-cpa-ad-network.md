@@ -1,4 +1,4 @@
-# 转向推出混合型 CPA 广告网络 TechCrunch
+# 转向推出混合型 CPA 广告网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/06/turn-to-launch-hybrid-cpa-ad-network/>
 

@@ -1,4 +1,4 @@
-# 整洁性感的第二代 Iriver Clix 手办| TechCrunch
+# 整洁性感的第二代 Iriver Clix 手办
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/trim-and-sexy-2nd-gen-iriver-clix-hands-on/>
 

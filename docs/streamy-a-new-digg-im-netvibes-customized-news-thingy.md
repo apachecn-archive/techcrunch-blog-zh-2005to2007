@@ -1,4 +1,4 @@
-# Streamy，一个新的 Digg，IM，Netvibes，定制新闻——TechCrunch
+# Streamy，一个新的 Digg，IM，Netvibes，定制新闻
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/10/streamy-a-new-digg-im-netvibes-customized-news-thingy/>
 

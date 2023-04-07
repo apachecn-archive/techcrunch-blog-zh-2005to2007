@@ -1,4 +1,4 @@
-# 与罗伯特.洛克共进晚餐。TechCrunch
+# 与罗伯特.洛克共进晚餐。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/internet-peeps-dinner-with-robert-loch/>
 

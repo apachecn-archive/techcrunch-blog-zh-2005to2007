@@ -1,4 +1,4 @@
-# 使用 GotVoice | TechCrunch 管理语音邮件
+# 使用 GotVoice  管理语音邮件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/18/managing-voicemail-with-gotvoice/>
 

@@ -1,4 +1,4 @@
-# iRiver T10 现已上市–TechCrunch
+# iRiver T10 现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/iriver-t10-now-shipping/>
 

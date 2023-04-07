@@ -1,4 +1,4 @@
-# Prosper 推出–社交贷款| TechCrunch
+# Prosper 推出–社交贷款
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/02/05/prosper-launches-social-lending/?year=2006&monthnum=02&day=05&like=1>
 

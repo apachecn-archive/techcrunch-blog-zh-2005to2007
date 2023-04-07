@@ -1,4 +1,4 @@
-# 笔记本电脑恐怖故事竞赛提醒| TechCrunch
+# 笔记本电脑恐怖故事竞赛提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/laptop-horror-stories-contest-reminder/>
 

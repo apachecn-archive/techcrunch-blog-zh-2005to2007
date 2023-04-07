@@ -1,4 +1,4 @@
-# 科罗拉多州苹果商店被劫持| TechCrunch
+# 科罗拉多州苹果商店被劫持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/colorado-apple-store-gets-jacked/>
 

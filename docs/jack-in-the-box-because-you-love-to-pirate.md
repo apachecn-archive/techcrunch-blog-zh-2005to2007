@@ -1,4 +1,4 @@
-# 盒子里的杰克——因为你喜欢盗版——TechCrunch
+# 盒子里的杰克——因为你喜欢盗版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/11/jack-in-the-box-because-you-love-to-pirate/>
 

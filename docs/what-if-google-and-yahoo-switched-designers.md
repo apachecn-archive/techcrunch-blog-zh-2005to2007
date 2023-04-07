@@ -1,4 +1,4 @@
-# 如果谷歌和雅虎交换设计师会怎样？–TechCrunch
+# 如果谷歌和雅虎交换设计师会怎样？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/11/what-if-google-and-yahoo-switched-designers/>
 

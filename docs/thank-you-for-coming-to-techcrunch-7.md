@@ -1,4 +1,4 @@
-# 感谢您来到 TechCrunch 7 TechCrunch
+# 感谢您来到 TechCrunch 7 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/19/thank-you-for-coming-to-techcrunch-7/>
 

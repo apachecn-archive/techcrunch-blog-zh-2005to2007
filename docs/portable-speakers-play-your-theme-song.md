@@ -1,4 +1,4 @@
-# 便携式扬声器播放您的主题曲——TechCrunch
+# 便携式扬声器播放您的主题曲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/18/portable-speakers-play-your-theme-song/>
 

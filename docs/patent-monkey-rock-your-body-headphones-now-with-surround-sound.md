@@ -1,4 +1,4 @@
-# 专利猴:摇滚你的身体耳机，现在有环绕声——TechCrunch
+# 专利猴:摇滚你的身体耳机，现在有环绕声
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/patent-monkey-rock-your-body-headphones-now-with-surround-sound/>
 

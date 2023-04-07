@@ -1,4 +1,4 @@
-# Bloops Part Deux | TechCrunch
+# Bloops Part Deux 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/24/bloops-part-deux/>
 

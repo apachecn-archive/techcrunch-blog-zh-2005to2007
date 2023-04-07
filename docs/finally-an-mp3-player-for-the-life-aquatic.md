@@ -1,4 +1,4 @@
-# 最后，一个 MP3 播放器为生活水生| TechCrunch
+# 最后，一个 MP3 播放器为生活水生
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/02/finally-an-mp3-player-for-the-life-aquatic/>
 

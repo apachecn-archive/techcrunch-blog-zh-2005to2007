@@ -1,4 +1,4 @@
-# Flickr 将提供拖放式地理标记？TechCrunch
+# Flickr 将提供拖放式地理标记？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/04/flickr-to-offer-drag-and-drop-geotagging/>
 

@@ -1,4 +1,4 @@
-# 再次发布下一个失败的电影模型——TechCrunch
+# 再次发布下一个失败的电影模型
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/25/reeltime-to-launch-the-next-failed-movie-model/>
 

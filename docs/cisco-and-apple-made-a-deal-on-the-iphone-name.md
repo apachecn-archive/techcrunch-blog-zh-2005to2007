@@ -1,4 +1,4 @@
-# 更新:思科和苹果没有就 iPhone 的名称——TechCrunch 达成协议
+# 更新:思科和苹果没有就 iPhone 的名称 达成协议
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/cisco-and-apple-made-a-deal-on-the-iphone-name/>
 

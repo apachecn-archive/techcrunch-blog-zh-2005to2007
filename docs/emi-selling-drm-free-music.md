@@ -1,4 +1,4 @@
-# 百代销售无 DRM 的音乐——TechCrunch
+# 百代销售无 DRM 的音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/emi-selling-drm-free-music/>
 

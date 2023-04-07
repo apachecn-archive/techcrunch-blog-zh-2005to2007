@@ -1,4 +1,4 @@
-# 黎明时的手枪:Ryan Block 现在在 TechCrunch20 专家组| TechCrunch
+# 黎明时的手枪:Ryan Block 现在在 TechCrunch20 专家组
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/pistols-at-dawn-ryan-block-now-on-techcrunch20-panel-of-experts/>
 

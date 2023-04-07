@@ -1,4 +1,4 @@
-# 东芝卫星 P205 评论| TechCrunch
+# 东芝卫星 P205 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/toshiba-satellite-p205-review/>
 

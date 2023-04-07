@@ -1,4 +1,4 @@
-# 富士通新推出的超薄防水电池| TechCrunch
+# 富士通新推出的超薄防水电池
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/17/fujitsus-new-super-skinny-waterproof-cell/>
 

@@ -1,4 +1,4 @@
-# Ben Heck 展示 Atari 2600 便携式电脑——TechCrunch
+# Ben Heck 展示 Atari 2600 便携式电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/22/ben-heck-presents-atari-2600-portable/>
 

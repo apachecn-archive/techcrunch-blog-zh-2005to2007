@@ -1,4 +1,4 @@
-# 索尼爱立信 W660i 嵌入式扬声器| TechCrunch
+# 索尼爱立信 W660i 嵌入式扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/sony-ericsson-snap-on-speakers-for-w660i/>
 

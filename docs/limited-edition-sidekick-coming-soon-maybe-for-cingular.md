@@ -1,4 +1,4 @@
-# 限量版 Sidekick 即将推出？也许是为了 Cingular？TechCrunch
+# 限量版 Sidekick 即将推出？也许是为了 Cingular？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/limited-edition-sidekick-coming-soon-maybe-for-cingular/>
 

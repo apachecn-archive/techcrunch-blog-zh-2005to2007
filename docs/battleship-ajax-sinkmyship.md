@@ -1,4 +1,4 @@
-# 战舰+Ajax = sink myship TechCrunch
+# 战舰+Ajax = sink myship 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/25/battleship-ajax-sinkmyship/>
 

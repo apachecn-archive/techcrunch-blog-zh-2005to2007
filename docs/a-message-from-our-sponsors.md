@@ -1,4 +1,4 @@
-# 商业广告–TechCrunch
+# 商业广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/06/a-message-from-our-sponsors/>
 

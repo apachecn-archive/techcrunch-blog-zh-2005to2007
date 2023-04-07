@@ -1,4 +1,4 @@
-# 五种混合、分解和融合数据的方法 TechCrunch
+# 五种混合、分解和融合数据的方法 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/02/5-ways-to-mix-rip-and-mash-your-data/>
 

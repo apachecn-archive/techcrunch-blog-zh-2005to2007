@@ -1,4 +1,4 @@
-# MSN 和雅虎联手 IM TechCrunch
+# MSN 和雅虎联手 IM 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/11/msn-and-yahoo-to-link-im/>
 

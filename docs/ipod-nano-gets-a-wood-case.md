@@ -1,4 +1,4 @@
-# iPod Nano 得到了一个木质外壳——TechCrunch
+# iPod Nano 得到了一个木质外壳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/ipod-nano-gets-a-wood-case/>
 

@@ -1,4 +1,4 @@
-# 华硕构想了另一个光环——TechCrunch
+# 华硕构想了另一个光环
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/asus-conceputalizes-another-aura/>
 

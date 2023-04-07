@@ -1,4 +1,4 @@
-# 飞利浦触摸屏留言板–TechCrunch
+# 飞利浦触摸屏留言板
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/philips-touchscreen-message-board/>
 

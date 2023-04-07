@@ -1,4 +1,4 @@
-# 评论怪异| TechCrunch
+# 评论怪异
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/comments-weirdness/>
 

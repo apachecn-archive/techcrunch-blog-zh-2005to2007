@@ -1,4 +1,4 @@
-# 戴着无线耳机的 Zune:猪旁边的文件，飞行——TechCrunch
+# 戴着无线耳机的 Zune:猪旁边的文件，飞行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/04/zune-with-cordless-headphones-file-next-to-pigs-flying/>
 

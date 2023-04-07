@@ -1,4 +1,4 @@
-# 微软在用户试用中大获全胜 TechCrunch
+# 微软在用户试用中大获全胜 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/19/microsoft-wallop-in-user-trials/>
 

@@ -1,4 +1,4 @@
-# 读者反馈第一周——TechCrunch
+# 读者反馈第一周
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/reader-response-week-one/>
 

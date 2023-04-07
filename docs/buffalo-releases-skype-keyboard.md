@@ -1,4 +1,4 @@
-# 布法罗发布 Skype 键盘——TechCrunch
+# 布法罗发布 Skype 键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/buffalo-releases-skype-keyboard/>
 

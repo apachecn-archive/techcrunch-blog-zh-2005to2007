@@ -1,4 +1,4 @@
-# 偷拍 Zune 照片 Surface | TechCrunch
+# 偷拍 Zune 照片 Surface 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/17/candid-zune-pics-surface/>
 

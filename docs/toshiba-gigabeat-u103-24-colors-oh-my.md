@@ -1,4 +1,4 @@
-# 东芝 gigabbeat U103:24 色，天啊| TechCrunch
+# 东芝 gigabbeat U103:24 色，天啊
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/toshiba-gigabeat-u103-24-colors-oh-my/>
 

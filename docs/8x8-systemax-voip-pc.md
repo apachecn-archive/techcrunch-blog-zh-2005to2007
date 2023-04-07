@@ -1,4 +1,4 @@
-# 8×8 + Systemax = VoIP PC | TechCrunch
+# 8×8 + Systemax = VoIP PC 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/8x8-systemax-voip-pc/>
 

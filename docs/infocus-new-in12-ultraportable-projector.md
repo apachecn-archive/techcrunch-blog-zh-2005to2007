@@ -1,4 +1,4 @@
-# 富可视的新 12 英寸超便携投影仪| TechCrunch
+# 富可视的新 12 英寸超便携投影仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/infocus-new-in12-ultraportable-projector/>
 

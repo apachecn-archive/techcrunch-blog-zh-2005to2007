@@ -1,4 +1,4 @@
-# Sprint Drops Sirius | TechCrunch
+# Sprint Drops Sirius 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/sprint-drops-sirius/>
 

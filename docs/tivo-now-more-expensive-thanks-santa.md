@@ -1,4 +1,4 @@
-# TiVo 现在更贵了:谢谢，圣诞老人！TechCrunch
+# TiVo 现在更贵了:谢谢，圣诞老人！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/06/tivo-now-more-expensive-thanks-santa/>
 

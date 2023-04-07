@@ -1,4 +1,4 @@
-# Belkin 的用于 iPod 的 TuneStudio 四声道混音器–TechCrunch
+# Belkin 的用于 iPod 的 TuneStudio 四声道混音器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/07/belkin%e2%80%99s-tunestudio-four-channel-audio-mixer-for-ipod/>
 

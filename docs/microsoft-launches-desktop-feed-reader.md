@@ -1,4 +1,4 @@
-# 微软推出桌面阅读器——TechCrunch
+# 微软推出桌面阅读器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/09/09/microsoft-launches-desktop-feed-reader/>
 

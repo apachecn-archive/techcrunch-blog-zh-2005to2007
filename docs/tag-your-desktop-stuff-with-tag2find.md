@@ -1,4 +1,4 @@
-# 使用 tag 2 find–TechCrunch 为您的桌面材料添加标签
+# 使用 tag 2 find 为您的桌面材料添加标签
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/29/tag-your-desktop-stuff-with-tag2find/>
 

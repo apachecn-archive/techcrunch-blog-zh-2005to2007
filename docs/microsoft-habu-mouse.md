@@ -1,4 +1,4 @@
-# 微软 Habu 鼠标–TechCrunch
+# 微软 Habu 鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/microsoft-habu-mouse/>
 

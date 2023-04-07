@@ -1,4 +1,4 @@
-# 恐怖分子在利用“第二人生”策划袭击吗？TechCrunch
+# 恐怖分子在利用“第二人生”策划袭击吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/are-terrorists-using-second-life-to-plan-attacks/>
 

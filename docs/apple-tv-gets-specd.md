@@ -1,4 +1,4 @@
-# 苹果电视获得规范| TechCrunch
+# 苹果电视获得规范
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/15/apple-tv-gets-specd/>
 

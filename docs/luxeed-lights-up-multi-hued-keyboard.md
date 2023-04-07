@@ -1,4 +1,4 @@
-# Luxeed 点亮多色调键盘| TechCrunch
+# Luxeed 点亮多色调键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/luxeed-lights-up-multi-hued-keyboard/>
 

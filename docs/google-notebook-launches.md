@@ -1,4 +1,4 @@
-# 谷歌笔记本发布:呵呵——TechCrunch
+# 谷歌笔记本发布:呵呵
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/16/google-notebook-launches/>
 

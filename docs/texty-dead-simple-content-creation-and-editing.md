@@ -1,4 +1,4 @@
-# Texty:非常简单的内容创建和编辑–TechCrunch
+# Texty:非常简单的内容创建和编辑
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/10/texty-dead-simple-content-creation-and-editing/>
 

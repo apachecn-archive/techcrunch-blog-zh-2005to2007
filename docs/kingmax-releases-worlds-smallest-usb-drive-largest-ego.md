@@ -1,4 +1,4 @@
-# Kingmax 发布“世界上最小的”USB 驱动器，最大的自我——TechCrunch
+# Kingmax 发布“世界上最小的”USB 驱动器，最大的自我
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/16/kingmax-releases-worlds-smallest-usb-drive-largest-ego/>
 

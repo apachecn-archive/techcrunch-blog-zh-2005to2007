@@ -1,4 +1,4 @@
-# 松下发布 8GB Pro 高速 SD 存储卡| TechCrunch
+# 松下发布 8GB Pro 高速 SD 存储卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/panasonic-announces-8gb-pro-high-speed-sd-memory-card/>
 

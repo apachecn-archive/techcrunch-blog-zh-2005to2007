@@ -1,4 +1,4 @@
-# 维基百科搜索引擎 WikiSeek 推出 TechCrunch
+# 维基百科搜索引擎 WikiSeek 推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/16/wikipedia-search-engine-wikiseek-launches>
 

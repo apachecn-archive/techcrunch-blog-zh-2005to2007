@@ -1,4 +1,4 @@
-# LeapTag 能抓住 StumbleUpon 的魔力吗？–TechCrunch
+# LeapTag 能抓住 StumbleUpon 的魔力吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/14/can-leaptag-capture-the-magic-of-stumbleupon/>
 

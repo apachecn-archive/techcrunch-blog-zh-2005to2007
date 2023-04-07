@@ -1,4 +1,4 @@
-# SixApart 确认融资和收购 TechCrunch
+# SixApart 确认融资和收购 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/16/sixapart-confirms-funding-and-acquisition/>
 

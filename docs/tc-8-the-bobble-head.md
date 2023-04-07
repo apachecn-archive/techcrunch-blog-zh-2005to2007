@@ -1,4 +1,4 @@
-# TC 8:摇头——TechCrunch
+# TC 8:摇头
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/17/tc-8-the-bobble-head/>
 

@@ -1,4 +1,4 @@
-# OS X 豹开发者测试截图之旅——TechCrunch
+# OS X 豹开发者测试截图之旅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/os-x-leopard-developer-beta-screenshot-tour/>
 

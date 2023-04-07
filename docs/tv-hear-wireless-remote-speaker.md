@@ -1,4 +1,4 @@
-# 电视听觉无线遥控扬声器| TechCrunch
+# 电视听觉无线遥控扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/04/tv-hear-wireless-remote-speaker/>
 

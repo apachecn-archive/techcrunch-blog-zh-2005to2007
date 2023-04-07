@@ -1,4 +1,4 @@
-# Xbox Live Marketplace:现在有视频| TechCrunch
+# Xbox Live Marketplace:现在有视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/xbox-live-marketplace-now-with-video/>
 

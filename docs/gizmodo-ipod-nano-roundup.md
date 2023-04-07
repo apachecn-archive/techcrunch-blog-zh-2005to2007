@@ -1,4 +1,4 @@
-# Gizmodo iPod Nano 综述| TechCrunch
+# Gizmodo iPod Nano 综述
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/20/gizmodo-ipod-nano-roundup/>
 

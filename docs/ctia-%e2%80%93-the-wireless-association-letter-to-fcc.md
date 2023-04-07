@@ -1,4 +1,4 @@
-# CTIA——无线协会致 FCC 的信——TechCrunch
+# CTIA——无线协会致 FCC 的信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/ctia-%e2%80%93-the-wireless-association-letter-to-fcc/>
 

@@ -1,4 +1,4 @@
-# 雅虎本地和在线黄页 TechCrunch
+# 雅虎本地和在线黄页 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/28/yahoo-local-and-online-yellow-pages/>
 

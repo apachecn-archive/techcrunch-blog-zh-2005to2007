@@ -1,4 +1,4 @@
-# Bordee 为任何域名创建留言板 TechCrunch
+# Bordee 为任何域名创建留言板 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/16/bordee-creates-message-boards-for-any-domain-name/>
 

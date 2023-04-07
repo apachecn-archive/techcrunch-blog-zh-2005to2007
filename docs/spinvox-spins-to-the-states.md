@@ -1,4 +1,4 @@
-# SpinVox 旋转到美国| TechCrunch
+# SpinVox 旋转到美国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/spinvox-spins-to-the-states/>
 

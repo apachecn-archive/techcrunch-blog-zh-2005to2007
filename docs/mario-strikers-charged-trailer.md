@@ -1,4 +1,4 @@
-# 马里奥罢工者控诉预告片——TechCrunch
+# 马里奥罢工者控诉预告片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/20/mario-strikers-charged-trailer/>
 

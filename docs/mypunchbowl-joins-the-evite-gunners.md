@@ -1,4 +1,4 @@
-# MyPunchbowl 加入 eVite 枪手——TechCrunch
+# MyPunchbowl 加入 eVite 枪手
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/14/mypunchbowl-joins-the-evite-gunners/>
 

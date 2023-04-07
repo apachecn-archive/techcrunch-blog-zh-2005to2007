@@ -1,4 +1,4 @@
-# 索尼发布银色 PlayStation 2——TechCrunch
+# 索尼发布银色 PlayStation 2
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/sony-announces-silver-playstation-2/>
 

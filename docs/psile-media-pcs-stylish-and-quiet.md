@@ -1,4 +1,4 @@
-# Psile 媒体电脑:时尚而安静——TechCrunch
+# Psile 媒体电脑:时尚而安静
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/psile-media-pcs-stylish-and-quiet/>
 

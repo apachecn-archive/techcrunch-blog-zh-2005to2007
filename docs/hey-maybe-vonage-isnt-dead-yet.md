@@ -1,4 +1,4 @@
-# 嘿，也许 Vonage 还没死——TechCrunch
+# 嘿，也许 Vonage 还没死
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/hey-maybe-vonage-isnt-dead-yet/>
 

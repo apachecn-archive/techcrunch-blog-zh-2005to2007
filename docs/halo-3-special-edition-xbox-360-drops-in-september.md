@@ -1,4 +1,4 @@
-# 光环 3 特别版 Xbox 360 将于 9 月上市——TechCrunch
+# 光环 3 特别版 Xbox 360 将于 9 月上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/halo-3-special-edition-xbox-360-drops-in-september/>
 

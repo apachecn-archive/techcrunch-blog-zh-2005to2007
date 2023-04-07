@@ -1,4 +1,4 @@
-# 拉斯维加斯现场直播:索尼宣布推出新的“经济型”蓝光播放器——TechCrunch
+# 拉斯维加斯现场直播:索尼宣布推出新的“经济型”蓝光播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/live-from-las-vegas-sony-announces-new-budget-blu-ray-player/>
 

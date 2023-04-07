@@ -1,4 +1,4 @@
-# 3 推雅虎！加入移动互联网联盟| TechCrunch
+# 3 推雅虎！加入移动互联网联盟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/3-pushing-yahoo-go-in-mobile-internet-tie-up/>
 

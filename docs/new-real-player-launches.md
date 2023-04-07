@@ -1,4 +1,4 @@
-# 新 Real Player 发布——TechCrunch
+# 新 Real Player 发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/new-real-player-launches/>
 

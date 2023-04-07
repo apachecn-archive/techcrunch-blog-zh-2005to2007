@@ -1,4 +1,4 @@
-# 通过电线传输电视信号–TechCrunch
+# 通过电线传输电视信号
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/16/transmit-tv-signals-through-electrical-wires/>
 

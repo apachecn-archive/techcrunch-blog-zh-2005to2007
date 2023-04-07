@@ -1,4 +1,4 @@
-# 多点触控 Ala iPhone–TechCrunch
+# 多点触控 Ala iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/12/multi-touch-ala-iphone/>
 

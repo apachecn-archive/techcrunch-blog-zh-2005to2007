@@ -1,4 +1,4 @@
-# 吉他光环(和你想的完全一样)| TechCrunch
+# 吉他光环(和你想的完全一样)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/11/guitar-halo-exactly-what-youre-thinking/>
 

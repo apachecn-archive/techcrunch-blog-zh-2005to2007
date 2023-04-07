@@ -1,4 +1,4 @@
-# 福克斯将收购初创公司 new roo TechCrunch
+# 福克斯将收购初创公司 new roo 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/14/fox-to-acquire-startup-newroo/>
 

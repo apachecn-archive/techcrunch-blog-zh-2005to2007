@@ -1,4 +1,4 @@
-# 乔布斯的 WWDC 主题演讲:太平洋标准时间 6 月 11 日上午 9 点——TechCrunch
+# 乔布斯的 WWDC 主题演讲:太平洋标准时间 6 月 11 日上午 9 点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/jobs-wwdc-keynote-9-am-pst-june-11/>
 

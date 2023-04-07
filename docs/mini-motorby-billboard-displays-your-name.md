@@ -1,4 +1,4 @@
-# 迷你摩托车广告牌显示你的名字——TechCrunch
+# 迷你摩托车广告牌显示你的名字
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/mini-motorby-billboard-displays-your-name/>
 

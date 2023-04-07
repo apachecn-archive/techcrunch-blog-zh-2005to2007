@@ -1,4 +1,4 @@
-# Sprint U720 将 EV-DO 版本 A 带到 USB——TechCrunch
+# Sprint U720 将 EV-DO 版本 A 带到 USB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/08/sprint-u720-brings-ev-do-rev-a-to-usb/>
 

@@ -1,4 +1,4 @@
-# 使用 TokBox 设置即时视频聊天–TechCrunch
+# 使用 TokBox 设置即时视频聊天
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/14/use-tokbox-to-set-up-instant-video-chat/>
 

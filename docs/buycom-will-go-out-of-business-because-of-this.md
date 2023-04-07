@@ -1,4 +1,4 @@
-# Buy.com 会因此而倒闭——TechCrunch
+# Buy.com 会因此而倒闭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/buycom-will-go-out-of-business-because-of-this/>
 

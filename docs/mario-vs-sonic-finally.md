@@ -1,4 +1,4 @@
-# 马里奥 vs 索尼克——最后——TechCrunch
+# 马里奥 vs 索尼克——最后
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/mario-vs-sonic-finally/>
 

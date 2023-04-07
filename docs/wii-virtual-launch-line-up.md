@@ -1,4 +1,4 @@
-# Wii 虚拟发布阵容| TechCrunch
+# Wii 虚拟发布阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/wii-virtual-launch-line-up/>
 

@@ -1,4 +1,4 @@
-# Wazap 来到美国——TechCrunch
+# Wazap 来到美国
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/28/wazap-coming-to-america/>
 

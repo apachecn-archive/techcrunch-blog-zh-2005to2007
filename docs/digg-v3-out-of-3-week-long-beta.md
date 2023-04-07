@@ -1,4 +1,4 @@
-# Digg v3 推出 3 周测试版 TechCrunch
+# Digg v3 推出 3 周测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/11/digg-v3-out-of-3-week-long-beta/>
 

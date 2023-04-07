@@ -1,4 +1,4 @@
-# Spigit 让专业人士展示他们的东西| TechCrunch
+# Spigit 让专业人士展示他们的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/spigit-lets-professional-show-their-stuff/>
 

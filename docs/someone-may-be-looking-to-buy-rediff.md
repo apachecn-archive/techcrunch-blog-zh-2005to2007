@@ -1,4 +1,4 @@
-# 有人可能想收购 Rediff | TechCrunch
+# 有人可能想收购 Rediff 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/16/someone-may-be-looking-to-buy-rediff/>
 

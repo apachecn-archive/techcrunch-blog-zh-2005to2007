@@ -1,4 +1,4 @@
-# 索尼的 PSP 将成为手机——TechCrunch
+# 索尼的 PSP 将成为手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/sony%e2%80%99s-psp-to-become-a-mobile-phone/>
 

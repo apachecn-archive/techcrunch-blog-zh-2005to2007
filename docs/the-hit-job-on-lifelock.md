@@ -1,4 +1,4 @@
-# LifeLock 上非常有组织的热门工作——TechCrunch
+# LifeLock 上非常有组织的热门工作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/17/the-hit-job-on-lifelock/>
 

@@ -1,4 +1,4 @@
-# 高通公司推出采用 65 纳米芯片组的新型 3G 手机——TechCrunch
+# 高通公司推出采用 65 纳米芯片组的新型 3G 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/qualcomm-unveils-new-3g-handsets-with-65-namometer-chipsets/>
 

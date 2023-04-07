@@ -1,4 +1,4 @@
-# 微软不小心把记者的秘密文件发给了那个记者。哎呀。TechCrunch
+# 微软不小心把记者的秘密文件发给了那个记者。哎呀。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/28/microsoft-accidentally-sends-secret-file-on-journalist-to-that-journalist/>
 

@@ -1,4 +1,4 @@
-# 视频:如何制作水球弹射器| TechCrunch
+# 视频:如何制作水球弹射器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/08/video-how-to-build-a-water-balloon-catapult/>
 

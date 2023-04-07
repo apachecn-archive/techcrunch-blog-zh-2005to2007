@@ -1,4 +1,4 @@
-# 另一个 GDrive“鸭嘴兽”漏洞 TechCrunch
+# 另一个 GDrive“鸭嘴兽”漏洞 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/13/another-gdrive-platypus-leak/>
 

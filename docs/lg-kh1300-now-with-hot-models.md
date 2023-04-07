@@ -1,4 +1,4 @@
-# LG-KH1300:现在有热门机型| TechCrunch
+# LG-KH1300:现在有热门机型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/lg-kh1300-now-with-hot-models/>
 

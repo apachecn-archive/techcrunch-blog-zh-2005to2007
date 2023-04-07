@@ -1,4 +1,4 @@
-# 回顾:桌面扩展空间 Amp–TechCrunch
+# 回顾:桌面扩展空间 Amp
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/review-headroom-desktop-amp/>
 

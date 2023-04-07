@@ -1,4 +1,4 @@
-# Draper Fisher Jurvetson 进入巴西市场——TechCrunch
+# Draper Fisher Jurvetson 进入巴西市场
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/09/draper-fisher-jurvetson-enters-brazilian-market/>
 

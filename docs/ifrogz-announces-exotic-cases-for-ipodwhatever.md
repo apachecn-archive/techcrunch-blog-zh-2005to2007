@@ -1,4 +1,4 @@
-# iFrogz 宣布 iPod/其他产品的奇特案例——TechCrunch
+# iFrogz 宣布 iPod/其他产品的奇特案例
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/ifrogz-announces-exotic-cases-for-ipodwhatever/>
 

@@ -1,4 +1,4 @@
-# Corsair 用镀金模块庆祝其 RAM 优势| TechCrunch
+# Corsair 用镀金模块庆祝其 RAM 优势
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/corsair-celebrates-its-ram-dominance-with-gold-plated-modules/>
 

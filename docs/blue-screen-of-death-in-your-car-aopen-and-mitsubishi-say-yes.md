@@ -1,4 +1,4 @@
-# 你车里的蓝屏死亡？AOpen 和三菱说好！–TechCrunch
+# 你车里的蓝屏死亡？AOpen 和三菱说好！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/11/blue-screen-of-death-in-your-car-aopen-and-mitsubishi-say-yes/>
 

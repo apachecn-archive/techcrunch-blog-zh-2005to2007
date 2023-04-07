@@ -1,4 +1,4 @@
-# HitTail:作为缪斯的长尾——TechCrunch
+# HitTail:作为缪斯的长尾
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/09/hittail-the-long-tail-as-muse/>
 

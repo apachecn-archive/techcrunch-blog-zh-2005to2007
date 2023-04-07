@@ -1,4 +1,4 @@
-# 佳能 Fires 相机| TechCrunch
+# 佳能 Fires 相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/canon-fires-cameras/>
 

@@ -1,4 +1,4 @@
-# 雅虎！移动服务广告和 Goes Gamma | TechCrunch
+# 雅虎！移动服务广告和 Goes Gamma 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/yahoo-mobile-serves-ads-and-go-goes-gamma/>
 

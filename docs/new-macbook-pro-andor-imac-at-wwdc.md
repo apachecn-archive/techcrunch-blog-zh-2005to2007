@@ -1,4 +1,4 @@
-# WWDC | TechCrunch 发布新款 Macbook Pro 和/或 iMac
+# WWDC  发布新款 Macbook Pro 和/或 iMac
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/23/new-macbook-pro-andor-imac-at-wwdc/>
 

@@ -1,4 +1,4 @@
-# 可爱的凯蒂猫 iPod 收音机，带时钟——TechCrunch
+# 可爱的凯蒂猫 iPod 收音机，带时钟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/28/cute-hello-kitty-ipod-radio-with-clock/>
 

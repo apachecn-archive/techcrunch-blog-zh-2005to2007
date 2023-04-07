@@ -1,4 +1,4 @@
-# Gawker-Yahoo 交易重要吗？–TechCrunch
+# Gawker-Yahoo 交易重要吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/16/is-the-gawker-yahoo-deal-important/>
 

@@ -1,4 +1,4 @@
-# Twitter 获得风险投资 TechCrunch
+# Twitter 获得风险投资 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/twitter-gets-their-venture-round/>
 

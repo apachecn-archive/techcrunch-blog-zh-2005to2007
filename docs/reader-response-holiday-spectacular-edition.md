@@ -1,4 +1,4 @@
-# 读者反应:假日奇观| TechCrunch
+# 读者反应:假日奇观
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/24/reader-response-holiday-spectacular-edition/>
 

@@ -1,4 +1,4 @@
-# 三星 WiMax 手机(别叫它蜂窝)| TechCrunch
+# 三星 WiMax 手机(别叫它蜂窝)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/samsung-wimax-mobile-phone-dont-call-it-a-cell/>
 

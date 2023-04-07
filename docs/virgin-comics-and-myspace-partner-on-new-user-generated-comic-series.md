@@ -1,4 +1,4 @@
-# 维珍漫画和 MySpace 合作开发新的用户生成漫画系列——TechCrunch
+# 维珍漫画和 MySpace 合作开发新的用户生成漫画系列
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/20/virgin-comics-and-myspace-partner-on-new-user-generated-comic-series/>
 

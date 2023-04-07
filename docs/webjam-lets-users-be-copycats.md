@@ -1,4 +1,4 @@
-# Webjam 让用户成为模仿者——TechCrunch
+# Webjam 让用户成为模仿者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/09/webjam-lets-users-be-copycats/>
 

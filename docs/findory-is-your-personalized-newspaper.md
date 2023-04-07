@@ -1,4 +1,4 @@
-# Findory 是您的个性化报纸——TechCrunch
+# Findory 是您的个性化报纸
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/03/findory-is-your-personalized-newspaper>
 

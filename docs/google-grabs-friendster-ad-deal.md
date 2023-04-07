@@ -1,4 +1,4 @@
-# 谷歌拿下 Friendster 广告交易——TechCrunch
+# 谷歌拿下 Friendster 广告交易
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/07/google-grabs-friendster-ad-deal/>
 

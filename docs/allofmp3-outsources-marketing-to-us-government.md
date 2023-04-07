@@ -1,4 +1,4 @@
-# AllofMP3 将营销外包给美国政府——TechCrunch
+# AllofMP3 将营销外包给美国政府
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/07/allofmp3-outsources-marketing-to-us-government/>
 

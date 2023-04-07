@@ -1,4 +1,4 @@
-# IOGEAR 推出紧凑、功能丰富的 KVM 交换机–TechCrunch
+# IOGEAR 推出紧凑、功能丰富的 KVM 交换机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/iogear-intros-compact-feature-rich-kvm-switch/>
 

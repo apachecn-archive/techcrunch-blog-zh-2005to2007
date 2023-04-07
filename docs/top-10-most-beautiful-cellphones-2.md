@@ -1,4 +1,4 @@
-# 十大最美手机| TechCrunch
+# 十大最美手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/top-10-most-beautiful-cellphones-2/>
 

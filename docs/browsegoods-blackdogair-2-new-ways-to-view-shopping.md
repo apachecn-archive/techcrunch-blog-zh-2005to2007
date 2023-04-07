@@ -1,4 +1,4 @@
-# BrowseGoods，BlackDogAir:两种新的购物方式 TechCrunch
+# BrowseGoods，BlackDogAir:两种新的购物方式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/19/browsegoods-blackdogair-2-new-ways-to-view-shopping/>
 

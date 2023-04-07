@@ -1,4 +1,4 @@
-# 手机上的蛇:Vertu Cobra–TechCrunch
+# 手机上的蛇:Vertu Cobra
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/21/snakes-on-a-phone-vertu-cobra/>
 

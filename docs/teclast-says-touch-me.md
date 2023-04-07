@@ -1,4 +1,4 @@
-# Teclast 说触摸我| TechCrunch
+# Teclast 说触摸我
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/teclast-says-touch-me/>
 

@@ -1,4 +1,4 @@
-# 面向雅虎邮件和即时消息的单一 Ajax 界面即将推出 TechCrunch
+# 面向雅虎邮件和即时消息的单一 Ajax 界面即将推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/09/single-ajax-interface-for-yahoo-mail-im-coming/>
 

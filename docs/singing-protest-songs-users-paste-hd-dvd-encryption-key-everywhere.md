@@ -1,4 +1,4 @@
-# 唱着抗议歌曲，用户到处粘贴 HD DVD 加密密钥 TechCrunch
+# 唱着抗议歌曲，用户到处粘贴 HD DVD 加密密钥 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/singing-protest-songs-users-paste-hd-dvd-encryption-key-everywhere/>
 

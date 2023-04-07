@@ -1,4 +1,4 @@
-# 这是官方的:比耶稣还酷的生化奇兵，99 美分的玉米煎饼| TechCrunch
+# 这是官方的:比耶稣还酷的生化奇兵，99 美分的玉米煎饼
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/its-official-bioshock-cooler-than-jesus-99-cent-burrito/>
 

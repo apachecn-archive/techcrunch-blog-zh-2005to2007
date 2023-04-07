@@ -1,4 +1,4 @@
-# 世嘉土星游戏将登陆 Wii VC(可能)——TechCrunch
+# 世嘉土星游戏将登陆 Wii VC(可能)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/sega-saturn-titles-coming-to-wii-vc-maybe/>
 

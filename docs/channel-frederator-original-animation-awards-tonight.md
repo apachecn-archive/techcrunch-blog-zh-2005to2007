@@ -1,4 +1,4 @@
-# 今晚的原创动画大奖——TechCrunch
+# 今晚的原创动画大奖
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/24/channel-frederator-original-animation-awards-tonight/>
 

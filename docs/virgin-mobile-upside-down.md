@@ -1,4 +1,4 @@
-# 维珍手机倒挂？–TechCrunch
+# 维珍手机倒挂？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/virgin-mobile-upside-down/>
 

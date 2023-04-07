@@ -1,4 +1,4 @@
-# 与 3 Group 建立移动内容媒体合作伙伴关系–TechCrunch
+# 与 3 Group 建立移动内容媒体合作伙伴关系
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/sling-media-partners-with-3-group-for-mobile-content/>
 

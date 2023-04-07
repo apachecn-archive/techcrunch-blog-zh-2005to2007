@@ -1,4 +1,4 @@
-# 索尼电子阅读器 20 个问题——TechCrunch
+# 索尼电子阅读器 20 个问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/sony-e-reader-20-questions/>
 

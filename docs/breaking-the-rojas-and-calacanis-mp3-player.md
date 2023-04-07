@@ -1,4 +1,4 @@
-# 突破:罗哈斯 MP3 播放器| TechCrunch
+# 突破:罗哈斯 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/breaking-the-rojas-and-calacanis-mp3-player/>
 

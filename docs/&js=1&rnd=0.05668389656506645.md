@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/03/06/scribd-youtube-for-text-gets-300k/&js=1&rnd=0.05668389656506645>
 

@@ -1,4 +1,4 @@
-# 《光环 3》将于本周末上映？–TechCrunch
+# 《光环 3》将于本周末上映？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/halo-3-to-drop-this-weekend/>
 

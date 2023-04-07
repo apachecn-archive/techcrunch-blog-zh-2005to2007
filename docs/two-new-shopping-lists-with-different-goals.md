@@ -1,4 +1,4 @@
-# 两个新的购物清单，目标不同——TechCrunch
+# 两个新的购物清单，目标不同
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/03/two-new-shopping-lists-with-different-goals>
 

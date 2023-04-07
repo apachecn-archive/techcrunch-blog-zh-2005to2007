@@ -1,4 +1,4 @@
-# David Pogue 在 iPhone 上的问答——TechCrunch
+# David Pogue 在 iPhone 上的问答
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/qa-with-david-pogue-on-the-iphone/>
 

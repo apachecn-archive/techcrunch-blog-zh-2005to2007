@@ -1,4 +1,4 @@
-# T-Mobile 车手出局——TechCrunch
+# T-Mobile 车手出局
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/t-mobile-riders-out-of-the-tour/>
 

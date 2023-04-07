@@ -1,4 +1,4 @@
-# Alesis iMultiMix 9R 混音器+ iPod 基座–TechCrunch
+# Alesis iMultiMix 9R 混音器+ iPod 基座
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/26/alesis-imultimix-9r-sound-mixer-ipod-dock/>
 

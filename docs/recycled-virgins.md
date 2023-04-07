@@ -1,4 +1,4 @@
-# 回收处女| TechCrunch
+# 回收处女
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/06/recycled-virgins/>
 

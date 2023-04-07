@@ -1,4 +1,4 @@
-# Mini Cube 可容纳 12GB–TechCrunch
+# Mini Cube 可容纳 12GB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/mini-cube-holds-12gb/>
 

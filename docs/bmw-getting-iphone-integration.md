@@ -1,4 +1,4 @@
-# 宝马获得 iPhone 集成？–TechCrunch
+# 宝马获得 iPhone 集成？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/13/bmw-getting-iphone-integration/>
 

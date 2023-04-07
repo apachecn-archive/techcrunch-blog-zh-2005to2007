@@ -1,4 +1,4 @@
-# Wordpress.com 崛起:8 个月后的统计数据——TechCrunch
+# Wordpress.com 崛起:8 个月后的统计数据
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/07/wordpresscom-rising-stats-after-8-months/>
 

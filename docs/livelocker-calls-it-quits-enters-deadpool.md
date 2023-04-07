@@ -1,4 +1,4 @@
-# LiveLocker 宣布退出，进入死亡池——TechCrunch
+# LiveLocker 宣布退出，进入死亡池
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/livelocker-calls-it-quits-enters-deadpool/>
 

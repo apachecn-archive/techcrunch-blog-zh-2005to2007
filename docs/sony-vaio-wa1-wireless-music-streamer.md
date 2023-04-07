@@ -1,4 +1,4 @@
-# 索尼 VAIO WA1 无线音乐流媒体工具| TechCrunch
+# 索尼 VAIO WA1 无线音乐流媒体工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/sony-vaio-wa1-wireless-music-streamer/>
 

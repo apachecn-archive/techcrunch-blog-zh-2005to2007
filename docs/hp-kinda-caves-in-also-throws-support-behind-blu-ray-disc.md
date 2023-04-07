@@ -1,4 +1,4 @@
-# 惠普有点妥协，也支持蓝光光盘| TechCrunch
+# 惠普有点妥协，也支持蓝光光盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/hp-kinda-caves-in-also-throws-support-behind-blu-ray-disc/>
 

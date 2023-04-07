@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/08/10/diggscaperedlicous-save-to-digg-netscape-reddit-and-delicious-with-one-bookmarklet/&js=1&rnd=0.3226758849797391>
 

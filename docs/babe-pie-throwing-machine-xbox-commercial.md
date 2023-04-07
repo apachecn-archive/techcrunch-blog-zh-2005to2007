@@ -1,4 +1,4 @@
-# 贝比+馅饼投掷机= Xbox 商业？TechCrunch
+# 贝比+馅饼投掷机= Xbox 商业？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/babe-pie-throwing-machine-xbox-commercial/>
 

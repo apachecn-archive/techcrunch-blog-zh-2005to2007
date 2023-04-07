@@ -1,4 +1,4 @@
-# TiVoToGo 被破解，数字版权被剥夺。电视居然免费？TechCrunch
+# TiVoToGo 被破解，数字版权被剥夺。电视居然免费？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/tivotogo-gets-cracked-drm-stripped-tv-actually-set-free/>
 

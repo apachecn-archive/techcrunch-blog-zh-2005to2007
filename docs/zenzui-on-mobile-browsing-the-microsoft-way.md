@@ -1,4 +1,4 @@
-# 微软剥离 ZenZui，通过小工具进行移动浏览——TechCrunch
+# 微软剥离 ZenZui，通过小工具进行移动浏览
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/27/zenzui-on-mobile-browsing-the-microsoft-way/>
 

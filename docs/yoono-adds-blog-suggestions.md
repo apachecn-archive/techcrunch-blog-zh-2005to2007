@@ -1,4 +1,4 @@
-# Yoono 添加博客建议——TechCrunch
+# Yoono 添加博客建议
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/15/yoono-adds-blog-suggestions/>
 

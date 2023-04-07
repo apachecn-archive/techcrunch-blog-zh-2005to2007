@@ -1,4 +1,4 @@
-# ICTV:你已经拥有的互动电视——TechCrunch
+# ICTV:你已经拥有的互动电视
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/21/ictv-interactive-television-on-the-box-you-already-own/>
 

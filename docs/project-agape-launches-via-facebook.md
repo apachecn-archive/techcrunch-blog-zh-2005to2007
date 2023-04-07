@@ -1,4 +1,4 @@
-# 脸书发布原因| TechCrunch
+# 脸书发布原因
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/24/project-agape-launches-via-facebook/>
 

@@ -1,4 +1,4 @@
-# BackupHDDVD 访谈–TechCrunch
+# BackupHDDVD 访谈
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/backuphddvd-interview/>
 

@@ -1,4 +1,4 @@
-# 《追捕 2》不再是《Take Two》上映计划的一部分——TechCrunch
+# 《追捕 2》不再是《Take Two》上映计划的一部分
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/manhunt-2-no-longer-part-of-take-twos-release-schedule/>
 

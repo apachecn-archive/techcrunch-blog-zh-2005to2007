@@ -1,4 +1,4 @@
-# 怪物电缆 iFreePlay 耳机的 iPod Shuffle:没有 Cordszomg！1–TechCrunch
+# 怪物电缆 iFreePlay 耳机的 iPod Shuffle:没有 Cordszomg！1
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/monster-cable-ifreeplay-headphones-for-ipod-shuffle-no-cordszomg1/>
 

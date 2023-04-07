@@ -1,4 +1,4 @@
-# Belkin 帮助您保护您的垃圾——TechCrunch
+# Belkin 帮助您保护您的垃圾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/belkin-helps-you-protect-your-junk/>
 

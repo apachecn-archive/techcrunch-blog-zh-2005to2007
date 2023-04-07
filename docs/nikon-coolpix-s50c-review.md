@@ -1,4 +1,4 @@
-# 尼康 Coolpix S50c 评测| TechCrunch
+# 尼康 Coolpix S50c 评测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/nikon-coolpix-s50c-review/>
 

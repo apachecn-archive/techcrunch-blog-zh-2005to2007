@@ -1,4 +1,4 @@
-# 苹果在新款 MacBook Pros | TechCrunch 中隐藏 802.11n
+# 苹果在新款 MacBook Pros  中隐藏 802.11n
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/apple-hides-80211n-in-new-macbook-pros/>
 

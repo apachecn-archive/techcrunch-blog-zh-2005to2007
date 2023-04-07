@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:LonelySquid15 版——TechCrunch
+# CrunchGear 周回顾:LonelySquid15 版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/crunchgear-week-in-review-lonelysquid15-edition/>
 

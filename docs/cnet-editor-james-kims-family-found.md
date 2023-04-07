@@ -1,4 +1,4 @@
-# CNET 编辑詹姆斯·金的家人发现| TechCrunch
+# CNET 编辑詹姆斯·金的家人发现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/cnet-editor-james-kims-family-found/>
 

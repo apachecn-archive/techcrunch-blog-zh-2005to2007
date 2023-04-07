@@ -1,4 +1,4 @@
-# 大日本开源 RSS 工具，ElfURL TechCrunch
+# 大日本开源 RSS 工具，ElfURL 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/14/big-in-japan-open-sources-rss-tools-elfurl/>
 

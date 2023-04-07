@@ -1,4 +1,4 @@
-# 高通拯救 Amp d…可能不会| TechCrunch
+# 高通拯救 Amp d…可能不会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/qualcomm-to-save-ampd-probably-not/>
 

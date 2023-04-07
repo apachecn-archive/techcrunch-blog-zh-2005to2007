@@ -1,4 +1,4 @@
-# Xbox Live Vision 早些时候在玩具反斗城销售——TechCrunch
+# Xbox Live Vision 早些时候在玩具反斗城销售
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/19/xbox-live-vision-sold-at-toys-r-us-a-little-early/>
 

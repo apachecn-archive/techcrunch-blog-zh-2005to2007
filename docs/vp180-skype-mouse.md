@@ -1,4 +1,4 @@
-# VP180 Skype 鼠标–TechCrunch
+# VP180 Skype 鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/vp180-skype-mouse/>
 

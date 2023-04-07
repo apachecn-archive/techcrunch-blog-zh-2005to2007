@@ -1,4 +1,4 @@
-# 佳能的混合动力 PowerShot TX1–TechCrunch
+# 佳能的混合动力 PowerShot TX1
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/canons-hybrid-powershot-tx1/>
 

@@ -1,4 +1,4 @@
-# 移动观众对广告开放| TechCrunch
+# 移动观众对广告开放
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/mobile-viewers-open-to-ads/>
 

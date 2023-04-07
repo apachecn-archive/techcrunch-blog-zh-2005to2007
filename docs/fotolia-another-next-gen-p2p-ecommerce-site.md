@@ -1,4 +1,4 @@
-# Fotolia 的 P2P 照片销售——TechCrunch
+# Fotolia 的 P2P 照片销售
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/10/fotolia-another-next-gen-p2p-ecommerce-site/>
 

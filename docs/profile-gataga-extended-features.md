@@ -1,4 +1,4 @@
-# 简介:Gataga(扩展功能)–TechCrunch
+# 简介:Gataga(扩展功能)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/21/profile-gataga-extended-features/>
 

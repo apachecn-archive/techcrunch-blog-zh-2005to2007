@@ -1,4 +1,4 @@
-# 松下新推出的 4GB 3CCD 摄像机——TechCrunch
+# 松下新推出的 4GB 3CCD 摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/panasonics-new-4gb-3ccd-camcorder/>
 

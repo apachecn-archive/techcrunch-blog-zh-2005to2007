@@ -1,4 +1,4 @@
-# 首个摇滚乐队视频出现| TechCrunch
+# 首个摇滚乐队视频出现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/first-rock-band-footage-appears/>
 

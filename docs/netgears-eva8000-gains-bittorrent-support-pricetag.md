@@ -1,4 +1,4 @@
-# Netgear 的 EVA8000 获得 BitTorrent 支持，price tag–TechCrunch
+# Netgear 的 EVA8000 获得 BitTorrent 支持，price tag
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/netgears-eva8000-gains-bittorrent-support-pricetag/>
 

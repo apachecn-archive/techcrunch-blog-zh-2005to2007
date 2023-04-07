@@ -1,4 +1,4 @@
-# 棋手作弊被抓戴蓝牙耳机| TechCrunch
+# 棋手作弊被抓戴蓝牙耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/28/chess-player-caught-cheating-with-a-bluetooth-headset/>
 

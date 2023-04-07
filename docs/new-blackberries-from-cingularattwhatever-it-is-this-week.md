@@ -1,4 +1,4 @@
-# 来自 Cingular/美国电话电报公司/本周不管是什么| TechCrunch 的新黑莓手机
+# 来自 Cingular/美国电话电报公司/本周不管是什么 的新黑莓手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/new-blackberries-from-cingularattwhatever-it-is-this-week/>
 

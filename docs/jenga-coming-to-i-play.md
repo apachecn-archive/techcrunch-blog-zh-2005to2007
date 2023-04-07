@@ -1,4 +1,4 @@
-# Jenga 来到 I-play——TechCrunch
+# Jenga 来到 I-play
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/jenga-coming-to-i-play/>
 

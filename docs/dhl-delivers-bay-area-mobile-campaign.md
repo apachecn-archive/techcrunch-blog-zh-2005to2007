@@ -1,4 +1,4 @@
-# DHL 开展湾区移动活动| TechCrunch
+# DHL 开展湾区移动活动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/dhl-delivers-bay-area-mobile-campaign/>
 

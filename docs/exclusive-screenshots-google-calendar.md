@@ -1,4 +1,4 @@
-# 独家截图:谷歌日历 TechCrunch
+# 独家截图:谷歌日历 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/08/exclusive-screenshots-google-calendar/>
 

@@ -1,4 +1,4 @@
-# 芬多里启动生命支持系统——TechCrunch
+# 芬多里启动生命支持系统
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/14/findory-to-deadpool/>
 

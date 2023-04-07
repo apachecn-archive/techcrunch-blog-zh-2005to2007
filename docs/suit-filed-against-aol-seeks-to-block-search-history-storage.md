@@ -1,4 +1,4 @@
-# 对美国在线提起的诉讼；试图阻止搜索历史存储–TechCrunch
+# 对美国在线提起的诉讼；试图阻止搜索历史存储
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/25/suit-filed-against-aol-seeks-to-block-search-history-storage/>
 

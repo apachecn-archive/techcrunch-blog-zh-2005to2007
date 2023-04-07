@@ -1,4 +1,4 @@
-# Zink 袖珍打印机大有可为——TechCrunch
+# Zink 袖珍打印机大有可为
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/zink-pocket-printer-holds-promise/>
 

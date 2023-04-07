@@ -1,4 +1,4 @@
-# 奥林巴斯 VJ-10: 37GB 的存储…为什么？TechCrunch
+# 奥林巴斯 VJ-10: 37GB 的存储…为什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/olympus-vj-10-37gb-of-storagewhy/>
 

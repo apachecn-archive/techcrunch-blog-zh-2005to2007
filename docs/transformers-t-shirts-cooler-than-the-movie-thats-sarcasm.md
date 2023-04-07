@@ -1,4 +1,4 @@
-# 变形金刚 t 恤:比电影还酷！(那是讽刺)| TechCrunch
+# 变形金刚 t 恤:比电影还酷！(那是讽刺)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/transformers-t-shirts-cooler-than-the-movie-thats-sarcasm/>
 

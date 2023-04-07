@@ -1,4 +1,4 @@
-# Folding@Home 在 GPU 上比 CPU 快 20 倍？TechCrunch
+# Folding@Home 在 GPU 上比 CPU 快 20 倍？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/foldinghome-works-20x-faster-on-a-gpu-than-cpu/>
 

@@ -1,4 +1,4 @@
-# Razer 为 Suh-Wheat 白色键盘带来 Zune 对接| TechCrunch
+# Razer 为 Suh-Wheat 白色键盘带来 Zune 对接
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/razer-brings-zune-docking-to-suh-wheat-white-keyboard/>
 

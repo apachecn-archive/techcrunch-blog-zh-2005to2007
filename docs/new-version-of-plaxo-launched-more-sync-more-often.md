@@ -1,4 +1,4 @@
-# Plaxo 新版本发布:更多同步更频繁——TechCrunch
+# Plaxo 新版本发布:更多同步更频繁
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/24/new-version-of-plaxo-launched-more-sync-more-often/>
 

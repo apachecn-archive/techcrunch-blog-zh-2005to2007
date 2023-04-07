@@ -1,4 +1,4 @@
-# Gateway 在 Pass | TechCrunch 上关闭火热的电池
+# Gateway 在 Pass  上关闭火热的电池
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/gateway-heads-fiery-batteries-off-at-pass/>
 

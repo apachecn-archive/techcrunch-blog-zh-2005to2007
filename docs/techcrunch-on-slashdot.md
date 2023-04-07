@@ -1,4 +1,4 @@
-# Slashdot 上的 TechCrunch
+# Slashdot 上的 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/14/techcrunch-on-slashdot/>
 

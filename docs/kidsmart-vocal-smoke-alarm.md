@@ -1,4 +1,4 @@
-# 儿童智能发声烟雾报警器| TechCrunch
+# 儿童智能发声烟雾报警器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/kidsmart-vocal-smoke-alarm/>
 

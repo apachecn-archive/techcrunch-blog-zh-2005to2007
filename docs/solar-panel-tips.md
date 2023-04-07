@@ -1,4 +1,4 @@
-# 太阳能电池板技巧| TechCrunch
+# 太阳能电池板技巧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/29/solar-panel-tips/>
 

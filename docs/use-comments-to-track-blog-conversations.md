@@ -1,4 +1,4 @@
-# 使用评论跟踪博客对话——TechCrunch
+# 使用评论跟踪博客对话
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/18/use-comments-to-track-blog-conversations/>
 

@@ -1,4 +1,4 @@
-# 在 Rockstar 工作让你成为一个酷哥——TechCrunch
+# 在 Rockstar 工作让你成为一个酷哥
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/working-at-rockstar-makes-you-one-cool-dude/>
 

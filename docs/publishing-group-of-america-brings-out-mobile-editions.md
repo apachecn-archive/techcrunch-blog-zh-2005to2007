@@ -1,4 +1,4 @@
-# 美国出版集团推出手机版| TechCrunch
+# 美国出版集团推出手机版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/publishing-group-of-america-brings-out-mobile-editions/>
 

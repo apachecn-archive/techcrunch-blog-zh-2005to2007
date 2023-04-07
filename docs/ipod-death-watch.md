@@ -1,4 +1,4 @@
-# iPod 死亡手表| TechCrunch
+# iPod 死亡手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/ipod-death-watch/>
 

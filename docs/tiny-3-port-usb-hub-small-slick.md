@@ -1,4 +1,4 @@
-# 微型 3 端口 USB 集线器:小巧、光滑| TechCrunch
+# 微型 3 端口 USB 集线器:小巧、光滑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/15/tiny-3-port-usb-hub-small-slick/>
 

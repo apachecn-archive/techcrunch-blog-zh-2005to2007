@@ -1,4 +1,4 @@
-# 还记得把收音机录到磁带上吗？TechCrunch
+# 还记得把收音机录到磁带上吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/05/remember-recording-radio-to-cassette/>
 

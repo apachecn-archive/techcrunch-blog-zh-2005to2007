@@ -1,4 +1,4 @@
-# 带 iPod Dock 的罗技 X-240 扬声器| TechCrunch
+# 带 iPod Dock 的罗技 X-240 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/logitech-x-240-speakers-with-ipod-dock/>
 

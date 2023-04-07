@@ -1,4 +1,4 @@
-# Wikisearch 截图不是 Wikiasari，那是什么？TechCrunch
+# Wikisearch 截图不是 Wikiasari，那是什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/25/the-wikisearch-screen-shot-isnt-wikiasari-so-what-is-it/>
 

@@ -1,4 +1,4 @@
-# 面部追踪手机即将上市——TechCrunch
+# 面部追踪手机即将上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/face-tracking-cellphones-coming-soon/>
 

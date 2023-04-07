@@ -1,4 +1,4 @@
-# Helio 商店即将到来——TechCrunch
+# Helio 商店即将到来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/13/helio-stores-are-coming/>
 

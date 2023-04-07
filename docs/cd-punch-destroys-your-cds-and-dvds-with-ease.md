@@ -1,4 +1,4 @@
-# CD Punch 轻松销毁您的 CD 和 DVD——TechCrunch
+# CD Punch 轻松销毁您的 CD 和 DVD
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/18/cd-punch-destroys-your-cds-and-dvds-with-ease/>
 

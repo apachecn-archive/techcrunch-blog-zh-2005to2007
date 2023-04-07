@@ -1,4 +1,4 @@
-# 再次让我们眼花缭乱，del . icio . Us TechCrunch
+# 再次让我们眼花缭乱，del . icio . Us 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/04/dazzle-us-again-delicious/>
 

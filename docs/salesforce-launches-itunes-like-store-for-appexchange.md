@@ -1,4 +1,4 @@
-# Salesforce 为 AppExchange | TechCrunch 推出类似 iTunes 的商店
+# Salesforce 为 AppExchange  推出类似 iTunes 的商店
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/12/salesforce-launches-itunes-like-store-for-appexchange/>
 

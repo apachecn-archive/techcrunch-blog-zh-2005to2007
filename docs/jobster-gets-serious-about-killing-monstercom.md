@@ -1,4 +1,4 @@
-# Jobster 攻击怪兽——TechCrunch
+# Jobster 攻击怪兽
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/jobster-gets-serious-about-killing-monstercom/>
 

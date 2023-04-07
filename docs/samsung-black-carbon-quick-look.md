@@ -1,4 +1,4 @@
-# 三星黑碳快速查看–TechCrunch
+# 三星黑碳快速查看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/samsung-black-carbon-quick-look/>
 

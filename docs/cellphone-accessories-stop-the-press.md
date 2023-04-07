@@ -1,4 +1,4 @@
-# 手机配件:停止新闻！TechCrunch
+# 手机配件:停止新闻！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/cellphone-accessories-stop-the-press/>
 

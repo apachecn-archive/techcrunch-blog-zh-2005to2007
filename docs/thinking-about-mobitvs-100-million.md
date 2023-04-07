@@ -1,4 +1,4 @@
-# 思考 MobiTV 的 1 亿美元 TechCrunch
+# 思考 MobiTV 的 1 亿美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/03/thinking-about-mobitvs-100-million/>
 

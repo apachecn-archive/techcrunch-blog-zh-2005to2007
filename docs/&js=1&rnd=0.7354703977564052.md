@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/03/16/whos-taking-on-digg/&js=1&rnd=0.7354703977564052>
 

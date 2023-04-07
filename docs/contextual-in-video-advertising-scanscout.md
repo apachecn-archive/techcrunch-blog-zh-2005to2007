@@ -1,4 +1,4 @@
-# 背景视频广告:scan scout–TechCrunch
+# 背景视频广告:scan scout
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/14/contextual-in-video-advertising-scanscout/>
 

@@ -1,4 +1,4 @@
-# 抽象电视艺术-gasm-TechCrunch
+# 抽象电视艺术-gasm-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/09/abstractor-tv-art-gasm/>
 

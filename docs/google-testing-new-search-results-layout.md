@@ -1,4 +1,4 @@
-# 谷歌测试新的搜索结果布局？TechCrunch
+# 谷歌测试新的搜索结果布局？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/05/05/google-testing-new-search-results-layout/>
 

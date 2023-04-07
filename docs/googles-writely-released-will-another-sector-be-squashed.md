@@ -1,4 +1,4 @@
-# 谷歌的 Writely 发布；另一个部门会被压扁吗？–TechCrunch
+# 谷歌的 Writely 发布；另一个部门会被压扁吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/17/googles-writely-released-will-another-sector-be-squashed/>
 

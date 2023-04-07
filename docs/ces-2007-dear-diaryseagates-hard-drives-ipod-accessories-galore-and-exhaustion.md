@@ -1,4 +1,4 @@
-# CES 2007:亲爱的日记……希捷的硬盘、iPod 配件和疲惫——TechCrunch
+# CES 2007:亲爱的日记……希捷的硬盘、iPod 配件和疲惫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/ces-2007-dear-diaryseagates-hard-drives-ipod-accessories-galore-and-exhaustion/>
 

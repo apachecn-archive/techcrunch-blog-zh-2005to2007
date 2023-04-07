@@ -1,4 +1,4 @@
-# 赞助商广告时间| TechCrunch
+# 赞助商广告时间
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/06/commercial-break-for-sponsors/>
 

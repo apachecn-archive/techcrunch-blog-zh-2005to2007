@@ -1,4 +1,4 @@
-# 罗约也有博客搜索——TechCrunch
+# 罗约也有博客搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/06/02/rojo-has-blog-search-too/>
 

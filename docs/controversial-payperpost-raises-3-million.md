@@ -1,4 +1,4 @@
-# 备受争议的 PayPerPost 融资 300 万美元——TechCrunch
+# 备受争议的 PayPerPost 融资 300 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/01/controversial-payperpost-raises-3-million/>
 

@@ -1,4 +1,4 @@
-# FileMobile 提高了多媒体共享的标准——TechCrunch
+# FileMobile 提高了多媒体共享的标准
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/03/filemobile-raises-the-bar-for-multimedia-sharing/>
 

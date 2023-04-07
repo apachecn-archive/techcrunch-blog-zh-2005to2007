@@ -1,4 +1,4 @@
-# 音速小子 820 Go Boom | TechCrunch
+# 音速小子 820 Go Boom 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/tsonic-820-go-boom/>
 

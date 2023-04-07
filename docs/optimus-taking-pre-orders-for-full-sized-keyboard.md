@@ -1,4 +1,4 @@
-# Optimus 接受全尺寸键盘的预购——TechCrunch
+# Optimus 接受全尺寸键盘的预购
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/18/optimus-taking-pre-orders-for-full-sized-keyboard/>
 

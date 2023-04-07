@@ -1,4 +1,4 @@
-# 朝鲜获得 UMPC 3G，GPS | TechCrunch
+# 朝鲜获得 UMPC 3G，GPS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/korea-gets-umpc-with-3g-gps/>
 

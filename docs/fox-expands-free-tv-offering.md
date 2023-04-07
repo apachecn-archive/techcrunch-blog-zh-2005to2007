@@ -1,4 +1,4 @@
-# MySpace 进入黄金时段| TechCrunch
+# MySpace 进入黄金时段
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/03/fox-expands-free-tv-offering>
 

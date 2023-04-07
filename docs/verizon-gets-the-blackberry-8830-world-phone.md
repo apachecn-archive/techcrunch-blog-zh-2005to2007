@@ -1,4 +1,4 @@
-# 威瑞森获得黑莓 8830 全球手机——TechCrunch
+# 威瑞森获得黑莓 8830 全球手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/05/verizon-gets-the-blackberry-8830-world-phone/>
 

@@ -1,4 +1,4 @@
-# Cingular 8525 智能手机文档泄露，即将推出——TechCrunch
+# Cingular 8525 智能手机文档泄露，即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/cingular-8525-smartphone-documents-leaked-launch-imminent/>
 

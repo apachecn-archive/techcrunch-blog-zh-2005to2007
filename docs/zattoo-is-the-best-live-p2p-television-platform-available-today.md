@@ -1,4 +1,4 @@
-# Zattoo 是当今最好的直播 P2P 电视平台 TechCrunch
+# Zattoo 是当今最好的直播 P2P 电视平台 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/18/zattoo-is-the-best-live-p2p-television-platform-available-today/>
 

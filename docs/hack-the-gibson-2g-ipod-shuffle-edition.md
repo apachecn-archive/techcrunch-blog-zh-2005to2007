@@ -1,4 +1,4 @@
-# 黑客吉布森:2G iPod Shuffle 版| TechCrunch
+# 黑客吉布森:2G iPod Shuffle 版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/hack-the-gibson-2g-ipod-shuffle-edition/>
 

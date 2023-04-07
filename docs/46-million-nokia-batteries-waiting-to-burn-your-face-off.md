@@ -1,4 +1,4 @@
-# 4600 万块诺基亚电池等着烧掉你的脸——TechCrunch
+# 4600 万块诺基亚电池等着烧掉你的脸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/46-million-nokia-batteries-waiting-to-burn-your-face-off/>
 

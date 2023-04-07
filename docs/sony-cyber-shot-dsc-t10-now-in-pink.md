@@ -1,4 +1,4 @@
-# 索尼 Cyber-shot DSC-T10 现为粉色| TechCrunch
+# 索尼 Cyber-shot DSC-T10 现为粉色
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/sony-cyber-shot-dsc-t10-now-in-pink/>
 

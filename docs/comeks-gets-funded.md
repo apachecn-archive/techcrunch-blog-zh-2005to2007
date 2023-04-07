@@ -1,4 +1,4 @@
-# Comeks 获得资助——TechCrunch
+# Comeks 获得资助
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/comeks-gets-funded/>
 

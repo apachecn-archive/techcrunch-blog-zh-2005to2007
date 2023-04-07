@@ -1,4 +1,4 @@
-# 玛雅的妈妈募集天使轮，推出| TechCrunch
+# 玛雅的妈妈募集天使轮，推出
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/27/mayas-mom-raises-angel-round-launches/>
 

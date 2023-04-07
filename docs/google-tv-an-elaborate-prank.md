@@ -1,4 +1,4 @@
-# 谷歌电视——精心设计的骗局 TechCrunch
+# 谷歌电视——精心设计的骗局 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/28/google-tv-an-elaborate-prank>
 

@@ -1,4 +1,4 @@
-# 新 iMacs 将于下周二亮相——TechCrunch
+# 新 iMacs 将于下周二亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/imac-to-make-its-debut-next-tuesday/>
 

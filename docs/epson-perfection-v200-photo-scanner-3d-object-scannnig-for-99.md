@@ -1,4 +1,4 @@
-# Epson Perfection V200 照片扫描仪:99 美元的 3D 物体扫描——TechCrunch
+# Epson Perfection V200 照片扫描仪:99 美元的 3D 物体扫描
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/epson-perfection-v200-photo-scanner-3d-object-scannnig-for-99/>
 

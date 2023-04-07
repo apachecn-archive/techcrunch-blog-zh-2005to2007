@@ -1,4 +1,4 @@
-# 5.1 声道环绕立体声耳机| TechCrunch
+# 5.1 声道环绕立体声耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/wave-on-51-surround-headphones/>
 

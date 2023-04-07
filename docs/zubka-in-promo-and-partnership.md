@@ -1,4 +1,4 @@
-# 推广和合作中的| TechCrunch
+# 推广和合作中的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/13/zubka-in-promo-and-partnership/>
 

@@ -1,4 +1,4 @@
-# 日本电信提供商来到美国——TechCrunch
+# 日本电信提供商来到美国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/09/japanese-telecom-provider-coming-to-us/>
 

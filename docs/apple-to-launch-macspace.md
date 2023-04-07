@@ -1,4 +1,4 @@
-# 苹果将推出。MacSpace(？？)–TechCrunch
+# 苹果将推出。MacSpace(？？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/apple-to-launch-macspace/>
 

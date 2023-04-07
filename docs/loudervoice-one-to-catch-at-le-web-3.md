@@ -1,4 +1,4 @@
-# LouderVoice 一听乐 Web 3。TechCrunch
+# LouderVoice 一听乐 Web 3。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/loudervoice-one-to-catch-at-le-web-3/>
 

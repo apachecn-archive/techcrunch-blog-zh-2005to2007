@@ -1,4 +1,4 @@
-# ZoomTags 和商业标签云–TechCrunch
+# ZoomTags 和商业标签云
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/30/zoomtags-and-commerical-tag-clouds/>
 

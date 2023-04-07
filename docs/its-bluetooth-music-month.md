@@ -1,4 +1,4 @@
-# 现在是蓝牙音乐月！TechCrunch
+# 现在是蓝牙音乐月！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/its-bluetooth-music-month/>
 

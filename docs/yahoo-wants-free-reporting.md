@@ -1,4 +1,4 @@
-# 雅虎希望免费报道——TechCrunch
+# 雅虎希望免费报道
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/yahoo-wants-free-reporting/>
 

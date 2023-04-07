@@ -1,4 +1,4 @@
-# SWSW 互动来到伦敦，问“我在哪里？”TechCrunch
+# SWSW 互动来到伦敦，问“我在哪里？”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/02/swsw-interactive-comes-to-london-and-asks-where-am-i/>
 

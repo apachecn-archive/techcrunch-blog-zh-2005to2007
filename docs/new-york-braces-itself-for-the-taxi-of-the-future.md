@@ -1,4 +1,4 @@
-# 纽约准备迎接未来的出租车——TechCrunch
+# 纽约准备迎接未来的出租车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/06/new-york-braces-itself-for-the-taxi-of-the-future/>
 

@@ -1,4 +1,4 @@
-# la Brea Massive:Spensive Zunes——TechCrunch
+# la Brea Massive:Spensive Zunes
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/la-brea-massive-spensive-zunes/>
 

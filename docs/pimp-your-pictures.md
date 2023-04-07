@@ -1,4 +1,4 @@
-# 给你的照片拉皮条——TechCrunch
+# 给你的照片拉皮条
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/10/pimp-your-pictures/>
 

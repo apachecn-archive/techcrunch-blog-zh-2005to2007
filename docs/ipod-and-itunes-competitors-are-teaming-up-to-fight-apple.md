@@ -1,4 +1,4 @@
-# iPod 和 iTunes 的竞争对手联手对抗苹果| TechCrunch
+# iPod 和 iTunes 的竞争对手联手对抗苹果
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/ipod-and-itunes-competitors-are-teaming-up-to-fight-apple/>
 

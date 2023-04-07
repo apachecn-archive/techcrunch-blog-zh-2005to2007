@@ -1,4 +1,4 @@
-# Google Circles 旅行车将不会推出全国性的 Wi-Fi——TechCrunch
+# Google Circles 旅行车将不会推出全国性的 Wi-Fi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/google-circles-wagons-will-not-launch-nationwide-wi-fi/>
 

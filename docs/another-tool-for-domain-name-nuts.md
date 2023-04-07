@@ -1,4 +1,4 @@
-# 域名狂人的另一个工具| TechCrunch
+# 域名狂人的另一个工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/20/another-tool-for-domain-name-nuts/>
 

@@ -1,4 +1,4 @@
-# 嘶…想加入 Wink 测试版吗？–TechCrunch
+# 嘶…想加入 Wink 测试版吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/26/psstwant-in-to-the-wink-beta/>
 

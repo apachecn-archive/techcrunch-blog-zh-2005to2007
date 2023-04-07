@@ -1,4 +1,4 @@
-# 阿尔卡特推出廉价手机——TechCrunch
+# 阿尔卡特推出廉价手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/alcatel-unveils-cellphone-on-the-cheap/>
 

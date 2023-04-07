@@ -1,4 +1,4 @@
-# 地区手机收购即将到来？TechCrunch
+# 地区手机收购即将到来？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/regional-cell-phone-buyouts-coming-soon/>
 

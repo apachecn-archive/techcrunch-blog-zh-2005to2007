@@ -1,4 +1,4 @@
-# 诺基亚 N75 评测–TechCrunch
+# 诺基亚 N75 评测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/nokia-n75-review/>
 

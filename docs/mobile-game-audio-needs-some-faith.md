@@ -1,4 +1,4 @@
-# 手机游戏音频需要一些信念——TechCrunch
+# 手机游戏音频需要一些信念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/mobile-game-audio-needs-some-faith/>
 

@@ -1,4 +1,4 @@
-# adesso cyber table t M17–TechCrunch
+# adesso cyber table t M17
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/adesso-cybertablet-m17/>
 

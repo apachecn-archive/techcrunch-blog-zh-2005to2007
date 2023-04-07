@@ -1,4 +1,4 @@
-# TomTom GO 910 被 Virii 困扰——TechCrunch
+# TomTom GO 910 被 Virii 困扰
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/tomtom-go-910-plagued-by-virii/>
 

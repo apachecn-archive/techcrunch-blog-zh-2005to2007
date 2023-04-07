@@ -1,4 +1,4 @@
-# 剑桥 Soundworks Radio CD 745i w/ iPod 支持| TechCrunch
+# 剑桥 Soundworks Radio CD 745i w/ iPod 支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/cambridge-soundworks-radio-cd-745i-w-ipod-support/>
 

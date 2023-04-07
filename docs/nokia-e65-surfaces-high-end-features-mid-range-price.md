@@ -1,4 +1,4 @@
-# 诺基亚 E65 Surfaces:高端功能，中档价格| TechCrunch
+# 诺基亚 E65 Surfaces:高端功能，中档价格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/nokia-e65-surfaces-high-end-features-mid-range-price/>
 

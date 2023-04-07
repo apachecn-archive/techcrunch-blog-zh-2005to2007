@@ -1,4 +1,4 @@
-# 嘿宝贝，想看看我的蛋糕吗？TechCrunch
+# 嘿宝贝，想看看我的蛋糕吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/hey-baby-wanna-see-my-isnake/>
 

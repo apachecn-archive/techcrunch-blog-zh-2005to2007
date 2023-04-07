@@ -1,4 +1,4 @@
-# oDesk 达到里程碑，降低费用——TechCrunch
+# oDesk 达到里程碑，降低费用
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/19/odesk-hits-milestones-lowers-fees/>
 

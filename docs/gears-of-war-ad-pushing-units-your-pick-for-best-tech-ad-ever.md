@@ -1,4 +1,4 @@
-# 战争机器和推进装置。你认为有史以来最好的科技广告是什么？TechCrunch
+# 战争机器和推进装置。你认为有史以来最好的科技广告是什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/gears-of-war-ad-pushing-units-your-pick-for-best-tech-ad-ever/>
 

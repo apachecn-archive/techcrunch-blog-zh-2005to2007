@@ -1,4 +1,4 @@
-# 社交色情——它最终会发生——TechCrunch
+# 社交色情——它最终会发生
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/07/social-porn-it-had-to-happen-eventually/>
 

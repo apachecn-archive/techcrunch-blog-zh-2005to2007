@@ -1,4 +1,4 @@
-# 报纸还能生存多久？TechCrunch
+# 报纸还能生存多久？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/how-much-longer-can-newspapers-survive/>
 

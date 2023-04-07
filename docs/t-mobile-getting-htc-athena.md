@@ -1,4 +1,4 @@
-# T-Mobile 获得 HTC Athena | TechCrunch
+# T-Mobile 获得 HTC Athena 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/t-mobile-getting-htc-athena/>
 

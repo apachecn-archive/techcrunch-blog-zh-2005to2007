@@ -1,4 +1,4 @@
-# 摄像头百万像素真的加起来吗？–TechCrunch
+# 摄像头百万像素真的加起来吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/21/do-cameraphone-megapixels-really-add-up/>
 

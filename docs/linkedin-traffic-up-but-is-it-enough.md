@@ -1,4 +1,4 @@
-# LinkedIn 的流量上升了，但这就足够了吗？–TechCrunch
+# LinkedIn 的流量上升了，但这就足够了吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/13/linkedin-traffic-up-but-is-it-enough/>
 

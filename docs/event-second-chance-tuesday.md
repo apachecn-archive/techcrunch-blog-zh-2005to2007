@@ -1,4 +1,4 @@
-# 事件:第二次机会周二| TechCrunch
+# 事件:第二次机会周二
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/event-second-chance-tuesday/>
 

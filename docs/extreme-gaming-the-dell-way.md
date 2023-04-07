@@ -1,4 +1,4 @@
-# 戴尔方式的极限游戏–TechCrunch
+# 戴尔方式的极限游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/extreme-gaming-the-dell-way/>
 

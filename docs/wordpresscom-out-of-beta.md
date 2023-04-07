@@ -1,4 +1,4 @@
-# Wordpress.com 退出测试——TechCrunch
+# Wordpress.com 退出测试
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/21/wordpresscom-out-of-beta/>
 

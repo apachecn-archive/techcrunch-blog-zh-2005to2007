@@ -1,4 +1,4 @@
-# 用 iPod | TechCrunch 控制 PowerPoint
+# 用 iPod  控制 PowerPoint
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/29/powerpoint-control-with-your-ipod/>
 

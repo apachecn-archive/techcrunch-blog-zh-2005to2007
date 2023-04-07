@@ -1,4 +1,4 @@
-# I/OMagic 仍然存在，释放外部硬盘| TechCrunch
+# I/OMagic 仍然存在，释放外部硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/iomagic-still-exists-releases-external-hard-drives/>
 

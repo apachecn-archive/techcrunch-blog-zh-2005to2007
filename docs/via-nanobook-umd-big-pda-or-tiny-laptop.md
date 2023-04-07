@@ -1,4 +1,4 @@
-# UMD:大 PDA 还是小笔记本？–TechCrunch
+# UMD:大 PDA 还是小笔记本？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/via-nanobook-umd-big-pda-or-tiny-laptop/>
 

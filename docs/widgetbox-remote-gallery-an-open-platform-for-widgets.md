@@ -1,4 +1,4 @@
-# Widgetbox 远程图库:一个开放的微件平台——TechCrunch
+# Widgetbox 远程图库:一个开放的微件平台
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/30/widgetbox-remote-gallery-an-open-platform-for-widgets/>
 

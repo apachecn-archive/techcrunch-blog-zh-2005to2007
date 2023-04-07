@@ -1,4 +1,4 @@
-# 请使用超薄 DVD 刻录机| TechCrunch
+# 请使用超薄 DVD 刻录机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/27/plextor-working-on-wafer-thin-dvd-burner/>
 

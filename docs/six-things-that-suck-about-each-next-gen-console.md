@@ -1,4 +1,4 @@
-# 每个下一代游戏机的六个缺点——TechCrunch
+# 每个下一代游戏机的六个缺点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/six-things-that-suck-about-each-next-gen-console/>
 

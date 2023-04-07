@@ -1,4 +1,4 @@
-# 声音观点:耳机摊牌——TechCrunch
+# 声音观点:耳机摊牌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/25/sound-opinion-headphone-showdown/>
 

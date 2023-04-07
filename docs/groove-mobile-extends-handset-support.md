@@ -1,4 +1,4 @@
-# Groove Mobile 扩展了手机支持–TechCrunch
+# Groove Mobile 扩展了手机支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/groove-mobile-extends-handset-support/>
 

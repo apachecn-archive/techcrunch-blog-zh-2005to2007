@@ -1,4 +1,4 @@
-# 美国都市人的阳台烧烤——TechCrunch
+# 美国都市人的阳台烧烤
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/05/balcony-grill-for-us-urbanites/>
 

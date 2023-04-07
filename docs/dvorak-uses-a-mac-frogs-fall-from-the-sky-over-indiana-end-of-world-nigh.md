@@ -1,4 +1,4 @@
-# 德沃夏克使用苹果电脑，青蛙从印第安纳上空坠落，世界末日 Nigh | TechCrunch
+# 德沃夏克使用苹果电脑，青蛙从印第安纳上空坠落，世界末日 Nigh 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/27/dvorak-uses-a-mac-frogs-fall-from-the-sky-over-indiana-end-of-world-nigh/>
 

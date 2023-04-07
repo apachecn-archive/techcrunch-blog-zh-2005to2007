@@ -1,4 +1,4 @@
-# 你的女士肿块上的 iPod 控制| TechCrunch
+# 你的女士肿块上的 iPod 控制
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/ipod-controls-on-your-lady-lumps/>
 

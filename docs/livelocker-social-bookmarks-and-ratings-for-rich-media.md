@@ -1,4 +1,4 @@
-# 丰富媒体的 Livelocker 社交书签和评级——TechCrunch
+# 丰富媒体的 Livelocker 社交书签和评级
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/11/livelocker-social-bookmarks-and-ratings-for-rich-media/>
 

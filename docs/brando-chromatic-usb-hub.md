@@ -1,4 +1,4 @@
-# Brando 彩色 USB 集线器–TechCrunch
+# Brando 彩色 USB 集线器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/brando-chromatic-usb-hub/>
 

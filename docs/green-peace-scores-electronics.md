@@ -1,4 +1,4 @@
-# 绿色和平评分电子| TechCrunch
+# 绿色和平评分电子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/26/green-peace-scores-electronics/>
 

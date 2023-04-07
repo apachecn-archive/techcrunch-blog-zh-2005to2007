@@ -1,4 +1,4 @@
-# iPod 的 iSing 扬声器基座:管状| TechCrunch
+# iPod 的 iSing 扬声器基座:管状
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/08/the-ising-speaker-dock-for-ipod-tubular/>
 

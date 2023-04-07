@@ -1,4 +1,4 @@
-# MusicStation 启动并运行| TechCrunch
+# MusicStation 启动并运行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/15/musicstation-up-and-running/>
 

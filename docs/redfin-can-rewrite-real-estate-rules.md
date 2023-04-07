@@ -1,4 +1,4 @@
-# Redfin 将改变房地产销售规则 TechCrunch
+# Redfin 将改变房地产销售规则 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/31/redfin-can-rewrite-real-estate-rules/>
 

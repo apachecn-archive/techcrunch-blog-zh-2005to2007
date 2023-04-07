@@ -1,4 +1,4 @@
-# Paltalk 告诉 Xbox Live 闭嘴| TechCrunch
+# Paltalk 告诉 Xbox Live 闭嘴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/paltalk-tells-xbox-live-to-shut-up/>
 

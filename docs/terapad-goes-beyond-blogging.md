@@ -1,4 +1,4 @@
-# Terapad 超越博客| TechCrunch
+# Terapad 超越博客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/10/terapad-goes-beyond-blogging/>
 

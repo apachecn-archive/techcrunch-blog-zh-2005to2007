@@ -1,4 +1,4 @@
-# 加拿大人在 3 月 14 日获得号码可移植性，嗯？TechCrunch
+# 加拿大人在 3 月 14 日获得号码可移植性，嗯？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/27/canadians-getting-number-portability-march-14-eh/>
 

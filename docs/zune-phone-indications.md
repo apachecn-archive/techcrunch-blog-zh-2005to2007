@@ -1,4 +1,4 @@
-# Zune 手机指示？TechCrunch
+# Zune 手机指示？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/zune-phone-indications/>
 

@@ -1,4 +1,4 @@
-# 经证实:电视网络推出新公司以对抗谷歌/YouTube 的威胁 TechCrunch
+# 经证实:电视网络推出新公司以对抗谷歌/YouTube 的威胁 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/22/confirmed-tv-networks-launch-new-company-to-counter-perceived-googleyoutube-threat/>
 

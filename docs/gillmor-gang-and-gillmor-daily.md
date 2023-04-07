@@ -1,4 +1,4 @@
-# 吉尔摩帮和吉尔摩日报——TechCrunch
+# 吉尔摩帮和吉尔摩日报
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/31/gillmor-gang-and-gillmor-daily/>
 

@@ -1,4 +1,4 @@
-# GeoNames:地理数据维基百科 TechCrunch
+# GeoNames:地理数据维基百科 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/26/geonames-wikipedia-for-geographical-data/>
 

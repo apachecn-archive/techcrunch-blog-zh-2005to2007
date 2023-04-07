@@ -1,4 +1,4 @@
-# 在 WoW 社交网站——TechCrunch 上工作的 Napster 老兄
+# 在 WoW 社交网站 上工作的 Napster 老兄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/05/napster-dude-working-on-wow-social-networking-site/>
 

@@ -1,4 +1,4 @@
-# Insigna Amigo 2GB MP3 播放器视频预览| TechCrunch
+# Insigna Amigo 2GB MP3 播放器视频预览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/insigna-amigo-2gb-mp3-player-video-preview/>
 

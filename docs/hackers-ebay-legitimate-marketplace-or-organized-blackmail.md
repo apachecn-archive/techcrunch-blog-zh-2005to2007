@@ -1,4 +1,4 @@
-# 黑客的易贝:合法的市场还是有组织的勒索？–TechCrunch
+# 黑客的易贝:合法的市场还是有组织的勒索？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/hackers-ebay-legitimate-marketplace-or-organized-blackmail/>
 

@@ -1,4 +1,4 @@
-# FOWA 的凯文·罗斯:DIGG 采用 OpenID——TechCrunch
+# FOWA 的凯文·罗斯:DIGG 采用 OpenID
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/kevin-rose-at-fowa-digg-adopts-openid/>
 

@@ -1,4 +1,4 @@
-# Xbox 360 Elite 不那么精英:没有 HDMI 1.3，PCM 音频，不治疗阳痿| TechCrunch
+# Xbox 360 Elite 不那么精英:没有 HDMI 1.3，PCM 音频，不治疗阳痿
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/xbox-360-elite-not-so-elite-doesnt-have-hdmi-13-pcm-audio-does-not-cure-impotence/>
 

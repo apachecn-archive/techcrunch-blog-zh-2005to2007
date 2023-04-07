@@ -1,4 +1,4 @@
-# 钛牙刷——TechCrunch
+# 钛牙刷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/09/tifinity-titanium-toothbrush/>
 

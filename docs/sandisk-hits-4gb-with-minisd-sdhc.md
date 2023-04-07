@@ -1,4 +1,4 @@
-# SanDisk 通过 miniSD SDHC 达到 4GB | TechCrunch
+# SanDisk 通过 miniSD SDHC 达到 4GB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/sandisk-hits-4gb-with-minisd-sdhc/>
 

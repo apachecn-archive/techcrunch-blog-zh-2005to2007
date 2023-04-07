@@ -1,4 +1,4 @@
-# 披头士登陆 iTunes？TechCrunch
+# 披头士登陆 iTunes？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/beatles-coming-to-itunes/>
 

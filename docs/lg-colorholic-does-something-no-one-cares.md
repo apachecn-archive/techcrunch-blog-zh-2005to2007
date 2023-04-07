@@ -1,4 +1,4 @@
-# LG Colorholic 做点什么，没人管| TechCrunch
+# LG Colorholic 做点什么，没人管
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/lg-colorholic-does-something-no-one-cares/>
 

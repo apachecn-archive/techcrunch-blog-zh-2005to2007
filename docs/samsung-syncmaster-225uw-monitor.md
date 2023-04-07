@@ -1,4 +1,4 @@
-# 三星 SyncMaster 225UW 显示器–TechCrunch
+# 三星 SyncMaster 225UW 显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/samsung-syncmaster-225uw-monitor/>
 

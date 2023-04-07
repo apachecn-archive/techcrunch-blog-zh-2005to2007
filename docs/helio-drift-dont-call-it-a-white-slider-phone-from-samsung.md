@@ -1,4 +1,4 @@
-# Helio Drift:不要称它为三星| TechCrunch 的白色滑盖手机
+# Helio Drift:不要称它为三星 的白色滑盖手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/25/helio-drift-dont-call-it-a-white-slider-phone-from-samsung/>
 

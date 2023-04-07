@@ -1,4 +1,4 @@
-# TagWorld 谣言:维亚康姆投资和合作伙伴——TechCrunch
+# TagWorld 谣言:维亚康姆投资和合作伙伴
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/16/tagworld-deadpool-or-success/>
 

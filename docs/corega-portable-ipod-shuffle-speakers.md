@@ -1,4 +1,4 @@
-# Corega 便携式 iPod Shuffle 扬声器| TechCrunch
+# Corega 便携式 iPod Shuffle 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/05/corega-portable-ipod-shuffle-speakers/>
 

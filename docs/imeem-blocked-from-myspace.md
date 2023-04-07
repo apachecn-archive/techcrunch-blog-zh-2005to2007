@@ -1,4 +1,4 @@
-# Imeem 被 MySpace 屏蔽了。下一个是谁？TechCrunch
+# Imeem 被 MySpace 屏蔽了。下一个是谁？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/25/imeem-blocked-from-myspace/>
 

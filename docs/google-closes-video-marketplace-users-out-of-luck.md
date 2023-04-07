@@ -1,4 +1,4 @@
-# 谷歌关闭视频市场；倒霉的用户| TechCrunch
+# 谷歌关闭视频市场；倒霉的用户
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/10/google-closes-video-marketplace-users-out-of-luck/>
 

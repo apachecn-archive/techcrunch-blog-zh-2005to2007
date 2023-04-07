@@ -1,4 +1,4 @@
-# 极度快乐的大脚:迪士尼以高达 7 亿美元收购企鹅俱乐部 TechCrunch
+# 极度快乐的大脚:迪士尼以高达 7 亿美元收购企鹅俱乐部 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/01/disney-acquires-club-penguin/>
 

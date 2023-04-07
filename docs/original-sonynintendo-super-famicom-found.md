@@ -1,4 +1,4 @@
-# 原创索尼/任天堂超级 Famicom 发现| TechCrunch
+# 原创索尼/任天堂超级 Famicom 发现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/original-sonynintendo-super-famicom-found/>
 

@@ -1,4 +1,4 @@
-# 拆解:iPhone 内部 TechCrunch
+# 拆解:iPhone 内部 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/02/dismantled-inside-the-iphone/>
 

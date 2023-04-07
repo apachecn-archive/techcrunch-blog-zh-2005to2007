@@ -1,4 +1,4 @@
-# Hawkee 成为极客的 MySpace | TechCrunch
+# Hawkee 成为极客的 MySpace 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/05/hawkee-becomes-myspace-for-geeks/>
 

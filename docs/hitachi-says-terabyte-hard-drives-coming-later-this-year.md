@@ -1,4 +1,4 @@
-# 日立表示今年晚些时候将推出万亿字节硬盘——TechCrunch
+# 日立表示今年晚些时候将推出万亿字节硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/hitachi-says-terabyte-hard-drives-coming-later-this-year/>
 

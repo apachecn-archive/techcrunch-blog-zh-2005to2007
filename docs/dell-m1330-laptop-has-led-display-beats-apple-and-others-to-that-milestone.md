@@ -1,4 +1,4 @@
-# 戴尔 m1330 笔记本电脑采用 LED 显示屏，击败了苹果和其他公司，达到了这一里程碑——TechCrunch
+# 戴尔 m1330 笔记本电脑采用 LED 显示屏，击败了苹果和其他公司，达到了这一里程碑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/dell-m1330-laptop-has-led-display-beats-apple-and-others-to-that-milestone/>
 

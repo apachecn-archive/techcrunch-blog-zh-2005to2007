@@ -1,4 +1,4 @@
-# 指标显示顶级移动领域不足为奇| TechCrunch
+# 指标显示顶级移动领域不足为奇
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/02/metrics-show-top-mobile-domains-no-surprise/>
 

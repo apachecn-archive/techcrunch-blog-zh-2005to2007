@@ -1,4 +1,4 @@
-# Sybase 以全现金交易方式收购 mobile 365 | TechCrunch
+# Sybase 以全现金交易方式收购 mobile 365 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/mobile-365-buys-sybase-in-an-all-cash-transaction/>
 

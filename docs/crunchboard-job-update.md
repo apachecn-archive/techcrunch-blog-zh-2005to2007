@@ -1,4 +1,4 @@
-# CrunchBoard 工作更新 TechCrunch
+# CrunchBoard 工作更新 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/crunchboard-job-update/>
 

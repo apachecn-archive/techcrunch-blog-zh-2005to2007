@@ -1,4 +1,4 @@
-# 使用 DetectNu | TechCrunch 的 GPS/GSM 干扰器制造麻烦
+# 使用 DetectNu  的 GPS/GSM 干扰器制造麻烦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/raise-hell-with-a-gpsgsm-jammer-from-detectnu/>
 

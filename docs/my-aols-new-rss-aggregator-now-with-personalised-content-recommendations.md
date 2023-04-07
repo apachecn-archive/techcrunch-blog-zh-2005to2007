@@ -1,4 +1,4 @@
-# My AOL 的新 RSS 聚合器现在提供个性化内容推荐| TechCrunch
+# My AOL 的新 RSS 聚合器现在提供个性化内容推荐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/my-aols-new-rss-aggregator-now-with-personalised-content-recommendations/>
 

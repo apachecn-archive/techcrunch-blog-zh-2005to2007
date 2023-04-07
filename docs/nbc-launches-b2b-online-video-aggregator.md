@@ -1,4 +1,4 @@
-# NBC 推出 b2b 在线视频聚合器——TechCrunch
+# NBC 推出 b2b 在线视频聚合器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/12/nbc-launches-b2b-online-video-aggregator/>
 

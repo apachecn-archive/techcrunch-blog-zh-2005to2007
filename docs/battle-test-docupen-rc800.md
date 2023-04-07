@@ -1,4 +1,4 @@
-# 实战测试:DocuPen RC 800–TechCrunch
+# 实战测试:DocuPen RC 800
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/battle-test-docupen-rc800/>
 

@@ -1,4 +1,4 @@
-# YouTube 刚刚又筹集了 2500 万美元吗？TechCrunch
+# YouTube 刚刚又筹集了 2500 万美元吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/30/did-youtube-just-raise-another-25-million/>
 

@@ -1,4 +1,4 @@
-# SideStep 收购旅游社交网络 TripUp TechCrunch
+# SideStep 收购旅游社交网络 TripUp 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/09/sidestep-acquires-travel-social-network-tripup/>
 

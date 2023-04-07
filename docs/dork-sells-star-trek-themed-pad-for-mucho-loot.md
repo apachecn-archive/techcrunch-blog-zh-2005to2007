@@ -1,4 +1,4 @@
-# 呆子卖星际迷航主题垫为 Mucho Loot-TechCrunch
+# 呆子卖星际迷航主题垫为 Mucho Loot-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/dork-sells-star-trek-themed-pad-for-mucho-loot/>
 

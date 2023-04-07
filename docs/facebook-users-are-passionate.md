@@ -1,4 +1,4 @@
-# 脸书用户确实很热情——TechCrunch
+# 脸书用户确实很热情
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/09/facebook-users-are-passionate/>
 

@@ -1,4 +1,4 @@
-# 佳能 EOS-40D 在即？–TechCrunch
+# 佳能 EOS-40D 在即？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/22/canon-eos-40d-imminent/>
 

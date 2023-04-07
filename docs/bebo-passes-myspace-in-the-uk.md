@@ -1,4 +1,4 @@
-# Bebo 在英国超过 MySpace——TechCrunch
+# Bebo 在英国超过 MySpace
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/08/bebo-passes-myspace-in-the-uk/>
 

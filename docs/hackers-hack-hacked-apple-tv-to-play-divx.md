@@ -1,4 +1,4 @@
-# 黑客 Hack 黑苹果电视玩 DivX | TechCrunch
+# 黑客 Hack 黑苹果电视玩 DivX 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/23/hackers-hack-hacked-apple-tv-to-play-divx/>
 

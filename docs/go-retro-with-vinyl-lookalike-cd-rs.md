@@ -1,4 +1,4 @@
-# 使用类似黑胶的 CD-r 来复古| TechCrunch
+# 使用类似黑胶的 CD-r 来复古
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/go-retro-with-vinyl-lookalike-cd-rs/>
 

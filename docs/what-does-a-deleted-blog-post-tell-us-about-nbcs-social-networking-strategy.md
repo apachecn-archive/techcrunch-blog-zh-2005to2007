@@ -1,4 +1,4 @@
-# 关于 NBC 的社交网络战略，一篇被删除的博文告诉了我们什么？TechCrunch
+# 关于 NBC 的社交网络战略，一篇被删除的博文告诉了我们什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/14/what-does-a-deleted-blog-post-tell-us-about-nbcs-social-networking-strategy>
 

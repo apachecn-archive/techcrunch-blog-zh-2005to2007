@@ -1,4 +1,4 @@
-# 谷歌地图的缩放魔法被揭开| TechCrunch
+# 谷歌地图的缩放魔法被揭开
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/google-maps-zoom-magic-uncovered/>
 

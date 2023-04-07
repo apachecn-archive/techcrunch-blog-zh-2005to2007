@@ -1,4 +1,4 @@
-# 好主意，坏主意:微波炉版的 iPod——TechCrunch
+# 好主意，坏主意:微波炉版的 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/good-idea-bad-idea-ipod-in-a-microwave-edition/>
 

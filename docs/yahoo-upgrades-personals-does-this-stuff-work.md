@@ -1,4 +1,4 @@
-# 雅虎升级个人信息-这东西有用吗？TechCrunch
+# 雅虎升级个人信息-这东西有用吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/20/yahoo-upgrades-personals-does-this-stuff-work/>
 

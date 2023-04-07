@@ -1,4 +1,4 @@
-# 获取 Vista，获得免费 T-Mobile hotspot age | TechCrunch
+# 获取 Vista，获得免费 T-Mobile hotspot age 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/get-vista-get-free-t-mobile-hotspottage/>
 

@@ -1,4 +1,4 @@
-# systemax Pursuit 4155:999 美元 Vista Ultimate 笔记本电脑| TechCrunch
+# systemax Pursuit 4155:999 美元 Vista Ultimate 笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/systemax-pursuit-4155-999-vista-ultimate-laptop/>
 

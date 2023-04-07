@@ -1,4 +1,4 @@
-# 谣言错误:PS3 固件版本 2.00 不真实(嗯，还没有)| TechCrunch
+# 谣言错误:PS3 固件版本 2.00 不真实(嗯，还没有)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/rumor-wrong-ps3-firmware-version-200-not-real-well-not-yet/>
 

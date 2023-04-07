@@ -1,4 +1,4 @@
-# mobi blu Q-Bling–TechCrunch
+# mobi blu Q-Bling
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/mobiblu-q-bling/>
 

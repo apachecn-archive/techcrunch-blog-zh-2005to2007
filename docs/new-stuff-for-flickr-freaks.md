@@ -1,4 +1,4 @@
-# 给 Flickr 爱好者的新东西 TechCrunch
+# 给 Flickr 爱好者的新东西 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/18/new-stuff-for-flickr-freaks/>
 

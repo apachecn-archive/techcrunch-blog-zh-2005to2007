@@ -1,4 +1,4 @@
-# 从 iTMS 下载了星际迷航？申领您的 25 美元——TechCrunch
+# 从 iTMS 下载了星际迷航？申领您的 25 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/downloaded-star-trek-off-itms-claim-your-25/>
 

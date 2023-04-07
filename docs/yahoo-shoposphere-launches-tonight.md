@@ -1,4 +1,4 @@
-# 雅虎购物圈刚刚推出——TechCrunch
+# 雅虎购物圈刚刚推出
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/14/yahoo-shoposphere-launches-tonight/>
 

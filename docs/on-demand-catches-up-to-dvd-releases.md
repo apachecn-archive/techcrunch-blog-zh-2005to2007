@@ -1,4 +1,4 @@
-# 点播赶上 DVD 发行| TechCrunch
+# 点播赶上 DVD 发行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/on-demand-catches-up-to-dvd-releases/>
 

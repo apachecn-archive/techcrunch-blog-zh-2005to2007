@@ -1,4 +1,4 @@
-# 回转陀螺运输机实践| TechCrunch
+# 回转陀螺运输机实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/18/gyration-gyrotransport-hands-on/>
 

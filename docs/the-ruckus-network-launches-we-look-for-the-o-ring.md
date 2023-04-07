@@ -1,4 +1,4 @@
-# Ruckus 网络推出，我们寻找 O 型圈| TechCrunch
+# Ruckus 网络推出，我们寻找 O 型圈
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/the-ruckus-network-launches-we-look-for-the-o-ring/>
 

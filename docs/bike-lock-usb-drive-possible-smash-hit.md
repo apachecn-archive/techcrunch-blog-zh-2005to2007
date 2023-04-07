@@ -1,4 +1,4 @@
-# 自行车锁+u 盘=可能大获成功| TechCrunch
+# 自行车锁+u 盘=可能大获成功
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/bike-lock-usb-drive-possible-smash-hit/>
 

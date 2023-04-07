@@ -1,4 +1,4 @@
-# 网景| TechCrunch 的巨大红旗
+# 网景 的巨大红旗
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/19/huge-red-flag-at-netscape>
 

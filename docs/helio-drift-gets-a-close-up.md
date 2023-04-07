@@ -1,4 +1,4 @@
-# Helio Drift 获得特写——TechCrunch
+# Helio Drift 获得特写
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/17/helio-drift-gets-a-close-up/>
 

@@ -1,4 +1,4 @@
-# 旅行装备综述| TechCrunch
+# 旅行装备综述
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/travel-gear-round-up/>
 

@@ -1,4 +1,4 @@
-# Mefeedia 被评为“网络最佳”——TechCrunch
+# Mefeedia 被评为“网络最佳”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/19/mefeedia-named-best-of-the-web/>
 

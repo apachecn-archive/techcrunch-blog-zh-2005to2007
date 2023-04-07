@@ -1,4 +1,4 @@
-# AVerMedia AVerVision300AF 便携式文档相机| TechCrunch
+# AVerMedia AVerVision300AF 便携式文档相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/23/avermedia-avervision300af-portable-document-camera/>
 

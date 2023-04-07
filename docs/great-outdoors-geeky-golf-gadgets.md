@@ -1,4 +1,4 @@
-# 伟大的户外运动:极客高尔夫小工具| TechCrunch
+# 伟大的户外运动:极客高尔夫小工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/05/great-outdoors-geeky-golf-gadgets/>
 

@@ -1,4 +1,4 @@
-# Celunite 率先加入 LiMo 基金会——TechCrunch
+# Celunite 率先加入 LiMo 基金会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/celunite-first-to-join-limo-foundation/>
 

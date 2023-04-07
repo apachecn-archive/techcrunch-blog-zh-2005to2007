@@ -1,4 +1,4 @@
-# iCache 存储你所有的信用卡——TechCrunch
+# iCache 存储你所有的信用卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/icache-stores-all-your-credit-cards/>
 

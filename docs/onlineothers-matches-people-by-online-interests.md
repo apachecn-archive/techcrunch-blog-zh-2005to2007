@@ -1,4 +1,4 @@
-# OthersOnline 通过在线兴趣匹配人们——TechCrunch
+# OthersOnline 通过在线兴趣匹配人们
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/02/onlineothers-matches-people-by-online-interests/>
 

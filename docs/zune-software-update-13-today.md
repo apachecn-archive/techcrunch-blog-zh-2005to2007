@@ -1,4 +1,4 @@
-# Zune 软件更新 1.3:今天| TechCrunch
+# Zune 软件更新 1.3:今天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/zune-software-update-13-today/>
 

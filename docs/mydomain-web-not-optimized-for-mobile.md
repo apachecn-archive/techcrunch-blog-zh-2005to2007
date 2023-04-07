@@ -1,4 +1,4 @@
-# MyDomain: Web 未针对移动设备进行优化| TechCrunch
+# MyDomain: Web 未针对移动设备进行优化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/01/mydomain-web-not-optimized-for-mobile/>
 

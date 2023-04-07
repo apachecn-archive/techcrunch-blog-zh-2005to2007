@@ -1,4 +1,4 @@
-# 面向家庭的 Match.com——TechCrunch
+# 面向家庭的 Match.com
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/16/matchcom-for-families/>
 

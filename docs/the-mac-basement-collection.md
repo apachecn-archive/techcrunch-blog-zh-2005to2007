@@ -1,4 +1,4 @@
-# Mac 地下室系列–TechCrunch
+# Mac 地下室系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/the-mac-basement-collection/>
 

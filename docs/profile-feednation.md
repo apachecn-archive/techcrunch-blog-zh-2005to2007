@@ -1,4 +1,4 @@
-# 简介:feed nation–TechCrunch
+# 简介:feed nation
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/30/profile-feednation/>
 

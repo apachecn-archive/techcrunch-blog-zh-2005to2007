@@ -1,4 +1,4 @@
-# 独家:iRiver Clix Rhapsody 评论——TechCrunch
+# 独家:iRiver Clix Rhapsody 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/exclusive-iriver-clix-rhapsody-review/>
 

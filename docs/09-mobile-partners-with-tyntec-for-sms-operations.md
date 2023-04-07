@@ -1,4 +1,4 @@
-# 09 与 TynTec 在短信运营方面的移动合作伙伴——TechCrunch
+# 09 与 TynTec 在短信运营方面的移动合作伙伴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/06/09-mobile-partners-with-tyntec-for-sms-operations/>
 

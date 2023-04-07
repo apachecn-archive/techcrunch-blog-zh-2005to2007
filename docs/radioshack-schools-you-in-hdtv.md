@@ -1,4 +1,4 @@
-# RadioShack 在高清电视| TechCrunch 上教你
+# RadioShack 在高清电视 上教你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/radioshack-schools-you-in-hdtv/>
 

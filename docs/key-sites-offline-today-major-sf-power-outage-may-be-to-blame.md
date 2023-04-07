@@ -1,4 +1,4 @@
-# 今天关键网站下线；旧金山大停电可能是原因 TechCrunch
+# 今天关键网站下线；旧金山大停电可能是原因 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/24/key-sites-offline-today-major-sf-power-outage-may-be-to-blame/>
 

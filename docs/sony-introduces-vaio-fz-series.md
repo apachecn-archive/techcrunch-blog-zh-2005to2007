@@ -1,4 +1,4 @@
-# 索尼推出 VAIO FZ 系列| TechCrunch
+# 索尼推出 VAIO FZ 系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/sony-introduces-vaio-fz-series/>
 

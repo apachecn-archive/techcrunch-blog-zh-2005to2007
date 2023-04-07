@@ -1,4 +1,4 @@
-# 韩国手机 500 万像素| TechCrunch
+# 韩国手机 500 万像素
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/five-megapixels-for-korean-cell-phones/>
 

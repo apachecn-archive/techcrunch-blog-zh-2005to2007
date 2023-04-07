@@ -1,4 +1,4 @@
-# Photobucket 是对谷歌/YouTube——TechCrunch 的偷窃
+# Photobucket 是对谷歌/YouTube 的偷窃
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/07/photobucket-was-a-steal-v-googleyoutube/>
 

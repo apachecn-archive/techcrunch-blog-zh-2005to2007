@@ -1,4 +1,4 @@
-# 水牛城的防震 200GB 硬盘| TechCrunch
+# 水牛城的防震 200GB 硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/buffalos-shock-proof-200gb-hard-drive/>
 

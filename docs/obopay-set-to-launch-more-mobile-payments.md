@@ -1,4 +1,4 @@
-# Obopay 即将推出:更多移动支付——TechCrunch
+# Obopay 即将推出:更多移动支付
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/29/obopay-set-to-launch-more-mobile-payments/>
 

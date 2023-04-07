@@ -1,4 +1,4 @@
-# DSILO:死皮进/出| TechCrunch
+# DSILO:死皮进/出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/dsilo-dead-skin-inlint-out/>
 

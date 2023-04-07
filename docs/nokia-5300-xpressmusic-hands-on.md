@@ -1,4 +1,4 @@
-# 诺基亚 5300 XpressMusic 评论–TechCrunch
+# 诺基亚 5300 XpressMusic 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/03/nokia-5300-xpressmusic-hands-on/>
 

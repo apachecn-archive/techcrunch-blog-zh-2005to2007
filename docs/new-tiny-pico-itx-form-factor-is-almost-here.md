@@ -1,4 +1,4 @@
-# 新的微型 ITX 外形(几乎)在这里| TechCrunch
+# 新的微型 ITX 外形(几乎)在这里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/11/new-tiny-pico-itx-form-factor-is-almost-here/>
 

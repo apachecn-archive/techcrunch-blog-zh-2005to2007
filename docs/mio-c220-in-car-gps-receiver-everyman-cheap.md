@@ -1,4 +1,4 @@
-# Mio C220 车载 GPS 接收器:Everyman Cheap | TechCrunch
+# Mio C220 车载 GPS 接收器:Everyman Cheap 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/11/mio-c220-in-car-gps-receiver-everyman-cheap/>
 

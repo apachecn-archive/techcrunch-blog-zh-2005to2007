@@ -1,4 +1,4 @@
-# 鸣鸟今晚发布| TechCrunch
+# 鸣鸟今晚发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/07/songbird-to-launch-tonight/>
 

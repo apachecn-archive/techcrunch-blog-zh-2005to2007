@@ -1,4 +1,4 @@
-# 汉莎航空于 2008 年重新推出 Wi-Fi——TechCrunch
+# 汉莎航空于 2008 年重新推出 Wi-Fi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/lufthansa-bringing-back-wi-fi-in-2008/>
 

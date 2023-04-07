@@ -1,4 +1,4 @@
-# YouTube 进入欧洲 LG 手机——TechCrunch
+# YouTube 进入欧洲 LG 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/youtube-coming-to-euro-lg-handsets/>
 

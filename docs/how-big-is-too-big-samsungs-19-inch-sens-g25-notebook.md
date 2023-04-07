@@ -1,4 +1,4 @@
-# 多大才算太大？三星 19 英寸 SENS G25 笔记本| TechCrunch
+# 多大才算太大？三星 19 英寸 SENS G25 笔记本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/how-big-is-too-big-samsungs-19-inch-sens-g25-notebook/>
 

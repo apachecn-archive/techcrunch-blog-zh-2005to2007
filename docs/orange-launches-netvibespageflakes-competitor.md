@@ -1,4 +1,4 @@
-# Orange 推出 Netvibes/Pageflakes 竞争对手 TechCrunch
+# Orange 推出 Netvibes/Pageflakes 竞争对手 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/05/orange-launches-netvibespageflakes-competitor/>
 

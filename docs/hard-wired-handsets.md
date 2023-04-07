@@ -1,4 +1,4 @@
-# 硬连线手机| TechCrunch
+# 硬连线手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/hard-wired-handsets/>
 

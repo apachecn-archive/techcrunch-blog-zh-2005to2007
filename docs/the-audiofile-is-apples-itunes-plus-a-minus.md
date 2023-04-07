@@ -1,4 +1,4 @@
-# 音频文件:苹果的 iTunes 是加号还是减号？TechCrunch
+# 音频文件:苹果的 iTunes 是加号还是减号？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/the-audiofile-is-apples-itunes-plus-a-minus/>
 

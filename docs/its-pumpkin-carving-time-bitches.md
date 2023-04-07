@@ -1,4 +1,4 @@
-# 南瓜雕刻时间到了，婊子们！–TechCrunch
+# 南瓜雕刻时间到了，婊子们！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/its-pumpkin-carving-time-bitches/>
 

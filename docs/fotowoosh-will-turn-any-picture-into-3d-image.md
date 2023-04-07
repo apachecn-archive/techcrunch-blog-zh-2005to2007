@@ -1,4 +1,4 @@
-# Fotowoosh 将把任何图片变成 3D 图像——TechCrunch
+# Fotowoosh 将把任何图片变成 3D 图像
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/15/fotowoosh-will-turn-any-picture-into-3d-image/>
 

@@ -1,4 +1,4 @@
-# Info SD 卡显示可用空间| TechCrunch
+# Info SD 卡显示可用空间
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/info-sd-card-shows-you-how-much-space-youve-got/>
 

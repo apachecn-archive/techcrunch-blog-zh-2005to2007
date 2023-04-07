@@ -1,4 +1,4 @@
-# 博客摇摆博客统计节拍！TechCrunch
+# 博客摇摆博客统计节拍！
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/21/blogbeat-rocking-the-blog-stat-beats/>
 

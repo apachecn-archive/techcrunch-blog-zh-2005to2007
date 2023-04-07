@@ -1,4 +1,4 @@
-# Scrapblog 离线，准备重新发布——TechCrunch
+# Scrapblog 离线，准备重新发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/19/scrapblog-offline-preparing-relaunch/>
 

@@ -1,4 +1,4 @@
-# 在时代广场玩 PlayStation 3–TechCrunch
+# 在时代广场玩 PlayStation 3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/play-playstation-3-in-times-square/>
 

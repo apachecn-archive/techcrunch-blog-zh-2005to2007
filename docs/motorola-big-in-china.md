@@ -1,4 +1,4 @@
-# 摩托罗拉在中国大| TechCrunch
+# 摩托罗拉在中国大
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/motorola-big-in-china/>
 

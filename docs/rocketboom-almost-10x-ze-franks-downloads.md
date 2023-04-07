@@ -1,4 +1,4 @@
-# Rocketboom:几乎是 Ze Frank 下载量的 10 倍 TechCrunch
+# Rocketboom:几乎是 Ze Frank 下载量的 10 倍 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/27/rocketboom-almost-10x-ze-franks-downloads>
 

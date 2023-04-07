@@ -1,4 +1,4 @@
-# Riya 2.0 在路上；重大战略转变–TechCrunch
+# Riya 2.0 在路上；重大战略转变
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/15/riya-20-on-the-way-major-strategy-shift/>
 

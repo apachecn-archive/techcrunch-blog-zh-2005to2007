@@ -1,4 +1,4 @@
-# 讨厌 Wii 的人，你们有一首主题曲——TechCrunch
+# 讨厌 Wii 的人，你们有一首主题曲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/wii-haters-you-have-a-theme-song/>
 

@@ -1,4 +1,4 @@
-# Earthlink 什么时候变得这么酷了？–TechCrunch
+# Earthlink 什么时候变得这么酷了？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/13/when-did-earthlink-get-so-cool/>
 

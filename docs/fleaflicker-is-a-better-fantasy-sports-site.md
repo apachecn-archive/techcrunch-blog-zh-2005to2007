@@ -1,4 +1,4 @@
-# FleaFlicker 是一个更好的幻想体育网站 TechCrunch
+# FleaFlicker 是一个更好的幻想体育网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/09/fleaflicker-is-a-better-fantasy-sports-site/>
 

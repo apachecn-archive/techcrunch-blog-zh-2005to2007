@@ -1,4 +1,4 @@
-# Kingston DataTraveler Secure，Secure–Privacy Edition:加密、加固，为您提供保护| TechCrunch
+# Kingston DataTraveler Secure，Secure–Privacy Edition:加密、加固，为您提供保护
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/kingston-datatraveler-secure-secure-privacy-edition-encrypted-rugged-for-your-protection/>
 

@@ -1,4 +1,4 @@
-# KickApps:提供| TechCrunch 的白色标签社交网络
+# KickApps:提供 的白色标签社交网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/20/kickapps-white-label-social-networking-that-delivers/>
 

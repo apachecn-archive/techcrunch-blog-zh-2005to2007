@@ -1,4 +1,4 @@
-# 严重重视与天狼星 InV SV2-TK？–TechCrunch
+# 严重重视与天狼星 InV SV2-TK？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/08/serious-valued-with-sirius-inv-sv2-tk/>
 

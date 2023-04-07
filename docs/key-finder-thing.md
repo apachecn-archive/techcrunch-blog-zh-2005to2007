@@ -1,4 +1,4 @@
-# 关键发现者| TechCrunch
+# 关键发现者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/key-finder-thing/>
 

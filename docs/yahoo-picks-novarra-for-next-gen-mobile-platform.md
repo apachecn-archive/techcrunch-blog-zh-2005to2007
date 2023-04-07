@@ -1,4 +1,4 @@
-# 雅虎！选择 Novarra 作为下一代移动平台| TechCrunch
+# 雅虎！选择 Novarra 作为下一代移动平台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/yahoo-picks-novarra-for-next-gen-mobile-platform/>
 

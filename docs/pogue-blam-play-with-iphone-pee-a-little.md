@@ -1,4 +1,4 @@
-# Pogue，Blam 玩 iPhone，尿一点| TechCrunch
+# Pogue，Blam 玩 iPhone，尿一点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/pogue-blam-play-with-iphone-pee-a-little/>
 

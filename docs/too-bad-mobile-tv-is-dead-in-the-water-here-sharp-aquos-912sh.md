@@ -1,4 +1,4 @@
-# 太糟糕了，移动电视在这里已经死了:夏普 Aquos 912SH | TechCrunch
+# 太糟糕了，移动电视在这里已经死了:夏普 Aquos 912SH 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/too-bad-mobile-tv-is-dead-in-the-water-here-sharp-aquos-912sh/>
 

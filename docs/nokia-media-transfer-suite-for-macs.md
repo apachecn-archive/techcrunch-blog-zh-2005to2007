@@ -1,4 +1,4 @@
-# 适用于 MAC 电脑的诺基亚媒体传输套件–TechCrunch
+# 适用于 MAC 电脑的诺基亚媒体传输套件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/nokia-media-transfer-suite-for-macs/>
 

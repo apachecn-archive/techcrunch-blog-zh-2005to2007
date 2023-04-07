@@ -1,4 +1,4 @@
-# 深度网络搜索——两种方法——TechCrunch
+# 深度网络搜索——两种方法
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/24/deep-web-search-dipsie-glenbrook/>
 

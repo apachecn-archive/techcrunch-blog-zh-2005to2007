@@ -1,4 +1,4 @@
-# 微软指责被盗界面 TechCrunch
+# 微软指责被盗界面 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/09/01/microsoft-cries-foul-at-stolen-interface/>
 

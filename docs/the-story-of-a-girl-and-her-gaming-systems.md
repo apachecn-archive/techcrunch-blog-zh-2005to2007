@@ -1,4 +1,4 @@
-# 一个女孩和她的游戏系统的故事——TechCrunch
+# 一个女孩和她的游戏系统的故事
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/the-story-of-a-girl-and-her-gaming-systems/>
 

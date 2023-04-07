@@ -1,4 +1,4 @@
-# Iomega eSATA 320GB USB 驱动器| TechCrunch
+# Iomega eSATA 320GB USB 驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/iomega-esata-320gb-usb-drive/>
 

@@ -1,4 +1,4 @@
-# 澳大利亚政府起诉谷歌“误导和欺骗行为”——TechCrunch
+# 澳大利亚政府起诉谷歌“误导和欺骗行为”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/12/australian-government-sues-google-for-misleading-and-deceptive-conduct/>
 

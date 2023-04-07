@@ -1,4 +1,4 @@
-# 在线音乐许可:you license TechCrunch
+# 在线音乐许可:you license 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/05/19/music-licensing-online-youlicense/>
 

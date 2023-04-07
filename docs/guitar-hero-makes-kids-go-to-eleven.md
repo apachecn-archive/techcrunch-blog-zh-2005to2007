@@ -1,4 +1,4 @@
-# 吉他英雄让孩子们去 11 点| TechCrunch
+# 吉他英雄让孩子们去 11 点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/guitar-hero-makes-kids-go-to-eleven/>
 

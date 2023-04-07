@@ -1,4 +1,4 @@
-# 时代华纳有线电视上市——TechCrunch
+# 时代华纳有线电视上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/13/time-warner-cable-goes-public/>
 

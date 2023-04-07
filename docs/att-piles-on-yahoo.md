@@ -1,4 +1,4 @@
-# 美国电话电报公司投资雅虎 TechCrunch
+# 美国电话电报公司投资雅虎 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/09/att-piles-on-yahoo/>
 

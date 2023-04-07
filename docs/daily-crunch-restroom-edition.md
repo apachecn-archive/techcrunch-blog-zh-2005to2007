@@ -1,4 +1,4 @@
-# 每日危机:洗手间版| TechCrunch
+# 每日危机:洗手间版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/daily-crunch-restroom-edition/>
 

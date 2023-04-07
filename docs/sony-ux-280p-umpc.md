@@ -1,4 +1,4 @@
-# 索尼 UX-280 p UMPC-TechCrunch
+# 索尼 UX-280 p UMPC-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/sony-ux-280p-umpc/>
 

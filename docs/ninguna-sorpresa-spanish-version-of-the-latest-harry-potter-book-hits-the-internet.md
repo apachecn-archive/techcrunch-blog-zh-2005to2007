@@ -1,4 +1,4 @@
-# 《哈利·波特》最新一本书的西班牙语版本登陆互联网——TechCrunch
+# 《哈利·波特》最新一本书的西班牙语版本登陆互联网
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/ninguna-sorpresa-spanish-version-of-the-latest-harry-potter-book-hits-the-internet/>
 

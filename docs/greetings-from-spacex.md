@@ -1,4 +1,4 @@
-# 来自 SpaceX | TechCrunch 的问候
+# 来自 SpaceX  的问候
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/greetings-from-spacex/>
 

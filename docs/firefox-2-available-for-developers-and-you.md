@@ -1,4 +1,4 @@
-# 面向开发者(和你)的 Firefox 2–TechCrunch
+# 面向开发者(和你)的 Firefox 2
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/01/firefox-2-available-for-developers-and-you/>
 

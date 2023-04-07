@@ -1,4 +1,4 @@
-# iPhone 露营报道–TechCrunch
+# iPhone 露营报道
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/iphone-camp-out-coverage/>
 

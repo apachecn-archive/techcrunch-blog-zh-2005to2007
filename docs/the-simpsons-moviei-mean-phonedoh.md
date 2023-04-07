@@ -1,4 +1,4 @@
-# 《辛普森一家》电影…我是说电话…哦| TechCrunch
+# 《辛普森一家》电影…我是说电话…哦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/08/the-simpsons-moviei-mean-phonedoh/>
 

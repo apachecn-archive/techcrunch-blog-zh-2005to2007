@@ -1,4 +1,4 @@
-# Edge 的 100 款游戏:前 10 款更可信| TechCrunch
+# Edge 的 100 款游戏:前 10 款更可信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/05/edges-top-100-games-the-top-10-was-more-believable/>
 

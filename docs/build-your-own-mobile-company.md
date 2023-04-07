@@ -1,4 +1,4 @@
-# 构建您自己的三流移动网络 TechCrunch
+# 构建您自己的三流移动网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/02/build-your-own-mobile-company/>
 

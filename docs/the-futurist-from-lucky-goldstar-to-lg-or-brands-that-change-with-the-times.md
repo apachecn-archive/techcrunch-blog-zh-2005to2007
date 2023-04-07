@@ -1,4 +1,4 @@
-# 未来主义者:从 Lucky-Goldstar 到 LG，或者……与时俱进的品牌——TechCrunch
+# 未来主义者:从 Lucky-Goldstar 到 LG，或者……与时俱进的品牌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/08/the-futurist-from-lucky-goldstar-to-lg-or-brands-that-change-with-the-times/>
 

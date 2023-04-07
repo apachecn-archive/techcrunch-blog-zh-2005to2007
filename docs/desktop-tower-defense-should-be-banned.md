@@ -1,4 +1,4 @@
-# 桌面塔防应该被禁止 TechCrunch
+# 桌面塔防应该被禁止 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/16/desktop-tower-defense-should-be-banned/>
 

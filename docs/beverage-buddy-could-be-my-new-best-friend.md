@@ -1,4 +1,4 @@
-# 饮料伙伴可能是我的新朋友——TechCrunch
+# 饮料伙伴可能是我的新朋友
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/beverage-buddy-could-be-my-new-best-friend/>
 

@@ -1,4 +1,4 @@
-# Zune Insider 详细介绍 Zune 盒子里的配件——TechCrunch
+# Zune Insider 详细介绍 Zune 盒子里的配件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/zune-insider-details-accessories-inside-zune-box/>
 

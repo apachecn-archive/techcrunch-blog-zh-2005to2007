@@ -1,4 +1,4 @@
-# MyStrands 获得 2500 万美元 B 轮融资——TechCrunch
+# MyStrands 获得 2500 万美元 B 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/18/mystrands-gets-25million-series-b/>
 

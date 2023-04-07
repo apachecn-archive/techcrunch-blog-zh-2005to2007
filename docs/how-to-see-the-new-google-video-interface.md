@@ -1,4 +1,4 @@
-# 如何看待新的谷歌视频界面——TechCrunch
+# 如何看待新的谷歌视频界面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/12/how-to-see-the-new-google-video-interface>
 

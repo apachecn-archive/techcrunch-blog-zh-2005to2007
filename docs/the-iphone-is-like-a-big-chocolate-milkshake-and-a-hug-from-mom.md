@@ -1,4 +1,4 @@
-# iPhone 就像一大杯巧克力奶昔和妈妈的拥抱——TechCrunch
+# iPhone 就像一大杯巧克力奶昔和妈妈的拥抱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/the-iphone-is-like-a-big-chocolate-milkshake-and-a-hug-from-mom/>
 

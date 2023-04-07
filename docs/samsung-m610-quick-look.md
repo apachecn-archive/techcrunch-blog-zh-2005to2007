@@ -1,4 +1,4 @@
-# 三星 M610 快速查看| TechCrunch
+# 三星 M610 快速查看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/samsung-m610-quick-look/>
 

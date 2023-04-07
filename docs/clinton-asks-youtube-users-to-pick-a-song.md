@@ -1,4 +1,4 @@
-# 克林顿要求 YouTube 用户选择一首歌——TechCrunch
+# 克林顿要求 YouTube 用户选择一首歌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/28/clinton-asks-youtube-users-to-pick-a-song/>
 

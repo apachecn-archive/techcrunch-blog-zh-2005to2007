@@ -1,4 +1,4 @@
-# 来自百思买| TechCrunch 的母亲节礼物创意
+# 来自百思买 的母亲节礼物创意
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/06/mothers-day-gift-idea-from-best-buy/>
 

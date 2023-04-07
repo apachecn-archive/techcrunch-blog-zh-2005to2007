@@ -1,4 +1,4 @@
-# Google PowerPoint 克隆版即将推出——TechCrunch
+# Google PowerPoint 克隆版即将推出
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/04/google-powerpoint-clone-coming/>
 

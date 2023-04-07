@@ -1,4 +1,4 @@
-# 玩 WWDC 07 宾果游戏！TechCrunch
+# 玩 WWDC 07 宾果游戏！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/play-wwdc-07-bingo/>
 

@@ -1,4 +1,4 @@
-# 技术。Memeorandum 现在是 TechMeme–TechCrunch
+# 技术。Memeorandum 现在是 TechMeme
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/08/techmemeorandum-is-now-techmeme/>
 

@@ -1,4 +1,4 @@
-# 8 月推出新的人脸识别摄像头| TechCrunch
+# 8 月推出新的人脸识别摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/new-face-recognizing-cameras-in-august/>
 

@@ -1,4 +1,4 @@
-# 是的，但是这和 iPhone 有什么关系呢？–TechCrunch
+# 是的，但是这和 iPhone 有什么关系呢？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/04/yes-but-what-does-that-have-to-do-with-the-iphone/>
 

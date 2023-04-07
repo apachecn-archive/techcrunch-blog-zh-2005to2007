@@ -1,4 +1,4 @@
-# 索尼爱立信 P990i 可在亚马逊| TechCrunch 上购买
+# 索尼爱立信 P990i 可在亚马逊 上购买
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/sony-ericsson-p990i-available-on-amazon/>
 

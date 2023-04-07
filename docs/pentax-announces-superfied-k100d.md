@@ -1,4 +1,4 @@
-# 宾得宣布推出超高速 K100D | TechCrunch
+# 宾得宣布推出超高速 K100D 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/pentax-announces-superfied-k100d/>
 

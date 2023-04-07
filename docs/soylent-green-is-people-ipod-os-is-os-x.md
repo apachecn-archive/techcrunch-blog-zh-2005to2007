@@ -1,4 +1,4 @@
-# Soylent Green 是人，iPod OS 是 OS X！TechCrunch
+# Soylent Green 是人，iPod OS 是 OS X！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/soylent-green-is-people-ipod-os-is-os-x/>
 

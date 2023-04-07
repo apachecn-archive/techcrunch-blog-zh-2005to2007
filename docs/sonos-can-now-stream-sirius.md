@@ -1,4 +1,4 @@
-# Sonos 现在可以播放 Sirius——TechCrunch
+# Sonos 现在可以播放 Sirius
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/15/sonos-can-now-stream-sirius/>
 

@@ -1,4 +1,4 @@
-# 苹果公司声称对“Pod”一词拥有专属使用权——TechCrunch
+# 苹果公司声称对“Pod”一词拥有专属使用权
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/apple-claims-exclusive-use-to-the-word-pod/>
 

@@ -1,4 +1,4 @@
-# Saitek 的彩色键盘和鼠标| TechCrunch
+# Saitek 的彩色键盘和鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/saiteks-colorful-keyboard-and-mouse/>
 

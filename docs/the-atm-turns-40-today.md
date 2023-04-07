@@ -1,4 +1,4 @@
-# 自动取款机今天迎来 40 岁生日——TechCrunch
+# 自动取款机今天迎来 40 岁生日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/the-atm-turns-40-today/>
 

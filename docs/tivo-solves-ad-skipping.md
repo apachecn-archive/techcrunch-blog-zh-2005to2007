@@ -1,4 +1,4 @@
-# TiVo 解决广告跳过？–TechCrunch
+# TiVo 解决广告跳过？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/tivo-solves-ad-skipping/>
 

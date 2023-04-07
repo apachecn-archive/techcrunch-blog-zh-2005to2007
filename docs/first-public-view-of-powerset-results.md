@@ -1,4 +1,4 @@
-# 首次公开 Powerset 结果——TechCrunch
+# 首次公开 Powerset 结果
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/11/first-public-view-of-powerset-results/>
 

@@ -1,4 +1,4 @@
-# NAB 2007:艾捷拉的火线全能| TechCrunch
+# NAB 2007:艾捷拉的火线全能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/nab-2007-ajas-firewire-do-it-all/>
 

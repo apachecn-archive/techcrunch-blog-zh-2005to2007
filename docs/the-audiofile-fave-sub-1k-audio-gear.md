@@ -1,4 +1,4 @@
-# 音频文件:最受欢迎的 1K 以下音频设备| TechCrunch
+# 音频文件:最受欢迎的 1K 以下音频设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/the-audiofile-fave-sub-1k-audio-gear/>
 

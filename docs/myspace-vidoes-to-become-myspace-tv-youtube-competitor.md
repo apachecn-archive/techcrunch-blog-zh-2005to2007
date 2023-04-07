@@ -1,4 +1,4 @@
-# MySpace 视频将成为 MySpace TV、YouTube 的竞争对手 TechCrunch
+# MySpace 视频将成为 MySpace TV、YouTube 的竞争对手 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/27/myspace-vidoes-to-become-myspace-tv-youtube-competitor/>
 

@@ -1,4 +1,4 @@
-# Answerbag 把农场押在了小部件和一个应用程序接口上——TechCrunch
+# Answerbag 把农场押在了小部件和一个应用程序接口上
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/07/answerbag-bets-the-farm-on-widgets-and-an-api/>
 

@@ -1,4 +1,4 @@
-# 带 120GB 硬盘和 HDMI 的黑色 Xbox 360 正在路上？–TechCrunch
+# 带 120GB 硬盘和 HDMI 的黑色 Xbox 360 正在路上？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/08/black-xbox-360-with-120gb-drive-and-hdmi-on-its-way/>
 

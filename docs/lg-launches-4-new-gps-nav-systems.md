@@ -1,4 +1,4 @@
-# LG 推出 4 款新 GPS 导航系统——TechCrunch
+# LG 推出 4 款新 GPS 导航系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/lg-launches-4-new-gps-nav-systems/>
 

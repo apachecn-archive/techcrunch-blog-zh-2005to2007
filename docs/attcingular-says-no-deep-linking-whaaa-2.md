@@ -1,4 +1,4 @@
-# 美国电话电报公司/辛古拉说没有深层联系。哇！？–TechCrunch
+# 美国电话电报公司/辛古拉说没有深层联系。哇！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/attcingular-says-no-deep-linking-whaaa-2/>
 

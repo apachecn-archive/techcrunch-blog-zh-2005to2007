@@ -1,4 +1,4 @@
-# 东芝升级 Transmemory USB 闪存驱动器–TechCrunch
+# 东芝升级 Transmemory USB 闪存驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/25/toshiba-upgrades-transmemory-usb-flash-drives/>
 

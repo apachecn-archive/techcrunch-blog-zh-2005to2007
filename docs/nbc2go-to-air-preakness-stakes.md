@@ -1,4 +1,4 @@
-# NBC2GO to Air Preakness 股份–TechCrunch
+# NBC2GO to Air Preakness 股份
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/nbc2go-to-air-preakness-stakes/>
 

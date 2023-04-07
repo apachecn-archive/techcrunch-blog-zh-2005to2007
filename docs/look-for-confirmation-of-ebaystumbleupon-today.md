@@ -1,4 +1,4 @@
-# 今天就期待易贝/StumbleUpon 的确认 TechCrunch
+# 今天就期待易贝/StumbleUpon 的确认 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/30/look-for-confirmation-of-ebaystumbleupon-today/>
 

@@ -1,4 +1,4 @@
-# 布莱恩·林战斗！TechCrunch
+# 布莱恩·林战斗！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/01/brian-lam-fight/>
 

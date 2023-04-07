@@ -1,4 +1,4 @@
-# Bluepulse 称之为“Meebo for your phone”——TechCrunch
+# Bluepulse 称之为“Meebo for your phone”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/19/bluepulse-called-meebo-for-your-phone/>
 

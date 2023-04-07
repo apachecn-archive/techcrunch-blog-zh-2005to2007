@@ -1,4 +1,4 @@
-# 戈登·弗里曼变得真实——TechCrunch
+# 戈登·弗里曼变得真实
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/gordon-freeman-comes-to-life/>
 

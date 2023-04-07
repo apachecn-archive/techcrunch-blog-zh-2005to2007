@@ -1,4 +1,4 @@
-# Datacolor SpyderTV 动手| TechCrunch
+# Datacolor SpyderTV 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/datacolor-spydertv-hands-on/>
 

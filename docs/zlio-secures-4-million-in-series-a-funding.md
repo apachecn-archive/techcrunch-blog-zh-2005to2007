@@ -1,4 +1,4 @@
-# Zlio 获得 400 万美元首轮融资——TechCrunch
+# Zlio 获得 400 万美元首轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/09/zlio-secures-4-million-in-series-a-funding/>
 

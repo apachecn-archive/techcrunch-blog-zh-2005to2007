@@ -1,4 +1,4 @@
-# 强大的变形汽车面板–TechCrunch
+# 强大的变形汽车面板
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/09/shape-shifting-car/>
 

@@ -1,4 +1,4 @@
-# Slingbox 改版| TechCrunch
+# Slingbox 改版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/14/slingbox-gets-a-facelift/>
 

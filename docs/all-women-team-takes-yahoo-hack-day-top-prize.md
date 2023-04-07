@@ -1,4 +1,4 @@
-# 全女性团队获得雅虎黑客日最高奖项 TechCrunch
+# 全女性团队获得雅虎黑客日最高奖项 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/01/all-women-team-takes-yahoo-hack-day-top-prize/>
 

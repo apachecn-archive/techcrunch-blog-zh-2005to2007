@@ -1,4 +1,4 @@
-# 最新的 iPhone 视频向我们展示了键盘有多简单——TechCrunch
+# 最新的 iPhone 视频向我们展示了键盘有多简单
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/latest-iphone-video-shows-us-how-easy-the-keyboard-really-is/>
 

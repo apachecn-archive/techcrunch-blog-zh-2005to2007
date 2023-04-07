@@ -1,4 +1,4 @@
-# 专利猴:移动社交网络专利售价 260 万美元| TechCrunch
+# 专利猴:移动社交网络专利售价 260 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/patent-monkey-mobile-social-networking-patent-sells-for-26-million/>
 

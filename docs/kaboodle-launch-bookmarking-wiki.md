@@ -1,4 +1,4 @@
-# Kaboodle 发布:书签+Wiki-TechCrunch
+# Kaboodle 发布:书签+Wiki-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/25/kaboodle-launch-bookmarking-wiki/>
 

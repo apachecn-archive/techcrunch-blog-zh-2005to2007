@@ -1,4 +1,4 @@
-# 为西班牙电信| TechCrunch 推送电子邮件
+# 为西班牙电信 推送电子邮件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/seven-pushes-e-mail-for-telefonica/>
 

@@ -1,4 +1,4 @@
-# orb my casting:iTunes+Wii = Hotness | TechCrunch
+# orb my casting:iTunes+Wii = Hotness 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/orb-mycasting-itunes-wii-hotness/>
 

@@ -1,4 +1,4 @@
-# 伟大的户外:极客烧烤技巧——TechCrunch
+# 伟大的户外:极客烧烤技巧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/great-outdoors-geek-grilling-tips/>
 

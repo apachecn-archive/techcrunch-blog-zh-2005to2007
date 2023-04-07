@@ -1,4 +1,4 @@
-# 哔哔哔，宽负载通过:Clever3000 家庭服务器 TechCrunch
+# 哔哔哔，宽负载通过:Clever3000 家庭服务器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/beep-beep-beep-wideload-coming-through-clever3000-home-server/>
 

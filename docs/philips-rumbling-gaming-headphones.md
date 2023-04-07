@@ -1,4 +1,4 @@
-# 飞利浦游戏耳机——TechCrunch
+# 飞利浦游戏耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/philips-rumbling-gaming-headphones/>
 

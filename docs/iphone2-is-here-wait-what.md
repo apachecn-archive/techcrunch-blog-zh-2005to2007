@@ -1,4 +1,4 @@
-# iPhone2 来了！等等，什么？TechCrunch
+# iPhone2 来了！等等，什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/iphone2-is-here-wait-what/>
 

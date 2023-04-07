@@ -1,4 +1,4 @@
-# 纸巾枕头:装有纸巾的枕头！TechCrunch
+# 纸巾枕头:装有纸巾的枕头！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/kleenex-pillow-a-pillow-with-kleenex/>
 

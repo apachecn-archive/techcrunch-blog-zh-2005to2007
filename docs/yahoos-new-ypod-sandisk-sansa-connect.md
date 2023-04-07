@@ -1,4 +1,4 @@
-# 雅虎新网站:SanDisk Sansa Connect | TechCrunch
+# 雅虎新网站:SanDisk Sansa Connect 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/yahoos-new-ypod-sandisk-sansa-connect/>
 

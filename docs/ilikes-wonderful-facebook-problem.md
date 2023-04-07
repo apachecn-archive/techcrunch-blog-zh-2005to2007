@@ -1,4 +1,4 @@
-# 我喜欢奇妙的脸书问题——TechCrunch
+# 我喜欢奇妙的脸书问题
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/17/ilikes-wonderful-facebook-problem/>
 

@@ -1,4 +1,4 @@
-# 光环 3:种族主义版——TechCrunch
+# 光环 3:种族主义版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/06/halo-3-racist-edition/>
 

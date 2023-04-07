@@ -1,4 +1,4 @@
-# Vivendi Games Mobile 宣布 2007 年下半年游戏名称——TechCrunch
+# Vivendi Games Mobile 宣布 2007 年下半年游戏名称
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/vivendi-games-mobile-announces-second-half-%e2%80%9907-game-titles/>
 

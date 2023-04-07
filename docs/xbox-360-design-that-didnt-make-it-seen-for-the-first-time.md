@@ -1,4 +1,4 @@
-# 未能成功的 Xbox 360 设计首次亮相| TechCrunch
+# 未能成功的 Xbox 360 设计首次亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/xbox-360-design-that-didnt-make-it-seen-for-the-first-time/>
 

@@ -1,4 +1,4 @@
-# 带 Mac 专属功能的 Skype For Mac 2.6 TechCrunch
+# 带 Mac 专属功能的 Skype For Mac 2.6 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/11/skype-for-mac-26-with-mac-exclusive-feature/>
 

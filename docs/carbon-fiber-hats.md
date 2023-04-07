@@ -1,4 +1,4 @@
-# 碳纤维帽子–TechCrunch
+# 碳纤维帽子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/16/carbon-fiber-hats/>
 

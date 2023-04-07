@@ -1,4 +1,4 @@
-# 针对路由器和手机的新攻击百分之百成功 TechCrunch
+# 针对路由器和手机的新攻击百分之百成功 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/20/new-attack-targets-routers-and-cellphones-100-percent-successful/>
 

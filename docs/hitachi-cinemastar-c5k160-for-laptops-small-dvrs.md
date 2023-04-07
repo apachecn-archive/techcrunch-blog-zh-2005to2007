@@ -1,4 +1,4 @@
-# 日立 CinemaStar C5K160，适用于笔记本电脑、小型 DVRs | TechCrunch
+# 日立 CinemaStar C5K160，适用于笔记本电脑、小型 DVRs 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/hitachi-cinemastar-c5k160-for-laptops-small-dvrs/>
 

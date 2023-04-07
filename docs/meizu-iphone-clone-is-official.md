@@ -1,4 +1,4 @@
-# 魅族 iPhone 克隆官方| TechCrunch
+# 魅族 iPhone 克隆官方
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/07/meizu-iphone-clone-is-official/>
 

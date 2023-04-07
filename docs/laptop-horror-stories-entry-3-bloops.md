@@ -1,4 +1,4 @@
-# 笔记本电脑恐怖故事入门 3: Bloops！| TechCrunch
+# 笔记本电脑恐怖故事入门 3: Bloops！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/laptop-horror-stories-entry-3-bloops/>
 

@@ -1,4 +1,4 @@
-# CNN | TechCrunch 上的多事之秋
+# CNN  上的多事之秋
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/18/eventful-on-cnn/>
 

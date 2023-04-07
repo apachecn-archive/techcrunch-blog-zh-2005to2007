@@ -1,4 +1,4 @@
-# Sirius Stiletto 100 来了…惊喜| TechCrunch
+# Sirius Stiletto 100 来了…惊喜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/26/sirius-stiletto-100-is-coming-surprise/>
 

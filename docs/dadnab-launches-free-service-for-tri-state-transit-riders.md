@@ -1,4 +1,4 @@
-# Dadnab 为三州公交乘客推出免费服务| TechCrunch
+# Dadnab 为三州公交乘客推出免费服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/dadnab-launches-free-service-for-tri-state-transit-riders/>
 

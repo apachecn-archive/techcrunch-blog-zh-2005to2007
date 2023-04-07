@@ -1,4 +1,4 @@
-# Wii 上的谷歌阅读器——TechCrunch
+# Wii 上的谷歌阅读器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/google-reader-for-your-wii/>
 

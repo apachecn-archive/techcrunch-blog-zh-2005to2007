@@ -1,4 +1,4 @@
-# 快照图片搜索| TechCrunch
+# 快照图片搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/19/snap-image-search/>
 

@@ -1,4 +1,4 @@
-# 维亚康姆将与 Joost | TechCrunch 签署协议
+# 维亚康姆将与 Joost  签署协议
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/viacom-to-sign-deal-with-joost/>
 

@@ -1,4 +1,4 @@
-# 萨利姆伊斯梅尔将领导雅虎砖房 TechCrunch
+# 萨利姆伊斯梅尔将领导雅虎砖房 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/14/salim-ismail-to-head-yahoo-brickhouse/>
 

@@ -1,4 +1,4 @@
-# 永远不要这样对待你的 PS3——TechCrunch
+# 永远不要这样对待你的 PS3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/never-ever-do-this-to-your-ps3/>
 

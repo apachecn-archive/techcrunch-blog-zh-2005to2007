@@ -1,4 +1,4 @@
-# 诺基亚 6086 通过 FCC | TechCrunch 认证
+# 诺基亚 6086 通过 FCC  认证
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/05/nokia-6086-approved-by-fcc/>
 

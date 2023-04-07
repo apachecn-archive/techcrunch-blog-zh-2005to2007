@@ -1,4 +1,4 @@
-# 忘记 YouTube:如果你想要侵犯版权的核心内容，就去这些网站 TechCrunch
+# 忘记 YouTube:如果你想要侵犯版权的核心内容，就去这些网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/04/04/forget-youtube-go-to-these-sites-if-you-want-hard-core-copyright-infringing-content/>
 

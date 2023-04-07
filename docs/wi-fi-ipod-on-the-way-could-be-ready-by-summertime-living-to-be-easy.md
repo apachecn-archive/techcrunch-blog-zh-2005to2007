@@ -1,4 +1,4 @@
-# Wi-Fi iPod 正在路上，可能会在夏天准备好，轻松生活——TechCrunch
+# Wi-Fi iPod 正在路上，可能会在夏天准备好，轻松生活
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/13/wi-fi-ipod-on-the-way-could-be-ready-by-summertime-living-to-be-easy/>
 

@@ -1,4 +1,4 @@
-# 独家:MySpace 新闻周四发布 TechCrunch
+# 独家:MySpace 新闻周四发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/18/exclusive-myspace-news-launches-tomorrow/>
 

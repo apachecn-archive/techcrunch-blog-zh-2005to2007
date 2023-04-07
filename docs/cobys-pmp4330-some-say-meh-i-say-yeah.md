@@ -1,4 +1,4 @@
-# 克比的 PMP4330:有人说“嗯”，我说“耶！”TechCrunch
+# 克比的 PMP4330:有人说“嗯”，我说“耶！”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/cobys-pmp4330-some-say-meh-i-say-yeah/>
 

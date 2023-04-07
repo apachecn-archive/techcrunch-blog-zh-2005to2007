@@ -1,4 +1,4 @@
-# 炫目的烤面包机放大器| TechCrunch
+# 炫目的烤面包机放大器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/28/dazzling-toaster-amps/>
 

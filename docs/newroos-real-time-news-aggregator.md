@@ -1,4 +1,4 @@
-# Newroo 的实时新闻聚合器 TechCrunch
+# Newroo 的实时新闻聚合器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/03/newroos-real-time-news-aggregator/>
 

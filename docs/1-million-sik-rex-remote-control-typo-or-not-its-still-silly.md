@@ -1,4 +1,4 @@
-# 价值 100 万美元的 SiK rex 遥控器:不管是不是打字错误，它还是很傻——TechCrunch
+# 价值 100 万美元的 SiK rex 遥控器:不管是不是打字错误，它还是很傻
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/1-million-sik-rex-remote-control-typo-or-not-its-still-silly/>
 

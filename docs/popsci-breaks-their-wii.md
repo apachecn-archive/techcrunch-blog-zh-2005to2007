@@ -1,4 +1,4 @@
-# PopSci 打破了它的 Wii | TechCrunch
+# PopSci 打破了它的 Wii 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/20/popsci-breaks-their-wii/>
 

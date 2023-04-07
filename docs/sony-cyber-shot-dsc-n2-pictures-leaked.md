@@ -1,4 +1,4 @@
-# 索尼 Cyber-shot DSC-N2 图片泄露| TechCrunch
+# 索尼 Cyber-shot DSC-N2 图片泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/sony-cyber-shot-dsc-n2-pictures-leaked/>
 

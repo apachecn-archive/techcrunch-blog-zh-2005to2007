@@ -1,4 +1,4 @@
-# 企鹅俱乐部与索尼就 5 亿多美元的收购进行谈判 TechCrunch
+# 企鹅俱乐部与索尼就 5 亿多美元的收购进行谈判 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/16/club-penguin-may-be-acquired-by-sony-for-500-million/>
 

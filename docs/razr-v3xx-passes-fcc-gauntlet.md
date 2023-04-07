@@ -1,4 +1,4 @@
-# Razr V3xx 通过了 FCC 的挑战——TechCrunch
+# Razr V3xx 通过了 FCC 的挑战
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/razr-v3xx-passes-fcc-gauntlet/>
 

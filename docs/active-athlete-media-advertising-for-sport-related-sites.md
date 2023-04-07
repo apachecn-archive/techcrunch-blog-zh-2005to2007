@@ -1,4 +1,4 @@
-# 活跃的运动员媒体:体育相关网站的广告——TechCrunch
+# 活跃的运动员媒体:体育相关网站的广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/10/active-athlete-media-advertising-for-sport-related-sites/>
 

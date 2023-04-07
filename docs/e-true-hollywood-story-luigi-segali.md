@@ -1,4 +1,4 @@
-# e！真实的好莱坞故事:路易吉·赛加利| TechCrunch
+# e！真实的好莱坞故事:路易吉·赛加利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/e-true-hollywood-story-luigi-segali/>
 

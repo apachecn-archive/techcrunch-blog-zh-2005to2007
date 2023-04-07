@@ -1,4 +1,4 @@
-# Clipmarks:网络荧光笔 TechCrunch
+# Clipmarks:网络荧光笔 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/27/clipmarks-a-highlighter-for-the-web/>
 

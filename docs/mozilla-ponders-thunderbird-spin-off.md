@@ -1,4 +1,4 @@
-# Mozilla 考虑让雷鸟剥离——TechCrunch
+# Mozilla 考虑让雷鸟剥离
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/mozilla-ponders-thunderbird-spin-off/>
 

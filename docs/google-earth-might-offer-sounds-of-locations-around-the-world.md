@@ -1,4 +1,4 @@
-# 谷歌地球可能会提供世界各地的声音——TechCrunch
+# 谷歌地球可能会提供世界各地的声音
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/google-earth-might-offer-sounds-of-locations-around-the-world/>
 

@@ -1,4 +1,4 @@
-# 是 iPod 音箱和一个宠物载体！万岁！TechCrunch
+# 是 iPod 音箱和一个宠物载体！万岁！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/its-ipod-speakers-and-a-pet-carrier-hooray/>
 

@@ -1,4 +1,4 @@
-# Cortex HDC-1000 审查–TechCrunch
+# Cortex HDC-1000 审查
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/18/cortex-hdc-1000-review/>
 

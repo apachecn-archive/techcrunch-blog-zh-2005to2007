@@ -1,4 +1,4 @@
-# 为你的 iPod 烤耳朵——TechCrunch
+# 为你的 iPod 烤耳朵
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/03/toasty-ears-for-your-ipod/>
 

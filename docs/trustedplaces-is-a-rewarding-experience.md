@@ -1,4 +1,4 @@
-# TrustedPlaces 是一种有益的体验。TechCrunch
+# TrustedPlaces 是一种有益的体验。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/22/trustedplaces-is-a-rewarding-experience/>
 

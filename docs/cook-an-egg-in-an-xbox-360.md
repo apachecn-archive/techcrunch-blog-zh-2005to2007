@@ -1,4 +1,4 @@
-# 用 Xbox 360 | TechCrunch 煮鸡蛋
+# 用 Xbox 360  煮鸡蛋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/cook-an-egg-in-an-xbox-360/>
 

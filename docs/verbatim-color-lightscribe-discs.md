@@ -1,4 +1,4 @@
-# 逐字彩色 LightScribe 光盘| TechCrunch
+# 逐字彩色 LightScribe 光盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/verbatim-color-lightscribe-discs/>
 

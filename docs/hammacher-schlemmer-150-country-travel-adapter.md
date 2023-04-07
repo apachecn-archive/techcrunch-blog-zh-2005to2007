@@ -1,4 +1,4 @@
-# Hammacher Schlemmer 150 国旅行适配器 TechCrunch
+# Hammacher Schlemmer 150 国旅行适配器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/10/hammacher-schlemmer-150-country-travel-adapter/>
 

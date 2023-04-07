@@ -1,4 +1,4 @@
-# 麻省理工学院提高核能| TechCrunch
+# 麻省理工学院提高核能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/mit-improves-nuclear-power/>
 

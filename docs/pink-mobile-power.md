@@ -1,4 +1,4 @@
-# 粉色移动电源| TechCrunch
+# 粉色移动电源
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/pink-mobile-power/>
 

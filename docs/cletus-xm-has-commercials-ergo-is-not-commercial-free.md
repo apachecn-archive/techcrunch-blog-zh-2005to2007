@@ -1,4 +1,4 @@
-# cle tus:“XM 有商业广告，因此不是没有商业广告的”——TechCrunch
+# cle tus:“XM 有商业广告，因此不是没有商业广告的”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/cletus-xm-has-commercials-ergo-is-not-commercial-free/>
 

@@ -1,4 +1,4 @@
-# 新 JibJab 视频——新闻——TechCrunch
+# 新 JibJab 视频——新闻
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/28/new-jibjab-video-the-news/>
 

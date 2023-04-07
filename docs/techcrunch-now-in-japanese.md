@@ -1,4 +1,4 @@
-# 宣布 TechCrunch 日本–TechCrunch
+# 宣布 TechCrunch 日本
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/19/techcrunch-now-in-japanese/>
 

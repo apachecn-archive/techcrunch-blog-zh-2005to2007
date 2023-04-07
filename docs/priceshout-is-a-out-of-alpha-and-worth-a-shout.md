@@ -1,4 +1,4 @@
-# PriceShout 是一个不可思议的东西，值得一喊。TechCrunch
+# PriceShout 是一个不可思议的东西，值得一喊。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/24/priceshout-is-a-out-of-alpha-and-worth-a-shout/>
 

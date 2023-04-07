@@ -1,4 +1,4 @@
-# 介绍 CrunchBoard 求职网站 TechCrunch
+# 介绍 CrunchBoard 求职网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/03/introducing-the-crunchboard-job-site/>
 

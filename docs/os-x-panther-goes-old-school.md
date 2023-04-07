@@ -1,4 +1,4 @@
-# OS X 黑豹走老派| TechCrunch
+# OS X 黑豹走老派
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/os-x-panther-goes-old-school/>
 

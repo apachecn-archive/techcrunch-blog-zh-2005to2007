@@ -1,4 +1,4 @@
-# Cingular 增加了 3G GPRS/EDGE/UMTS/HSDPA PCMCIA 卡，用完了缩写| TechCrunch
+# Cingular 增加了 3G GPRS/EDGE/UMTS/HSDPA PCMCIA 卡，用完了缩写
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/cingular-adds-3g-gprsedgeumtshsdpa-pcmcia-card-runs-out-of-acronyms/>
 

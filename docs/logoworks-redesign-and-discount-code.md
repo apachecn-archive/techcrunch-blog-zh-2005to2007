@@ -1,4 +1,4 @@
-# LogoWorks 重新设计和折扣代码 TechCrunch
+# LogoWorks 重新设计和折扣代码 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/30/logoworks-redesign-and-discount-code/>
 

@@ -1,4 +1,4 @@
-# 大学生的掌上电脑:你需要 Treos | TechCrunch
+# 大学生的掌上电脑:你需要 Treos 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/09/palm-to-college-kids-you-need-treos/>
 

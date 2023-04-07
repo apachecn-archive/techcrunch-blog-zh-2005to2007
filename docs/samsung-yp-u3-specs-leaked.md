@@ -1,4 +1,4 @@
-# 三星 YP U3 规格泄露| TechCrunch
+# 三星 YP U3 规格泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/samsung-yp-u3-specs-leaked/>
 

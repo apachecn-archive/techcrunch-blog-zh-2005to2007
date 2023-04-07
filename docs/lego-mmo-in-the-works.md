@@ -1,4 +1,4 @@
-# 工作中的乐高 MMO？–TechCrunch
+# 工作中的乐高 MMO？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/lego-mmo-in-the-works/>
 

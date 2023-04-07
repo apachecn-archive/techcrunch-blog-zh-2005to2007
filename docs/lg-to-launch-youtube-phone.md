@@ -1,4 +1,4 @@
-# LG 将开发 YouTube 手机 TechCrunch
+# LG 将开发 YouTube 手机 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/03/lg-to-launch-youtube-phone/>
 

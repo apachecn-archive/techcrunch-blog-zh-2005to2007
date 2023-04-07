@@ -1,4 +1,4 @@
-# LG Shine 在这里:愚蠢，但非常漂亮| TechCrunch
+# LG Shine 在这里:愚蠢，但非常漂亮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/lg-shine-is-here-dumb-but-very-pretty/>
 

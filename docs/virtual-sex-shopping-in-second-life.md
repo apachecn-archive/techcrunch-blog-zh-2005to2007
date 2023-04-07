@@ -1,4 +1,4 @@
-# 第二人生中的虚拟性购物——TechCrunch
+# 第二人生中的虚拟性购物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/virtual-sex-shopping-in-second-life/>
 

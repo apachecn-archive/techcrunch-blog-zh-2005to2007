@@ -1,4 +1,4 @@
-# V-Moda 的 Vibe 耳机:大音频 DY-NO-MITE | TechCrunch
+# V-Moda 的 Vibe 耳机:大音频 DY-NO-MITE 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/v-modas-vibe-headphones-big-audio-dy-no-mite/>
 

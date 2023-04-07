@@ -1,4 +1,4 @@
-# 小蜻蜓动手了。判决:牛逼！TechCrunch
+# 小蜻蜓动手了。判决:牛逼！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/07/wowee-dragonfly-hands-on-verdict-awesome/>
 

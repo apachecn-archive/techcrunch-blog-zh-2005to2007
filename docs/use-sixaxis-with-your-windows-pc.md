@@ -1,4 +1,4 @@
-# 在您的 Windows PC 上使用 six axis–TechCrunch
+# 在您的 Windows PC 上使用 six axis
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/use-sixaxis-with-your-windows-pc/>
 

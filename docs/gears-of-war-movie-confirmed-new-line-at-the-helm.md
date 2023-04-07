@@ -1,4 +1,4 @@
-# 《战争机器》电影确认，新路线掌舵| TechCrunch
+# 《战争机器》电影确认，新路线掌舵
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/gears-of-war-movie-confirmed-new-line-at-the-helm/>
 

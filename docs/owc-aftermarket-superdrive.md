@@ -1,4 +1,4 @@
-# OWC 售后市场超级驱动| TechCrunch
+# OWC 售后市场超级驱动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/15/owc-aftermarket-superdrive/>
 

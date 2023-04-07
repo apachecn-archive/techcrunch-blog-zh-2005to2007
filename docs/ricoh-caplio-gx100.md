@@ -1,4 +1,4 @@
-# 理光 Caplio GX100 | TechCrunch
+# 理光 Caplio GX100 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/ricoh-caplio-gx100/>
 

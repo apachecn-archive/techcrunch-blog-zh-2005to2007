@@ -1,4 +1,4 @@
-# iPhone 登陆英国，O2 独家——TechCrunch
+# iPhone 登陆英国，O2 独家
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/05/iphone-coming-to-the-uk-exclusive-to-o2/>
 

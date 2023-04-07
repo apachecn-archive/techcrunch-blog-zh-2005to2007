@@ -1,4 +1,4 @@
-# ZebTab 是面向大众的 RSS 吗？TechCrunch
+# ZebTab 是面向大众的 RSS 吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/is-zebtab-rss-for-the-masses/>
 

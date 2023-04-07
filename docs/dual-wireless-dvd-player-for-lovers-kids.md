@@ -1,4 +1,4 @@
-# 双无线 DVD 播放器，适合情侣和孩子| TechCrunch
+# 双无线 DVD 播放器，适合情侣和孩子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/15/dual-wireless-dvd-player-for-lovers-kids/>
 

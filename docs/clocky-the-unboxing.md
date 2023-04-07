@@ -1,4 +1,4 @@
-# Clocky:拆箱——TechCrunch
+# Clocky:拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/26/clocky-the-unboxing/>
 

@@ -1,4 +1,4 @@
-# 索尼爱立信蓝牙手表–TechCrunch
+# 索尼爱立信蓝牙手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/sony-ericsson-bluetooth-watch/>
 

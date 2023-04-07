@@ -1,4 +1,4 @@
-# Celsia NanoSpreader 使用蒸汽冷却您的电脑| TechCrunch
+# Celsia NanoSpreader 使用蒸汽冷却您的电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/22/celsia-nanospreader-cools-your-pc-with-steam/>
 

@@ -1,4 +1,4 @@
-# M-Audio Torq MixLab 让您成为即时 DJ | TechCrunch
+# M-Audio Torq MixLab 让您成为即时 DJ 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/14/m-audio-torq-mixlab-makes-you-an-instant-dj/>
 

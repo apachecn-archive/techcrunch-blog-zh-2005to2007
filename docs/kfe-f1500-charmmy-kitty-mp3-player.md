@@ -1,4 +1,4 @@
-# KFE F1500 Charmmy Kitty MP3 播放器| TechCrunch
+# KFE F1500 Charmmy Kitty MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/kfe-f1500-charmmy-kitty-mp3-player/>
 

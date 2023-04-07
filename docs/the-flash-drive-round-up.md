@@ -1,4 +1,4 @@
-# 闪存驱动器综述 TechCrunch
+# 闪存驱动器综述 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/01/the-flash-drive-round-up/>
 

@@ -1,4 +1,4 @@
-# 为您的微型生活环境打造微型娱乐系统| TechCrunch
+# 为您的微型生活环境打造微型娱乐系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/micro-entertainment-system-for-your-micro-living-habitat/>
 

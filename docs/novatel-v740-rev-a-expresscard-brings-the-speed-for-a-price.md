@@ -1,4 +1,4 @@
-# Novatel V740 Rev A ExpressCard 带来速度(价格)TechCrunch
+# Novatel V740 Rev A ExpressCard 带来速度(价格)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/novatel-v740-rev-a-expresscard-brings-the-speed-for-a-price/>
 

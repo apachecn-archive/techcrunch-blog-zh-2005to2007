@@ -1,4 +1,4 @@
-# Alpine 的 1000 美元全能产品:现已上市——TechCrunch
+# Alpine 的 1000 美元全能产品:现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/alpines-1000-do-all-now-shipping/>
 

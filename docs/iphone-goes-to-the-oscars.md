@@ -1,4 +1,4 @@
-# iPhone 去奥斯卡| TechCrunch
+# iPhone 去奥斯卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/25/iphone-goes-to-the-oscars/>
 

@@ -1,4 +1,4 @@
-# Sphere 会解决博客相关性问题吗？TechCrunch
+# Sphere 会解决博客相关性问题吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2005/10/08/will-sphere-be-blog-search-20/>
 

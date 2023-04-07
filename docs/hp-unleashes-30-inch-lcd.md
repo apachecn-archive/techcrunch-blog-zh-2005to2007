@@ -1,4 +1,4 @@
-# 惠普发布 30 英寸液晶显示器| TechCrunch
+# 惠普发布 30 英寸液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/hp-unleashes-30-inch-lcd/>
 

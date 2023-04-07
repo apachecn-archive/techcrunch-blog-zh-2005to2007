@@ -1,4 +1,4 @@
-# BitLord 采访来自 TPB 的 Brokep——TechCrunch
+# BitLord 采访来自 TPB 的 Brokep
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/bitlord-interviews-brokep-from-tpb/>
 

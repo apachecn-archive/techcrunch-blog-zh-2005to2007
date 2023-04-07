@@ -1,4 +1,4 @@
-# 特别提款权很棒。如果你不相信我，问问 MobileCrunch | TechCrunch
+# 特别提款权很棒。如果你不相信我，问问 MobileCrunch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/sdrs-are-wonderful-if-you-dont-believe-me-ask-mobilecrunch/>
 

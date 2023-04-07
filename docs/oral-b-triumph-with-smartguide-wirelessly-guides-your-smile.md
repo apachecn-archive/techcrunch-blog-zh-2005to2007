@@ -1,4 +1,4 @@
-# 带 SmartGuide 的 Oral-B Triumph 无线引导您的微笑| TechCrunch
+# 带 SmartGuide 的 Oral-B Triumph 无线引导您的微笑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/oral-b-triumph-with-smartguide-wirelessly-guides-your-smile/>
 

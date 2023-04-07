@@ -1,4 +1,4 @@
-# LapWorks 笔记本电脑桌面 2.0 评测| TechCrunch
+# LapWorks 笔记本电脑桌面 2.0 评测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/lapworks-laptop-desk-20-review/>
 

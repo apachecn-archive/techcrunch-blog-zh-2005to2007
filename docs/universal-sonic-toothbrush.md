@@ -1,4 +1,4 @@
-# 通用声波牙刷| TechCrunch
+# 通用声波牙刷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/universal-sonic-toothbrush/>
 

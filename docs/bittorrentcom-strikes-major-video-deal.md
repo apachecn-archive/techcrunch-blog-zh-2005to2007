@@ -1,4 +1,4 @@
-# BitTorrent 又一次达成了重要的视频下载交易——TechCrunch
+# BitTorrent 又一次达成了重要的视频下载交易
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/bittorrentcom-strikes-major-video-deal/>
 

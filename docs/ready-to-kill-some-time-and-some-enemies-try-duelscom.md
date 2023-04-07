@@ -1,4 +1,4 @@
-# 准备好消磨时间(和一些敌人)了吗？试试 Duels.com——TechCrunch
+# 准备好消磨时间(和一些敌人)了吗？试试 Duels.com
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/08/06/ready-to-kill-some-time-and-some-enemies-try-duelscom/>
 

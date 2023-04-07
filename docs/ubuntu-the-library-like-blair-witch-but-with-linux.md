@@ -1,4 +1,4 @@
-# Ubuntu @ The Library:就像“布莱尔女巫”，但是用的是 Linux | TechCrunch
+# Ubuntu @ The Library:就像“布莱尔女巫”，但是用的是 Linux 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/ubuntu-the-library-like-blair-witch-but-with-linux/>
 

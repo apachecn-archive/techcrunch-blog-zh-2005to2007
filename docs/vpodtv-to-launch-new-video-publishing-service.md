@@ -1,4 +1,4 @@
-# vpod.tv 将推出新的视频发布服务——TechCrunch
+# vpod.tv 将推出新的视频发布服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/12/vpodtv-to-launch-new-video-publishing-service/>
 

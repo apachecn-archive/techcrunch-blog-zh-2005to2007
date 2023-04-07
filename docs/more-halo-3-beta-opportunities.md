@@ -1,4 +1,4 @@
-# 更多光环 3 测试机会| TechCrunch
+# 更多光环 3 测试机会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/more-halo-3-beta-opportunities/>
 

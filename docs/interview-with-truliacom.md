@@ -1,4 +1,4 @@
-# 采访 Trulia.com——TechCrunch
+# 采访 Trulia.com
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/24/interview-with-truliacom/>
 

@@ -1,4 +1,4 @@
-# Jangl 使用 VOIP 创建匿名电话号码——TechCrunch
+# Jangl 使用 VOIP 创建匿名电话号码
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/14/jangl-uses-voip-for-anonymous-phone-numbers>
 

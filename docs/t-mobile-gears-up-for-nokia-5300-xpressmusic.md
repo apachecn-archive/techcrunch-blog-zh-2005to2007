@@ -1,4 +1,4 @@
-# T-Mobile 为诺基亚 5300 XpressMusic 做好准备| TechCrunch
+# T-Mobile 为诺基亚 5300 XpressMusic 做好准备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/t-mobile-gears-up-for-nokia-5300-xpressmusic/>
 

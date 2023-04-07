@@ -1,4 +1,4 @@
-# AllofMP3 下降–永久下降？–TechCrunch
+# AllofMP3 下降–永久下降？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/15/allofmp3-down-for-good/>
 

@@ -1,4 +1,4 @@
-# 想被起诉索赔 900 万美元吗？销售控制台 Mod 芯片–TechCrunch
+# 想被起诉索赔 900 万美元吗？销售控制台 Mod 芯片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/want-to-get-sued-for-9-mil-sell-console-mod-chips/>
 

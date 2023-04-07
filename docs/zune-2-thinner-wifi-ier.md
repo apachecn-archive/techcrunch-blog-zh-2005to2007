@@ -1,4 +1,4 @@
-# Zune 2:更薄、更无线——TechCrunch
+# Zune 2:更薄、更无线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/zune-2-thinner-wifi-ier/>
 

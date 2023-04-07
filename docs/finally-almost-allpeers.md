@@ -1,4 +1,4 @@
-# 最后(几乎):所有同行——TechCrunch
+# 最后(几乎):所有同行
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/15/finally-almost-allpeers/>
 

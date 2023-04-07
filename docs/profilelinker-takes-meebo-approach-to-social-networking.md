@@ -1,4 +1,4 @@
-# ProfileLinker 采用 Meebo 方法进行社交网络开发——TechCrunch
+# ProfileLinker 采用 Meebo 方法进行社交网络开发
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/28/profilelinker-takes-meebo-approach-to-social-networking>
 

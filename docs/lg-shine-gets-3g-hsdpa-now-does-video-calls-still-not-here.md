@@ -1,4 +1,4 @@
-# LG Shine 获得 3G HSDPA，现在可以进行视频通话，但仍然不在这里——TechCrunch
+# LG Shine 获得 3G HSDPA，现在可以进行视频通话，但仍然不在这里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/lg-shine-gets-3g-hsdpa-now-does-video-calls-still-not-here/>
 

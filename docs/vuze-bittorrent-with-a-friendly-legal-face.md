@@ -1,4 +1,4 @@
-# Vuze:有着友好法律面孔的 BitTorrent——TechCrunch
+# Vuze:有着友好法律面孔的 BitTorrent
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/21/vuze-bittorrent-with-a-friendly-legal-face/>
 

@@ -1,4 +1,4 @@
-# 基于闪存的笔记本电脑，售价 30 美元——TechCrunch
+# 基于闪存的笔记本电脑，售价 30 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/flash-based-laptop-for-30/>
 

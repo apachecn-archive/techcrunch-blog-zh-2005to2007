@@ -1,4 +1,4 @@
-# Mundu 有一个很棒的 iPhone 聊天应用。他们为什么要收费？TechCrunch
+# Mundu 有一个很棒的 iPhone 聊天应用。他们为什么要收费？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/03/mundu-has-a-great-iphone-chat-application-why-are-they-charging/>
 

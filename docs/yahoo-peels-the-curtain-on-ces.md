@@ -1,4 +1,4 @@
-# 看看雅虎的 Vista 信使——TechCrunch
+# 看看雅虎的 Vista 信使
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/07/yahoo-peels-the-curtain-on-ces/>
 

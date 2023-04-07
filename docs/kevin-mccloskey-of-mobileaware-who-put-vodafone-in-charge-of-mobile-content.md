@@ -1,4 +1,4 @@
-# MobileAware 的凯文·麦克洛斯基:“谁让沃达丰负责移动内容？”TechCrunch
+# MobileAware 的凯文·麦克洛斯基:“谁让沃达丰负责移动内容？”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/kevin-mccloskey-of-mobileaware-who-put-vodafone-in-charge-of-mobile-content/>
 

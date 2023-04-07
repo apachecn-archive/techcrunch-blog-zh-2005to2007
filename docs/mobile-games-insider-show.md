@@ -1,4 +1,4 @@
-# 手机游戏内幕秀| TechCrunch
+# 手机游戏内幕秀
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/mobile-games-insider-show/>
 

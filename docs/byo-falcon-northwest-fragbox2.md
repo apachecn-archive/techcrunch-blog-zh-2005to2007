@@ -1,4 +1,4 @@
-# BYO 猎鹰西北战场 2 | TechCrunch
+# BYO 猎鹰西北战场 2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/byo-falcon-northwest-fragbox2/>
 

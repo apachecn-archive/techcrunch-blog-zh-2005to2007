@@ -1,4 +1,4 @@
-# 亚马逊与 Tivo 合作；抢了沃尔玛的风头 TechCrunch
+# 亚马逊与 Tivo 合作；抢了沃尔玛的风头 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/06/amazon-partners-with-tivo-steals-walmarts-thunder/>
 

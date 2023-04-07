@@ -1,4 +1,4 @@
-# 音乐手机的扬声器基座让一切顺利——TechCrunch
+# 音乐手机的扬声器基座让一切顺利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/speaker-dock-for-musicphones-gets-it-right/>
 

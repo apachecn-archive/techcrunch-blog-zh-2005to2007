@@ -1,4 +1,4 @@
-# Pligg，开源的 Digg 克隆，被出售——TechCrunch
+# Pligg，开源的 Digg 克隆，被出售
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/12/pligg-the-open-source-digg-clone-put-up-for-sale/>
 

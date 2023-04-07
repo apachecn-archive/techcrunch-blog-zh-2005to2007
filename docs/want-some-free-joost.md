@@ -1,4 +1,4 @@
-# 想要免费的巧克力吗？–TechCrunch
+# 想要免费的巧克力吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/want-some-free-joost/>
 

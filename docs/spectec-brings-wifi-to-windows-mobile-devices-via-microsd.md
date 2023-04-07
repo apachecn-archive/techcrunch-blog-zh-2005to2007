@@ -1,4 +1,4 @@
-# Spectec 通过 MicroSD | TechCrunch 将 WiFi 引入 Windows Mobile 设备
+# Spectec 通过 MicroSD  将 WiFi 引入 Windows Mobile 设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/spectec-brings-wifi-to-windows-mobile-devices-via-microsd/>
 

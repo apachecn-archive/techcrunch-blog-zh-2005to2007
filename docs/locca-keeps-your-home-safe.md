@@ -1,4 +1,4 @@
-# 洛卡让你的家安全——TechCrunch
+# 洛卡让你的家安全
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/locca-keeps-your-home-safe/>
 

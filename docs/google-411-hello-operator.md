@@ -1,4 +1,4 @@
-# 谷歌 411:喂？接线员？–TechCrunch
+# 谷歌 411:喂？接线员？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/06/google-411-hello-operator/>
 

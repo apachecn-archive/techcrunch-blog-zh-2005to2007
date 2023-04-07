@@ -1,4 +1,4 @@
-# 迈拓 Fusion 实践| TechCrunch
+# 迈拓 Fusion 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/maxtor-fusion-hands-on/>
 

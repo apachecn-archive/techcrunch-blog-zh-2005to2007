@@ -1,4 +1,4 @@
-# 桌面平衡放大器评论–TechCrunch
+# 桌面平衡放大器评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/headroom-desktop-balanced-amp-review/>
 

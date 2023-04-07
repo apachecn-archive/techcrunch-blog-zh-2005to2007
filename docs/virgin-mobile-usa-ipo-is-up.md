@@ -1,4 +1,4 @@
-# 维珍移动美国公司 IPO 启动——TechCrunch
+# 维珍移动美国公司 IPO 启动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/virgin-mobile-usa-ipo-is-up/>
 

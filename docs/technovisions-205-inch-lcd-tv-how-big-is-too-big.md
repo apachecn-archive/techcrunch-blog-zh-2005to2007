@@ -1,4 +1,4 @@
-# Technovision 的 205 英寸液晶电视:多大才算太大？–TechCrunch
+# Technovision 的 205 英寸液晶电视:多大才算太大？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/technovisions-205-inch-lcd-tv-how-big-is-too-big/>
 

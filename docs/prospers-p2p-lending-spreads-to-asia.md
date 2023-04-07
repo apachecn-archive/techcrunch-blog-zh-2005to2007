@@ -1,4 +1,4 @@
-# Prosper 的 P2P 贷款蔓延到亚洲 TechCrunch
+# Prosper 的 P2P 贷款蔓延到亚洲 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/05/prospers-p2p-lending-spreads-to-asia/>
 

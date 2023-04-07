@@ -1,4 +1,4 @@
-# LG 巧克力 MG810 黑色蓝宝石确认| TechCrunch
+# LG 巧克力 MG810 黑色蓝宝石确认
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/lg-chocolate-mg810-black-sapphire-confirmed/>
 

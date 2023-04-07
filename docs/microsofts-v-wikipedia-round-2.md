@@ -1,4 +1,4 @@
-# 微软诉维基百科:第二轮 TechCrunch
+# 微软诉维基百科:第二轮 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/25/microsofts-v-wikipedia-round-2/>
 

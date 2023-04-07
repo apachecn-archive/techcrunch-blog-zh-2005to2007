@@ -1,4 +1,4 @@
-# 俄勒冈州科学行动头盔摄像机–TechCrunch
+# 俄勒冈州科学行动头盔摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/24/oregon-scientific-action-helmet-camera/>
 

@@ -1,4 +1,4 @@
-# 热情的用户激发创造力——TechCrunch
+# 热情的用户激发创造力
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/passionate-users-jumpstart-creativity/>
 

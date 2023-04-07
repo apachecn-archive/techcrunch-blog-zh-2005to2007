@@ -1,4 +1,4 @@
-# VibeAgent:猫途鹰 2.0–TechCrunch
+# VibeAgent:猫途鹰 2.0
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/vibeagent-tripadvisor-20/>
 

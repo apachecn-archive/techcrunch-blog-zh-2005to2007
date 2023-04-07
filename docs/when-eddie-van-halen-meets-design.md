@@ -1,4 +1,4 @@
-# 当艾迪·范·海伦遇见设计——TechCrunch
+# 当艾迪·范·海伦遇见设计
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/when-eddie-van-halen-meets-design/>
 

@@ -1,4 +1,4 @@
-# 奥林巴斯 E-510:图像稳定对你来说值多少钱？–TechCrunch
+# 奥林巴斯 E-510:图像稳定对你来说值多少钱？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/olympus-e-510-how-much-is-image-stabilization-worth-to-you/>
 

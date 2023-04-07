@@ -1,4 +1,4 @@
-# 美国网件公司推出无线流媒体高清机顶盒| TechCrunch
+# 美国网件公司推出无线流媒体高清机顶盒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/08/netgear-drops-hd-set-top-box-for-wireless-streaming/>
 

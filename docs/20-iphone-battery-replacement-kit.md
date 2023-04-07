@@ -1,4 +1,4 @@
-# 20 美元的 iPhone 电池更换套件| TechCrunch
+# 20 美元的 iPhone 电池更换套件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/31/20-iphone-battery-replacement-kit/>
 

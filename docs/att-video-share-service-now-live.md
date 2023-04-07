@@ -1,4 +1,4 @@
-# 美国电话电报公司视频分享服务现已上线——TechCrunch
+# 美国电话电报公司视频分享服务现已上线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/23/att-video-share-service-now-live/>
 

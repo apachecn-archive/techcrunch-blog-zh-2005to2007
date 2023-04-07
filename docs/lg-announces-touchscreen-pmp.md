@@ -1,4 +1,4 @@
-# LG 宣布触摸屏 PMP | TechCrunch
+# LG 宣布触摸屏 PMP 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/lg-announces-touchscreen-pmp/>
 

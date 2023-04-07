@@ -1,4 +1,4 @@
-# DreamAuthentics 的武士刀:你一直想要的桌面街机——TechCrunch
+# DreamAuthentics 的武士刀:你一直想要的桌面街机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/dreamauthentics-katana-the-desktop-arcade-machine-you-always-wanted/>
 

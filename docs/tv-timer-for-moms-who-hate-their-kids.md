@@ -1,4 +1,4 @@
-# 电视定时器:给讨厌孩子的妈妈们——TechCrunch
+# 电视定时器:给讨厌孩子的妈妈们
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/tv-timer-for-moms-who-hate-their-kids/>
 

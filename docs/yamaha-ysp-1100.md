@@ -1,4 +1,4 @@
-# 雅马哈 YSP-1100 | TechCrunch
+# 雅马哈 YSP-1100 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/yamaha-ysp-1100/>
 

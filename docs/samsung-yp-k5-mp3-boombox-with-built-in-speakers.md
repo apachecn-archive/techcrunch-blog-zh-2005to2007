@@ -1,4 +1,4 @@
-# 三星 YP-K5 MP3 内置扬声器音箱–TechCrunch
+# 三星 YP-K5 MP3 内置扬声器音箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/samsung-yp-k5-mp3-boombox-with-built-in-speakers/>
 

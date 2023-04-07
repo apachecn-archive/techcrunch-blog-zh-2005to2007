@@ -1,4 +1,4 @@
-# 《连线新闻》和《杂志》通过出售重新合并 TechCrunch
+# 《连线新闻》和《杂志》通过出售重新合并 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/11/wired-news-and-magazine-reunited-by-sale/>
 

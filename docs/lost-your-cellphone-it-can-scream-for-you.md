@@ -1,4 +1,4 @@
-# 丢了手机？它可以为你尖叫——TechCrunch
+# 丢了手机？它可以为你尖叫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/lost-your-cellphone-it-can-scream-for-you/>
 

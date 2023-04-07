@@ -1,4 +1,4 @@
-# Adobe 的 Apollo 为创业者提供了新的平台——TechCrunch
+# Adobe 的 Apollo 为创业者提供了新的平台
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/28/adobes-apollo-provides-new-ground-for-entrepreneurs/>
 

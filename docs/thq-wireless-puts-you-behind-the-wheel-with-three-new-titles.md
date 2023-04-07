@@ -1,4 +1,4 @@
-# THQ 无线用三款新游戏让你坐在方向盘后面| TechCrunch
+# THQ 无线用三款新游戏让你坐在方向盘后面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/thq-wireless-puts-you-behind-the-wheel-with-three-new-titles/>
 

@@ -1,4 +1,4 @@
-# 惠普新推出的 15.5 磅娱乐笔记本| TechCrunch
+# 惠普新推出的 15.5 磅娱乐笔记本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/hps-new-155-pound-entertainment-notebook/>
 

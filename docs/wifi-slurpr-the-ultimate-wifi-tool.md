@@ -1,4 +1,4 @@
-# WiFi Slurpr:终极 WiFi 工具| TechCrunch
+# WiFi Slurpr:终极 WiFi 工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/wifi-slurpr-the-ultimate-wifi-tool/>
 

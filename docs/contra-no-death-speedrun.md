@@ -1,4 +1,4 @@
-# 魂斗罗无死亡飞车| TechCrunch
+# 魂斗罗无死亡飞车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/contra-no-death-speedrun/>
 

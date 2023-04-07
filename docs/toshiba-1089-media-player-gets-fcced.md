@@ -1,4 +1,4 @@
-# 东芝 1089 媒体播放器获得 FCCed | TechCrunch
+# 东芝 1089 媒体播放器获得 FCCed 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/toshiba-1089-media-player-gets-fcced/>
 

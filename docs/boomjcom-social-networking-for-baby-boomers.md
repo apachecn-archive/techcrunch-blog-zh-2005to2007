@@ -1,4 +1,4 @@
-# BOOMj.com:婴儿潮一代的社交网络 TechCrunch
+# BOOMj.com:婴儿潮一代的社交网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/22/boomjcom-social-networking-for-baby-boomers/>
 

@@ -1,4 +1,4 @@
-# 亚马逊发布关于 S3 存储使用的早期信息 TechCrunch
+# 亚马逊发布关于 S3 存储使用的早期信息 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/12/amazon-releases-early-info-on-s3-storage-use/>
 

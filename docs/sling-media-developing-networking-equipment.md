@@ -1,4 +1,4 @@
-# 吊索媒体开发网络设备| TechCrunch
+# 吊索媒体开发网络设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/sling-media-developing-networking-equipment/>
 

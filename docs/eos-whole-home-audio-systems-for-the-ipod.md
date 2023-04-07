@@ -1,4 +1,4 @@
-# 适用于 iPod 的 Eos 家庭音响系统——TechCrunch
+# 适用于 iPod 的 Eos 家庭音响系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/09/eos-whole-home-audio-systems-for-the-ipod/>
 

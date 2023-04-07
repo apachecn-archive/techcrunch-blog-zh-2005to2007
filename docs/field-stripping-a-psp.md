@@ -1,4 +1,4 @@
-# 现场剥离一个 PSP | TechCrunch
+# 现场剥离一个 PSP 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/field-stripping-a-psp/>
 

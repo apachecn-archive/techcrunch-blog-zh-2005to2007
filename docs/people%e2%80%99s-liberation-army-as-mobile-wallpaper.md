@@ -1,4 +1,4 @@
-# 中国人民解放军手机壁纸 TechCrunch
+# 中国人民解放军手机壁纸 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/people%e2%80%99s-liberation-army-as-mobile-wallpaper/>
 

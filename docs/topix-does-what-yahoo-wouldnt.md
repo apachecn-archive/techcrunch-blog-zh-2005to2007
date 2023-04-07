@@ -1,4 +1,4 @@
-# Topix 做了雅虎不会做的事 TechCrunch
+# Topix 做了雅虎不会做的事 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/06/topix-does-what-yahoo-wouldnt/>
 

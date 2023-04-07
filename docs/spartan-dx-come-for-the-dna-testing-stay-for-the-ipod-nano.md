@@ -1,4 +1,4 @@
-# 斯巴达 DX:为 DNA 测试而来，为 iPod Nano | TechCrunch 而留
+# 斯巴达 DX:为 DNA 测试而来，为 iPod Nano  而留
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/spartan-dx-come-for-the-dna-testing-stay-for-the-ipod-nano/>
 

@@ -1,4 +1,4 @@
-# EV-DO Rev. A 即将登陆威瑞森| TechCrunch
+# EV-DO Rev. A 即将登陆威瑞森
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/ev-do-coming-to-verizon-very-soon/>
 

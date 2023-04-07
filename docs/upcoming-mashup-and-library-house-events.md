@@ -1,4 +1,4 @@
-# 即将到来的 Mashup 和图书馆活动| TechCrunch
+# 即将到来的 Mashup 和图书馆活动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/25/upcoming-mashup-and-library-house-events/>
 

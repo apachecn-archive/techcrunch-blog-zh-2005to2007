@@ -1,4 +1,4 @@
-# 谷歌黑名单包含机密信息 TechCrunch
+# 谷歌黑名单包含机密信息 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/21/google-blacklist-contained-confidential-information/>
 

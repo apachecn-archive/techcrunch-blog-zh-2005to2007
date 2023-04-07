@@ -1,4 +1,4 @@
-# BuddyTV 获得 280 万美元的 A 轮融资——TechCrunch
+# BuddyTV 获得 280 万美元的 A 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/buddytv-takes-28million-series-a/>
 

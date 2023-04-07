@@ -1,4 +1,4 @@
-# CrunchGear 真正令人兴奋的版本:新三洋发现！TechCrunch
+# CrunchGear 真正令人兴奋的版本:新三洋发现！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/crunchgear-really-exciting-edition-new-sanyo-spotted/>
 

@@ -1,4 +1,4 @@
-# 户外运动:夏季租赁装备——TechCrunch
+# 户外运动:夏季租赁装备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/06/great-outdoors-gear-for-the-summer-rental/>
 

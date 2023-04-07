@@ -1,4 +1,4 @@
-# 十二面体扬声器毁了马可波罗——TechCrunch
+# 十二面体扬声器毁了马可波罗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/24/dodecahedra-speakers-ruin-marco-polo/>
 

@@ -1,4 +1,4 @@
-# Elecom 发布条形码阅读鼠标 TechCrunch
+# Elecom 发布条形码阅读鼠标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/elecom-releases-bar-code-reading-mouse/>
 

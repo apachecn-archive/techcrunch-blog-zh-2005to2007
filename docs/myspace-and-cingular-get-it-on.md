@@ -1,4 +1,4 @@
-# Myspace 和 Cingular 上| TechCrunch
+# Myspace 和 Cingular 上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/myspace-and-cingular-get-it-on/>
 

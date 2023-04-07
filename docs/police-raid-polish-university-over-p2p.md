@@ -1,4 +1,4 @@
-# 警方因 P2P | TechCrunch 突袭波兰大学
+# 警方因 P2P  突袭波兰大学
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/20/police-raid-polish-university-over-p2p/>
 

@@ -1,4 +1,4 @@
-# 移动博客:技术寻求资金——TechCrunch
+# 移动博客:技术寻求资金
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/moblogtech-seeks-funding/>
 

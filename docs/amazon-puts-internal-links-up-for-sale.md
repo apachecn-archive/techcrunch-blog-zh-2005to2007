@@ -1,4 +1,4 @@
-# 亚马逊出售内部链接——TechCrunch
+# 亚马逊出售内部链接
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/02/amazon-puts-internal-links-up-for-sale/>
 

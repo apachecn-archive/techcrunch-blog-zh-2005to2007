@@ -1,4 +1,4 @@
-# 你好，护士！TechCrunch
+# 你好，护士！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/helio-ocean-hello-nurse/>
 

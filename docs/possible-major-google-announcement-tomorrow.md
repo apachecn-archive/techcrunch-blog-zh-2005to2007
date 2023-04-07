@@ -1,4 +1,4 @@
-# 谷歌明天可能会发布重要公告——TechCrunch
+# 谷歌明天可能会发布重要公告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/possible-major-google-announcement-tomorrow/>
 

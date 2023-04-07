@@ -1,4 +1,4 @@
-# CrunchArcade:回到烤架上——TechCrunch
+# CrunchArcade:回到烤架上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/01/cruncharcade-back-on-the-gridiron/>
 

@@ -1,4 +1,4 @@
-# ICQ 创始人创办 knock ATV-TechCrunch
+# ICQ 创始人创办 knock ATV-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/06/icq-founders-start-knockatv/>
 

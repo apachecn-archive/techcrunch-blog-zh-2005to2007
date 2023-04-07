@@ -1,4 +1,4 @@
-# 克比 MP3 微系统…嗯？–TechCrunch
+# 克比 MP3 微系统…嗯？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/coby-mp3-micro-systemhuh/>
 

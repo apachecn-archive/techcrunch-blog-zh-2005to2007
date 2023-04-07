@@ -1,4 +1,4 @@
-# 雅虎！Sandisk 的 WiFi 设备合作伙伴——TechCrunch
+# 雅虎！Sandisk 的 WiFi 设备合作伙伴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/yahoo-and-sandisk-partner-for-wifi-device/>
 

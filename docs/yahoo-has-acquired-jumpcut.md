@@ -1,4 +1,4 @@
-# 雅虎！收购了 jump cut TechCrunch
+# 雅虎！收购了 jump cut 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/27/yahoo-has-acquired-jumpcut/>
 

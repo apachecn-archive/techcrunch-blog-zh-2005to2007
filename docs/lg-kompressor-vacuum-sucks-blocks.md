@@ -1,4 +1,4 @@
-# LG Kompressor 真空吸块–TechCrunch
+# LG Kompressor 真空吸块
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/lg-kompressor-vacuum-sucks-blocks/>
 

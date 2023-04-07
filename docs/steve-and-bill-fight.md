@@ -1,4 +1,4 @@
-# 史蒂夫和比尔:打！–TechCrunch
+# 史蒂夫和比尔:打！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/steve-and-bill-fight/>
 

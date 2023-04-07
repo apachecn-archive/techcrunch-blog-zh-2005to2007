@@ -1,4 +1,4 @@
-# 诺基亚 E61，下不为例——TechCrunch
+# 诺基亚 E61，下不为例
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/nokia-e61-never-again/>
 

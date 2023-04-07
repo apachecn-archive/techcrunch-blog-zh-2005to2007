@@ -1,4 +1,4 @@
-# 松下用 microSD 卡玩俄罗斯套娃——TechCrunch
+# 松下用 microSD 卡玩俄罗斯套娃
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/panasonic-plays-russian-nesting-dolls-with-microsd-cards/>
 

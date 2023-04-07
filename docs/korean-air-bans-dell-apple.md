@@ -1,4 +1,4 @@
-# 大韩航空禁止戴尔、苹果| TechCrunch
+# 大韩航空禁止戴尔、苹果
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/07/korean-air-bans-dell-apple/>
 

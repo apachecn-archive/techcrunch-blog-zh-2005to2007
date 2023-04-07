@@ -1,4 +1,4 @@
-# 英特尔要吃掉英伟达？TechCrunch
+# 英特尔要吃掉英伟达？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/intel-to-eat-nvidia/>
 

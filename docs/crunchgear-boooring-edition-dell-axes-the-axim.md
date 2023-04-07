@@ -1,4 +1,4 @@
-# CrunchGear Boooring 版:戴尔砍掉 Axim–TechCrunch
+# CrunchGear Boooring 版:戴尔砍掉 Axim
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/crunchgear-boooring-edition-dell-axes-the-axim/>
 

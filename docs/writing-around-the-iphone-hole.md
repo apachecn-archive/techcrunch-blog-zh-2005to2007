@@ -1,4 +1,4 @@
-# 围绕 iPhone 漏洞写作——TechCrunch
+# 围绕 iPhone 漏洞写作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/29/writing-around-the-iphone-hole/>
 

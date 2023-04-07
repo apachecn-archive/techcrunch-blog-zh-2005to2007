@@ -1,4 +1,4 @@
-# 龟滩耳力 X1:好功能，坏名声| TechCrunch
+# 龟滩耳力 X1:好功能，坏名声
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/turtle-beach-ear-force-x1-good-features-bad-name/>
 

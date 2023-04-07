@@ -1,4 +1,4 @@
-# Alltel 获得 Palm Treo 700p | TechCrunch
+# Alltel 获得 Palm Treo 700p 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/alltel-gets-the-palm-treo-700p/>
 

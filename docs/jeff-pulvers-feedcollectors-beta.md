@@ -1,4 +1,4 @@
-# 杰夫·普尔弗的饲料收集器测试版| TechCrunch
+# 杰夫·普尔弗的饲料收集器测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/25/jeff-pulvers-feedcollectors-beta/>
 

@@ -1,4 +1,4 @@
-# Mashup*:了解为什么“网络广告的未来在英国！TechCrunch
+# Mashup*:了解为什么“网络广告的未来在英国！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/mashup-learn-why-the-future-of-web-ads-is-britain/>
 

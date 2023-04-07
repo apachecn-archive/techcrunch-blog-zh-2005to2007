@@ -1,4 +1,4 @@
-# 可口可乐 Cherry Zero 评论——TechCrunch
+# 可口可乐 Cherry Zero 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/25/coca-cola-cherry-zero-reviewed/>
 

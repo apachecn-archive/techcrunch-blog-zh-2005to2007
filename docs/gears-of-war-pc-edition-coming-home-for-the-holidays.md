@@ -1,4 +1,4 @@
-# 战争机器 PC 版回家过节| TechCrunch
+# 战争机器 PC 版回家过节
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/gears-of-war-pc-edition-coming-home-for-the-holidays/>
 

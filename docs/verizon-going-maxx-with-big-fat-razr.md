@@ -1,4 +1,4 @@
-# 威瑞森与大胖 RAZR 一起走向 MAXX——TechCrunch
+# 威瑞森与大胖 RAZR 一起走向 MAXX
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/verizon-going-maxx-with-big-fat-razr/>
 

@@ -1,4 +1,4 @@
-# 让我们买些音乐:第一部分 TechCrunch
+# 让我们买些音乐:第一部分 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/07/lets-buy-some-music-part-1>
 

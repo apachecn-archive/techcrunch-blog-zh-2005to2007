@@ -1,4 +1,4 @@
-# 超新星早鸟折扣明天结束| TechCrunch
+# 超新星早鸟折扣明天结束
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/11/supernova-early-bird-discount-ends-tomorrow>
 

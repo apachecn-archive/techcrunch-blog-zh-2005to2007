@@ -1,4 +1,4 @@
-# Odeo 发布 Twttr | TechCrunch
+# Odeo 发布 Twttr 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/15/is-twttr-interesting/>
 

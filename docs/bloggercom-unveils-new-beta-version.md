@@ -1,4 +1,4 @@
-# Blogger.com 推出新的测试版——TechCrunch
+# Blogger.com 推出新的测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/14/bloggercom-unveils-new-beta-version/>
 

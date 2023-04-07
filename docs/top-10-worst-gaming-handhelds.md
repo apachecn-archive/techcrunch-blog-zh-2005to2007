@@ -1,4 +1,4 @@
-# 十大最差游戏手持设备——TechCrunch
+# 十大最差游戏手持设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/31/top-10-worst-gaming-handhelds/>
 

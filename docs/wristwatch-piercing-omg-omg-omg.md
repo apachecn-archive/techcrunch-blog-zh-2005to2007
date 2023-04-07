@@ -1,4 +1,4 @@
-# 腕表穿孔:OMG OMG OMG–TechCrunch
+# 腕表穿孔:OMG OMG OMG
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/wristwatch-piercing-omg-omg-omg/>
 

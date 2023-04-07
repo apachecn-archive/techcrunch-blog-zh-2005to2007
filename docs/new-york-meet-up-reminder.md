@@ -1,4 +1,4 @@
-# 纽约会面提醒| TechCrunch
+# 纽约会面提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/new-york-meet-up-reminder/>
 

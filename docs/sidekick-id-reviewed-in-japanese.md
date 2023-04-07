@@ -1,4 +1,4 @@
-# 日语版的 sidekick iD——TechCrunch
+# 日语版的 sidekick iD
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/sidekick-id-reviewed-in-japanese/>
 

@@ -1,4 +1,4 @@
-# 李正吉街开始数据挖掘和艺术家推广 TechCrunch
+# 李正吉街开始数据挖掘和艺术家推广 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/26/amie-street-begins-data-mining-and-artist-promotion/>
 

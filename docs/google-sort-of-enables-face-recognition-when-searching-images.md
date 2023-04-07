@@ -1,4 +1,4 @@
-# 谷歌在搜索图片时可以进行人脸识别——TechCrunch
+# 谷歌在搜索图片时可以进行人脸识别
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/google-sort-of-enables-face-recognition-when-searching-images/>
 

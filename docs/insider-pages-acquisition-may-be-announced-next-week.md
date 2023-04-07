@@ -1,4 +1,4 @@
-# 内幕页面收购可能在下周宣布——TechCrunch
+# 内幕页面收购可能在下周宣布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/22/insider-pages-acquisition-may-be-announced-next-week/>
 

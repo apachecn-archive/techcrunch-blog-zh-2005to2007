@@ -1,4 +1,4 @@
-# Powerset 炒作到沸点——TechCrunch
+# Powerset 炒作到沸点
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/09/powerset-hype-to-boiling-point/>
 

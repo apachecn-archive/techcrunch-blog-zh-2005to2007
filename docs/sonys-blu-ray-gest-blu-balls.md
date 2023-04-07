@@ -1,4 +1,4 @@
-# SFW:索尼的蓝光给你蓝光球，没有高清色情——TechCrunch
+# SFW:索尼的蓝光给你蓝光球，没有高清色情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/19/sonys-blu-ray-gest-blu-balls/>
 

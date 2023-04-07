@@ -1,4 +1,4 @@
-# 蓝光领先！售出超过 100 万张光盘——TechCrunch
+# 蓝光领先！售出超过 100 万张光盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/blu-ray-takes-the-lead-over-1-million-discs-sold/>
 

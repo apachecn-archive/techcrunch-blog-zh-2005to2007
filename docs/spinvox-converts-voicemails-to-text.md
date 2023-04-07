@@ -1,4 +1,4 @@
-# Spinvox 将语音邮件转换为文本——TechCrunch
+# Spinvox 将语音邮件转换为文本
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/25/spinvox-converts-voicemails-to-text/>
 

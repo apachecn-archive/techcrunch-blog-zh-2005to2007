@@ -1,4 +1,4 @@
-# Google AdWords:用什么方式整我们？TechCrunch
+# Google AdWords:用什么方式整我们？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/11/google-adwords-screwing-us-every-which-way/>
 

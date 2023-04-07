@@ -1,4 +1,4 @@
-# 佳能 EOS 5D 马克 2 号发现| TechCrunch
+# 佳能 EOS 5D 马克 2 号发现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/07/canon-eos-5d-mark-ii-spotted/>
 

@@ -1,4 +1,4 @@
-# 使命召唤 4:现代战争保持真实| TechCrunch
+# 使命召唤 4:现代战争保持真实
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/call-of-duty-4-modern-warfare-keeps-it-real/>
 

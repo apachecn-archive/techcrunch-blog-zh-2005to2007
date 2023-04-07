@@ -1,4 +1,4 @@
-# Blockbuster 收购 movie link–TechCrunch
+# Blockbuster 收购 movie link
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/blockbuster-buys-movielink/>
 

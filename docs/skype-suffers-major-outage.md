@@ -1,4 +1,4 @@
-# Skype 遭遇重大故障——TechCrunch
+# Skype 遭遇重大故障
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/skype-suffers-major-outage/>
 

@@ -1,4 +1,4 @@
-# iSoundCap 看起来很可疑，持有 iPod——TechCrunch
+# iSoundCap 看起来很可疑，持有 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/isoundcap-looks-shady-holds-ipod/>
 

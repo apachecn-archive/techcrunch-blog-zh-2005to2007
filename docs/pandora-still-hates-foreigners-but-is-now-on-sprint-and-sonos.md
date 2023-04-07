@@ -1,4 +1,4 @@
-# 潘多拉仍然讨厌外国人，但现在在 Sprint 和 Sonos——TechCrunch 上
+# 潘多拉仍然讨厌外国人，但现在在 Sprint 和 Sonos 上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/pandora-still-hates-foreigners-but-is-now-on-sprint-and-sonos/>
 

@@ -1,4 +1,4 @@
-# 索尼 2000 万美元的广告活动 TechCrunch
+# 索尼 2000 万美元的广告活动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/11/sonys-20-million-ad-campaign/>
 

@@ -1,4 +1,4 @@
-# 盖伊·川崎的最新企业:true mors——TechCrunch
+# 盖伊·川崎的最新企业:true mors
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/03/guy-kawasakis-newest-venture-truemors>
 

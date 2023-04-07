@@ -1,4 +1,4 @@
-# 大品牌与精品:重要吗？| TechCrunch
+# 大品牌与精品:重要吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/big-brand-vs-boutique-does-it-really-matter/>
 

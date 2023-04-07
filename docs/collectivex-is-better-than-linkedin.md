@@ -1,4 +1,4 @@
-# CollectiveX 比 LinkedIn 好——TechCrunch
+# CollectiveX 比 LinkedIn 好
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/10/collectivex-is-better-than-linkedin/>
 

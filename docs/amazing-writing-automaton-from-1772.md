@@ -1,4 +1,4 @@
-# 1772 年的神奇写作机器人| TechCrunch
+# 1772 年的神奇写作机器人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/amazing-writing-automaton-from-1772/>
 

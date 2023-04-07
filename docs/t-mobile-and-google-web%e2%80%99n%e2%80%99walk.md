@@ -1,4 +1,4 @@
-# T-Mobile 和 Google Web ' n ' walk–TechCrunch
+# T-Mobile 和 Google Web ' n ' walk
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/t-mobile-and-google-web%e2%80%99n%e2%80%99walk/>
 

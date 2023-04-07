@@ -1,4 +1,4 @@
-# 苹果发布 24 英寸 iMac——TechCrunch
+# 苹果发布 24 英寸 iMac
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/06/apple-releases-24-imac/>
 

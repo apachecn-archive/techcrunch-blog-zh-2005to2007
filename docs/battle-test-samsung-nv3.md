@@ -1,4 +1,4 @@
-# 战斗测试:三星 NV3–TechCrunch
+# 战斗测试:三星 NV3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/09/battle-test-samsung-nv3/>
 

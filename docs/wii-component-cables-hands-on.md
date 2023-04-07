@@ -1,4 +1,4 @@
-# Wii 组件电缆实践| TechCrunch
+# Wii 组件电缆实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/02/wii-component-cables-hands-on/>
 

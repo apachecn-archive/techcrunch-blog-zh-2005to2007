@@ -1,4 +1,4 @@
-# Gateway 发布 E-155C 平板电脑| TechCrunch
+# Gateway 发布 E-155C 平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/gateway-announces-e-155c-tablet/>
 

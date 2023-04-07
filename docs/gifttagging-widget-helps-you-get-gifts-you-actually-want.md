@@ -1,4 +1,4 @@
-# Gifttagging Widget 帮助你得到你真正想要的礼物——TechCrunch
+# Gifttagging Widget 帮助你得到你真正想要的礼物
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/03/gifttagging-widget-helps-you-get-gifts-you-actually-want/>
 

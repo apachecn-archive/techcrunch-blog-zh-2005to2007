@@ -1,4 +1,4 @@
-# AllPeers 是火狐的“黑仔应用”——TechCrunch
+# AllPeers 是火狐的“黑仔应用”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/03/allpeers-is-the-firefox-killer-app/>
 

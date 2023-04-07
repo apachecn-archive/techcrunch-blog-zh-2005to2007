@@ -1,4 +1,4 @@
-# 关于秘密 Twitter 融资的更多信息 TechCrunch
+# 关于秘密 Twitter 融资的更多信息 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/29/more-information-on-that-secretive-twitter-financing/>
 

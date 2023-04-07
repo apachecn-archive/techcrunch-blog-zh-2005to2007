@@ -1,4 +1,4 @@
-# Canova 双触摸屏笔记本电脑| TechCrunch
+# Canova 双触摸屏笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/01/canova-dual-touchscreen-laptop-thing/>
 

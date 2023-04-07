@@ -1,4 +1,4 @@
-# YouTube 移动发布| TechCrunch
+# YouTube 移动发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/16/youtube-mobile-launches/>
 

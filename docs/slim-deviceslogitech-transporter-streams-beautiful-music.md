@@ -1,4 +1,4 @@
-# 超薄设备/罗技传送器播放美妙的音乐| TechCrunch
+# 超薄设备/罗技传送器播放美妙的音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/slim-deviceslogitech-transporter-streams-beautiful-music/>
 

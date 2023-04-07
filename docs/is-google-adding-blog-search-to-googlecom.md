@@ -1,4 +1,4 @@
-# 谷歌在 Google.com 增加博客搜索了吗？–TechCrunch
+# 谷歌在 Google.com 增加博客搜索了吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/23/is-google-adding-blog-search-to-googlecom/>
 

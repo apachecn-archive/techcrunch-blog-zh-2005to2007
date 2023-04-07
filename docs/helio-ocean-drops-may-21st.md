@@ -1,4 +1,4 @@
-# Helio Ocean Drops 月 21 日| TechCrunch
+# Helio Ocean Drops 月 21 日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/06/helio-ocean-drops-may-21st/>
 

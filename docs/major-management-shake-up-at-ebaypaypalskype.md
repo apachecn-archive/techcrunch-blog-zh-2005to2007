@@ -1,4 +1,4 @@
-# 易贝/PayPal/Skype 的重大管理层变动——TechCrunch
+# 易贝/PayPal/Skype 的重大管理层变动
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/06/major-management-shake-up-at-ebaypaypalskype/>
 

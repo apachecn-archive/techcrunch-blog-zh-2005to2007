@@ -1,4 +1,4 @@
-# CrunchArcade:特许经营最爱——TechCrunch
+# CrunchArcade:特许经营最爱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/cruncharcade-franchise-favorites/>
 

@@ -1,4 +1,4 @@
-# 介绍 CrunchGear.com/Gear-TechCrunch
+# 介绍 CrunchGear.com/Gear-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/09/introducing-crunchgearcomgear/>
 

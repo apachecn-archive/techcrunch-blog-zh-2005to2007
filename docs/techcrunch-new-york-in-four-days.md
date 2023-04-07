@@ -1,8 +1,8 @@
-# 四天后的纽约——TechCrunch
+# 四天后的纽约
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/13/techcrunch-new-york-in-four-days/>
 
-# 四天后纽约 TechCrunch
+# 四天后纽约 
 
 离 TechCrunch [纽约派对](https://web.archive.org/web/20220112014703/http://www.beta.techcrunch.com/2006/10/19/register-now-for-techcrunch-new-york/)只有几天了:11 月 16 日，周四晚上。
 

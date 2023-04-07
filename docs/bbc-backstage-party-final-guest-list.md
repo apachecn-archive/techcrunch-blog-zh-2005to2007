@@ -1,4 +1,4 @@
-# BBC 后台派对最终嘉宾名单| TechCrunch
+# BBC 后台派对最终嘉宾名单
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/bbc-backstage-party-final-guest-list/>
 

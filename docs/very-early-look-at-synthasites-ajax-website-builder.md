@@ -1,4 +1,4 @@
-# 很早就看到 Synthasite 的 Ajax 网站构建器——TechCrunch
+# 很早就看到 Synthasite 的 Ajax 网站构建器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/04/very-early-look-at-synthasites-ajax-website-builder/>
 

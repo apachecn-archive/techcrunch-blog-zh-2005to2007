@@ -1,4 +1,4 @@
-# 寻找山谷 TechCrunch
+# 寻找山谷 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/25/in-search-of-the-valley>
 

@@ -1,4 +1,4 @@
-# iRiver Clix 达到 4GB–TechCrunch
+# iRiver Clix 达到 4GB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/iriver-clix-goes-4gb/>
 

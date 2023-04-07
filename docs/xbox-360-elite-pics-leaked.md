@@ -1,4 +1,4 @@
-# Xbox 360 精英图片泄露| TechCrunch
+# Xbox 360 精英图片泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/26/xbox-360-elite-pics-leaked/>
 

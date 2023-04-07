@@ -1,4 +1,4 @@
-# 祝贺 SpaceX，他们成功进入太空——TechCrunch
+# 祝贺 SpaceX，他们成功进入太空
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/20/congratulations-to-spacex-they-made-it/>
 

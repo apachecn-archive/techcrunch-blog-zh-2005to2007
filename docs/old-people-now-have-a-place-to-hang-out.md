@@ -1,4 +1,4 @@
-# 老年人现在有了一个闲逛的地方——TechCrunch
+# 老年人现在有了一个闲逛的地方
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/01/old-people-now-have-a-place-to-hang-out/>
 

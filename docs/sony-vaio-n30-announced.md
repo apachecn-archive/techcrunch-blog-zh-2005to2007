@@ -1,4 +1,4 @@
-# 索尼 Vaio N30 发布| TechCrunch
+# 索尼 Vaio N30 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/sony-vaio-n30-announced/>
 

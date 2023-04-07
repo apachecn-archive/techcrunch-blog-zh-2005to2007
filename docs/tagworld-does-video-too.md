@@ -1,4 +1,4 @@
-# TagWorld 也做视频| TechCrunch
+# TagWorld 也做视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/17/tagworld-does-video-too/>
 

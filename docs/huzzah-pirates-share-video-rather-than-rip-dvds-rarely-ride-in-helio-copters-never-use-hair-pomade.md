@@ -1,4 +1,4 @@
-# 万岁。海盗分享视频而不是翻录 DVD，很少乘坐直升机，从不使用发油！TechCrunch
+# 万岁。海盗分享视频而不是翻录 DVD，很少乘坐直升机，从不使用发油！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/huzzah-pirates-share-video-rather-than-rip-dvds-rarely-ride-in-helio-copters-never-use-hair-pomade/>
 

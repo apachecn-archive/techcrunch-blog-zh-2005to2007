@@ -1,4 +1,4 @@
-# 先锋 FH-P510MD–TechCrunch
+# 先锋 FH-P510MD
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/29/pioneer-fh-p510md/>
 

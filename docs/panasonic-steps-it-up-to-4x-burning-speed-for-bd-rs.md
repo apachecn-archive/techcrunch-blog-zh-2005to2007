@@ -1,4 +1,4 @@
-# 松下将 BD-Rs 的刻录速度提升至 4 倍——TechCrunch
+# 松下将 BD-Rs 的刻录速度提升至 4 倍
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/panasonic-steps-it-up-to-4x-burning-speed-for-bd-rs/>
 

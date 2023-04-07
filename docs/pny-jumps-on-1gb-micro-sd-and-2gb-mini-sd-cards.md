@@ -1,4 +1,4 @@
-# PNY 跳上 1GB Micro SD 和 2GB Mini SD 卡| TechCrunch
+# PNY 跳上 1GB Micro SD 和 2GB Mini SD 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/pny-jumps-on-1gb-micro-sd-and-2gb-mini-sd-cards/>
 

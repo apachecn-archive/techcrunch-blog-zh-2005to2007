@@ -1,4 +1,4 @@
-# 摇滚乐队赢得最高 E3 奖:创新万岁| TechCrunch
+# 摇滚乐队赢得最高 E3 奖:创新万岁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/rock-band-wins-top-e3-award-huzzah-for-innovation/>
 

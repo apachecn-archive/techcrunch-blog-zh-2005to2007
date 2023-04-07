@@ -1,4 +1,4 @@
-# iPhone 疯狂解码:这一切都很弗洛伊德| TechCrunch
+# iPhone 疯狂解码:这一切都很弗洛伊德
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/02/iphone-madness-decoded-its-all-very-freudian/>
 

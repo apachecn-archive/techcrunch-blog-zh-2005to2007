@@ -1,4 +1,4 @@
-# 三星是内存之王:4GB 模块，更高效更快——TechCrunch
+# 三星是内存之王:4GB 模块，更高效更快
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/samsung-is-the-ram-king-4gb-modules-more-efficient-and-faster/>
 

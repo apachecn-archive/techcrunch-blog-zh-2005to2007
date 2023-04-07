@@ -1,4 +1,4 @@
-# 在 TechCrunch 上创业——TechCrunch
+# 在 TechCrunch 上创业
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/09/getting-your-startup-on-techcrunch>
 

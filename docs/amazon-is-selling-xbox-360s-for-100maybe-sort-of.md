@@ -1,4 +1,4 @@
-# 亚马逊正在以 100 美元的价格出售 Xbox 360s 可能有点像——TechCrunch
+# 亚马逊正在以 100 美元的价格出售 Xbox 360s 可能有点像
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/amazon-is-selling-xbox-360s-for-100maybe-sort-of/>
 

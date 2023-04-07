@@ -1,4 +1,4 @@
-# 雅虎推出智能广告——TechCrunch
+# 雅虎推出智能广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/02/yahoo-launches-smart-ads/>
 

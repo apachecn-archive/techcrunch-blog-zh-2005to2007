@@ -1,4 +1,4 @@
-# ren koo“Beeta”发布——TechCrunch
+# ren koo“Beeta”发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/28/renkoo-beeta-launches/>
 

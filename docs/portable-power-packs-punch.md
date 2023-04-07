@@ -1,4 +1,4 @@
-# 便携式电源组 Punch–TechCrunch
+# 便携式电源组 Punch
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/portable-power-packs-punch/>
 

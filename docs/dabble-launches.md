@@ -1,4 +1,4 @@
-# 涉足发布——TechCrunch
+# 涉足发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/23/dabble-launches/>
 

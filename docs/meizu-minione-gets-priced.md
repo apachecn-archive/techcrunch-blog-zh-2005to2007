@@ -1,4 +1,4 @@
-# 魅族 MiniOne 定价| TechCrunch
+# 魅族 MiniOne 定价
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/meizu-minione-gets-priced/>
 

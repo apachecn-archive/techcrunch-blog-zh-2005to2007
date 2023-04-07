@@ -1,4 +1,4 @@
-# 基于 AMD 的戴尔–TechCrunch
+# 基于 AMD 的戴尔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/amd-based-dells/>
 

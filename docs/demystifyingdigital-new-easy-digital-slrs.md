@@ -1,4 +1,4 @@
-# 揭秘数码:新的简单的数码单反——TechCrunch
+# 揭秘数码:新的简单的数码单反
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/demystifyingdigital-new-easy-digital-slrs/>
 

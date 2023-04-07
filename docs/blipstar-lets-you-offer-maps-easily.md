@@ -1,4 +1,4 @@
-# Blipstar 让您轻松提供地图——TechCrunch
+# Blipstar 让您轻松提供地图
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/28/blipstar-lets-you-offer-maps-easily/>
 

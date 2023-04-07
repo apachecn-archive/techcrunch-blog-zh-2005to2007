@@ -1,4 +1,4 @@
-# Ajax 桌面不会停止 TechCrunch
+# Ajax 桌面不会停止 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/07/ajax-desktops-wont-stop/>
 

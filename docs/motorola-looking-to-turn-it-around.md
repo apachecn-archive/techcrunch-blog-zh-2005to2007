@@ -1,4 +1,4 @@
-# 摩托罗拉希望扭转局面| TechCrunch
+# 摩托罗拉希望扭转局面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/motorola-looking-to-turn-it-around/>
 

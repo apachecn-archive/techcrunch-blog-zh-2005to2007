@@ -1,4 +1,4 @@
-# 微软的 Soapbox 加入 YouTube，谷歌视频 TechCrunch
+# 微软的 Soapbox 加入 YouTube，谷歌视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/microsofts-soapbox-joins-youtube-google-video/>
 

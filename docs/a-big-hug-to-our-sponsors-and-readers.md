@@ -1,4 +1,4 @@
-# 热烈拥抱我们的赞助商和读者——TechCrunch
+# 热烈拥抱我们的赞助商和读者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/02/a-big-hug-to-our-sponsors-and-readers/>
 

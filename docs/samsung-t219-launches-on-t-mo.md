@@ -1,4 +1,4 @@
-# 三星 T219 在 T-Mo 发布——TechCrunch
+# 三星 T219 在 T-Mo 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/samsung-t219-launches-on-t-mo/>
 

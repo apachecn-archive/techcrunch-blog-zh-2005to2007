@@ -1,4 +1,4 @@
-# Gather.com 问题 TechCrunch
+# Gather.com 问题 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/16/the-gathercom-issue/>
 

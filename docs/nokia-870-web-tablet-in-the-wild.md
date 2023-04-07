@@ -1,4 +1,4 @@
-# 野外的诺基亚 870 Web 平板(？？)–TechCrunch
+# 野外的诺基亚 870 Web 平板(？？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/26/nokia-870-web-tablet-in-the-wild/>
 

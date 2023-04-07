@@ -1,4 +1,4 @@
-# 索尼正式宣布并定价 PSP GPS 和相机 TechCrunch
+# 索尼正式宣布并定价 PSP GPS 和相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/sony-officially-announces-and-prices-psp-gps-and-camera/>
 

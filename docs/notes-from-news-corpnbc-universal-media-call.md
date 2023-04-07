@@ -1,4 +1,4 @@
-# 新闻集团/NBC 环球媒体电话会议记录 TechCrunch
+# 新闻集团/NBC 环球媒体电话会议记录 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/22/notes-from-news-corpnbc-universal-media-call/>
 

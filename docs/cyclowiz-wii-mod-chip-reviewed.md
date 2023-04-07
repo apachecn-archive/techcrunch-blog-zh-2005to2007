@@ -1,4 +1,4 @@
-# CycloWiz Wii Mod 芯片审查！TechCrunch
+# CycloWiz Wii Mod 芯片审查！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/cyclowiz-wii-mod-chip-reviewed/>
 

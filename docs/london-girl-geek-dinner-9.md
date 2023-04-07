@@ -1,4 +1,4 @@
-# 伦敦女孩极客晚宴 9 | TechCrunch
+# 伦敦女孩极客晚宴 9 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/london-girl-geek-dinner-9/>
 

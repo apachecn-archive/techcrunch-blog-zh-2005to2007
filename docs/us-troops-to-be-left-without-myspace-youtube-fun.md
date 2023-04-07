@@ -1,4 +1,4 @@
-# 美国军队将失去 MySpace，YouTube，Fun-TechCrunch
+# 美国军队将失去 MySpace，YouTube，Fun-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/us-troops-to-be-left-without-myspace-youtube-fun/>
 

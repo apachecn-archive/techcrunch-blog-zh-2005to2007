@@ -1,4 +1,4 @@
-# 谷歌视频搜索需要改进——TechCrunch
+# 谷歌视频搜索需要改进
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/25/google-video-search-needs-to-improve/>
 

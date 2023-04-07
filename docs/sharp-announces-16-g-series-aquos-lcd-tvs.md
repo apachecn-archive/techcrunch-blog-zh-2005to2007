@@ -1,4 +1,4 @@
-# 夏普发布 16 G 系列 AQUOS 液晶电视——TechCrunch
+# 夏普发布 16 G 系列 AQUOS 液晶电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/sharp-announces-16-g-series-aquos-lcd-tvs/>
 

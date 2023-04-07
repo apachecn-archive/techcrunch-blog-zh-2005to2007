@@ -1,4 +1,4 @@
-# Cingular 获得三星 SGH i607 | TechCrunch
+# Cingular 获得三星 SGH i607 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/cingular-gets-samsung-sgh-i607/>
 

@@ -1,4 +1,4 @@
-# 微软推出 Xbox Live Pipeline——TechCrunch
+# 微软推出 Xbox Live Pipeline
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/microsoft-launches-xbox-live-pipeline/>
 

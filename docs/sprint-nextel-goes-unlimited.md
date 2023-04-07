@@ -1,4 +1,4 @@
-# Sprint Nextel 走向无限| TechCrunch
+# Sprint Nextel 走向无限
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/sprint-nextel-goes-unlimited/>
 

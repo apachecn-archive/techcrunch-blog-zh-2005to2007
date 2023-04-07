@@ -1,4 +1,4 @@
-# Salesforce 向 Microsoft Sharepoint 和其他新的 ECM 竞争对手问好 TechCrunch
+# Salesforce 向 Microsoft Sharepoint 和其他新的 ECM 竞争对手问好 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/09/salesforce-gets-all-web-2/>
 

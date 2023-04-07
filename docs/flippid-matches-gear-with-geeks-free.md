@@ -1,4 +1,4 @@
-# Flippid 与极客搭配装备，免费| TechCrunch
+# Flippid 与极客搭配装备，免费
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/18/flippid-matches-gear-with-geeks-free/>
 

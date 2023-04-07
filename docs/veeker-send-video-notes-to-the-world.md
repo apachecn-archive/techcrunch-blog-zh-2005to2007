@@ -1,4 +1,4 @@
-# 维克:向世界发送视频笔记…–TechCrunch
+# 维克:向世界发送视频笔记…
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/veeker-send-video-notes-to-the-world/>
 

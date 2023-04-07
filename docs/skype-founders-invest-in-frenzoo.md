@@ -1,4 +1,4 @@
-# Skype 创始人投资 Fren zoo–TechCrunch
+# Skype 创始人投资 Fren zoo
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/28/skype-founders-invest-in-frenzoo/>
 

@@ -1,4 +1,4 @@
-# 停下你正在做的事情，沉浸在这个神奇的战神 PSP Mod | TechCrunch 中
+# 停下你正在做的事情，沉浸在这个神奇的战神 PSP Mod  中
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/stop-what-youre-doing-and-soak-in-this-amazing-god-of-war-psp-mod/>
 

@@ -1,4 +1,4 @@
-# 3/4 袖马里奥纹身–TechCrunch
+# 3/4 袖马里奥纹身
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/11/34-sleeve-mario-tattoo/>
 

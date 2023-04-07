@@ -1,4 +1,4 @@
-# safari 3 For Windows First Look–TechCrunch
+# safari 3 For Windows First Look
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/safari-3-for-windows-first-look/>
 

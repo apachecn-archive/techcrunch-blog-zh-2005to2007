@@ -1,4 +1,4 @@
-# 吉他英雄 3 细节公布——TechCrunch
+# 吉他英雄 3 细节公布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/guitar-hero-3-details-announced/>
 

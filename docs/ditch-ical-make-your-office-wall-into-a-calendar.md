@@ -1,4 +1,4 @@
-# 扔掉 iCal，把你的办公室墙壁变成日历——TechCrunch
+# 扔掉 iCal，把你的办公室墙壁变成日历
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/05/ditch-ical-make-your-office-wall-into-a-calendar/>
 

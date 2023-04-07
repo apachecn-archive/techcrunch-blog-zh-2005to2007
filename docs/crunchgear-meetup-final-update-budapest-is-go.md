@@ -1,4 +1,4 @@
-# 最后更新:布达佩斯是去！TechCrunch
+# 最后更新:布达佩斯是去！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/22/crunchgear-meetup-final-update-budapest-is-go/>
 

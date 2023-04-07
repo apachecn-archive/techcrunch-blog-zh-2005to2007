@@ -1,4 +1,4 @@
-# 造假者伪造假第二代洗牌| TechCrunch
+# 造假者伪造假第二代洗牌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/fakers-fake-fake-2nd-gen-shuffles/>
 

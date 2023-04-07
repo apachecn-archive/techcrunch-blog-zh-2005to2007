@@ -1,4 +1,4 @@
-# sweet Silver Fatty Drive:Western Digital 1TB my book Pro Edition II | TechCrunch
+# sweet Silver Fatty Drive:Western Digital 1TB my book Pro Edition II 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/sweet-silver-fatty-drive-western-digital-1tb-mybook-pro-edition-ii/>
 

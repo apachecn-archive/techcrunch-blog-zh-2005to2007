@@ -1,4 +1,4 @@
-# MixerCast:一个多媒体播放器，其收入模式是 TechCrunch
+# MixerCast:一个多媒体播放器，其收入模式是 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/18/mixercast-a-multimedia-player-with-a-revenue-model/>
 

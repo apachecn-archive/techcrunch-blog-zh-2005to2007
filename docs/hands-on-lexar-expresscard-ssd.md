@@ -1,4 +1,4 @@
-# Lexar ExpressCard 固态硬盘评论–TechCrunch
+# Lexar ExpressCard 固态硬盘评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/hands-on-lexar-expresscard-ssd/>
 

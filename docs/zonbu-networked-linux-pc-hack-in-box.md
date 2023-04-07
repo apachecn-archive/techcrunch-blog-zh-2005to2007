@@ -1,4 +1,4 @@
-# Zonbu 网络 Linux PC:黑盒子？–TechCrunch
+# Zonbu 网络 Linux PC:黑盒子？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/zonbu-networked-linux-pc-hack-in-box/>
 

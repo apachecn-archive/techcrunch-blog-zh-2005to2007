@@ -1,4 +1,4 @@
-# 对 MediaTech | TechCrunch 的思考
+# 对 MediaTech  的思考
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/reflections-on-mediatech/>
 

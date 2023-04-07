@@ -1,4 +1,4 @@
-# YouTube 想质疑斯图尔特和科尔伯特| TechCrunch
+# YouTube 想质疑斯图尔特和科尔伯特
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/youtube-wants-to-question-stewart-and-colbert/>
 

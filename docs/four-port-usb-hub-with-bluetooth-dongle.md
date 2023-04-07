@@ -1,4 +1,4 @@
-# 带蓝牙加密狗的四端口 USB 集线器–TechCrunch
+# 带蓝牙加密狗的四端口 USB 集线器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/four-port-usb-hub-with-bluetooth-dongle/>
 

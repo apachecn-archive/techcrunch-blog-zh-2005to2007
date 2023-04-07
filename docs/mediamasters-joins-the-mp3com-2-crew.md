@@ -1,4 +1,4 @@
-# MediaMaster:在线访问您的音乐库——TechCrunch
+# MediaMaster:在线访问您的音乐库
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/06/mediamasters-joins-the-mp3com-2-crew/>
 

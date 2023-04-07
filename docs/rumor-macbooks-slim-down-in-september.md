@@ -1,4 +1,4 @@
-# 谣言:MacBooks 月瘦身| TechCrunch
+# 谣言:MacBooks 月瘦身
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/rumor-macbooks-slim-down-in-september/>
 

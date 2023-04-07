@@ -1,4 +1,4 @@
-# 15.4 英寸的 MacBook 型号即将推出吗？TechCrunch
+# 15.4 英寸的 MacBook 型号即将推出吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/is-a-154-inch-macbook-model-forthcoming/>
 

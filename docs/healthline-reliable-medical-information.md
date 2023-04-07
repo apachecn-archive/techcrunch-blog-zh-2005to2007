@@ -1,4 +1,4 @@
-# 健康热线-可靠的医疗信息 TechCrunch
+# 健康热线-可靠的医疗信息 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/17/healthline-reliable-medical-information/>
 

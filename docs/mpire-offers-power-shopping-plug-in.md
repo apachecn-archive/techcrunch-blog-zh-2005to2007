@@ -1,4 +1,4 @@
-# Mpire 将推出超级购物插件——TechCrunch
+# Mpire 将推出超级购物插件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/21/mpire-offers-power-shopping-plug-in/>
 

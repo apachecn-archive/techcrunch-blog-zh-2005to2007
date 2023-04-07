@@ -1,4 +1,4 @@
-# 摩托罗拉将宣布 iPhone 竞争对手 TechCrunch
+# 摩托罗拉将宣布 iPhone 竞争对手 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/10/motorola-to-announce-iphone-competitor/>
 

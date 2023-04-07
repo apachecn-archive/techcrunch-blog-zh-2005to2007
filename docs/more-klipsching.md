@@ -1,4 +1,4 @@
-# 更多 Klipsching–TechCrunch
+# 更多 Klipsching
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/more-klipsching/>
 

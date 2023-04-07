@@ -1,4 +1,4 @@
-# Fanpop:分享热门信息的简单有趣的方式 TechCrunch
+# Fanpop:分享热门信息的简单有趣的方式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/10/fanpop-makes-web-20-topical-and-usable/>
 

@@ -1,4 +1,4 @@
-# 苹果谣言综述——TechCrunch
+# 苹果谣言综述
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/11/apple-rumor-roundup/>
 

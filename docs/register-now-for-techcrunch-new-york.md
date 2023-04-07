@@ -1,8 +1,8 @@
-# 立即注册纽约 TechCrunch TechCrunch
+# 立即注册纽约 TechCrunch 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/19/register-now-for-techcrunch-new-york>
 
-# 立即注册纽约 TechCrunch
+# 立即注册纽约 
 
 正如我们几周前提到的 T2，下一次 TechCrunch 聚会将在纽约举行。日期和地点已经确定——2006 年 11 月 16 日星期四晚上，在曼哈顿 [BED](https://web.archive.org/web/20221203172811/http://www.bedny.com/) 举行。派对将从晚上 7 点到 11 点开始。场地容量有限，我们现在接受 450 人的开放报名。一如既往，这项活动是免费的。
 

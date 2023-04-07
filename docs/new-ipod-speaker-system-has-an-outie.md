@@ -1,4 +1,4 @@
-# 新的 iPod 扬声器系统有一个 Outie-TechCrunch
+# 新的 iPod 扬声器系统有一个 Outie-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/02/new-ipod-speaker-system-has-an-outie/>
 

@@ -1,4 +1,4 @@
-# SF 编年史 Trims 业务板块；最好的都走了——TechCrunch
+# SF 编年史 Trims 业务板块；最好的都走了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/07/sf-chronicle-guts-business-section>
 

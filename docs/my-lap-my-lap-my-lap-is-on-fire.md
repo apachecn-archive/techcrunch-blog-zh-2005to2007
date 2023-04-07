@@ -1,4 +1,4 @@
-# 我的膝盖！我的膝盖！我的膝盖着火了！| TechCrunch
+# 我的膝盖！我的膝盖！我的膝盖着火了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/my-lap-my-lap-my-lap-is-on-fire/>
 

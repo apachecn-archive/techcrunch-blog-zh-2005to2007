@@ -1,4 +1,4 @@
-# Joost 增加了面向所有人开放的特纳广播内容——TechCrunch
+# Joost 增加了面向所有人开放的特纳广播内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/joost-adds-turner-broadcasting-content-open-for-all/>
 

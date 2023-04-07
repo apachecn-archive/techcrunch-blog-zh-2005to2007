@@ -1,4 +1,4 @@
-# BlogBurst 可以拯救大型(印刷)媒体——TechCrunch
+# BlogBurst 可以拯救大型(印刷)媒体
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/18/blogburst-can-save-big-print-media>
 

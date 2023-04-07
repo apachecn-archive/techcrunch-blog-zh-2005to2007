@@ -1,4 +1,4 @@
-# 五种最佳购买方式毁掉了极客小队| TechCrunch
+# 五种最佳购买方式毁掉了极客小队
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/03/five-ways-best-buy-ruined-geek-squad/>
 

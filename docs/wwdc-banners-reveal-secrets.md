@@ -1,4 +1,4 @@
-# WWDC 横幅揭示秘密| TechCrunch
+# WWDC 横幅揭示秘密
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/07/wwdc-banners-reveal-secrets/>
 

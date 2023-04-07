@@ -1,4 +1,4 @@
-# DRM 不可避免的死亡——TechCrunch
+# DRM 不可避免的死亡
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/10/the-inevitable-death-of-drm/>
 

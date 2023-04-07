@@ -1,4 +1,4 @@
-# Nimbuzz Talk 发布，连接手机和电脑——TechCrunch
+# Nimbuzz Talk 发布，连接手机和电脑
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/16/nimbuzz-talk-launches-connects-mobiles-and-pcs/>
 

@@ -1,4 +1,4 @@
-# CyberPower 高端游戏电脑实践–TechCrunch
+# CyberPower 高端游戏电脑实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/cyberpower-high-end-gaming-pc-hands-on/>
 

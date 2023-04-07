@@ -1,4 +1,4 @@
-# NIMF 游戏评级峰会| TechCrunch
+# NIMF 游戏评级峰会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/nimf-game-ratings-summit/>
 

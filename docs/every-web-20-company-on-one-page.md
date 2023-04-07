@@ -1,4 +1,4 @@
-# 所有 Web 2.0 公司都在一个页面上——TechCrunch
+# 所有 Web 2.0 公司都在一个页面上
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/15/every-web-20-company-on-one-page/>
 

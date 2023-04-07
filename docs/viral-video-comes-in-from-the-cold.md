@@ -1,4 +1,4 @@
-# 病毒式视频来自冷| TechCrunch
+# 病毒式视频来自冷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/viral-video-comes-in-from-the-cold/>
 

@@ -1,4 +1,4 @@
-# Netvibes 承诺跨平台的部件兼容性——TechCrunch
+# Netvibes 承诺跨平台的部件兼容性
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/netvibes-promises-cross-platform-widget-compatibility/>
 

@@ -1,4 +1,4 @@
-# HTC Touch 一览——TechCrunch
+# HTC Touch 一览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/05/htc-touch-at-a-glance/>
 

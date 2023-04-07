@@ -1,4 +1,4 @@
-# 寒冷的冰屋——TechCrunch
+# 寒冷的冰屋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/iglove-for-the-frigid/>
 

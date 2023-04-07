@@ -1,4 +1,4 @@
-# Sidekick Zante、LX 和 LE 发布日期揭晓——TechCrunch
+# Sidekick Zante、LX 和 LE 发布日期揭晓
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/sidekick-zante-lx-and-le-release-date-revealed/>
 

@@ -1,4 +1,4 @@
-# PS3 可以使用了——TechCrunch
+# PS3 可以使用了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/ps3-is-good-to-go/>
 

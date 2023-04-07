@@ -1,4 +1,4 @@
-# 激光电视:一种更便宜、看起来更好的高清电视技术——TechCrunch
+# 激光电视:一种更便宜、看起来更好的高清电视技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/laser-tv-a-cheaper-hdtv-technology-that-actually-looks-better/>
 

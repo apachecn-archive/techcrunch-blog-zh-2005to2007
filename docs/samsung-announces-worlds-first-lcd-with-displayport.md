@@ -1,4 +1,4 @@
-# 三星宣布推出全球首款带 DisplayPort 的 LCD——TechCrunch
+# 三星宣布推出全球首款带 DisplayPort 的 LCD
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/samsung-announces-worlds-first-lcd-with-displayport/>
 

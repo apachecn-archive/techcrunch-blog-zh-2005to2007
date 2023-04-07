@@ -1,4 +1,4 @@
-# 明基告诉你你有多胖| TechCrunch
+# 明基告诉你你有多胖
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/06/benq-tells-you-how-fat-you-are/>
 

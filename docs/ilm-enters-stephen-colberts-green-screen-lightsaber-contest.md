@@ -1,4 +1,4 @@
-# ILM 参加史蒂芬·科拜尔的绿屏光剑大赛——TechCrunch
+# ILM 参加史蒂芬·科拜尔的绿屏光剑大赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/12/ilm-enters-stephen-colberts-green-screen-lightsaber-contest/>
 

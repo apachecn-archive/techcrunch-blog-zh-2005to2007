@@ -1,4 +1,4 @@
-# PepperPad 3 快速浏览–TechCrunch
+# PepperPad 3 快速浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/pepperpad-3-quick-look/>
 

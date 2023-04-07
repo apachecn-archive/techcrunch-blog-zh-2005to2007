@@ -1,4 +1,4 @@
-# 体育+ TVGuide + Digg = RUWT？TechCrunch
+# 体育+ TVGuide + Digg = RUWT？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/05/sports-tvguide-digg-ruwt/>
 

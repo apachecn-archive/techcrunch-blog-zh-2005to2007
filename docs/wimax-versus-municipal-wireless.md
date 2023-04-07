@@ -1,4 +1,4 @@
-# WiMax 与市政无线| TechCrunch
+# WiMax 与市政无线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/wimax-versus-municipal-wireless/>
 

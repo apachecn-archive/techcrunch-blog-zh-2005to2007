@@ -1,4 +1,4 @@
-# 谷歌手机原型给制造商；提供免费服务？TechCrunch
+# 谷歌手机原型给制造商；提供免费服务？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/google-phone-prototypes-to-manufacturers-to-offer-free-service/>
 

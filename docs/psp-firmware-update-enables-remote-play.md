@@ -1,4 +1,4 @@
-# PSP 固件更新支持远程游戏| TechCrunch
+# PSP 固件更新支持远程游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/psp-firmware-update-enables-remote-play/>
 

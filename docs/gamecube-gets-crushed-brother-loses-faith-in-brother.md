@@ -1,4 +1,4 @@
-# Gamecube 被粉碎，兄弟对兄弟失去信心| TechCrunch
+# Gamecube 被粉碎，兄弟对兄弟失去信心
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/gamecube-gets-crushed-brother-loses-faith-in-brother/>
 

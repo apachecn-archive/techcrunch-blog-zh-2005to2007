@@ -1,4 +1,4 @@
-# 野外的火神 flip start | TechCrunch
+# 野外的火神 flip start 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/07/vulcan-flipstart-in-the-wild/>
 

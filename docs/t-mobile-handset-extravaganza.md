@@ -1,4 +1,4 @@
-# T-Mobile 手机盛会| TechCrunch
+# T-Mobile 手机盛会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/t-mobile-handset-extravaganza/>
 

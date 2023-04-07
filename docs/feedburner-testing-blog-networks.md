@@ -1,4 +1,4 @@
-# Feedburner 测试博客网络 TechCrunch
+# Feedburner 测试博客网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/06/feedburner-testing-blog-networks/>
 

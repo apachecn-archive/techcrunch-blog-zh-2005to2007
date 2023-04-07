@@ -1,4 +1,4 @@
-# Inteset 为其媒体服务器添加组合蓝光+HD DVD 驱动器| TechCrunch
+# Inteset 为其媒体服务器添加组合蓝光+HD DVD 驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/inteset-adds-combo-blu-rayhd-dvd-drive-to-its-media-servers/>
 

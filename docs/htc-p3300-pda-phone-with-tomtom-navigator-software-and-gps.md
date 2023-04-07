@@ -1,4 +1,4 @@
-# HTC P3300 PDA 手机，带 TomTom 导航软件和 GPS | TechCrunch
+# HTC P3300 PDA 手机，带 TomTom 导航软件和 GPS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/htc-p3300-pda-phone-with-tomtom-navigator-software-and-gps/>
 

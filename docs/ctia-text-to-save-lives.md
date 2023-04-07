@@ -1,4 +1,4 @@
-# CTIA:拯救生命的短信——TechCrunch
+# CTIA:拯救生命的短信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/16/ctia-text-to-save-lives/>
 

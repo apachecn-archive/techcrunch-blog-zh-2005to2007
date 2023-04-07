@@ -1,4 +1,4 @@
-# 《光环 3》测试版结束，Bungie 重返工作——TechCrunch
+# 《光环 3》测试版结束，Bungie 重返工作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/halo-3-beta-ends-bungie-back-to-work/>
 

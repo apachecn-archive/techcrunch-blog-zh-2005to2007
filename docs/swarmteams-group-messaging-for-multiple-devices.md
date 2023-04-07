@@ -1,4 +1,4 @@
-# swarm teams–面向多种设备的群发消息| TechCrunch
+# swarm teams–面向多种设备的群发消息
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/swarmteams-group-messaging-for-multiple-devices/>
 

@@ -1,4 +1,4 @@
-# Noka:昂贵的巧克力曝光| TechCrunch
+# Noka:昂贵的巧克力曝光
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/28/noka-the-expensive-chocolate-expose/>
 

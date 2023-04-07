@@ -1,4 +1,4 @@
-# 雅虎被用户抛弃 TechCrunch
+# 雅虎被用户抛弃 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/03/yahoo-gets-trashed-by-users/>
 

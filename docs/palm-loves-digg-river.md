@@ -1,4 +1,4 @@
-# Palm 爱 Digg River | TechCrunch
+# Palm 爱 Digg River 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/02/palm-loves-digg-river/>
 

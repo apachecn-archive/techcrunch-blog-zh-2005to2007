@@ -1,4 +1,4 @@
-# ScreamingSports:你所有的梦幻运动，在一个地方 TechCrunch
+# ScreamingSports:你所有的梦幻运动，在一个地方 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/17/screamingsports-all-your-fantasy-sports-one-place/>
 

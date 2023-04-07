@@ -1,4 +1,4 @@
-# 台北的四卡 ATI Crossfire 阵列液体冷却–TechCrunch
+# 台北的四卡 ATI Crossfire 阵列液体冷却
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/05/four-card-ati-crossfire-array-cooled-in-taipei/>
 

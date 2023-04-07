@@ -1,4 +1,4 @@
-# 雅虎！从今天开始向公众开放邮件测试版 TechCrunch
+# 雅虎！从今天开始向公众开放邮件测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/14/yahoo-mail-beta-to-open-to-the-public/>
 

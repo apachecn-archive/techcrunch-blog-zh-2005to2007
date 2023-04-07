@@ -1,4 +1,4 @@
-# Mozy 转向 Mac——首款真正有用的 Mac 硬盘备份解决方案——TechCrunch
+# Mozy 转向 Mac——首款真正有用的 Mac 硬盘备份解决方案
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/25/mozy-goes-mac-first-really-useful-mac-hard-drive-backup-solution/>
 

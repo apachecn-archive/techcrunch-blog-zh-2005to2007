@@ -1,4 +1,4 @@
-# 东芝推出 UMTS/HSDPA 平板电脑| TechCrunch
+# 东芝推出 UMTS/HSDPA 平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/toshiba-launches-tablet-pc-with-umtshsdpa/>
 

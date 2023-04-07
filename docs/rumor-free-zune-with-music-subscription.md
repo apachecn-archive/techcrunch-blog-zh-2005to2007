@@ -1,4 +1,4 @@
-# 传言:免费音乐订阅 Zune-TechCrunch
+# 传言:免费音乐订阅 Zune-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/rumor-free-zune-with-music-subscription/>
 

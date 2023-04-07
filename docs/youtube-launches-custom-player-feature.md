@@ -1,4 +1,4 @@
-# YouTube:现在有了可定制的播放器——TechCrunch
+# YouTube:现在有了可定制的播放器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/20/youtube-launches-custom-player-feature/>
 

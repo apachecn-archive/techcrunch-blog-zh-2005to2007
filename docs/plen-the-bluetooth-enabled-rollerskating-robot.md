@@ -1,4 +1,4 @@
-# Plen:支持蓝牙的轮滑机器人——TechCrunch
+# Plen:支持蓝牙的轮滑机器人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/23/plen-the-bluetooth-enabled-rollerskating-robot/>
 

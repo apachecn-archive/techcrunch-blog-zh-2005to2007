@@ -1,4 +1,4 @@
-# 酒店视频指南:Trivop.com-TechCrunch
+# 酒店视频指南:Trivop.com-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/03/videoguide-for-hotels-trivopcom/>
 

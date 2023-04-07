@@ -1,4 +1,4 @@
-# 令人毛骨悚然的遥控狼蛛——TechCrunch
+# 令人毛骨悚然的遥控狼蛛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/15/creepy-crawly-remote-controlled-tarantulas/>
 

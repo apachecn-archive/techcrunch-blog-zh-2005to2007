@@ -1,4 +1,4 @@
-# 雅虎！测试移动横幅广告——TechCrunch
+# 雅虎！测试移动横幅广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/09/yahoo-testing-mobile-banner-ads/>
 

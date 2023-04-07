@@ -1,4 +1,4 @@
-# Soundpedia:我们其他人的一个体面的潘多拉替代品——TechCrunch
+# Soundpedia:我们其他人的一个体面的潘多拉替代品
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/06/25/soundpedia-a-decent-pandora-substitute-for-the-rest-of-us/?guccounter=1>
 

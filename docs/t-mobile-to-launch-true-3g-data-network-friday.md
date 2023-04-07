@@ -1,4 +1,4 @@
-# T-Mobile 将于周五推出真正的 3G 数据网络？TechCrunch
+# T-Mobile 将于周五推出真正的 3G 数据网络？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/t-mobile-to-launch-true-3g-data-network-friday/>
 

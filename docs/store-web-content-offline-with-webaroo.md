@@ -1,4 +1,4 @@
-# 使用 Webaroo–TechCrunch 离线存储网页内容
+# 使用 Webaroo 离线存储网页内容
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/10/store-web-content-offline-with-webaroo/>
 

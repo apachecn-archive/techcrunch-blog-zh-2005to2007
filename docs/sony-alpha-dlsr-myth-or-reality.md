@@ -1,4 +1,4 @@
-# 索尼阿尔法 DLSR，神话还是现实？TechCrunch
+# 索尼阿尔法 DLSR，神话还是现实？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/sony-alpha-dlsr-myth-or-reality/>
 

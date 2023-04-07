@@ -1,4 +1,4 @@
-# 想放弃 Cingular？现在你的机会来了 TechCrunch
+# 想放弃 Cingular？现在你的机会来了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/want-to-ditch-cingular-now%e2%80%99s-your-chance/>
 

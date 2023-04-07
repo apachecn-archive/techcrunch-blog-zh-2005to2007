@@ -1,4 +1,4 @@
-# 你偷了我的 iPod 吗？TechCrunch
+# 你偷了我的 iPod 吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/isnug-my-ipod-do-you/>
 

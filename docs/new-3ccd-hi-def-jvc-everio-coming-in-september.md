@@ -1,4 +1,4 @@
-# 新的 3CCD，高清 JVC Everio 将于 9 月推出| TechCrunch
+# 新的 3CCD，高清 JVC Everio 将于 9 月推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/new-3ccd-hi-def-jvc-everio-coming-in-september/>
 

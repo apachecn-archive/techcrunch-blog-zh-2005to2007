@@ -1,4 +1,4 @@
-# Skip-Away 修复磨损的 CD——TechCrunch
+# Skip-Away 修复磨损的 CD
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/skip-away-fixes-your-scuffed-cds/>
 

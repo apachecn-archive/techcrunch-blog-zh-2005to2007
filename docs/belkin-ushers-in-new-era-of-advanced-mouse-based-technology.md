@@ -1,4 +1,4 @@
-# Belkin 开创了先进鼠标技术的新时代——TechCrunch
+# Belkin 开创了先进鼠标技术的新时代
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/belkin-ushers-in-new-era-of-advanced-mouse-based-technology/>
 

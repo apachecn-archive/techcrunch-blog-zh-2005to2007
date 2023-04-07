@@ -1,4 +1,4 @@
-# 社交媒体俱乐部博客道德倡议——TechCrunch
+# 社交媒体俱乐部博客道德倡议
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/25/social-media-club-initiative-on-blogging-ethics>
 

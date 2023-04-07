@@ -1,4 +1,4 @@
-# 我为什么投资 Dogster TechCrunch
+# 我为什么投资 Dogster 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/18/why-i-invested-in-dogster/>
 

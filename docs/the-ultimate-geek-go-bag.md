@@ -1,4 +1,4 @@
-# 终极极客包——TechCrunch
+# 终极极客包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/the-ultimate-geek-go-bag/>
 

@@ -1,4 +1,4 @@
-# 认识你未来的跟踪者，在 SearchPlates.com | TechCrunch 上赢取奖品
+# 认识你未来的跟踪者，在 SearchPlates.com  上赢取奖品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/meet-your-future-stalker-win-prizes-on-searchplatescom/>
 

@@ -1,4 +1,4 @@
-# Cuts.com:视频聚合 TechCrunch
+# Cuts.com:视频聚合 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/24/cutscom-video-mashups/>
 

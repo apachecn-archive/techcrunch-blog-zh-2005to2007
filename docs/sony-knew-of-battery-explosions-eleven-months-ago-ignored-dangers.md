@@ -1,4 +1,4 @@
-# 索尼十一个月前就知道电池爆炸，却忽视了危险？TechCrunch
+# 索尼十一个月前就知道电池爆炸，却忽视了危险？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/sony-knew-of-battery-explosions-eleven-months-ago-ignored-dangers/>
 

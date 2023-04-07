@@ -1,4 +1,4 @@
-# Teclast TL-T29 视频 MP3 播放器–TechCrunch
+# Teclast TL-T29 视频 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/05/teclast-tl-t29-video-mp3-player/>
 

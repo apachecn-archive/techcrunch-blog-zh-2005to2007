@@ -1,4 +1,4 @@
-# Axxen 的蛋形扬声器| TechCrunch
+# Axxen 的蛋形扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/axxens-egg-like-speakers/>
 

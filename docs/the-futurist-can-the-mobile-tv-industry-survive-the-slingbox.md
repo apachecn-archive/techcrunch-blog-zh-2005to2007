@@ -1,4 +1,4 @@
-# 未来学家:移动电视行业能在弹弓中生存下来吗？TechCrunch
+# 未来学家:移动电视行业能在弹弓中生存下来吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/the-futurist-can-the-mobile-tv-industry-survive-the-slingbox/>
 

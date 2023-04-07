@@ -1,4 +1,4 @@
-# 易贝和 Kaboodle 将推出我的收藏——TechCrunch
+# 易贝和 Kaboodle 将推出我的收藏
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/09/ebay-and-kaboodle-to-launch-mycollectibles/>
 

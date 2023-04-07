@@ -1,4 +1,4 @@
-# 神秘的苹果多功能设备| TechCrunch
+# 神秘的苹果多功能设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/mysterious-apple-multi-functional-device/>
 

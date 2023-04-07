@@ -1,4 +1,4 @@
-# WeeWorld 与美国在线结成伙伴关系？–TechCrunch
+# WeeWorld 与美国在线结成伙伴关系？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/29/weeworld-forms-a-partnership-with-aol/>
 

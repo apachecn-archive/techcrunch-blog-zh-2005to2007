@@ -1,4 +1,4 @@
-# 我离不开的 Web 2.0 公司——TechCrunch
+# 我离不开的 Web 2.0 公司
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/30/web-20-companies-i-couldnt-live-without/>
 

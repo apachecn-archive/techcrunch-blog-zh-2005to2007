@@ -1,4 +1,4 @@
-# Sprint 为 EV-DO 派对再添三座城市——TechCrunch
+# Sprint 为 EV-DO 派对再添三座城市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/sprint-adds-three-more-cities-to-ev-do-party/>
 

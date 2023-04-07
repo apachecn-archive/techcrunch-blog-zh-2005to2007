@@ -1,4 +1,4 @@
-# 几乎是有史以来最伟大的应用——TechCrunch
+# 几乎是有史以来最伟大的应用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/pretty-much-the-greatest-application-ever/>
 

@@ -1,4 +1,4 @@
-# Nyko to World:我们没有烧毁你的 Xbox | TechCrunch
+# Nyko to World:我们没有烧毁你的 Xbox 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/nyko-to-world-we-did-not-burninate-your-xbox/>
 

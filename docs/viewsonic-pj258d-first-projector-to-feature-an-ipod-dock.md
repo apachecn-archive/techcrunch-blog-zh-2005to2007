@@ -1,4 +1,4 @@
-# 优派 PJ258D:首款配备 iPod Dock 的投影仪| TechCrunch
+# 优派 PJ258D:首款配备 iPod Dock 的投影仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/viewsonic-pj258d-first-projector-to-feature-an-ipod-dock/>
 

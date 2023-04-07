@@ -1,4 +1,4 @@
-# Tarzay 销售蓝光| TechCrunch
+# Tarzay 销售蓝光
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/tarzay-selling-blu-ray/>
 

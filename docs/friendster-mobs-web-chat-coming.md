@@ -1,4 +1,4 @@
-# friendster Mobs–网络聊天即将到来–TechCrunch
+# friendster Mobs–网络聊天即将到来
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/18/friendster-mobs-web-chat-coming/>
 

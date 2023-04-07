@@ -1,4 +1,4 @@
-# 光环 3 Zune 拆箱| TechCrunch
+# 光环 3 Zune 拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/halo-3-zune-unboxed/>
 

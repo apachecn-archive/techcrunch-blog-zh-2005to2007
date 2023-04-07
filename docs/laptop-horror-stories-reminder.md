@@ -1,4 +1,4 @@
-# 笔记本电脑恐怖故事提醒——TechCrunch
+# 笔记本电脑恐怖故事提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/17/laptop-horror-stories-reminder/>
 

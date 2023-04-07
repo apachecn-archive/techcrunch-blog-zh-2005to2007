@@ -1,4 +1,4 @@
-# 奇怪的 iPod 专利显示双屏，后触摸屏 TechCrunch
+# 奇怪的 iPod 专利显示双屏，后触摸屏 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/10/odd-ipod-patent-shows-dual-screens-rear-touchscreen/>
 

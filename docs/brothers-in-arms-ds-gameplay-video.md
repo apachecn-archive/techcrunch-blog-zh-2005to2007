@@ -1,4 +1,4 @@
-# 兄弟连 DS 游戏视频| TechCrunch
+# 兄弟连 DS 游戏视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/22/brothers-in-arms-ds-gameplay-video/>
 

@@ -1,4 +1,4 @@
-# 一个 15 岁孩子设计的蝴蝶手机——TechCrunch
+# 一个 15 岁孩子设计的蝴蝶手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/06/butterfly-cellphone-as-designed-by-a-15-year-old/>
 

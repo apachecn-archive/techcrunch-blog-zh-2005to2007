@@ -1,4 +1,4 @@
-# 首次 iPhone 更新现已发布:拜拜最近的安全漏洞——TechCrunch
+# 首次 iPhone 更新现已发布:拜拜最近的安全漏洞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/first-iphone-update-now-available-bye-bye-recent-security-flaws/>
 

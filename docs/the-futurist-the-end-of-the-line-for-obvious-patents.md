@@ -1,4 +1,4 @@
-# 未来学家:明显专利的尽头——TechCrunch
+# 未来学家:明显专利的尽头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/the-futurist-the-end-of-the-line-for-obvious-patents/>
 

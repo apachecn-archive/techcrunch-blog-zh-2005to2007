@@ -1,4 +1,4 @@
-# 黑莓珍珠变白——TechCrunch
+# 黑莓珍珠变白
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/15/blackberry-pearl-goes-white/>
 

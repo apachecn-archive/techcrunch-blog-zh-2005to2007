@@ -1,4 +1,4 @@
-# 热水壶个人淋浴| TechCrunch
+# 热水壶个人淋浴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/hot-jugz-personal-shower/>
 

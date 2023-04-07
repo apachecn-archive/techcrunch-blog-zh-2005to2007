@@ -1,4 +1,4 @@
-# 双手灵巧的键盘——TechCrunch
+# 双手灵巧的键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/ambidextrous-keyboard-for-the-ambidextrous/>
 

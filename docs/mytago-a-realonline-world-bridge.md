@@ -1,4 +1,4 @@
-# Mytago:真实/在线世界桥梁 TechCrunch
+# Mytago:真实/在线世界桥梁 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/20/mytago-a-realonline-world-bridge/>
 

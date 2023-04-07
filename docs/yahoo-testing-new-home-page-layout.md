@@ -1,4 +1,4 @@
-# 雅虎测试新主页布局——TechCrunch
+# 雅虎测试新主页布局
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/18/yahoo-testing-new-home-page-layout>
 

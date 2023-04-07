@@ -1,4 +1,4 @@
-# Yodlee 发布短信银行解决方案| TechCrunch
+# Yodlee 发布短信银行解决方案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/yodlee-announces-sms-banking-solution/>
 

@@ -1,4 +1,4 @@
-# Sonicum 演讲者:现在有一个特别的东西| TechCrunch
+# Sonicum 演讲者:现在有一个特别的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/sonicum-speakers-now-with-a-special-something/>
 

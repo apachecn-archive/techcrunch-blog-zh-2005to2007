@@ -1,4 +1,4 @@
-# Socialtext 推出拔插功能——TechCrunch
+# Socialtext 推出拔插功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/11/socialtext-launches-unplugging-capability/>
 

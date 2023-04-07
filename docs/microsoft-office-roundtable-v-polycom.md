@@ -1,4 +1,4 @@
-# 微软办公室圆桌会议诉 Polycom–TechCrunch
+# 微软办公室圆桌会议诉 Polycom
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/22/microsoft-office-roundtable-v-polycom/>
 

@@ -1,4 +1,4 @@
-# FishCam 发现尼莫——TechCrunch
+# FishCam 发现尼莫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/fishcam-finds-nemo/>
 

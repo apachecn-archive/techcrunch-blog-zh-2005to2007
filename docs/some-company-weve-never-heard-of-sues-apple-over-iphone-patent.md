@@ -1,4 +1,4 @@
-# 一些我们从未听说过的公司就 iPhone 专利起诉苹果——TechCrunch
+# 一些我们从未听说过的公司就 iPhone 专利起诉苹果
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/some-company-weve-never-heard-of-sues-apple-over-iphone-patent/>
 

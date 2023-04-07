@@ -1,4 +1,4 @@
-# 谷歌将增加网络即时消息、文件共享——TechCrunch
+# 谷歌将增加网络即时消息、文件共享
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/08/goowy-to-add-web-im-file-sharing/>
 

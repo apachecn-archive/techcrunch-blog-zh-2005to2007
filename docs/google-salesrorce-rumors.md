@@ -1,4 +1,4 @@
-# 谷歌、Salesforce 谣言——TechCrunch
+# 谷歌、Salesforce 谣言
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/21/google-salesrorce-rumors/>
 

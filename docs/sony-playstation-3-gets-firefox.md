@@ -1,4 +1,4 @@
-# 索尼 Playstation 3 获得 FireFox | TechCrunch
+# 索尼 Playstation 3 获得 FireFox 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/sony-playstation-3-gets-firefox/>
 

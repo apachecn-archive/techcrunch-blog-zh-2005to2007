@@ -1,4 +1,4 @@
-# 隐藏您的 Nano，让它更大| TechCrunch
+# 隐藏您的 Nano，让它更大
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/hide-your-nano-make-it-bigger/>
 

@@ -1,4 +1,4 @@
-# 摩托罗拉 CHPACBRA | TechCrunch
+# 摩托罗拉 CHPACBRA 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/01/motorola-chpacbra/>
 

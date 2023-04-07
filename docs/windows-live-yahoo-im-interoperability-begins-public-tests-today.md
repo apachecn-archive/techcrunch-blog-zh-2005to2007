@@ -1,4 +1,4 @@
-# IM 互操作性:不再只是梦想 TechCrunch
+# IM 互操作性:不再只是梦想 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/12/windows-live-yahoo-im-interoperability-begins-public-tests-today/>
 

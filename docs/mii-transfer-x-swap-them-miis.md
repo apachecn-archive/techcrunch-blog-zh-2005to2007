@@ -1,4 +1,4 @@
-# Mii Transfer X:交换他们 Miis | TechCrunch
+# Mii Transfer X:交换他们 Miis 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/12/mii-transfer-x-swap-them-miis/>
 

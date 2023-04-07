@@ -1,4 +1,4 @@
-# 更改名称以访问| TechCrunch
+# 更改名称以访问
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/palmsource-to-change-name-to-access/>
 

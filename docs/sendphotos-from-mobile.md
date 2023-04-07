@@ -1,4 +1,4 @@
-# 从手机发送照片——TechCrunch
+# 从手机发送照片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/sendphotos-from-mobile/>
 

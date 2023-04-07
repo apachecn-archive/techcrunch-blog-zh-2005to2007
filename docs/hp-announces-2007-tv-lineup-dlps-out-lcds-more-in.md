@@ -1,4 +1,4 @@
-# 惠普宣布 2007 年电视产品阵容:DLP 退出，LCD 更多进入——TechCrunch
+# 惠普宣布 2007 年电视产品阵容:DLP 退出，LCD 更多进入
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/hp-announces-2007-tv-lineup-dlps-out-lcds-more-in/>
 

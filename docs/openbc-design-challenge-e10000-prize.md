@@ -1,4 +1,4 @@
-# OpenBC 设计挑战赛–€10，000 奖金–TechCrunch
+# OpenBC 设计挑战赛–€10，000 奖金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/04/openbc-design-challenge-e10000-prize/>
 

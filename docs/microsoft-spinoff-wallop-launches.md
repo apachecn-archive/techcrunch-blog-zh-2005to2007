@@ -1,4 +1,4 @@
-# 微软分拆 Wallop 发布| TechCrunch
+# 微软分拆 Wallop 发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/25/microsoft-spinoff-wallop-launches/>
 

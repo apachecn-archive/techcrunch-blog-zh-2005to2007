@@ -1,4 +1,4 @@
-# HTC 耐克，摸谁？TechCrunch
+# HTC 耐克，摸谁？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/htc-nike-touch-who/>
 

@@ -1,4 +1,4 @@
-# 索尼的三大新创意——TechCrunch
+# 索尼的三大新创意
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/sonys-three-new-bravias/>
 

@@ -1,4 +1,4 @@
-# Nirvanix 挑战亚马逊 S3——TechCrunch
+# Nirvanix 挑战亚马逊 S3
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/07/nirvanix-to-challenge-amazon-s3/>
 

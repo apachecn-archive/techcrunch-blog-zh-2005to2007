@@ -1,4 +1,4 @@
-# HTC Omni 绝对不是万能的| TechCrunch
+# HTC Omni 绝对不是万能的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/htc-omni-definitely-not-omnipotent/>
 

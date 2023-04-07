@@ -1,4 +1,4 @@
-# MySpace 为美国西班牙语用户推出网站 TechCrunch
+# MySpace 为美国西班牙语用户推出网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/23/myspace-launches-site-for-us-spanish-speakers/>
 

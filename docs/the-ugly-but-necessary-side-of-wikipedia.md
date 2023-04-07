@@ -1,4 +1,4 @@
-# 丑陋的(但必要的？)维基百科的一面 TechCrunch
+# 丑陋的(但必要的？)维基百科的一面 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/07/the-ugly-but-necessary-side-of-wikipedia/>
 

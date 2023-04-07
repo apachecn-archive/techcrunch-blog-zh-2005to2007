@@ -1,4 +1,4 @@
-# 狗主人两岁了 TechCrunch
+# 狗主人两岁了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/13/dogster-turns-two/>
 

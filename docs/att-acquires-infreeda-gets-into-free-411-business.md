@@ -1,4 +1,4 @@
-# 美国电话电报公司收购 InFreeDA，进入免费 411 业务——TechCrunch
+# 美国电话电报公司收购 InFreeDA，进入免费 411 业务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/26/att-acquires-infreeda-gets-into-free-411-business/>
 

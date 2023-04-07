@@ -1,4 +1,4 @@
-# 谷歌、福克斯重新谈判并延长广告协议 TechCrunch
+# 谷歌、福克斯重新谈判并延长广告协议 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/02/google-fox-renegotiating-and-extending-advertising-deal/>
 

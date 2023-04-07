@@ -1,4 +1,4 @@
-# crunch gear booring Edition:Kaplan SAT Preps Hit iTMS | TechCrunch
+# crunch gear booring Edition:Kaplan SAT Preps Hit iTMS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/crunchgear-boooring-edition-kaplan-sat-preps-hit-itms/>
 

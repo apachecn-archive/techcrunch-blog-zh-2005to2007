@@ -1,4 +1,4 @@
-# 在汽车港租你的停车位——TechCrunch
+# 在汽车港租你的停车位
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/23/rent-your-parking-space-at-carharbor/>
 

@@ -1,4 +1,4 @@
-# IAC 上升，第二季度下降 TechCrunch
+# IAC 上升，第二季度下降 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/31/iac-up-ask-down-in-second-quarter/>
 

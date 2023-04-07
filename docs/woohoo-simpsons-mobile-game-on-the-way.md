@@ -1,4 +1,4 @@
-# 呜哇！《辛普森一家》手机游戏上路了——TechCrunch
+# 呜哇！《辛普森一家》手机游戏上路了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/woohoo-simpsons-mobile-game-on-the-way/>
 

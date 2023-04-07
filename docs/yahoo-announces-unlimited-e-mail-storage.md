@@ -1,4 +1,4 @@
-# 雅虎！宣布无限电子邮件存储| TechCrunch
+# 雅虎！宣布无限电子邮件存储
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/yahoo-announces-unlimited-e-mail-storage/>
 

@@ -1,4 +1,4 @@
-# 就亚马逊网络服务——TechCrunch 采访杰夫·贝索斯
+# 就亚马逊网络服务 采访杰夫·贝索斯
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/14/interview-with-jeff-bezos-on-amazon-web-services/>
 

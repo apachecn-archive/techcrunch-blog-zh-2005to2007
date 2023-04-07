@@ -1,4 +1,4 @@
-# 目标为 Wii 做准备——TechCrunch
+# 目标为 Wii 做准备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/08/target-prepares-for-wii/>
 

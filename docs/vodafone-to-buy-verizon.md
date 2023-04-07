@@ -1,4 +1,4 @@
-# 沃达丰将收购威瑞森？TechCrunch
+# 沃达丰将收购威瑞森？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/vodafone-to-buy-verizon/>
 

@@ -1,4 +1,4 @@
-# 登喜路鳄鱼皮 iPod 扬声器| TechCrunch
+# 登喜路鳄鱼皮 iPod 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/dunhill-alligator-skin-ipod-speakers/>
 

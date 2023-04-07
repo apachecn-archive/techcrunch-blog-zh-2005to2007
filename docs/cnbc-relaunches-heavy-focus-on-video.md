@@ -1,4 +1,4 @@
-# 美国消费者新闻与商业频道重新启动:重点关注视频——TechCrunch
+# 美国消费者新闻与商业频道重新启动:重点关注视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/03/cnbc-relaunches-heavy-focus-on-video>
 

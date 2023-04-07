@@ -1,4 +1,4 @@
-# 美国电影协会是一个密码窃贼！TechCrunch
+# 美国电影协会是一个密码窃贼！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/the-mpaa-is-a-code-thief/>
 

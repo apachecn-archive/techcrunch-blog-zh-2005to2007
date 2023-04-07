@@ -1,4 +1,4 @@
-# 信息圈知道你是谁，想要分享——TechCrunch
+# 信息圈知道你是谁，想要分享
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/the-info-ring-knows-who-you-are-wants-to-share/>
 

@@ -1,4 +1,4 @@
-# Suunto X9i 手表审查和寻找冒险！TechCrunch
+# Suunto X9i 手表审查和寻找冒险！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/14/suunto-x9i-watch-reviewed-and-looking-adventurous/>
 

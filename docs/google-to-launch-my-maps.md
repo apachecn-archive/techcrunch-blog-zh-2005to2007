@@ -1,4 +1,4 @@
-# 谷歌将于今日发布 Mapplets——TechCrunch
+# 谷歌将于今日发布 Mapplets
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/11/google-to-launch-my-maps/>
 

@@ -1,4 +1,4 @@
-# 惠普进入网络存储领域| TechCrunch
+# 惠普进入网络存储领域
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/hp-enters-the-network-storage-fray/>
 

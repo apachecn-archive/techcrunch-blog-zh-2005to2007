@@ -1,4 +1,4 @@
-# 有一个神:Killzone 测试版即将推出| TechCrunch
+# 有一个神:Killzone 测试版即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/there-is-a-god-killzone-beta-coming-soon/>
 

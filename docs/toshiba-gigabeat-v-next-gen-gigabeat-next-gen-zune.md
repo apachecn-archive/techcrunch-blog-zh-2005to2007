@@ -1,4 +1,4 @@
-# 东芝 Gigabeat V:下一代 gigabbeat，下一代 Zune？TechCrunch
+# 东芝 Gigabeat V:下一代 gigabbeat，下一代 Zune？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/28/toshiba-gigabeat-v-next-gen-gigabeat-next-gen-zune/>
 

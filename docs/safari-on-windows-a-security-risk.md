@@ -1,4 +1,4 @@
-# 安全风险——TechCrunch
+# 安全风险
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/safari-on-windows-a-security-risk/>
 

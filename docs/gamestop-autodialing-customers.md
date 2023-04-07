@@ -1,4 +1,4 @@
-# Gamestop 自动拨号客户–TechCrunch
+# Gamestop 自动拨号客户
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/16/gamestop-autodialing-customers/>
 

@@ -1,4 +1,4 @@
-# Wordpress.com 庆祝第 100 万个博客——TechCrunch
+# Wordpress.com 庆祝第 100 万个博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/15/wordpresscom-to-celebrate-1-millionth-blog/>
 

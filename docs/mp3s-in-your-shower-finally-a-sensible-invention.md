@@ -1,4 +1,4 @@
-# 淋浴中的 MP3:终于，一个明智的发明——TechCrunch
+# 淋浴中的 MP3:终于，一个明智的发明
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/mp3s-in-your-shower-finally-a-sensible-invention/>
 

@@ -1,4 +1,4 @@
-# 帮助键:盗版基本指南| TechCrunch
+# 帮助键:盗版基本指南
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/14/help-key-the-essential-guide-to-piracy/>
 

@@ -1,4 +1,4 @@
-# NEC 推出两款新的 Versa 笔记本电脑，增加了安全性——TechCrunch
+# NEC 推出两款新的 Versa 笔记本电脑，增加了安全性
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/two-new-nrc-versa-laptops-with-security/>
 

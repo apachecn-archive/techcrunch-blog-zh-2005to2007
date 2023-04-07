@@ -1,4 +1,4 @@
-# 谁的最小？当然是 Argard 的 M10——TechCrunch
+# 谁的最小？当然是 Argard 的 M10
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/who%e2%80%99s-got-the-smallest-argard%e2%80%99s-m10-for-sure/>
 

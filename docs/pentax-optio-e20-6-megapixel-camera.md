@@ -1,4 +1,4 @@
-# 宾得 Optio E20 600 万像素摄像头| TechCrunch
+# 宾得 Optio E20 600 万像素摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/14/pentax-optio-e20-6-megapixel-camera/>
 

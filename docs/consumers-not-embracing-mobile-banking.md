@@ -1,4 +1,4 @@
-# 消费者不接受手机银行| TechCrunch
+# 消费者不接受手机银行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/01/consumers-not-embracing-mobile-banking/>
 

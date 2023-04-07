@@ -1,4 +1,4 @@
-# D7TV 可能是移动内容的下一个 MTV——TechCrunch
+# D7TV 可能是移动内容的下一个 MTV
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/12/06/d7tv-may-be-the-next-mtv-for-mobile-content/>
 

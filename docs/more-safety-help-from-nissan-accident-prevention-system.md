@@ -1,4 +1,4 @@
-# 日产提供更多安全帮助:事故预防系统| TechCrunch
+# 日产提供更多安全帮助:事故预防系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/more-safety-help-from-nissan-accident-prevention-system/>
 

@@ -1,4 +1,4 @@
-# Web 2.0 本周(8 月 28 日至 9 月 3 日)| TechCrunch
+# Web 2.0 本周(8 月 28 日至 9 月 3 日)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/04/web-20-this-week-aug-28-sept-3/>
 

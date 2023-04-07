@@ -1,4 +1,4 @@
-# Swivel:经合组织的宠儿——TechCrunch
+# Swivel:经合组织的宠儿
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/11/swivel-the-toast-of-the-oecd/>
 

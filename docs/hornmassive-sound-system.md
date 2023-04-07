@@ -1,4 +1,4 @@
-# HORNMASSIVE 音响系统| TechCrunch
+# HORNMASSIVE 音响系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/hornmassive-sound-system/>
 

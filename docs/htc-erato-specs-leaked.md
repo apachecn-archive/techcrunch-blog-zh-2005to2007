@@ -1,4 +1,4 @@
-# HTC Erato 规格泄漏| TechCrunch
+# HTC Erato 规格泄漏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/04/htc-erato-specs-leaked/>
 

@@ -1,4 +1,4 @@
-# thumb stacks-Ajax/Flash Web PowerPoint TechCrunch
+# thumb stacks-Ajax/Flash Web PowerPoint 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/09/thumbstacks-ajaxflash-web-powerpoint/>
 

@@ -1,4 +1,4 @@
-# Media Temple 现在允许从 iPhone | TechCrunch 进行网络控制
+# Media Temple 现在允许从 iPhone  进行网络控制
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/media-temple-now-allows-web-control-from-iphone/>
 

@@ -1,4 +1,4 @@
-# 谷歌视频| TechCrunch
+# 谷歌视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/rip-google-video/>
 

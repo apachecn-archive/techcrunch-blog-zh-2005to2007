@@ -1,4 +1,4 @@
-# 三星 E890 摸索被录下| TechCrunch
+# 三星 E890 摸索被录下
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/samsung-e890-groping-caught-on-tape/>
 

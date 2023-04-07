@@ -1,4 +1,4 @@
-# 以色列的 Kontera 从红杉和其他公司获得了 1030 万美元的第二轮投资——TechCrunch
+# 以色列的 Kontera 从红杉和其他公司获得了 1030 万美元的第二轮投资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/12/israels-kontera-nails-103-million-second-round-from-sequoia-and-others/>
 

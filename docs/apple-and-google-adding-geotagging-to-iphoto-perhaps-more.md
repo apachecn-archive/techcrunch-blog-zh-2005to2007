@@ -1,4 +1,4 @@
-# 苹果和谷歌将地理标记添加到 iPhoto，也许更多——TechCrunch
+# 苹果和谷歌将地理标记添加到 iPhoto，也许更多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/03/apple-and-google-adding-geotagging-to-iphoto-perhaps-more/>
 

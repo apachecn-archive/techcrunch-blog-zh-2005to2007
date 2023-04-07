@@ -1,4 +1,4 @@
-# Bostitch Nails PopSci 年度创新| TechCrunch
+# Bostitch Nails PopSci 年度创新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/bostitch-nails-popsci-innovation-of-the-year/>
 

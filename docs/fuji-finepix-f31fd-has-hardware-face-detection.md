@@ -1,4 +1,4 @@
-# 富士 FinePix F31FD 有硬件人脸检测| TechCrunch
+# 富士 FinePix F31FD 有硬件人脸检测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/fuji-finepix-f31fd-has-hardware-face-detection/>
 

@@ -1,4 +1,4 @@
-# 历史改变终极耳朵耳机在路上？TechCrunch
+# 历史改变终极耳朵耳机在路上？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/20/history-changing-ultimate-ears-headphones-on-the-way/>
 

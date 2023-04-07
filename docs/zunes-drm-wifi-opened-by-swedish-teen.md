@@ -1,4 +1,4 @@
-# Zune 的 DRM，瑞典少年开的 WiFi？–TechCrunch
+# Zune 的 DRM，瑞典少年开的 WiFi？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/zunes-drm-wifi-opened-by-swedish-teen/>
 

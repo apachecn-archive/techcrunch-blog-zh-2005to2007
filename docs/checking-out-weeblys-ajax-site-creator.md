@@ -1,4 +1,4 @@
-# 查看 Weebly 的 Ajax 站点创建者——TechCrunch
+# 查看 Weebly 的 Ajax 站点创建者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/05/checking-out-weeblys-ajax-site-creator/>
 

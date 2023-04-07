@@ -1,4 +1,4 @@
-# 《半条命 2》经由乔布斯的发烧梦——TechCrunch
+# 《半条命 2》经由乔布斯的发烧梦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/half-life-2-via-jobs-fever-dreams/>
 

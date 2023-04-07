@@ -1,4 +1,4 @@
-# 贝宝、低俗小说和 Geni TechCrunch
+# 贝宝、低俗小说和 Geni 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/12/paypal-pulp-fiction-and-geni>
 

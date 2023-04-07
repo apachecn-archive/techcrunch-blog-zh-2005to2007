@@ -1,4 +1,4 @@
-# Xbox 360 XNA Express 可供下载| TechCrunch
+# Xbox 360 XNA Express 可供下载
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/xbox-360-xna-express-available-for-download/>
 

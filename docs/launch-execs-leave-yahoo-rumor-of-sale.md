@@ -1,4 +1,4 @@
-# 发布高管离开雅虎，出售传言 TechCrunch
+# 发布高管离开雅虎，出售传言 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/13/launch-execs-leave-yahoo-rumor-of-sale/>
 

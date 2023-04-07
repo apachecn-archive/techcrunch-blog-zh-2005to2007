@@ -1,4 +1,4 @@
-# snimmer——如果你敢测试它| TechCrunch
+# snimmer——如果你敢测试它
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/23/snimmer-test-it-if-you-dare/>
 

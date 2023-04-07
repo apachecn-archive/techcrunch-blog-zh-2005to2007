@@ -1,4 +1,4 @@
-# 我们现在向我们的微波发射霸主鞠躬| TechCrunch
+# 我们现在向我们的微波发射霸主鞠躬
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/we-now-bow-to-our-microwave-emitting-overlords/>
 

@@ -1,4 +1,4 @@
-# 尼康给 Flickr Photogs 发 d80:哇，不错——TechCrunch
+# 尼康给 Flickr Photogs 发 d80:哇，不错
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/nikon-gives-out-d80s-to-flickr-photogs-wow-nice/>
 

@@ -1,4 +1,4 @@
-# 下一次 TechCrunch 活动| TechCrunch
+# 下一次 TechCrunch 活动
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/20/next-techcrunch-event/>
 

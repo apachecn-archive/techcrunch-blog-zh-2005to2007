@@ -1,4 +1,4 @@
-# 赠送感谢礼物| TechCrunch
+# 赠送感谢礼物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/giving-thanks-giveaway/>
 

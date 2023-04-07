@@ -1,4 +1,4 @@
-# 迪士尼为孩子们创建了 MySpace，发明了“网络品牌”——TechCrunch
+# 迪士尼为孩子们创建了 MySpace，发明了“网络品牌”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/disney-creates-myspace-for-kids-invents-network-branding/>
 

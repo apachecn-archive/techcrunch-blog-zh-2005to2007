@@ -1,4 +1,4 @@
-# 为什么是维多克？为什么不呢？TechCrunch
+# 为什么是维多克？为什么不呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/why-widock-why-not/>
 

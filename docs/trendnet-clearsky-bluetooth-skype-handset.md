@@ -1,4 +1,4 @@
-# TrendNet ClearSky 蓝牙 Skype 手机| TechCrunch
+# TrendNet ClearSky 蓝牙 Skype 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/trendnet-clearsky-bluetooth-skype-handset/>
 

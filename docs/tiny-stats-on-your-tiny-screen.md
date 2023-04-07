@@ -1,4 +1,4 @@
-# 微小屏幕上的微小数据——TechCrunch
+# 微小屏幕上的微小数据
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/tiny-stats-on-your-tiny-screen/>
 

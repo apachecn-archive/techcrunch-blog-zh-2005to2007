@@ -1,4 +1,4 @@
-# 索尼新推出的支持 WiFi 的 Cybershot DSC-G1 | TechCrunch
+# 索尼新推出的支持 WiFi 的 Cybershot DSC-G1 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/sonys-new-wifi-enabled-cybershot-dsc-g1/>
 

@@ -1,4 +1,4 @@
-# MochiMedia 推出 Flash 游戏广告网络——TechCrunch
+# MochiMedia 推出 Flash 游戏广告网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/20/mochimedia-introduces-ad-network-for-flash-games/>
 

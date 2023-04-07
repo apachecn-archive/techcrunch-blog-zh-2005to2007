@@ -1,4 +1,4 @@
-# 佳能 EOS-1D Mark III 覆盆子| TechCrunch
+# 佳能 EOS-1D Mark III 覆盆子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/canon-eos-1d-mark-iii-raspberry/>
 

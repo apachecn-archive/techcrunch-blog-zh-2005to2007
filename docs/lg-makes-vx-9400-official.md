@@ -1,4 +1,4 @@
-# LG 使 VX-9400 正式| TechCrunch
+# LG 使 VX-9400 正式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/lg-makes-vx-9400-official/>
 

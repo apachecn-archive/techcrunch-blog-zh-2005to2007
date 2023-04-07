@@ -1,4 +1,4 @@
-# 群体团队:像动物一样通过短信交流——TechCrunch
+# 群体团队:像动物一样通过短信交流
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/18/swarmteams-communicate-like-animals-by-sms/>
 

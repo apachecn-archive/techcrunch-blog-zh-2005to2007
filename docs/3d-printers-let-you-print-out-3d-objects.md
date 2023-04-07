@@ -1,4 +1,4 @@
-# 3D 打印机让你打印出 3D 物体——TechCrunch
+# 3D 打印机让你打印出 3D 物体
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/3d-printers-let-you-print-out-3d-objects/>
 

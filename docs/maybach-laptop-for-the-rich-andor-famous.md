@@ -1,4 +1,4 @@
-# 面向富人和/或名人的迈巴赫笔记本电脑——TechCrunch
+# 面向富人和/或名人的迈巴赫笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/maybach-laptop-for-the-rich-andor-famous/>
 

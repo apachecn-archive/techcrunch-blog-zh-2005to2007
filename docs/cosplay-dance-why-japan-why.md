@@ -1,4 +1,4 @@
-# Cosplay 舞蹈:为什么，日本，为什么？TechCrunch
+# Cosplay 舞蹈:为什么，日本，为什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/cosplay-dance-why-japan-why/>
 

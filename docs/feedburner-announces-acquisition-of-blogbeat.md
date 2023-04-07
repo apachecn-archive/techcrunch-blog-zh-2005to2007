@@ -1,4 +1,4 @@
-# Feedburner 宣布收购 Blogbeat TechCrunch
+# Feedburner 宣布收购 Blogbeat 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/16/feedburner-announces-acquisition-of-blogbeat/>
 

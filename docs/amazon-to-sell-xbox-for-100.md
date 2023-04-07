@@ -1,4 +1,4 @@
-# 亚马逊将以 100 美元的价格出售 Xbox 360？–TechCrunch
+# 亚马逊将以 100 美元的价格出售 Xbox 360？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/10/amazon-to-sell-xbox-for-100/>
 

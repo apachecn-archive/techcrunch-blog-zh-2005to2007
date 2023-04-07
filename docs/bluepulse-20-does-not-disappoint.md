@@ -1,4 +1,4 @@
-# Bluepulse 2.0 没有让人失望| TechCrunch
+# Bluepulse 2.0 没有让人失望
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/bluepulse-20-does-not-disappoint/>
 

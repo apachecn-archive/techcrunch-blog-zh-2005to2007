@@ -1,4 +1,4 @@
-# Safari 的色情模式| TechCrunch
+# Safari 的色情模式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/safaris-porn-mode/>
 

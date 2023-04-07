@@ -1,4 +1,4 @@
-# OpenStreetMap 与雅虎的墨水交易！地图| TechCrunch
+# OpenStreetMap 与雅虎的墨水交易！地图
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/openstreetmap-inks-deal-with-yahoo-maps/>
 

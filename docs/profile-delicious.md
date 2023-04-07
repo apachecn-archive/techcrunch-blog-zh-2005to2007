@@ -1,4 +1,4 @@
-# 简介:Del.icio.us | TechCrunch
+# 简介:Del.icio.us 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/16/profile-delicious/>
 

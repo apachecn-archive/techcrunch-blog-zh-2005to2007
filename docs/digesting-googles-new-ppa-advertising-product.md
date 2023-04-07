@@ -1,4 +1,4 @@
-# 消化谷歌新的 PPA 广告产品 TechCrunch
+# 消化谷歌新的 PPA 广告产品 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/21/digesting-googles-new-ppa-advertising-product/>
 

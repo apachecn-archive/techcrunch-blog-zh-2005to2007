@@ -1,4 +1,4 @@
-# 为假期准备的 crunch gear | TechCrunch
+# 为假期准备的 crunch gear 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/08/crunchgear-for-the-holidays/>
 

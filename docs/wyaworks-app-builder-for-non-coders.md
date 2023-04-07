@@ -1,4 +1,4 @@
-# Wyaworks -面向非编码人员的应用构建器 TechCrunch
+# Wyaworks -面向非编码人员的应用构建器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/30/wyaworks-app-builder-for-non-coders/>
 

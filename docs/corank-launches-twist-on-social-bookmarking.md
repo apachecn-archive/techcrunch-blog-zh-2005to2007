@@ -1,4 +1,4 @@
-# CoRank 推出社交书签 Twist TechCrunch
+# CoRank 推出社交书签 Twist 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/08/corank-launches-twist-on-social-bookmarking/>
 

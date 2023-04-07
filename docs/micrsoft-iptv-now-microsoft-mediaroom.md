@@ -1,4 +1,4 @@
-# 微软 IPTV 现在微软 media room–TechCrunch
+# 微软 IPTV 现在微软 media room
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/17/micrsoft-iptv-now-microsoft-mediaroom/>
 

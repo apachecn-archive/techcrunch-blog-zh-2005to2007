@@ -1,4 +1,4 @@
-# Core 2 Duo iMacs 附带 802.11n 之前版本的 WiFi 卡？TechCrunch
+# Core 2 Duo iMacs 附带 802.11n 之前版本的 WiFi 卡？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/core-2-duo-imacs-shipping-with-pre-80211n-wifi-cards/>
 

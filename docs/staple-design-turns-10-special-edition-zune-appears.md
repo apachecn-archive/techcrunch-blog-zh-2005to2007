@@ -1,4 +1,4 @@
-# Staple 设计 10 周年，特别版 Zune 亮相| TechCrunch
+# Staple 设计 10 周年，特别版 Zune 亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/staple-design-turns-10-special-edition-zune-appears/>
 

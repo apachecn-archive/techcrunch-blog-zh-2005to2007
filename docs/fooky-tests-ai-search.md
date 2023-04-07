@@ -1,4 +1,4 @@
-# Fooky 测试 AI 搜索 TechCrunch
+# Fooky 测试 AI 搜索 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/06/fooky-tests-ai-search/>
 

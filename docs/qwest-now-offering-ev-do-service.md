@@ -1,4 +1,4 @@
-# Qwest 现在提供 EV-DO 服务| TechCrunch
+# Qwest 现在提供 EV-DO 服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/qwest-now-offering-ev-do-service/>
 

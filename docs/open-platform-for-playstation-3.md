@@ -1,4 +1,4 @@
-# PlayStation 3 的开放平台 TechCrunch
+# PlayStation 3 的开放平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/11/open-platform-for-playstation-3/>
 

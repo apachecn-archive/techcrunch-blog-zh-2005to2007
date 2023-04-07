@@ -1,4 +1,4 @@
-# HTC Ameo/Athena T-Mo 英国定价–TechCrunch
+# HTC Ameo/Athena T-Mo 英国定价
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/19/htc-ameoathena-t-mo-pricing-available-for-uk/>
 

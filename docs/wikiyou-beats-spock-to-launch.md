@@ -1,4 +1,4 @@
-# WikiYou 击败 Spock 发布——TechCrunch
+# WikiYou 击败 Spock 发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/24/wikiyou-beats-spock-to-launch/>
 

@@ -1,4 +1,4 @@
-# 平面 Xscreen:他们可能认为这是一台等离子电视——TechCrunch
+# 平面 Xscreen:他们可能认为这是一台等离子电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/plana-100-inch-screen-they-might-think-its-a-plasma-tv/>
 

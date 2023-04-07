@@ -1,4 +1,4 @@
-# Griffin Evolve 真的是无线的| TechCrunch
+# Griffin Evolve 真的是无线的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/griffin-evolve-really-is-wireless/>
 

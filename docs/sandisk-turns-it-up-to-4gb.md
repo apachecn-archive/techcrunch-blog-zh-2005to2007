@@ -1,4 +1,4 @@
-# SanDisk 将其提升至 4GB——TechCrunch
+# SanDisk 将其提升至 4GB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/sandisk-turns-it-up-to-4gb/>
 

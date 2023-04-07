@@ -1,4 +1,4 @@
-# 图片中的 1 万亿像素——TechCrunch
+# 图片中的 1 万亿像素
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/1-trillion-pixels-in-a-picture/>
 

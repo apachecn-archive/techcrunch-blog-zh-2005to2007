@@ -1,4 +1,4 @@
-# BlueAnt:SuperToof–TechCrunch
+# BlueAnt:SuperToof
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/blueant-supertoof/>
 

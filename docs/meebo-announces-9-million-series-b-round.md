@@ -1,4 +1,4 @@
-# Meebo 宣布 900 万美元的 B 轮融资 TechCrunch
+# Meebo 宣布 900 万美元的 B 轮融资 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/17/meebo-announces-9-million-series-b-round/>
 

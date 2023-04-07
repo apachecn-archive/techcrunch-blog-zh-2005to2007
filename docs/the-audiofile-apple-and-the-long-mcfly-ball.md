@@ -1,4 +1,4 @@
-# 音频文件:苹果和长高飞球——TechCrunch
+# 音频文件:苹果和长高飞球
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/13/the-audiofile-apple-and-the-long-mcfly-ball/>
 

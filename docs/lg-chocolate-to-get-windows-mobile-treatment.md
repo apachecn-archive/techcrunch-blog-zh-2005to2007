@@ -1,4 +1,4 @@
-# LG 巧克力获得 Windows Mobile 待遇| TechCrunch
+# LG 巧克力获得 Windows Mobile 待遇
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/lg-chocolate-to-get-windows-mobile-treatment/>
 

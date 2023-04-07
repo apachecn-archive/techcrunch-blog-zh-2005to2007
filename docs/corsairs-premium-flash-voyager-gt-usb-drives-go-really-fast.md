@@ -1,4 +1,4 @@
-# 海盗船的优质闪存 Voyager GT USB 驱动器速度非常快| TechCrunch
+# 海盗船的优质闪存 Voyager GT USB 驱动器速度非常快
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/28/corsairs-premium-flash-voyager-gt-usb-drives-go-really-fast/>
 

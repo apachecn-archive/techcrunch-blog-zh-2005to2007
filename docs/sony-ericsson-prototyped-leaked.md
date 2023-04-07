@@ -1,4 +1,4 @@
-# 索尼-爱立信原型泄露–TechCrunch
+# 索尼-爱立信原型泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/sony-ericsson-prototyped-leaked/>
 

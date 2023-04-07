@@ -1,4 +1,4 @@
-# 苹果第 5253 轮谣言:iPhone 证据和巨型屁股电视？–TechCrunch
+# 苹果第 5253 轮谣言:iPhone 证据和巨型屁股电视？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/apple-rumors-round-5253-iphone-evidence-and-giant-ass-tvs/>
 

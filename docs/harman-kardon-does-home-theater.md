@@ -1,4 +1,4 @@
-# 哈曼卡顿做家庭影院——TechCrunch
+# 哈曼卡顿做家庭影院
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/harman-kardon-does-home-theater/>
 

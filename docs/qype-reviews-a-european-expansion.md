@@ -1,4 +1,4 @@
-# Qype 回顾了欧洲的扩张。TechCrunch
+# Qype 回顾了欧洲的扩张。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/06/qype-reviews-a-european-expansion/>
 

@@ -1,4 +1,4 @@
-# Pegasus 概念轮椅增加了垂直运动 TechCrunch
+# Pegasus 概念轮椅增加了垂直运动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/pegasus-concept-wheelchair-adds-vertical-movement/>
 

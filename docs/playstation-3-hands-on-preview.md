@@ -1,4 +1,4 @@
-# PlayStation 3 动手预览| TechCrunch
+# PlayStation 3 动手预览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/playstation-3-hands-on-preview/>
 

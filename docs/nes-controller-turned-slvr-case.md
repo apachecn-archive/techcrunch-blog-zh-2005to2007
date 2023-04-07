@@ -1,4 +1,4 @@
-# NES 控制者转向 SLVR 案例——TechCrunch
+# NES 控制者转向 SLVR 案例
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/nes-controller-turned-slvr-case/>
 

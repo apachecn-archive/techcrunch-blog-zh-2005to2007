@@ -1,4 +1,4 @@
-# Pyramat S2000 声音摇杆| TechCrunch
+# Pyramat S2000 声音摇杆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/25/pyramat-s2000-sound-rocker/>
 

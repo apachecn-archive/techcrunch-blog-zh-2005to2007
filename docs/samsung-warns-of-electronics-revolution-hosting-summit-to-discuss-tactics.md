@@ -1,4 +1,4 @@
-# 三星警告电子革命，举办峰会讨论策略 TechCrunch
+# 三星警告电子革命，举办峰会讨论策略 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/samsung-warns-of-electronics-revolution-hosting-summit-to-discuss-tactics/>
 

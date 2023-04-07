@@ -1,4 +1,4 @@
-# 博客今年十岁了| TechCrunch
+# 博客今年十岁了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/15/blogging-turns-ten-this-year/>
 

@@ -1,4 +1,4 @@
-# 心灵糖果“找到”700 万美元的资金！TechCrunch
+# 心灵糖果“找到”700 万美元的资金！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/25/mind-candy-announces-7m-in-funding/>
 

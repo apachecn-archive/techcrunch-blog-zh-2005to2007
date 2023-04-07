@@ -1,4 +1,4 @@
-# Helio 带来了热度——TechCrunch
+# Helio 带来了热度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/helio-brings-the-heat/>
 

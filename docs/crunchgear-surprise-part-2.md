@@ -1,4 +1,4 @@
-# CrunchGear 惊喜，第 2 部分| TechCrunch
+# CrunchGear 惊喜，第 2 部分
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/10/crunchgear-surprise-part-2/>
 

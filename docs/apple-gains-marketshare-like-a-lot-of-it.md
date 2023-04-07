@@ -1,4 +1,4 @@
-# 苹果获得市场份额(比如，很多)——TechCrunch
+# 苹果获得市场份额(比如，很多)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/13/apple-gains-marketshare-like-a-lot-of-it/>
 

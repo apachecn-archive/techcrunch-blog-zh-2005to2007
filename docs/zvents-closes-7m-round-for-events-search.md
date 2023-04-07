@@ -1,4 +1,4 @@
-# Zvents 完成 700 万美元的事件搜索 TechCrunch
+# Zvents 完成 700 万美元的事件搜索 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/07/zvents-closes-7m-round-for-events-search/>
 

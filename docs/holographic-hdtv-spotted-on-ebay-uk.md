@@ -1,4 +1,4 @@
-# Ebay 英国| TechCrunch 发现的“全息”高清电视
+# Ebay 英国 发现的“全息”高清电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/holographic-hdtv-spotted-on-ebay-uk/>
 

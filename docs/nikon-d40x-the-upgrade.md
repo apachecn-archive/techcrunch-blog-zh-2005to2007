@@ -1,4 +1,4 @@
-# 尼康 D40x:X 代表轻微升级| TechCrunch
+# 尼康 D40x:X 代表轻微升级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/nikon-d40x-the-upgrade/>
 

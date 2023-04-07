@@ -1,4 +1,4 @@
-# 如何干掉一个 PS3 | TechCrunch
+# 如何干掉一个 PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/how-to-kill-a-ps3/>
 

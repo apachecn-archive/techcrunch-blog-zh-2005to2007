@@ -1,4 +1,4 @@
-# 索尼 NW-S203F MP3 播放计步器评论| TechCrunch
+# 索尼 NW-S203F MP3 播放计步器评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/sony-nw-s203f-mp3-playing-pedometer-reviewed/>
 

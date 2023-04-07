@@ -1,4 +1,4 @@
-# 谷歌筹备移动搜索网站——TechCrunch
+# 谷歌筹备移动搜索网站
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/17/google-preparing-mobile-focused-search-site/>
 

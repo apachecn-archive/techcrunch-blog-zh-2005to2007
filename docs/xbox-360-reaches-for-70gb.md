@@ -1,4 +1,4 @@
-# Xbox 360 达到 70GB？–TechCrunch
+# Xbox 360 达到 70GB？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/xbox-360-reaches-for-70gb/>
 

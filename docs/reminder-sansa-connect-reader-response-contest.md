@@ -1,4 +1,4 @@
-# 提醒:Sansa Connect 读者反馈竞赛| TechCrunch
+# 提醒:Sansa Connect 读者反馈竞赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/reminder-sansa-connect-reader-response-contest/>
 

@@ -1,4 +1,4 @@
-# iPhone 激活和信用检查信息| TechCrunch
+# iPhone 激活和信用检查信息
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/iphone-activation-and-credit-check-information/>
 

@@ -1,4 +1,4 @@
-# 饮食电视:减肥 2.0 TechCrunch
+# 饮食电视:减肥 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/08/diettelivision-weight-loss-20/>
 

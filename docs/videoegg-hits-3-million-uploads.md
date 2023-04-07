@@ -1,4 +1,4 @@
-# VideoEgg 点击 300 万次上传——TechCrunch
+# VideoEgg 点击 300 万次上传
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/videoegg-hits-3-million-uploads/>
 

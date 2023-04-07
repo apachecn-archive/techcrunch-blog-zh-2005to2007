@@ -1,4 +1,4 @@
-# 如何在视频游戏中不输——TechCrunch
+# 如何在视频游戏中不输
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/19/how-not-to-lose-at-video-games/>
 

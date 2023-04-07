@@ -1,4 +1,4 @@
-# 游戏专家第 4 阶段 PSP 高保真 TechCrunch
+# 游戏专家第 4 阶段 PSP 高保真 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/21/gamexpert-phase-4-psp-hi-fi/>
 

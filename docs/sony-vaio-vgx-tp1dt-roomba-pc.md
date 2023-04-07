@@ -1,4 +1,4 @@
-# 索尼 VAIO VGX-TP1DT Roomba PC–TechCrunch
+# 索尼 VAIO VGX-TP1DT Roomba PC
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/sony-vaio-vgx-tp1dt-roomba-pc/>
 

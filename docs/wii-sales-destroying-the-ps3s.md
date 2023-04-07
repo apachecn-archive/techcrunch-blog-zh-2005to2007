@@ -1,4 +1,4 @@
-# Wii 销售摧毁 PS3 的| TechCrunch
+# Wii 销售摧毁 PS3 的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/wii-sales-destroying-the-ps3s/>
 

@@ -1,4 +1,4 @@
-# 惠普的两百万像素网络摄像头——TechCrunch
+# 惠普的两百万像素网络摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/hps-two-megapixel-webcam/>
 

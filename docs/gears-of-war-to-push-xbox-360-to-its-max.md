@@ -1,4 +1,4 @@
-# 战争机器将 Xbox 360 推向极限？–TechCrunch
+# 战争机器将 Xbox 360 推向极限？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/gears-of-war-to-push-xbox-360-to-its-max/>
 

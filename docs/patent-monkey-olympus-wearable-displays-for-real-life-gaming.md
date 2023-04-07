@@ -1,4 +1,4 @@
-# 专利猴:奥林巴斯现实生活游戏的可穿戴显示器——TechCrunch
+# 专利猴:奥林巴斯现实生活游戏的可穿戴显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/patent-monkey-olympus-wearable-displays-for-real-life-gaming/>
 

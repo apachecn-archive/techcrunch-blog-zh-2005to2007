@@ -1,4 +1,4 @@
-# 三星 Z610 iPod 式电池出现在 FCC–TechCrunch 上
+# 三星 Z610 iPod 式电池出现在 FCC 上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/samsung-z610-ipod-esque-cell-shows-up-on-fcc/>
 

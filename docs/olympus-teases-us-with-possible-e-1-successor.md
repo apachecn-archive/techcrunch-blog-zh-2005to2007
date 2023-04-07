@@ -1,4 +1,4 @@
-# 奥林巴斯用 E-1 可能的继任者——TechCrunch 来戏弄我们
+# 奥林巴斯用 E-1 可能的继任者 来戏弄我们
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/olympus-teases-us-with-possible-e-1-successor/>
 

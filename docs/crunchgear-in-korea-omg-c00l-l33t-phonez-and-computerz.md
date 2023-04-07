@@ -1,4 +1,4 @@
-# 韩国 crunch gear:OMG C00l！L33T 手机和电脑！–TechCrunch
+# 韩国 crunch gear:OMG C00l！L33T 手机和电脑！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/crunchgear-in-korea-omg-c00l-l33t-phonez-and-computerz/>
 

@@ -1,4 +1,4 @@
-# 索尼 CDX-HS70MW 防一切船只主机| TechCrunch
+# 索尼 CDX-HS70MW 防一切船只主机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/sony-cdx-hs70mw-everything-proof-head-unit/>
 

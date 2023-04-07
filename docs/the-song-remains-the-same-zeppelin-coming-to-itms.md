@@ -1,4 +1,4 @@
-# 歌曲依旧:齐柏林飞艇来到 iTMS | TechCrunch
+# 歌曲依旧:齐柏林飞艇来到 iTMS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/the-song-remains-the-same-zeppelin-coming-to-itms/>
 

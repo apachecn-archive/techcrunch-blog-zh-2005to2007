@@ -1,4 +1,4 @@
-# JVC GZ-HD3 硬盘高清视频摄像头| TechCrunch
+# JVC GZ-HD3 硬盘高清视频摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/jvc-gz-hd3-hard-drive-high-definition-videocam/>
 

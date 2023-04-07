@@ -1,4 +1,4 @@
-# Digg v3 截图展示了超越技术的目标:它会起作用吗？TechCrunch
+# Digg v3 截图展示了超越技术的目标:它会起作用吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/14/digg-v3-screenshots-show-aims-beyond-tech-will-it-work/>
 

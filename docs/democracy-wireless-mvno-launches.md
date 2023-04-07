@@ -1,4 +1,4 @@
-# 民主无线 MVNO 发布| TechCrunch
+# 民主无线 MVNO 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/democracy-wireless-mvno-launches/>
 

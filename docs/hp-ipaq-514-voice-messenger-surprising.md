@@ -1,4 +1,4 @@
-# 惠普 iPAQ 514 语音信使:令人惊讶——TechCrunch
+# 惠普 iPAQ 514 语音信使:令人惊讶
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/hp-ipaq-514-voice-messenger-surprising/>
 

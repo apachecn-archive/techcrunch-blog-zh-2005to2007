@@ -1,4 +1,4 @@
-# 赛格威故障导致召回——TechCrunch
+# 赛格威故障导致召回
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/14/segway-glitch-causes-recalls/>
 

@@ -1,4 +1,4 @@
-# 最近 100 次发布:来自读写网的新博客——TechCrunch
+# 最近 100 次发布:来自读写网的新博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/21/last100-launches-new-blog-from-readwrite-web/>
 

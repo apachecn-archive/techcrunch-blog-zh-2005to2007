@@ -1,4 +1,4 @@
-# 苹果最终发布 802.11n Enabler TechCrunch
+# 苹果最终发布 802.11n Enabler 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/apple-finally-releases-80211n-enabler/>
 

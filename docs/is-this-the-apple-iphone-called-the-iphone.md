@@ -1,4 +1,4 @@
-# 这是苹果 iPhone 吗？叫做 iPhone？TechCrunch
+# 这是苹果 iPhone 吗？叫做 iPhone？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/is-this-the-apple-iphone-called-the-iphone/>
 

@@ -1,4 +1,4 @@
-# 您的迷你电脑提供三重功能——TechCrunch
+# 您的迷你电脑提供三重功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/09/yourminis-delivering-triple-widget-play/>
 

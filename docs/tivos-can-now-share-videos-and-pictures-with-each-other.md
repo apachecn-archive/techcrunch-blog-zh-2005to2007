@@ -1,4 +1,4 @@
-# TiVos 现在可以互相分享视频和图片——TechCrunch
+# TiVos 现在可以互相分享视频和图片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/27/tivos-can-now-share-videos-and-pictures-with-each-other/>
 

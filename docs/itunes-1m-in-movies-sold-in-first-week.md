@@ -1,4 +1,4 @@
-# iTunes:第一周售出 100 万美元的电影 TechCrunch
+# iTunes:第一周售出 100 万美元的电影 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/19/itunes-1m-in-movies-sold-in-first-week/>
 

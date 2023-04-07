@@ -1,4 +1,4 @@
-# 请为 Zune 加热 TechCrunch
+# 请为 Zune 加热 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/12/pleas-for-zune-heat-up/>
 

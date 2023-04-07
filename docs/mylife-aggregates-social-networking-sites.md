@@ -1,4 +1,4 @@
-# MyLifeBrand 聚合社交网站——TechCrunch
+# MyLifeBrand 聚合社交网站
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/07/mylife-aggregates-social-networking-sites/>
 

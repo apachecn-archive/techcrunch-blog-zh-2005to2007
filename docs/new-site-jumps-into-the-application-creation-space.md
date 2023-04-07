@@ -1,4 +1,4 @@
-# 新网站“跃入”应用创建领域——TechCrunch
+# 新网站“跃入”应用创建领域
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/19/new-site-jumps-into-the-application-creation-space/>
 

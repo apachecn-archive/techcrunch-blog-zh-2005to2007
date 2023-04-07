@@ -1,4 +1,4 @@
-# 为您的 MacBook 添加第二个硬盘，MacBook Pro | TechCrunch
+# 为您的 MacBook 添加第二个硬盘，MacBook Pro 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/05/add-a-second-hard-drive-to-your-macbook-macbook-pro/>
 

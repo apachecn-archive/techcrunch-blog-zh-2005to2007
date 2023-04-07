@@ -1,4 +1,4 @@
-# 索尼爱立信 W880i:万圣节版——TechCrunch
+# 索尼爱立信 W880i:万圣节版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/02/sony-ericsson-w880i-halloween-edition/>
 

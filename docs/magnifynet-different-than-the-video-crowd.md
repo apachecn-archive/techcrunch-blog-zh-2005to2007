@@ -1,4 +1,4 @@
-# Magnify.net 不同于其他视频用户——TechCrunch
+# Magnify.net 不同于其他视频用户
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/31/magnifynet-different-than-the-video-crowd/>
 

@@ -1,4 +1,4 @@
-# iPhone 爱好者:让我们不要打架| TechCrunch
+# iPhone 爱好者:让我们不要打架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/iphone-lovers-lets-not-fight/>
 

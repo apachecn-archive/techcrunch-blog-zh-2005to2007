@@ -1,4 +1,4 @@
-# T-Mobile 评分推送邮件，3G–TechCrunch
+# T-Mobile 评分推送邮件，3G
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/t-mobile-scoring-push-mail-3g/>
 

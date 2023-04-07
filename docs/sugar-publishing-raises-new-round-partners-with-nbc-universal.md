@@ -1,4 +1,4 @@
-# 糖业出版掀起新一轮高潮；与 NBC 环球的合作伙伴——TechCrunch
+# 糖业出版掀起新一轮高潮；与 NBC 环球的合作伙伴
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/sugar-publishing-raises-new-round-partners-with-nbc-universal/>
 

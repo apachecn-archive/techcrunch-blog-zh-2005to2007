@@ -1,4 +1,4 @@
-# 在 Geekbrief | TechCrunch 上大声喊出来
+# 在 Geekbrief  上大声喊出来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/02/mattcg-shout-out-on-geekbrief/>
 

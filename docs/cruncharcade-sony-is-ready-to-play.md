@@ -1,4 +1,4 @@
-# 索尼准备好了——TechCrunch
+# 索尼准备好了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/11/cruncharcade-sony-is-ready-to-play/>
 

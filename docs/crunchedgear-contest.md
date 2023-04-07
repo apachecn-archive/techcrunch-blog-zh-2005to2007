@@ -1,4 +1,4 @@
-# CrunchedGear 竞赛——TechCrunch
+# CrunchedGear 竞赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/crunchedgear-contest/>
 

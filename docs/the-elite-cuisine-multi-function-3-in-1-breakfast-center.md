@@ -1,4 +1,4 @@
-# 精英美食多功能三合一早餐中心| TechCrunch
+# 精英美食多功能三合一早餐中心
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/the-elite-cuisine-multi-function-3-in-1-breakfast-center/>
 

@@ -1,4 +1,4 @@
-# DS Lite 在博物馆巡展| TechCrunch
+# DS Lite 在博物馆巡展
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/31/ds-lite-makes-museum-rounds/>
 

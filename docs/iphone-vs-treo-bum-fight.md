@@ -1,4 +1,4 @@
-# iPhone vs. Treo: Bum-fight！–TechCrunch
+# iPhone vs. Treo: Bum-fight！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/iphone-vs-treo-bum-fight/>
 

@@ -1,4 +1,4 @@
-# 百代的首个无数字版权管理版本:好的，坏的和女王| TechCrunch
+# 百代的首个无数字版权管理版本:好的，坏的和女王
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/emis-first-drm-free-release-the-good-the-bad-the-queen/>
 

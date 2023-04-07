@@ -1,4 +1,4 @@
-# Palm 将发布 WiMAX 手机，其股东将免于债务人牢狱之灾？–TechCrunch
+# Palm 将发布 WiMAX 手机，其股东将免于债务人牢狱之灾？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/palm-to-release-wimax-phone-its-shareholders-from-debtors-prison/>
 

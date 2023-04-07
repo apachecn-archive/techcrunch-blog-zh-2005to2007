@@ -1,4 +1,4 @@
-# draq Queens United For YOUniverse Funk Fone–TechCrunch
+# draq Queens United For YOUniverse Funk Fone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/draq-queens-unite-for-the-youniverse-funk-fone/>
 

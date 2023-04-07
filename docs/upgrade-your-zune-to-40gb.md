@@ -1,4 +1,4 @@
-# 将您的 Zune 升级到 40GB | TechCrunch
+# 将您的 Zune 升级到 40GB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/upgrade-your-zune-to-40gb/>
 

@@ -1,4 +1,4 @@
-# Xbox 360 Live Vision，直播| TechCrunch
+# Xbox 360 Live Vision，直播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/xbox-360-live-vision-live/>
 

@@ -1,4 +1,4 @@
-# 每日新闻:家务版| TechCrunch
+# 每日新闻:家务版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/daily-crunch-domestic-duties-edition/>
 

@@ -1,4 +1,4 @@
-# 探索生物圈水族馆| TechCrunch
+# 探索生物圈水族馆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/23/discovery-biosphere-terrarium/>
 

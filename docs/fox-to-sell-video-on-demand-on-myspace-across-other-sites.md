@@ -1,4 +1,4 @@
-# 福克斯将在 MySpace 和其他网站上出售视频点播 TechCrunch
+# 福克斯将在 MySpace 和其他网站上出售视频点播 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/14/fox-to-sell-video-on-demand-on-myspace-across-other-sites/>
 

@@ -1,4 +1,4 @@
-# 我们给奶奶买个手机吧！TechCrunch
+# 我们给奶奶买个手机吧！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/06/lets-buy-a-cell-phone-for-grandma/>
 

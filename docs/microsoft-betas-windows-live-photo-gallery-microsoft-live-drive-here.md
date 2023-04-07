@@ -1,4 +1,4 @@
-# Microsoft beta:Windows Live 照片库；微软 Live Drive Here–TechCrunch
+# Microsoft beta:Windows Live 照片库；微软 Live Drive Here
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/microsoft-betas-windows-live-photo-gallery-microsoft-live-drive-here/>
 

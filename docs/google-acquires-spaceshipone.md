@@ -1,4 +1,4 @@
-# 谷歌收购太空飞船一号？–TechCrunch
+# 谷歌收购太空飞船一号？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/20/google-acquires-spaceshipone/>
 

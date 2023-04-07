@@ -1,4 +1,4 @@
-# iPhone 文件系统被黑| TechCrunch
+# iPhone 文件系统被黑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/iphone-file-system-hacked/>
 

@@ -1,4 +1,4 @@
-# 拼图是一个非常非常糟糕的主意 TechCrunch
+# 拼图是一个非常非常糟糕的主意 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/23/jigsaw-is-a-really-really-bad-idea/>
 

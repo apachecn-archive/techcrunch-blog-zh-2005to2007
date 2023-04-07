@@ -1,4 +1,4 @@
-# 纽约出租车获得电视和位置跟踪| TechCrunch
+# 纽约出租车获得电视和位置跟踪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/18/nyc-cabs-getting-tv-and-location-tracking/>
 

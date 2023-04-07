@@ -1,4 +1,4 @@
-# 智能动词:投资搜索是明智的吗？TechCrunch
+# 智能动词:投资搜索是明智的吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/27/intelliverb-is-it-intelligent-investing-in-search/>
 

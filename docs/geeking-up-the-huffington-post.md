@@ -1,4 +1,4 @@
-# 《赫芬顿邮报》| TechCrunch
+# 《赫芬顿邮报》
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/geeking-up-the-huffington-post/>
 

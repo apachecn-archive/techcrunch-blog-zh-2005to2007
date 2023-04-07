@@ -1,4 +1,4 @@
-# Wii 吃了它:真相终于可以大白了| TechCrunch
+# Wii 吃了它:真相终于可以大白了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/the-wii-eats-it-the-truth-can-finally-be-told/>
 

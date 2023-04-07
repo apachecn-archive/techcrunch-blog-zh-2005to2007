@@ -1,4 +1,4 @@
-# HotSpot@Home 上的 Pogue:很酷——TechCrunch
+# HotSpot@Home 上的 Pogue:很酷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/pogue-on-hotspothome-its-cool/>
 

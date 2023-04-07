@@ -1,4 +1,4 @@
-# 基于 Flash 的小部件构建者们请注意:赢取免费的 Flashforward2007 | TechCrunch 之旅
+# 基于 Flash 的小部件构建者们请注意:赢取免费的 Flashforward2007  之旅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/attention-flash-based-widget-builders-win-a-free-trip-to-flashforward2007/>
 

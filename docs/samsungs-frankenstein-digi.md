@@ -1,4 +1,4 @@
-# 三星的科学怪人 Digi | TechCrunch
+# 三星的科学怪人 Digi 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/08/samsungs-frankenstein-digi/>
 

@@ -1,4 +1,4 @@
-# SXSW 摊牌:躲避球 vs . Twitter TechCrunch
+# SXSW 摊牌:躲避球 vs . Twitter 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/19/sxsw-showdown-dodgeball-vs-twitter/>
 

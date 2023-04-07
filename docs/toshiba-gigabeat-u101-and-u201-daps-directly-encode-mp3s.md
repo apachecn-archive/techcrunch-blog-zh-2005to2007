@@ -1,4 +1,4 @@
-# 东芝 Gigabeat U101 和 U201 DAPs 直接编码 MP3–TechCrunch
+# 东芝 Gigabeat U101 和 U201 DAPs 直接编码 MP3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/19/toshiba-gigabeat-u101-and-u201-daps-directly-encode-mp3s/>
 

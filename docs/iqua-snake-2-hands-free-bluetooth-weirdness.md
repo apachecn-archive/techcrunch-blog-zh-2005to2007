@@ -1,4 +1,4 @@
-# 伊卡蛇 2:免提蓝牙怪异| TechCrunch
+# 伊卡蛇 2:免提蓝牙怪异
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/iqua-snake-2-hands-free-bluetooth-weirdness/>
 

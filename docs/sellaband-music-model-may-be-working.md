@@ -1,4 +1,4 @@
-# SellABand 音乐模式获得关注——TechCrunch
+# SellABand 音乐模式获得关注
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/29/sellaband-music-model-may-be-working/>
 

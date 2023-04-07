@@ -1,4 +1,4 @@
-# 微软免费提供作品——TechCrunch
+# 微软免费提供作品
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/microsoft-offers-works-for-free/>
 

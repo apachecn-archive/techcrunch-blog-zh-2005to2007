@@ -1,4 +1,4 @@
-# 另一个 Ajax 文字处理器 TechCrunch
+# 另一个 Ajax 文字处理器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/02/zoho-writers-ajax-word-processor/>
 

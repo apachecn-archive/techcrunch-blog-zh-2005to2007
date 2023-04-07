@@ -1,4 +1,4 @@
-# 为什么我不喜欢即兴重复| TechCrunch
+# 为什么我不喜欢即兴重复
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/20/why-i-dont-like-riffs/>
 

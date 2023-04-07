@@ -1,4 +1,4 @@
-# FeedBlitz 获得天使轮融资——TechCrunch
+# FeedBlitz 获得天使轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/30/feedblitz-raises-angel-round/>
 

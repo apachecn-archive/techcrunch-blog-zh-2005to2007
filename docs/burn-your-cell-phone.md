@@ -1,4 +1,4 @@
-# 烧掉你的手机——TechCrunch
+# 烧掉你的手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/01/burn-your-cell-phone/>
 

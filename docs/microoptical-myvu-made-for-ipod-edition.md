@@ -1,4 +1,4 @@
-# MicroOptical myvu 专为 iPod edition 打造| TechCrunch
+# MicroOptical myvu 专为 iPod edition 打造
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/18/microoptical-myvu-made-for-ipod-edition/>
 

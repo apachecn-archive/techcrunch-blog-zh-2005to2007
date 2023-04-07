@@ -1,4 +1,4 @@
-# 用户对触摸屏界面敏感| TechCrunch
+# 用户对触摸屏界面敏感
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/users-touchy-about-touchscreen-interface/>
 

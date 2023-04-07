@@ -1,4 +1,4 @@
-# Web 2.0:海报——TechCrunch
+# Web 2.0:海报
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/03/web-20-the-poster/>
 

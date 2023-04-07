@@ -1,4 +1,4 @@
-# Pandora 发布分享功能——TechCrunch
+# Pandora 发布分享功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/01/pandora-releases-sharing-features/>
 

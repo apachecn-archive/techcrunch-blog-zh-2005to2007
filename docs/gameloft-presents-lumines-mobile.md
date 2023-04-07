@@ -1,4 +1,4 @@
-# 智乐推出 Lumines Mobile | TechCrunch
+# 智乐推出 Lumines Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/15/gameloft-presents-lumines-mobile/>
 

@@ -1,4 +1,4 @@
-# 索尼爱立信手机的新型调频发射机| TechCrunch
+# 索尼爱立信手机的新型调频发射机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/30/new-fm-transmitter-for-sony-ericsson-phones/>
 

@@ -1,4 +1,4 @@
-# Hear It N ' Get It 开发者获得资助| TechCrunch
+# Hear It N ' Get It 开发者获得资助
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/hear-it-n-get-it-developer-gets-funding/>
 

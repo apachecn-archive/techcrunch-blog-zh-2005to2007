@@ -1,4 +1,4 @@
-# 安桥推出新的 1080p 接收器| TechCrunch
+# 安桥推出新的 1080p 接收器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/onkyo-launches-new-1080p-receivers/>
 

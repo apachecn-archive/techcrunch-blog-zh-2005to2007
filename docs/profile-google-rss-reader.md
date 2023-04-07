@@ -1,4 +1,4 @@
-# 简介-谷歌 RSS 阅读器| TechCrunch
+# 简介-谷歌 RSS 阅读器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/26/profile-google-rss-reader/>
 

@@ -1,4 +1,4 @@
-# TrekStor movie station maxi t . u–TechCrunch
+# TrekStor movie station maxi t . u
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/trekstor-moviestation-maxi-tu/>
 

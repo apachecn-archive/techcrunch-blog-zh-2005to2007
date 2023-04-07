@@ -1,4 +1,4 @@
-# 《纽约客》又数字化了——TechCrunch
+# 《纽约客》又数字化了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/the-new-yorker-goes-digital-again/>
 

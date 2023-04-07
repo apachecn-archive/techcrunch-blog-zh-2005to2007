@@ -1,4 +1,4 @@
-# ACESS 宣布 ALP 推迟到 2007 年——TechCrunch
+# ACESS 宣布 ALP 推迟到 2007 年
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/acess-announces-alp-delayed-till-07/>
 

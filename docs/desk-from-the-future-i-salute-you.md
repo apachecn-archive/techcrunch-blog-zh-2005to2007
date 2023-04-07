@@ -1,4 +1,4 @@
-# 来自未来的书桌，我向你致敬！TechCrunch
+# 来自未来的书桌，我向你致敬！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/19/desk-from-the-future-i-salute-you/>
 

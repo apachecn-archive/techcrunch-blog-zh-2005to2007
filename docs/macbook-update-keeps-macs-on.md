@@ -1,4 +1,4 @@
-# MacBook 更新让 MAC 电脑保持运行——TechCrunch
+# MacBook 更新让 MAC 电脑保持运行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/macbook-update-keeps-macs-on/>
 

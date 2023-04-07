@@ -1,4 +1,4 @@
-# 索尼的 Grouper 选择与 Searchles 战斗 TechCrunch
+# 索尼的 Grouper 选择与 Searchles 战斗 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/15/sonys-grouper-picks-fight-with-searchles/>
 

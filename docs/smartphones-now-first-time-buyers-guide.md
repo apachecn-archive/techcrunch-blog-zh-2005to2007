@@ -1,4 +1,4 @@
-# 智能手机现状:首次购买指南——TechCrunch
+# 智能手机现状:首次购买指南
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/03/smartphones-now-first-time-buyers-guide/>
 

@@ -1,4 +1,4 @@
-# Web 2.0 本周(10 月 2 日至 8 日)——TechCrunch
+# Web 2.0 本周(10 月 2 日至 8 日)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/10/web-20-this-week-october-2-8/>
 

@@ -1,4 +1,4 @@
-# Sharpcast 向公众开放——TechCrunch
+# Sharpcast 向公众开放
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/30/sharpcast-opens-to-the-public/>
 

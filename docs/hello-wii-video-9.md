@@ -1,4 +1,4 @@
-# 你好 Wii 视频 9 | TechCrunch
+# 你好 Wii 视频 9 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/hello-wii-video-9/>
 

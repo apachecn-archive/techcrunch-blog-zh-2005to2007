@@ -1,4 +1,4 @@
-# LG Shine 新机型获得 T-DMB | TechCrunch
+# LG Shine 新机型获得 T-DMB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/21/lg-shine-gets-t-dmb/>
 

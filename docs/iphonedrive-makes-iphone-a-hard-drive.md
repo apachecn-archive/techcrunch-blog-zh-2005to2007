@@ -1,4 +1,4 @@
-# iPhoneDrive 让 iPhone 成为硬盘——TechCrunch
+# iPhoneDrive 让 iPhone 成为硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/iphonedrive-makes-iphone-a-hard-drive/>
 

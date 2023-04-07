@@ -1,4 +1,4 @@
-# WordPress 移动插件更新——TechCrunch
+# WordPress 移动插件更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/25/wordpress-mobile-plugin-updated/>
 

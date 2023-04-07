@@ -1,4 +1,4 @@
-# MyBlogLog 禁止 Blogger 反弹开始——TechCrunch
+# MyBlogLog 禁止 Blogger 反弹开始
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/23/mybloglog-bans-blogger-backlash-begins/>
 

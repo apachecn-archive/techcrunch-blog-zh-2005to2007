@@ -1,4 +1,4 @@
-# 互联网地址簿身份搜索引擎。TechCrunch
+# 互联网地址簿身份搜索引擎。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/05/the-internet-address-book-the-identity-search-engine/>
 

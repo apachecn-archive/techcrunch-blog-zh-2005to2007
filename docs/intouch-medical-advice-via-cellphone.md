@@ -1,4 +1,4 @@
-# InTouch:通过手机提供医疗建议| TechCrunch
+# InTouch:通过手机提供医疗建议
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/intouch-medical-advice-via-cellphone/>
 

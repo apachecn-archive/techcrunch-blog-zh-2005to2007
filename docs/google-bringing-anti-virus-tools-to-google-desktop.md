@@ -1,4 +1,4 @@
-# 谷歌给谷歌桌面带来反病毒工具？TechCrunch
+# 谷歌给谷歌桌面带来反病毒工具？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/29/google-bringing-anti-virus-tools-to-google-desktop/>
 

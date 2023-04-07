@@ -1,4 +1,4 @@
-# T-Mobile Wing 发布| TechCrunch
+# T-Mobile Wing 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/t-mobile-wing-released/>
 

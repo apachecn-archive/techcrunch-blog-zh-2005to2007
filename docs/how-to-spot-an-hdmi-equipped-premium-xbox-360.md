@@ -1,4 +1,4 @@
-# 如何识别配备 HDMI 的高端 Xbox 360 | TechCrunch
+# 如何识别配备 HDMI 的高端 Xbox 360 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/how-to-spot-an-hdmi-equipped-premium-xbox-360/>
 

@@ -1,4 +1,4 @@
-# 东芝发布 HD DVD 硬盘| TechCrunch
+# 东芝发布 HD DVD 硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/toshiba-releases-hd-dvd-drive/>
 

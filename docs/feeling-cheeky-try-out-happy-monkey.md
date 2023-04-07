@@ -1,4 +1,4 @@
-# 感觉厚脸皮？试试快乐的猴子！TechCrunch
+# 感觉厚脸皮？试试快乐的猴子！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/feeling-cheeky-try-out-happy-monkey/>
 

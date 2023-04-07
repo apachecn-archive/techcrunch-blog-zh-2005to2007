@@ -1,4 +1,4 @@
-# Altec Lansing USB 5.1 扬声器–TechCrunch
+# Altec Lansing USB 5.1 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/altec-lansing-usb-51-speakers/>
 

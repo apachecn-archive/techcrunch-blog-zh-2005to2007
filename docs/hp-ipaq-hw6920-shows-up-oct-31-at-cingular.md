@@ -1,4 +1,4 @@
-# 惠普 iPAQ hw6920 于 10 月 31 日在 Cingular–TechCrunch 上亮相
+# 惠普 iPAQ hw6920 于 10 月 31 日在 Cingular 上亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/hp-ipaq-hw6920-shows-up-oct-31-at-cingular/>
 

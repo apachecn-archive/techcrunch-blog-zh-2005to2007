@@ -1,4 +1,4 @@
-# 三星 MM-X5:iPod 基座| TechCrunch
+# 三星 MM-X5:iPod 基座
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/12/samsung-mm-x5-an-ipod-dock/>
 

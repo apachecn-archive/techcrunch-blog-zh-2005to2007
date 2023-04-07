@@ -1,4 +1,4 @@
-# 三星 Q1P UMPC 获得 Vista 认证–TechCrunch
+# 三星 Q1P UMPC 获得 Vista 认证
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/samsung-q1p-umpc-gets-vista-certification/>
 

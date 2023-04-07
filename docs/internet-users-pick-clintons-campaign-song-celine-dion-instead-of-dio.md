@@ -1,4 +1,4 @@
-# 互联网用户选择了克林顿的竞选歌曲:席琳·迪翁而不是 Dio-TechCrunch
+# 互联网用户选择了克林顿的竞选歌曲:席琳·迪翁而不是 Dio-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/19/internet-users-pick-clintons-campaign-song-celine-dion-instead-of-dio/>
 

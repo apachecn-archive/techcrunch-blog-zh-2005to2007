@@ -1,4 +1,4 @@
-# Cingular 诺基亚 N75 重要的音乐手机在野外| TechCrunch
+# Cingular 诺基亚 N75 重要的音乐手机在野外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/cingular-nokia-n75-self-important-musicphone-in-the-wild/>
 

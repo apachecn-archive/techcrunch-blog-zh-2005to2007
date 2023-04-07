@@ -1,4 +1,4 @@
-# 惠普的康柏平板电脑阵容增加了一个，2710p:将于 7 月上市| TechCrunch
+# 惠普的康柏平板电脑阵容增加了一个，2710p:将于 7 月上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/hps-compaq-tablet-lineup-grows-by-one-the-2710p-it-comes-out-in-july/>
 

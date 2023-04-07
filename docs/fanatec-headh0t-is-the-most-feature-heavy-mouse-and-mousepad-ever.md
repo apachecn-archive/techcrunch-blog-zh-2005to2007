@@ -1,4 +1,4 @@
-# fanatec hed $ h0t 是有史以来功能最强大的鼠标和鼠标垫——TechCrunch
+# fanatec hed $ h0t 是有史以来功能最强大的鼠标和鼠标垫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/fanatec-headh0t-is-the-most-feature-heavy-mouse-and-mousepad-ever/>
 

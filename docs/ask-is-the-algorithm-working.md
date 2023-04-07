@@ -1,4 +1,4 @@
-# 提问:算法有效吗？TechCrunch
+# 提问:算法有效吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/05/04/ask-is-the-algorithm-working/>
 

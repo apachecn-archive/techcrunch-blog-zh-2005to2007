@@ -1,4 +1,4 @@
-# 删除擦除，低技术—酷毙了 TechCrunch
+# 删除擦除，低技术—酷毙了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/delete-erase-low-techway-cool/>
 

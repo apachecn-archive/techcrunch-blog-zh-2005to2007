@@ -1,4 +1,4 @@
-# 真实寝具病毒视频| TechCrunch
+# 真实寝具病毒视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/reality-bedding-viral-video/>
 

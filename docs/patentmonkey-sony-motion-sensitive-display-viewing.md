@@ -1,4 +1,4 @@
-# PatentMonkey:索尼运动感应显示观看| TechCrunch
+# PatentMonkey:索尼运动感应显示观看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/06/patentmonkey-sony-motion-sensitive-display-viewing/>
 

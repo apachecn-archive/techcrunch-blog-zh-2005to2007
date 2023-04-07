@@ -1,4 +1,4 @@
-# 重温:自动映射您的手机照片–TechCrunch
+# 重温:自动映射您的手机照片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/06/relive-automatically-map-your-mobile-photos/>
 

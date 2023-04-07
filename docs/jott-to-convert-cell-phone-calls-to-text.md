@@ -1,4 +1,4 @@
-# Jott 将手机通话转换成短信——TechCrunch
+# Jott 将手机通话转换成短信
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/10/jott-to-convert-cell-phone-calls-to-text/>
 

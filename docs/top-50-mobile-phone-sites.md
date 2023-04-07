@@ -1,4 +1,4 @@
-# 50 大手机网站| TechCrunch
+# 50 大手机网站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/17/top-50-mobile-phone-sites/>
 

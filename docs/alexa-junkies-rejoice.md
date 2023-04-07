@@ -1,4 +1,4 @@
-# Alexa 爱好者欢欣鼓舞——TechCrunch
+# Alexa 爱好者欢欣鼓舞
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/11/alexa-junkies-rejoice/>
 

@@ -1,4 +1,4 @@
-# 使用 Lapworks 的奇迹笔记本电脑桌——TechCrunch，免除笔记本电脑过热的担忧
+# 使用 Lapworks 的奇迹笔记本电脑桌，免除笔记本电脑过热的担忧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/be-free-of-over-heated-laptop-concerns-with-lapworks-miracle-laptop-desk/>
 

@@ -1,4 +1,4 @@
-# lunch time . com:SUP Fo0d in SF OMG MBLE–TechCrunch
+# lunch time . com:SUP Fo0d in SF OMG MBLE
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/lunchrtimecom-sup-fo0d-in-sf-omg-mble/>
 

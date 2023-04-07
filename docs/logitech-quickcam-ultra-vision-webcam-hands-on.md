@@ -1,4 +1,4 @@
-# 罗技 QuickCam Ultra Vision 网络摄像头动手操作| TechCrunch
+# 罗技 QuickCam Ultra Vision 网络摄像头动手操作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/logitech-quickcam-ultra-vision-webcam-hands-on/>
 

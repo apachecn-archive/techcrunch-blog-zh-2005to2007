@@ -1,4 +1,4 @@
-# 谷歌诉雅虎:谁最关心环境？TechCrunch
+# 谷歌诉雅虎:谁最关心环境？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/14/who-cares-the-most-about-the-environment/>
 

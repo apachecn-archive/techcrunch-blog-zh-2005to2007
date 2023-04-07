@@ -1,4 +1,4 @@
-# 伦敦在欧洲创业联盟中名列前茅。TechCrunch
+# 伦敦在欧洲创业联盟中名列前茅。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/london-the-tops-the-start-up-league/>
 

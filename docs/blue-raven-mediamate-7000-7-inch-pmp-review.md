@@ -1,4 +1,4 @@
-# Blue Raven MediaMate 7000 (7 英寸 PMP)评测| TechCrunch
+# Blue Raven MediaMate 7000 (7 英寸 PMP)评测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/blue-raven-mediamate-7000-7-inch-pmp-review/>
 

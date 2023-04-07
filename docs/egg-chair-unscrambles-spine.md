@@ -1,4 +1,4 @@
-# 蛋椅解读脊柱| TechCrunch
+# 蛋椅解读脊柱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/24/egg-chair-unscrambles-spine/>
 

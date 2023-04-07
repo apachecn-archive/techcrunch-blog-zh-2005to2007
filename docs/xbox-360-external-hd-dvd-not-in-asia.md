@@ -1,4 +1,4 @@
-# Xbox 360 外置 HD DVD？不在亚洲。TechCrunch
+# Xbox 360 外置 HD DVD？不在亚洲。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/29/xbox-360-external-hd-dvd-not-in-asia/>
 

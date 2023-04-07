@@ -1,4 +1,4 @@
-# CrunchRace 2000 更新| TechCrunch
+# CrunchRace 2000 更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/crunchrace-2000-update/>
 

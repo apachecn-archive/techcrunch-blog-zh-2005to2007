@@ -1,4 +1,4 @@
-# Amp 'd 关闭？TechCrunch
+# Amp 'd 关闭？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/amp%e2%80%99d-shutting-down/>
 

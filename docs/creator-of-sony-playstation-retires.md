@@ -1,4 +1,4 @@
-# 索尼 PlayStation 的创造者退休——TechCrunch
+# 索尼 PlayStation 的创造者退休
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/creator-of-sony-playstation-retires/>
 

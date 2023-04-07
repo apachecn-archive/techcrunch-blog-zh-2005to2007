@@ -1,4 +1,4 @@
-# 放大完成。Helio 浪涌| TechCrunch
+# 放大完成。Helio 浪涌
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/23/ampd-done-helio-surges/>
 

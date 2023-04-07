@@ -1,4 +1,4 @@
-# 找到邻居的默认无线路由器密码——TechCrunch
+# 找到邻居的默认无线路由器密码
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/15/find-your-neighbors-default-wireless-router-password/>
 

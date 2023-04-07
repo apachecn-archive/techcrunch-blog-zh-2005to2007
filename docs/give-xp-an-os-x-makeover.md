@@ -1,4 +1,4 @@
-# 给 XP 一个 OS X 式的改造 TechCrunch
+# 给 XP 一个 OS X 式的改造 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/give-xp-an-os-x-makeover/>
 

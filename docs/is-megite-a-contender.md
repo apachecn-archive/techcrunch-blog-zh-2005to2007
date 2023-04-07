@@ -1,4 +1,4 @@
-# 梅吉特是一个竞争者吗？–TechCrunch
+# 梅吉特是一个竞争者吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/03/is-megite-a-contender/>
 

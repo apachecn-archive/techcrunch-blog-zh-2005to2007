@@ -1,4 +1,4 @@
-# 不要拍 Webbys | TechCrunch
+# 不要拍 Webbys 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/dont-shoot-the-webbys/>
 

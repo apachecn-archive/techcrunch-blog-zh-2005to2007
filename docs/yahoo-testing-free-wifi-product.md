@@ -1,4 +1,4 @@
-# 雅虎测试免费 Wifi 产品 TechCrunch
+# 雅虎测试免费 Wifi 产品 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/18/yahoo-testing-free-wifi-product>
 

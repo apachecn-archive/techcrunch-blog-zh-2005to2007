@@ -1,4 +1,4 @@
-# Time.com 增加了“Sphere It”链接——TechCrunch
+# Time.com 增加了“Sphere It”链接
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/22/timecom-adds-sphere-it-links/>
 

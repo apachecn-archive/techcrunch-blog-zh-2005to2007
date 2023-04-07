@@ -1,4 +1,4 @@
-# 灵魂 Calibur 四预告发布:它会很好。保证。TechCrunch
+# 灵魂 Calibur 四预告发布:它会很好。保证。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/15/soul-calibur-iv-teaser-trailer-released-it-will-be-good-promise/>
 

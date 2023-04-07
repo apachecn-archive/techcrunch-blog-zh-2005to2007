@@ -1,4 +1,4 @@
-# 元数据盒子| TechCrunch
+# 元数据盒子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/the-metadata-box/>
 

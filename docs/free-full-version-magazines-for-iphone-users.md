@@ -1,4 +1,4 @@
-# 面向 iPhone 用户的免费完整版杂志——TechCrunch
+# 面向 iPhone 用户的免费完整版杂志
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/02/free-full-version-magazines-for-iphone-users/>
 

@@ -1,4 +1,4 @@
-# 索尼爱立信 W880i 找到了一个摇摆的地方:UI 漫游视频| TechCrunch
+# 索尼爱立信 W880i 找到了一个摇摆的地方:UI 漫游视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/sony-ericsson-w880i-finds-a-place-to-boogie-ui-walthrough-video/>
 

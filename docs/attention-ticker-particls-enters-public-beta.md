@@ -1,4 +1,4 @@
-# 关注 Ticker Particls 进入公开测试版 TechCrunch
+# 关注 Ticker Particls 进入公开测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/28/attention-ticker-particls-enters-public-beta/>
 

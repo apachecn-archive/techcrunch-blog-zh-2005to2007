@@ -1,4 +1,4 @@
-# 直到 2009 年才有 SP1 的远景？TechCrunch
+# 直到 2009 年才有 SP1 的远景？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/no-vista-sp1-until-2009/>
 

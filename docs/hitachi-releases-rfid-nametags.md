@@ -1,4 +1,4 @@
-# 日立发布 RFID 名片| TechCrunch
+# 日立发布 RFID 名片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/hitachi-releases-rfid-nametags/>
 

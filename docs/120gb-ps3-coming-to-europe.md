@@ -1,4 +1,4 @@
-# 120GB PS3 登陆欧洲| TechCrunch
+# 120GB PS3 登陆欧洲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/120gb-ps3-coming-to-europe/>
 

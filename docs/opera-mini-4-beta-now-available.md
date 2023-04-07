@@ -1,4 +1,4 @@
-# Opera Mini 4 测试版现已推出——TechCrunch
+# Opera Mini 4 测试版现已推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/opera-mini-4-beta-now-available/>
 

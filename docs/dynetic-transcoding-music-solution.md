@@ -1,4 +1,4 @@
-# Dynetic 转码音乐解决方案| TechCrunch
+# Dynetic 转码音乐解决方案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/dynetic-transcoding-music-solution/>
 

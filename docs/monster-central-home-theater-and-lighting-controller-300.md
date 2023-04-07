@@ -1,4 +1,4 @@
-# 怪兽中央家庭影院和灯光控制器 300 | TechCrunch
+# 怪兽中央家庭影院和灯光控制器 300 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/monster-central-home-theater-and-lighting-controller-300/>
 

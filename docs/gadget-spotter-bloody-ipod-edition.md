@@ -1,4 +1,4 @@
-# 小工具观察者:血腥的 iPod 版——TechCrunch
+# 小工具观察者:血腥的 iPod 版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/25/gadget-spotter-bloody-ipod-edition/>
 

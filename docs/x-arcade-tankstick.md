@@ -1,4 +1,4 @@
-# x-Arcade tank stick–TechCrunch
+# x-Arcade tank stick
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/x-arcade-tankstick/>
 

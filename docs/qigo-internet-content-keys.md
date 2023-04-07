@@ -1,4 +1,4 @@
-# QiGO 互联网内容密钥| TechCrunch
+# QiGO 互联网内容密钥
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/qigo-internet-content-keys/>
 

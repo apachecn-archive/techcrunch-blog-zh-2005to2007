@@ -1,4 +1,4 @@
-# 热爱音乐？love last . FM–TechCrunch
+# 热爱音乐？love last . FM
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/29/love-music-love-lastfm/>
 

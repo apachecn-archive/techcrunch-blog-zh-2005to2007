@@ -1,4 +1,4 @@
-# 寻求 400 美元的游戏| TechCrunch
+# 寻求 400 美元的游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/the-quest-for-the-400-game/>
 

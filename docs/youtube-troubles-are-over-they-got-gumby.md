@@ -1,4 +1,4 @@
-# YouTube 的麻烦结束了:他们得到了 gum by TechCrunch
+# YouTube 的麻烦结束了:他们得到了 gum by 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/16/youtube-troubles-are-over-they-got-gumby/>
 

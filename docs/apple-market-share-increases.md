@@ -1,4 +1,4 @@
-# 苹果市场份额增加| TechCrunch
+# 苹果市场份额增加
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/11/apple-market-share-increases/>
 

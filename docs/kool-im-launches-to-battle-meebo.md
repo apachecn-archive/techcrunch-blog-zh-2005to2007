@@ -1,4 +1,4 @@
-# Kool IM 发布挑战 Meebo——TechCrunch
+# Kool IM 发布挑战 Meebo
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/10/kool-im-launches-to-battle-meebo/>
 

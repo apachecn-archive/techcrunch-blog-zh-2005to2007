@@ -1,4 +1,4 @@
-# 你的网络摄像头需要 Linux 支持吗？TechCrunch
+# 你的网络摄像头需要 Linux 支持吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/01/need-linux-support-for-your-webcam/>
 

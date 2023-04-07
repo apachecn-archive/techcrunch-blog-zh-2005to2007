@@ -1,4 +1,4 @@
-# 三星超级电视| TechCrunch
+# 三星超级电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/samsung-super-tvs/>
 

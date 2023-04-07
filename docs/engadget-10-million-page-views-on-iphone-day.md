@@ -1,4 +1,4 @@
-# engadget:iPhone 日浏览量达到 1000 万——TechCrunch
+# engadget:iPhone 日浏览量达到 1000 万
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/12/engadget-10-million-page-views-on-iphone-day/>
 

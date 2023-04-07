@@ -1,4 +1,4 @@
-# RealNetworks 将推出 Firefox-TechCrunch
+# RealNetworks 将推出 Firefox-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/02/realnetworks-to-deliver-firefox/>
 

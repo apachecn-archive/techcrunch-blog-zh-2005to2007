@@ -1,4 +1,4 @@
-# D-Link 3G 移动无线路由器–TechCrunch
+# D-Link 3G 移动无线路由器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/d-link-3g-mobile-wireless-router/>
 

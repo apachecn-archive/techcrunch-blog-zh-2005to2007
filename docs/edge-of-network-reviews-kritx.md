@@ -1,4 +1,4 @@
-# 网络评论的边缘–KritX–TechCrunch
+# 网络评论的边缘–KritX
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/18/edge-of-network-reviews-kritx/>
 

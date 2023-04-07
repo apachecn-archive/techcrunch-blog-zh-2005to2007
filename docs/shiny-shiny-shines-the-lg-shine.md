@@ -1,4 +1,4 @@
-# 闪亮闪亮 LG 闪耀| TechCrunch
+# 闪亮闪亮 LG 闪耀
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/shiny-shiny-shines-the-lg-shine/>
 

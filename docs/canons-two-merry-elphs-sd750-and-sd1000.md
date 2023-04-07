@@ -1,4 +1,4 @@
-# 佳能的两个快乐 elph:SD 750 和 SD1000 | TechCrunch
+# 佳能的两个快乐 elph:SD 750 和 SD1000 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/canons-two-merry-elphs-sd750-and-sd1000/>
 

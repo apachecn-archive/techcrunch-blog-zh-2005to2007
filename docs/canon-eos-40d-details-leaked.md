@@ -1,4 +1,4 @@
-# 佳能 EOS 40D 细节泄露| TechCrunch
+# 佳能 EOS 40D 细节泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/canon-eos-40d-details-leaked/>
 

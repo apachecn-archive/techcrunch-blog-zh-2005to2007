@@ -1,4 +1,4 @@
-# TiVo 系列 3 Cometh | TechCrunch
+# TiVo 系列 3 Cometh 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/tivo-series-3-cometh/>
 

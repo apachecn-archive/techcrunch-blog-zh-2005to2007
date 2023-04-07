@@ -1,4 +1,4 @@
-# 感恩节连线| TechCrunch
+# 感恩节连线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/wired-for-thanksgiving/>
 

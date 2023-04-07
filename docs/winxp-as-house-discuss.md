@@ -1,4 +1,4 @@
-# WinXP As House:讨论| TechCrunch
+# WinXP As House:讨论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/winxp-as-house-discuss/>
 

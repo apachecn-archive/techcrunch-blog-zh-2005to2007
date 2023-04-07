@@ -1,4 +1,4 @@
-# 诺基亚手机更新发布:带来了砖块！TechCrunch
+# 诺基亚手机更新发布:带来了砖块！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/nokia-phone-updater-released-bring-on-the-bricks/>
 

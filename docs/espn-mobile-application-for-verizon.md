@@ -1,4 +1,4 @@
-# 威瑞森的 ESPN 移动应用程序| TechCrunch
+# 威瑞森的 ESPN 移动应用程序
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/espn-mobile-application-for-verizon/>
 

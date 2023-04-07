@@ -1,4 +1,4 @@
-# 以编程方式获取 iTunes 专辑封面| TechCrunch
+# 以编程方式获取 iTunes 专辑封面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/programmatically-fetch-itunes-album-art/>
 

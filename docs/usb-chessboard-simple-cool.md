@@ -1,4 +1,4 @@
-# USB 棋盘:简单=酷–TechCrunch
+# USB 棋盘:简单=酷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/11/usb-chessboard-simple-cool/>
 

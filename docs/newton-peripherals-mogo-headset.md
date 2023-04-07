@@ -1,4 +1,4 @@
-# 牛顿外设 MoGo 耳机| TechCrunch
+# 牛顿外设 MoGo 耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/newton-peripherals-mogo-headset/>
 

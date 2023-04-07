@@ -1,4 +1,4 @@
-# YouTube 上的 Beeb:BBC+YouTube | TechCrunch
+# YouTube 上的 Beeb:BBC+YouTube 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/the-beeb-on-the-yout-bbc-youtube/>
 

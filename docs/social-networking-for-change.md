@@ -1,4 +1,4 @@
-# 改变的社交网络。org) | TechCrunch
+# 改变的社交网络。org) 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/social-networking-for-change/>
 

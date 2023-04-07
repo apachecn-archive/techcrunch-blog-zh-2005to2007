@@ -1,4 +1,4 @@
-# 哈珀柯林斯提供 iPhone 书籍——TechCrunch
+# 哈珀柯林斯提供 iPhone 书籍
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/harpercollins-offering-iphone-books/>
 

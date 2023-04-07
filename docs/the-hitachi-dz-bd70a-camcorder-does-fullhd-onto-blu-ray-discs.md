@@ -1,4 +1,4 @@
-# 日立 DZ-BD70A 便携式摄像机可全高清播放蓝光光盘| TechCrunch
+# 日立 DZ-BD70A 便携式摄像机可全高清播放蓝光光盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/the-hitachi-dz-bd70a-camcorder-does-fullhd-onto-blu-ray-discs/>
 

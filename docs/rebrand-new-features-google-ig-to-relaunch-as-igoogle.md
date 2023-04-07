@@ -1,4 +1,4 @@
-# 更名和新功能:Google IG 将更名为 iGoogle | TechCrunch
+# 更名和新功能:Google IG 将更名为 iGoogle 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/30/rebrand-new-features-google-ig-to-relaunch-as-igoogle/>
 

@@ -1,4 +1,4 @@
-# 个人资料–消费–TechCrunch
+# 个人资料–消费
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/13/profile-consumating/>
 

@@ -1,4 +1,4 @@
-# 风险资本家的清算日？–TechCrunch
+# 风险资本家的清算日？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/14/reckoning-day-for-venture-capitalists/>
 

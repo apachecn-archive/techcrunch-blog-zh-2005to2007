@@ -1,4 +1,4 @@
-# 远程控制邮件是个好主意 TechCrunch
+# 远程控制邮件是个好主意 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/24/remot-control-mail-is-a-great-idea/>
 

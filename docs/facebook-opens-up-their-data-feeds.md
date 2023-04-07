@@ -1,4 +1,4 @@
-# 脸书开放他们的数据来源 TechCrunch
+# 脸书开放他们的数据来源 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/14/facebook-opens-up-their-data-feeds/>
 

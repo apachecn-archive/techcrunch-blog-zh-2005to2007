@@ -1,4 +1,4 @@
-# Imeem 是一家艰难的初创公司。但可能不够强硬。TechCrunch
+# Imeem 是一家艰难的初创公司。但可能不够强硬。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/16/imeem-is-one-tough-startup-but-maybe-not-tough-enough/>
 

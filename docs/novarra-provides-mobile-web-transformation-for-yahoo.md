@@ -1,4 +1,4 @@
-# Novarra 为雅虎提供移动网络转型！TechCrunch
+# Novarra 为雅虎提供移动网络转型！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/novarra-provides-mobile-web-transformation-for-yahoo/>
 

@@ -1,4 +1,4 @@
-# 为什么翻盖遥控器会引领新时代？–TechCrunch
+# 为什么翻盖遥控器会引领新时代？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/12/clamshell-remote-ushers-new-era-of-why/>
 

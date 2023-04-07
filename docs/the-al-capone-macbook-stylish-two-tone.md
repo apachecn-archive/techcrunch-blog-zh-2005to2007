@@ -1,4 +1,4 @@
-# 艾尔·卡朋 MacBook:时尚双色| TechCrunch
+# 艾尔·卡朋 MacBook:时尚双色
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/the-al-capone-macbook-stylish-two-tone/>
 

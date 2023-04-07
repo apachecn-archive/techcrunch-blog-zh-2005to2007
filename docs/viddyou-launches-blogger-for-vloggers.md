@@ -1,4 +1,4 @@
-# ViddYou 推出博客博客——TechCrunch
+# ViddYou 推出博客博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/02/viddyou-launches-blogger-for-vloggers/>
 

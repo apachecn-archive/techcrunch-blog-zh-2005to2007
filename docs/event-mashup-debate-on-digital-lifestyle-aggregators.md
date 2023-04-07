@@ -1,4 +1,4 @@
-# 事件:关于数字生活方式聚合器的混搭辩论——TechCrunch
+# 事件:关于数字生活方式聚合器的混搭辩论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/20/event-mashup-debate-on-digital-lifestyle-aggregators/>
 

@@ -1,4 +1,4 @@
-# LG VX9900 enV 来到威瑞森| TechCrunch
+# LG VX9900 enV 来到威瑞森
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/lg-vx9900-env-coming-to-verizon/>
 

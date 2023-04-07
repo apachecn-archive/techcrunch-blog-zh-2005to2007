@@ -1,4 +1,4 @@
-# “更多祖恩·哈廷”:谁选了布朗？没有人！TechCrunch
+# “更多祖恩·哈廷”:谁选了布朗？没有人！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/more-zune-hatin-who-picks-brown-no-one/>
 

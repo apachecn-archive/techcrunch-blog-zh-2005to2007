@@ -1,4 +1,4 @@
-# Gizmoz 将在 MTV 音乐颁奖典礼上获得主流关注 TechCrunch
+# Gizmoz 将在 MTV 音乐颁奖典礼上获得主流关注 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/07/gizmoz-to-get-mainstream-attention-at-mtv-music-awards/>
 

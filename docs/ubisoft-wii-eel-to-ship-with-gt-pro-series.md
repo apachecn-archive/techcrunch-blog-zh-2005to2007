@@ -1,4 +1,4 @@
-# Ubisoft Wii-eel 将随 GT Pro 系列一起发货| TechCrunch
+# Ubisoft Wii-eel 将随 GT Pro 系列一起发货
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/ubisoft-wii-eel-to-ship-with-gt-pro-series/>
 

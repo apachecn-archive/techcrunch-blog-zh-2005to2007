@@ -1,4 +1,4 @@
-# 实践凯迪拉克 CTS 信息娱乐系统——TechCrunch
+# 实践凯迪拉克 CTS 信息娱乐系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/hands-on-with-the-cadillac-cts-infotainment-system/>
 

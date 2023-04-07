@@ -1,4 +1,4 @@
-# 三星 D900 又名黑炭动手| TechCrunch
+# 三星 D900 又名黑炭动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/samsung-d900-aka-black-carbon-hands-on/>
 

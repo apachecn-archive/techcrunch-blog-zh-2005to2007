@@ -1,4 +1,4 @@
-# 艾默生、IXT 推出经济实惠的卡拉 ok 附加服务| TechCrunch
+# 艾默生、IXT 推出经济实惠的卡拉 ok 附加服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/emerson-ixt-launches-affordable-karaoke-add-ons/>
 

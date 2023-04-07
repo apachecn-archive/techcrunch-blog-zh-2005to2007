@@ -1,4 +1,4 @@
-# Wii 重量为超重 Lummox-TechCrunch
+# Wii 重量为超重 Lummox-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/wii-weights-for-the-overweight-lummox/>
 

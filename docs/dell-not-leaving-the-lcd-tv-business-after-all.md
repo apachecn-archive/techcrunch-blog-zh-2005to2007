@@ -1,4 +1,4 @@
-# 戴尔终究不会退出液晶电视业务——TechCrunch
+# 戴尔终究不会退出液晶电视业务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/dell-not-leaving-the-lcd-tv-business-after-all/>
 

@@ -1,4 +1,4 @@
-# CG/CTIA:还剩 6 小时| TechCrunch
+# CG/CTIA:还剩 6 小时
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/cgctia-smack-down-6-hours-left/>
 

@@ -1,4 +1,4 @@
-# Moo 有贴纸——TechCrunch
+# Moo 有贴纸
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/13/moos-got-stickers/>
 

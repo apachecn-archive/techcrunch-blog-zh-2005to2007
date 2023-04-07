@@ -1,4 +1,4 @@
-# ipicit 糟糕的登陆页面| TechCrunch
+# ipicit 糟糕的登陆页面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/22/ipicits-terrible-landing-page/>
 

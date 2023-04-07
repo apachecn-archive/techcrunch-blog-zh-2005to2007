@@ -1,4 +1,4 @@
-# 1-800-Free-411:免费电话号码| TechCrunch
+# 1-800-Free-411:免费电话号码
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/03/1-800-free-411-free-directory-calls>
 

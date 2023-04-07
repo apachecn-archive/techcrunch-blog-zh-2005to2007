@@ -1,4 +1,4 @@
-# 索尼明年春天发布两款新 PSP？–TechCrunch
+# 索尼明年春天发布两款新 PSP？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/sony-releasing-two-new-psps-next-spring/>
 

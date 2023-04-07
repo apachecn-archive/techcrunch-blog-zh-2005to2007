@@ -1,4 +1,4 @@
-# 波士顿铁路获得蜂窝接入| TechCrunch
+# 波士顿铁路获得蜂窝接入
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/03/boston-rails-getting-cellular-access/>
 

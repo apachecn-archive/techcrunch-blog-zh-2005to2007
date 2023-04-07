@@ -1,4 +1,4 @@
-# 幻灯片 2 解锁:幻灯片解锁任何掌上电脑 TechCrunch
+# 幻灯片 2 解锁:幻灯片解锁任何掌上电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/slide-2-unlock-slide-to-unlock-any-pocket-pc/>
 

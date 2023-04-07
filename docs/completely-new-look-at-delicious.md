@@ -1,4 +1,4 @@
-# Del.icio.us | TechCrunch 的新面貌
+# Del.icio.us  的新面貌
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/21/completely-new-look-at-delicious/>
 

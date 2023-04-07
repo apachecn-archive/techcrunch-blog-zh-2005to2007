@@ -1,4 +1,4 @@
-# 另一个社交网络视频网站 TechCrunch
+# 另一个社交网络视频网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/another-social-networking-video-site/>
 

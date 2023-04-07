@@ -1,4 +1,4 @@
-# 脸书内幕——免费阅读——TechCrunch
+# 脸书内幕——免费阅读
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/25/inside-facebook-read-it-for-free/>
 

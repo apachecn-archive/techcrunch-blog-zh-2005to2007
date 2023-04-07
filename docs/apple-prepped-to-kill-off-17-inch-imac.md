@@ -1,4 +1,4 @@
-# 苹果准备淘汰 17 英寸 iMac？–TechCrunch
+# 苹果准备淘汰 17 英寸 iMac？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/apple-prepped-to-kill-off-17-inch-imac/>
 

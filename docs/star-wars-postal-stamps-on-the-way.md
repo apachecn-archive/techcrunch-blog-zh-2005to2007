@@ -1,4 +1,4 @@
-# 《星球大战》邮票在路上——TechCrunch
+# 《星球大战》邮票在路上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/29/star-wars-postal-stamps-on-the-way/>
 

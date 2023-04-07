@@ -1,4 +1,4 @@
-# 苹果与世界:OS X 还是 Vista？TechCrunch
+# 苹果与世界:OS X 还是 Vista？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/07/apple-vs-the-world-os-x-or-vista/>
 

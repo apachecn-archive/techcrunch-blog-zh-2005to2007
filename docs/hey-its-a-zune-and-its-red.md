@@ -1,4 +1,4 @@
-# 嘿！是 Zune！而且是红色的！但是为什么呢？–TechCrunch
+# 嘿！是 Zune！而且是红色的！但是为什么呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/hey-its-a-zune-and-its-red/>
 

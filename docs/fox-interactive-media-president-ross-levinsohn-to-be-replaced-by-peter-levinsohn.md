@@ -1,4 +1,4 @@
-# 福克斯互动媒体总裁罗斯·莱文索恩将由彼得·莱文森接任 TechCrunch
+# 福克斯互动媒体总裁罗斯·莱文索恩将由彼得·莱文森接任 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/16/fox-interactive-media-president-ross-levinsohn-to-be-replaced-by-peter-levinsohn/>
 

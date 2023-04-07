@@ -1,8 +1,8 @@
-# 香农·特里很生气，威胁要起诉 TechCrunch
+# 香农·特里很生气，威胁要起诉 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/13/shannon-terry-is-pissed-off-threatens-lawsuit-against-techcrunch/>
 
-# 香农·特里很生气，威胁要起诉 TechCrunch
+# 香农·特里很生气，威胁要起诉 
 
 我刚刚通过电子邮件收到了下面这封信，关于我之前关于香农·特里和 Rivals.com 的文章。我还不打算就此发表声明——我们的律师已经介入，并建议我暂时保持沉默。
 

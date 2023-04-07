@@ -1,4 +1,4 @@
-# Ecto 1 待售；只需 149，998 美元，尊严| TechCrunch
+# Ecto 1 待售；只需 149，998 美元，尊严
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/ecto-1-up-for-sale-only-costs-149998-dignity/>
 

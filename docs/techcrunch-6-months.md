@@ -1,4 +1,4 @@
-# 今天是 TechCrunch 成立 6 个月的日子——TechCrunch
+# 今天是 TechCrunch 成立 6 个月的日子
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/11/techcrunch-6-months/>
 

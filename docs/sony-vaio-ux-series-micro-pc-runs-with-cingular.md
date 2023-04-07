@@ -1,4 +1,4 @@
-# 索尼 VAIO UX 系列微型电脑采用 Cingular | TechCrunch
+# 索尼 VAIO UX 系列微型电脑采用 Cingular 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/10/sony-vaio-ux-series-micro-pc-runs-with-cingular/>
 

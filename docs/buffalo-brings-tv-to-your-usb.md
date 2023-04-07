@@ -1,4 +1,4 @@
-# 布法罗将电视带到您的 USB | TechCrunch
+# 布法罗将电视带到您的 USB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/24/buffalo-brings-tv-to-your-usb/>
 

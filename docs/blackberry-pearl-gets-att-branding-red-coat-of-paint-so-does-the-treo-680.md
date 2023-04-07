@@ -1,4 +1,4 @@
-# 黑莓珍珠获得美国电话电报公司品牌，红色涂料(Treo 680 也是)——TechCrunch
+# 黑莓珍珠获得美国电话电报公司品牌，红色涂料(Treo 680 也是)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/12/blackberry-pearl-gets-att-branding-red-coat-of-paint-so-does-the-treo-680/>
 

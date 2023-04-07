@@ -1,4 +1,4 @@
-# 专利猴:Vonage 资产出售的时机？TechCrunch
+# 专利猴:Vonage 资产出售的时机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/patent-monkey-timing-right-for-vonage-asset-sale/>
 

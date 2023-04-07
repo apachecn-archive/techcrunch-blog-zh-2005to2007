@@ -1,4 +1,4 @@
-# 每日危机:想买块手表吗？版本| TechCrunch
+# 每日危机:想买块手表吗？版本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/12/daily-crunch-wanna-buy-a-watch-edition/>
 

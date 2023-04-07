@@ -1,4 +1,4 @@
-# Lala 利用互联网收音机进行 CD 交换，销售 TechCrunch
+# Lala 利用互联网收音机进行 CD 交换，销售 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/10/lala-leverages-internet-radio-for-cd-swapping-sales/>
 

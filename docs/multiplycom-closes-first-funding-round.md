@@ -1,4 +1,4 @@
-# Multiply 完成首轮融资 TechCrunch
+# Multiply 完成首轮融资 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/14/multiplycom-closes-first-funding-round/>
 

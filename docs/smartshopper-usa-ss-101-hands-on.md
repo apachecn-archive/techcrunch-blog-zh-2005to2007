@@ -1,4 +1,4 @@
-# SmartShopper USA SS-101 动手| TechCrunch
+# SmartShopper USA SS-101 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/smartshopper-usa-ss-101-hands-on/>
 

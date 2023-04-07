@@ -1,4 +1,4 @@
-# 六度紧缩:民主在行动提醒| TechCrunch
+# 六度紧缩:民主在行动提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/six-degrees-of-crunchation-democracy-in-action-reminder/>
 

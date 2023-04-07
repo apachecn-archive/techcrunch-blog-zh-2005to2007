@@ -1,4 +1,4 @@
-# iPhone 获得复制粘贴| TechCrunch
+# iPhone 获得复制粘贴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/iphone-gets-copy-paste/>
 

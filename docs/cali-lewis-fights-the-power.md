@@ -1,4 +1,4 @@
-# 卡利·刘易斯与权力斗争| TechCrunch
+# 卡利·刘易斯与权力斗争
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/cali-lewis-fights-the-power/>
 

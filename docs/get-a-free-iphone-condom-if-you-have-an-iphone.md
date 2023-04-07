@@ -1,4 +1,4 @@
-# 如果你有 iPhone | TechCrunch，就免费获得一个 iPhone 避孕套
+# 如果你有 iPhone ，就免费获得一个 iPhone 避孕套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/get-a-free-iphone-condom-if-you-have-an-iphone/>
 

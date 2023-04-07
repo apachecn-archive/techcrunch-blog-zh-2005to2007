@@ -1,4 +1,4 @@
-# 双驱动器对决:舒尔 SE 420 vs . UE super . fi 5 Pro | TechCrunch
+# 双驱动器对决:舒尔 SE 420 vs . UE super . fi 5 Pro 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/22/dual-driver-smackdown-shure-se-420-vs-ue-superfi-5-pro/>
 

@@ -1,4 +1,4 @@
-# GigaOm 扩展–新的视频博客–TechCrunch
+# GigaOm 扩展–新的视频博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/gigaom-expands-new-video-only-blog>
 

@@ -1,4 +1,4 @@
-# 矮胖子死刑等级——TechCrunch
+# 矮胖子死刑等级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/23/humpty-dumpty-death-sentence-scale/>
 

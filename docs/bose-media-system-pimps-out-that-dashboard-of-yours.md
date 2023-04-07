@@ -1,4 +1,4 @@
-# Bose 媒体系统为你的仪表盘拉皮条——TechCrunch
+# Bose 媒体系统为你的仪表盘拉皮条
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/bose-media-system-pimps-out-that-dashboard-of-yours/>
 

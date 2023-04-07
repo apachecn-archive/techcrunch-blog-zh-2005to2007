@@ -1,4 +1,4 @@
-# Billmonk 有一个同父异母的兄弟——TechCrunch
+# Billmonk 有一个同父异母的兄弟
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/02/billmonk-has-a-half-brother/>
 

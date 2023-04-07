@@ -1,4 +1,4 @@
-# CrunchGear Meet Up:传递帽子| TechCrunch
+# CrunchGear Meet Up:传递帽子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/11/crunchgear-meet-up-pass-the-hat/>
 

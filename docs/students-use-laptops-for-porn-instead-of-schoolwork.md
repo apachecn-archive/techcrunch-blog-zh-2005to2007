@@ -1,4 +1,4 @@
-# 学生用笔记本电脑看黄片，而不是做作业——TechCrunch
+# 学生用笔记本电脑看黄片，而不是做作业
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/students-use-laptops-for-porn-instead-of-schoolwork/>
 

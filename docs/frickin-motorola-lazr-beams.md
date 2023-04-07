@@ -1,4 +1,4 @@
-# 该死的摩托罗拉 Beams 光束！TechCrunch
+# 该死的摩托罗拉 Beams 光束！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/frickin-motorola-lazr-beams/>
 

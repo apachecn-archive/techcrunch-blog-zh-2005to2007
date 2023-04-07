@@ -1,4 +1,4 @@
-# KickApps 社交网络软件发布 TechCrunch
+# KickApps 社交网络软件发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/12/kickapps-social-networking-software-launches/>
 

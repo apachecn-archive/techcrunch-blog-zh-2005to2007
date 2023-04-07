@@ -1,4 +1,4 @@
-# 天要塌了！还是百视达杀了 HD DVD？TechCrunch
+# 天要塌了！还是百视达杀了 HD DVD？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/the-sky-is-falling-or-did-blockbuster-kill-hd-dvd/>
 

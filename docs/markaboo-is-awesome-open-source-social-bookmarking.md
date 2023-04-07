@@ -1,4 +1,4 @@
-# Markaboo 是非常棒的开源社会化书签——TechCrunch
+# Markaboo 是非常棒的开源社会化书签
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/18/markaboo-is-awesome-open-source-social-bookmarking/>
 

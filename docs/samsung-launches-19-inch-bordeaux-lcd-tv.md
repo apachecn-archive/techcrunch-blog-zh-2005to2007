@@ -1,4 +1,4 @@
-# 三星推出 19 英寸波尔多液晶电视——TechCrunch
+# 三星推出 19 英寸波尔多液晶电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/18/samsung-launches-19-inch-bordeaux-lcd-tv/>
 

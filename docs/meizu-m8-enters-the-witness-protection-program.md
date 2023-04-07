@@ -1,4 +1,4 @@
-# 魅族 M8 进入证人保护计划| TechCrunch
+# 魅族 M8 进入证人保护计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/meizu-m8-enters-the-witness-protection-program/>
 

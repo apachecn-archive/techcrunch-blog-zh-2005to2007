@@ -1,4 +1,4 @@
-# 与万合作的 Toughbook 系列| TechCrunch
+# 与万合作的 Toughbook 系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/toshiba-toughbook-line-with-wan/>
 

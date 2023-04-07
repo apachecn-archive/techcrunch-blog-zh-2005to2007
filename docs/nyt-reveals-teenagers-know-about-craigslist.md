@@ -1,4 +1,4 @@
-# NYT 透露青少年知道 Craigslist-TechCrunch
+# NYT 透露青少年知道 Craigslist-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/nyt-reveals-teenagers-know-about-craigslist/>
 

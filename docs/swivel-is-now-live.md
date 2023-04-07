@@ -1,4 +1,4 @@
-# Swivel 现已上线–TechCrunch
+# Swivel 现已上线
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/06/swivel-is-now-live/>
 

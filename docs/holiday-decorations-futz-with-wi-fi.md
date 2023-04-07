@@ -1,4 +1,4 @@
-# 带 Wi-Fi 的节日装饰品蒲团–TechCrunch
+# 带 Wi-Fi 的节日装饰品蒲团
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/holiday-decorations-futz-with-wi-fi/>
 

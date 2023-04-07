@@ -1,4 +1,4 @@
-# pretec 8GB SDHC–TechCrunch
+# pretec 8GB SDHC
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/pretec-8gb-sdhc/>
 

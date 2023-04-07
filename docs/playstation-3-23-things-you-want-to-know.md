@@ -1,4 +1,4 @@
-# 利弊:PlayStation 3 版 TechCrunch
+# 利弊:PlayStation 3 版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/24/playstation-3-23-things-you-want-to-know/>
 

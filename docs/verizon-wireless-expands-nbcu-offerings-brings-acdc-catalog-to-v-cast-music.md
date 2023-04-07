@@ -1,4 +1,4 @@
-# 威瑞森无线扩展 NBCU 产品，将 AC/DC 目录引入 V CAST Music | TechCrunch
+# 威瑞森无线扩展 NBCU 产品，将 AC/DC 目录引入 V CAST Music 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/verizon-wireless-expands-nbcu-offerings-brings-acdc-catalog-to-v-cast-music/>
 

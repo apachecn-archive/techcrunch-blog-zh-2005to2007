@@ -1,4 +1,4 @@
-# 安静的 Xbox 360s 即将上市——TechCrunch
+# 安静的 Xbox 360s 即将上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/quieter-xbox-360s-coming-soon/>
 

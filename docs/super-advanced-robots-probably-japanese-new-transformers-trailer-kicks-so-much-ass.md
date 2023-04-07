@@ -1,4 +1,4 @@
-# 超级先进的机器人，可能是日本的:新变形金刚预告片踢了这么多屁股！–TechCrunch
+# 超级先进的机器人，可能是日本的:新变形金刚预告片踢了这么多屁股！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/super-advanced-robots-probably-japanese-new-transformers-trailer-kicks-so-much-ass/>
 

@@ -1,4 +1,4 @@
-# Xbox 360 综述–TechCrunch
+# Xbox 360 综述
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/xbox-360-roundup/>
 

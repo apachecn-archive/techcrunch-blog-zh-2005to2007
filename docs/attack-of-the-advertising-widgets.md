@@ -1,4 +1,4 @@
-# 广告插件的攻击——TechCrunch
+# 广告插件的攻击
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/06/attack-of-the-advertising-widgets/>
 

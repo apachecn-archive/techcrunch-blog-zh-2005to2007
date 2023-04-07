@@ -1,4 +1,4 @@
-# 为 Wesabe 提供更多资金——TechCrunch
+# 为 Wesabe 提供更多资金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/20/more-money-for-wesabe/>
 

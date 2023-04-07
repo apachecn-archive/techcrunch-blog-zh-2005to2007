@@ -1,4 +1,4 @@
-# 春季大扫除:戴森 D18 Slim | TechCrunch
+# 春季大扫除:戴森 D18 Slim 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/31/spring-cleaning-dyson-d18-slim/>
 

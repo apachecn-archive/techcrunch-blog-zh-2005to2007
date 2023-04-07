@@ -1,4 +1,4 @@
-# 手机:现在没有癌症——TechCrunch
+# 手机:现在没有癌症
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/06/cell-phones-now-cancer-free/>
 

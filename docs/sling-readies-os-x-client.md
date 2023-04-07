@@ -1,4 +1,4 @@
-# OS X 客户端| TechCrunch
+# OS X 客户端
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/sling-readies-os-x-client/>
 

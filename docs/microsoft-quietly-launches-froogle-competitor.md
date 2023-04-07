@@ -1,4 +1,4 @@
-# 微软悄然推出 Froogle 竞争对手——TechCrunch
+# 微软悄然推出 Froogle 竞争对手
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/05/microsoft-quietly-launches-froogle-competitor/>
 

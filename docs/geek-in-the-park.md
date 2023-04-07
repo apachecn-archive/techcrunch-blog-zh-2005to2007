@@ -1,4 +1,4 @@
-# 公园里的极客| TechCrunch
+# 公园里的极客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/geek-in-the-park/>
 

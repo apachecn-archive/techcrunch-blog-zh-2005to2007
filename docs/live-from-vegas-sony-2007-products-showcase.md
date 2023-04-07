@@ -1,4 +1,4 @@
-# 拉斯维加斯现场直播:索尼 2007 产品展示| TechCrunch
+# 拉斯维加斯现场直播:索尼 2007 产品展示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/live-from-vegas-sony-2007-products-showcase/>
 

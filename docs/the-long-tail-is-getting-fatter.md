@@ -1,4 +1,4 @@
-# 长尾越来越肥 TechCrunch
+# 长尾越来越肥 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/15/the-long-tail-is-getting-fatter/>
 

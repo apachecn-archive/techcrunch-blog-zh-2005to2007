@@ -1,4 +1,4 @@
-# TVtrip 的多媒体酒店目录获得 480 万美元| TechCrunch
+# TVtrip 的多媒体酒店目录获得 480 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/11/tvtrips-multimedia-hotel-directory-gets-48-million/>
 

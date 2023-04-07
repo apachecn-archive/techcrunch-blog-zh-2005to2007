@@ -1,4 +1,4 @@
-# 使用 Dapper | TechCrunch 为任何网站创建 API
+# 使用 Dapper  为任何网站创建 API
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/08/17/create-an-api-for-any-site-with-dapper/>
 

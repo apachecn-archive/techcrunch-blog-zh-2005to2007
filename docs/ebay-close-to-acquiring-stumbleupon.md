@@ -1,4 +1,4 @@
-# 易贝接近收购 stumble upon TechCrunch
+# 易贝接近收购 stumble upon 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/08/ebay-close-to-acquiring-stumbleupon/>
 

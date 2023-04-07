@@ -1,4 +1,4 @@
-# 关于 meemo | TechCrunch 的一切
+# 关于 meemo  的一切
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/all-about-meemo/>
 

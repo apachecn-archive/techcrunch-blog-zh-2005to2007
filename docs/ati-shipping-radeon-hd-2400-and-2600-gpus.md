@@ -1,4 +1,4 @@
-# ATI Shipping 镭龙 HD 2400 和 2600 GPU–TechCrunch
+# ATI Shipping 镭龙 HD 2400 和 2600 GPU
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/ati-shipping-radeon-hd-2400-and-2600-gpus/>
 

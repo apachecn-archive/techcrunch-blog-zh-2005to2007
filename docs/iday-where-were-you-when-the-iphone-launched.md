@@ -1,4 +1,4 @@
-# iDay:iPhone 发布的时候你在哪里？TechCrunch
+# iDay:iPhone 发布的时候你在哪里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/iday-where-were-you-when-the-iphone-launched/>
 

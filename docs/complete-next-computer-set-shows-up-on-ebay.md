@@ -1,4 +1,4 @@
-# 易贝| TechCrunch 上展示完整的 NeXT 电脑套装
+# 易贝 上展示完整的 NeXT 电脑套装
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/complete-next-computer-set-shows-up-on-ebay/>
 

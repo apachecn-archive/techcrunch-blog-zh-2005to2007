@@ -1,4 +1,4 @@
-# 完整的 Zune 演示–TechCrunch
+# 完整的 Zune 演示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/09/full-zune-walk-through/>
 

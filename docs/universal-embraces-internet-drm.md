@@ -1,4 +1,4 @@
-# 环球拥抱互联网，DRM-TechCrunch
+# 环球拥抱互联网，DRM-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/universal-embraces-internet-drm/>
 

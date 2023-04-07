@@ -1,4 +1,4 @@
-# iTunes DRM 免费的肮脏小秘密| TechCrunch
+# iTunes DRM 免费的肮脏小秘密
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/the-dirty-little-secret-of-itunes-drm-free/>
 

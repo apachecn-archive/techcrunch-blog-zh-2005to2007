@@ -1,4 +1,4 @@
-# 恶魔城来自动漫展——TechCrunch
+# 恶魔城来自动漫展
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/castlevania-figures-from-comic-con/>
 

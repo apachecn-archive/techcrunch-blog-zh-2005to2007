@@ -1,4 +1,4 @@
-# 苹果在 2 月 20 日召开新闻发布会？–TechCrunch
+# 苹果在 2 月 20 日召开新闻发布会？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/mark-your-calendars-apple-special-event-on-february-20th/>
 

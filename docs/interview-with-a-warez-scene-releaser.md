@@ -1,4 +1,4 @@
-# 采访 Warez 场景发布者| TechCrunch
+# 采访 Warez 场景发布者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/16/interview-with-a-warez-scene-releaser/>
 

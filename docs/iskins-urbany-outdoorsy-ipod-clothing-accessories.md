@@ -1,4 +1,4 @@
-# iSkins 的都市户外 iPod 服装配件——TechCrunch
+# iSkins 的都市户外 iPod 服装配件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/iskins-urbany-outdoorsy-ipod-clothing-accessories/>
 

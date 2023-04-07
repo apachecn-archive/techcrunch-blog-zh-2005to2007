@@ -1,4 +1,4 @@
-# Feedmailer 通过电子邮件和在旅途中管理您的 RSS。| TechCrunch
+# Feedmailer 通过电子邮件和在旅途中管理您的 RSS。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/manage-your-rss-using-email/>
 

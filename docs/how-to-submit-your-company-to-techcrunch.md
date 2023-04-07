@@ -1,4 +1,4 @@
-# 如何将您的公司提交到 TechCrunch–TechCrunch
+# 如何将您的公司提交到 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/01/how-to-submit-your-company-to-techcrunch/>
 

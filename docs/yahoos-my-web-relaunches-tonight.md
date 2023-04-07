@@ -1,4 +1,4 @@
-# 雅虎我的网站今晚重新启动——TechCrunch
+# 雅虎我的网站今晚重新启动
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/05/yahoos-my-web-relaunches-tonight/>
 

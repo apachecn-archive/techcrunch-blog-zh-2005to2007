@@ -1,4 +1,4 @@
-# 帮助键:家庭录音，第二部分| TechCrunch
+# 帮助键:家庭录音，第二部分
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/19/help-key-home-recording-part-ii/>
 

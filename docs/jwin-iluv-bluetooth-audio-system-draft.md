@@ -1,4 +1,4 @@
-# JWin iLuv 蓝牙音响系统| TechCrunch
+# JWin iLuv 蓝牙音响系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/jwin-iluv-bluetooth-audio-system-draft/>
 

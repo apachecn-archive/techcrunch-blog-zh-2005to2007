@@ -1,4 +1,4 @@
-# Glide Mobile 的 iPhone windows Media–TechCrunch
+# Glide Mobile 的 iPhone windows Media
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/windows-media-for-iphone-from-glide-mobile/>
 

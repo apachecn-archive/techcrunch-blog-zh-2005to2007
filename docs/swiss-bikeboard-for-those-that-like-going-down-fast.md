@@ -1,4 +1,4 @@
-# 瑞士自行车板，适合喜欢快速滑行的人——TechCrunch
+# 瑞士自行车板，适合喜欢快速滑行的人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/30/swiss-bikeboard-for-those-that-like-going-down-fast/>
 

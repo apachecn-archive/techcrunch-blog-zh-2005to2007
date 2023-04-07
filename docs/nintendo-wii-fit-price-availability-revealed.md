@@ -1,4 +1,4 @@
-# 任天堂 Wii Fit 价格，可用性透露 TechCrunch
+# 任天堂 Wii Fit 价格，可用性透露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/nintendo-wii-fit-price-availability-revealed/>
 

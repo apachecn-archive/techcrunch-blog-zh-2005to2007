@@ -1,4 +1,4 @@
-# TechCrunch 的群组短信服务综述| TechCrunch
+# TechCrunch 的群组短信服务综述
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/techcrunchs-group-sms-service-round-up/>
 

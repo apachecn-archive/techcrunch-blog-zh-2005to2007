@@ -1,4 +1,4 @@
-# Wii 表带已解决| TechCrunch
+# Wii 表带已解决
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/wii-strap-resolved/>
 

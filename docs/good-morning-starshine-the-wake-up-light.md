@@ -1,4 +1,4 @@
-# 早上好，星光:唤醒之光——TechCrunch
+# 早上好，星光:唤醒之光
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/good-morning-starshine-the-wake-up-light/>
 

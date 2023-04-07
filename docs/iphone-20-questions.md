@@ -1,4 +1,4 @@
-# iPhone: 20 个问题——TechCrunch
+# iPhone: 20 个问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/iphone-20-questions/>
 

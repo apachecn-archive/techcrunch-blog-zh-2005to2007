@@ -1,4 +1,4 @@
-# Treo 750v 上的 Windows Mobile 6 图片–TechCrunch
+# Treo 750v 上的 Windows Mobile 6 图片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/11/windows-mobile-6-pics-on-a-treo-750v/>
 

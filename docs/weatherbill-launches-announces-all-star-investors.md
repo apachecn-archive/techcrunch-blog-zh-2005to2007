@@ -1,4 +1,4 @@
-# WeatherBill 启动，宣布所有明星投资者 TechCrunch
+# WeatherBill 启动，宣布所有明星投资者 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/15/weatherbill-launches-announces-all-star-investors/>
 

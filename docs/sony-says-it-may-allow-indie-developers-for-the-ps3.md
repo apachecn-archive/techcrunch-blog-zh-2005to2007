@@ -1,4 +1,4 @@
-# 索尼称可能允许 PS3 的独立开发者——TechCrunch
+# 索尼称可能允许 PS3 的独立开发者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/sony-says-it-may-allow-indie-developers-for-the-ps3/>
 

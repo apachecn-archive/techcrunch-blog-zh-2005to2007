@@ -1,4 +1,4 @@
-# 用于 Skype | TechCrunch 的 Polycom 免提扬声器
+# 用于 Skype  的 Polycom 免提扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/23/polycom-hands-free-speakerphone-for-skype/>
 

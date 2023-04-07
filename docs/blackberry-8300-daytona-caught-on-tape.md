@@ -1,4 +1,4 @@
-# 黑莓代托纳被录下| TechCrunch
+# 黑莓代托纳被录下
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/blackberry-8300-daytona-caught-on-tape/>
 

@@ -1,4 +1,4 @@
-# 磨砂信封邮箱| TechCrunch
+# 磨砂信封邮箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/11/frosted-envelope-mailbox/>
 

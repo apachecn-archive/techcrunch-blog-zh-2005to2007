@@ -1,4 +1,4 @@
-# 亚马逊拆箱现在在 TiVo | TechCrunch 上直播
+# 亚马逊拆箱现在在 TiVo  上直播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/amazon-unbox-now-live-on-tivo/>
 

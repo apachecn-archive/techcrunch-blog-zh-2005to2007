@@ -1,4 +1,4 @@
-# 布鲁克林英语| TechCrunch
+# 布鲁克林英语
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/17/brooklyn-engrish/>
 

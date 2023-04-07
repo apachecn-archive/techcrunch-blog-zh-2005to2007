@@ -1,4 +1,4 @@
-# Palm 得到 PalmOS 的内脏，规划新的 OS，还是仅仅修复坏掉的？–TechCrunch
+# Palm 得到 PalmOS 的内脏，规划新的 OS，还是仅仅修复坏掉的？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/palm-gets-palmos-guts-planning-new-os-or-just-fixing-whats-broken/>
 

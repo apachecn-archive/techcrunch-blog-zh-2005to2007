@@ -1,4 +1,4 @@
-# 给你的游戏机应有的外壳| TechCrunch
+# 给你的游戏机应有的外壳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/give-your-consoles-the-housing-they-deserve/>
 

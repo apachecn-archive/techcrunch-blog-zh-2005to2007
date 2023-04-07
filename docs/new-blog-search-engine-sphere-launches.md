@@ -1,4 +1,4 @@
-# 新博客搜索引擎 Sphere 发布 TechCrunch
+# 新博客搜索引擎 Sphere 发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/01/new-blog-search-engine-sphere-launches>
 

@@ -1,4 +1,4 @@
-# 审查可充电 Moixa USBCell AA 电池–TechCrunch
+# 审查可充电 Moixa USBCell AA 电池
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/rechargeable-moixa-usbcell-aa-batteries/>
 

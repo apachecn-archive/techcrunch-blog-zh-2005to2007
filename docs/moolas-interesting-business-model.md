@@ -1,4 +1,4 @@
-# Moola 有趣的商业模式——TechCrunch
+# Moola 有趣的商业模式
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/14/moolas-interesting-business-model/>
 

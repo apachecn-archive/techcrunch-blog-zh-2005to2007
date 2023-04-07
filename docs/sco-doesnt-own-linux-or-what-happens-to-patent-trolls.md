@@ -1,4 +1,4 @@
-# SCO 不拥有 Linux 或“专利巨魔会怎样”——TechCrunch
+# SCO 不拥有 Linux 或“专利巨魔会怎样”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/sco-doesnt-own-linux-or-what-happens-to-patent-trolls/>
 

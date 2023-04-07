@@ -1,4 +1,4 @@
-# 移动互联网:为移动设备量身定制的调查——TechCrunch
+# 移动互联网:为移动设备量身定制的调查
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/mobiode-surveys-tailored-for-mobile-2/>
 

@@ -1,4 +1,4 @@
-# M-Audio 的 Torq Xponent:完整的基于计算机的 DJ 系统| TechCrunch
+# M-Audio 的 Torq Xponent:完整的基于计算机的 DJ 系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/m-audios-torq-xponent-the-complete-computer-based-dj-system/>
 

@@ -1,4 +1,4 @@
-# Box.net 发布双向存储工具——TechCrunch
+# Box.net 发布双向存储工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/12/boxnet-releases-two-way-storage-widget/>
 

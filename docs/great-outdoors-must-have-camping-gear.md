@@ -1,4 +1,4 @@
-# 伟大的户外运动:必备露营装备| TechCrunch
+# 伟大的户外运动:必备露营装备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/04/great-outdoors-must-have-camping-gear/>
 

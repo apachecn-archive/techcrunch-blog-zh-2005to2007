@@ -1,4 +1,4 @@
-# 胡扯很好笑 TechCrunch
+# 胡扯很好笑 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/20/bullshitr-is-good-for-a-laugh/>
 

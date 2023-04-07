@@ -1,4 +1,4 @@
-# CityCita 提供免费开放的聚会 TechCrunch
+# CityCita 提供免费开放的聚会 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/08/citycita-offers-free-and-open-meetups/>
 

@@ -1,4 +1,4 @@
-# 200 英寸 PlayStation 3 Hotness–TechCrunch
+# 200 英寸 PlayStation 3 Hotness
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/200-inch-playstation-3-hotness/>
 

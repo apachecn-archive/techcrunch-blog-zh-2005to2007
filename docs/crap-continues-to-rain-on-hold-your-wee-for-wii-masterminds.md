@@ -1,4 +1,4 @@
-# 废话继续下雨对 Wii 的主脑保持你的小便| TechCrunch
+# 废话继续下雨对 Wii 的主脑保持你的小便
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/crap-continues-to-rain-on-hold-your-wee-for-wii-masterminds/>
 

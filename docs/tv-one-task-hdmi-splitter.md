@@ -1,4 +1,4 @@
-# 电视单任务 HDMI 分离器| TechCrunch
+# 电视单任务 HDMI 分离器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/tv-one-task-hdmi-splitter/>
 

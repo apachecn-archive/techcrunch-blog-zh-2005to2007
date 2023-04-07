@@ -1,4 +1,4 @@
-# Creative 收回 FM 录音功能| TechCrunch
+# Creative 收回 FM 录音功能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/creative-takes-back-fm-recording-functionality/>
 

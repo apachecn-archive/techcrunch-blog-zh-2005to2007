@@ -1,4 +1,4 @@
-# 威尼斯项目现在是 Joost——TechCrunch
+# 威尼斯项目现在是 Joost
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/the-venice-project-is-now-joost/>
 

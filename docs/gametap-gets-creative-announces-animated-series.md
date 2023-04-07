@@ -1,4 +1,4 @@
-# GameTap 变得有创意，宣布动画系列| TechCrunch
+# GameTap 变得有创意，宣布动画系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/gametap-gets-creative-announces-animated-series/>
 

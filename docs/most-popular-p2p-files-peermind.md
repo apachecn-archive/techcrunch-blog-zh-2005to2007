@@ -1,4 +1,4 @@
-# 最受欢迎的 P2P 文件:peer mind–TechCrunch
+# 最受欢迎的 P2P 文件:peer mind
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/17/most-popular-p2p-files-peermind>
 

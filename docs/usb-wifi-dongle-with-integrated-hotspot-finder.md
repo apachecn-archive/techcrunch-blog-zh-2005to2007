@@ -1,4 +1,4 @@
-# 带有集成热点探测器的 USB WiFi 加密狗–TechCrunch
+# 带有集成热点探测器的 USB WiFi 加密狗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/30/usb-wifi-dongle-with-integrated-hotspot-finder/>
 

@@ -1,4 +1,4 @@
-# Nvidia 8800GTX 真的真的很好；ATI 又开始追赶了。–TechCrunch
+# Nvidia 8800GTX 真的真的很好；ATI 又开始追赶了。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/nvidia-8800gtx-is-really-really-good-ati-playing-catch-up-again/>
 

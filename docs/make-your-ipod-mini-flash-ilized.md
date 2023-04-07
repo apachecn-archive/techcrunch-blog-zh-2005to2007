@@ -1,4 +1,4 @@
-# 让你的 iPod Mini Flash 化| TechCrunch
+# 让你的 iPod Mini Flash 化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/make-your-ipod-mini-flash-ilized/>
 

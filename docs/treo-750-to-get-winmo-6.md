@@ -1,4 +1,4 @@
-# Treo 750 获得 WinMo 6 | TechCrunch
+# Treo 750 获得 WinMo 6 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/treo-750-to-get-winmo-6/>
 

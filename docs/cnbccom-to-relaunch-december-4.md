@@ -1,4 +1,4 @@
-# CNBC.com 将于 12 月 4 日重新发布——TechCrunch
+# CNBC.com 将于 12 月 4 日重新发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/27/cnbccom-to-relaunch-december-4/>
 

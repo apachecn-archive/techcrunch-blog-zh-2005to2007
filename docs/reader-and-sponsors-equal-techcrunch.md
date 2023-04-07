@@ -1,4 +1,4 @@
-# 是时候感谢赞助商了| TechCrunch
+# 是时候感谢赞助商了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/14/reader-and-sponsors-equal-techcrunch/>
 

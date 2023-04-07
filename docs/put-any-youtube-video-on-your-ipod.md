@@ -1,4 +1,4 @@
-# 将任何 YouTube 视频放入 iPod TechCrunch
+# 将任何 YouTube 视频放入 iPod 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/14/put-any-youtube-video-on-your-ipod/>
 

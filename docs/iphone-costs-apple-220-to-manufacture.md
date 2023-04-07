@@ -1,4 +1,4 @@
-# iPhone 的制造成本为 220 美元——TechCrunch
+# iPhone 的制造成本为 220 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/iphone-costs-apple-220-to-manufacture/>
 

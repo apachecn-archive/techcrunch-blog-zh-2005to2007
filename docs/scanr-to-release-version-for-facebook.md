@@ -1,4 +1,4 @@
-# scanR 将为脸书| TechCrunch 发布版本
+# scanR 将为脸书 发布版本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/scanr-to-release-version-for-facebook/>
 

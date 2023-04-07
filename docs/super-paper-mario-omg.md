@@ -1,4 +1,4 @@
-# 超级纸马里奥:OMG–TechCrunch
+# 超级纸马里奥:OMG
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/super-paper-mario-omg/>
 

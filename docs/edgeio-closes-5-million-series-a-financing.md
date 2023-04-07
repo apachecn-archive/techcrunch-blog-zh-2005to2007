@@ -1,4 +1,4 @@
-# Edgeio 完成 500 万美元 A 轮融资 TechCrunch
+# Edgeio 完成 500 万美元 A 轮融资 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/24/edgeio-closes-5-million-series-a-financing/>
 

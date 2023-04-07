@@ -1,4 +1,4 @@
-# 虚拟诺基亚 E61i 在野外——TechCrunch
+# 虚拟诺基亚 E61i 在野外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/dummy-nokia-e61i-in-the-wild/>
 

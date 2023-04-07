@@ -1,4 +1,4 @@
-# 科学家称 D-Wave 系统的量子计算机为 TechCrunch
+# 科学家称 D-Wave 系统的量子计算机为 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/scientists-call-out-d-wave-systems-quantum-computer/>
 

@@ -1,4 +1,4 @@
-# 特工侠| TechCrunch
+# 特工侠
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/19/secret-agent-man/>
 

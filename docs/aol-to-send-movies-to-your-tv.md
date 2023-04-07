@@ -1,4 +1,4 @@
-# 美国在线将电影发送到你的电视上——TechCrunch
+# 美国在线将电影发送到你的电视上
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/17/aol-to-send-movies-to-your-tv/>
 

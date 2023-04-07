@@ -1,4 +1,4 @@
-# 除了可怕的名字和标志，我喜欢它——TechCrunch
+# 除了可怕的名字和标志，我喜欢它
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/19/apart-from-the-name-i-like-trusted-opinion/>
 

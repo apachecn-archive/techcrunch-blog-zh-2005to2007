@@ -1,4 +1,4 @@
-# 苹果发布 8 核 Mac Pro-TechCrunch
+# 苹果发布 8 核 Mac Pro-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/apple-unveils-8-core-mac-pro/>
 

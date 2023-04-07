@@ -1,4 +1,4 @@
-# 年轻人用的手机！TechCrunch
+# 年轻人用的手机！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/mobile-phones-used-by-the-youth/>
 

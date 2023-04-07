@@ -1,4 +1,4 @@
-# Xbox Live 关闭——TechCrunch
+# Xbox Live 关闭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/17/xbox-live-is-down/>
 

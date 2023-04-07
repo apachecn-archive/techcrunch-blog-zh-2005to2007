@@ -1,4 +1,4 @@
-# 用户平面推出收入共享计划——TechCrunch
+# 用户平面推出收入共享计划
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/29/userplane-launches-revenue-sharing-program/>
 

@@ -1,4 +1,4 @@
-# gadgets Royale–TechCrunch
+# gadgets Royale
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/29/casino-royale-gadgets/>
 

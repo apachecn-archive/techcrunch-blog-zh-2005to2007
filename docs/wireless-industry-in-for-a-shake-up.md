@@ -1,4 +1,4 @@
-# 无线行业面临变革——TechCrunch
+# 无线行业面临变革
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/wireless-industry-in-for-a-shake-up/>
 

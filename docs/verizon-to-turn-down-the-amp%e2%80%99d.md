@@ -1,4 +1,4 @@
-# 威瑞森拒绝了 TechCrunch
+# 威瑞森拒绝了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/verizon-to-turn-down-the-amp%e2%80%99d/>
 

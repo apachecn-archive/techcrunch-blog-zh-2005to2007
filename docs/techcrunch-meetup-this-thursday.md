@@ -1,4 +1,4 @@
-# TechCrunch Meetup 本周四——TechCrunch
+# TechCrunch Meetup 本周四
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/19/techcrunch-meetup-this-thursday/>
 

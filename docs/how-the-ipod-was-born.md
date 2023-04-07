@@ -1,4 +1,4 @@
-# iPod 如何诞生——TechCrunch
+# iPod 如何诞生
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/how-the-ipod-was-born/>
 

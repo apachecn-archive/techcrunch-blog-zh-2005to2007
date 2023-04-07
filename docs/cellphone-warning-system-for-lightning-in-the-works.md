@@ -1,4 +1,4 @@
-# 工程中的闪电手机预警系统？TechCrunch
+# 工程中的闪电手机预警系统？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/cellphone-warning-system-for-lightning-in-the-works/>
 

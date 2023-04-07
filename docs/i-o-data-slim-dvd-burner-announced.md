@@ -1,4 +1,4 @@
-# 宣布推出输入输出数据超薄 DVD 刻录机| TechCrunch
+# 宣布推出输入输出数据超薄 DVD 刻录机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/i-o-data-slim-dvd-burner-announced/>
 

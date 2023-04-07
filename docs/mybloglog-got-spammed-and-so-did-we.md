@@ -1,4 +1,4 @@
-# 我的博客收到了垃圾邮件(我们也收到了)——TechCrunch
+# 我的博客收到了垃圾邮件(我们也收到了)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/10/mybloglog-got-spammed-and-so-did-we>
 

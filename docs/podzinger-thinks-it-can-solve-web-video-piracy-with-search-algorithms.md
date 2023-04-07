@@ -1,4 +1,4 @@
-# PodZinger 认为它可以通过搜索算法解决网络视频盗版问题——TechCrunch
+# PodZinger 认为它可以通过搜索算法解决网络视频盗版问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/16/podzinger-thinks-it-can-solve-web-video-piracy-with-search-algorithms/>
 

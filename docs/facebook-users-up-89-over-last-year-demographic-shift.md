@@ -1,4 +1,4 @@
-# 脸书用户比去年增长了 89%;人口变化 TechCrunch
+# 脸书用户比去年增长了 89%;人口变化 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/facebook-users-up-89-over-last-year-demographic-shift/>
 

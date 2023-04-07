@@ -1,4 +1,4 @@
-# 带红外线的无线彩色婴儿监视器让你在黑暗中观察你的宝宝，帕丽斯·希尔顿| TechCrunch
+# 带红外线的无线彩色婴儿监视器让你在黑暗中观察你的宝宝，帕丽斯·希尔顿
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/20/wireless-color-baby-monitor-with-infrared-lets-you-watch-your-baby-paris-hilton-in-the-dark/>
 

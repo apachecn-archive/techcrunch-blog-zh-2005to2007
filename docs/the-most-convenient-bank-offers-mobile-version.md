@@ -1,4 +1,4 @@
-# 最便捷的银行提供手机版| TechCrunch
+# 最便捷的银行提供手机版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/the-most-convenient-bank-offers-mobile-version/>
 

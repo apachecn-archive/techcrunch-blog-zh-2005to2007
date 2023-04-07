@@ -1,4 +1,4 @@
-# 底特律活塞 MP3 播放器| TechCrunch
+# 底特律活塞 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/detroit-pistons-mp3-player/>
 

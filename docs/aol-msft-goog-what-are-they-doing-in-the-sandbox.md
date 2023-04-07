@@ -1,4 +1,4 @@
-# 美国在线、MSFT、谷歌:他们在沙盒里做什么？TechCrunch
+# 美国在线、MSFT、谷歌:他们在沙盒里做什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/08/aol-msft-goog-what-are-they-doing-in-the-sandbox/>
 

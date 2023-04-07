@@ -1,4 +1,4 @@
-# Healthline 刚刚筹集了大量资金——TechCrunch
+# Healthline 刚刚筹集了大量资金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/22/healthline-just-raised-serious-cash/>
 

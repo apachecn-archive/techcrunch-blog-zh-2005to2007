@@ -1,4 +1,4 @@
-# 微软更少摩尔| TechCrunch
+# 微软更少摩尔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/microsoft-is-less-moore/>
 

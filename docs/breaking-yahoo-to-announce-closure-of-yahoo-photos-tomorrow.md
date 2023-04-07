@@ -1,4 +1,4 @@
-# 突发事件:雅虎关闭雅虎照片，转而支持 Flickr TechCrunch
+# 突发事件:雅虎关闭雅虎照片，转而支持 Flickr 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/05/03/breaking-yahoo-to-announce-closure-of-yahoo-photos-tomorrow/>
 

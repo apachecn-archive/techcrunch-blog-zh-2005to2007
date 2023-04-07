@@ -1,4 +1,4 @@
-# 首轮资本与海湾合作伙伴投资 Yapta | TechCrunch
+# 首轮资本与海湾合作伙伴投资 Yapta 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/09/first-round-capital-invests-in-yapta/>
 

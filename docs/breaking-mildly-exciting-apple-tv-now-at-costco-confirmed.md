@@ -1,4 +1,4 @@
-# 突发新闻，有点令人兴奋:苹果电视现在在好市多，已确认| TechCrunch
+# 突发新闻，有点令人兴奋:苹果电视现在在好市多，已确认
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/breaking-mildly-exciting-apple-tv-now-at-costco-confirmed/>
 

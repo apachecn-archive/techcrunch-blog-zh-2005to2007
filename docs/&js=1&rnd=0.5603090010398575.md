@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/07/06/bascamp-faces-competition-in-free-alternative/&js=1&rnd=0.5603090010398575>
 

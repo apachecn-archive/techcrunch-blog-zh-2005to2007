@@ -1,4 +1,4 @@
-# 专利猴:Tivo 锁，打开你硬盘的钥匙——TechCrunch
+# 专利猴:Tivo 锁，打开你硬盘的钥匙
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/patent-monkey-tivo-locks-takes-key-to-your-hd/>
 

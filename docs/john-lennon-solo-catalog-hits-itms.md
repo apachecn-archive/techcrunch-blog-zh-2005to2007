@@ -1,4 +1,4 @@
-# 约翰·列侬独奏目录点击 iTMS-TechCrunch
+# 约翰·列侬独奏目录点击 iTMS-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/john-lennon-solo-catalog-hits-itms/>
 

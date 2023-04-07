@@ -1,4 +1,4 @@
-# 九头蛇游戏控制台开发包–TechCrunch
+# 九头蛇游戏控制台开发包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/hydra-game-console-devkit/>
 

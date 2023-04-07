@@ -1,4 +1,4 @@
-# Playstation Home 将于 10 月发布——TechCrunch
+# Playstation Home 将于 10 月发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/playstation-home-launches-in-october/>
 

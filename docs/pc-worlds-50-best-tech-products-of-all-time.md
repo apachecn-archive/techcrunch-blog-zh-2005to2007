@@ -1,4 +1,4 @@
-# PC 世界有史以来 50 款最佳科技产品——TechCrunch
+# PC 世界有史以来 50 款最佳科技产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/03/pc-worlds-50-best-tech-products-of-all-time/>
 

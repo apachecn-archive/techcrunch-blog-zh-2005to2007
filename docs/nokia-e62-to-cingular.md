@@ -1,4 +1,4 @@
-# 诺基亚 E62 到 Cingular | TechCrunch
+# 诺基亚 E62 到 Cingular 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/nokia-e62-to-cingular/>
 

@@ -1,4 +1,4 @@
-# 雅虎！牵头投资广告拍卖公司 Right Media TechCrunch
+# 雅虎！牵头投资广告拍卖公司 Right Media 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/17/yahoo-leads-investment-in-ad-auction-company-right-media>
 

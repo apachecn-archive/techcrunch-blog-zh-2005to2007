@@ -1,4 +1,4 @@
-# 电子邮件附件太不酷了 TechCrunch
+# 电子邮件附件太不酷了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/email-attachments-are-so-uncool/>
 

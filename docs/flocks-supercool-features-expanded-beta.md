@@ -1,4 +1,4 @@
-# Flock 改进功能，扩展测试版 TechCrunch
+# Flock 改进功能，扩展测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/17/flocks-supercool-features-expanded-beta/>
 

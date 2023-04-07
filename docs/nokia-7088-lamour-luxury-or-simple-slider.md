@@ -1,4 +1,4 @@
-# 诺基亚 7088:爱情奢侈品，还是简单的滑块？TechCrunch
+# 诺基亚 7088:爱情奢侈品，还是简单的滑块？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/nokia-7088-lamour-luxury-or-simple-slider/>
 

@@ -1,4 +1,4 @@
-# Brenthaven 的经典 iPod 保护套| TechCrunch
+# Brenthaven 的经典 iPod 保护套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/brenthavens-classy-ipod-cases/>
 

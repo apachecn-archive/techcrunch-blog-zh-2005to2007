@@ -1,4 +1,4 @@
-# 红色 iPod Nano 明天上市？TechCrunch
+# 红色 iPod Nano 明天上市？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/red-ipod-nano-coming-tomorrow/>
 

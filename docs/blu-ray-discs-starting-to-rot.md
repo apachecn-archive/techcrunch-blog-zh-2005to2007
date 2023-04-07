@@ -1,4 +1,4 @@
-# 蓝光光盘开始腐烂| TechCrunch
+# 蓝光光盘开始腐烂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/17/blu-ray-discs-starting-to-rot/>
 

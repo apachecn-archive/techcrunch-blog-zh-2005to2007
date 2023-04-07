@@ -1,4 +1,4 @@
-# hangman Hands On–TechCrunch
+# hangman Hands On
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/hangman-hands-on/>
 

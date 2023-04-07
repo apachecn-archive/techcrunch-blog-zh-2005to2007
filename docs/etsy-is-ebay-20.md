@@ -1,4 +1,4 @@
-# Etsy -带标签的 P2P 商务 TechCrunch
+# Etsy -带标签的 P2P 商务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/08/etsy-is-ebay-20/>
 

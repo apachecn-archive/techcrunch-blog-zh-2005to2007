@@ -1,4 +1,4 @@
-# 为什么 CableCARD 家庭影院电脑还没有起飞？TechCrunch
+# 为什么 CableCARD 家庭影院电脑还没有起飞？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/18/why-havent-cablecard-home-theater-pcs-taken-off/>
 

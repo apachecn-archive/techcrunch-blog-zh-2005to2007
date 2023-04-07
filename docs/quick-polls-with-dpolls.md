@@ -1,4 +1,4 @@
-# 用 dPolls 进行快速民意调查——TechCrunch
+# 用 dPolls 进行快速民意调查
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/05/quick-polls-with-dpolls/>
 

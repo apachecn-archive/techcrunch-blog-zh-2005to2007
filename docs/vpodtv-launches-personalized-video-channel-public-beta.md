@@ -1,4 +1,4 @@
-# Vpod.tv 推出个性化视频频道公测版——TechCrunch
+# Vpod.tv 推出个性化视频频道公测版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/14/vpodtv-launches-personalized-video-channel-public-beta/>
 

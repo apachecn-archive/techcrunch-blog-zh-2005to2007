@@ -1,4 +1,4 @@
-# 20 英寸笔记本电脑亮相曼哈顿街头| TechCrunch
+# 20 英寸笔记本电脑亮相曼哈顿街头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/18/twenty-inch-laptop-hits-the-streets-of-manhatten/>
 

@@ -1,4 +1,4 @@
-# iZak 存储您的媒体文件并播放它们！–TechCrunch
+# iZak 存储您的媒体文件并播放它们！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/izak-stores-your-media-files-and-plays-them/>
 

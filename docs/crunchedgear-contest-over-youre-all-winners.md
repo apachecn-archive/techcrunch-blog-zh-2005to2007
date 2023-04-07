@@ -1,4 +1,4 @@
-# 克朗彻奇格竞赛结束:你们都是赢家！TechCrunch
+# 克朗彻奇格竞赛结束:你们都是赢家！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/crunchedgear-contest-over-youre-all-winners/>
 

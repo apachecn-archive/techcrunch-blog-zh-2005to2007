@@ -1,4 +1,4 @@
-# 亚马逊网站发布 2006 年最佳榜单——TechCrunch
+# 亚马逊网站发布 2006 年最佳榜单
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/28/amazoncoms-best-of-2006-list-released/>
 

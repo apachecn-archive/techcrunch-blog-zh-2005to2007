@@ -1,4 +1,4 @@
-# 嘿，亲爱的！什么电视？–TechCrunch
+# 嘿，亲爱的！什么电视？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/21/plasma-lift-hey-honey-what-tv/>
 

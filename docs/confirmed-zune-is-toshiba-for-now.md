@@ -1,4 +1,4 @@
-# 已证实:Zune 是东芝的……目前——TechCrunch
+# 已证实:Zune 是东芝的……目前
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/confirmed-zune-is-toshiba-for-now/>
 

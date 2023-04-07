@@ -1,4 +1,4 @@
-# IE 7 达到 1 亿次下载，Firefox 仍在前进——TechCrunch
+# IE 7 达到 1 亿次下载，Firefox 仍在前进
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/ie-7-reaches-100-million-downloads-firefox-still-on-the-march/>
 

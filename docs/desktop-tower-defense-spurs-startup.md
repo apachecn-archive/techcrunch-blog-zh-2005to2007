@@ -1,4 +1,4 @@
-# 桌面塔式防御创建初创公司 TechCrunch
+# 桌面塔式防御创建初创公司 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/08/desktop-tower-defense-spurs-startup/>
 

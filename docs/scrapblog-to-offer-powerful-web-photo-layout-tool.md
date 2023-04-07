@@ -1,4 +1,4 @@
-# Scrapblog 为网络带来强大的媒体布局——TechCrunch
+# Scrapblog 为网络带来强大的媒体布局
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/25/scrapblog-to-offer-powerful-web-photo-layout-tool/>
 

@@ -1,4 +1,4 @@
-# 索尼的 XAV-W1 SACD 播放器:车载 5.1 音效| TechCrunch
+# 索尼的 XAV-W1 SACD 播放器:车载 5.1 音效
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/sonys-xav-w1-sacd-player-in-car-51-sound/>
 

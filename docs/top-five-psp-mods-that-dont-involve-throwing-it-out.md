@@ -1,4 +1,4 @@
-# 五大不需要扔掉的 PSP mod——TechCrunch
+# 五大不需要扔掉的 PSP mod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/top-five-psp-mods-that-dont-involve-throwing-it-out/>
 

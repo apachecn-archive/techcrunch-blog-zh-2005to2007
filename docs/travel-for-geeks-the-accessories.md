@@ -1,4 +1,4 @@
-# 极客旅行:附件| TechCrunch
+# 极客旅行:附件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/travel-for-geeks-the-accessories/>
 

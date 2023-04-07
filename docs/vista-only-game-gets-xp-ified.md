@@ -1,4 +1,4 @@
-# 只有 Vista 的游戏获得 XP 化| TechCrunch
+# 只有 Vista 的游戏获得 XP 化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/vista-only-game-gets-xp-ified/>
 

@@ -1,4 +1,4 @@
-# Devshop 帮助按时交付更好的软件——TechCrunch
+# Devshop 帮助按时交付更好的软件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/25/devshop-helps-deliver-better-software-on-time/>
 

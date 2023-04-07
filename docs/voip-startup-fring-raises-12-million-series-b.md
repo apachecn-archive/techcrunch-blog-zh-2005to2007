@@ -1,4 +1,4 @@
-# VOIP 初创公司 Fring 融资 1200 万美元 B 轮——TechCrunch
+# VOIP 初创公司 Fring 融资 1200 万美元 B 轮
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/10/voip-startup-fring-raises-12-million-series-b/>
 

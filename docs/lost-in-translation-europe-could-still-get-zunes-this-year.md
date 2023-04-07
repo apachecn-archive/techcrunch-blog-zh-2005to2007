@@ -1,4 +1,4 @@
-# 迷失在翻译中:欧洲今年仍可能获得 Zune——TechCrunch
+# 迷失在翻译中:欧洲今年仍可能获得 Zune
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/lost-in-translation-europe-could-still-get-zunes-this-year/>
 

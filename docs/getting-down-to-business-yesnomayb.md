@@ -1,4 +1,4 @@
-# 言归正传:YesNoMayB–TechCrunch
+# 言归正传:YesNoMayB
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/20/getting-down-to-business-yesnomayb/>
 

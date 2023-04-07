@@ -1,4 +1,4 @@
-# CrunchGear.com 的六度计算竞赛——TechCrunch
+# CrunchGear.com 的六度计算竞赛
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/29/six-degrees-of-crunchation-contest-at-crunchgearcom/>
 

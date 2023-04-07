@@ -1,4 +1,4 @@
-# 垃圾箱首先带来新闻| TechCrunch
+# 垃圾箱首先带来新闻
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/10/in-a-bin-brings-news-first/>
 

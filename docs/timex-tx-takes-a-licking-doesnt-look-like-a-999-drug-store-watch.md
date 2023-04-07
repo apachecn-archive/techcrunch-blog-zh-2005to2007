@@ -1,4 +1,4 @@
-# 天美时 TX:舔舔，看起来不像 9.99 美元的药店手表——TechCrunch
+# 天美时 TX:舔舔，看起来不像 9.99 美元的药店手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/09/timex-tx-takes-a-licking-doesnt-look-like-a-999-drug-store-watch/>
 

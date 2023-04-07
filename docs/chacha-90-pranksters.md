@@ -1,4 +1,4 @@
-# ChaCha: 90%的恶作剧——TechCrunch
+# ChaCha: 90%的恶作剧
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/03/chacha-90-pranksters/>
 

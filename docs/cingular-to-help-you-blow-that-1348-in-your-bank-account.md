@@ -1,4 +1,4 @@
-# Cingular 帮助您挥霍银行账户中的 13.48 美元 TechCrunch
+# Cingular 帮助您挥霍银行账户中的 13.48 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/cingular-to-help-you-blow-that-1348-in-your-bank-account/>
 

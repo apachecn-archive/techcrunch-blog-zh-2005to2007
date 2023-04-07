@@ -1,4 +1,4 @@
-# 读者反应周三| TechCrunch
+# 读者反应周三
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/reader-response-week-three/>
 

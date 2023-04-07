@@ -1,4 +1,4 @@
-# 克莱弗·库特:终结愤怒？–TechCrunch
+# 克莱弗·库特:终结愤怒？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/klever-kutter-an-end-to-wrap-rage/>
 

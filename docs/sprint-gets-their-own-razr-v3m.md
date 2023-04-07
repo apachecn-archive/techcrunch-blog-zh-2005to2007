@@ -1,4 +1,4 @@
-# Sprint 获得自己的 RAZR V3m | TechCrunch
+# Sprint 获得自己的 RAZR V3m 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/sprint-gets-their-own-razr-v3m/>
 

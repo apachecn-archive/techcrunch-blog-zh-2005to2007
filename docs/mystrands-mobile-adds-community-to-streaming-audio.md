@@ -1,4 +1,4 @@
-# MyStrands Mobile 为流媒体音频添加社区——TechCrunch
+# MyStrands Mobile 为流媒体音频添加社区
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/14/mystrands-mobile-adds-community-to-streaming-audio/>
 

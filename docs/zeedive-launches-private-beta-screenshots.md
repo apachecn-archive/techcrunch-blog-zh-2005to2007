@@ -1,4 +1,4 @@
-# zeeDive 发布私人测试版:截图——TechCrunch
+# zeeDive 发布私人测试版:截图
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/28/zeedive-launches-private-beta-screenshots/>
 

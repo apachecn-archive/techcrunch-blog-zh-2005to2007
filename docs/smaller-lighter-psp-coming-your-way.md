@@ -1,4 +1,4 @@
-# 更小、更轻的 PSP 向你走来——TechCrunch
+# 更小、更轻的 PSP 向你走来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/smaller-lighter-psp-coming-your-way/>
 

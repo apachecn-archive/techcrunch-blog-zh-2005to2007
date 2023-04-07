@@ -1,4 +1,4 @@
-# Automattic 现在提供企业 WordPress 支持——TechCrunch
+# Automattic 现在提供企业 WordPress 支持
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/26/automattic-now-offers-enterprise-wordpress-support/>
 

@@ -1,4 +1,4 @@
-# 卡哈纳(Hotmail 测试版)-极端营销，新玩笑话 TechCrunch
+# 卡哈纳(Hotmail 测试版)-极端营销，新玩笑话 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/24/additional-teasers-for-kahuna-hotmail-beta/>
 

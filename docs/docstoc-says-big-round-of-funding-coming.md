@@ -1,4 +1,4 @@
-# Docstoc 称大规模融资即将到来；清点未孵化的小鸡——TechCrunch
+# Docstoc 称大规模融资即将到来；清点未孵化的小鸡
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/03/docstoc-says-big-round-of-funding-coming/>
 

@@ -1,4 +1,4 @@
-# 威瑞森讨厌被放大的客户，你——TechCrunch
+# 威瑞森讨厌被放大的客户，你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/25/verizon-hates-ampd-customers-you/>
 

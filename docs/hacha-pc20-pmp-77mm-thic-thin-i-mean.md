@@ -1,4 +1,4 @@
-# 哈查 PC20 PMP:7.7 毫米厚…我的意思是薄！TechCrunch
+# 哈查 PC20 PMP:7.7 毫米厚…我的意思是薄！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/hacha-pc20-pmp-77mm-thic-thin-i-mean/>
 

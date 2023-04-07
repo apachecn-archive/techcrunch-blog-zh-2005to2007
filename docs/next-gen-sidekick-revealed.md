@@ -1,4 +1,4 @@
-# 新一代助手亮相——TechCrunch
+# 新一代助手亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/next-gen-sidekick-revealed/>
 

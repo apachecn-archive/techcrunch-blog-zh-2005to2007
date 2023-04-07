@@ -1,4 +1,4 @@
-# 加密狗之死:ATI 的镭龙 X1950 Pro | TechCrunch
+# 加密狗之死:ATI 的镭龙 X1950 Pro 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/death-of-a-dongle-atis-radeon-x1950-pro/>
 

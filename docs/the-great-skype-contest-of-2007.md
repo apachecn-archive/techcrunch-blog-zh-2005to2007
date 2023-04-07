@@ -1,4 +1,4 @@
-# 2007 年 Skype 大赛| TechCrunch
+# 2007 年 Skype 大赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/the-great-skype-contest-of-2007/>
 

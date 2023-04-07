@@ -1,4 +1,4 @@
-# 机器鸡:星球大战 TechCrunch
+# 机器鸡:星球大战 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/robot-chicken-star-wars/>
 

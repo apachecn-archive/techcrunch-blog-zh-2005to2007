@@ -1,4 +1,4 @@
-# new tek TriCaster:10 磅重的电视演播室| TechCrunch
+# new tek TriCaster:10 磅重的电视演播室
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/newtek-tricaster-tv-studio-in-a-10-pound-box/>
 

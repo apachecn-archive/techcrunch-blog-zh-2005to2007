@@ -1,4 +1,4 @@
-# iPhone 漏洞:密码是“Dottie”——TechCrunch
+# iPhone 漏洞:密码是“Dottie”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/03/iphone-vulnerabilities-the-password-is-dottie/>
 

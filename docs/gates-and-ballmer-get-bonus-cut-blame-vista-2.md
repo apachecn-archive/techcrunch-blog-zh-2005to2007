@@ -1,4 +1,4 @@
-# 盖茨和鲍尔默削减奖金，归咎于 Vista | TechCrunch
+# 盖茨和鲍尔默削减奖金，归咎于 Vista 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/gates-and-ballmer-get-bonus-cut-blame-vista-2/>
 

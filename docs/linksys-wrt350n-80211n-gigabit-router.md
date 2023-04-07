@@ -1,4 +1,4 @@
-# Linksys WRT350N 802.11n 千兆路由器| TechCrunch
+# Linksys WRT350N 802.11n 千兆路由器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/16/linksys-wrt350n-80211n-gigabit-router/>
 

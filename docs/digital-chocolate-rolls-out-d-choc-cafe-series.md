@@ -1,4 +1,4 @@
-# 数字巧克力推出 D Choc 咖啡馆系列 TechCrunch
+# 数字巧克力推出 D Choc 咖啡馆系列 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/digital-chocolate-rolls-out-d-choc-cafe-series/>
 

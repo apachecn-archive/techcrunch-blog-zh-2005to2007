@@ -1,4 +1,4 @@
-# 希捷发布两款 1TB 硬盘——TechCrunch
+# 希捷发布两款 1TB 硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/seagate-announces-two-1tb-drives/>
 

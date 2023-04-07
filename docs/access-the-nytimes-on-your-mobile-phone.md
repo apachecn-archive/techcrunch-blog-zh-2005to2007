@@ -1,4 +1,4 @@
-# 用手机访问纽约时报——TechCrunch
+# 用手机访问纽约时报
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/access-the-nytimes-on-your-mobile-phone/>
 

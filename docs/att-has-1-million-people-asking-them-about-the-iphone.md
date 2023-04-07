@@ -1,4 +1,4 @@
-# 美国电话电报公司有 100 万人向他们询问 iPhone——TechCrunch
+# 美国电话电报公司有 100 万人向他们询问 iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/att-has-1-million-people-asking-them-about-the-iphone/>
 

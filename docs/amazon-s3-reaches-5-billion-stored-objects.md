@@ -1,4 +1,4 @@
-# 亚马逊 S3 存储了 50 亿个对象 TechCrunch
+# 亚马逊 S3 存储了 50 亿个对象 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/17/amazon-s3-reaches-5-billion-stored-objects/>
 

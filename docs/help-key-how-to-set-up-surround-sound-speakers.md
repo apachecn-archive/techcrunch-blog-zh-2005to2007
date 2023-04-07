@@ -1,4 +1,4 @@
-# 帮助提示:如何设置环绕声扬声器——TechCrunch
+# 帮助提示:如何设置环绕声扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/help-key-how-to-set-up-surround-sound-speakers/>
 

@@ -1,4 +1,4 @@
-# BT Contact 进入公测——TechCrunch
+# BT Contact 进入公测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/bt-contact-enters-public-beta/>
 

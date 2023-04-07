@@ -1,4 +1,4 @@
-# CodexNovus HDcodex 高清服务器:1TB 存储世界上所有的高清内容| TechCrunch
+# CodexNovus HDcodex 高清服务器:1TB 存储世界上所有的高清内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/codexnovus-hdcodex-hi-def-servers-1tb-to-store-all-the-hi-def-in-the-world/>
 

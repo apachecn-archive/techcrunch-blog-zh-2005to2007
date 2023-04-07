@@ -1,4 +1,4 @@
-# 建伍的无缝娱乐理念——TechCrunch
+# 建伍的无缝娱乐理念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/09/kenwoods-idea-of-seamless-entertainment/>
 

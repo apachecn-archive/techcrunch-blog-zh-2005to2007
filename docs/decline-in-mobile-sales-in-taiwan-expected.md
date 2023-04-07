@@ -1,4 +1,4 @@
-# 预计台湾手机销量将下降——TechCrunch
+# 预计台湾手机销量将下降
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/decline-in-mobile-sales-in-taiwan-expected/>
 

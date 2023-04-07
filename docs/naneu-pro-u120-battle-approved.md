@@ -1,4 +1,4 @@
-# Naneu Pro u120 手包| TechCrunch
+# Naneu Pro u120 手包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/28/naneu-pro-u120-battle-approved/>
 

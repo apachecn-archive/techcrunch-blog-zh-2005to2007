@@ -1,4 +1,4 @@
-# 雷·奥茨将取代盖茨成为首席软件架构师——TechCrunch
+# 雷·奥茨将取代盖茨成为首席软件架构师
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/15/ray-ozzie-to-replace-gates-as-chief-software-architect-2/>
 

@@ -1,4 +1,4 @@
-# Xbox 360 升级版将于 2007 年推出——TechCrunch
+# Xbox 360 升级版将于 2007 年推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/xbox-360-uprade-coming-in-2007/>
 

@@ -1,4 +1,4 @@
-# 马里奥的搬家日？TechCrunch
+# 马里奥的搬家日？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/moving-day-for-mario/>
 

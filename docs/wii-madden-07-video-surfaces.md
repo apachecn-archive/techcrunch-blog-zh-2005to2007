@@ -1,4 +1,4 @@
-# Wii Madden '07 视频表面| TechCrunch
+# Wii Madden '07 视频表面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/wii-madden-07-video-surfaces/>
 

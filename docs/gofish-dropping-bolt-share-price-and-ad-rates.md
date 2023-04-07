@@ -1,4 +1,4 @@
-# GoFish 下降螺栓、股价和广告费率 TechCrunch
+# GoFish 下降螺栓、股价和广告费率 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/01/gofish-dropping-bolt-share-price-and-ad-rates/>
 

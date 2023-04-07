@@ -1,4 +1,4 @@
-# 微软不收购雅虎的 10 个理由！TechCrunch
+# 微软不收购雅虎的 10 个理由！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/10-reasons-why-microsoft-wont-buy-yahoo/>
 

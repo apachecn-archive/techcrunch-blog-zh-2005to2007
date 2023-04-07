@@ -1,4 +1,4 @@
-# 小团体:ChosenVIP | TechCrunch
+# 小团体:ChosenVIP 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/14/clique-this-chosenvip/>
 

@@ -1,4 +1,4 @@
-# 苹果是在复活魔方吗？TechCrunch
+# 苹果是在复活魔方吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/is-apple-resurrecting-the-cube/>
 

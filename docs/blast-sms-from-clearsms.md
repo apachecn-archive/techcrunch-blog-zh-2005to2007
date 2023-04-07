@@ -1,4 +1,4 @@
-# 来自 ClearSMS 的 blast SMS–TechCrunch
+# 来自 ClearSMS 的 blast SMS
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/blast-sms-from-clearsms/>
 

@@ -1,4 +1,4 @@
-# iTaggit:个人资产管理–TechCrunch
+# iTaggit:个人资产管理
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/28/itaggit-personal-asset-management/>
 

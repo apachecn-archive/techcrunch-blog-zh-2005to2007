@@ -1,4 +1,4 @@
-# 雅虎！选择[windows] mobile。TechCrunch
+# 雅虎！选择[windows] mobile。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/yahoo-go-for-windows-mobile/>
 

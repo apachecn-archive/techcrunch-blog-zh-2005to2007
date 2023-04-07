@@ -1,4 +1,4 @@
-# 我要去度假了| TechCrunch
+# 我要去度假了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/18/im-going-on-vacation/>
 

@@ -1,4 +1,4 @@
-# OpenKapow:不太整洁——TechCrunch
+# OpenKapow:不太整洁
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/openkapow-not-quite-dapper>
 

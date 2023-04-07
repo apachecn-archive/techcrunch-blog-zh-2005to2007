@@ -1,4 +1,4 @@
-# 联邦通信委员会需要倾听谷歌 TechCrunch
+# 联邦通信委员会需要倾听谷歌 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/22/the-fcc-needs-to-listen-to-google/#comments>
 

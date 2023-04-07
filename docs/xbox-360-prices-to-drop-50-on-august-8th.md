@@ -1,4 +1,4 @@
-# Xbox 360 价格将在 8 月 8 日下降 50 美元？TechCrunch
+# Xbox 360 价格将在 8 月 8 日下降 50 美元？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/xbox-360-prices-to-drop-50-on-august-8th/>
 

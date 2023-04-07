@@ -1,4 +1,4 @@
-# 索尼高清视频随身听进军欧洲——TechCrunch
+# 索尼高清视频随身听进军欧洲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/sony-hd-video-walkman-bound-for-europe/>
 

@@ -1,4 +1,4 @@
-# 手机电池备份| TechCrunch
+# 手机电池备份
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/battery-backup-in-a-cellphone/>
 

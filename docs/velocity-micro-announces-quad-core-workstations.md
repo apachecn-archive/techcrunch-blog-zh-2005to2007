@@ -1,4 +1,4 @@
-# Velocity Micro 宣布推出四核工作站| TechCrunch
+# Velocity Micro 宣布推出四核工作站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/velocity-micro-announces-quad-core-workstations/>
 

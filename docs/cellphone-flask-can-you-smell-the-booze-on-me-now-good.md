@@ -1,4 +1,4 @@
-# 手机水瓶:你现在能闻到我身上的酒味吗？很好！–TechCrunch
+# 手机水瓶:你现在能闻到我身上的酒味吗？很好！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/25/cellphone-flask-can-you-smell-the-booze-on-me-now-good/>
 

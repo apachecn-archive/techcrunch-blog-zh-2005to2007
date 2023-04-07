@@ -1,4 +1,4 @@
-# SanDisk 的 sansa Connect–TechCrunch
+# SanDisk 的 sansa Connect
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/sansa-connect-by-sandisk/>
 

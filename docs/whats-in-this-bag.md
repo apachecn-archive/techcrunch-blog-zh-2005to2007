@@ -1,4 +1,4 @@
-# 这个包里有什么？TechCrunch
+# 这个包里有什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/whats-in-this-bag/>
 

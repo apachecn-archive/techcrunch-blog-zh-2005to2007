@@ -1,4 +1,4 @@
-# CG/CTIA 猛打| TechCrunch
+# CG/CTIA 猛打
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/cgctia-smack-down/>
 

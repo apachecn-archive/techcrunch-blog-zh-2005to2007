@@ -1,4 +1,4 @@
-# 去 CTIA 无线| TechCrunch
+# 去 CTIA 无线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/25/off-to-ctia-wireless/>
 

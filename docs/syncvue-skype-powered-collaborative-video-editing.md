@@ -1,4 +1,4 @@
-# SyncVUE: Skype 支持的协作视频编辑–TechCrunch
+# SyncVUE: Skype 支持的协作视频编辑
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/14/syncvue-skype-powered-collaborative-video-editing/>
 

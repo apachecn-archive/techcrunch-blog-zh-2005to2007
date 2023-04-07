@@ -1,4 +1,4 @@
-# iPhone 固件释放 Widgets 和 FM 调谐器——TechCrunch
+# iPhone 固件释放 Widgets 和 FM 调谐器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/iphone-firmware-unleashes-widgets-and-fm-tuner/>
 

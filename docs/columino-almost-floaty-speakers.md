@@ -1,4 +1,4 @@
-# Columino 几乎是浮动的扬声器——TechCrunch
+# Columino 几乎是浮动的扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/columino-almost-floaty-speakers/>
 

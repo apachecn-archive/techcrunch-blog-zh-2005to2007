@@ -1,4 +1,4 @@
-# Cingular HSDPA 获得 Effing Fast，7.2Mbps fast | TechCrunch
+# Cingular HSDPA 获得 Effing Fast，7.2Mbps fast 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/cingular-hsdpa-to-get-effing-fast-72mbps-fast/>
 

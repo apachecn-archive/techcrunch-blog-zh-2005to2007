@@ -1,4 +1,4 @@
-# People4business 帮助投资组合工作者| TechCrunch
+# People4business 帮助投资组合工作者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/11/people4business-helps-the-portfolio-worker/>
 

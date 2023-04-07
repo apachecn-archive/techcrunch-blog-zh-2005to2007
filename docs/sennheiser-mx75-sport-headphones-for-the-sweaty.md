@@ -1,4 +1,4 @@
-# Sennheiser MX75 运动型耳机，适合出汗者| TechCrunch
+# Sennheiser MX75 运动型耳机，适合出汗者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/30/sennheiser-mx75-sport-headphones-for-the-sweaty/>
 

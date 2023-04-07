@@ -1,4 +1,4 @@
-# Ifrogz 周二——TechCrunch
+# Ifrogz 周二
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/tuesdays-with-ifrogz/>
 

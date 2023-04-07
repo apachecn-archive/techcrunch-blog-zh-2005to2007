@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯展示真正的 iPhone——TechCrunch
+# 史蒂夫·乔布斯展示真正的 iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/14/steve-jobs-shows-off-the-real-iphone/>
 

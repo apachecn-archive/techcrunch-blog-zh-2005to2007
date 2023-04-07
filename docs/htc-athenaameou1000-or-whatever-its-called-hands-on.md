@@ -1,4 +1,4 @@
-# HTC Athena/Ameo/U1000 或其他什么东西| TechCrunch
+# HTC Athena/Ameo/U1000 或其他什么东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/htc-athenaameou1000-or-whatever-its-called-hands-on/>
 

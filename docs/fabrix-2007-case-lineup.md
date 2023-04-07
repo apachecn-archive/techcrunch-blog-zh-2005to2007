@@ -1,4 +1,4 @@
-# Fabrix 2007 案例阵容| TechCrunch
+# Fabrix 2007 案例阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/fabrix-2007-case-lineup/>
 

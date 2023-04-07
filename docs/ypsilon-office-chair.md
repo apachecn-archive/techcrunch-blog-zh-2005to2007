@@ -1,4 +1,4 @@
-# Ypsilon 办公椅| TechCrunch
+# Ypsilon 办公椅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/ypsilon-office-chair/>
 

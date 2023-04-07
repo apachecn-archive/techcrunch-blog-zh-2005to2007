@@ -1,4 +1,4 @@
-# 细胞处理器:PS3 和现在的铁拳 6——TechCrunch 的大脑
+# 细胞处理器:PS3 和现在的铁拳 6 的大脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/the-cell-processor-the-brains-of-the-ps3-and-now-tekken-6/>
 

@@ -1,4 +1,4 @@
-# DS:“我要像 Wii 一样！”TechCrunch
+# DS:“我要像 Wii 一样！”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/ds-i-want-to-be-like-wii/>
 

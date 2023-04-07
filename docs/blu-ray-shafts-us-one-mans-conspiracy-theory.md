@@ -1,4 +1,4 @@
-# 蓝光刺痛了我们？一个人的阴谋论——TechCrunch
+# 蓝光刺痛了我们？一个人的阴谋论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/blu-ray-shafts-us-one-mans-conspiracy-theory/>
 

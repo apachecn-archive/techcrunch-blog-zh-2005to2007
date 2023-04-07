@@ -1,4 +1,4 @@
-# 谷歌音频广告受阻 TechCrunch
+# 谷歌音频广告受阻 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/18/google-audio-ads-snag>
 

@@ -1,4 +1,4 @@
-# 有史以来最丑的 12 个小玩意——TechCrunch
+# 有史以来最丑的 12 个小玩意
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/16/the-12-ugliest-gadgets-of-all-time/>
 

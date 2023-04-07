@@ -1,4 +1,4 @@
-# 与“自行车软行”押韵的公司有史以来最差的广告——TechCrunch
+# 与“自行车软行”押韵的公司有史以来最差的广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/worst-commercial-ever-from-company-that-rhymes-with-dikes-row-soft/>
 

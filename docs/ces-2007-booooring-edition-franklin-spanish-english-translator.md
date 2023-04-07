@@ -1,4 +1,4 @@
-# CES 2007 Booooring Edition:Franklin 西班牙语-英语翻译| TechCrunch
+# CES 2007 Booooring Edition:Franklin 西班牙语-英语翻译
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/10/ces-2007-booooring-edition-franklin-spanish-english-translator/>
 

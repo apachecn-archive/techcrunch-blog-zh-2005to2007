@@ -1,4 +1,4 @@
-# OKWAP(谁？？)发布手机——TechCrunch
+# OKWAP(谁？？)发布手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/okwap-jumps-in-with-the-sharks-draft/>
 

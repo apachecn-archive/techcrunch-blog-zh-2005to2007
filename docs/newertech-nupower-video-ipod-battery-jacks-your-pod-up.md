@@ -1,4 +1,4 @@
-# 纽泰克 Nupower 视频+ iPod 电池插孔你的'豆荚了！TechCrunch
+# 纽泰克 Nupower 视频+ iPod 电池插孔你的'豆荚了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/newertech-nupower-video-ipod-battery-jacks-your-pod-up/>
 

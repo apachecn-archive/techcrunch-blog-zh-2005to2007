@@ -1,4 +1,4 @@
-# MeeVee 裁员 20%——TechCrunch
+# MeeVee 裁员 20%
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/16/meevee-cuts-20-of-staff/>
 

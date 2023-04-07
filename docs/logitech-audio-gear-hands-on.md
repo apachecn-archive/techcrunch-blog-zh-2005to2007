@@ -1,4 +1,4 @@
-# 罗技音频设备实践| TechCrunch
+# 罗技音频设备实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/logitech-audio-gear-hands-on/>
 

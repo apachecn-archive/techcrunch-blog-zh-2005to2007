@@ -1,4 +1,4 @@
-# Technorati 又失去了两个三个 TechCrunch
+# Technorati 又失去了两个三个 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/03/technorati-loses-2-more/>
 

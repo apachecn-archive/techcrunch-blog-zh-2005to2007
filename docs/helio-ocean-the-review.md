@@ -1,4 +1,4 @@
-# Helio Ocean:评论——TechCrunch
+# Helio Ocean:评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/helio-ocean-the-review/>
 

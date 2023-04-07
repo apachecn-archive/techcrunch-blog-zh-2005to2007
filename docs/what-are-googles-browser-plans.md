@@ -1,4 +1,4 @@
-# 谷歌的浏览器计划是什么？–TechCrunch
+# 谷歌的浏览器计划是什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/15/what-are-googles-browser-plans/>
 

@@ -1,4 +1,4 @@
-# 翻转视频:摄像机到 YouTube，自动| TechCrunch
+# 翻转视频:摄像机到 YouTube，自动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/01/flip-video-camcorder-to-youtube-automagically/>
 

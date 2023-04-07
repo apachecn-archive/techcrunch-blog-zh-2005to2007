@@ -1,4 +1,4 @@
-# Google Talk 更新，AOL 互操作–TechCrunch
+# Google Talk 更新，AOL 互操作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/17/google-talk-updates-aol-interop/>
 

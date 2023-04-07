@@ -1,4 +1,4 @@
-# iPhone 的 iChat 可能很快就要推出了——TechCrunch
+# iPhone 的 iChat 可能很快就要推出了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/08/ichat-for-the-iphone-could-be-coming-soon/>
 

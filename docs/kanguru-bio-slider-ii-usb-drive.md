@@ -1,4 +1,4 @@
-# Kanguru Bio Slider II USB 驱动器可以读取您的指纹，因此您不必| TechCrunch
+# Kanguru Bio Slider II USB 驱动器可以读取您的指纹，因此您不必
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/07/kanguru-bio-slider-ii-usb-drive/>
 

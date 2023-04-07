@@ -1,4 +1,4 @@
-# Miracube 3D 32 英寸液晶显示器–TechCrunch
+# Miracube 3D 32 英寸液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/miracube-3d-32-inch-lcd/>
 

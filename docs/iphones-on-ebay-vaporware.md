@@ -1,4 +1,4 @@
-# iPhone 在易贝= Vaporware | TechCrunch
+# iPhone 在易贝= Vaporware 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/iphones-on-ebay-vaporware/>
 

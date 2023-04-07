@@ -1,4 +1,4 @@
-# 诺基亚 N800:优步-简单操作| TechCrunch
+# 诺基亚 N800:优步-简单操作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/nokia-n800-uber-brief-hands-on/>
 

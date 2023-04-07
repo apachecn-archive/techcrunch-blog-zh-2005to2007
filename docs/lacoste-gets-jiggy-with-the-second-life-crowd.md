@@ -1,4 +1,4 @@
-# Lacoste 与第二人生的人群一起摇摆——TechCrunch
+# Lacoste 与第二人生的人群一起摇摆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/09/lacoste-gets-jiggy-with-the-second-life-crowd/>
 

@@ -1,4 +1,4 @@
-# WebEX 将很快实现移动化——TechCrunch
+# WebEX 将很快实现移动化
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/25/webex-to-go-mobile-with-soonr/>
 

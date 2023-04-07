@@ -1,4 +1,4 @@
-# 第一个北美 PS3 广告| TechCrunch
+# 第一个北美 PS3 广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/first-north-american-ps3-ad/>
 

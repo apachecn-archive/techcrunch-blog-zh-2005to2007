@@ -1,4 +1,4 @@
-# 富士胶片 S9100:不是单反，但是谁算呢？TechCrunch
+# 富士胶片 S9100:不是单反，但是谁算呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/fujifilm-s9100-its-not-an-slr-but-whos-counting/>
 

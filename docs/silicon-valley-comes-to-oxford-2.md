@@ -1,4 +1,4 @@
-# 硅谷来到牛津| TechCrunch
+# 硅谷来到牛津
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/silicon-valley-comes-to-oxford-2/>
 

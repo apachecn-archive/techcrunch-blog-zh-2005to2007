@@ -1,4 +1,4 @@
-# 诺基亚推出手机 WidSet widget——TechCrunch
+# 诺基亚推出手机 WidSet widget
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/nokia-launches-widset-widgets-for-mobiles/>
 

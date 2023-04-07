@@ -1,4 +1,4 @@
-# 戴尔将 AMD 移动 CPU 加入笔记本电脑阵容| TechCrunch
+# 戴尔将 AMD 移动 CPU 加入笔记本电脑阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/dell-adds-amd-mobile-cpus-to-laptop-lineup/>
 

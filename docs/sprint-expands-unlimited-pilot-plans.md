@@ -1,4 +1,4 @@
-# Sprint 扩大无限试点计划——TechCrunch
+# Sprint 扩大无限试点计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/sprint-expands-unlimited-pilot-plans/>
 

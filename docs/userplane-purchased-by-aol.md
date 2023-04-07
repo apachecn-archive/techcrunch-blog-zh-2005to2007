@@ -1,4 +1,4 @@
-# 美国在线购买的用户平面——TechCrunch
+# 美国在线购买的用户平面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/08/14/userplane-purchased-by-aol/>
 

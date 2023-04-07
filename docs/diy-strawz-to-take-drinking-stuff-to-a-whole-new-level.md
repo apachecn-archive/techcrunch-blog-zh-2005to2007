@@ -1,4 +1,4 @@
-# DIY Strawz 将饮料提升到一个全新的水平——TechCrunch
+# DIY Strawz 将饮料提升到一个全新的水平
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/diy-strawz-to-take-drinking-stuff-to-a-whole-new-level/>
 

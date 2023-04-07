@@ -1,4 +1,4 @@
-# 肯辛顿提供带调频收音机的 iPod 扬声器| TechCrunch
+# 肯辛顿提供带调频收音机的 iPod 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/kensington-offers-ipod-speakers-with-fm-radio/>
 

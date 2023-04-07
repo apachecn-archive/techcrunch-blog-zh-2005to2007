@@ -1,4 +1,4 @@
-# 苹果新的 Xserve——TechCrunch
+# 苹果新的 Xserve
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/18/apples-new-xserve/>
 

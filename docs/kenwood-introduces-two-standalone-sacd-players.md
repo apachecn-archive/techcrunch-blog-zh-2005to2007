@@ -1,4 +1,4 @@
-# 建伍引入了两个独立的 SACD 玩家——TechCrunch
+# 建伍引入了两个独立的 SACD 玩家
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/11/kenwood-introduces-two-standalone-sacd-players/>
 

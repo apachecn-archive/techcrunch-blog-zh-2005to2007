@@ -1,4 +1,4 @@
-# 谷歌击败了微软，赢得了 TechCrunch
+# 谷歌击败了微软，赢得了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/19/google-stares-down-microsoft-and-wins/>
 

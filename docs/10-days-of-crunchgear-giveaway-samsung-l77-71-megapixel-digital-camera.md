@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:三星 L77 7.1 万像素数码相机| TechCrunch
+# 10 天的 CrunchGear 赠品:三星 L77 7.1 万像素数码相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/10-days-of-crunchgear-giveaway-samsung-l77-71-megapixel-digital-camera/>
 

@@ -1,4 +1,4 @@
-# 瓶盖相机盒让你的相机保持不动，这样你就不用担心了——TechCrunch
+# 瓶盖相机盒让你的相机保持不动，这样你就不用担心了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/bottle-top-camera-pod-keeps-your-camera-still-so-you-dont-have-to/>
 

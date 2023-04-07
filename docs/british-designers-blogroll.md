@@ -1,4 +1,4 @@
-# 英国设计师 blogroll。–TechCrunch
+# 英国设计师 blogroll。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/british-designers-blogroll/>
 

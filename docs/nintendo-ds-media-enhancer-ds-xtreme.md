@@ -1,4 +1,4 @@
-# 任天堂 DS 媒体增强器:DS-Xtreme | TechCrunch
+# 任天堂 DS 媒体增强器:DS-Xtreme 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/nintendo-ds-media-enhancer-ds-xtreme/>
 

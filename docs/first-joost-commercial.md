@@ -1,4 +1,4 @@
-# 第一个 Joost 商业广告——TechCrunch
+# 第一个 Joost 商业广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/30/first-joost-commercial/>
 

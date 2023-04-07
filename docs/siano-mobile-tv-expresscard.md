@@ -1,4 +1,4 @@
-# 夏诺移动电视 express card–TechCrunch
+# 夏诺移动电视 express card
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/siano-mobile-tv-expresscard/>
 

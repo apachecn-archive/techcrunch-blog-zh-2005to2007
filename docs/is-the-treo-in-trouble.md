@@ -1,4 +1,4 @@
-# Treo 有麻烦了吗？–TechCrunch
+# Treo 有麻烦了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/is-the-treo-in-trouble/>
 

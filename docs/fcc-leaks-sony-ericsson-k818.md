@@ -1,4 +1,4 @@
-# FCC 泄露索尼爱立信 K818 | TechCrunch
+# FCC 泄露索尼爱立信 K818 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/fcc-leaks-sony-ericsson-k818/>
 

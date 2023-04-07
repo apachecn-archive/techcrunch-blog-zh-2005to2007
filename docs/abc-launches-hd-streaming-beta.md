@@ -1,4 +1,4 @@
-# ABC 推出高清流媒体测试版| TechCrunch
+# ABC 推出高清流媒体测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/abc-launches-hd-streaming-beta/>
 

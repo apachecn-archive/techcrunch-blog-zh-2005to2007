@@ -1,4 +1,4 @@
-# Modtendo #442:经典游戏手柄之外的无线控制器——TechCrunch
+# Modtendo #442:经典游戏手柄之外的无线控制器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/21/modtendo-442-wireless-controllers-out-of-classic-gamepads/>
 

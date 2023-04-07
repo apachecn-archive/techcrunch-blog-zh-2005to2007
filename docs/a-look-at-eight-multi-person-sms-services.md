@@ -1,4 +1,4 @@
-# 看看八种多人短信服务——TechCrunch
+# 看看八种多人短信服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/27/a-look-at-eight-multi-person-sms-services/>
 

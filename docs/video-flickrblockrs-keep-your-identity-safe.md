@@ -1,4 +1,4 @@
-# 视频:flickrblockrs 保护你的身份安全——TechCrunch
+# 视频:flickrblockrs 保护你的身份安全
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/video-flickrblockrs-keep-your-identity-safe/>
 

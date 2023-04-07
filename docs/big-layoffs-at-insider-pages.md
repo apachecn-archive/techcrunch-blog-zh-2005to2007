@@ -1,4 +1,4 @@
-# 内幕页面大裁员 TechCrunch
+# 内幕页面大裁员 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/07/big-layoffs-at-insider-pages/>
 

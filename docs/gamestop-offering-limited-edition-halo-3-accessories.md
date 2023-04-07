@@ -1,4 +1,4 @@
-# GameStop 提供限量版 Halo 3 配件——TechCrunch
+# GameStop 提供限量版 Halo 3 配件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/gamestop-offering-limited-edition-halo-3-accessories/>
 

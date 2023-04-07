@@ -1,4 +1,4 @@
-# TechWeb 博客-X 大奖 TechCrunch
+# TechWeb 博客-X 大奖 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/27/techweb-blog-x-award/>
 

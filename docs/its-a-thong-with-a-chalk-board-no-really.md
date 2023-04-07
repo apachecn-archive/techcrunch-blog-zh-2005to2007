@@ -1,4 +1,4 @@
-# 是带粉笔板的丁字裤。不，真的| TechCrunch
+# 是带粉笔板的丁字裤。不，真的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/its-a-thong-with-a-chalk-board-no-really/>
 

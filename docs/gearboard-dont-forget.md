@@ -1,4 +1,4 @@
-# 齿轮板:别忘了！–TechCrunch
+# 齿轮板:别忘了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/gearboard-dont-forget/>
 

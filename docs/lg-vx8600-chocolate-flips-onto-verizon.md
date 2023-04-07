@@ -1,4 +1,4 @@
-# LG VX8600 巧克力翻转到威瑞森——TechCrunch
+# LG VX8600 巧克力翻转到威瑞森
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/lg-vx8600-chocolate-flips-onto-verizon/>
 

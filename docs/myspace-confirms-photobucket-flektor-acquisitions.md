@@ -1,4 +1,4 @@
-# 福克斯互动确认收购 Photobucket、Flektor–TechCrunch
+# 福克斯互动确认收购 Photobucket、Flektor
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/30/myspace-confirms-photobucket-flektor-acquisitions/>
 

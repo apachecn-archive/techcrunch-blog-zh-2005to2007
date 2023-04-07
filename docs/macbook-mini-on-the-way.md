@@ -1,4 +1,4 @@
-# MacBook Mini 在路上？TechCrunch
+# MacBook Mini 在路上？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/16/macbook-mini-on-the-way/>
 

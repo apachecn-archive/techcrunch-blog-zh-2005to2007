@@ -1,4 +1,4 @@
-# Smartsheet 使用亚马逊的 S3 | TechCrunch 提供存储和共享
+# Smartsheet 使用亚马逊的 S3  提供存储和共享
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/06/smartsheet-provides-storage-and-sharing-using-amazons-a3/>
 

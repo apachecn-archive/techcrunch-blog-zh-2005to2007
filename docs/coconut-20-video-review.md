@@ -1,4 +1,4 @@
-# 椰子 2.0 视频回顾| TechCrunch
+# 椰子 2.0 视频回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/coconut-20-video-review/>
 

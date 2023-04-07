@@ -1,4 +1,4 @@
-# 愚蠢的婴儿:Playskool 和创意团队合作–TechCrunch
+# 愚蠢的婴儿:Playskool 和创意团队合作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/stupid-babies-playskool-and-creative-team-up/>
 

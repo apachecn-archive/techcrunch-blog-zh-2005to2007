@@ -1,4 +1,4 @@
-# MingleNow 让顶级用户成为现实生活中的贵宾——TechCrunch
+# MingleNow 让顶级用户成为现实生活中的贵宾
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/09/05/minglenow-to-make-top-users-vips-in-real-life/>
 

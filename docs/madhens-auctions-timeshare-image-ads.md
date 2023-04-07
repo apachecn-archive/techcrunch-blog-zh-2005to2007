@@ -1,4 +1,4 @@
-# Madhens 拍卖分时度假图像广告–TechCrunch
+# Madhens 拍卖分时度假图像广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/26/madhens-auctions-timeshare-image-ads/>
 

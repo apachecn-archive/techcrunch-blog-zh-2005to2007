@@ -1,4 +1,4 @@
-# 华盛顿现在看维基百科。这应该不错。TechCrunch
+# 华盛顿现在看维基百科。这应该不错。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/22/washingtonwatch-now-a-wiki-this-should-be-good/>
 

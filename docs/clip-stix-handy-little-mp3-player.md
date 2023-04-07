@@ -1,4 +1,4 @@
-# Clip Stix:方便的小型 MP3 播放器——TechCrunch
+# Clip Stix:方便的小型 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/clip-stix-handy-little-mp3-player/>
 

@@ -1,4 +1,4 @@
-# Synaptics MobileTouch 登陆华为 U550 手机| TechCrunch
+# Synaptics MobileTouch 登陆华为 U550 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/synaptics-mobiletouch-lands-in-huawei-u550-phone/>
 

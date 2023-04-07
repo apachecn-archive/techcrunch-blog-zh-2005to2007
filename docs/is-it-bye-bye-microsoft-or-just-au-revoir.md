@@ -1,4 +1,4 @@
-# 是与微软说再见，还是就此作别？–TechCrunch
+# 是与微软说再见，还是就此作别？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/01/is-it-bye-bye-microsoft-or-just-au-revoir/>
 

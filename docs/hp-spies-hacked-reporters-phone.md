@@ -1,4 +1,4 @@
-# 惠普间谍侵入记者手机——TechCrunch
+# 惠普间谍侵入记者手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/hp-spies-hacked-reporters-phone/>
 

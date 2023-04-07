@@ -1,4 +1,4 @@
-# 简介:名人闪烁 TechCrunch
+# 简介:名人闪烁 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2005/06/27/profile-celebrity-flicker/>
 

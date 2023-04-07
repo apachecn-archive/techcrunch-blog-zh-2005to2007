@@ -1,4 +1,4 @@
-# Salesforce 是收购诱饵——TechCrunch
+# Salesforce 是收购诱饵
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/04/salesforce-is-acquisition-bait/>
 

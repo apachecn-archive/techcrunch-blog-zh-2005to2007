@@ -1,4 +1,4 @@
-# 苹果起诉，再次起诉侵犯版权——TechCrunch
+# 苹果起诉，再次起诉侵犯版权
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/apple-sued-sued-again-for-copyright-infringement/>
 

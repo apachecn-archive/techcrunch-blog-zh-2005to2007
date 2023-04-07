@@ -1,4 +1,4 @@
-# 德尔福 SkyFi3 XM 收音机配有可移动存储——TechCrunch
+# 德尔福 SkyFi3 XM 收音机配有可移动存储
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/delphi-skyfi3-xm-radio-has-removable-storage/>
 

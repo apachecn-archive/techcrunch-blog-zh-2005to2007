@@ -1,4 +1,4 @@
-# M-EKURDR，适用于左撇子畸形| TechCrunch
+# M-EKURDR，适用于左撇子畸形
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/m-ekurdr-for-left-handed-freaks/>
 

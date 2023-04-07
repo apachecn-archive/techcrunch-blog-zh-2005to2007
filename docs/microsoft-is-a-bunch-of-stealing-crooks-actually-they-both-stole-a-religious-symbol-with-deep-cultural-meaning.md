@@ -1,4 +1,4 @@
-# 微软是一群偷窃的骗子(实际上，他们都偷了一个具有深刻文化意义的宗教符号)| TechCrunch
+# 微软是一群偷窃的骗子(实际上，他们都偷了一个具有深刻文化意义的宗教符号)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/16/microsoft-is-a-bunch-of-stealing-crooks-actually-they-both-stole-a-religious-symbol-with-deep-cultural-meaning/>
 

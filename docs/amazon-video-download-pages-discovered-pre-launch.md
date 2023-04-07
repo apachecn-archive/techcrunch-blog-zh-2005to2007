@@ -1,4 +1,4 @@
-# 发布前发现的亚马逊视频下载页面 TechCrunch
+# 发布前发现的亚马逊视频下载页面 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/18/amazon-video-download-pages-discovered-pre-launch/>
 

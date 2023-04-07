@@ -1,4 +1,4 @@
-# Gigya 在顶级小工具公司中大获全胜| TechCrunch
+# Gigya 在顶级小工具公司中大获全胜
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/10/gigyas-big-win-with-top-widget-companies/>
 

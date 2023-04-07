@@ -1,4 +1,4 @@
-# Zune:不欢迎使用 Vista Social | TechCrunch
+# Zune:不欢迎使用 Vista Social 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/zune-not-welcome-to-the-vista-social/>
 

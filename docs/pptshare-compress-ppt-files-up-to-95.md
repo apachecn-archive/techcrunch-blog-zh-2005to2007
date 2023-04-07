@@ -1,4 +1,4 @@
-# PPTShare:将 PowerPoint 文件压缩高达 95%——TechCrunch
+# PPTShare:将 PowerPoint 文件压缩高达 95%
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/23/pptshare-compress-ppt-files-up-to-95/>
 

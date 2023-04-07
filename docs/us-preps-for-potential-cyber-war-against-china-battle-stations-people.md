@@ -1,4 +1,4 @@
-# 美国为针对中国的潜在网络战做准备:战斗岗位，人们！–TechCrunch
+# 美国为针对中国的潜在网络战做准备:战斗岗位，人们！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/15/us-preps-for-potential-cyber-war-against-china-battle-stations-people/>
 

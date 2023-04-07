@@ -1,4 +1,4 @@
-# BoxWave 推出新款 iPod Nano 2G 保护套| TechCrunch
+# BoxWave 推出新款 iPod Nano 2G 保护套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/boxwave-introduces-new-ipod-nano-2g-cases/>
 

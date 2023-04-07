@@ -1,4 +1,4 @@
-# 苹果发布 Macbook“支持”页面| TechCrunch
+# 苹果发布 Macbook“支持”页面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/apple-posts-macbook-support-page/>
 

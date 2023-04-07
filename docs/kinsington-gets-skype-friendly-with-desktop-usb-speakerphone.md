@@ -1,4 +1,4 @@
-# Kensington 通过桌面 USB 扬声器支持 Skype——TechCrunch
+# Kensington 通过桌面 USB 扬声器支持 Skype
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/24/kinsington-gets-skype-friendly-with-desktop-usb-speakerphone/>
 

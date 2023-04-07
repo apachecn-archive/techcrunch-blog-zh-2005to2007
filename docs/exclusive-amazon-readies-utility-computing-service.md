@@ -1,4 +1,4 @@
-# 几乎独家报道:亚马逊准备好实用计算服务 TechCrunch
+# 几乎独家报道:亚马逊准备好实用计算服务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/24/exclusive-amazon-readies-utility-computing-service/>
 

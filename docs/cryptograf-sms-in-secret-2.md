@@ -1,4 +1,4 @@
-# CryptoGraf:秘密短信——TechCrunch
+# CryptoGraf:秘密短信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/cryptograf-sms-in-secret-2/>
 

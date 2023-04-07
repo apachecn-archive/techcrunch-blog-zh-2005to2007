@@ -1,4 +1,4 @@
-# 你不认为这个迷因是关于死亡的吗？TechCrunch
+# 你不认为这个迷因是关于死亡的吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/19/dontcha-think-this-meme-is-about-dead/>
 

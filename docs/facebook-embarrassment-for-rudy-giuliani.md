@@ -1,4 +1,4 @@
-# 脸书让鲁迪·朱利安尼尴尬 TechCrunch
+# 脸书让鲁迪·朱利安尼尴尬 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/06/facebook-embarrassment-for-rudy-giuliani/>
 

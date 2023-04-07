@@ -1,4 +1,4 @@
-# iHome iH82:您熟悉并喜爱的 iHome 扬声器基座，现在有两个扬声器| TechCrunch
+# iHome iH82:您熟悉并喜爱的 iHome 扬声器基座，现在有两个扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/ihome-ih82-the-ihome-speaker-dock-you-know-and-love-now-with-two-speakers/>
 

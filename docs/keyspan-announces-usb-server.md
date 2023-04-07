@@ -1,4 +1,4 @@
-# Keyspan 宣布推出 USB 服务器| TechCrunch
+# Keyspan 宣布推出 USB 服务器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/keyspan-announces-usb-server/>
 

@@ -1,4 +1,4 @@
-# 达拉斯-沃斯堡的按使用量付费电力——TechCrunch
+# 达拉斯-沃斯堡的按使用量付费电力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/22/pay-per-use-electricity-at-dallas-fort-worth/>
 

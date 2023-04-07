@@ -1,4 +1,4 @@
-# 租赁电影来到苹果 TechCrunch
+# 租赁电影来到苹果 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/10/rental-movies-coming-to-apple/>
 

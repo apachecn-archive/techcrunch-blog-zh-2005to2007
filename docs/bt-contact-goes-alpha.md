@@ -1,4 +1,4 @@
-# BT 联系人变成了阿尔法。TechCrunch
+# BT 联系人变成了阿尔法。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/bt-contact-goes-alpha/>
 

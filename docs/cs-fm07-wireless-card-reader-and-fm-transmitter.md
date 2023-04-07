@@ -1,4 +1,4 @@
-# CS FM07 无线读卡器和调频发射机| TechCrunch
+# CS FM07 无线读卡器和调频发射机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/cs-fm07-wireless-card-reader-and-fm-transmitter/>
 

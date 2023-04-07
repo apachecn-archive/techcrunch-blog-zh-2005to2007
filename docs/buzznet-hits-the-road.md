@@ -1,4 +1,4 @@
-# Buzznet 上路| TechCrunch
+# Buzznet 上路
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/buzznet-hits-the-road/>
 

@@ -1,4 +1,4 @@
-# Wii 的肮脏小奖励——TechCrunch
+# Wii 的肮脏小奖励
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/28/wiis-dirty-little-bonus/>
 

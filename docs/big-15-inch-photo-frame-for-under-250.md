@@ -1,4 +1,4 @@
-# 售价低于 250 美元的 15 英寸大相框——TechCrunch
+# 售价低于 250 美元的 15 英寸大相框
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/big-15-inch-photo-frame-for-under-250/>
 

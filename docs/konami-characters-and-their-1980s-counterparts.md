@@ -1,4 +1,4 @@
-# Konami 人物及其 20 世纪 80 年代的同行——TechCrunch
+# Konami 人物及其 20 世纪 80 年代的同行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/13/konami-characters-and-their-1980s-counterparts/>
 

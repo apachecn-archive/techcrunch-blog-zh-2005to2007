@@ -1,4 +1,4 @@
-# Pixrat 书签照片 TechCrunch
+# Pixrat 书签照片 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/05/pixrat-bookmarks-photos/>
 

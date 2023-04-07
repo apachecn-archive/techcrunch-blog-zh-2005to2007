@@ -1,4 +1,4 @@
-# HomePortals 可扩展主页–TechCrunch
+# HomePortals 可扩展主页
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/01/want-to-see-another-ajax-homepage/>
 

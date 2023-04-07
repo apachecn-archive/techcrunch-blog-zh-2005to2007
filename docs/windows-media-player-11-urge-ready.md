@@ -1,4 +1,4 @@
-# Windows Media Player 11:敦促就绪 TechCrunch
+# Windows Media Player 11:敦促就绪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/windows-media-player-11-urge-ready/>
 

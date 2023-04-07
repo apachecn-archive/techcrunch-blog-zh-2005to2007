@@ -1,4 +1,4 @@
-# Web 2.0 工作组–TechCrunch
+# Web 2.0 工作组
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/10/web20-workgroup/>
 

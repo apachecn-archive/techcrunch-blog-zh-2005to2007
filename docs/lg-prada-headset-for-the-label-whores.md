@@ -1,4 +1,4 @@
-# LG，普拉达标签妓女耳机| TechCrunch
+# LG，普拉达标签妓女耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/21/lg-prada-headset-for-the-label-whores/>
 

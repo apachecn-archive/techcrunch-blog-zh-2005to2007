@@ -1,4 +1,4 @@
-# Cingular 8525 图片表面–TechCrunch
+# Cingular 8525 图片表面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/cingular-8525-pictures-surface/>
 

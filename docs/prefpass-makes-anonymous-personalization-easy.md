@@ -1,4 +1,4 @@
-# PrefPass 让匿名个性化变得简单——TechCrunch
+# PrefPass 让匿名个性化变得简单
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/06/prefpass-makes-anonymous-personalization-easy>
 

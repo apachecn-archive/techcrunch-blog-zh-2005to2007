@@ -1,4 +1,4 @@
-# 现在，来自 Zoho 的一些更无聊的东西——TechCrunch
+# 现在，来自 Zoho 的一些更无聊的东西
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/28/and-now-something-a-little-more-frivolous-from-zoho/>
 

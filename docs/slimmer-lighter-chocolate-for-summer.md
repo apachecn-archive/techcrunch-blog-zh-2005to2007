@@ -1,4 +1,4 @@
-# 更轻薄的夏季巧克力——TechCrunch
+# 更轻薄的夏季巧克力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/slimmer-lighter-chocolate-for-summer/>
 

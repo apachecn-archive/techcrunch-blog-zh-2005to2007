@@ -1,4 +1,4 @@
-# SpaceX 成功发射猎鹰 1 号火箭——TechCrunch
+# SpaceX 成功发射猎鹰 1 号火箭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/20/spacex-successfully-launches-falcon-1-rocket/>
 

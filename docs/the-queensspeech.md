@@ -1,4 +1,4 @@
-# QueensSpeech | TechCrunch
+# QueensSpeech 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/the-queensspeech/>
 

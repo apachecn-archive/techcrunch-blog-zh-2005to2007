@@ -1,4 +1,4 @@
-# 一群诺基亚人| TechCrunch
+# 一群诺基亚人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/a-cavalcade-of-nokias/>
 

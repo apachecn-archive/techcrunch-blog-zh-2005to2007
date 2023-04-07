@@ -1,4 +1,4 @@
-# AppleTV 发货(？)| TechCrunch
+# AppleTV 发货(？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/appletv-shipping/>
 

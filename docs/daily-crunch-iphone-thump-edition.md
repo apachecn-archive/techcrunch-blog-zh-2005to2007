@@ -1,4 +1,4 @@
-# 每日新闻:iPhone 重击版| TechCrunch
+# 每日新闻:iPhone 重击版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/30/daily-crunch-iphone-thump-edition/>
 

@@ -1,4 +1,4 @@
-# 风干那个 Sh * t…Not-TechCrunch
+# 风干那个 Sh * t…Not-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/29/air-dry-that-shtnot/>
 

@@ -1,4 +1,4 @@
-# 索尼将生产 CF 卡——TechCrunch
+# 索尼将生产 CF 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/sony-to-manufacture-cf-cards/>
 

@@ -1,4 +1,4 @@
-# 今晚上演什么？直接从网上录下来| TechCrunch
+# 今晚上演什么？直接从网上录下来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/01/whats-on-tonight-just-tape-it-off-the-internet/>
 

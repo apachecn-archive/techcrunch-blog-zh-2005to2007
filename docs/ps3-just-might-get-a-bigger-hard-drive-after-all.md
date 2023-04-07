@@ -1,4 +1,4 @@
-# PS3 可能会有更大的硬盘——TechCrunch
+# PS3 可能会有更大的硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/ps3-just-might-get-a-bigger-hard-drive-after-all/>
 

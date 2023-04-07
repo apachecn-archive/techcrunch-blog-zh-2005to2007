@@ -1,4 +1,4 @@
-# 佳能准备 2200 万像素 EOS-1Ds Mark III | TechCrunch
+# 佳能准备 2200 万像素 EOS-1Ds Mark III 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/canon-prepping-22-megapixel-eos-1ds-mark-iii/>
 

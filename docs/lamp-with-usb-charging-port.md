@@ -1,4 +1,4 @@
-# 带 USB 充电端口的灯| TechCrunch
+# 带 USB 充电端口的灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/20/lamp-with-usb-charging-port/>
 

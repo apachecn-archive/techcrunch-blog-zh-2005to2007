@@ -1,4 +1,4 @@
-# 三星在 Cebit | TechCrunch 上展示郁金香 Q 系列高清电视
+# 三星在 Cebit  上展示郁金香 Q 系列高清电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/samsung-shows-off-tulip-q-line-of-hdtvs-ahead-of-cebit/>
 

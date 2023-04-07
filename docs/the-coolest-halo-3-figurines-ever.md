@@ -1,4 +1,4 @@
-# 有史以来最酷的光环 3 雕像——TechCrunch
+# 有史以来最酷的光环 3 雕像
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/the-coolest-halo-3-figurines-ever/>
 

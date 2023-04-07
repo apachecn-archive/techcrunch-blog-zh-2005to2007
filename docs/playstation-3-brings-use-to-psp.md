@@ -1,4 +1,4 @@
-# PlayStation 3 为 PSP 带来用途——TechCrunch
+# PlayStation 3 为 PSP 带来用途
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/playstation-3-brings-use-to-psp/>
 

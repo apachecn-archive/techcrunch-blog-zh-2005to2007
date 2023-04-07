@@ -1,4 +1,4 @@
-# 葛粉无线 HDMI 支持预购——TechCrunch
+# 葛粉无线 HDMI 支持预购
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/23/gefen-wireless-hdmi-up-for-pre-order/>
 

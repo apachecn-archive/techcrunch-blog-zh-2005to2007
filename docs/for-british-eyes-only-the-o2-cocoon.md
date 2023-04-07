@@ -1,4 +1,4 @@
-# 只给英国人看:O2 茧| TechCrunch
+# 只给英国人看:O2 茧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/for-british-eyes-only-the-o2-cocoon/>
 

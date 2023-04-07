@@ -1,4 +1,4 @@
-# 微软 LifeCam NX-6000 拥有 200 万像素的视频分辨率–TechCrunch
+# 微软 LifeCam NX-6000 拥有 200 万像素的视频分辨率
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/microsoft-lifecam-nx-6000-has-2-megapixel-video-resolution/>
 

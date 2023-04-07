@@ -1,4 +1,4 @@
-# EchoSign 解决签名页问题 TechCrunch
+# EchoSign 解决签名页问题 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/02/echosign-solves-signature-page-woes/>
 

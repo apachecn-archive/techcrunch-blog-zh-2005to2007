@@ -1,4 +1,4 @@
-# Darejunkies 是一个为蠢驴们准备的社交网站——TechCrunch
+# Darejunkies 是一个为蠢驴们准备的社交网站
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/12/darejunkies-is-a-social-networking-site-for-jackasses>
 

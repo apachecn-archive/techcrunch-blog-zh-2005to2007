@@ -1,4 +1,4 @@
-# CES 2007:亲爱的日记…摘要| TechCrunch
+# CES 2007:亲爱的日记…摘要
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/ces-2007-dear-diarythe-recap/>
 

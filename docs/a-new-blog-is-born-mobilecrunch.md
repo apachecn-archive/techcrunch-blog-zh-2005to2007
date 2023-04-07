@@ -1,4 +1,4 @@
-# 一个新的博客诞生了-mobile runch TechCrunch
+# 一个新的博客诞生了-mobile runch 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/12/a-new-blog-is-born-mobilecrunch/>
 

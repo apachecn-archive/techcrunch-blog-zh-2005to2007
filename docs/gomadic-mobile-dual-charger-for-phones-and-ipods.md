@@ -1,4 +1,4 @@
-# Gomadic 手机和 iPods 双充电器| TechCrunch
+# Gomadic 手机和 iPods 双充电器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/gomadic-mobile-dual-charger-for-phones-and-ipods/>
 

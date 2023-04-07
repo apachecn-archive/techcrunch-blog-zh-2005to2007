@@ -1,4 +1,4 @@
-# Skobee 刚刚推出——开始使用吧——TechCrunch
+# Skobee 刚刚推出——开始使用吧
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/09/skobee-just-launched-so-start-using-it/>
 

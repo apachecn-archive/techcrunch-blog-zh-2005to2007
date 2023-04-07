@@ -1,4 +1,4 @@
-# 未发行的星球大战玩具| TechCrunch
+# 未发行的星球大战玩具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/unreleased-star-wars-toys/>
 

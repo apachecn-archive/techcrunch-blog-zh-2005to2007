@@ -1,4 +1,4 @@
-# JVC 正在筹备新的 1080i 硬盘摄像机| TechCrunch
+# JVC 正在筹备新的 1080i 硬盘摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/jvc-prepping-new-1080i-hdd-camcorder/>
 

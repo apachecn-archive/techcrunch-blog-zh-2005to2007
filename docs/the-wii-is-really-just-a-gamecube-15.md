@@ -1,4 +1,4 @@
-# Wii 实际上只是一个 game cube 1.5——TechCrunch
+# Wii 实际上只是一个 game cube 1.5
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/the-wii-is-really-just-a-gamecube-15/>
 

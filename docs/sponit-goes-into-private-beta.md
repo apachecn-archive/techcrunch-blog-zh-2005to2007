@@ -1,4 +1,4 @@
-# Sponit 进入私有测试版——TechCrunch
+# Sponit 进入私有测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/08/sponit-goes-into-private-beta/>
 

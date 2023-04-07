@@ -1,4 +1,4 @@
-# Zune 固件 1.4:今天发布——TechCrunch
+# Zune 固件 1.4:今天发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/zune-firmware-14-out-today/>
 

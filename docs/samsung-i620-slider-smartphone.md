@@ -1,4 +1,4 @@
-# 三星 i620 滑盖智能手机| TechCrunch
+# 三星 i620 滑盖智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/samsung-i620-slider-smartphone/>
 

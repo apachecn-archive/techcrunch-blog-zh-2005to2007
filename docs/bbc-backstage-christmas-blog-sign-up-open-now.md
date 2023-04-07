@@ -1,4 +1,4 @@
-# BBC 后台圣诞博客——立即注册| TechCrunch
+# BBC 后台圣诞博客——立即注册
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/bbc-backstage-christmas-blog-sign-up-open-now/>
 

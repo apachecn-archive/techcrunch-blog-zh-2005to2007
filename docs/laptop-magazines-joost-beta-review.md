@@ -1,4 +1,4 @@
-# 笔记本电脑杂志的 Joost 测试版评论——TechCrunch
+# 笔记本电脑杂志的 Joost 测试版评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/19/laptop-magazines-joost-beta-review/>
 

@@ -1,4 +1,4 @@
-# 它有木头:木制电脑模型——TechCrunch
+# 它有木头:木制电脑模型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/wood-is-good-wooden-pc-mods/>
 

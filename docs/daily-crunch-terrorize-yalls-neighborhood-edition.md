@@ -1,4 +1,4 @@
-# 每日危机:恐吓你们的邻居版| TechCrunch
+# 每日危机:恐吓你们的邻居版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/28/daily-crunch-terrorize-yalls-neighborhood-edition/>
 

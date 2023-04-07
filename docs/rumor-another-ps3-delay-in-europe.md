@@ -1,4 +1,4 @@
-# 谣言:PS3 在欧洲的又一次延迟——TechCrunch
+# 谣言:PS3 在欧洲的又一次延迟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/rumor-another-ps3-delay-in-europe/>
 

@@ -1,4 +1,4 @@
-# Wiicoil:长臂 Zapper 表面| TechCrunch
+# Wiicoil:长臂 Zapper 表面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/20/wiicoil-longarm-zapper-surfaces/>
 

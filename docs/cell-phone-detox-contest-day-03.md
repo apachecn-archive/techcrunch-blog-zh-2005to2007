@@ -1,4 +1,4 @@
-# 手机排毒大赛:第三天| TechCrunch
+# 手机排毒大赛:第三天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/cell-phone-detox-contest-day-03/>
 

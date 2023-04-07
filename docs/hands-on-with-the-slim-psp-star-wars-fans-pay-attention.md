@@ -1,4 +1,4 @@
-# 手握超薄 PSP,《星球大战》的粉丝们注意了——TechCrunch
+# 手握超薄 PSP,《星球大战》的粉丝们注意了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/hands-on-with-the-slim-psp-star-wars-fans-pay-attention/>
 

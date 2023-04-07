@@ -1,4 +1,4 @@
-# 分享你的 OPML TechCrunch
+# 分享你的 OPML 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/27/musings-on-share-your-opml/>
 

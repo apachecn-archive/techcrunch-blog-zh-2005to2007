@@ -1,4 +1,4 @@
-# 嘿，你们三个！迪士尼移动正在推出新功能！–TechCrunch
+# 嘿，你们三个！迪士尼移动正在推出新功能！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/19/hey-you-three-disney-mobile-is-rolling-out-new-features/>
 

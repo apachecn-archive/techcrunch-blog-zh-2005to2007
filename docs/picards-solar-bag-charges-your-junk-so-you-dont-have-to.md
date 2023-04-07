@@ -1,4 +1,4 @@
-# Picard 的太阳能包给你的垃圾充电(这样你就不用了？)| TechCrunch
+# Picard 的太阳能包给你的垃圾充电(这样你就不用了？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/11/picards-solar-bag-charges-your-junk-so-you-dont-have-to/>
 

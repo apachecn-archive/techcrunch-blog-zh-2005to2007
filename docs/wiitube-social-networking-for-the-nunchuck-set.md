@@ -1,4 +1,4 @@
-# Wiitube:双截棍的社交网络——TechCrunch
+# Wiitube:双截棍的社交网络
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/wiitube-social-networking-for-the-nunchuck-set/>
 

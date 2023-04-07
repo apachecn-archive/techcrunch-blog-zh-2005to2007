@@ -1,4 +1,4 @@
-# USB 供电的加热坐垫–TechCrunch
+# USB 供电的加热坐垫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/usb-powered-heated-cushion/>
 

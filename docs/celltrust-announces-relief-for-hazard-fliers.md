@@ -1,4 +1,4 @@
-# CellTrust 宣布为危险飞行人员提供救济——TechCrunch
+# CellTrust 宣布为危险飞行人员提供救济
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/celltrust-announces-relief-for-hazard-fliers/>
 

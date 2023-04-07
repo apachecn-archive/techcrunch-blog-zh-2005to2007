@@ -1,4 +1,4 @@
-# 在假期和 CES 之间——TechCrunch
+# 在假期和 CES 之间
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/28/between-holidays-and-ces/>
 

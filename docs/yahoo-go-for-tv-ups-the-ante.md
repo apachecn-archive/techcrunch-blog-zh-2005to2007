@@ -1,4 +1,4 @@
-# 雅虎！选择电视节目| TechCrunch
+# 雅虎！选择电视节目
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/yahoo-go-for-tv-ups-the-ante/>
 

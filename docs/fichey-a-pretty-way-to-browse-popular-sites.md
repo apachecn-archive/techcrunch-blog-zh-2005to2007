@@ -1,4 +1,4 @@
-# fichey——浏览热门网站的好方法——TechCrunch
+# fichey——浏览热门网站的好方法
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/fichey-a-pretty-way-to-browse-popular-sites>
 

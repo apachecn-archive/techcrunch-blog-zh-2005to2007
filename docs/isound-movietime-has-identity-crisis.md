@@ -1,4 +1,4 @@
-# 一、有声电影时代有身份危机——TechCrunch
+# 一、有声电影时代有身份危机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/isound-movietime-has-identity-crisis/>
 

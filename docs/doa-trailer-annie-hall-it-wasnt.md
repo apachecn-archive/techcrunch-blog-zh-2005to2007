@@ -1,4 +1,4 @@
-# DOA 预告片，安妮·霍尔不是| TechCrunch
+# DOA 预告片，安妮·霍尔不是
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/doa-trailer-annie-hall-it-wasnt/>
 

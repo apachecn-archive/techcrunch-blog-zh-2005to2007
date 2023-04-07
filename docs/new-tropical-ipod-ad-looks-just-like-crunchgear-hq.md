@@ -1,4 +1,4 @@
-# 新的热带 iPod 广告看起来就像 CrunchGear 总部——TechCrunch
+# 新的热带 iPod 广告看起来就像 CrunchGear 总部
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/new-tropical-ipod-ad-looks-just-like-crunchgear-hq/>
 

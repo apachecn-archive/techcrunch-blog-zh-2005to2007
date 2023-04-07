@@ -1,4 +1,4 @@
-# CyberLink Live 共享媒体，这样你就不用担心了——TechCrunch
+# CyberLink Live 共享媒体，这样你就不用担心了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/cyberlink-live-shares-your-media-so-you-dont-have-to/>
 

@@ -1,4 +1,4 @@
-# Navio 902T2 媒体中心–TechCrunch
+# Navio 902T2 媒体中心
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/navio-902t2-media-center/>
 

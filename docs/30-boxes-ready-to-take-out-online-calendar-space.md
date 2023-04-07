@@ -1,4 +1,4 @@
-# 30 个盒子准备好拿出在线日历空间——TechCrunch
+# 30 个盒子准备好拿出在线日历空间
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/11/30-boxes-ready-to-take-out-online-calendar-space/>
 

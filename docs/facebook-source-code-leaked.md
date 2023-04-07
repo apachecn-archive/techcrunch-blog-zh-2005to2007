@@ -1,4 +1,4 @@
-# 脸书源代码泄露 TechCrunch
+# 脸书源代码泄露 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/11/facebook-source-code-leaked/>
 

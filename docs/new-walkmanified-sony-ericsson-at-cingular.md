@@ -1,4 +1,4 @@
-# Cingular | TechCrunch 的新 Walkmanified 索尼爱立信
+# Cingular  的新 Walkmanified 索尼爱立信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/new-walkmanified-sony-ericsson-at-cingular/>
 

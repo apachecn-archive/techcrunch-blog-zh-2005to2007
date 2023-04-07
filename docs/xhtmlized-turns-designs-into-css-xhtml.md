@@ -1,4 +1,4 @@
-# XHTML 化将您的设计转化为代码——TechCrunch
+# XHTML 化将您的设计转化为代码
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/03/xhtmlized-turns-designs-into-css-xhtml/>
 

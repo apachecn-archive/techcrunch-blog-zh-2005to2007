@@ -1,4 +1,4 @@
-# 移动边界| TechCrunch
+# 移动边界
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/borders-going-mobile/>
 

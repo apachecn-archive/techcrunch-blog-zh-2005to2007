@@ -1,4 +1,4 @@
-# iPhone？谁在乎呢。–TechCrunch
+# iPhone？谁在乎呢。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/iphone-who-cares/>
 

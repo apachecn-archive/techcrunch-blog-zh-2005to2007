@@ -1,4 +1,4 @@
-# 专利猴:Wiimote 之前的索尼 GripMote？–TechCrunch
+# 专利猴:Wiimote 之前的索尼 GripMote？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/18/patent-monkey-sony-gripmote-in-the-works-before-the-wiimote/>
 

@@ -1,4 +1,4 @@
-# 麦哲伦 Triton GPS 系列将其提升一个档次——TechCrunch
+# 麦哲伦 Triton GPS 系列将其提升一个档次
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/magellan-triton-gps-series-kicks-it-up-a-notch/>
 

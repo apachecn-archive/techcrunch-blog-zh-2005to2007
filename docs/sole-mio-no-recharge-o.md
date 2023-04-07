@@ -1,4 +1,4 @@
-# 唯一的 Mio，没有充值-O | TechCrunch
+# 唯一的 Mio，没有充值-O 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/sole-mio-no-recharge-o/>
 

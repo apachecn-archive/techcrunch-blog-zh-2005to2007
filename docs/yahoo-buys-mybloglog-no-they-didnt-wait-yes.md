@@ -1,4 +1,4 @@
-# 雅虎收购 MyBlogLog。不，他们没有。等等，是的。–TechCrunch
+# 雅虎收购 MyBlogLog。不，他们没有。等等，是的。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/08/yahoo-buys-mybloglog-no-they-didnt-wait-yes/>
 

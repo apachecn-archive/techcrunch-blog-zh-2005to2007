@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:Bedrest 版 TechCrunch
+# CrunchGear 周回顾:Bedrest 版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/crunchgear-week-in-review-bedrest-edition/>
 

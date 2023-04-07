@@ -1,4 +1,4 @@
-# 小心我的博客——爆炸来了——TechCrunch
+# 小心我的博客——爆炸来了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/look-out-mybloglog-here-comes-explode/>
 

@@ -1,4 +1,4 @@
-# 极客色情:魔兽女人| TechCrunch
+# 极客色情:魔兽女人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/geek-porn-women-of-warcraft/>
 

@@ -1,4 +1,4 @@
-# 标记我的时间:未来的书签！–TechCrunch
+# 标记我的时间:未来的书签！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/24/mark-my-time-bookmark-of-the-future/>
 

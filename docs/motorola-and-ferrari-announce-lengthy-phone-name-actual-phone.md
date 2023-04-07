@@ -1,4 +1,4 @@
-# 摩托罗拉和法拉利宣布冗长的手机名称，实际手机——TechCrunch
+# 摩托罗拉和法拉利宣布冗长的手机名称，实际手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/26/motorola-and-ferrari-announce-lengthy-phone-name-actual-phone/>
 

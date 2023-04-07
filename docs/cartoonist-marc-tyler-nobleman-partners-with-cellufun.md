@@ -1,4 +1,4 @@
-# 漫画家马克·泰勒与 cellu fun——TechCrunch 合作
+# 漫画家马克·泰勒与 cellu fun 合作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/cartoonist-marc-tyler-nobleman-partners-with-cellufun/>
 

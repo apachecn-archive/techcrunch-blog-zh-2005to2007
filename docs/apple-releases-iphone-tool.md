@@ -1,4 +1,4 @@
-# 苹果发布 iPhone 工具| TechCrunch
+# 苹果发布 iPhone 工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/apple-releases-iphone-tool/>
 

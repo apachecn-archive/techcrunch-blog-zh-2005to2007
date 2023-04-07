@@ -1,4 +1,4 @@
-# 惠普进军 30 英寸领域——TechCrunch
+# 惠普进军 30 英寸领域
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/hp-enters-30-inch-arena/>
 

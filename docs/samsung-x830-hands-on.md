@@ -1,4 +1,4 @@
-# 三星 X830 动手| TechCrunch
+# 三星 X830 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/samsung-x830-hands-on/>
 

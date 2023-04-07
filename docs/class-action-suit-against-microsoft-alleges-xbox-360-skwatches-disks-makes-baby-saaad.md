@@ -1,4 +1,4 @@
-# 集体诉讼对微软指控 XBox 360 Skwatches 磁盘，使婴儿 Saaad！TechCrunch
+# 集体诉讼对微软指控 XBox 360 Skwatches 磁盘，使婴儿 Saaad！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/class-action-suit-against-microsoft-alleges-xbox-360-skwatches-disks-makes-baby-saaad/>
 

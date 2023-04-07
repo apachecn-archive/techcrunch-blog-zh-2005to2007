@@ -1,4 +1,4 @@
-# Windows Mobile 6(正式)发布——TechCrunch
+# Windows Mobile 6(正式)发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/07/windows-mobile-6-gets-officially-announced/>
 

@@ -1,4 +1,4 @@
-# 时代华纳刚刚退出高清 DVR——TechCrunch
+# 时代华纳刚刚退出高清 DVR
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/time-warner-are-fresh-outta-hd-dvrs/>
 

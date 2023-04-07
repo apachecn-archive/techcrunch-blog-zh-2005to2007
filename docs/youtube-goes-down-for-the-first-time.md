@@ -1,4 +1,4 @@
-# YouTube 首次宕机——TechCrunch
+# YouTube 首次宕机
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/15/youtube-goes-down-for-the-first-time/>
 

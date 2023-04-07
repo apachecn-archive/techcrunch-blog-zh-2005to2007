@@ -1,4 +1,4 @@
-# 免费的个人电脑或墨西哥玉米卷来换取 PS3——TechCrunch
+# 免费的个人电脑或墨西哥玉米卷来换取 PS3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/20/free-pc-or-tacos-for-life-in-exchange-for-a-ps3/>
 

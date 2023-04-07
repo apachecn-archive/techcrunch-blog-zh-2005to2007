@@ -1,4 +1,4 @@
-# 乐高冰托盘:制作冷冻 H2O 乐高！TechCrunch
+# 乐高冰托盘:制作冷冻 H2O 乐高！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/13/lego-ice-tray-make-frozen-h2o-legos/>
 

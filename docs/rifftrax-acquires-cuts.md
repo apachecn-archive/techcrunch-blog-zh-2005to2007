@@ -1,4 +1,4 @@
-# Rifftrax 收购 Cuts–TechCrunch
+# Rifftrax 收购 Cuts
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/rifftrax-acquires-cuts/>
 

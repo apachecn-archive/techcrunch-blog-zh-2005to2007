@@ -1,4 +1,4 @@
-# Meebo:更多功能，持续增长——TechCrunch
+# Meebo:更多功能，持续增长
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/19/meebo-more-features-continued-growth/>
 

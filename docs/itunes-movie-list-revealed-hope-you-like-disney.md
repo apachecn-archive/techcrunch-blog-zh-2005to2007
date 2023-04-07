@@ -1,4 +1,4 @@
-# iTunes 电影列表揭晓——希望你喜欢迪士尼——TechCrunch
+# iTunes 电影列表揭晓——希望你喜欢迪士尼
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/itunes-movie-list-revealed-hope-you-like-disney/>
 

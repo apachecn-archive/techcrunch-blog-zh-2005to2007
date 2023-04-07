@@ -1,4 +1,4 @@
-# 视频:英特尔想象我们的未来，将由 UMPCs 运营，让我做我自己| TechCrunch
+# 视频:英特尔想象我们的未来，将由 UMPCs 运营，让我做我自己
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/video-intel-imagines-our-future-will-be-run-by-umpcs-that-let-me-be-me/>
 

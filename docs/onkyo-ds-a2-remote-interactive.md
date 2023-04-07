@@ -1,4 +1,4 @@
-# 安桥 DS-A2 远程互动| TechCrunch
+# 安桥 DS-A2 远程互动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/onkyo-ds-a2-remote-interactive/>
 

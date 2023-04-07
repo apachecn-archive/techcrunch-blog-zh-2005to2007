@@ -1,4 +1,4 @@
-# windows Media Player 11:DRM Out the Arse | TechCrunch
+# windows Media Player 11:DRM Out the Arse 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/windows-media-player-11-drm-out-the-arse/>
 

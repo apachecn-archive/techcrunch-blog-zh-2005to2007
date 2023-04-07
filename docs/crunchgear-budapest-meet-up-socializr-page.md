@@ -1,4 +1,4 @@
-# CrunchGear 布达佩斯会议注册页面 TechCrunch
+# CrunchGear 布达佩斯会议注册页面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/crunchgear-budapest-meet-up-socializr-page/>
 

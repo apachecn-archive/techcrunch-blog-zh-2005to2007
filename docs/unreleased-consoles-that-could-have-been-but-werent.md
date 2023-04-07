@@ -1,4 +1,4 @@
-# 未发布的游戏机本来可以，但没有| TechCrunch
+# 未发布的游戏机本来可以，但没有
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/unreleased-consoles-that-could-have-been-but-werent/>
 

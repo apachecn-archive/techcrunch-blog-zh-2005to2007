@@ -1,4 +1,4 @@
-# 去他的黑色星期五。你会得到下载并喜欢它！TechCrunch
+# 去他的黑色星期五。你会得到下载并喜欢它！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/21/screw-black-friday-youll-get-downloads-and-like-it/>
 

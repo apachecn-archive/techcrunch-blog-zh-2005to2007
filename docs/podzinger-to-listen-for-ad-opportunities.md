@@ -1,4 +1,4 @@
-# Podzinger 倾听广告机会 TechCrunch
+# Podzinger 倾听广告机会 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/04/podzinger-to-listen-for-ad-opportunities/>
 

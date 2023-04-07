@@ -1,4 +1,4 @@
-# 纽约 Helio 商店本周开业？TechCrunch
+# 纽约 Helio 商店本周开业？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/17/nyc-helio-store-opening-next-week/>
 

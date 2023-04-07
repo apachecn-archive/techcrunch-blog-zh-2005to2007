@@ -1,4 +1,4 @@
-# 自由之声表——TechCrunch
+# 自由之声表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/table-of-free-voices/>
 

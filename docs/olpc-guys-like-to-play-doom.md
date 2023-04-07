@@ -1,4 +1,4 @@
-# OLPC 人喜欢玩毁灭战士| TechCrunch
+# OLPC 人喜欢玩毁灭战士
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/olpc-guys-like-to-play-doom/>
 

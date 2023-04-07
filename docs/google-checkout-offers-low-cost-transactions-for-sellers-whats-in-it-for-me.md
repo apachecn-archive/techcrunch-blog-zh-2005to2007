@@ -1,4 +1,4 @@
-# Google Checkout 为卖家提供低成本交易；对我有什么好处？TechCrunch
+# Google Checkout 为卖家提供低成本交易；对我有什么好处？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/29/google-checkout-offers-low-cost-transactions-for-sellers-whats-in-it-for-me/>
 

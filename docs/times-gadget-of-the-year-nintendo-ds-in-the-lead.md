@@ -1,4 +1,4 @@
-# 《时代》年度小玩意:任天堂 DS 领先| TechCrunch
+# 《时代》年度小玩意:任天堂 DS 领先
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/times-gadget-of-the-year-nintendo-ds-in-the-lead/>
 

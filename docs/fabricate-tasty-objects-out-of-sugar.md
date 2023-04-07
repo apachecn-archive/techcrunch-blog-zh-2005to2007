@@ -1,4 +1,4 @@
-# 用糖制作美味的东西——TechCrunch
+# 用糖制作美味的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/fabricate-tasty-objects-out-of-sugar/>
 

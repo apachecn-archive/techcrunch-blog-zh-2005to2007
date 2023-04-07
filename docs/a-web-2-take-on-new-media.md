@@ -1,4 +1,4 @@
-# web 2 采用新媒体？TechCrunch
+# web 2 采用新媒体？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/a-web-2-take-on-new-media/>
 

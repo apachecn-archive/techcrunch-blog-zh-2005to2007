@@ -1,4 +1,4 @@
-# Sprint 推出双网手机，计划| TechCrunch
+# Sprint 推出双网手机，计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/sprint-goes-bi-with-dual-network-handsets-plans/>
 

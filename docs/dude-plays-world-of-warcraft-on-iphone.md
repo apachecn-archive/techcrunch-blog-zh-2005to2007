@@ -1,4 +1,4 @@
-# 哥们在 iPhone 上玩魔兽世界| TechCrunch
+# 哥们在 iPhone 上玩魔兽世界
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/dude-plays-world-of-warcraft-on-iphone/>
 

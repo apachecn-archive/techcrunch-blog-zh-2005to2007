@@ -1,4 +1,4 @@
-# 挂起计时器计算您的挂起时间，Playa–TechCrunch
+# 挂起计时器计算您的挂起时间，Playa
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/hang-timer-times-your-hang-time-playa/>
 

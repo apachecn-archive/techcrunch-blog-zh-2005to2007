@@ -1,4 +1,4 @@
-# Eurekster 因社交搜索获得 550 万美元的 B 轮融资——TechCrunch
+# Eurekster 因社交搜索获得 550 万美元的 B 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/12/eurekster-gets-5-5-million-series-b-for-social-search/>
 

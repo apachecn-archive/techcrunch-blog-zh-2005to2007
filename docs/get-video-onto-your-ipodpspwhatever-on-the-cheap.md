@@ -1,4 +1,4 @@
-# 在便宜的| TechCrunch 上将视频下载到你的 iPod/PSP/其他设备上
+# 在便宜的 上将视频下载到你的 iPod/PSP/其他设备上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/get-video-onto-your-ipodpspwhatever-on-the-cheap/>
 

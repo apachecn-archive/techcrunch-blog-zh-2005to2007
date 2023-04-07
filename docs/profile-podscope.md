@@ -1,4 +1,4 @@
-# 简介:Podscope | TechCrunch
+# 简介:Podscope 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/17/profile-podscope/>
 

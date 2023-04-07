@@ -1,4 +1,4 @@
-# 生日快乐，TechCrunch TechCrunch
+# 生日快乐，TechCrunch 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/happy-second-birthday-techcrunch/>
 

@@ -1,4 +1,4 @@
-# M-Audio Studiophile AV40 监听系统 TechCrunch
+# M-Audio Studiophile AV40 监听系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/21/m-audio-studiophile-av40-monitors-hands-on/>
 

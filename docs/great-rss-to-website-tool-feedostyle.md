@@ -1,4 +1,4 @@
-# 伟大的 RSS 网站工具:feed ostyle-TechCrunch
+# 伟大的 RSS 网站工具:feed ostyle-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/04/09/great-rss-to-website-tool-feedostyle/>
 

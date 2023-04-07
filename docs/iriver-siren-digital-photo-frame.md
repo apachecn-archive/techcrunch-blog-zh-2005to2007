@@ -1,4 +1,4 @@
-# iRiver Siren 数码相框| TechCrunch
+# iRiver Siren 数码相框
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/27/iriver-siren-digital-photo-frame/>
 

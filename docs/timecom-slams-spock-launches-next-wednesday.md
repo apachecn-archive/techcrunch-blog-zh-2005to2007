@@ -1,4 +1,4 @@
-# Time.com 猛烈抨击斯波克；下周三发布——TechCrunch
+# Time.com 猛烈抨击斯波克；下周三发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/02/timecom-slams-spock-launches-next-wednesday/>
 

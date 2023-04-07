@@ -1,4 +1,4 @@
-# 使用案例:公司如何正确使用图片分享——TechCrunch
+# 使用案例:公司如何正确使用图片分享
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/06/use-case-how-companies-can-use-photosharing-correctly/>
 

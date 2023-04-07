@@ -1,4 +1,4 @@
-# 威尼斯项目详情和屏幕截图 TechCrunch
+# 威尼斯项目详情和屏幕截图 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/21/venice-project-details-and-screen-shots/>
 

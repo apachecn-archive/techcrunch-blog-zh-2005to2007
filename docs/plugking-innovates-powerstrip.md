@@ -1,4 +1,4 @@
-# 插拔创新电源板| TechCrunch
+# 插拔创新电源板
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/plugking-innovates-powerstrip/>
 

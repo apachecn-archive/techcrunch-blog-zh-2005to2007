@@ -1,4 +1,4 @@
-# 戴尔将在沃尔玛商店提供独家台式机–TechCrunch
+# 戴尔将在沃尔玛商店提供独家台式机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/dell-to-offer-exclusive-desktops-at-wal-mart-stores/>
 

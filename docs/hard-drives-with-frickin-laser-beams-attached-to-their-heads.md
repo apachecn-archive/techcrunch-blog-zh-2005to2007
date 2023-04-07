@@ -1,4 +1,4 @@
-# 头上顶着该死的激光束的硬盘| TechCrunch
+# 头上顶着该死的激光束的硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/hard-drives-with-frickin-laser-beams-attached-to-their-heads/>
 

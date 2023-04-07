@@ -1,4 +1,4 @@
-# 慈善团体| TechCrunch
+# 慈善团体
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/11/charities-for-the-charitably-inclined/>
 

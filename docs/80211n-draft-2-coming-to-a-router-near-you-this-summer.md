@@ -1,4 +1,4 @@
-# 802.11n Draft 2 将于今年夏天在您身边的路由器上发布——TechCrunch
+# 802.11n Draft 2 将于今年夏天在您身边的路由器上发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/80211n-draft-2-coming-to-a-router-near-you-this-summer/>
 

@@ -1,4 +1,4 @@
-# 雅虎书签进入 21 世纪。TechCrunch
+# 雅虎书签进入 21 世纪。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/24/yahoo-bookmarks-enters-21st-century>
 

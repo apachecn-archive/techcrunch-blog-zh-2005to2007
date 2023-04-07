@@ -1,4 +1,4 @@
-# Axiotron 演示模块| TechCrunch
+# Axiotron 演示模块
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/axiotron-demos-modbook/>
 

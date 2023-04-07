@@ -1,4 +1,4 @@
-# 直播大学足球来到移动 ESPN——TechCrunch
+# 直播大学足球来到移动 ESPN
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/live-college-football-comes-to-mobile-espn/>
 

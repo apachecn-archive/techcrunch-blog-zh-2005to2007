@@ -1,4 +1,4 @@
-# Wordie 就像没有照片的 Flickr TechCrunch
+# Wordie 就像没有照片的 Flickr 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/08/wordie-is-like-flickr-without-the-photos/>
 

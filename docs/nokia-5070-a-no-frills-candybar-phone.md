@@ -1,4 +1,4 @@
-# 诺基亚 5070——一款简单的糖果棒手机——TechCrunch
+# 诺基亚 5070——一款简单的糖果棒手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/nokia-5070-a-no-frills-candybar-phone/>
 

@@ -1,4 +1,4 @@
-# 未来三星手机将包含 Opera Mobile | TechCrunch
+# 未来三星手机将包含 Opera Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/future-samsung-cellphones-to-include-opera-mobile/>
 

@@ -1,4 +1,4 @@
-# 年底 LED Macs 电脑| TechCrunch
+# 年底 LED Macs 电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/led-macs-by-years-end/>
 

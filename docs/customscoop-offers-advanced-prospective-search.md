@@ -1,4 +1,4 @@
-# CustomScoop 提供高级前景搜索 TechCrunch
+# CustomScoop 提供高级前景搜索 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/30/customscoop-offers-advanced-prospective-search/>
 

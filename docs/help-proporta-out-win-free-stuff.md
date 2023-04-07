@@ -1,4 +1,4 @@
-# 帮助 Proporta，赢得免费的东西——TechCrunch
+# 帮助 Proporta，赢得免费的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/29/help-proporta-out-win-free-stuff/>
 

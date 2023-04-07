@@ -1,4 +1,4 @@
-# 专利猴:OQO 手机触摸屏作为笔记本电脑配件？TechCrunch
+# 专利猴:OQO 手机触摸屏作为笔记本电脑配件？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/20/patent-monkey-oqo-mobile-touch-screen-as-laptop-accessory/>
 

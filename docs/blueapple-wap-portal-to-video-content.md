@@ -1,4 +1,4 @@
-# Blueapple WAP 视频内容门户| TechCrunch
+# Blueapple WAP 视频内容门户
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/blueapple-wap-portal-to-video-content/>
 

@@ -1,4 +1,4 @@
-# 先锋宣布推出四款精英视听接收机——TechCrunch
+# 先锋宣布推出四款精英视听接收机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/pioneer-announces-four-elite-av-receivers/>
 

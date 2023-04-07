@@ -1,4 +1,4 @@
-# 索尼更新 Bravia Line，完全忽略 Bratwurst Line | TechCrunch
+# 索尼更新 Bravia Line，完全忽略 Bratwurst Line 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/sony-updates-bravia-line-completely-ignores-bratwurst-line/>
 

@@ -1,4 +1,4 @@
-# 索尼 PS3 成为摇滚明星| TechCrunch
+# 索尼 PS3 成为摇滚明星
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/sony-ps3-goes-rockstar/>
 

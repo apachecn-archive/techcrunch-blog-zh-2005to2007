@@ -1,4 +1,4 @@
-# 满足您视频需求的每日 HooQs 内容门户| TechCrunch
+# 满足您视频需求的每日 HooQs 内容门户
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/daily-hooqs-content-portal-for-your-video-needs/>
 

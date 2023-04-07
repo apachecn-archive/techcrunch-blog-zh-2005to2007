@@ -1,4 +1,4 @@
-# 威尼斯项目——TechCrunch 众星云集
+# 威尼斯项目 众星云集
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/14/the-stars-align-for-the-venice-project/>
 

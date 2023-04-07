@@ -1,4 +1,4 @@
-# 药丸伴侣定时器提醒–TechCrunch
+# 药丸伴侣定时器提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/pill-mate-timer-reminder/>
 

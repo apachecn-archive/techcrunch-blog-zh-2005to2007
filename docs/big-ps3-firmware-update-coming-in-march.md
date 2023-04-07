@@ -1,4 +1,4 @@
-# 大型 PS3 固件更新即将到来…三月？TechCrunch
+# 大型 PS3 固件更新即将到来…三月？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/big-ps3-firmware-update-coming-in-march/>
 

@@ -1,4 +1,4 @@
-# Microsoft Live Local 将于周四发布 TechCrunch
+# Microsoft Live Local 将于周四发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/07/microsoft-live-local-to-launch-thursday/>
 

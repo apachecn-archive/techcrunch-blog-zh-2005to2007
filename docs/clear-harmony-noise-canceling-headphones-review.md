@@ -1,4 +1,4 @@
-# Clear Harmony 降噪耳机评论——TechCrunch
+# Clear Harmony 降噪耳机评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/clear-harmony-noise-canceling-headphones-review/>
 

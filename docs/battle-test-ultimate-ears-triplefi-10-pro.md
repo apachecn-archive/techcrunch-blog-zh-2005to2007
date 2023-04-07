@@ -1,4 +1,4 @@
-# 战斗测试:终极耳朵 triple . fi 10 Pro–TechCrunch
+# 战斗测试:终极耳朵 triple . fi 10 Pro
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/battle-test-ultimate-ears-triplefi-10-pro/>
 

@@ -1,4 +1,4 @@
-# 雅虎！推出更好的视频内容 TechCrunch
+# 雅虎！推出更好的视频内容 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/19/yahoo-launches-better-video-content/>
 

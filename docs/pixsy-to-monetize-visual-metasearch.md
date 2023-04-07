@@ -1,4 +1,4 @@
-# Pixsy 将视觉元搜索货币化——TechCrunch
+# Pixsy 将视觉元搜索货币化
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/23/pixsy-to-monetize-visual-metasearch/>
 

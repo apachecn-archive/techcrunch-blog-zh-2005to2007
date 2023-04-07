@@ -1,4 +1,4 @@
-# AllTell 推出 JumpMusic 将音乐传输到手机 TechCrunch
+# AllTell 推出 JumpMusic 将音乐传输到手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/11/alltell-launches-jumpmusic-to-transfer-music-to-phones/>
 

@@ -1,4 +1,4 @@
-# RSS:它死了，吉姆，或者我们能让它复活吗？TechCrunch
+# RSS:它死了，吉姆，或者我们能让它复活吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/rss-its-dead-jim-or-can-we-ping-it-back-to-life/>
 

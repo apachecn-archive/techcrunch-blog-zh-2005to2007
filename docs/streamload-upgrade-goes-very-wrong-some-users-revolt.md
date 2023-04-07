@@ -1,4 +1,4 @@
-# Streamload 升级非常不顺利；一些用户反对 TechCrunch
+# Streamload 升级非常不顺利；一些用户反对 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/streamload-upgrade-goes-very-wrong-some-users-revolt/>
 

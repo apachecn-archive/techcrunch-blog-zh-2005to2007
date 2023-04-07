@@ -1,4 +1,4 @@
-# XBox Live | TechCrunch 上的 TMNT
+# XBox Live  上的 TMNT
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/tmnt-on-xbox-live/>
 

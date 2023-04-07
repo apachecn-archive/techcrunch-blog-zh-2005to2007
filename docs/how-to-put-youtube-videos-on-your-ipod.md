@@ -1,4 +1,4 @@
-# 如何把 YouTube 视频放到你的 iPod 上——TechCrunch
+# 如何把 YouTube 视频放到你的 iPod 上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/how-to-put-youtube-videos-on-your-ipod/>
 

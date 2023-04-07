@@ -1,4 +1,4 @@
-# Alltel 向手机提供 XM 卫星广播| TechCrunch
+# Alltel 向手机提供 XM 卫星广播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/10/alltel-shacks-up-with-xm/>
 

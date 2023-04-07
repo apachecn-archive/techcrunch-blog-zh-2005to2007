@@ -1,4 +1,4 @@
-# 欧洲展示自己的东西:创新 2006-TechCrunch
+# 欧洲展示自己的东西:创新 2006-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/19/europe-shows-its-stuff-innovate-2006/>
 

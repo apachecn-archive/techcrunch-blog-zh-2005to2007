@@ -1,4 +1,4 @@
-# 莎士比亚、快乐时光和舞会皇后 TechCrunch
+# 莎士比亚、快乐时光和舞会皇后 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/29/shakespeare-happy-days-and-prom-queen/>
 

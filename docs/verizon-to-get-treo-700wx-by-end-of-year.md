@@ -1,4 +1,4 @@
-# 威瑞森将于年底推出 Treo 700 wx | TechCrunch
+# 威瑞森将于年底推出 Treo 700 wx 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/11/verizon-to-get-treo-700wx-by-end-of-year/>
 

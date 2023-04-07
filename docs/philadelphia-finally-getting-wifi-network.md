@@ -1,4 +1,4 @@
-# 费城终于有了无线网络| TechCrunch
+# 费城终于有了无线网络
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/philadelphia-finally-getting-wifi-network/>
 

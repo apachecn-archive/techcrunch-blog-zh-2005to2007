@@ -1,4 +1,4 @@
-# iPhone 会有多棒？喜欢很多很棒的| TechCrunch
+# iPhone 会有多棒？喜欢很多很棒的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/how-amazingly-great-will-the-iphone-be-like-lots-great/>
 

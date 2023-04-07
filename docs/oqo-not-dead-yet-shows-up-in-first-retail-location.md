@@ -1,4 +1,4 @@
-# OQO 尚未死亡，出现在第一个零售点| TechCrunch
+# OQO 尚未死亡，出现在第一个零售点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/oqo-not-dead-yet-shows-up-in-first-retail-location/>
 

@@ -1,4 +1,4 @@
-# CrunchedGear 半决赛提醒| TechCrunch
+# CrunchedGear 半决赛提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/crunchedgear-semi-finals-reminder/>
 

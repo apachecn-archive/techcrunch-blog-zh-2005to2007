@@ -1,4 +1,4 @@
-# Vonage 暂时安全，需要您的帮助| TechCrunch
+# Vonage 暂时安全，需要您的帮助
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/vonage-safe-for-now-needs-your-help/>
 

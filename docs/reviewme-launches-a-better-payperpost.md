@@ -1,4 +1,4 @@
-# ReviewMe 发布:一个更好的 payper post-TechCrunch
+# ReviewMe 发布:一个更好的 payper post-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/09/reviewme-launches-a-better-payperpost/>
 

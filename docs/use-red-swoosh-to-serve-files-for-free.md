@@ -1,4 +1,4 @@
-# 使用红色 Swoosh 免费提供文件| TechCrunch
+# 使用红色 Swoosh 免费提供文件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/05/use-red-swoosh-to-serve-files-for-free/>
 

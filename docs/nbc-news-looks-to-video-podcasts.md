@@ -1,4 +1,4 @@
-# NBC 新闻关注视频播客——TechCrunch
+# NBC 新闻关注视频播客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/14/nbc-news-looks-to-video-podcasts/>
 

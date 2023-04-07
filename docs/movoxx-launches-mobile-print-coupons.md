@@ -1,4 +1,4 @@
-# Movoxx 推出移动打印优惠券 TechCrunch
+# Movoxx 推出移动打印优惠券 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/26/movoxx-launches-mobile-print-coupons/>
 

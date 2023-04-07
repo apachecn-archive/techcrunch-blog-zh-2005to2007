@@ -1,4 +1,4 @@
-# 脚踏泵动作跳跃启动器| TechCrunch
+# 脚踏泵动作跳跃启动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/26/foot-pump-action-jumpstarter/>
 

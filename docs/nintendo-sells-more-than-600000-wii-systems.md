@@ -1,4 +1,4 @@
-# 任天堂售出超过 60 万台 Wii 系统——TechCrunch
+# 任天堂售出超过 60 万台 Wii 系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/nintendo-sells-more-than-600000-wii-systems/>
 

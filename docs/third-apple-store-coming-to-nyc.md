@@ -1,4 +1,4 @@
-# 第三家苹果商店来到纽约| TechCrunch
+# 第三家苹果商店来到纽约
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/third-apple-store-coming-to-nyc/>
 

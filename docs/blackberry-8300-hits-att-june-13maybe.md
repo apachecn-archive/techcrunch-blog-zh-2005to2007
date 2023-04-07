@@ -1,4 +1,4 @@
-# 黑莓 8300 将于 6 月 13 日在美国电话电报公司上市……也许——TechCrunch
+# 黑莓 8300 将于 6 月 13 日在美国电话电报公司上市……也许
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/24/blackberry-8300-hits-att-june-13maybe/>
 

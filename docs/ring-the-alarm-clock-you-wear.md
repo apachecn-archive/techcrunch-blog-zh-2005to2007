@@ -1,4 +1,4 @@
-# 戒指:你戴的闹钟——TechCrunch
+# 戒指:你戴的闹钟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/ring-the-alarm-clock-you-wear/>
 

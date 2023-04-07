@@ -1,4 +1,4 @@
-# 日立推出带 DVR、可移动媒体的高清电视| TechCrunch
+# 日立推出带 DVR、可移动媒体的高清电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/hitachi-launches-hdtvs-with-dvr-removable-media/>
 

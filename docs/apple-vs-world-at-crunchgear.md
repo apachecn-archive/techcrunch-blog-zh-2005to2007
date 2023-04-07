@@ -1,4 +1,4 @@
-# 苹果与世界在 crunch gear TechCrunch
+# 苹果与世界在 crunch gear 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/apple-vs-world-at-crunchgear/>
 

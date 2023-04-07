@@ -1,4 +1,4 @@
-# 彩色玻璃电脑–TechCrunch
+# 彩色玻璃电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/stained-glass-pc/>
 

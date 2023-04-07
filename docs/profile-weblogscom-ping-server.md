@@ -1,4 +1,4 @@
-# 简介–Weblogs.com(Ping 服务器)–TechCrunch
+# 简介–Weblogs.com(Ping 服务器)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/08/profile-weblogscom-ping-server/>
 

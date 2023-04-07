@@ -1,4 +1,4 @@
-# 金钱星期一:ArtistsOnline | TechCrunch
+# 金钱星期一:ArtistsOnline 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/27/money-mondays-artistsonline/>
 

@@ -1,4 +1,4 @@
-# 第三屏幕媒体加入 Hovr 游戏——TechCrunch
+# 第三屏幕媒体加入 Hovr 游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/third-screen-media-gets-in-the-game-with-hovr/>
 

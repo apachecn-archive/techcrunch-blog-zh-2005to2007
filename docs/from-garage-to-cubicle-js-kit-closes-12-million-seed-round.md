@@ -1,4 +1,4 @@
-# 从车库到隔间:JS-Kit 完成了 120 万美元的种子期——TechCrunch
+# 从车库到隔间:JS-Kit 完成了 120 万美元的种子期
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/08/from-garage-to-cubicle-js-kit-closes-12-million-seed-round>
 

@@ -1,4 +1,4 @@
-# 为什么从金库里？LG 高清电视冰箱| TechCrunch
+# 为什么从金库里？LG 高清电视冰箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/from-the-vaults-of-why-lg-hdtv-fridge/>
 

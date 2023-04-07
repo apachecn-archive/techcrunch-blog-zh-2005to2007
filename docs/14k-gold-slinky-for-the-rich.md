@@ -1,4 +1,4 @@
-# 富人的 14K 金内衣| TechCrunch
+# 富人的 14K 金内衣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/14k-gold-slinky-for-the-rich/>
 

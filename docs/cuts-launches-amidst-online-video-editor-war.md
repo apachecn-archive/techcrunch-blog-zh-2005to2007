@@ -1,4 +1,4 @@
-# 在线视频编辑大战中的 Cuts 发布——TechCrunch
+# 在线视频编辑大战中的 Cuts 发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/cuts-launches-amidst-online-video-editor-war/>
 

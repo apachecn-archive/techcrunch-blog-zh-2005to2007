@@ -1,4 +1,4 @@
-# Google 的 Ajax 桌面现在是可扩展的——TechCrunch
+# Google 的 Ajax 桌面现在是可扩展的
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/14/googles-ajax-desktop-is-now-extensible/>
 

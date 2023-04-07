@@ -1,4 +1,4 @@
-# 苹果的 iPhone 到德国的 T-Mobile | TechCrunch
+# 苹果的 iPhone 到德国的 T-Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/17/apples-iphone-to-germanys-t-mobile/>
 

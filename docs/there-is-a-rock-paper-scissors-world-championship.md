@@ -1,4 +1,4 @@
-# 有一个石头剪刀布世界锦标赛 TechCrunch
+# 有一个石头剪刀布世界锦标赛 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/01/there-is-a-rock-paper-scissors-world-championship/>
 

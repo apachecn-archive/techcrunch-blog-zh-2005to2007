@@ -1,4 +1,4 @@
-# 专业法官可能意味着更便宜的设备——TechCrunch
+# 专业法官可能意味着更便宜的设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/specialized-judges-could-mean-less-expensive-gear/>
 

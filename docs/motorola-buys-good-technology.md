@@ -1,4 +1,4 @@
-# 摩托罗拉购买好技术——TechCrunch
+# 摩托罗拉购买好技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/motorola-buys-good-technology/>
 

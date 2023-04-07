@@ -1,4 +1,4 @@
-# battle test:Vyper exo by Booq–TechCrunch
+# battle test:Vyper exo by Booq
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/29/battletest-vyper-exo-by-booq/>
 

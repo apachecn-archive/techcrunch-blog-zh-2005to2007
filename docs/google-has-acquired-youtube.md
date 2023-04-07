@@ -1,4 +1,4 @@
-# 谷歌已经收购了 YouTube | TechCrunch
+# 谷歌已经收购了 YouTube 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/09/google-has-acquired-youtube/>
 

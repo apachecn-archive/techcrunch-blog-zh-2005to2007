@@ -1,4 +1,4 @@
-# 谣言被粉碎:Helio 不会乱来——TechCrunch
+# 谣言被粉碎:Helio 不会乱来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/rumor-smashed-helio-doesnt-mess-around/>
 

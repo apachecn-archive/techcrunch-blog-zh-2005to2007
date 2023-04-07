@@ -1,4 +1,4 @@
-# Adobe Photoshop CS3 今日上市:让孩子远离新吉祥物——TechCrunch
+# Adobe Photoshop CS3 今日上市:让孩子远离新吉祥物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/adobe-photoshop-cs3-ships-today-keep-children-away-from-new-mascot/>
 

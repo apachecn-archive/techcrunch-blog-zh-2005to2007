@@ -1,4 +1,4 @@
-# SlingMedia 想出了一种将电脑 iTunes 内容传输到手机的方法——TechCrunch
+# SlingMedia 想出了一种将电脑 iTunes 内容传输到手机的方法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/slingmedia-conjures-up-way-to-stream-pc-itunes-content-to-your-cellphone/>
 

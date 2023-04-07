@@ -1,4 +1,4 @@
-# 你挣多少钱？TechCrunch
+# 你挣多少钱？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/12/how-much-money-do-you-make/>
 

@@ -1,4 +1,4 @@
-# 救命，我摔倒了，起不来了| TechCrunch
+# 救命，我摔倒了，起不来了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/help-ive-fallen-cant-get-up/>
 

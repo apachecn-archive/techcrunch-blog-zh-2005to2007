@@ -1,4 +1,4 @@
-# 为什么手机游戏没有流行起来？TechCrunch
+# 为什么手机游戏没有流行起来？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/why-hasnt-cellphone-gaming-taken-off/>
 

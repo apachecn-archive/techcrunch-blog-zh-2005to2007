@@ -1,4 +1,4 @@
-# Dave Winer 今晚将发表主题演讲——TechCrunch
+# Dave Winer 今晚将发表主题演讲
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/21/dave-winer-to-give-the-flickr-of-keynotes-tonight/>
 

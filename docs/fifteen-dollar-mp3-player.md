@@ -1,4 +1,4 @@
-# 15 美元的 MP3 播放器| TechCrunch
+# 15 美元的 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/fifteen-dollar-mp3-player/>
 

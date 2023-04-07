@@ -1,4 +1,4 @@
-# Thoof 现已公开测试| TechCrunch
+# Thoof 现已公开测试
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/27/thoof-now-in-public-beta/>
 

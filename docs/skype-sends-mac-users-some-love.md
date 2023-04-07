@@ -1,4 +1,4 @@
-# Skype 升级 Mac 版本——现在有视频——TechCrunch
+# Skype 升级 Mac 版本——现在有视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/25/skype-sends-mac-users-some-love/>
 

@@ -1,4 +1,4 @@
-# O2 海伦:完全出乎意料，而不是 iPhone | TechCrunch
+# O2 海伦:完全出乎意料，而不是 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/o2-helen-completely-out-of-the-blue-and-not-the-iphone/>
 

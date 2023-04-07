@@ -1,4 +1,4 @@
-# 30 Boxes 推出 Webtop 服务 TechCrunch
+# 30 Boxes 推出 Webtop 服务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/11/30-boxes-launches-webtop-service>
 

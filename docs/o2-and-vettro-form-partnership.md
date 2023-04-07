@@ -1,4 +1,4 @@
-# O2 和 Vettro 结成合作伙伴关系| TechCrunch
+# O2 和 Vettro 结成合作伙伴关系
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/o2-and-vettro-form-partnership/>
 

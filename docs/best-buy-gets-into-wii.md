@@ -1,4 +1,4 @@
-# 百思买进入 Wii-TechCrunch
+# 百思买进入 Wii-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/best-buy-gets-into-wii/>
 

@@ -1,4 +1,4 @@
-# YouTube 走向早安美国——TechCrunch
+# YouTube 走向早安美国
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/20/youtube-headed-for-good-morning-america/>
 

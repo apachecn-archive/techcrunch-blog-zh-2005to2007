@@ -1,4 +1,4 @@
-# 先进的“Shotgunator”理论可以统一酒，小鸡| TechCrunch
+# 先进的“Shotgunator”理论可以统一酒，小鸡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/advanced-shotgunator-theory-could-unify-booze-chicks/>
 

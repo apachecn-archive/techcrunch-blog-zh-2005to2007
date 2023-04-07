@@ -1,4 +1,4 @@
-# 橙色 Zune 即将发布——TechCrunch
+# 橙色 Zune 即将发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/02/orange-zune-coming-zoon/>
 

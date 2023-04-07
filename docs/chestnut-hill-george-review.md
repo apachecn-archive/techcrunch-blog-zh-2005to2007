@@ -1,4 +1,4 @@
-# 栗子山乔治评论| TechCrunch
+# 栗子山乔治评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/chestnut-hill-george-review/>
 

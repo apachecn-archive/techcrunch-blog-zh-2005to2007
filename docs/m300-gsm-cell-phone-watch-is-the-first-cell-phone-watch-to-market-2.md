@@ -1,4 +1,4 @@
-# m300 GSM 手机手表是第一款上市的手机手表| TechCrunch
+# m300 GSM 手机手表是第一款上市的手机手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/m300-gsm-cell-phone-watch-is-the-first-cell-phone-watch-to-market-2/>
 

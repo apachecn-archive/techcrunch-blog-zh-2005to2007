@@ -1,4 +1,4 @@
-# 三星 SCH-V900 有一件性感的红色连衣裙——TechCrunch
+# 三星 SCH-V900 有一件性感的红色连衣裙
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/24/samsung-sch-v900-has-a-sexy-red-dress/>
 

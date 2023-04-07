@@ -1,4 +1,4 @@
-# 微软 Photosynth 报道奋进号航天飞机发射前| TechCrunch
+# 微软 Photosynth 报道奋进号航天飞机发射前
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/05/microsoft-photosynth-covers-shuttle-endeavour-pre-launch/>
 

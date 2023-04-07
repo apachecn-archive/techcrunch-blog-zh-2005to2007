@@ -1,4 +1,4 @@
-# 国际米兰在 Second Life | TechCrunch 上发布新主场球衣
+# 国际米兰在 Second Life  上发布新主场球衣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/inter-milan-launches-new-home-kit-on-second-life/>
 

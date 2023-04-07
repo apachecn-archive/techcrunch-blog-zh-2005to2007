@@ -1,4 +1,4 @@
-# 无鼠标鼠标垫| TechCrunch
+# 无鼠标鼠标垫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/mouse-free-mousepad/>
 

@@ -1,4 +1,4 @@
-# 嘿！Watch 是一款非常酷的在线视频转换器 TechCrunch
+# 嘿！Watch 是一款非常酷的在线视频转换器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/27/heywatch-is-a-seriously-cool-online-video-converter/>
 

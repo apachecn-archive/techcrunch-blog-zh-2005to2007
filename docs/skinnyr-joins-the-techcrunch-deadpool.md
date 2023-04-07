@@ -1,4 +1,4 @@
-# Skinnyr 加入了 TechCrunch 的死池——TechCrunch
+# Skinnyr 加入了 TechCrunch 的死池
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/25/skinnyr-joins-the-techcrunch-deadpool/>
 

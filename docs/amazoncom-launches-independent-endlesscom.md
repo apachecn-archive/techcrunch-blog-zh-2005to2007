@@ -1,4 +1,4 @@
-# Amazon.com 推出独立 Endless.com——TechCrunch
+# Amazon.com 推出独立 Endless.com
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/05/amazoncom-launches-independent-endlesscom/>
 

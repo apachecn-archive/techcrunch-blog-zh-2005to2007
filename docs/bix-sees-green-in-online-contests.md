@@ -1,4 +1,4 @@
-# Bix 在在线竞赛中看到了绿色 TechCrunch
+# Bix 在在线竞赛中看到了绿色 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/17/bix-sees-green-in-online-contests>
 

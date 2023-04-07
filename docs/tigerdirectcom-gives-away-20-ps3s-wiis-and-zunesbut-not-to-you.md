@@ -1,4 +1,4 @@
-# TigerDirect.com 赠送了 20 台 PS3、Wii 和 zune……但不是给你——TechCrunch
+# TigerDirect.com 赠送了 20 台 PS3、Wii 和 zune……但不是给你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/30/tigerdirectcom-gives-away-20-ps3s-wiis-and-zunesbut-not-to-you/>
 

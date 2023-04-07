@@ -1,4 +1,4 @@
-# 索尼 NW-A800 被录音——TechCrunch
+# 索尼 NW-A800 被录音
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/sony-nw-a800-caught-on-tape/>
 

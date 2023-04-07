@@ -1,4 +1,4 @@
-# 演示日:Y Combinator 的春季小鸡——TechCrunch
+# 演示日:Y Combinator 的春季小鸡
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/09/demo-day-y-combinators-spring-chicks/>
 

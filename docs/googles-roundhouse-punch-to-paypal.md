@@ -1,4 +1,4 @@
-# 谷歌对贝宝的重拳出击——TechCrunch
+# 谷歌对贝宝的重拳出击
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/18/googles-roundhouse-punch-to-paypal/>
 

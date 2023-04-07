@@ -1,4 +1,4 @@
-# Prexar Mobile 捡起被放大的碎片——TechCrunch
+# Prexar Mobile 捡起被放大的碎片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/prexar-mobile-picks-up-the-amp%e2%80%99d-pieces/>
 

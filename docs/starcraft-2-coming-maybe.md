@@ -1,4 +1,4 @@
-# 星际争霸 2 即将到来，也许| TechCrunch
+# 星际争霸 2 即将到来，也许
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/starcraft-2-coming-maybe/>
 

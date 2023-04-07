@@ -1,4 +1,4 @@
-# iPod 视频约会，带标签–TechCrunch
+# iPod 视频约会，带标签
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/03/ipod-video-dating-with-tags/>
 

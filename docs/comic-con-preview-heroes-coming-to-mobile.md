@@ -1,4 +1,4 @@
-# 动漫展预告:英雄来移动| TechCrunch
+# 动漫展预告:英雄来移动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/comic-con-preview-heroes-coming-to-mobile/>
 

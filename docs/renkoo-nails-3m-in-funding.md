@@ -1,4 +1,4 @@
-# Renkoo 获得 300 万美元融资| TechCrunch
+# Renkoo 获得 300 万美元融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/13/renkoo-nails-3m-in-funding>
 

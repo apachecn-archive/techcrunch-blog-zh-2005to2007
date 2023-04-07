@@ -1,4 +1,4 @@
-# 披头士还在 iTunes | TechCrunch
+# 披头士还在 iTunes 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/beatles-still-coming-to-itunes/>
 

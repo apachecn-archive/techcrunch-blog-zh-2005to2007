@@ -1,4 +1,4 @@
-# MySpace/Photobucket:用户重叠率接近 100%——TechCrunch
+# MySpace/Photobucket:用户重叠率接近 100%
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/07/myspacephotobucket-user-overlap-is-nearly-100/>
 

@@ -1,4 +1,4 @@
-# 野外发现的亚马逊新鲜购物袋 TechCrunch
+# 野外发现的亚马逊新鲜购物袋 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/amazon-fresh-shopping-bag-spotted-in-the-wild/>
 

@@ -1,4 +1,4 @@
-# 是的，又一个 Ajax 桌面——page flakes TechCrunch
+# 是的，又一个 Ajax 桌面——page flakes 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/18/yep-one-more-ajax-desktop-pageflakes/>
 

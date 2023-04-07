@@ -1,4 +1,4 @@
-# 家庭灾难:Macbook Pro 电池爆炸——TechCrunch
+# 家庭灾难:Macbook Pro 电池爆炸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/disaster-on-the-homefront-macbook-pro-battery-explosion-no-images/>
 

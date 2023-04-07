@@ -1,4 +1,4 @@
-# 苹果改组员工| TechCrunch
+# 苹果改组员工
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/apple-shuffles-employees/>
 

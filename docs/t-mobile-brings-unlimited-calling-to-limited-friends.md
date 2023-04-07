@@ -1,4 +1,4 @@
-# T-Mobile 为有限的朋友带来无限通话| TechCrunch
+# T-Mobile 为有限的朋友带来无限通话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/t-mobile-brings-unlimited-calling-to-limited-friends/>
 

@@ -1,4 +1,4 @@
-# Miglia 希望你的 Mac 成为 DVR | TechCrunch
+# Miglia 希望你的 Mac 成为 DVR 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/miglia-wants-your-mac-to-be-a-dvr/>
 

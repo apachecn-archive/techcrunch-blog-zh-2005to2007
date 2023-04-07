@@ -1,4 +1,4 @@
-# 纳木错万代抓偶像| TechCrunch
+# 纳木错万代抓偶像
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/namco-bandai-snags-idols/>
 

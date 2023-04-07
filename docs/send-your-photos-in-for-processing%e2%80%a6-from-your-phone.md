@@ -1,4 +1,4 @@
-# 发送您的照片进行处理…从您的手机！TechCrunch
+# 发送您的照片进行处理…从您的手机！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/send-your-photos-in-for-processing%e2%80%a6-from-your-phone/>
 

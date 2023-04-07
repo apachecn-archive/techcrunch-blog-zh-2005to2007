@@ -1,4 +1,4 @@
-# 好的、坏的和丑陋的。TechCrunch
+# 好的、坏的和丑陋的。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/le-web3-the-good-bad-and-ugly/>
 

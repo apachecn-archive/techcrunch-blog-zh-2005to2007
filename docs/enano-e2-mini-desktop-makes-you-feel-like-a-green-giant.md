@@ -1,4 +1,4 @@
-# enano e2 迷你台式机让你感觉像一个绿色巨人——TechCrunch
+# enano e2 迷你台式机让你感觉像一个绿色巨人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/enano-e2-mini-desktop-makes-you-feel-like-a-green-giant/>
 

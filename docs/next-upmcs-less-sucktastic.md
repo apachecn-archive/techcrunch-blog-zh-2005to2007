@@ -1,4 +1,4 @@
-# 下一个 UPMCs:没那么难吃(？？)| TechCrunch
+# 下一个 UPMCs:没那么难吃(？？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/next-upmcs-less-sucktastic/>
 

@@ -1,4 +1,4 @@
-# FeedBurner 发布主要用户参与报告——TechCrunch
+# FeedBurner 发布主要用户参与报告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/22/feedburner-releases-major-user-engagement-report/>
 

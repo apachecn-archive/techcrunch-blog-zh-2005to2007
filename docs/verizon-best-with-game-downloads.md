@@ -1,4 +1,4 @@
-# 威瑞森最佳游戏下载——TechCrunch
+# 威瑞森最佳游戏下载
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/verizon-best-with-game-downloads/>
 

@@ -1,4 +1,4 @@
-# 飞利浦 DCP850 便携式 DVD 播放器评论| TechCrunch
+# 飞利浦 DCP850 便携式 DVD 播放器评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/philips-dcp850-portable-dvd-player-review/>
 

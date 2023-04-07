@@ -1,4 +1,4 @@
-# 传闻:百思买要砍掉 Xbox 360 核心？TechCrunch
+# 传闻:百思买要砍掉 Xbox 360 核心？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/rumor-best-buy-to-axe-xbox-360-core/>
 

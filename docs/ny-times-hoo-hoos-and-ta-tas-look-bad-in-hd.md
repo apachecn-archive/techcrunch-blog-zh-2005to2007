@@ -1,4 +1,4 @@
-# 纽约时报:“呼呼和 Ta Tas 在高清电视上看起来很糟糕”——TechCrunch
+# 纽约时报:“呼呼和 Ta Tas 在高清电视上看起来很糟糕”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/ny-times-hoo-hoos-and-ta-tas-look-bad-in-hd/>
 

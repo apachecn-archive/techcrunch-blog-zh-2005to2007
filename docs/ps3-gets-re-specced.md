@@ -1,4 +1,4 @@
-# PS3 被重新定位| TechCrunch
+# PS3 被重新定位
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/ps3-gets-re-specced/>
 

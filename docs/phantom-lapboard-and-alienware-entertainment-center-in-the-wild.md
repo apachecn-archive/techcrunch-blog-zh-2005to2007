@@ -1,4 +1,4 @@
-# 野外的幻影滑板和外星人娱乐中心——TechCrunch
+# 野外的幻影滑板和外星人娱乐中心
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/phantom-lapboard-and-alienware-entertainment-center-in-the-wild/>
 

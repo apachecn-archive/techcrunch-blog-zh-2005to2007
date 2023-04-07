@@ -1,4 +1,4 @@
-# 超级闪亮的鼠标带来 800dpi，杨·吉兹 TechCrunch
+# 超级闪亮的鼠标带来 800dpi，杨·吉兹 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/ultra-bling-mouse-brings-800dpi-young-jeezy/>
 

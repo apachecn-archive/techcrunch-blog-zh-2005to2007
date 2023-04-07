@@ -1,4 +1,4 @@
-# LG 现场直播，让你眼前一亮——TechCrunch
+# LG 现场直播，让你眼前一亮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/18/lg-shine-live-and-in-your-face/>
 

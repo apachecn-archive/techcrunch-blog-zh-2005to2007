@@ -1,4 +1,4 @@
-# Clocky 现已发货！–TechCrunch
+# Clocky 现已发货！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/clocky-is-now-shipping/>
 

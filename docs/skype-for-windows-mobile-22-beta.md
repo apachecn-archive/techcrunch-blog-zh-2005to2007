@@ -1,4 +1,4 @@
-# Skype for Windows Mobile 2.2 beta | TechCrunch
+# Skype for Windows Mobile 2.2 beta 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/12/skype-for-windows-mobile-22-beta/>
 

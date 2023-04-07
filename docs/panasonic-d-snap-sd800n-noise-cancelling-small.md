@@ -1,4 +1,4 @@
-# 松下 D-Snap SD800N:降噪，小型| TechCrunch
+# 松下 D-Snap SD800N:降噪，小型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/panasonic-d-snap-sd800n-noise-cancelling-small/>
 

@@ -1,4 +1,4 @@
-# Geni | TechCrunch 估值 1 亿美元
+# Geni  估值 1 亿美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/05/100-million-valuation-for-geni/>
 

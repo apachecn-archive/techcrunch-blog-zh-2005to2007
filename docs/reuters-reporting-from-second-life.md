@@ -1,4 +1,4 @@
-# 路透社来自第二人生的报道——TechCrunch
+# 路透社来自第二人生的报道
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/reuters-reporting-from-second-life/>
 

@@ -1,4 +1,4 @@
-# Salesforce 深入研究 Google Adwords TechCrunch
+# Salesforce 深入研究 Google Adwords 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/21/salesforce-dives-deep-into-google-adwords/>
 

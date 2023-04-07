@@ -1,4 +1,4 @@
-# TripHub 为旅行计划带来结构 TechCrunch
+# TripHub 为旅行计划带来结构 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/07/triphub-brings-structure-to-travel-plans/>
 

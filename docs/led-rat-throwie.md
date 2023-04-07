@@ -1,4 +1,4 @@
-# LED 鼠标投掷——TechCrunch
+# LED 鼠标投掷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/led-rat-throwie/>
 

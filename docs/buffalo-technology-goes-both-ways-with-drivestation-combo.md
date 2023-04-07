@@ -1,4 +1,4 @@
-# 水牛技术与 DriveStation Combo | TechCrunch 双向发展
+# 水牛技术与 DriveStation Combo  双向发展
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/buffalo-technology-goes-both-ways-with-drivestation-combo/>
 

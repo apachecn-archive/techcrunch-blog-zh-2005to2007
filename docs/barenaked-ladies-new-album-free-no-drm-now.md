@@ -1,4 +1,4 @@
-# 裸女:新专辑。免费。没有 DRM。现在。TechCrunch
+# 裸女:新专辑。免费。没有 DRM。现在。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/05/barenaked-ladies-new-album-free-no-drm-now/>
 

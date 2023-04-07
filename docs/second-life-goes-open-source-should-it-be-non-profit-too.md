@@ -1,4 +1,4 @@
-# “第二人生”开源——它也应该是非盈利的吗？–TechCrunch
+# “第二人生”开源——它也应该是非盈利的吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/08/second-life-goes-open-source-should-it-be-non-profit-too/>
 

@@ -1,4 +1,4 @@
-# ShopWiki 宣布获得 620 万美元的资助——TechCrunch
+# ShopWiki 宣布获得 620 万美元的资助
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/18/shopwiki-announces-62m-in-funding/>
 

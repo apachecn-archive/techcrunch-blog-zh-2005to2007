@@ -1,4 +1,4 @@
-# Fluxiom:伟大的产品，价格惊人——TechCrunch
+# Fluxiom:伟大的产品，价格惊人
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/26/fluxiom-great-product-outrageously-priced/>
 

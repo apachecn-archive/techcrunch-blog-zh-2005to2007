@@ -1,4 +1,4 @@
-# 三星 Trace Quick Look | TechCrunch
+# 三星 Trace Quick Look 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/samsung-trace-quick-look-2/>
 

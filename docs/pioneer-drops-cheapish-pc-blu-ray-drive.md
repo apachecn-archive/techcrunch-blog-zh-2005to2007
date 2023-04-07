@@ -1,4 +1,4 @@
-# 先锋放弃廉价的 PC 蓝光驱动器 TechCrunch
+# 先锋放弃廉价的 PC 蓝光驱动器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/pioneer-drops-cheapish-pc-blu-ray-drive/>
 

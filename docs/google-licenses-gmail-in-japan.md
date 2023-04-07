@@ -1,4 +1,4 @@
-# 谷歌在日本授权 Gmail TechCrunch
+# 谷歌在日本授权 Gmail 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/google-licenses-gmail-in-japan/>
 

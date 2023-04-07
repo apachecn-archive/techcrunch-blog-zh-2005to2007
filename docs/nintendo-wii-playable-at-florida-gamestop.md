@@ -1,4 +1,4 @@
-# 任天堂 Wii 可在佛罗里达 GameStop | TechCrunch 玩
+# 任天堂 Wii 可在佛罗里达 GameStop  玩
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/nintendo-wii-playable-at-florida-gamestop/>
 

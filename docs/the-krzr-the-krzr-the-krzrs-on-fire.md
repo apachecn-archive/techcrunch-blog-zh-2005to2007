@@ -1,4 +1,4 @@
-# KRZR，KRZR，KRZR 着火了！TechCrunch
+# KRZR，KRZR，KRZR 着火了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/the-krzr-the-krzr-the-krzrs-on-fire/>
 

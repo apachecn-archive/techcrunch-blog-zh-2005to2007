@@ -1,4 +1,4 @@
-# 索尼同意 PSP 商店，预计秋季上市——TechCrunch
+# 索尼同意 PSP 商店，预计秋季上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/sony-says-yes-to-psp-store-fall-launch-expected/>
 

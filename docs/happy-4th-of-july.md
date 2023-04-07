@@ -1,4 +1,4 @@
-# 7 月 4 日快乐| TechCrunch
+# 7 月 4 日快乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/04/happy-4th-of-july/>
 

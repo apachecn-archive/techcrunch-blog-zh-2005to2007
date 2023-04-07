@@ -1,4 +1,4 @@
-# 谷歌模仿莎士比亚——TechCrunch
+# 谷歌模仿莎士比亚
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/13/google-does-shakespeare/>
 

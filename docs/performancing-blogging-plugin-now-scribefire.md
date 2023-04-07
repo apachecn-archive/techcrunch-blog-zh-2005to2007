@@ -1,4 +1,4 @@
-# 表演博客插件现在 ScribeFire-TechCrunch
+# 表演博客插件现在 ScribeFire-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/29/performancing-blogging-plugin-now-scribefire/>
 

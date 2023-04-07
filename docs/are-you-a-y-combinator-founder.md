@@ -1,4 +1,4 @@
-# 你具备成为创业企业家的条件吗？–TechCrunch
+# 你具备成为创业企业家的条件吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/30/are-you-a-y-combinator-founder/>
 

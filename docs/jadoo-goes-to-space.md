@@ -1,4 +1,4 @@
-# Jadoo 去太空——TechCrunch
+# Jadoo 去太空
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/21/jadoo-goes-to-space/>
 

@@ -1,4 +1,4 @@
-# 假日便携式媒体播放器指南:什么适合你？TechCrunch
+# 假日便携式媒体播放器指南:什么适合你？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/23/holiday-portable-media-player-guide-whats-right-for-you/>
 

@@ -1,4 +1,4 @@
-# VidZone Digital Media 获得索尼 BMG 英国公司的移动产品目录——TechCrunch
+# VidZone Digital Media 获得索尼 BMG 英国公司的移动产品目录
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/vidzone-digital-media-gets-sony-bmg-uk%e2%80%99s-catalog-for-mobile/>
 

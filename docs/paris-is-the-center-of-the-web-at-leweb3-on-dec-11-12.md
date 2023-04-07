@@ -1,4 +1,4 @@
-# 12 月 11 日至 12 日在巴黎举办的 leweb 3 | TechCrunch
+# 12 月 11 日至 12 日在巴黎举办的 leweb 3 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/29/paris-is-the-center-of-the-web-at-leweb3-on-dec-11-12/>
 

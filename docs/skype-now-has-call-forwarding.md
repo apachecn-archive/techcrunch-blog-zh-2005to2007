@@ -1,4 +1,4 @@
-# Skype 现在有呼叫转移功能——TechCrunch
+# Skype 现在有呼叫转移功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/31/skype-now-has-call-forwarding/>
 

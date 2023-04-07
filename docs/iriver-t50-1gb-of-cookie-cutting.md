@@ -1,4 +1,4 @@
-# iRiver T50:1GB Cookie-Cutting–TechCrunch
+# iRiver T50:1GB Cookie-Cutting
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/iriver-t50-1gb-of-cookie-cutting/>
 

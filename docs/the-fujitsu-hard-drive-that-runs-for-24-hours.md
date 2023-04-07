@@ -1,4 +1,4 @@
-# 24 小时运行的富士通硬盘| TechCrunch
+# 24 小时运行的富士通硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/the-fujitsu-hard-drive-that-runs-for-24-hours/>
 

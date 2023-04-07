@@ -1,4 +1,4 @@
-# 育碧卸载智乐| TechCrunch
+# 育碧卸载智乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/ubisoft-unloads-gameloft/>
 

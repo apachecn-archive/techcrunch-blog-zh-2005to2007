@@ -1,4 +1,4 @@
-# 全包微软娱乐系统专利表面| TechCrunch
+# 全包微软娱乐系统专利表面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/20/all-inclusive-microsoft-entertainment-system-patent-surfaces/>
 

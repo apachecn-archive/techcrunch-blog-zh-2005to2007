@@ -1,4 +1,4 @@
-# OnAir GT 移动高清电视接收机–TechCrunch
+# OnAir GT 移动高清电视接收机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/onair-gt-mobile-hdtv-receiver/>
 

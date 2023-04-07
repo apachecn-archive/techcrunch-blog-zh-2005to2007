@@ -1,4 +1,4 @@
-# 谷歌金融改革——TechCrunch
+# 谷歌金融改革
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/12/google-finance-overhaul/>
 

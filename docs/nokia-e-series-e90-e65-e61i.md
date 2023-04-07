@@ -1,4 +1,4 @@
-# 诺基亚 E 系列:E90、E65、E61i–TechCrunch
+# 诺基亚 E 系列:E90、E65、E61i
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/nokia-e-series-e90-e65-e61i/>
 

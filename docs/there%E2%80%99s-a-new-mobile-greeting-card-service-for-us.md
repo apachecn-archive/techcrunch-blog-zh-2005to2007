@@ -1,4 +1,4 @@
-# 美国推出了一项新的移动贺卡服务——TechCrunch
+# 美国推出了一项新的移动贺卡服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/15/there%E2%80%99s-a-new-mobile-greeting-card-service-for-us/>
 

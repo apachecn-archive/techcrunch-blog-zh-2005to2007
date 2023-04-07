@@ -1,4 +1,4 @@
-# 百度将推出中文博客平台 TechCrunch
+# 百度将推出中文博客平台 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/29/baidu-may-launch-chinese-blogging-platform/>
 

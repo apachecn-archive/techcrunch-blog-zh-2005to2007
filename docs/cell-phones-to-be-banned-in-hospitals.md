@@ -1,4 +1,4 @@
-# 医院将禁止使用手机？TechCrunch
+# 医院将禁止使用手机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/cell-phones-to-be-banned-in-hospitals/>
 

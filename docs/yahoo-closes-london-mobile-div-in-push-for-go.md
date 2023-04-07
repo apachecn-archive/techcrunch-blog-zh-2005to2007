@@ -1,4 +1,4 @@
-# 雅虎！在 push for Go | TechCrunch 关闭伦敦移动部门
+# 雅虎！在 push for Go  关闭伦敦移动部门
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/yahoo-closes-london-mobile-div-in-push-for-go/>
 

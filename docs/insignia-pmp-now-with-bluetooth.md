@@ -1,4 +1,4 @@
-# Insignia PMP 现已配备蓝牙——TechCrunch
+# Insignia PMP 现已配备蓝牙
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/insignia-pmp-now-with-bluetooth/>
 

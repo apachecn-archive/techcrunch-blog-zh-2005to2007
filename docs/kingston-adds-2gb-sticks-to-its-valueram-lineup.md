@@ -1,4 +1,4 @@
-# Kingston 为其笔记本电脑 ValueRAM 产品线增加了 2GB 内存条——TechCrunch
+# Kingston 为其笔记本电脑 ValueRAM 产品线增加了 2GB 内存条
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/30/kingston-adds-2gb-sticks-to-its-valueram-lineup/>
 

@@ -1,4 +1,4 @@
-# Nike C.O.R.E .音频 iPod 背包:如同 1991 年的派对——TechCrunch
+# Nike C.O.R.E .音频 iPod 背包:如同 1991 年的派对
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/nike-core-audio-ipod-backpack-party-like-its-1991/>
 

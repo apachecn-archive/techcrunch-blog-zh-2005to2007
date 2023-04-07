@@ -1,4 +1,4 @@
-# 移动 TLD。mobi 向公众开放注册| TechCrunch
+# 移动 TLD。mobi 向公众开放注册
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/27/mobile-tld-mobi-open-to-public-registrations/>
 

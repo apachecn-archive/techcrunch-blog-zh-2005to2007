@@ -1,4 +1,4 @@
-# 索尼笔记本电池再次着火——TechCrunch
+# 索尼笔记本电池再次着火
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/sony-laptop-batteries-catching-fire-again/>
 

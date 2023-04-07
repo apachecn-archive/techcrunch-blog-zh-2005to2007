@@ -1,4 +1,4 @@
-# 环球音乐起诉 MySpace TechCrunch
+# 环球音乐起诉 MySpace 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/17/universal-music-sues-myspace/>
 

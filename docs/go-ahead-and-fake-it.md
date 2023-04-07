@@ -1,4 +1,4 @@
-# 继续假装吧| TechCrunch
+# 继续假装吧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/go-ahead-and-fake-it/>
 

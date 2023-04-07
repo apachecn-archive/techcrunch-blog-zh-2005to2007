@@ -1,4 +1,4 @@
-# 康姆斯克文件上市| TechCrunch
+# 康姆斯克文件上市
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/03/comscore-files-to-go-public/>
 

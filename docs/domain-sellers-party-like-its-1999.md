@@ -1,4 +1,4 @@
-# 域名卖家聚会就像 1999 年的 TechCrunch
+# 域名卖家聚会就像 1999 年的 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/24/domain-sellers-party-like-its-1999>
 

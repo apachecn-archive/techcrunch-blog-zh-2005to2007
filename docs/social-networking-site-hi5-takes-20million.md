@@ -1,4 +1,4 @@
-# 社交网站 Hi5 耗资 2000 万美元——TechCrunch
+# 社交网站 Hi5 耗资 2000 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/22/social-networking-site-hi5-takes-20million>
 

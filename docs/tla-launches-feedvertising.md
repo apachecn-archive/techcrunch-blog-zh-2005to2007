@@ -1,4 +1,4 @@
-# TLA 推出饲料广告——TechCrunch
+# TLA 推出饲料广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/09/27/tla-launches-feedvertising/>
 

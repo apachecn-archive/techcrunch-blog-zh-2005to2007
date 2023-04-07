@@ -1,4 +1,4 @@
-# 第一台苹果 iPhone 在西雅图展示，不，它不是你已经见过的那台——TechCrunch
+# 第一台苹果 iPhone 在西雅图展示，不，它不是你已经见过的那台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/the-first-apple-iphone-display-goes-up-in-seattle-and-no-its-not-the-ones-youve-already-seen/>
 

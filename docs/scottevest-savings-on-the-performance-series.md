@@ -1,4 +1,4 @@
-# ScottEVest 在性能系列上的节省| TechCrunch
+# ScottEVest 在性能系列上的节省
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/scottevest-savings-on-the-performance-series/>
 

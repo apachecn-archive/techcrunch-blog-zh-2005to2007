@@ -1,4 +1,4 @@
-# 网络上的 windows Mobile“Crossbow”截图| TechCrunch
+# 网络上的 windows Mobile“Crossbow”截图
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/09/windows-mobile-crossbow-screenshot-on-the-web/>
 

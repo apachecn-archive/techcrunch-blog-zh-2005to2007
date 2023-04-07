@@ -1,4 +1,4 @@
-# 致微软的公开信:Zune | TechCrunch
+# 致微软的公开信:Zune 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/an-open-letter-to-microsoft-re-zune/>
 

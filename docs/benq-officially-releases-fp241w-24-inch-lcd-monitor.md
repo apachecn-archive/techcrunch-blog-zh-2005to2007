@@ -1,4 +1,4 @@
-# 明基正式发布 FP241W 24 英寸液晶显示器| TechCrunch
+# 明基正式发布 FP241W 24 英寸液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/benq-officially-releases-fp241w-24-inch-lcd-monitor/>
 

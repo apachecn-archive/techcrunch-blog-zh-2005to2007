@@ -1,4 +1,4 @@
-# 你知道苹果公司生产“世界上最先进的个人电脑”吗？TechCrunch
+# 你知道苹果公司生产“世界上最先进的个人电脑”吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/28/did-you-know-apple-makes-the-%e2%80%9cmost-advanced-personal-computers-in-the-world%e2%80%9d/>
 

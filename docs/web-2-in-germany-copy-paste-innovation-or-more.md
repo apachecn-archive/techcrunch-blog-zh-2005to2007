@@ -1,4 +1,4 @@
-# TechCrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/&usg=ALkJrhjdp7IYOsQo1nnFatrbo3keSEmErw//page/2//page/2/Snap//page/2//page/2//page/3/Snap//page/2//page/2008/05/30/laterloop-joins-the-pile-of-bookmarking-apps-with-googles-blessing//page/2007/05/14/web-2-in-germany-copy-paste-innovation-or-more/>
 

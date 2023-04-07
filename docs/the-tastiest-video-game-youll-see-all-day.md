@@ -1,4 +1,4 @@
-# 你一整天都会看到的最美味的视频游戏| TechCrunch
+# 你一整天都会看到的最美味的视频游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/11/the-tastiest-video-game-youll-see-all-day/>
 

@@ -1,4 +1,4 @@
-# track stick Pro:GPS Snoop/Tracker | TechCrunch
+# track stick Pro:GPS Snoop/Tracker 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/08/trackstick-pro-gps-snooptracker/>
 

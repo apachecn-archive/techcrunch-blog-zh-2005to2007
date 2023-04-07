@@ -1,4 +1,4 @@
-# SocialText 的目标是 wiki 2.0-TechCrunch
+# SocialText 的目标是 wiki 2.0-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/21/socialtext-goes-20/>
 

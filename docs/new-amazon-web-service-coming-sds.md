@@ -1,4 +1,4 @@
-# 新的亚马逊网络服务即将推出:“SDS”TechCrunch
+# 新的亚马逊网络服务即将推出:“SDS”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/01/new-amazon-web-service-coming-sds/>
 

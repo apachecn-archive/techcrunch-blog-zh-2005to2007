@@ -1,4 +1,4 @@
-# Adaptive Blue 发布新版 Blue Organizer TechCrunch
+# Adaptive Blue 发布新版 Blue Organizer 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/22/adaptive-blue-releases-new-version-of-blue-organizer/>
 

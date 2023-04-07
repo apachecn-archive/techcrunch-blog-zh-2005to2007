@@ -1,4 +1,4 @@
-# VideoCounter.com:统计多个视频网站的浏览量——TechCrunch
+# VideoCounter.com:统计多个视频网站的浏览量
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/01/videocountercom-count-views-on-multiple-video-sites/>
 

@@ -1,4 +1,4 @@
-# Zune Marketplace 的歌曲在 PlaysForSure 设备上工作(？？)–TechCrunch
+# Zune Marketplace 的歌曲在 PlaysForSure 设备上工作(？？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/zune-marketplace-songs-work-on-playsforsure-devices/>
 

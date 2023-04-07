@@ -1,4 +1,4 @@
-# 两周内的两场派对——西雅图和伦敦——TechCrunch
+# 两周内的两场派对——西雅图和伦敦
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/01/two-parties-in-two-weeks-seattle-and-london/>
 

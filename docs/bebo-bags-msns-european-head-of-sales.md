@@ -1,4 +1,4 @@
-# Bebo bags MSN 的欧洲销售主管。TechCrunch
+# Bebo bags MSN 的欧洲销售主管。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/18/bebo-bags-msns-european-head-of-sales/>
 

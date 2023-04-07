@@ -1,4 +1,4 @@
-# 佳能为 EOS-1D Mark III 更新固件| TechCrunch
+# 佳能为 EOS-1D Mark III 更新固件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/canon-updates-firmware-for-eos-1d-mark-iii/>
 

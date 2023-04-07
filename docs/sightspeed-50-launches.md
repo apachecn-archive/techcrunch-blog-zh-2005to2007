@@ -1,4 +1,4 @@
-# SightSpeed 5.0 发布–TechCrunch
+# SightSpeed 5.0 发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/26/sightspeed-50-launches/>
 

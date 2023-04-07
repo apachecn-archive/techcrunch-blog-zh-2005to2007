@@ -1,4 +1,4 @@
-# ViTrue:用户生成的广告视频获得新投资者——TechCrunch
+# ViTrue:用户生成的广告视频获得新投资者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/27/vitrue-user-generated-ad-video-gets-funded/>
 

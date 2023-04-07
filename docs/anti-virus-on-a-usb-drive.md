@@ -1,4 +1,4 @@
-# u 盘杀毒| TechCrunch
+# u 盘杀毒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/anti-virus-on-a-usb-drive/>
 

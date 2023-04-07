@@ -1,4 +1,4 @@
-# 极其详细的 windows Mobile 6–TechCrunch
+# 极其详细的 windows Mobile 6
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/windows-mobile-6-in-excruciating-detail/>
 

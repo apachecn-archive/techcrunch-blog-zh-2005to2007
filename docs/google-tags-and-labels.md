@@ -1,4 +1,4 @@
-# 谷歌标签——TechCrunch
+# 谷歌标签
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/20/google-tags-and-labels/>
 

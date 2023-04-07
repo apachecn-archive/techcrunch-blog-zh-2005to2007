@@ -1,4 +1,4 @@
-# 使用 Windows Live 硬件平台创建设备| TechCrunch
+# 使用 Windows Live 硬件平台创建设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/17/creating-devices-with-the-windows-live-hardware-platform/>
 

@@ -1,4 +1,4 @@
-# GrandCentral 指南| TechCrunch
+# GrandCentral 指南
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/28/grandcentral-guide/>
 

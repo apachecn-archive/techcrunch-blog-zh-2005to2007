@@ -1,4 +1,4 @@
-# 三星二十一点:问谁？–TechCrunch
+# 三星二十一点:问谁？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/30/samsung-blackjack-q-who/>
 

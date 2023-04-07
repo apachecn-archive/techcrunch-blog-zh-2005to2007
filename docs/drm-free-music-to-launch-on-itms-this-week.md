@@ -1,4 +1,4 @@
-# 本周将在 iTMS 上发布无数字版权管理的音乐——TechCrunch
+# 本周将在 iTMS 上发布无数字版权管理的音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/28/drm-free-music-to-launch-on-itms-this-week/>
 

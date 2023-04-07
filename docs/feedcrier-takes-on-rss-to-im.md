@@ -1,4 +1,4 @@
-# FeedCrier，快速使用 RSS 和 IM 的另一种方式——TechCrunch
+# FeedCrier，快速使用 RSS 和 IM 的另一种方式
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/08/20/feedcrier-takes-on-rss-to-im/>
 

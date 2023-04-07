@@ -1,4 +1,4 @@
-# Elgato 的 hdhome run:Mac 上的高清电视| TechCrunch
+# Elgato 的 hdhome run:Mac 上的高清电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/elgatos-hdhomerun-hdtv-on-your-mac/>
 

@@ -1,4 +1,4 @@
-# 史上最佳网站:IFixit.com | TechCrunch
+# 史上最佳网站:IFixit.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/best-website-ever-ifixitcom/>
 

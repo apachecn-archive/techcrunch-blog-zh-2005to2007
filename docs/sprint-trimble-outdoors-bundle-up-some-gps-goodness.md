@@ -1,4 +1,4 @@
-# Sprint、Trimble Outdoors 捆绑一些 GPS goods——TechCrunch
+# Sprint、Trimble Outdoors 捆绑一些 GPS goods
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/sprint-trimble-outdoors-bundle-up-some-gps-goodness/>
 

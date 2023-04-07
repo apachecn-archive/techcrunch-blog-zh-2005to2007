@@ -1,4 +1,4 @@
-# Scotty Pro 太阳能充电器–TechCrunch
+# Scotty Pro 太阳能充电器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/scotty-pro-solar-power-charger/>
 

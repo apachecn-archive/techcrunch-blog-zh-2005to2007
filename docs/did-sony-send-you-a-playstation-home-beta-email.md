@@ -1,4 +1,4 @@
-# 索尼给你发 Playstation Home 测试版邮件了吗？TechCrunch
+# 索尼给你发 Playstation Home 测试版邮件了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/did-sony-send-you-a-playstation-home-beta-email/>
 

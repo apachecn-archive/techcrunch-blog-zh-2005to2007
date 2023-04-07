@@ -1,4 +1,4 @@
-# Sonnet Volta 给你的 iPod 更多的能量——TechCrunch
+# Sonnet Volta 给你的 iPod 更多的能量
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/sonnet-volta-gives-your-ipod-even-more-juice/>
 

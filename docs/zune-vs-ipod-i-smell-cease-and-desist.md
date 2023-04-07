@@ -1,4 +1,4 @@
-# Zune 与 iPod:我闻到停止和终止！–TechCrunch
+# Zune 与 iPod:我闻到停止和终止！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/09/zune-vs-ipod-i-smell-cease-and-desist/>
 

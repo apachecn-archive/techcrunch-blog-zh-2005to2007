@@ -1,4 +1,4 @@
-# 3D Widget 仪表盘可以让 Leopard 在浏览 Widget 时更容易使用| TechCrunch
+# 3D Widget 仪表盘可以让 Leopard 在浏览 Widget 时更容易使用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/3d-widget-dashboards-could-make-leopard-even-easier-to-use-when-browsing-widgets/>
 

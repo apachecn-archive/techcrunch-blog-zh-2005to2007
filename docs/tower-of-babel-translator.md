@@ -1,4 +1,4 @@
-# 巴别塔翻译机 TechCrunch
+# 巴别塔翻译机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/26/tower-of-babel-translator/>
 

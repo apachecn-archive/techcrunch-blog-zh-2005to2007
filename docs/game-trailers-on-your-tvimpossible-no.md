@@ -1,4 +1,4 @@
-# 在电视上播放游戏预告片——不可能？(不)| TechCrunch
+# 在电视上播放游戏预告片——不可能？(不)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/game-trailers-on-your-tvimpossible-no/>
 

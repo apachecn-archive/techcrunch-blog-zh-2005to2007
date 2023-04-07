@@ -1,4 +1,4 @@
-# 热门的新视频、日历和地图工具——TechCrunch
+# 热门的新视频、日历和地图工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/15/hot-new-video-calendar-and-map-widgets/>
 

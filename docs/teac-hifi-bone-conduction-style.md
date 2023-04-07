@@ -1,4 +1,4 @@
-# TEAC 高保真:骨传导风格——TechCrunch
+# TEAC 高保真:骨传导风格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/teac-hifi-bone-conduction-style/>
 

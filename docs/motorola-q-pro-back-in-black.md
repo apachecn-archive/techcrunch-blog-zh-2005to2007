@@ -1,4 +1,4 @@
-# 摩托罗拉 Q Pro，重回黑色——TechCrunch
+# 摩托罗拉 Q Pro，重回黑色
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/motorola-q-pro-back-in-black/>
 

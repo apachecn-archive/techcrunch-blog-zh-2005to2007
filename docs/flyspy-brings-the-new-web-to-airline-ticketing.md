@@ -1,4 +1,4 @@
-# Flyspy 为航空票务带来新网络 TechCrunch
+# Flyspy 为航空票务带来新网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/20/flyspy-brings-the-new-web-to-airline-ticketing/>
 

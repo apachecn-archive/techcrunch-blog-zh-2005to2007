@@ -1,4 +1,4 @@
-# 带电视输出的 USB 读卡器–TechCrunch
+# 带电视输出的 USB 读卡器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/usb-card-reader-with-tv-out/>
 

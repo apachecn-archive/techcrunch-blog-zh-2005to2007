@@ -1,4 +1,4 @@
-# SoundTech LightSnake iChat USB 耳机和麦克风:苹果知道这件事吗？TechCrunch
+# SoundTech LightSnake iChat USB 耳机和麦克风:苹果知道这件事吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/soundtech-lightsnake-ichat-usb-headset-and-mic-does-apple-know-about-this/>
 

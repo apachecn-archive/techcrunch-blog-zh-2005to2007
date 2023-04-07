@@ -1,4 +1,4 @@
-# iBag 转盘:加上 iPod，减去转盘——TechCrunch
+# iBag 转盘:加上 iPod，减去转盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/30/ibag-turntable-plus-ipod-minus-turntable/>
 

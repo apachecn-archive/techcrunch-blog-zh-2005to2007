@@ -1,4 +1,4 @@
-# Engadget 因假冒 iPhone 电子邮件使苹果市值缩水 40 亿美元 TechCrunch
+# Engadget 因假冒 iPhone 电子邮件使苹果市值缩水 40 亿美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/16/engadget-knocks-4-billion-of-apple-market-cap-on-bogus-iphone-email/>
 

@@ -1,4 +1,4 @@
-# 铁拳 6 野外游戏| TechCrunch
+# 铁拳 6 野外游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/tekken-6-gameplay-in-the-wild/>
 

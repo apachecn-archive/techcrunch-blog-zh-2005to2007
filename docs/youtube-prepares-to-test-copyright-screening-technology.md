@@ -1,4 +1,4 @@
-# YouTube 将测试版权屏蔽技术 TechCrunch
+# YouTube 将测试版权屏蔽技术 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/youtube-prepares-to-test-copyright-screening-technology/>
 

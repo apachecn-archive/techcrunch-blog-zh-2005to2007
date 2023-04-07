@@ -1,4 +1,4 @@
-# Web 2.0 的学术宣言？TechCrunch
+# Web 2.0 的学术宣言？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/an-academic-manifesto-for-web-20/>
 

@@ -1,4 +1,4 @@
-# Bittorent–TechCrunch 上提供 Windows Vista 测试版
+# Bittorent 上提供 Windows Vista 测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/11/windows-vista-beta-available-on-bittorent/>
 

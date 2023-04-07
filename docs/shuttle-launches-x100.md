@@ -1,4 +1,4 @@
-# 航天飞机发射 X100 | TechCrunch
+# 航天飞机发射 X100 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/14/shuttle-launches-x100/>
 

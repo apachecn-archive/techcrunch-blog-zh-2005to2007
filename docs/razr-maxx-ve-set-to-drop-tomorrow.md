@@ -1,4 +1,4 @@
-# RAZR MAXX Ve 设置为明天下降？–TechCrunch
+# RAZR MAXX Ve 设置为明天下降？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/razr-maxx-ve-set-to-drop-tomorrow/>
 

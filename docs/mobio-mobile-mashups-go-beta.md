@@ -1,4 +1,4 @@
-# Mobio 移动混搭测试版——TechCrunch
+# Mobio 移动混搭测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/mobio-mobile-mashups-go-beta/>
 

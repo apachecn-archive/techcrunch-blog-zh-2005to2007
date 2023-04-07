@@ -1,4 +1,4 @@
-# AC/DC 冷落 iTunes，加入威瑞森| TechCrunch
+# AC/DC 冷落 iTunes，加入威瑞森
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/acdc-snubs-itunes-joins-verizon/>
 

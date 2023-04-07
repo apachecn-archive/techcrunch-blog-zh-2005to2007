@@ -1,4 +1,4 @@
-# Netvibes 推出脸书 Widget 有点问题 TechCrunch
+# Netvibes 推出脸书 Widget 有点问题 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/02/netvibes-launches-facebook-widget-its-a-little-buggy/>
 

@@ -1,4 +1,4 @@
-# 手机排毒大赛:第二天| TechCrunch
+# 手机排毒大赛:第二天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/09/cell-phone-detox-contest-day-02/>
 

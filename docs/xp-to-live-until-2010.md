@@ -1,4 +1,4 @@
-# XP 将延续到 2010 年| TechCrunch
+# XP 将延续到 2010 年
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/xp-to-live-until-2010/>
 

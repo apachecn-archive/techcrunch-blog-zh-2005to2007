@@ -1,4 +1,4 @@
-# NetSuite 上市，估值 10 亿美元 TechCrunch
+# NetSuite 上市，估值 10 亿美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/19/netsuites-going-public-looking-for-1-billion-valuation/>
 

@@ -1,4 +1,4 @@
-# 奥林巴斯 SP-550 UZ:补偿你的小…变焦| TechCrunch
+# 奥林巴斯 SP-550 UZ:补偿你的小…变焦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/10/olympus-sp-550-uz-compensating-for-your-wee-zoom/>
 

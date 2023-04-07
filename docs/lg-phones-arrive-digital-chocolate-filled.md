@@ -1,4 +1,4 @@
-# LG 手机抵达充满数字巧克力的 TechCrunch
+# LG 手机抵达充满数字巧克力的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/18/lg-phones-arrive-digital-chocolate-filled/>
 

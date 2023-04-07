@@ -1,4 +1,4 @@
-# 想要免费的 iPod 游戏？–TechCrunch
+# 想要免费的 iPod 游戏？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/29/want-free-ipod-games/>
 

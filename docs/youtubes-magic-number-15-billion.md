@@ -1,4 +1,4 @@
-# YouTube 的神奇数字——15 亿美元 TechCrunch
+# YouTube 的神奇数字——15 亿美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/21/youtubes-magic-number-15-billion/>
 

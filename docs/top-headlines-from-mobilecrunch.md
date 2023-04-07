@@ -1,4 +1,4 @@
-# 来自 MobileCrunch | TechCrunch 的头条新闻
+# 来自 MobileCrunch  的头条新闻
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/11/top-headlines-from-mobilecrunch/>
 

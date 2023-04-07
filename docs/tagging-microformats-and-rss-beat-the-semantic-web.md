@@ -1,4 +1,4 @@
-# 标签、微格式和 RSS 打败了语义网？–TechCrunch
+# 标签、微格式和 RSS 打败了语义网？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/30/tagging-microformats-and-rss-beat-the-semantic-web/>
 

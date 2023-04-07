@@ -1,4 +1,4 @@
-# FeedBurner 是在挑战信任的极限吗？–TechCrunch
+# FeedBurner 是在挑战信任的极限吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/07/is-feedburner-pushing-the-envelope-on-trust/>
 

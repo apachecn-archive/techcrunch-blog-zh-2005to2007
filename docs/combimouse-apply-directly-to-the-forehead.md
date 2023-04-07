@@ -1,4 +1,4 @@
-# CombiMouse:直接涂在前额——TechCrunch
+# CombiMouse:直接涂在前额
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/combimouse-apply-directly-to-the-forehead/>
 

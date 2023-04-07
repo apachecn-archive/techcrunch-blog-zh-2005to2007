@@ -1,4 +1,4 @@
-# 认识 Antikythera 机制| TechCrunch
+# 认识 Antikythera 机制
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/meet-the-antikythera-mechanism/>
 

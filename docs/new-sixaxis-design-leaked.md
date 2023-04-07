@@ -1,4 +1,4 @@
-# 新六轴设计泄露？TechCrunch
+# 新六轴设计泄露？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/new-sixaxis-design-leaked/>
 

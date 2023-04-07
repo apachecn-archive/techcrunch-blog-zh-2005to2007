@@ -1,4 +1,4 @@
-# Pickle 让照片、视频分享像电子邮件一样简单——TechCrunch
+# Pickle 让照片、视频分享像电子邮件一样简单
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/19/pickle-makes-photo-video-sharing-easy-as-email/>
 

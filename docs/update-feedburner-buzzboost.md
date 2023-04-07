@@ -1,4 +1,4 @@
-# 更新–Feedburner(BuzzBoost)–TechCrunch
+# 更新–Feedburner(BuzzBoost)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2005/07/15/update-feedburner-buzzboost/>
 

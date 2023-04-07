@@ -1,4 +1,4 @@
-# 百思买在网站上添加 Insignia NS-DV2G、DV4G，廉价混蛋飘飘然| TechCrunch
+# 百思买在网站上添加 Insignia NS-DV2G、DV4G，廉价混蛋飘飘然
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/best-buy-adds-insignia-ns-dv2g-dv4g-to-site-cheap-bastards-rejoice/>
 

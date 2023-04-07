@@ -1,4 +1,4 @@
-# 脸书获得更多诉讼乐趣——TechCrunch
+# 脸书获得更多诉讼乐趣
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/07/more-lawsuit-fun-for-facebook/>
 

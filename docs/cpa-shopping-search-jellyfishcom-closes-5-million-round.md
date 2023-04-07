@@ -1,4 +1,4 @@
-# CPA 购物搜索水母完成 500 万美元融资 TechCrunch
+# CPA 购物搜索水母完成 500 万美元融资 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/27/cpa-shopping-search-jellyfishcom-closes-5-million-round>
 

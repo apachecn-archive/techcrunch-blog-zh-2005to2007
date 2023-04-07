@@ -1,4 +1,4 @@
-# PMA 2007:索尼新闻发布会——TechCrunch
+# PMA 2007:索尼新闻发布会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/pma-2007-sony-press-conference/>
 

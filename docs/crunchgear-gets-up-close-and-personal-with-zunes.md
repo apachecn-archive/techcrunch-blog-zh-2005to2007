@@ -1,4 +1,4 @@
-# CrunchGear 近距离接触 Zunes-TechCrunch
+# CrunchGear 近距离接触 Zunes-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/crunchgear-gets-up-close-and-personal-with-zunes/>
 

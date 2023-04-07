@@ -1,4 +1,4 @@
-# 索尼 Cyber-Shot DSC-G1 是公司第一个包含 WiFi | TechCrunch
+# 索尼 Cyber-Shot DSC-G1 是公司第一个包含 WiFi 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/sony-cyber-shot-dsc-g1-is-companys-first-to-include-wi-fi/>
 

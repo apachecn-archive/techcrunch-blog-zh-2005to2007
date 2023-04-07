@@ -1,4 +1,4 @@
-# iZap 电池最初用于 iPod，但在 iPhone | TechCrunch 上却能创造奇迹
+# iZap 电池最初用于 iPod，但在 iPhone  上却能创造奇迹
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/27/originally-for-ipod-izap-battery-works-wonders-on-iphone/>
 

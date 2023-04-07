@@ -1,4 +1,4 @@
-# 创意将 Zen V Plus 提升至 8GB | TechCrunch
+# 创意将 Zen V Plus 提升至 8GB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/creative-bumps-zen-v-plus-to-8gb/>
 

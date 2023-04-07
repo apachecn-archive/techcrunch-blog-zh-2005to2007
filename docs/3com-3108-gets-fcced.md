@@ -1,4 +1,4 @@
-# 3com 3108 获得 FCC 认证–TechCrunch
+# 3com 3108 获得 FCC 认证
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/3com-3108-gets-fcced/>
 

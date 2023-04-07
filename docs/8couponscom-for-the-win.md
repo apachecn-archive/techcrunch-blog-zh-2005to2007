@@ -1,4 +1,4 @@
-# 8coupons.com 的胜利——TechCrunch
+# 8coupons.com 的胜利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/8couponscom-for-the-win/>
 

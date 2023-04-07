@@ -1,4 +1,4 @@
-# 汤姆·克兰西的《彩虹六号:维加斯》支持 Xbox Live Vision——TechCrunch
+# 汤姆·克兰西的《彩虹六号:维加斯》支持 Xbox Live Vision
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/tom-clancys-rainbow-six-vegas-supports-xbox-live-vision/>
 

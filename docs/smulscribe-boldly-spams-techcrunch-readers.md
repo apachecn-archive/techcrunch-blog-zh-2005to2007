@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/19/smulscribe-boldly-spams-techcrunch-readers/>
 
-# SimulScribe 大胆地向读者兜售 TechCrunch
+# SimulScribe 大胆地向读者兜售 
 
 几天前，我写了一篇关于 Spinvox 的文章，这是一家将语音邮件转换成文本并通过电子邮件和/或短信发送给你的初创公司。他们刚刚在美国推出，Spinvox 给了我们 100 个账户免费赠送(这项服务相当昂贵)。超过 300 人在评论中回应说他们想要一个。
 

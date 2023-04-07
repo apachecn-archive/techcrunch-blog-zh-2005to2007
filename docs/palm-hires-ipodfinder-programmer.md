@@ -1,4 +1,4 @@
-# Palm 雇佣 iPod/Finder 程序员| TechCrunch
+# Palm 雇佣 iPod/Finder 程序员
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/palm-hires-ipodfinder-programmer/>
 

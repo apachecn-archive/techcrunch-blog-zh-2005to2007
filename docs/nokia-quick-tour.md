@@ -1,4 +1,4 @@
-# 诺基亚快速游览| TechCrunch
+# 诺基亚快速游览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/nokia-quick-tour/>
 

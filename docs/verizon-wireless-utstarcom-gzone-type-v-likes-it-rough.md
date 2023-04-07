@@ -1,4 +1,4 @@
-# 威瑞森无线 G'zOne Type-V 喜欢粗暴| TechCrunch
+# 威瑞森无线 G'zOne Type-V 喜欢粗暴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/verizon-wireless-utstarcom-gzone-type-v-likes-it-rough/>
 

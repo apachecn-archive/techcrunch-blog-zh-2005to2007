@@ -1,4 +1,4 @@
-# Titan Gear 2G Nano 外壳| TechCrunch
+# Titan Gear 2G Nano 外壳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/titan-gear-2g-nano-case/>
 

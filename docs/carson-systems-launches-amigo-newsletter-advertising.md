@@ -1,4 +1,4 @@
-# 卡森系统公司发布 Amigo 时事通讯广告——TechCrunch
+# 卡森系统公司发布 Amigo 时事通讯广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/09/05/carson-systems-launches-amigo-newsletter-advertising/>
 

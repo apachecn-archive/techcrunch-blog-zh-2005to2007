@@ -1,4 +1,4 @@
-# 从 AOL 数据中确认的第一人:Thelma Arnold——TechCrunch
+# 从 AOL 数据中确认的第一人:Thelma Arnold
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/09/first-person-identified-from-aol-data-thelma-arnold/>
 

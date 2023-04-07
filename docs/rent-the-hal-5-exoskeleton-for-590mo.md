@@ -1,4 +1,4 @@
-# 以 590 美元/月的价格租赁 HAL-5 外骨骼——TechCrunch
+# 以 590 美元/月的价格租赁 HAL-5 外骨骼
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/24/rent-the-hal-5-exoskeleton-for-590mo/>
 

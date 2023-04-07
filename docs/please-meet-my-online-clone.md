@@ -1,4 +1,4 @@
-# 请见见我的邪恶在线克隆——TechCrunch
+# 请见见我的邪恶在线克隆
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/03/please-meet-my-online-clone/>
 

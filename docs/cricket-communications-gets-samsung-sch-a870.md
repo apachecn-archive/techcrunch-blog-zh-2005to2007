@@ -1,4 +1,4 @@
-# 板球通信获得三星 SCH-A870-TechCrunch
+# 板球通信获得三星 SCH-A870-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/cricket-communications-gets-samsung-sch-a870/>
 

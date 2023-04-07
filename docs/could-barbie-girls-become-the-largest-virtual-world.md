@@ -1,4 +1,4 @@
-# 芭比女孩会成为最大的虚拟世界吗？TechCrunch
+# 芭比女孩会成为最大的虚拟世界吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/15/could-barbie-girls-become-the-largest-virtual-world/>
 

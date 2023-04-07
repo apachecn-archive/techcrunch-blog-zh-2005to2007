@@ -1,4 +1,4 @@
-# 诺基亚 N77 将在 3GSM 发布| TechCrunch
+# 诺基亚 N77 将在 3GSM 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/nokia-n77-set-to-launch-at-3gsm/>
 

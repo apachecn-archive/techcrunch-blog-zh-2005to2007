@@ -1,4 +1,4 @@
-# Yoono Buzz It:彻底改造笔记本电脑 TechCrunch
+# Yoono Buzz It:彻底改造笔记本电脑 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/24/yoono-buzz-it-notebooks-reinvented/>
 

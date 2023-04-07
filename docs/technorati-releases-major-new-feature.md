@@ -1,4 +1,4 @@
-# Technorati 发布主要新功能——TechCrunch
+# Technorati 发布主要新功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/01/technorati-releases-major-new-feature/>
 

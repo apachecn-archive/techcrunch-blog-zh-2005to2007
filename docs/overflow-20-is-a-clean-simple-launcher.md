@@ -1,4 +1,4 @@
-# Overflow 2.0 是一个干净、简单的启动器 TechCrunch
+# Overflow 2.0 是一个干净、简单的启动器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/10/overflow-20-is-a-clean-simple-launcher/>
 

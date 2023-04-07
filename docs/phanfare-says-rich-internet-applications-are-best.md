@@ -1,4 +1,4 @@
-# Phanfare 说富互联网应用是最好的——TechCrunch
+# Phanfare 说富互联网应用是最好的
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/phanfare-says-rich-internet-applications-are-best/>
 

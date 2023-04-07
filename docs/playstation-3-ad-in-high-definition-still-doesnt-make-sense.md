@@ -1,4 +1,4 @@
-# PlayStation 3 高清广告-仍然没有意义| TechCrunch
+# PlayStation 3 高清广告-仍然没有意义
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/playstation-3-ad-in-high-definition-still-doesnt-make-sense/>
 

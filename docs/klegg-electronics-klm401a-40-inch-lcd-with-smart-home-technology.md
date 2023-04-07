@@ -1,4 +1,4 @@
-# 克莱格电子 KLM401A 40 英寸液晶显示器，采用智能家居技术| TechCrunch
+# 克莱格电子 KLM401A 40 英寸液晶显示器，采用智能家居技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/klegg-electronics-klm401a-40-inch-lcd-with-smart-home-technology/>
 

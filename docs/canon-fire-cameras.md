@@ -1,4 +1,4 @@
-# 佳能 Fire:相机| TechCrunch
+# 佳能 Fire:相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/14/canon-fire-cameras/>
 

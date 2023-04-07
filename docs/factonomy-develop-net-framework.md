@@ -1,4 +1,4 @@
-# 事实经济发展。NET 框架| TechCrunch
+# 事实经济发展。NET 框架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/02/factonomy-develop-net-framework/>
 

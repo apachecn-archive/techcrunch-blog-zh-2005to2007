@@ -1,4 +1,4 @@
-# NXT 发布新的配备 iPod Dock 的系统——TechCrunch
+# NXT 发布新的配备 iPod Dock 的系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/nxt-announces-new-ipod-dock-equipped-systems/>
 

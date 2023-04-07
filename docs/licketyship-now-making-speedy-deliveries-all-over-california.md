@@ -1,4 +1,4 @@
-# lick etylation 现在可以在整个加州快速送货 TechCrunch
+# lick etylation 现在可以在整个加州快速送货 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/licketyship-now-making-speedy-deliveries-all-over-california/>
 

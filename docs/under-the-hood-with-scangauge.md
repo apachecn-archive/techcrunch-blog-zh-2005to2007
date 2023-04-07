@@ -1,4 +1,4 @@
-# 引擎盖下的 scan gauge–TechCrunch
+# 引擎盖下的 scan gauge
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/03/under-the-hood-with-scangauge/>
 

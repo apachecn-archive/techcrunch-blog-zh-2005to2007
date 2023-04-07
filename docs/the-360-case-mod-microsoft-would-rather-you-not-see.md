@@ -1,4 +1,4 @@
-# 微软不想让你看到的 360 案例——TechCrunch
+# 微软不想让你看到的 360 案例
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/the-360-case-mod-microsoft-would-rather-you-not-see/>
 

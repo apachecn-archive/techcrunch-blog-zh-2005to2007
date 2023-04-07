@@ -1,4 +1,4 @@
-# GigaOm 获得首席运营官——TechCrunch
+# GigaOm 获得首席运营官
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/08/gigaom-gets-a-coo/>
 

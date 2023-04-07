@@ -1,4 +1,4 @@
-# PlayStation 3 游戏机即将上市| TechCrunch
+# PlayStation 3 游戏机即将上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/playstation-3-consoles-on-the-way/>
 

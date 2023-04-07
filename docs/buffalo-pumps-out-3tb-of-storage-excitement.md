@@ -1,4 +1,4 @@
-# 水牛城推出 3TB 令人兴奋的存储| TechCrunch
+# 水牛城推出 3TB 令人兴奋的存储
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/buffalo-pumps-out-3tb-of-storage-excitement/>
 

@@ -1,4 +1,4 @@
-# 亚马逊资助奇幻电影联盟——TechCrunch
+# 亚马逊资助奇幻电影联盟
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/16/amazon-funds-fantasy-movies-league/>
 

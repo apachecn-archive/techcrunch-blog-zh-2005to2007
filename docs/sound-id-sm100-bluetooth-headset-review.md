@@ -1,4 +1,4 @@
-# Sound ID SM100 蓝牙耳机评论| TechCrunch
+# Sound ID SM100 蓝牙耳机评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/sound-id-sm100-bluetooth-headset-review/>
 

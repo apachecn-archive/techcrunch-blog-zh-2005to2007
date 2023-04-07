@@ -1,4 +1,4 @@
-# 伙计说苹果真的在考虑订阅 iTunes——TechCrunch
+# 伙计说苹果真的在考虑订阅 iTunes
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/dude-says-apple-really-considering-subscription-itunes/>
 

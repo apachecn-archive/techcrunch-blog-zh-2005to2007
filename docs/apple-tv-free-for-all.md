@@ -1,4 +1,4 @@
-# 苹果电视免费| TechCrunch
+# 苹果电视免费
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/06/apple-tv-free-for-all/>
 

@@ -1,4 +1,4 @@
-# JBL 推出 ES 系列扬声器| TechCrunch
+# JBL 推出 ES 系列扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/24/jbl-debuts-es-series-speakers/>
 

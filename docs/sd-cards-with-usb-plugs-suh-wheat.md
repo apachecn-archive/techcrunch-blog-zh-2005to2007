@@ -1,4 +1,4 @@
-# 带 USB 插头的 SD 卡。苏小麦！TechCrunch
+# 带 USB 插头的 SD 卡。苏小麦！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/13/sd-cards-with-usb-plugs-suh-wheat/>
 

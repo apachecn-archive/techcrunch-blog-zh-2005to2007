@@ -1,4 +1,4 @@
-# 音乐助推器便携式 DJ 钻机| TechCrunch
+# 音乐助推器便携式 DJ 钻机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/06/music-booster-portable-dj-rig/>
 

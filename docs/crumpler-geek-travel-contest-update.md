@@ -1,4 +1,4 @@
-# Crumpler 极客旅行大赛更新| TechCrunch
+# Crumpler 极客旅行大赛更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/21/crumpler-geek-travel-contest-update/>
 

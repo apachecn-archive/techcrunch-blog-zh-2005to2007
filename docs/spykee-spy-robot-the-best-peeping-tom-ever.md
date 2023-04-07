@@ -1,4 +1,4 @@
-# Spykee 间谍机器人——史上最好的偷窥狂| TechCrunch
+# Spykee 间谍机器人——史上最好的偷窥狂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/spykee-spy-robot-the-best-peeping-tom-ever/>
 

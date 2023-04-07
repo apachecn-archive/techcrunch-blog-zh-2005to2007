@@ -1,4 +1,4 @@
-# EA Mobile 带着 Madden NFL 08 上场；推出新的 Bejeweled for Mobile | TechCrunch
+# EA Mobile 带着 Madden NFL 08 上场；推出新的 Bejeweled for Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/13/ea-mobile-takes-the-field-with-madden-nfl-08-introduces-new-bejeweled-for-mobile/>
 

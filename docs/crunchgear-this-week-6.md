@@ -1,4 +1,4 @@
-# 本周 crunch gear——TechCrunch
+# 本周 crunch gear
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/01/crunchgear-this-week-6/>
 

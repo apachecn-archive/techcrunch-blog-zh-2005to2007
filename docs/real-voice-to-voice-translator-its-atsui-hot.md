@@ -1,4 +1,4 @@
-# 真正的语音到语音的翻译，这是阿茨伊(热)！TechCrunch
+# 真正的语音到语音的翻译，这是阿茨伊(热)！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/real-voice-to-voice-translator-its-atsui-hot/>
 

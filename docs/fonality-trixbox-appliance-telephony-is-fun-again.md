@@ -1,4 +1,4 @@
-# 电话再次变得有趣！TechCrunch
+# 电话再次变得有趣！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/fonality-trixbox-appliance-telephony-is-fun-again/>
 

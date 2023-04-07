@@ -1,4 +1,4 @@
-# 母亲节 Zune 大赛:第二天| TechCrunch
+# 母亲节 Zune 大赛:第二天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/mothers-day-zune-contest-day-2/>
 

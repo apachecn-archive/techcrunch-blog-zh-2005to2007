@@ -1,4 +1,4 @@
-# Vertu 星座评论——TechCrunch
+# Vertu 星座评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/03/vertu-constellation-reviewed-2/>
 

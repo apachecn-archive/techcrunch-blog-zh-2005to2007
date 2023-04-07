@@ -1,4 +1,4 @@
-# 由蹩脚电子产品制成的圣诞树——TechCrunch
+# 由蹩脚电子产品制成的圣诞树
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/xmas-tree-made-of-crappy-electronics/>
 

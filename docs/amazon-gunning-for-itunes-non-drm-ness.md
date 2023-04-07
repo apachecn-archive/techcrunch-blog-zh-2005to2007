@@ -1,4 +1,4 @@
-# 亚马逊瞄准 iTunes 的非数字版权管理？–TechCrunch
+# 亚马逊瞄准 iTunes 的非数字版权管理？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/23/amazon-gunning-for-itunes-non-drm-ness/>
 

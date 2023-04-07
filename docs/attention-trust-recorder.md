@@ -1,4 +1,4 @@
-# 注意力信任记录器 TechCrunch
+# 注意力信任记录器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/05/attention-trust-recorder/>
 

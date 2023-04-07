@@ -1,4 +1,4 @@
-# 在 Da 俱乐部:比尔盖茨 TechCrunch
+# 在 Da 俱乐部:比尔盖茨 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/in-da-club-bill-gates/>
 

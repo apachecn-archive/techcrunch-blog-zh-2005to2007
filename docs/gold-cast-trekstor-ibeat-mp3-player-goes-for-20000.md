@@ -1,4 +1,4 @@
-# 黄金铸造的 TrekStor i.Beat MP3 播放器售价 2 万美元——TechCrunch
+# 黄金铸造的 TrekStor i.Beat MP3 播放器售价 2 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/gold-cast-trekstor-ibeat-mp3-player-goes-for-20000/>
 

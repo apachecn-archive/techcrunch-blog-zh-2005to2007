@@ -1,4 +1,4 @@
-# SanDisk 固态硬盘 Ultra ATA 5000 已准备好迎接黄金时代——TechCrunch
+# SanDisk 固态硬盘 Ultra ATA 5000 已准备好迎接黄金时代
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/04/sandisk-ssd-ultra-ata-5000-ready-for-primetime/>
 

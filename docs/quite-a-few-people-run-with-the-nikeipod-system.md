@@ -1,4 +1,4 @@
-# 很多人使用 Nike+iPod 系统——TechCrunch 跑步
+# 很多人使用 Nike+iPod 系统 跑步
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/quite-a-few-people-run-with-the-nikeipod-system/>
 

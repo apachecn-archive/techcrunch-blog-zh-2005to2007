@@ -1,4 +1,4 @@
-# Elecom iPod Dock | TechCrunch
+# Elecom iPod Dock 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/elecom-ipod-dock/>
 

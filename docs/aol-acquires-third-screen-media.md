@@ -1,4 +1,4 @@
-# AOL 收购第三屏媒体| TechCrunch
+# AOL 收购第三屏媒体
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/aol-acquires-third-screen-media/>
 

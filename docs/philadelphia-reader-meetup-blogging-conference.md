@@ -1,4 +1,4 @@
-# 费城读者聚会和博客会议——TechCrunch
+# 费城读者聚会和博客会议
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/philadelphia-reader-meetup-blogging-conference/>
 

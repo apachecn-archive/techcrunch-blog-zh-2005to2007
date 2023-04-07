@@ -1,4 +1,4 @@
-# 快速发布白色标签 Adsense/Adwords–TechCrunch
+# 快速发布白色标签 Adsense/Adwords
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/05/fast-releases-white-label-adsenseadwords/>
 

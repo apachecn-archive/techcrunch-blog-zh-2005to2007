@@ -1,4 +1,4 @@
-# Sprint Treo 700wx 手册已经在线| TechCrunch
+# Sprint Treo 700wx 手册已经在线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/sprint-treo-700wx-manual-online-already/>
 

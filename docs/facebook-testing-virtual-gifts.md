@@ -1,4 +1,4 @@
-# 脸书测试虚拟礼物 TechCrunch
+# 脸书测试虚拟礼物 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/facebook-testing-virtual-gifts/>
 

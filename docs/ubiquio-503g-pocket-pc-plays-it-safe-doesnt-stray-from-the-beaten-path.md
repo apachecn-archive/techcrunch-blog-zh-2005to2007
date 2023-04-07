@@ -1,4 +1,4 @@
-# UBiQUiO 503G Pocket PC 安全运行，不偏离常规——TechCrunch
+# UBiQUiO 503G Pocket PC 安全运行，不偏离常规
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/02/ubiquio-503g-pocket-pc-plays-it-safe-doesnt-stray-from-the-beaten-path/>
 

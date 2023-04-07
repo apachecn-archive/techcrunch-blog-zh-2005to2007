@@ -1,4 +1,4 @@
-# 微软认为它很酷，破坏了 PS3 Euro 发布——TechCrunch
+# 微软认为它很酷，破坏了 PS3 Euro 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/26/microsoft-thinks-its-cool-crashes-ps3-euro-launch/>
 

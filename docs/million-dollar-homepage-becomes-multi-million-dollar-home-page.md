@@ -1,4 +1,4 @@
-# 百万美元主页变成百万美元主页——TechCrunch
+# 百万美元主页变成百万美元主页
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/01/million-dollar-homepage-becomes-multi-million-dollar-home-page>
 

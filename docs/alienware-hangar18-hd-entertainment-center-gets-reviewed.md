@@ -1,4 +1,4 @@
-# 外星人航站 18 高清娱乐中心获得审查| TechCrunch
+# 外星人航站 18 高清娱乐中心获得审查
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/alienware-hangar18-hd-entertainment-center-gets-reviewed/>
 

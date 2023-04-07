@@ -1,4 +1,4 @@
-# 万能钥匙被打败了？TechCrunch
+# 万能钥匙被打败了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/masterlock-bested/>
 

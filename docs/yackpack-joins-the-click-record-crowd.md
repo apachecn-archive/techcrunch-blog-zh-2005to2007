@@ -1,4 +1,4 @@
-# YackPack 加入点击、记录人群| TechCrunch
+# YackPack 加入点击、记录人群
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/05/yackpack-joins-the-click-record-crowd/>
 

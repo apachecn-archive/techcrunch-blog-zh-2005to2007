@@ -1,4 +1,4 @@
-# 索尼在日本推出 eyeVio YouTube 克隆版——TechCrunch
+# 索尼在日本推出 eyeVio YouTube 克隆版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/sony-launches-eyevio-youtube-clone-in-japan/>
 

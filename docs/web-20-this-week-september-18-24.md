@@ -1,4 +1,4 @@
-# Web 2.0 本周(9 月 18 日至 24 日)——TechCrunch
+# Web 2.0 本周(9 月 18 日至 24 日)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/26/web-20-this-week-september-18-24/>
 

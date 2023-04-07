@@ -1,4 +1,4 @@
-# 泄露的 360 仪表板更新–TechCrunch
+# 泄露的 360 仪表板更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/07/leaked-360-dashboard-updates/>
 

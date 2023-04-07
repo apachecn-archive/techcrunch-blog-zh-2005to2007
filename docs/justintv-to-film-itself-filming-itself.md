@@ -1,4 +1,4 @@
-# 贾斯汀。电视拍摄自己拍摄自己| TechCrunch
+# 贾斯汀。电视拍摄自己拍摄自己
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/justintv-to-film-itself-filming-itself/>
 

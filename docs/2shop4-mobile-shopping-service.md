@@ -1,4 +1,4 @@
-# 2shop4 移动购物服务| TechCrunch
+# 2shop4 移动购物服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/2shop4-mobile-shopping-service/>
 

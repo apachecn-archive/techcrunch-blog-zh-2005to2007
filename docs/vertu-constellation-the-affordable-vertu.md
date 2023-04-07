@@ -1,4 +1,4 @@
-# Vertu 星座:经济实惠的 Vertu | TechCrunch
+# Vertu 星座:经济实惠的 Vertu 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/vertu-constellation-the-affordable-vertu/>
 

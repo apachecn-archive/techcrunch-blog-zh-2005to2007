@@ -1,4 +1,4 @@
-# 伦敦狂欢的那一周…接下来是巴黎。TechCrunch
+# 伦敦狂欢的那一周…接下来是巴黎。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/04/the-week-when-london-partied-paris-next/>
 

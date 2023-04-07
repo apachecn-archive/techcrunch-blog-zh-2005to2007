@@ -1,4 +1,4 @@
-# 依然强劲——TechCrunch
+# 依然强劲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/ampd-still-going-strong/>
 

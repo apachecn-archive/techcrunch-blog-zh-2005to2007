@@ -1,4 +1,4 @@
-# 酷炫的 Xbox 360s 即将推出 HDMI——TechCrunch
+# 酷炫的 Xbox 360s 即将推出 HDMI
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/08/cooler-xbox-360s-with-hdmi-on-the-way/>
 

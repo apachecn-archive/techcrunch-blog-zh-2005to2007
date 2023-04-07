@@ -1,4 +1,4 @@
-# 死亡之池的所有免费电话，免费电话又来了 TechCrunch
+# 死亡之池的所有免费电话，免费电话又来了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/13/allfreecalls-back-from-deadpool-now-called-yak4ever/>
 

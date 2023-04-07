@@ -1,4 +1,4 @@
-# 用摩托 Q 猎鬼！–TechCrunch
+# 用摩托 Q 猎鬼！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/hunt-ghosts-with-the-moto-q/>
 

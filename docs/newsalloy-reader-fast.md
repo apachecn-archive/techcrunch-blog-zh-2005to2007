@@ -1,4 +1,4 @@
-# news alloy Reader = Fast TechCrunch
+# news alloy Reader = Fast 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/29/newsalloy-reader-fast/>
 

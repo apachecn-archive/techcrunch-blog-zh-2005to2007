@@ -1,4 +1,4 @@
-# 罗约变得相关——TechCrunch
+# 罗约变得相关
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/16/rojo-gets-relevant/>
 

@@ -1,4 +1,4 @@
-# 三星 i570 震撼塞班操作系统——TechCrunch
+# 三星 i570 震撼塞班操作系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/samsung-i570-rocks-symbian-os/>
 

@@ -1,4 +1,4 @@
-# WeShow:人力视频目录 TechCrunch
+# WeShow:人力视频目录 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/11/weshow-human-powered-video-directory/>
 

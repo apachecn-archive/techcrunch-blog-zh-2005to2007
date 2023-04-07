@@ -1,4 +1,4 @@
-# StashSpace 将全长在线视频编辑带给大众 TechCrunch
+# StashSpace 将全长在线视频编辑带给大众 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/02/stashspace-to-take-full-length-online-video-editing-to-the-masses>
 

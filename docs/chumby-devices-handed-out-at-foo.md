@@ -1,4 +1,4 @@
-# 在 Foo–TechCrunch 上分发 Chumby 设备
+# 在 Foo 上分发 Chumby 设备
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/27/chumby-devices-handed-out-at-foo/>
 

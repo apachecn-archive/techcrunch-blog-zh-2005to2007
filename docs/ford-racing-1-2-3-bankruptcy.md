@@ -1,4 +1,4 @@
-# 福特赛车:1，2，3，破产 TechCrunch
+# 福特赛车:1，2，3，破产 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/ford-racing-1-2-3-bankruptcy/>
 

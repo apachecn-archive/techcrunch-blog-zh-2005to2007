@@ -1,4 +1,4 @@
-# 给你的 iPhone 添加铃声…抱歉，仅限 XP/Vista | TechCrunch
+# 给你的 iPhone 添加铃声…抱歉，仅限 XP/Vista 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/25/add-ringtones-to-your-iphone-sorry-xpvista-only/>
 

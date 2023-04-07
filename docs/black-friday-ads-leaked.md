@@ -1,4 +1,4 @@
-# 黑色星期五广告泄露——TechCrunch
+# 黑色星期五广告泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/black-friday-ads-leaked/>
 

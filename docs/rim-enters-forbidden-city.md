@@ -1,4 +1,4 @@
-# RIM 进入紫禁城| TechCrunch
+# RIM 进入紫禁城
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/06/rim-enters-forbidden-city/>
 

@@ -1,4 +1,4 @@
-# 卡尔卡松的美味游戏 TechCrunch
+# 卡尔卡松的美味游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/a-tasty-game-of-carcassonne/>
 

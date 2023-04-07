@@ -1,4 +1,4 @@
-# Skype PocketPC 2.1 测试版发布–TechCrunch
+# Skype PocketPC 2.1 测试版发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/skype-pocketpc-21-beta-released/>
 

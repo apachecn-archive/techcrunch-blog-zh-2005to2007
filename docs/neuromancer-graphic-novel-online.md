@@ -1,4 +1,4 @@
-# 神经漫游者在线漫画小说——TechCrunch
+# 神经漫游者在线漫画小说
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/neuromancer-graphic-novel-online/>
 

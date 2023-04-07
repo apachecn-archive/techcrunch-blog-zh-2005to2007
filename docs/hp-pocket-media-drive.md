@@ -1,4 +1,4 @@
-# 惠普掌上媒体驱动器| TechCrunch
+# 惠普掌上媒体驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/hp-pocket-media-drive/>
 

@@ -1,4 +1,4 @@
-# 从 Reggie | TechCrunch 获取 Wii
+# 从 Reggie  获取 Wii
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/grab-a-wii-for-free/>
 

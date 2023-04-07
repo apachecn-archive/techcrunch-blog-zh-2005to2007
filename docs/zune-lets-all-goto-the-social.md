@@ -1,4 +1,4 @@
-# Zune:让我们都去社交| TechCrunch 吧
+# Zune:让我们都去社交 吧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/17/zune-lets-all-goto-the-social/>
 

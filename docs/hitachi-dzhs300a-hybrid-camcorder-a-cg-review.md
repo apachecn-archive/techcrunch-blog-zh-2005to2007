@@ -1,4 +1,4 @@
-# 日立 DZHS300A 混合摄像机评论| TechCrunch
+# 日立 DZHS300A 混合摄像机评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/hitachi-dzhs300a-hybrid-camcorder-a-cg-review/>
 

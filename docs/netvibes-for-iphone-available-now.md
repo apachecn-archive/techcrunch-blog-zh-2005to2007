@@ -1,4 +1,4 @@
-# 现在可以使用针对苹果手机的 netvibes——TechCrunch
+# 现在可以使用针对苹果手机的 netvibes
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/14/netvibes-for-iphone-available-now/>
 

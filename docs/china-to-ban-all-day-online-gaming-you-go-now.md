@@ -1,4 +1,4 @@
-# 中国将禁止全天在线游戏:你现在就去！–TechCrunch
+# 中国将禁止全天在线游戏:你现在就去！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/china-to-ban-all-day-online-gaming-you-go-now/>
 

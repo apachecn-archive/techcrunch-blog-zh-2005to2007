@@ -1,4 +1,4 @@
-# Kingston 发布 SD、microSD 移动套件| TechCrunch
+# Kingston 发布 SD、microSD 移动套件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/kingston-announces-sd-microsd-mobility-kit/>
 

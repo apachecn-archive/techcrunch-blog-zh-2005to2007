@@ -1,4 +1,4 @@
-# 回顾:KEF 3000 系列家庭影院系统–TechCrunch
+# 回顾:KEF 3000 系列家庭影院系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/03/review-kef-3000-series-home-theater-system/>
 

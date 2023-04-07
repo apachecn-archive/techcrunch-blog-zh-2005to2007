@@ -1,4 +1,4 @@
-# DigiMate III:使用类固醇的 USB 读卡器–TechCrunch
+# DigiMate III:使用类固醇的 USB 读卡器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/18/digimate-iii-usb-card-reader-on-steroids/>
 

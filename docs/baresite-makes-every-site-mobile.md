@@ -1,4 +1,4 @@
-# 裸机让每个网站都是移动的——TechCrunch
+# 裸机让每个网站都是移动的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/16/baresite-makes-every-site-mobile/>
 

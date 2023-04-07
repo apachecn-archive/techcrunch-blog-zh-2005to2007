@@ -1,4 +1,4 @@
-# Xbox 360 GPU 秋季瘦身——TechCrunch
+# Xbox 360 GPU 秋季瘦身
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/xbox-360-gpu-slims-down-for-fall/>
 

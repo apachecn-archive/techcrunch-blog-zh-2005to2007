@@ -1,4 +1,4 @@
-# JVC 推出全球最大的高清电视——TechCrunch
+# JVC 推出全球最大的高清电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/jvc-unveils-worlds-largest-hdtv/>
 

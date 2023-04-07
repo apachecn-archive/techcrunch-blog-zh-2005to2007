@@ -1,4 +1,4 @@
-# 威瑞森将关闭 Amp-d 手机？–TechCrunch
+# 威瑞森将关闭 Amp-d 手机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/verizon-to-shut-off-ampd-mobile/>
 

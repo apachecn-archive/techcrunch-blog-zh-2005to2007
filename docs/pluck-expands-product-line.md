@@ -1,4 +1,4 @@
-# Pluck 扩展产品线 TechCrunch
+# Pluck 扩展产品线 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/16/pluck-expands-product-line/>
 

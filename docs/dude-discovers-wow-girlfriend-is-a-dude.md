@@ -1,4 +1,4 @@
-# 哥们发现哇女朋友是个男的| TechCrunch
+# 哥们发现哇女朋友是个男的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/27/dude-discovers-wow-girlfriend-is-a-dude/>
 

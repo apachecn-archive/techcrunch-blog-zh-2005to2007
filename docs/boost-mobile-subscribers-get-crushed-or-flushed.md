@@ -1,4 +1,4 @@
-# 推动移动用户被挤垮或被冲走——TechCrunch
+# 推动移动用户被挤垮或被冲走
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/boost-mobile-subscribers-get-crushed-or-flushed/>
 

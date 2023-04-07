@@ -1,4 +1,4 @@
-# SalaryScout:简单的社会薪资比较 TechCrunch
+# SalaryScout:简单的社会薪资比较 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/20/salaryscout-simple-social-salary-comparison/>
 

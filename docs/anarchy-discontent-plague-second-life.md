@@ -1,4 +1,4 @@
-# 无政府状态、不满困扰第二人生 TechCrunch
+# 无政府状态、不满困扰第二人生 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/23/anarchy-discontent-plague-second-life/>
 

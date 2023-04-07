@@ -1,4 +1,4 @@
-# ZohoProjects 挑战项目管理大本营 TechCrunch
+# ZohoProjects 挑战项目管理大本营 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/25/zohoprojects-challenges-basecamp-on-project-management/>
 

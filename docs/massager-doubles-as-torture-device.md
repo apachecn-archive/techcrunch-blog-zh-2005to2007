@@ -1,4 +1,4 @@
-# 按摩器兼做刑具| TechCrunch
+# 按摩器兼做刑具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/04/massager-doubles-as-torture-device/>
 

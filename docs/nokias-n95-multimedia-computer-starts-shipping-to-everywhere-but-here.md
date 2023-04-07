@@ -1,4 +1,4 @@
-# 诺基亚的 N95“多媒体电脑”开始向世界各地发货，除了这里——TechCrunch
+# 诺基亚的 N95“多媒体电脑”开始向世界各地发货，除了这里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/22/nokias-n95-multimedia-computer-starts-shipping-to-everywhere-but-here/>
 

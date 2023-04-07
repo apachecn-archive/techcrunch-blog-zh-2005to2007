@@ -1,4 +1,4 @@
-# 鲍尔默在 Zune 手机上，登月:胡扯！TechCrunch
+# 鲍尔默在 Zune 手机上，登月:胡扯！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/25/ballmer-on-zune-phone-moon-landing-poppycock/>
 

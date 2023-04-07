@@ -1,4 +1,4 @@
-# VistaBloggerLaptopGate:一个有趣的视角——TechCrunch
+# VistaBloggerLaptopGate:一个有趣的视角
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/vistabloggerlaptopgate-an-interesting-perspective/>
 

@@ -1,4 +1,4 @@
-# 简介:雨天发呆| TechCrunch
+# 简介:雨天发呆
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/29/profile-rainy-daze/>
 

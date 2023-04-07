@@ -1,4 +1,4 @@
-# 识别器:轻轻一扫，CD/DVD 数据全部销毁| TechCrunch
+# 识别器:轻轻一扫，CD/DVD 数据全部销毁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/10/disceraser-one-swipe-for-total-cddvd-data-destruction/>
 

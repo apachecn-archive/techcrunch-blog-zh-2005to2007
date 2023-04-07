@@ -1,4 +1,4 @@
-# TechStars 企业家夏令营:选出优胜者——TechCrunch
+# TechStars 企业家夏令营:选出优胜者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/18/techstars-makes-selections-start-up-summer-camp-for-10-teams/>
 

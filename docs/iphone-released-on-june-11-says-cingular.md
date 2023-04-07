@@ -1,4 +1,4 @@
-# 6 月 11 日发布的 iPhone 称 Cingular | TechCrunch
+# 6 月 11 日发布的 iPhone 称 Cingular 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/30/iphone-released-on-june-11-says-cingular/>
 

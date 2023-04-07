@@ -1,4 +1,4 @@
-# eSommelier 葡萄酒库存过多| TechCrunch
+# eSommelier 葡萄酒库存过多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/esommelier-inventories-wine-excessively/>
 

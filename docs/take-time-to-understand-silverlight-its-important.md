@@ -1,4 +1,4 @@
-# 为什么 Silverlight 很重要 TechCrunch
+# 为什么 Silverlight 很重要 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/01/take-time-to-understand-silverlight-its-important/>
 

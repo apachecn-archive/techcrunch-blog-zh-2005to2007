@@ -1,4 +1,4 @@
-# Arriva 创造了头戴式 iPod Shuffle | TechCrunch
+# Arriva 创造了头戴式 iPod Shuffle 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/arriva-creates-noggin-mounted-ipod-shuffle/>
 

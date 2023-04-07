@@ -1,4 +1,4 @@
-# 明基为嗯…是混蛋道歉| TechCrunch
+# 明基为嗯…是混蛋道歉
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/benq-apologizes-for-ummm-being-jerks/>
 

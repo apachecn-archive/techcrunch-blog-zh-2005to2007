@@ -1,4 +1,4 @@
-# 诺基亚 N800 拥有类似 iPhone 的键盘| TechCrunch
+# 诺基亚 N800 拥有类似 iPhone 的键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/nokia-n800-gets-iphone-like-keyboard/>
 

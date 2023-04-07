@@ -1,4 +1,4 @@
-# 苹果起诉 iGasm 广告——TechCrunch
+# 苹果起诉 iGasm 广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/23/apple-sues-over-igasm-ads/>
 

@@ -1,4 +1,4 @@
-# 安桥 VR-1000J 录像机| TechCrunch
+# 安桥 VR-1000J 录像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/20/onkyo-vr-1000j-video-recorder/>
 

@@ -1,4 +1,4 @@
-# Idiomag.com 今天晚些时候发布| TechCrunch
+# Idiomag.com 今天晚些时候发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/03/idiomagcom-launches-later-today/>
 

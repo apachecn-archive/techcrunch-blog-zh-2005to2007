@@ -1,4 +1,4 @@
-# 预算有限的游戏显卡| TechCrunch
+# 预算有限的游戏显卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/27/gaming-graphics-on-a-budget/>
 

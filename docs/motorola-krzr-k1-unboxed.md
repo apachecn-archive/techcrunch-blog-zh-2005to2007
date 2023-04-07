@@ -1,4 +1,4 @@
-# 摩托罗拉 KRZR K1 拆箱| TechCrunch
+# 摩托罗拉 KRZR K1 拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/motorola-krzr-k1-unboxed/>
 

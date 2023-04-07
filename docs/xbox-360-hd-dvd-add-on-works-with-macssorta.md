@@ -1,4 +1,4 @@
-# Xbox 360 HD-DVD 附加组件可与 MAC 兼容……类似于 TechCrunch
+# Xbox 360 HD-DVD 附加组件可与 MAC 兼容……类似于 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/xbox-360-hd-dvd-add-on-works-with-macssorta/>
 

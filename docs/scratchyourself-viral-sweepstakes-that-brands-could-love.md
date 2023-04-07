@@ -1,4 +1,4 @@
-# ScratchYourself:品牌可能喜欢的病毒抽奖——TechCrunch
+# ScratchYourself:品牌可能喜欢的病毒抽奖
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/27/scratchyourself-viral-sweepstakes-that-brands-could-love>
 

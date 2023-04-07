@@ -1,4 +1,4 @@
-# 看看谁长大了！–TechCrunch
+# 看看谁长大了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/windows-mobile-crossbow-look-whos-all-grown-up/>
 

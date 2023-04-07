@@ -1,4 +1,4 @@
-# Sprint Nextel | TechCrunch 的移动搜索和购物服务
+# Sprint Nextel  的移动搜索和购物服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/mobile-search-shopping-service-from-sprint-nextel/>
 

@@ -1,4 +1,4 @@
-# 共同评论截图和澄清 TechCrunch
+# 共同评论截图和澄清 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/05/cocomment-screen-shots-and-clarifications/>
 

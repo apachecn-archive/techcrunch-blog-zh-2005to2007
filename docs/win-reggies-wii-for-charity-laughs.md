@@ -1,4 +1,4 @@
-# 为慈善事业赢得雷吉的 Wii，大笑——TechCrunch
+# 为慈善事业赢得雷吉的 Wii，大笑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/win-reggies-wii-for-charity-laughs/>
 

@@ -1,4 +1,4 @@
-# 佳能 Powershot SD900 数码 ELPH 动手| TechCrunch
+# 佳能 Powershot SD900 数码 ELPH 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/canon-powershot-sd900-digital-elph-hands-on/>
 

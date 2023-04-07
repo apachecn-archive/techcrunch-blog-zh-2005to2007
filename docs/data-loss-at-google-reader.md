@@ -1,4 +1,4 @@
-# 谷歌阅读器数据丢失——TechCrunch
+# 谷歌阅读器数据丢失
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/11/data-loss-at-google-reader/>
 

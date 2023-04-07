@@ -1,4 +1,4 @@
-# HP Media Vault–SoHo 的另一个 NAS–TechCrunch
+# HP Media Vault–SoHo 的另一个 NAS
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/hp-media-vault-another-nas-for-the-soho/>
 

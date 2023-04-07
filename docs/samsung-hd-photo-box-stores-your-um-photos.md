@@ -1,4 +1,4 @@
-# 三星高清照片盒存储您的照片| TechCrunch
+# 三星高清照片盒存储您的照片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/12/samsung-hd-photo-box-stores-your-um-photos/>
 

@@ -1,4 +1,4 @@
-# 梅赛德斯-奔驰 CL 级提供无与伦比的保护——TechCrunch
+# 梅赛德斯-奔驰 CL 级提供无与伦比的保护
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/16/mercedes-benz-cl-class-offers-unparalleled-protection/>
 

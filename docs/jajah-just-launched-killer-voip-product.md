@@ -1,4 +1,4 @@
-# Jajah 刚刚推出了黑仔网络电话产品——TechCrunch
+# Jajah 刚刚推出了黑仔网络电话产品
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/26/jajah-just-launched-killer-voip-product/>
 

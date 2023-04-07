@@ -1,4 +1,4 @@
-# Cruncharcade:碎片时间| TechCrunch
+# Cruncharcade:碎片时间
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/22/cruncharcade-frag-time/>
 

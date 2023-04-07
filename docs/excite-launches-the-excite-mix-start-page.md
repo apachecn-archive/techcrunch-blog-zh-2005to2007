@@ -1,4 +1,4 @@
-# Excite 启动 Excite MIX 起始页–TechCrunch
+# Excite 启动 Excite MIX 起始页
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/21/excite-launches-the-excite-mix-start-page/>
 

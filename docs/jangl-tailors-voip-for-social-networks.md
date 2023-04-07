@@ -1,4 +1,4 @@
-# Jangl 为社交网络定制 VOIP——TechCrunch
+# Jangl 为社交网络定制 VOIP
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/23/jangl-tailors-voip-for-social-networks/>
 

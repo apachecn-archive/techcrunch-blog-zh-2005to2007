@@ -1,4 +1,4 @@
-# 《壁挂式音乐艺术》:在| TechCrunch 上
+# 《壁挂式音乐艺术》:在 上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/wall-mounted-music-art-on/>
 

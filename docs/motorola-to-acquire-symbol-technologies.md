@@ -1,4 +1,4 @@
-# 摩托罗拉将收购 Symbol Technologies–TechCrunch
+# 摩托罗拉将收购 Symbol Technologies
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/motorola-to-acquire-symbol-technologies/>
 

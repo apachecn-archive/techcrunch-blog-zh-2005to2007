@@ -1,4 +1,4 @@
-# 更好的云，第二人生的风 TechCrunch
+# 更好的云，第二人生的风 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/21/better-clouds-wind-coming-to-second-life/>
 

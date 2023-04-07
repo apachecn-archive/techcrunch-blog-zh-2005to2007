@@ -1,4 +1,4 @@
-# MyWhatSpace 在 MySpace | TechCrunch 中发送群发消息
+# MyWhatSpace 在 MySpace  中发送群发消息
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/15/mywhatspace-sends-group-messages-in-myspace/>
 

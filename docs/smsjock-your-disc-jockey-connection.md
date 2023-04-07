@@ -1,4 +1,4 @@
-# SMSJock:你的音乐节目主持人联系——TechCrunch
+# SMSJock:你的音乐节目主持人联系
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/smsjock-your-disc-jockey-connection/>
 

@@ -1,4 +1,4 @@
-# 三星将推出音乐商店| TechCrunch
+# 三星将推出音乐商店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/samsung-to-launch-music-store/>
 

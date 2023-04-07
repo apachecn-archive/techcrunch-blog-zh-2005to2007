@@ -1,4 +1,4 @@
-# 摩托罗拉自动售货机| TechCrunch
+# 摩托罗拉自动售货机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/motorola-vending-machines/>
 

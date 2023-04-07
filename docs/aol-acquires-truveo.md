@@ -1,4 +1,4 @@
-# 美国在线收购 Truveo TechCrunch
+# 美国在线收购 Truveo 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/10/aol-acquires-truveo/>
 

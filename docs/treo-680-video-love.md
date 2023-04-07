@@ -1,4 +1,4 @@
-# Treo 680 视频爱情| TechCrunch
+# Treo 680 视频爱情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/22/treo-680-video-love/>
 

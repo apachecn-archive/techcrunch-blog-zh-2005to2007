@@ -1,4 +1,4 @@
-# Mobeam:带背光的条形码扫描？TechCrunch
+# Mobeam:带背光的条形码扫描？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/mobeam-barcode-scanning-with-the-backlight/>
 

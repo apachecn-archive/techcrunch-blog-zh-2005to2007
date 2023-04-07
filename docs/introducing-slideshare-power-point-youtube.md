@@ -1,4 +1,4 @@
-# 介绍 slide share:Power Point+YouTube | TechCrunch
+# 介绍 slide share:Power Point+YouTube 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/10/04/introducing-slideshare-power-point-youtube/>
 

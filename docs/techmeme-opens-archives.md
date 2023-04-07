@@ -1,4 +1,4 @@
-# TechMeme 开放档案——TechCrunch
+# TechMeme 开放档案
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/11/techmeme-opens-archives/>
 

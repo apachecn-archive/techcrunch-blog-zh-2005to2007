@@ -1,4 +1,4 @@
-# 当机器人进攻时:未来会怎样？–TechCrunch
+# 当机器人进攻时:未来会怎样？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/when-robots-attack-what-does-the-future-hold/>
 

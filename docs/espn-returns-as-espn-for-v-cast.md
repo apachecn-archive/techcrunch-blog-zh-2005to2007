@@ -1,4 +1,4 @@
-# ESPN 作为 ESPN 回归 V-Cast——TechCrunch
+# ESPN 作为 ESPN 回归 V-Cast
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/espn-returns-as-espn-for-v-cast/>
 

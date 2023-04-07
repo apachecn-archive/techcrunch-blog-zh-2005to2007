@@ -1,4 +1,4 @@
-# 我们只能说苹果现在是圣诞节的粉丝——TechCrunch
+# 我们只能说苹果现在是圣诞节的粉丝
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/let%e2%80%99s-just-say-apple-is-now-a-fan-of-christmas/>
 

@@ -1,4 +1,4 @@
-# Helio 允许客户使用 Obopay | TechCrunch
+# Helio 允许客户使用 Obopay 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/helio-allows-customers-to-use-obopay/>
 

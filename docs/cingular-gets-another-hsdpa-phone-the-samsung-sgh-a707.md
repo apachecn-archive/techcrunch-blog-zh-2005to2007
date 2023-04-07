@@ -1,4 +1,4 @@
-# Cingular 获得了另一款 HSDPA 手机:三星 SGH A707 | TechCrunch
+# Cingular 获得了另一款 HSDPA 手机:三星 SGH A707 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/cingular-gets-another-hsdpa-phone-the-samsung-sgh-a707/>
 

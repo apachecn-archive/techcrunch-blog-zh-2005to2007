@@ -1,4 +1,4 @@
-# 三大 Windows MCE 插件——TechCrunch
+# 三大 Windows MCE 插件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/three-great-windows-mce-plugin/>
 

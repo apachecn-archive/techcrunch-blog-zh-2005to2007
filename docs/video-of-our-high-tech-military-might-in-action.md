@@ -1,4 +1,4 @@
-# 我们高科技军事力量的视频| TechCrunch
+# 我们高科技军事力量的视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/12/video-of-our-high-tech-military-might-in-action/>
 

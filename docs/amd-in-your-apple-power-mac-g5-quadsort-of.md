@@ -1,4 +1,4 @@
-# 你的 Apple Power Mac G5 Quad 中的 AMD 有点像| TechCrunch
+# 你的 Apple Power Mac G5 Quad 中的 AMD 有点像
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/06/amd-in-your-apple-power-mac-g5-quadsort-of/>
 

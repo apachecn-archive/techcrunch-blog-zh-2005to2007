@@ -1,4 +1,4 @@
-# 舒尔的直喷式耳机——TechCrunch
+# 舒尔的直喷式耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/01/shures-direct-injection-headphones/>
 

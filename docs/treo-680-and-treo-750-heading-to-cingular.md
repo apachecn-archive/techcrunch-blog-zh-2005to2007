@@ -1,4 +1,4 @@
-# Treo 680 和 Treo 750 正前往 Cingular | TechCrunch
+# Treo 680 和 Treo 750 正前往 Cingular 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/23/treo-680-and-treo-750-heading-to-cingular/>
 

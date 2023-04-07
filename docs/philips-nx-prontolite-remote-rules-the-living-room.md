@@ -1,4 +1,4 @@
-# 飞利浦 NX ProntoLite 遥控器统治客厅| TechCrunch
+# 飞利浦 NX ProntoLite 遥控器统治客厅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/philips-nx-prontolite-remote-rules-the-living-room/>
 

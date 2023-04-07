@@ -1,4 +1,4 @@
-# 网络服务帮助治愈你的痛苦:戒指交换——TechCrunch
+# 网络服务帮助治愈你的痛苦:戒指交换
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/web-services-help-heal-your-pain-ring-exchange/>
 

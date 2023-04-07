@@ -1,4 +1,4 @@
-# Alltel 和 Mobile 全面启动虚拟测试实验室 TechCrunch
+# Alltel 和 Mobile 全面启动虚拟测试实验室 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/alltel-and-mobile-complete-launch-virtual-testing-lab/>
 

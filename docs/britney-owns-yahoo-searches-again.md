@@ -1,4 +1,4 @@
-# 布兰妮拥有雅虎搜索…又一次——TechCrunch
+# 布兰妮拥有雅虎搜索…又一次
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/britney-owns-yahoo-searches-again/>
 

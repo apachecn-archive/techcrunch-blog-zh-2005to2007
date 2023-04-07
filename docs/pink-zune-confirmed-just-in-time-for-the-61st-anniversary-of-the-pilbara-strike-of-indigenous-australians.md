@@ -1,4 +1,4 @@
-# Pink Zune 证实，正好赶上澳大利亚土著皮尔巴拉罢工 61 周年——TechCrunch
+# Pink Zune 证实，正好赶上澳大利亚土著皮尔巴拉罢工 61 周年
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/pink-zune-confirmed-just-in-time-for-the-61st-anniversary-of-the-pilbara-strike-of-indigenous-australians/>
 

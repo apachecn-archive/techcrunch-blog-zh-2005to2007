@@ -1,4 +1,4 @@
-# 汤姆·汤姆·莱德，因为大坏骑车人需要 GPS，蓝牙| TechCrunch
+# 汤姆·汤姆·莱德，因为大坏骑车人需要 GPS，蓝牙
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/tom-tom-rider-because-big-bad-bikers-need-gps-bluetooth/>
 

@@ -1,4 +1,4 @@
-# 看看索尼爱立信 W880 | TechCrunch 就知道了
+# 看看索尼爱立信 W880  就知道了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/just-look-at-the-sony-ericsson-w880/>
 

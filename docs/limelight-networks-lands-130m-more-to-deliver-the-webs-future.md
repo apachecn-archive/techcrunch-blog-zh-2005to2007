@@ -1,4 +1,4 @@
-# 风头网络公司获得超过 1.3 亿美元的土地来交付网络的未来 TechCrunch
+# 风头网络公司获得超过 1.3 亿美元的土地来交付网络的未来 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/26/limelight-networks-lands-130m-more-to-deliver-the-webs-future/>
 

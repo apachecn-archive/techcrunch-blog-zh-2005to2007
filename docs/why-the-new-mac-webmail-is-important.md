@@ -1,4 +1,4 @@
-# 为什么是新的。Mac Webmail 很重要| TechCrunch
+# 为什么是新的。Mac Webmail 很重要
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/29/why-the-new-mac-webmail-is-important/>
 

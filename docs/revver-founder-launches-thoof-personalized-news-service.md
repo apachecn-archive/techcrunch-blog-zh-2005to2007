@@ -1,4 +1,4 @@
-# Revver 创始人推出 Thoof:个性化新闻服务——TechCrunch
+# Revver 创始人推出 Thoof:个性化新闻服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/15/revver-founder-launches-thoof-personalized-news-service/>
 

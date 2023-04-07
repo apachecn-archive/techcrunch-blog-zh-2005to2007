@@ -1,4 +1,4 @@
-# 惠普获得 18 倍 DVD 驱动器–TechCrunch
+# 惠普获得 18 倍 DVD 驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/hp-gets-18x-dvd-drive/>
 

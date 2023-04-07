@@ -1,4 +1,4 @@
-# 来自愚蠢的金库:防弹教科书——TechCrunch
+# 来自愚蠢的金库:防弹教科书
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/26/from-the-vaults-of-stupid-bulletproof-textbooks/>
 

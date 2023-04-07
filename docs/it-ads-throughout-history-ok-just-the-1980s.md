@@ -1,4 +1,4 @@
-# 历史上的 IT 广告(好吧，就在上世纪 80 年代)| TechCrunch
+# 历史上的 IT 广告(好吧，就在上世纪 80 年代)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/it-ads-throughout-history-ok-just-the-1980s/>
 

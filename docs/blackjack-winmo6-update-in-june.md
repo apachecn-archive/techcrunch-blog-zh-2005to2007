@@ -1,4 +1,4 @@
-# 21 点 WinMo6 六月更新| TechCrunch
+# 21 点 WinMo6 六月更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/blackjack-winmo6-update-in-june/>
 

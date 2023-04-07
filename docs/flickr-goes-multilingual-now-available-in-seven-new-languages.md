@@ -1,4 +1,4 @@
-# Flickr 转向多语言——现在有 7 种新语言——TechCrunch
+# Flickr 转向多语言——现在有 7 种新语言
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/flickr-goes-multilingual-now-available-in-seven-new-languages/>
 

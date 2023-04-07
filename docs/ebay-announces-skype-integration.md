@@ -1,4 +1,4 @@
-# EBay 将 Skype 融入拍卖——TechCrunch
+# EBay 将 Skype 融入拍卖
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/13/ebay-announces-skype-integration/>
 

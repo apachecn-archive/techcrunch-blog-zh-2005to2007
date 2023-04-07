@@ -1,4 +1,4 @@
-# 用 AA 电池给你的 iPod 充电(如果是紧急情况)| TechCrunch
+# 用 AA 电池给你的 iPod 充电(如果是紧急情况)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/charge-your-ipod-with-a-aa-battery-if-its-an-emergency/>
 

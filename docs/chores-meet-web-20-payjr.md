@@ -1,4 +1,4 @@
-# 杂务遇见 Web 2.0: PAYjr | TechCrunch
+# 杂务遇见 Web 2.0: PAYjr 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/09/chores-meet-web-20-payjr/>
 

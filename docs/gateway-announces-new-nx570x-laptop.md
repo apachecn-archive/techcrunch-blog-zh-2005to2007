@@ -1,4 +1,4 @@
-# Gateway 宣布推出新款 NX570X 笔记本电脑| TechCrunch
+# Gateway 宣布推出新款 NX570X 笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/08/gateway-announces-new-nx570x-laptop/>
 

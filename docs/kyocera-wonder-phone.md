@@ -1,4 +1,4 @@
-# 京瓷奇迹手机 TechCrunch
+# 京瓷奇迹手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/kyocera-wonder-phone/>
 

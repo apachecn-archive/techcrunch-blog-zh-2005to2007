@@ -1,4 +1,4 @@
-# Cringely:苹果将增加 H.264 编码/解码芯片？TechCrunch
+# Cringely:苹果将增加 H.264 编码/解码芯片？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/cringely-apple-to-add-h264-encodingdecoding-chips/>
 

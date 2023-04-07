@@ -1,4 +1,4 @@
-# 摩托罗拉为 Cingular | TechCrunch 疯狂
+# 摩托罗拉为 Cingular  疯狂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/motorola-goes-krzy-for-cingular/>
 

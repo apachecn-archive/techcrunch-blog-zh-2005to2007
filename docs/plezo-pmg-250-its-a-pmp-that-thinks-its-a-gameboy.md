@@ -1,4 +1,4 @@
-# Plezo PMG 250:这是一款自认为是 GameBoy 的| TechCrunch
+# Plezo PMG 250:这是一款自认为是 GameBoy 的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/plezo-pmg-250-its-a-pmp-that-thinks-its-a-gameboy/>
 

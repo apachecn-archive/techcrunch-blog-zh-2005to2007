@@ -1,4 +1,4 @@
-# 视频:iPhone 上的 YouTube，现在是 Technicolor——TechCrunch
+# 视频:iPhone 上的 YouTube，现在是 Technicolor
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/video-youtube-on-iphone-now-in-technicolor/>
 

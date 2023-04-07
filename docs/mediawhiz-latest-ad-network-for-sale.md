@@ -1,4 +1,4 @@
-# MediaWhiz 最新的广告网络出售？–TechCrunch
+# MediaWhiz 最新的广告网络出售？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/mediawhiz-latest-ad-network-for-sale/>
 

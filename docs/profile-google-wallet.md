@@ -1,4 +1,4 @@
-# 简介:谷歌钱包 TechCrunch
+# 简介:谷歌钱包 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/20/profile-google-wallet/>
 
@@ -35,6 +35,6 @@ Gary Price [指出](https://web.archive.org/web/20210804035730/http://blog.searc
 [Tech Beat on Google Wallet](https://web.archive.org/web/20210804035730/http://www.businessweek.com/the_thread/techbeat/archives/2005/06/more_fun_with_g.html)
 [Meg Whitman on Google Wallet](https://web.archive.org/web/20210804035730/http://www.siliconbeat.com/entries/2005/06/21/whitman_on_google_wallet.html)
 [传染性贪婪 on this](https://web.archive.org/web/20210804035730/http://paul.kedrosky.com/archives/001457.html) *【简直是地震玩意儿】*
-[GMSV on Google Wallet](https://web.archive.org/web/20210804035730/http://blogs.siliconvalley.com/gmsv/2005/06/must_be_too_bus.html#comments)(话说这项服务不会是 p2p，这确实让人质疑它是否应该上 TechCrunch
+[GMSV on Google Wallet](https://web.archive.org/web/20210804035730/http://blogs.siliconvalley.com/gmsv/2005/06/must_be_too_bus.html#comments)(话说这项服务不会是 p2p，这确实让人质疑它是否应该上 
 
 标签: [paypal](https://web.archive.org/web/20210804035730/http://www.technorati.com/tag/paypal) ， [googlewallet](https://web.archive.org/web/20210804035730/http://www.technorati.com/tag/googlewallet) ， [web2.0](https://web.archive.org/web/20210804035730/http://www.technorati.com/tag/web2.0) ， [techcrunch](https://web.archive.org/web/20210804035730/http://www.technorati.com/tag/techcrunch) ， [onlinepayments](https://web.archive.org/web/20210804035730/http://www.technorati.com/tag/onlinepayments) ， [google](https://web.archive.org/web/20210804035730/http://www.technorati.com/tag/google)

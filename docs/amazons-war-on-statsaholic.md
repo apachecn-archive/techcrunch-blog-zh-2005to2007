@@ -1,4 +1,4 @@
-# 亚马逊对 Statsaholic 的战争——TechCrunch
+# 亚马逊对 Statsaholic 的战争
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/03/30/amazons-war-on-statsaholic/>
 

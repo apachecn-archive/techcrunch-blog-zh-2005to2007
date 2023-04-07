@@ -1,4 +1,4 @@
-# Yoto 的 MP4:我要一个！TechCrunch
+# Yoto 的 MP4:我要一个！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/yotos-mp4-i-want-one/>
 

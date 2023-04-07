@@ -1,4 +1,4 @@
-# 戴夫·维纳的推特博客 TechCrunch
+# 戴夫·维纳的推特博客 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/07/dave-winers-twittergram/>
 

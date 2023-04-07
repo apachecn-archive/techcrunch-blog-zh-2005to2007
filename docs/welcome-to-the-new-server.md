@@ -1,4 +1,4 @@
-# 欢迎使用新服务器 TechCrunch
+# 欢迎使用新服务器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/19/welcome-to-the-new-server/>
 

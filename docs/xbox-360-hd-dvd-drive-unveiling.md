@@ -1,4 +1,4 @@
-# Xbox 360 HD-DVD 驱动器发布——TechCrunch
+# Xbox 360 HD-DVD 驱动器发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/xbox-360-hd-dvd-drive-unveiling/>
 

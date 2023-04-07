@@ -1,4 +1,4 @@
-# 福布斯最具互联性城市| TechCrunch
+# 福布斯最具互联性城市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/forbes-most-wired-cities/>
 

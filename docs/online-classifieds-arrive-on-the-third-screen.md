@@ -1,4 +1,4 @@
-# 在线分类广告出现在第三块屏幕上——TechCrunch
+# 在线分类广告出现在第三块屏幕上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/19/online-classifieds-arrive-on-the-third-screen/>
 

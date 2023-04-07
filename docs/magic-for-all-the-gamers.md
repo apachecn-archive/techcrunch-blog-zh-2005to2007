@@ -1,4 +1,4 @@
-# 所有游戏玩家的魔法| TechCrunch
+# 所有游戏玩家的魔法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/magic-for-all-the-gamers/>
 

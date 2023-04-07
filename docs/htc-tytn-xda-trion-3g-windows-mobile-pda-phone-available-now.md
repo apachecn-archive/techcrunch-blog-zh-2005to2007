@@ -1,4 +1,4 @@
-# HTC TyTN(XDA Trion)3G Windows Mobile PDA 手机现已上市–TechCrunch
+# HTC TyTN(XDA Trion)3G Windows Mobile PDA 手机现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/htc-tytn-xda-trion-3g-windows-mobile-pda-phone-available-now/>
 

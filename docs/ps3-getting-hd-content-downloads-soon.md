@@ -1,4 +1,4 @@
-# PS3 即将获得高清内容下载？–TechCrunch
+# PS3 即将获得高清内容下载？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/19/ps3-getting-hd-content-downloads-soon/>
 

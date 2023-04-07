@@ -1,4 +1,4 @@
-# Commodore Gravel C200 详情披露| TechCrunch
+# Commodore Gravel C200 详情披露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/commodore-gravel-c200-details-revealed/>
 

@@ -1,4 +1,4 @@
-# 新的“社交”词典——TechCrunch
+# 新的“社交”词典
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/26/new-social-dictionary/>
 

@@ -1,4 +1,4 @@
-# 再也不用为 Mobiboo | TechCrunch 支付账单了
+# 再也不用为 Mobiboo  支付账单了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/04/no-more-boo-hoo-bills-with-mobiboo/>
 

@@ -1,4 +1,4 @@
-# Helio Ocean 增加了 Microsoft Exchange 和文件浏览器——TechCrunch
+# Helio Ocean 增加了 Microsoft Exchange 和文件浏览器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/helio-ocean-adds-microsoft-exchange-and-file-viewer/>
 

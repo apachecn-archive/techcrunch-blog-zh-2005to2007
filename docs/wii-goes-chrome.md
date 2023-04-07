@@ -1,4 +1,4 @@
-# Wii 走向 Chrome——TechCrunch
+# Wii 走向 Chrome
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/wii-goes-chrome/>
 

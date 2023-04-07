@@ -1,4 +1,4 @@
-# 詹森体育杂志评论| TechCrunch
+# 詹森体育杂志评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/jensen-sportfones-review/>
 

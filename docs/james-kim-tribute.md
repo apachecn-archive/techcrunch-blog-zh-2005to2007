@@ -1,4 +1,4 @@
-# 詹姆斯·金致敬| TechCrunch
+# 詹姆斯·金致敬
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/07/james-kim-tribute/>
 

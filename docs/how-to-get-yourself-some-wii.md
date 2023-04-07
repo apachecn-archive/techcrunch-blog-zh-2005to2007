@@ -1,4 +1,4 @@
-# 如何给自己弄点 Wii | TechCrunch
+# 如何给自己弄点 Wii 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/how-to-get-yourself-some-wii/>
 

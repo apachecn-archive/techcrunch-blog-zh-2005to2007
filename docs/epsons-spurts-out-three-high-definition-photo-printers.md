@@ -1,4 +1,4 @@
-# 爱普生推出三台高清照片打印机——TechCrunch
+# 爱普生推出三台高清照片打印机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/epsons-spurts-out-three-high-definition-photo-printers/>
 

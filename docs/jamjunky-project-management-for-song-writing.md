@@ -1,4 +1,4 @@
-# JamJunky:歌曲创作的项目管理 TechCrunch
+# JamJunky:歌曲创作的项目管理 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/28/jamjunky-project-management-for-song-writing/>
 

@@ -1,4 +1,4 @@
-# LG 和雅虎！合作伙伴——TechCrunch
+# LG 和雅虎！合作伙伴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/lg-and-yahoo-partner/>
 

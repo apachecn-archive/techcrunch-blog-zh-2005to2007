@@ -1,4 +1,4 @@
-# Otterbox 您的 2G Nano | TechCrunch
+# Otterbox 您的 2G Nano 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/otterbox-your-2g-nano/>
 

@@ -1,4 +1,4 @@
-# 适合 Brrrrr 天气的游戏围巾——TechCrunch
+# 适合 Brrrrr 天气的游戏围巾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/gaming-scarves-for-the-brrrrr-weather/>
 

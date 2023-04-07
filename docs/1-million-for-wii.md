@@ -1,4 +1,4 @@
-# 100 万美元用于 Wii——TechCrunch
+# 100 万美元用于 Wii
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/1-million-for-wii/>
 

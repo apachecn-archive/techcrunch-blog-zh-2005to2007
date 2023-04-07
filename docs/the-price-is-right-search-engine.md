@@ -1,4 +1,4 @@
-# 价格合适的搜索引擎。| TechCrunch
+# 价格合适的搜索引擎。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/the-price-is-right-search-engine/>
 

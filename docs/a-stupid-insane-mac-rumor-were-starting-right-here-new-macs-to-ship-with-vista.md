@@ -1,4 +1,4 @@
-# 一个愚蠢、疯狂的 Mac 谣言我们从这里开始:新 Mac 将搭载 Vista——TechCrunch
+# 一个愚蠢、疯狂的 Mac 谣言我们从这里开始:新 Mac 将搭载 Vista
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/a-stupid-insane-mac-rumor-were-starting-right-here-new-macs-to-ship-with-vista/>
 

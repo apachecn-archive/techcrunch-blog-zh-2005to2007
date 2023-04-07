@@ -1,4 +1,4 @@
-# CES 了解老学校——TechCrunch
+# CES 了解老学校
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/09/ces-knows-the-old-school/>
 

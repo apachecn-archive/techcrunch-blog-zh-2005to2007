@@ -1,4 +1,4 @@
-# 迷你古姆巴滚动袋评论——TechCrunch
+# 迷你古姆巴滚动袋评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/mini-goombah-rolling-bag-review/>
 

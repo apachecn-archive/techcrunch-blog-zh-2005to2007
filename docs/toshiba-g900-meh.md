@@ -1,4 +1,4 @@
-# 东芝 G900:Meh–TechCrunch
+# 东芝 G900:Meh
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/toshiba-g900-meh/>
 

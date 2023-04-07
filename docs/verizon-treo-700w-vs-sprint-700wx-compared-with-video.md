@@ -1,4 +1,4 @@
-# 威瑞森 Treo 700w vs. Sprint 700wx，与视频相比–TechCrunch
+# 威瑞森 Treo 700w vs. Sprint 700wx，与视频相比
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/verizon-treo-700w-vs-sprint-700wx-compared-with-video/>
 

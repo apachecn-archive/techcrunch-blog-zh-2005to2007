@@ -1,4 +1,4 @@
-# 我希望 IE 7 即将发布的十件事——TechCrunch
+# 我希望 IE 7 即将发布的十件事
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/09/ten-things-i-wish-ie-7-was-about-to-deliver>
 

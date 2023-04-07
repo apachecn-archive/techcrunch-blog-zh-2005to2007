@@ -1,4 +1,4 @@
-# 英国推出 mobileAct 未签名竞赛——TechCrunch
+# 英国推出 mobileAct 未签名竞赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/mobileact-unsigned-contest-launches-in-the-uk/>
 

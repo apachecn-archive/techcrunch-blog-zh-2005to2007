@@ -1,4 +1,4 @@
-# Google Local 增加点击呼叫功能 TechCrunch
+# Google Local 增加点击呼叫功能 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/16/google-local-ads-click-to-call/>
 

@@ -1,4 +1,4 @@
-# Toufee 推出快速 Flash 电影制作——TechCrunch
+# Toufee 推出快速 Flash 电影制作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/25/toufee-launches-fast-flash-movie-making/>
 

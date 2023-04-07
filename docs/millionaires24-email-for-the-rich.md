@@ -1,4 +1,4 @@
-# 百万富翁 24–给富人的电子邮件–TechCrunch
+# 百万富翁 24–给富人的电子邮件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/12/millionaires24-email-for-the-rich/>
 

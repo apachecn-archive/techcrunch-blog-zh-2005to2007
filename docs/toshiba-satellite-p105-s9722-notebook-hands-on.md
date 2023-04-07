@@ -1,4 +1,4 @@
-# 东芝 Satellite P105-S9722 笔记本动手| TechCrunch
+# 东芝 Satellite P105-S9722 笔记本动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/toshiba-satellite-p105-s9722-notebook-hands-on/>
 

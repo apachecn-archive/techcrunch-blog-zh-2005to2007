@@ -1,4 +1,4 @@
-# 福克斯新闻频道、辛古拉/美国电话电报公司联手吐槽污秽——TechCrunch
+# 福克斯新闻频道、辛古拉/美国电话电报公司联手吐槽污秽
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/fox-news-cingularatt-team-up-to-spout-filth/>
 

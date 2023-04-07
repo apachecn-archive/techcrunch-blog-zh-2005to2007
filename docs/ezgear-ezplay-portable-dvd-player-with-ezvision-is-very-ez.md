@@ -1,4 +1,4 @@
-# 带有 ezVision 的 ezGear ezPlay 便携式 DVD 播放器非常 EZ–TechCrunch
+# 带有 ezVision 的 ezGear ezPlay 便携式 DVD 播放器非常 EZ
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/ezgear-ezplay-portable-dvd-player-with-ezvision-is-very-ez/>
 

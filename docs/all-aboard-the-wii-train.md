@@ -1,4 +1,4 @@
-# 全部登上 Wii 火车| TechCrunch
+# 全部登上 Wii 火车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/10/all-aboard-the-wii-train/>
 

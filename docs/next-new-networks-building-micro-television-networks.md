@@ -1,4 +1,4 @@
-# 下一个新网络构建微型电视网络 TechCrunch
+# 下一个新网络构建微型电视网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/20/next-new-networks-building-micro-television-networks/>
 

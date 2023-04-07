@@ -1,4 +1,4 @@
-# Bang & Olufsen 推出 Serene 手机| TechCrunch
+# Bang & Olufsen 推出 Serene 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/19/bang-olufsen-debuts-serene-cell-phone/>
 

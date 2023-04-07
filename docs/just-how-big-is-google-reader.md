@@ -1,4 +1,4 @@
-# 谷歌阅读器到底有多大？–TechCrunch
+# 谷歌阅读器到底有多大？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/19/just-how-big-is-google-reader/>
 

@@ -1,4 +1,4 @@
-# Skype 鼠标登场| TechCrunch
+# Skype 鼠标登场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/the-skype-mouse-makes-its-entrance/>
 

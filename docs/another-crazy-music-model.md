@@ -1,4 +1,4 @@
-# 另一个疯狂的音乐模式——TechCrunch
+# 另一个疯狂的音乐模式
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/another-crazy-music-model/>
 

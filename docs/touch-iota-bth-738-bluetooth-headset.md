@@ -1,4 +1,4 @@
-# Touch iota BTH-738 蓝牙耳机| TechCrunch
+# Touch iota BTH-738 蓝牙耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/touch-iota-bth-738-bluetooth-headset/>
 

@@ -1,4 +1,4 @@
-# 尼康 D40x 快速浏览–TechCrunch
+# 尼康 D40x 快速浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/12/nikon-d40x-quick-look/>
 

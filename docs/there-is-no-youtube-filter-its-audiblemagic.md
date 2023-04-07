@@ -1,4 +1,4 @@
-# 没有 YouTube 过滤器；这是 audible magic——TechCrunch
+# 没有 YouTube 过滤器；这是 audible magic
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/22/there-is-no-youtube-filter-its-audiblemagic/>
 

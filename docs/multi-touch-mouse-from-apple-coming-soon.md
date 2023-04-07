@@ -1,4 +1,4 @@
-# 苹果公司的多点触控鼠标即将上市？TechCrunch
+# 苹果公司的多点触控鼠标即将上市？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/multi-touch-mouse-from-apple-coming-soon/>
 

@@ -1,4 +1,4 @@
-# 帮我挑选 SXSW 通行证获奖者——TechCrunch
+# 帮我挑选 SXSW 通行证获奖者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/11/help-me-pick-the-winner/>
 

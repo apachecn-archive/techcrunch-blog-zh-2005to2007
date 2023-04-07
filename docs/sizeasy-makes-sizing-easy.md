@@ -1,4 +1,4 @@
-# 规模调整使规模调整变得简单| TechCrunch
+# 规模调整使规模调整变得简单
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/sizeasy-makes-sizing-easy/>
 

@@ -1,4 +1,4 @@
-# King.com 和 RealNetworks 宣布独家合作——TechCrunch
+# King.com 和 RealNetworks 宣布独家合作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/kingcom-and-realnetworks-announce-exclusive-partnership>
 

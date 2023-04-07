@@ -1,4 +1,4 @@
-# BallHype 发布——体育迷会喜欢这个 TechCrunch
+# BallHype 发布——体育迷会喜欢这个 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/01/ballhype-launches-sports-fanatics-will-love-this/>
 

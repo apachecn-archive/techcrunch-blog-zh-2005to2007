@@ -1,4 +1,4 @@
-# 面向博客的 Wengo 视频聊天–TechCrunch
+# 面向博客的 Wengo 视频聊天
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/21/wengo-video-chat-for-bloggers/>
 

@@ -1,4 +1,4 @@
-# 探索发现以 1000 万美元收购 TreeHugger.com TechCrunch
+# 探索发现以 1000 万美元收购 TreeHugger.com 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/01/discovery-acquires-treehuggercom-for-10million/>
 

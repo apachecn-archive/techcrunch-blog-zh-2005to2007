@@ -1,4 +1,4 @@
-# Siren 发布无线耳机和尖叫音乐流——TechCrunch
+# Siren 发布无线耳机和尖叫音乐流
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/siren-announces-wireless-headphones-and-screamer-music-streamer/>
 

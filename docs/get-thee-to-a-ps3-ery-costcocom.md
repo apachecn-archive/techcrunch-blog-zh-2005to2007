@@ -1,4 +1,4 @@
-# 带你去厕所！Costco.Com | TechCrunch
+# 带你去厕所！Costco.Com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/17/get-thee-to-a-ps3-ery-costcocom/>
 

@@ -1,4 +1,4 @@
-# Web 2.0“股票”市场 TechCrunch
+# Web 2.0“股票”市场 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/12/the-web-20-stock-market/>
 

@@ -1,4 +1,4 @@
-# 条纹迷你扬声器| TechCrunch
+# 条纹迷你扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/stripy-mini-speakers/>
 

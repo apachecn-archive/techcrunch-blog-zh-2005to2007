@@ -1,4 +1,4 @@
-# 国际消费电子展上的 iMainGo 便携式扬声器:非常响亮——TechCrunch
+# 国际消费电子展上的 iMainGo 便携式扬声器:非常响亮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/15/imaingo-portable-speakers-at-ces-really-loud/>
 

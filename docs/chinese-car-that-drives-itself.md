@@ -1,4 +1,4 @@
-# 自动驾驶的中国汽车| TechCrunch
+# 自动驾驶的中国汽车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/chinese-car-that-drives-itself/>
 

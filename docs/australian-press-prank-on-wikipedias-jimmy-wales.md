@@ -1,4 +1,4 @@
-# 澳大利亚媒体对维基百科吉米·多纳尔·威尔士| TechCrunch 的恶作剧
+# 澳大利亚媒体对维基百科吉米·多纳尔·威尔士 的恶作剧
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/29/australian-press-prank-on-wikipedias-jimmy-wales/>
 

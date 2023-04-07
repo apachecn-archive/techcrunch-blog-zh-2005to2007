@@ -1,4 +1,4 @@
-# 新三菱展示赛车到日本——TechCrunch
+# 新三菱展示赛车到日本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/23/new-mitsubishi-display-racing-to-japan/>
 

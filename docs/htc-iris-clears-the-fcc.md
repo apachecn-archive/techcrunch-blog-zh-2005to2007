@@ -1,4 +1,4 @@
-# HTC Iris 通过 FCC–TechCrunch
+# HTC Iris 通过 FCC
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/15/htc-iris-clears-the-fcc/>
 

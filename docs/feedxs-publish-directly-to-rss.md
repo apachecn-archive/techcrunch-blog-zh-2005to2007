@@ -1,4 +1,4 @@
-# 面向所有人的 FeedXS-RSS | TechCrunch
+# 面向所有人的 FeedXS-RSS 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/18/feedxs-publish-directly-to-rss/>
 

@@ -1,4 +1,4 @@
-# 金色 Tee:带轨迹球的家庭版！–TechCrunch
+# 金色 Tee:带轨迹球的家庭版！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/golden-tee-home-version-with-trackball/>
 

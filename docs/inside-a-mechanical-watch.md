@@ -1,4 +1,4 @@
-# 机械表内部——TechCrunch
+# 机械表内部
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/06/inside-a-mechanical-watch/>
 

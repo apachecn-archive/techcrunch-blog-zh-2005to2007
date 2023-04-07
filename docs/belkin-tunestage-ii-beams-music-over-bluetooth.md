@@ -1,4 +1,4 @@
-# Belkin TuneStage II 通过蓝牙传送音乐| TechCrunch
+# Belkin TuneStage II 通过蓝牙传送音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/belkin-tunestage-ii-beams-music-over-bluetooth/>
 

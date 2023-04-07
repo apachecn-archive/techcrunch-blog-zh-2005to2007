@@ -1,4 +1,4 @@
-# GPS 狙击枪追踪恐怖分子，披萨外卖员——TechCrunch
+# GPS 狙击枪追踪恐怖分子，披萨外卖员
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/gps-sniper-rifle-tracks-terrorists-pizza-delivery-guy/>
 

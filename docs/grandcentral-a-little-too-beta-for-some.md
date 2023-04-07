@@ -1,4 +1,4 @@
-# GrandCentral 对某些人来说有点太“Beta”——TechCrunch
+# GrandCentral 对某些人来说有点太“Beta”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/26/grandcentral-a-little-too-beta-for-some/>
 

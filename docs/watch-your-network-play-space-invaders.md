@@ -1,4 +1,4 @@
-# 观看网络游戏《太空入侵者》TechCrunch
+# 观看网络游戏《太空入侵者》
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/10/watch-your-network-play-space-invaders/>
 

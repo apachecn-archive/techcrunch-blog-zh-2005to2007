@@ -1,4 +1,4 @@
-# ZEN Vision W 视频–TechCrunch
+# ZEN Vision W 视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/zen-vision-w-video/>
 

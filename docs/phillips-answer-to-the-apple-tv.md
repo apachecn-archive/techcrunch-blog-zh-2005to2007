@@ -1,4 +1,4 @@
-# 菲利普斯对苹果电视| TechCrunch 的回答
+# 菲利普斯对苹果电视 的回答
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/phillips-answer-to-the-apple-tv/>
 

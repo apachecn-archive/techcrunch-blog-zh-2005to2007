@@ -1,4 +1,4 @@
-# 英特尔首次推出迅驰专业版| TechCrunch
+# 英特尔首次推出迅驰专业版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/intel-debuts-centrino-pro/>
 

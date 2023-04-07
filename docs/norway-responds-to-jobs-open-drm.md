@@ -1,4 +1,4 @@
-# 挪威回应乔布斯的开放 DRM-TechCrunch
+# 挪威回应乔布斯的开放 DRM-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/07/norway-responds-to-jobs-open-drm/>
 

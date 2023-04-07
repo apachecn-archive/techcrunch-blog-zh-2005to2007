@@ -1,4 +1,4 @@
-# OLPC 儿童机器更近了——TechCrunch
+# OLPC 儿童机器更近了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/olpc-childrens-machine-inches-closer/>
 

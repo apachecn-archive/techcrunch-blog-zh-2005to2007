@@ -1,4 +1,4 @@
-# 顶级 Digg 用户感到被冷落 TechCrunch
+# 顶级 Digg 用户感到被冷落 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/03/top-digg-users-feeling-snubbed/>
 

@@ -1,4 +1,4 @@
-# 盒子里街机实际上就是| TechCrunch
+# 盒子里街机实际上就是
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/arcade-in-a-box-is-literally-that/>
 

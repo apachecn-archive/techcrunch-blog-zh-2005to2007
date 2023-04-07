@@ -1,4 +1,4 @@
-# Vista 在全球销售强劲——TechCrunch
+# Vista 在全球销售强劲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/vista-shows-strong-global-sales/>
 

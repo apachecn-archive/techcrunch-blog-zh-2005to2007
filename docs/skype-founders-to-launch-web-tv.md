@@ -1,4 +1,4 @@
-# Skype 创始人将推出网络电视 TechCrunch
+# Skype 创始人将推出网络电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/skype-founders-to-launch-web-tv/>
 

@@ -1,4 +1,4 @@
-# 热插拔 iPods 来了？–TechCrunch
+# 热插拔 iPods 来了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/02/hot-swappable-ipods-coming/>
 

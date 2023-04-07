@@ -1,4 +1,4 @@
-# Antec 将酷炫粉丝带到美国市场——TechCrunch
+# Antec 将酷炫粉丝带到美国市场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/antec-brings-spot-cool-fans-to-american-market/>
 

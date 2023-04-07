@@ -1,4 +1,4 @@
-# Helio Ocean 第一印象| TechCrunch
+# Helio Ocean 第一印象
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/helio-ocean-first-impressions/>
 

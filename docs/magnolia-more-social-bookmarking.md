@@ -1,4 +1,4 @@
-# Ma.gnolia:更多社交书签——TechCrunch
+# Ma.gnolia:更多社交书签
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/22/magnolia-more-social-bookmarking/>
 

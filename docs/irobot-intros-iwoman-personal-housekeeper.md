@@ -1,4 +1,4 @@
-# iRobot 介绍 iWoman 私人管家| TechCrunch
+# iRobot 介绍 iWoman 私人管家
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/01/irobot-intros-iwoman-personal-housekeeper/>
 

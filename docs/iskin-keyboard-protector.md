@@ -1,4 +1,4 @@
-# iSkin 键盘保护器| TechCrunch
+# iSkin 键盘保护器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/20/iskin-keyboard-protector/>
 

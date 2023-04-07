@@ -1,4 +1,4 @@
-# 摩托罗拉·赞特又名 Sidekick Slide 又名 Sucks | TechCrunch
+# 摩托罗拉·赞特又名 Sidekick Slide 又名 Sucks 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/04/motorola-zante-aka-sidekick-slide-aka-sucks/>
 

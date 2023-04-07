@@ -1,4 +1,4 @@
-# Able Planet Clear Harmony 降噪耳机实践–TechCrunch
+# Able Planet Clear Harmony 降噪耳机实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/able-planet-clear-harmony-noise-canceling-headphones-hands-on/>
 

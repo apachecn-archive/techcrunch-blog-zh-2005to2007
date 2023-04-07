@@ -1,4 +1,4 @@
-# 美国诺基亚 N95 在野外| TechCrunch
+# 美国诺基亚 N95 在野外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/us-nokia-n95-in-the-wild/>
 

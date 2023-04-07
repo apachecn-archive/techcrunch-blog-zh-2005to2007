@@ -1,4 +1,4 @@
-# 激光梳:FDA 批准。蛇油？TechCrunch
+# 激光梳:FDA 批准。蛇油？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/19/laser-comb-fda-approved-snake-oil/>
 

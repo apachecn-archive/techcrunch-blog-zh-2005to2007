@@ -1,4 +1,4 @@
-# CellSwapper 解决了一个非常烦人的问题 TechCrunch
+# CellSwapper 解决了一个非常烦人的问题 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/11/cellswapper-is-like-magic/>
 

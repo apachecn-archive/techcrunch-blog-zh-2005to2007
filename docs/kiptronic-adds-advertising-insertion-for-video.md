@@ -1,4 +1,4 @@
-# Kiptronic 增加视频广告插入–TechCrunch
+# Kiptronic 增加视频广告插入
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/kiptronic-adds-advertising-insertion-for-video/>
 

@@ -1,4 +1,4 @@
-# Guba 的 Johnny 将在网上找到有版权的视频 TechCrunch
+# Guba 的 Johnny 将在网上找到有版权的视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/21/gubas-johnny-will-find-copyrighted-videos-online/>
 

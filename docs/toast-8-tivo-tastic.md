@@ -1,4 +1,4 @@
-# 吐司 8:TiVo-Tastic TechCrunch
+# 吐司 8:TiVo-Tastic 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/toast-8-tivo-tastic/>
 

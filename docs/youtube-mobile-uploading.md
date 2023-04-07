@@ -1,4 +1,4 @@
-# YouTube 移动上传 TechCrunch
+# YouTube 移动上传 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/10/youtube-mobile-uploading/>
 

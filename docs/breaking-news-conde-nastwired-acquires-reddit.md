@@ -1,4 +1,4 @@
-# 突发新闻:康泰纳仕/连线收购 Reddit | TechCrunch
+# 突发新闻:康泰纳仕/连线收购 Reddit 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/31/breaking-news-conde-nastwired-acquires-reddit/>
 

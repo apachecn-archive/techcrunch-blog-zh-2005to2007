@@ -1,4 +1,4 @@
-# 醒醒…哇咔咔乌普普！TechCrunch
+# 醒醒…哇咔咔乌普普！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/wake-upwaaakkkeee-upppp/>
 

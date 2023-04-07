@@ -1,4 +1,4 @@
-# 专利猴子:斯巴鲁的骑士专利| TechCrunch
+# 专利猴子:斯巴鲁的骑士专利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/patent-monkey-night-rider-patent-by-subaru/>
 

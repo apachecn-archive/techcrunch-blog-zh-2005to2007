@@ -1,4 +1,4 @@
-# IAC 在虚拟世界炒作的高峰期推出 Zwinktopia TechCrunch
+# IAC 在虚拟世界炒作的高峰期推出 Zwinktopia 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/29/iac-launches-zwinktopia-at-peak-of-virtual-world-hype/>
 

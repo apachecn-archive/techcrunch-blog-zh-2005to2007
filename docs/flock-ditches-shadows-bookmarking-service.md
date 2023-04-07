@@ -1,4 +1,4 @@
-# 羊群沟阴影书签服务 TechCrunch
+# 羊群沟阴影书签服务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/22/flock-ditches-shadows-bookmarking-service/>
 

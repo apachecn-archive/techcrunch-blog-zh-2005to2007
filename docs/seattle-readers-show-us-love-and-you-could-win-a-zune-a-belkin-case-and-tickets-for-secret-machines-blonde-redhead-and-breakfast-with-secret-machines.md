@@ -1,4 +1,4 @@
-# 西雅图的读者们！给我们爱，你就能赢得:一个 Zune！一个贝尔金案件！还有秘密机器的门票+金发红发！还有秘密机器早餐！–TechCrunch
+# 西雅图的读者们！给我们爱，你就能赢得:一个 Zune！一个贝尔金案件！还有秘密机器的门票+金发红发！还有秘密机器早餐！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/11/seattle-readers-show-us-love-and-you-could-win-a-zune-a-belkin-case-and-tickets-for-secret-machines-blonde-redhead-and-breakfast-with-secret-machines/>
 

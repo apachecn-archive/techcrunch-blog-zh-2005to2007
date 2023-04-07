@@ -1,4 +1,4 @@
-# “我不相信”,但英国电信公司的电视节目将于周一上线。TechCrunch
+# “我不相信”,但英国电信公司的电视节目将于周一上线。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/i-dont-believe-it-but-bt-vision-to-go-live-on-monday/>
 

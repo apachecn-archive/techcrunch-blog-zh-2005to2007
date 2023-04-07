@@ -1,4 +1,4 @@
-# 雅虎！去电视放更多雅虎！电视上的属性–TechCrunch
+# 雅虎！去电视放更多雅虎！电视上的属性
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/07/yahoo-go-for-tv-puts-more-yahoo-properties-on-your-tv/>
 

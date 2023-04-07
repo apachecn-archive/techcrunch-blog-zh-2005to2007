@@ -1,4 +1,4 @@
-# CrunchGear:随时随地| TechCrunch
+# CrunchGear:随时随地
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/crunchgear-anytime-all-the-time/>
 

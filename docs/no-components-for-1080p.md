@@ -1,4 +1,4 @@
-# 1080p | TechCrunch 没有组件
+# 1080p  没有组件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/no-components-for-1080p/>
 

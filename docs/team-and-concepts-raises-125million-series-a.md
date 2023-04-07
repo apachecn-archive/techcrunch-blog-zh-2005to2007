@@ -1,4 +1,4 @@
-# 团队和概念筹集了 125 万美元的 A 轮融资——TechCrunch
+# 团队和概念筹集了 125 万美元的 A 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/10/team-and-concepts-raises-125million-series-a/>
 

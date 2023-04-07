@@ -1,4 +1,4 @@
-# 费城人获得基于 RSS 的音频游览——TechCrunch
+# 费城人获得基于 RSS 的音频游览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/philadelphians-get-rss-based-audio-tours/>
 

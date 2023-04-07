@@ -1,4 +1,4 @@
-# 欢迎来到 CrunchGear.com——TechCrunch
+# 欢迎来到 CrunchGear.com
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/10/welcome-to-crunchgearcom/>
 

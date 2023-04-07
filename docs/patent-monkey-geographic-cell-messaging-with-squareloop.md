@@ -1,4 +1,4 @@
-# 专利猴:使用 SquareLoop 的地理细胞信息| TechCrunch
+# 专利猴:使用 SquareLoop 的地理细胞信息
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/patent-monkey-geographic-cell-messaging-with-squareloop/>
 

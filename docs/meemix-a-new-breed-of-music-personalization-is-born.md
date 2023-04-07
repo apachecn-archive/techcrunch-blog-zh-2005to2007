@@ -1,4 +1,4 @@
-# MeeMix:一种新的音乐个性化诞生了 TechCrunch
+# MeeMix:一种新的音乐个性化诞生了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/01/meemix-a-new-breed-of-music-personalization-is-born>
 

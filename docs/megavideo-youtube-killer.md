@@ -1,4 +1,4 @@
-# Megavideo:它“打败”YouTube 了吗？TechCrunch
+# Megavideo:它“打败”YouTube 了吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/07/megavideo-youtube-killer/>
 

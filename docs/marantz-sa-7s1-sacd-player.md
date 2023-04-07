@@ -1,4 +1,4 @@
-# 马兰茨 SA-7S1 SACD 播放器| TechCrunch
+# 马兰茨 SA-7S1 SACD 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/marantz-sa-7s1-sacd-player/>
 

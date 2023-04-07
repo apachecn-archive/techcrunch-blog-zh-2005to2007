@@ -1,4 +1,4 @@
-# 移动内容需要更好的移动搜索——TechCrunch
+# 移动内容需要更好的移动搜索
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/mobile-content-needs-better-mobile-search/>
 

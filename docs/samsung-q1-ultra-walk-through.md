@@ -1,4 +1,4 @@
-# 三星 Q1 超级漫游| TechCrunch
+# 三星 Q1 超级漫游
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/18/samsung-q1-ultra-walk-through/>
 

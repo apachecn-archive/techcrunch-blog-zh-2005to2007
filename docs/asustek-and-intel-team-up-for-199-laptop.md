@@ -1,4 +1,4 @@
-# 华硕、英特尔联手推出 199 美元笔记本电脑——TechCrunch
+# 华硕、英特尔联手推出 199 美元笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/05/asustek-and-intel-team-up-for-199-laptop/>
 

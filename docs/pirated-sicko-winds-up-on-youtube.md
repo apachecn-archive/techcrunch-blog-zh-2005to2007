@@ -1,4 +1,4 @@
-# 盗版“神经病”出现在 YouTube | TechCrunch
+# 盗版“神经病”出现在 YouTube 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/pirated-sicko-winds-up-on-youtube/>
 

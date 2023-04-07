@@ -1,4 +1,4 @@
-# 纽约时报重新设计——TechCrunch
+# 纽约时报重新设计
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/03/new-york-times-redesign>
 

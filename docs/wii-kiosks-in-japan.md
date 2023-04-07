@@ -1,4 +1,4 @@
-# 日本的 Wii 亭| TechCrunch
+# 日本的 Wii 亭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/wii-kiosks-in-japan/>
 

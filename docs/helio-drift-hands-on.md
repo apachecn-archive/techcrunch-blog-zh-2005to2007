@@ -1,4 +1,4 @@
-# Helio 漂移实践| TechCrunch
+# Helio 漂移实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/helio-drift-hands-on/>
 

@@ -1,4 +1,4 @@
-# 嬉皮士在袋子里洗澡| TechCrunch
+# 嬉皮士在袋子里洗澡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/hippy-bath-in-a-bag/>
 

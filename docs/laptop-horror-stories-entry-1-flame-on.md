@@ -1,4 +1,4 @@
-# 笔记本电脑恐怖故事条目#1:着火了！TechCrunch
+# 笔记本电脑恐怖故事条目#1:着火了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/laptop-horror-stories-entry-1-flame-on/>
 

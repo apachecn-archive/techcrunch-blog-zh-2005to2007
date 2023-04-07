@@ -1,4 +1,4 @@
-# 谷歌新闻宣布有限的评论。每个人都需要冷静。TechCrunch
+# 谷歌新闻宣布有限的评论。每个人都需要冷静。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/08/google-news-announces-limited-comments-everyone-needs-to-calm-down/>
 

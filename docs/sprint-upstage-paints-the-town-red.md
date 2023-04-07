@@ -1,4 +1,4 @@
-# 冲刺后台狂欢| TechCrunch
+# 冲刺后台狂欢
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/sprint-upstage-paints-the-town-red/>
 

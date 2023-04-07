@@ -1,4 +1,4 @@
-# Tvtrip:第二本酒店视频指南——TechCrunch
+# Tvtrip:第二本酒店视频指南
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/07/tvtrip-the-second-video-guide-for-hotels/>
 

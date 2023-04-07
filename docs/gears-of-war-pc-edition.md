@@ -1,4 +1,4 @@
-# 战争机器 PC 版？–TechCrunch
+# 战争机器 PC 版？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/gears-of-war-pc-edition/>
 

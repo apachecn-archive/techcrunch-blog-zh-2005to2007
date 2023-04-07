@@ -1,4 +1,4 @@
-# 当代角色设计:moji zu–TechCrunch
+# 当代角色设计:moji zu
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/20/contemporary-character-design-mojizu/>
 

@@ -1,4 +1,4 @@
-# Grockit 筹集资金，准备“大型多人在线学习”产品。TechCrunch
+# Grockit 筹集资金，准备“大型多人在线学习”产品。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/24/grockit-raises-cash-prepares-massive-multiplayer-online-learning-product/>
 

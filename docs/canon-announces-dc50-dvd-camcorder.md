@@ -1,4 +1,4 @@
-# 佳能发布 DC50 DVD 摄像机| TechCrunch
+# 佳能发布 DC50 DVD 摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/canon-announces-dc50-dvd-camcorder/>
 

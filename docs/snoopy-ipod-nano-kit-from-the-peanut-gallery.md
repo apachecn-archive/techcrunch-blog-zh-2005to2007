@@ -1,4 +1,4 @@
-# 史努比 iPod Nano 套件:来自花生画廊 TechCrunch
+# 史努比 iPod Nano 套件:来自花生画廊 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/snoopy-ipod-nano-kit-from-the-peanut-gallery/>
 

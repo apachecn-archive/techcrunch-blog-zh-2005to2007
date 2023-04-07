@@ -1,4 +1,4 @@
-# SAGEM my700X With MegaSIM 可存储高达 3GB 的闪存| TechCrunch
+# SAGEM my700X With MegaSIM 可存储高达 3GB 的闪存
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/sagem-my700x-with-megasim-can-pack-up-to-3gb-of-flash/>
 

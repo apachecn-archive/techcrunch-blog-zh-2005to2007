@@ -1,4 +1,4 @@
-# GigaOm 走向绿色——TechCrunch
+# GigaOm 走向绿色
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/16/gigaom-goes-green/>
 

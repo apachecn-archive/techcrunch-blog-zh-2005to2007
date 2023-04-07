@@ -1,4 +1,4 @@
-# 克罗地亚人喜欢发短信！TechCrunch
+# 克罗地亚人喜欢发短信！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/03/croatians-love-their-texting/>
 

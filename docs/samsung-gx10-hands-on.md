@@ -1,4 +1,4 @@
-# 三星 GX10 动手| TechCrunch
+# 三星 GX10 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/26/samsung-gx10-hands-on/>
 

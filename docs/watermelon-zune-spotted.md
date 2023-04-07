@@ -1,4 +1,4 @@
-# 西瓜 Zune 发现| TechCrunch
+# 西瓜 Zune 发现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/watermelon-zune-spotted/>
 

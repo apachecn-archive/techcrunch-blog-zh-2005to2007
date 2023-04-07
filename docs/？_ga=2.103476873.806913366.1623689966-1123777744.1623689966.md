@@ -1,4 +1,4 @@
-# 在线存储团队——TechCrunch
+# 在线存储团队
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2006/01/31/the-online-storage-gang/?_ga=2.103476873.806913366.1623689966-1123777744.1623689966>
 

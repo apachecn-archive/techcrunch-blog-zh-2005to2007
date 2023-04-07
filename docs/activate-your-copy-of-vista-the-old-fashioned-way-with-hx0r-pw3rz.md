@@ -1,4 +1,4 @@
-# 用老办法激活你的 Vista:用 H/\X0R P{}W3RZ | TechCrunch
+# 用老办法激活你的 Vista:用 H/\X0R P{}W3RZ 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/02/activate-your-copy-of-vista-the-old-fashioned-way-with-hx0r-pw3rz/>
 

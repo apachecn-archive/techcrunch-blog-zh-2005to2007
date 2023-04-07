@@ -1,4 +1,4 @@
-# 荷兰沟模拟电视，去数字| TechCrunch
+# 荷兰沟模拟电视，去数字
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/12/dutch-ditch-analog-tv-go-digital/>
 

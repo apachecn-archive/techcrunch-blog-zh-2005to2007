@@ -1,4 +1,4 @@
-# 免费国际通话被取消…不完全是——TechCrunch
+# 免费国际通话被取消…不完全是
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/free-international-calling-yanked-not-quite/>
 

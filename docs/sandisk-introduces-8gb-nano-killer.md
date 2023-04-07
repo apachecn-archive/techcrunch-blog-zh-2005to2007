@@ -1,4 +1,4 @@
-# 闪迪推出 8GB“纳米黑仔”——TechCrunch
+# 闪迪推出 8GB“纳米黑仔”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/sandisk-introduces-8gb-nano-killer/>
 

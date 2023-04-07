@@ -1,4 +1,4 @@
-# Adderton 在 Amp ' d——TechCrunch
+# Adderton 在 Amp ' d
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/adderton-out-at-amp%e2%80%99d/>
 

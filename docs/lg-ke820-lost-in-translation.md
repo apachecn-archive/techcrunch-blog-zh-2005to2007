@@ -1,4 +1,4 @@
-# LG KE820:迷失在翻译中| TechCrunch
+# LG KE820:迷失在翻译中
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/lg-ke820-lost-in-translation/>
 

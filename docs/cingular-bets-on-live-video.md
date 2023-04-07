@@ -1,4 +1,4 @@
-# Cingular 押注视频直播——TechCrunch
+# Cingular 押注视频直播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/cingular-bets-on-live-video/>
 

@@ -1,4 +1,4 @@
-# Cingular 首次推出 Treo 750: UMTS、Windows Mobile 5–TechCrunch
+# Cingular 首次推出 Treo 750: UMTS、Windows Mobile 5
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/07/cingular-debuts-treo-750-umts-windows-mobile-5/>
 

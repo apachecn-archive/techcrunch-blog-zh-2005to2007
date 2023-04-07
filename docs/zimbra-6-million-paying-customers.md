@@ -1,4 +1,4 @@
-# zimbra:600 万个付费邮箱 TechCrunch
+# zimbra:600 万个付费邮箱 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/25/zimbra-6-million-paying-customers/>
 

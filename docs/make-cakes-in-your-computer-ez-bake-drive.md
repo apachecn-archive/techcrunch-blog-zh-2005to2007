@@ -1,4 +1,4 @@
-# 在你的电脑里做蛋糕！EZ-Bake Drive | TechCrunch
+# 在你的电脑里做蛋糕！EZ-Bake Drive 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/26/make-cakes-in-your-computer-ez-bake-drive/>
 

@@ -1,4 +1,4 @@
-# Skype 找到了进入沃尔玛坏死心脏的方法——TechCrunch
+# Skype 找到了进入沃尔玛坏死心脏的方法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/skype-finds-its-way-into-wal-marts-necrotic-heart/>
 

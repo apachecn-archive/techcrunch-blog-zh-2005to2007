@@ -1,4 +1,4 @@
-# 微软博览会扩大测试版 TechCrunch
+# 微软博览会扩大测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/10/microsoft-expo-expands-beta/>
 

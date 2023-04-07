@@ -1,4 +1,4 @@
-# 你是鲍勃的叔叔，对吗？TechCrunch
+# 你是鲍勃的叔叔，对吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/27/bbc-iplayer-cheerio-pip-pip-bobs-yer-uncle-right/>
 

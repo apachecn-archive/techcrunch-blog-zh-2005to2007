@@ -1,4 +1,4 @@
-# 23 太像 Flickr 了——TechCrunch
+# 23 太像 Flickr 了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/27/23-is-too-much-like-flickr/>
 

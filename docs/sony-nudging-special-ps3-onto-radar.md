@@ -1,4 +1,4 @@
-# 索尼将特殊的 PS3 推向雷达？TechCrunch
+# 索尼将特殊的 PS3 推向雷达？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/29/sony-nudging-special-ps3-onto-radar/>
 

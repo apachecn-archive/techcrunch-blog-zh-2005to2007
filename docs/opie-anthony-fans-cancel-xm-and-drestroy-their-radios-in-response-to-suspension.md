@@ -1,4 +1,4 @@
-# Opie & Anthony 粉丝取消 XM 并破坏他们的收音机以回应暂停——TechCrunch
+# Opie & Anthony 粉丝取消 XM 并破坏他们的收音机以回应暂停
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/opie-anthony-fans-cancel-xm-and-drestroy-their-radios-in-response-to-suspension/>
 

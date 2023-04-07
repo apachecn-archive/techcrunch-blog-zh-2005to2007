@@ -1,4 +1,4 @@
-# 新的 Live.com 外观，有关 Windows Live SkyDrive 的更多信息–TechCrunch
+# 新的 Live.com 外观，有关 Windows Live SkyDrive 的更多信息
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/08/new-livecom-look-feel-more-information-on-windows-live-skydrive/>
 

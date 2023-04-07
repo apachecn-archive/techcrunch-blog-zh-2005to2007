@@ -1,4 +1,4 @@
-# FeedBurner 将主宰博客到电子邮件——TechCrunch
+# FeedBurner 将主宰博客到电子邮件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/19/feedburner-will-dominate-blog-to-email>
 

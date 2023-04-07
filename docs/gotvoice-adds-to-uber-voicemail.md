@@ -1,4 +1,4 @@
-# GotVoice 为优步语音邮件增加了新功能——TechCrunch
+# GotVoice 为优步语音邮件增加了新功能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/08/gotvoice-adds-to-uber-voicemail/>
 

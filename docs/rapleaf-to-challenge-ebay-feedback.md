@@ -1,4 +1,4 @@
-# Rapleaf 挑战 Ebay 反馈| TechCrunch
+# Rapleaf 挑战 Ebay 反馈
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/23/rapleaf-to-challenge-ebay-feedback/>
 

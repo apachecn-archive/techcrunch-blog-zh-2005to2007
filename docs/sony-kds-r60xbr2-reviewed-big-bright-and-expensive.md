@@ -1,4 +1,4 @@
-# 索尼 KDS-R60XBR2 评论:大，亮，贵| TechCrunch
+# 索尼 KDS-R60XBR2 评论:大，亮，贵
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/sony-kds-r60xbr2-reviewed-big-bright-and-expensive/>
 

@@ -1,4 +1,4 @@
-# NAB 2007 上的 crunch gear–TechCrunch
+# NAB 2007 上的 crunch gear
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/15/crunchgear-at-nab-2007/>
 

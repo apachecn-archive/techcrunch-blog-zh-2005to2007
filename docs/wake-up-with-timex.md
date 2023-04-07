@@ -1,4 +1,4 @@
-# 用 Timex 唤醒——TechCrunch
+# 用 Timex 唤醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/06/wake-up-with-timex/>
 

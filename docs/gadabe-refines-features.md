@@ -1,4 +1,4 @@
-# Gada.be 完善功能——TechCrunch
+# Gada.be 完善功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/30/gadabe-refines-features/>
 

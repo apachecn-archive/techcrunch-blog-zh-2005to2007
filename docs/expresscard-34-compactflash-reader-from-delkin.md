@@ -1,4 +1,4 @@
-# Delkin 的 ExpressCard 34 CompactFlash 读卡器| TechCrunch
+# Delkin 的 ExpressCard 34 CompactFlash 读卡器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/expresscard-34-compactflash-reader-from-delkin/>
 

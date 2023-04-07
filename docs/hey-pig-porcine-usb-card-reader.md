@@ -1,4 +1,4 @@
-# 嘿，猪:猪 USB 读卡器 TechCrunch
+# 嘿，猪:猪 USB 读卡器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/hey-pig-porcine-usb-card-reader/>
 

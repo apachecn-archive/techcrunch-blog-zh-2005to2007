@@ -1,4 +1,4 @@
-# Sprint、Novatel 将 EV-DO 带到 MacBook Pro——TechCrunch
+# Sprint、Novatel 将 EV-DO 带到 MacBook Pro
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/sprint-novatel-bring-ev-do-to-macbook-pro/>
 

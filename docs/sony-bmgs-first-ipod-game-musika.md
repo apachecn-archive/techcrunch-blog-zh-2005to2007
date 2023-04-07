@@ -1,4 +1,4 @@
-# 索尼 BMG 首款 iPod 游戏:Musika | TechCrunch
+# 索尼 BMG 首款 iPod 游戏:Musika 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/sony-bmgs-first-ipod-game-musika/>
 

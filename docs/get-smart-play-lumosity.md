@@ -1,4 +1,4 @@
-# 变聪明，玩发光——TechCrunch
+# 变聪明，玩发光
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/31/get-smart-play-lumosity/>
 

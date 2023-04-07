@@ -1,4 +1,4 @@
-# Slideon 概念 MP3 播放器还是 Game Boy SP？你决定| TechCrunch
+# Slideon 概念 MP3 播放器还是 Game Boy SP？你决定
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/slideon-concept-mp3-player-or-game-boy-sp-you-decide/>
 

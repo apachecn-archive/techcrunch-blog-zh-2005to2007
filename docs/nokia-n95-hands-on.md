@@ -1,4 +1,4 @@
-# 诺基亚 N95 动手| TechCrunch
+# 诺基亚 N95 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/nokia-n95-hands-on/>
 

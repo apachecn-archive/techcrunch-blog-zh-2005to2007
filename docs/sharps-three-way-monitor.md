@@ -1,4 +1,4 @@
-# 夏普的三路显示器| TechCrunch
+# 夏普的三路显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/sharps-three-way-monitor/>
 

@@ -1,4 +1,4 @@
-# 使用索尼的 TDM-NC1 Cube 播放环绕立体声音乐| TechCrunch
+# 使用索尼的 TDM-NC1 Cube 播放环绕立体声音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/stream-surround-sound-music-with-sonys-tdm-nc1-cube/>
 

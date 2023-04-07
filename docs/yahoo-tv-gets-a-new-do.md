@@ -1,4 +1,4 @@
-# 雅虎！电视有了新玩法——TechCrunch
+# 雅虎！电视有了新玩法
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/30/yahoo-tv-gets-a-new-do/>
 

@@ -1,4 +1,4 @@
-# Kiko 男回归真人秀明星 TechCrunch
+# Kiko 男回归真人秀明星 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/19/kiko-guys-back-as-reality-tv-stars/>
 

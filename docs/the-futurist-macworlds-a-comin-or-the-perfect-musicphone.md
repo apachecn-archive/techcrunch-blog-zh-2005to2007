@@ -1,4 +1,4 @@
-# 未来主义者:MacWorld ' s-A-coming 或……完美的音乐手机——TechCrunch
+# 未来主义者:MacWorld ' s-A-coming 或……完美的音乐手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/28/the-futurist-macworlds-a-comin-or-the-perfect-musicphone/>
 

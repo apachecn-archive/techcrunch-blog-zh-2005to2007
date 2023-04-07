@@ -1,4 +1,4 @@
-# 简化 Xbox 360 的规模–TechCrunch
+# 简化 Xbox 360 的规模
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/simpsonsizing-the-xbox-360/>
 

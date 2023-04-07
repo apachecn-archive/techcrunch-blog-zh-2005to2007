@@ -1,4 +1,4 @@
-# Lumines Live 将于明天登陆 Xbox Arcade——TechCrunch
+# Lumines Live 将于明天登陆 Xbox Arcade
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/lumines-live-coming-to-xbox-arcade-tomorrow/>
 

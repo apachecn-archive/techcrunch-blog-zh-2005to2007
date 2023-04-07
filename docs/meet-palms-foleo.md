@@ -1,4 +1,4 @@
-# 认识 Palm 的 Foleo | TechCrunch
+# 认识 Palm 的 Foleo 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/30/meet-palms-foleo/>
 

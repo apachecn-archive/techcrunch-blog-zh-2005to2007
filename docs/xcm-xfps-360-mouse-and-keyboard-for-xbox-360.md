@@ -1,4 +1,4 @@
-# XCM XFPS 360:Xbox 360 的鼠标和键盘——TechCrunch
+# XCM XFPS 360:Xbox 360 的鼠标和键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/xcm-xfps-360-mouse-and-keyboard-for-xbox-360/>
 

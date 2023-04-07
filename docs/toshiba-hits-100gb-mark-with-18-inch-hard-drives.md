@@ -1,4 +1,4 @@
-# 东芝 1.8 英寸硬盘突破 100GB 大关——TechCrunch
+# 东芝 1.8 英寸硬盘突破 100GB 大关
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/toshiba-hits-100gb-mark-with-18-inch-hard-drives/>
 

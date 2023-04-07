@@ -1,4 +1,4 @@
-# LinkedIn 将开放平台回应脸书——TechCrunch
+# LinkedIn 将开放平台回应脸书
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/24/linkedin-to-open-platform-in-response-to-facebook/>
 

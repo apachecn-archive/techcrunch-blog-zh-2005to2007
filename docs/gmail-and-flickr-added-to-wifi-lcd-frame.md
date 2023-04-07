@@ -1,4 +1,4 @@
-# Gmail 和 Flickr 添加到 Wifi LCD 框架| TechCrunch
+# Gmail 和 Flickr 添加到 Wifi LCD 框架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/gmail-and-flickr-added-to-wifi-lcd-frame/>
 

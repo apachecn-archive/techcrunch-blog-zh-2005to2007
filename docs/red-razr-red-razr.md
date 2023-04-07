@@ -1,4 +1,4 @@
-# 红色 RAZR，红色 RAZR–TechCrunch
+# 红色 RAZR，红色 RAZR
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/13/red-razr-red-razr/>
 

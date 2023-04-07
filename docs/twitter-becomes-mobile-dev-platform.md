@@ -1,4 +1,4 @@
-# Twitter 的网络服务——TechCrunch
+# Twitter 的网络服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/27/twitter-becomes-mobile-dev-platform/>
 

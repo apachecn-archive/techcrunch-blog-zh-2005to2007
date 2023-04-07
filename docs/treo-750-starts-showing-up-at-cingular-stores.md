@@ -1,4 +1,4 @@
-# Treo 750 开始出现在 Cingular 商店| TechCrunch
+# Treo 750 开始出现在 Cingular 商店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/treo-750-starts-showing-up-at-cingular-stores/>
 

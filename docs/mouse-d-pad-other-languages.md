@@ -1,4 +1,4 @@
-# 鼠标+数字键盘–其他语言| TechCrunch
+# 鼠标+数字键盘–其他语言
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/mouse-d-pad-other-languages/>
 

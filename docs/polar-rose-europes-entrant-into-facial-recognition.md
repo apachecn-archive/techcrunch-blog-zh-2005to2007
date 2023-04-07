@@ -1,4 +1,4 @@
-# Polar Rose:欧洲进入面部识别领域——TechCrunch
+# Polar Rose:欧洲进入面部识别领域
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/19/polar-rose-europes-entrant-into-facial-recognition/>
 

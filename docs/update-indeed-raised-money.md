@@ -1,4 +1,4 @@
-# 更新——事实上(筹集的资金)——TechCrunch
+# 更新——事实上(筹集的资金)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/08/update-indeed-raised-money/>
 

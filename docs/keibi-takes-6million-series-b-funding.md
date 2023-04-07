@@ -1,4 +1,4 @@
-# Keibi 获得 600 万美元 B 轮融资——TechCrunch
+# Keibi 获得 600 万美元 B 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/02/keibi-takes-6million-series-b-funding/>
 

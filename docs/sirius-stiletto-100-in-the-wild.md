@@ -1,4 +1,4 @@
-# 野外的天狼星高跟鞋 100——TechCrunch
+# 野外的天狼星高跟鞋 100
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/sirius-stiletto-100-in-the-wild/>
 

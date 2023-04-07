@@ -1,4 +1,4 @@
-# 黑莓 9900 即将上市？TechCrunch
+# 黑莓 9900 即将上市？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/blackberry-9900-coming-soon/>
 

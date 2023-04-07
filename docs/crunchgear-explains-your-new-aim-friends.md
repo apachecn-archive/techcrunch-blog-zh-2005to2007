@@ -1,4 +1,4 @@
-# CrunchGear 解释你的 AIM 新朋友——TechCrunch
+# CrunchGear 解释你的 AIM 新朋友
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/13/crunchgear-explains-your-new-aim-friends/>
 

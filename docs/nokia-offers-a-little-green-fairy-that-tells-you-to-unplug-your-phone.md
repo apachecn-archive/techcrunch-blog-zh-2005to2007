@@ -1,4 +1,4 @@
-# 诺基亚提供了一个绿色小精灵，告诉你拔掉手机——TechCrunch
+# 诺基亚提供了一个绿色小精灵，告诉你拔掉手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/nokia-offers-a-little-green-fairy-that-tells-you-to-unplug-your-phone/>
 

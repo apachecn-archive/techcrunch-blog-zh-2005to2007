@@ -1,4 +1,4 @@
-# SnoopStick:独生子女的老大哥| TechCrunch
+# SnoopStick:独生子女的老大哥
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/snoopstick-a-big-brother-for-the-only-child/>
 

@@ -1,4 +1,4 @@
-# 脸书测试版社交书签——TechCrunch
+# 脸书测试版社交书签
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/24/facebook-beta-testing-social-bookmarking/>
 

@@ -1,4 +1,4 @@
-# 1200 美元的宽屏无线相框| TechCrunch
+# 1200 美元的宽屏无线相框
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/the-1200-widescreen-wireless-photo-frame/>
 

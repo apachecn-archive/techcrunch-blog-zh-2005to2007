@@ -1,4 +1,4 @@
-# Joytech 推出 Wii Powerstation | TechCrunch
+# Joytech 推出 Wii Powerstation 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/joytech-presents-wii-powerstation/>
 

@@ -1,4 +1,4 @@
-# 威瑞森提供移动支付——TechCrunch
+# 威瑞森提供移动支付
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/verizon-offers-mobile-payments/>
 

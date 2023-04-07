@@ -1,4 +1,4 @@
-# 泛泰的新手机能识别你的脸——TechCrunch
+# 泛泰的新手机能识别你的脸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/pantechs-new-mobile-recognizes-your-face/>
 

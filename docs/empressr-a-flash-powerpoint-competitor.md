@@ -1,4 +1,4 @@
-# Empressr，Flash PowerPoint 的竞争对手| TechCrunch
+# Empressr，Flash PowerPoint 的竞争对手
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/12/empressr-a-flash-powerpoint-competitor/>
 

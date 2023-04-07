@@ -1,4 +1,4 @@
-# 用于喷墨墨盒的墨水补充站| TechCrunch
+# 用于喷墨墨盒的墨水补充站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/ink-rechargink-station-for-inkjet-cartridges/>
 

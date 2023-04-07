@@ -1,4 +1,4 @@
-# Weebly 推出博客平台，完成 65 万美元投资——TechCrunch
+# Weebly 推出博客平台，完成 65 万美元投资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/09/weebly-launches-blog-platform-bags-650k-investment/>
 

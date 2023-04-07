@@ -1,4 +1,4 @@
-# 真实的 Office Live: Zoho 将在线和离线办公应用程序连接起来——TechCrunch
+# 真实的 Office Live: Zoho 将在线和离线办公应用程序连接起来
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/30/the-real-office-live-zoho-bridges-online-and-offline-office-apps/>
 

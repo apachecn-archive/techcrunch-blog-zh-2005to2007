@@ -1,4 +1,4 @@
-# Crunchgasm 第一天:我们做得怎么样？–TechCrunch
+# Crunchgasm 第一天:我们做得怎么样？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/crunchgasm-day-1-how-are-we-doing/>
 

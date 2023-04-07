@@ -1,4 +1,4 @@
-# 好市多严格要求退货——TechCrunch
+# 好市多严格要求退货
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/costco-buckles-down-on-returns/>
 

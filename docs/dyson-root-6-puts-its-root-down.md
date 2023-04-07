@@ -1,4 +1,4 @@
-# 戴森 Root 6 把根放下| TechCrunch
+# 戴森 Root 6 把根放下
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/dyson-root-6-puts-its-root-down/>
 

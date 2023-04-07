@@ -1,4 +1,4 @@
-# 笔记本电脑看威瑞森的 VX8700:闪亮+金属| TechCrunch
+# 笔记本电脑看威瑞森的 VX8700:闪亮+金属
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/laptop-looks-at-verizons-vx8700-shiny-metallic/>
 

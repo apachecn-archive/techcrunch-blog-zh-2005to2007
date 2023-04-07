@@ -1,4 +1,4 @@
-# 获得拍卖提醒——TechCrunch
+# 获得拍卖提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/get-alerted-for-your-auctions/>
 

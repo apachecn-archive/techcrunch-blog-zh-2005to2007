@@ -1,4 +1,4 @@
-# 可爱的孩子让 PSP 玩 Wii-TechCrunch
+# 可爱的孩子让 PSP 玩 Wii-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/17/cute-kid-makes-psp-play-wii/>
 

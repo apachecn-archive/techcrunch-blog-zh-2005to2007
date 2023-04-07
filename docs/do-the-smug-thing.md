@@ -1,4 +1,4 @@
-# 做自鸣得意的事情| TechCrunch
+# 做自鸣得意的事情
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/27/do-the-smug-thing/>
 

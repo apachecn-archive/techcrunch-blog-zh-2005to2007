@@ -1,4 +1,4 @@
-# iPhone 将在搅拌机中搅拌——TechCrunch
+# iPhone 将在搅拌机中搅拌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/the-iphone-will-blend-in-a-blender/>
 

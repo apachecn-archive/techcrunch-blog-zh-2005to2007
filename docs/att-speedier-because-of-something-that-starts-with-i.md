@@ -1,4 +1,4 @@
-# 美国电话电报公司更快，因为有些东西是以 I 开头的？TechCrunch
+# 美国电话电报公司更快，因为有些东西是以 I 开头的？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/att-speedier-because-of-something-that-starts-with-i/>
 

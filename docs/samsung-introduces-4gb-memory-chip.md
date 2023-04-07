@@ -1,4 +1,4 @@
-# 三星推出 4GB 内存芯片——TechCrunch
+# 三星推出 4GB 内存芯片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/samsung-introduces-4gb-memory-chip/>
 

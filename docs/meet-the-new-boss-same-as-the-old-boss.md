@@ -1,4 +1,4 @@
-# 见见新老板，和老老板一样| TechCrunch
+# 见见新老板，和老老板一样
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/meet-the-new-boss-same-as-the-old-boss/>
 

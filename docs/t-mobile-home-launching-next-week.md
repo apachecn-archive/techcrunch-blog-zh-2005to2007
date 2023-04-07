@@ -1,4 +1,4 @@
-# T-Mobile @ Home 下周发布——TechCrunch
+# T-Mobile @ Home 下周发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/t-mobile-home-launching-next-week/>
 

@@ -1,4 +1,4 @@
-# ValueClick 以 3.52 亿美元收购比较购物运营商 mezi media——TechCrunch
+# ValueClick 以 3.52 亿美元收购比较购物运营商 mezi media
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/16/valueclick-acquires-comparison-shopping-operator-mezimedia-for-up-to-352million/>
 

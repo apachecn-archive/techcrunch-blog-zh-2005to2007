@@ -1,4 +1,4 @@
-# 我想描述的公司(但不存在)| TechCrunch
+# 我想描述的公司(但不存在)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/21/companies-id-like-to-profile-but-dont-exist>
 

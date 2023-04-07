@@ -1,4 +1,4 @@
-# Lightascope 让你的等离子看起来很漂亮| TechCrunch
+# Lightascope 让你的等离子看起来很漂亮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/lightascope-makes-your-plasma-look-pretty/>
 

@@ -1,4 +1,4 @@
-# MotionDSP 改善军事视频的颗粒感——TechCrunch
+# MotionDSP 改善军事视频的颗粒感
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/motiondsp-improves-grainy-video-for-military-you/>
 

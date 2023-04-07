@@ -1,4 +1,4 @@
-# 佳能 iVIS HG10 高清硬盘摄像机–TechCrunch
+# 佳能 iVIS HG10 高清硬盘摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/canon-ivis-hg10-high-def-hdd-camcorder/>
 

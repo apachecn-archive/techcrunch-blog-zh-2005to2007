@@ -1,4 +1,4 @@
-# 伟大的户外运动:极客的水上运动装备——TechCrunch
+# 伟大的户外运动:极客的水上运动装备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/02/water-sports-gear-for-geeks/>
 

@@ -1,4 +1,4 @@
-# 东芝外部 USB 2.0 HD DVD 驱动器，蓝光阵营嫉妒 TechCrunch
+# 东芝外部 USB 2.0 HD DVD 驱动器，蓝光阵营嫉妒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/toshiba-external-usb-20-hd-dvd-drive-blu-ray-camp-jealous/>
 

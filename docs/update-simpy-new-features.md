@@ -1,4 +1,4 @@
-# 更新-简单(新功能)TechCrunch
+# 更新-简单(新功能)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/28/update-simpy-new-features/>
 

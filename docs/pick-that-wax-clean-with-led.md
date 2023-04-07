@@ -1,4 +1,4 @@
-# 用 LED 清除蜡——TechCrunch
+# 用 LED 清除蜡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/27/pick-that-wax-clean-with-led/>
 

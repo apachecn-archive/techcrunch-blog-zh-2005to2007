@@ -1,4 +1,4 @@
-# Digg 顶级用户页面回来了——TechCrunch
+# Digg 顶级用户页面回来了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/02/top-digg-users-page-is-back/>
 

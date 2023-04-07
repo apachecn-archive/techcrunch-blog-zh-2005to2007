@@ -1,4 +1,4 @@
-# 媒体圣殿粉碎共享主机 TechCrunch
+# 媒体圣殿粉碎共享主机 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/17/media-temple-crushes-shared-hosting>
 

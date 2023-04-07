@@ -1,4 +1,4 @@
-# PlayStation 3 拆箱| TechCrunch
+# PlayStation 3 拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/playstation-3-unboxed/>
 

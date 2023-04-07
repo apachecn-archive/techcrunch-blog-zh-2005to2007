@@ -1,4 +1,4 @@
-# 带 GSM 门铃的家庭电话——TechCrunch
+# 带 GSM 门铃的家庭电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/15/home-phones-with-the-gsm-doorbell/>
 

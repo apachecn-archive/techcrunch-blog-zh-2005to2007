@@ -1,4 +1,4 @@
-# Gtalkr 的新功能 TechCrunch
+# Gtalkr 的新功能 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/02/gtalkrs-new-features/>
 

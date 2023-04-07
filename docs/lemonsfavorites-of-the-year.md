@@ -1,4 +1,4 @@
-# 年度最爱和柠檬？TechCrunch
+# 年度最爱和柠檬？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/lemonsfavorites-of-the-year/>
 

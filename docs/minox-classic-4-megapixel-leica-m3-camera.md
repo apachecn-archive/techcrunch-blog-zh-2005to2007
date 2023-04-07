@@ -1,4 +1,4 @@
-# Minox 经典 400 万像素徕卡 M3 相机| TechCrunch
+# Minox 经典 400 万像素徕卡 M3 相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/minox-classic-4-megapixel-leica-m3-camera/>
 

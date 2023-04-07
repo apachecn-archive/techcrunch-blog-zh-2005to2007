@@ -1,4 +1,4 @@
-# stumble upon now IE friendly-TechCrunch
+# stumble upon now IE friendly-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/18/stumbleupon-now-ie-friendly/>
 

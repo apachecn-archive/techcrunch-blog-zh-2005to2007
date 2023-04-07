@@ -1,4 +1,4 @@
-# 视频:不要陷入…交叉火力！TechCrunch
+# 视频:不要陷入…交叉火力！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/video-dont-get-caught-up-in-the-crossfire/>
 

@@ -1,4 +1,4 @@
-# 诺基亚宣布有史以来第一个扬声器| TechCrunch
+# 诺基亚宣布有史以来第一个扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/nokia-announces-first-ever-speakerphone/>
 

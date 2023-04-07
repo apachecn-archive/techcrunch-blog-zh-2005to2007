@@ -1,4 +1,4 @@
-# 把一些黑暗面放进你的口袋| TechCrunch
+# 把一些黑暗面放进你的口袋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/put-a-little-of-the-dark-side-in-your-pocket/>
 

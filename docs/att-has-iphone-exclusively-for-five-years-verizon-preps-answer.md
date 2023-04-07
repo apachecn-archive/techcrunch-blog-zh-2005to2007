@@ -1,4 +1,4 @@
-# 美国电话电报公司独占 iPhone 五年，威瑞森准备“答案”——TechCrunch
+# 美国电话电报公司独占 iPhone 五年，威瑞森准备“答案”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/att-has-iphone-exclusively-for-five-years-verizon-preps-answer/>
 

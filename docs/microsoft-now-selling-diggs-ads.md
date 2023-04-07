@@ -1,4 +1,4 @@
-# 微软现在出售 Digg 的广告 TechCrunch
+# 微软现在出售 Digg 的广告 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/microsoft-now-selling-diggs-ads/>
 

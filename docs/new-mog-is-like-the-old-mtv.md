@@ -1,4 +1,4 @@
-# MOG 清理了一些混乱——TechCrunch
+# MOG 清理了一些混乱
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/29/new-mog-is-like-the-old-mtv/>
 

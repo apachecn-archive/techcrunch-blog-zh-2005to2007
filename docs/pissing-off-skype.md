@@ -1,4 +1,4 @@
-# 惹恼 Skype——TechCrunch
+# 惹恼 Skype
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/08/pissing-off-skype/>
 

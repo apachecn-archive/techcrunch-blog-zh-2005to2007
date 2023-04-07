@@ -1,4 +1,4 @@
-# iMovie '08 支持硬盘，DVD 摄像机，耶！TechCrunch
+# iMovie '08 支持硬盘，DVD 摄像机，耶！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/imovie-08-supports-hdd-dvd-camcorders-yay/>
 

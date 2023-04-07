@@ -1,4 +1,4 @@
-# 新款 iMacs 包括 130 万像素 iSight | TechCrunch
+# 新款 iMacs 包括 130 万像素 iSight 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/new-imacs-include-13-megapixel-isight/>
 

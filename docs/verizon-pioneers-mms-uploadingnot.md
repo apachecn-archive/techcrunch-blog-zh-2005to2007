@@ -1,4 +1,4 @@
-# 威瑞森先锋彩信上传…不！！！TechCrunch
+# 威瑞森先锋彩信上传…不！！！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/verizon-pioneers-mms-uploadingnot/>
 

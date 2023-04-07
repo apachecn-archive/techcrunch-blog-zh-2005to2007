@@ -1,4 +1,4 @@
-# 80GB PS3 降价，20GB 版本更便宜——TechCrunch
+# 80GB PS3 降价，20GB 版本更便宜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/80gb-ps3-drops-20gb-version-gets-cheaper/>
 

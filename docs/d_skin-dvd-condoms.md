@@ -1,4 +1,4 @@
-# 用新的 DVD 套套保护、尊重你的磁盘。TechCrunch
+# 用新的 DVD 套套保护、尊重你的磁盘。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/d_skin-dvd-condoms/>
 

@@ -1,4 +1,4 @@
-# 有史以来第一个移动 GPS 部件平台亮相| TechCrunch
+# 有史以来第一个移动 GPS 部件平台亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/first-ever-mobile-gps-widget-platform-debuts/>
 

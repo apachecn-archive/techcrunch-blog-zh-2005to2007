@@ -1,4 +1,4 @@
-# 保护你的关键词——TechCrunch
+# 保护你的关键词
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/20/mozes-secure-your-keyword>
 

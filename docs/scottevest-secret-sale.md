@@ -1,4 +1,4 @@
-# ScottEVest 秘密销售| TechCrunch
+# ScottEVest 秘密销售
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/10/scottevest-secret-sale/>
 

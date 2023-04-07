@@ -1,4 +1,4 @@
-# 手枪限制不行！二手 CD 限制 Si！TechCrunch
+# 手枪限制不行！二手 CD 限制 Si！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/handgun-restrictions-no-used-cd-restrictions-si/>
 

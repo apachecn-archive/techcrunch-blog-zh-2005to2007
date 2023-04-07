@@ -1,4 +1,4 @@
-# 嘿！观看在线视频转换| TechCrunch
+# 嘿！观看在线视频转换
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/heywatch-online-video-converting/>
 

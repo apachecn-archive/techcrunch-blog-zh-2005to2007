@@ -1,4 +1,4 @@
-# Alienware Area-51 m5790 特别版–TechCrunch
+# Alienware Area-51 m5790 特别版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/08/alienware-area-51-m5790-special-edition/>
 

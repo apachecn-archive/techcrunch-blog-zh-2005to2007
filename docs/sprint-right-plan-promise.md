@@ -1,4 +1,4 @@
-# 冲刺正确的计划承诺 TechCrunch
+# 冲刺正确的计划承诺 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/sprint-right-plan-promise/>
 

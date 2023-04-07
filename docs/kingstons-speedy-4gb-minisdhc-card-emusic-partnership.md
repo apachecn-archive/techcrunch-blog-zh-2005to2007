@@ -1,4 +1,4 @@
-# Kingston 的快速 4GB miniSDHC 卡，eMusic 合作伙伴| TechCrunch
+# Kingston 的快速 4GB miniSDHC 卡，eMusic 合作伙伴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/kingstons-speedy-4gb-minisdhc-card-emusic-partnership/>
 

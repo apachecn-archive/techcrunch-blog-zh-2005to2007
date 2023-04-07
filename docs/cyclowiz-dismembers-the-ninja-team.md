@@ -1,4 +1,4 @@
-# CycloWiz 肢解忍者队| TechCrunch
+# CycloWiz 肢解忍者队
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/cyclowiz-dismembers-the-ninja-team/>
 

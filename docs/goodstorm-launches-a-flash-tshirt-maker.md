@@ -1,4 +1,4 @@
-# Goodstorm 推出闪光 t 恤制造商 TechCrunch
+# Goodstorm 推出闪光 t 恤制造商 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/29/goodstorm-launches-a-flash-tshirt-maker/>
 

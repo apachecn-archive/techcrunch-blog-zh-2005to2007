@@ -1,4 +1,4 @@
-# 黄瓜——一个小型免费翻译社区| TechCrunch
+# 黄瓜——一个小型免费翻译社区
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/21/cucumis-a-small-free-translation-community/>
 

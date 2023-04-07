@@ -1,4 +1,4 @@
-# crunch gear 2006 年最佳产品——TechCrunch
+# crunch gear 2006 年最佳产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/crunchgears-best-of-2006/>
 

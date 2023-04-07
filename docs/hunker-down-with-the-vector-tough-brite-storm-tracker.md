@@ -1,4 +1,4 @@
-# 使用 Vector Tough Brite Storm Tracker | TechCrunch
+# 使用 Vector Tough Brite Storm Tracker 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/hunker-down-with-the-vector-tough-brite-storm-tracker/>
 

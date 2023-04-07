@@ -1,4 +1,4 @@
-# Stardoll.com:大事从小事开始——TechCrunch
+# Stardoll.com:大事从小事开始
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/08/stardollcom-from-little-things-big-things-grow/>
 

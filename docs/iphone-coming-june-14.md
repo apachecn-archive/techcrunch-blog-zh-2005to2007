@@ -1,4 +1,4 @@
-# iPhone:6 月 14 日上市？TechCrunch
+# iPhone:6 月 14 日上市？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/14/iphone-coming-june-14/>
 

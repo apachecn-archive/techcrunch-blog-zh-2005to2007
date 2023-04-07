@@ -1,4 +1,4 @@
-# Tellme 推出免费 411 服务| TechCrunch
+# Tellme 推出免费 411 服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/16/tellme-launches-free-411-service-2/>
 

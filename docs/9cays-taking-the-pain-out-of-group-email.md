@@ -1,4 +1,4 @@
-# 9cays 让群发邮件不再痛苦| TechCrunch
+# 9cays 让群发邮件不再痛苦
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/17/9cays-taking-the-pain-out-of-group-email/>
 

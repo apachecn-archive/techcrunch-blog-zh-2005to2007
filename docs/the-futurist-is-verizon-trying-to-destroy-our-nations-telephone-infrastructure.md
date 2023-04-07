@@ -1,4 +1,4 @@
-# 未来学家:威瑞森是想摧毁我们国家的电话基础设施吗？–TechCrunch
+# 未来学家:威瑞森是想摧毁我们国家的电话基础设施吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/the-futurist-is-verizon-trying-to-destroy-our-nations-telephone-infrastructure/>
 

@@ -1,4 +1,4 @@
-# 苹果秒杀 15 寸 Macbook Pro？–TechCrunch
+# 苹果秒杀 15 寸 Macbook Pro？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/apple-killing-off-15-inch-macbook-pro/>
 

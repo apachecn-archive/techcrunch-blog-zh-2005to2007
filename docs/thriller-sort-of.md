@@ -1,4 +1,4 @@
-# 惊悚片……有点像——TechCrunch
+# 惊悚片……有点像
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/thriller-sort-of/>
 

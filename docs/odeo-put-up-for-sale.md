@@ -1,4 +1,4 @@
-# Odeo 挂牌出售——TechCrunch
+# Odeo 挂牌出售
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/19/odeo-put-up-for-sale/>
 

@@ -1,4 +1,4 @@
-# Xbox 360 和 Airport Extreme 802.11n 合不来——TechCrunch
+# Xbox 360 和 Airport Extreme 802.11n 合不来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/xbox-360-and-airport-extreme-80211n-dont-get-along/>
 

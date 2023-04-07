@@ -1,4 +1,4 @@
-# 原本是为 Wii 游戏设计的经典控制器？TechCrunch
+# 原本是为 Wii 游戏设计的经典控制器？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/30/classic-controller-originally-meant-for-wii-games/>
 

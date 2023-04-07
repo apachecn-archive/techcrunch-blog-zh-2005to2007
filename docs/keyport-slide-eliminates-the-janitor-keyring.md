@@ -1,4 +1,4 @@
-# Keyport 幻灯片消除了看门人钥匙圈| TechCrunch
+# Keyport 幻灯片消除了看门人钥匙圈
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/26/keyport-slide-eliminates-the-janitor-keyring/>
 

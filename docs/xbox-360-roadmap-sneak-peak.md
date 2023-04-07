@@ -1,4 +1,4 @@
-# Xbox 360 路线图预览–TechCrunch
+# Xbox 360 路线图预览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/xbox-360-roadmap-sneak-peak/>
 

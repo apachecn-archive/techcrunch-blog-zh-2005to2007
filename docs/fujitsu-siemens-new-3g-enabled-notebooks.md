@@ -1,4 +1,4 @@
-# 富士通西门子新型 3G 笔记本电脑| TechCrunch
+# 富士通西门子新型 3G 笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/fujitsu-siemens-new-3g-enabled-notebooks/>
 

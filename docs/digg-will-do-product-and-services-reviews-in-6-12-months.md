@@ -1,4 +1,4 @@
-# Digg 将在 6-12 个月内做产品和服务评论——TechCrunch
+# Digg 将在 6-12 个月内做产品和服务评论
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/02/digg-will-do-product-and-services-reviews-in-6-12-months/>
 

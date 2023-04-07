@@ -1,4 +1,4 @@
-# Veoh 任命 Mitgang 首席执行官–TechCrunch
+# Veoh 任命 Mitgang 首席执行官
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/veoh-names-mitgang-ceo/>
 

@@ -1,4 +1,4 @@
-# 摩托罗拉 RIZR Z9 泄露——TechCrunch
+# 摩托罗拉 RIZR Z9 泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/07/motorola-rizr-z9-leaked/>
 

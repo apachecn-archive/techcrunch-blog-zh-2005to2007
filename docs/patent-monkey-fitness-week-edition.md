@@ -1,4 +1,4 @@
-# 专利猴:健身周版 TechCrunch
+# 专利猴:健身周版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/19/patent-monkey-fitness-week-edition/>
 

@@ -1,4 +1,4 @@
-# 苹果推出多色 iPod Shuffles | TechCrunch
+# 苹果推出多色 iPod Shuffles 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/apple-poops-out-multicolored-ipod-shuffles/>
 

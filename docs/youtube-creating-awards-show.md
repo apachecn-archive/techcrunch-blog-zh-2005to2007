@@ -1,4 +1,4 @@
-# YouTube 创造大奖秀| TechCrunch
+# YouTube 创造大奖秀
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/youtube-creating-awards-show/>
 

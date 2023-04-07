@@ -1,4 +1,4 @@
-# Numark 确定了 iDJ2 | TechCrunch 的发布日期
+# Numark 确定了 iDJ2  的发布日期
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/numark-finalizes-release-date-for-idj2/>
 

@@ -1,4 +1,4 @@
-# Optimus Designers | TechCrunch 的 Upravlator
+# Optimus Designers  的 Upravlator
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/upravlator-from-the-optimus-designers/>
 

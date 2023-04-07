@@ -1,4 +1,4 @@
-# 致威瑞森无线的一封公开信，来自你真诚的(和大卫·莱特曼)——TechCrunch
+# 致威瑞森无线的一封公开信，来自你真诚的(和大卫·莱特曼)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/an-open-letter-to-verizon-wireless-from-yours-truly-and-david-letterman/>
 

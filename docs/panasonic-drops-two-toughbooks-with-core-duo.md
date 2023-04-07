@@ -1,4 +1,4 @@
-# 松下推出两款配备 Core Duo 的 toughbook——TechCrunch
+# 松下推出两款配备 Core Duo 的 toughbook
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/panasonic-drops-two-toughbooks-with-core-duo/>
 

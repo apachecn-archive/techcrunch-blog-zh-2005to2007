@@ -1,4 +1,4 @@
-# 手持色情设备将在五年内翻倍:Jupiter | TechCrunch
+# 手持色情设备将在五年内翻倍:Jupiter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/handheld-porn-to-double-in-five-years-juniper/>
 

@@ -1,4 +1,4 @@
-# 哦，天哪，又一个索尼电池在笔记本电脑上着火了——TechCrunch
+# 哦，天哪，又一个索尼电池在笔记本电脑上着火了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/oh-boy-another-sony-battery-catches-fire-in-a-laptop/>
 

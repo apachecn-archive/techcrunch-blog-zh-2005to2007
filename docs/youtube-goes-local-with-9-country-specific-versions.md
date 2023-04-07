@@ -1,4 +1,4 @@
-# YouTube 本地化，9 个国家特定版本 TechCrunch
+# YouTube 本地化，9 个国家特定版本 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/19/youtube-goes-local-with-9-country-specific-versions/>
 

@@ -1,4 +1,4 @@
-# Diigo 是一个很棒的研究工具——TechCrunch
+# Diigo 是一个很棒的研究工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/02/diigo-is-a-research-tool-that-rocks/>
 

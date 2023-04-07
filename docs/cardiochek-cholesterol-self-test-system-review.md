@@ -1,4 +1,4 @@
-# CardioChek 胆固醇自测系统回顾| TechCrunch
+# CardioChek 胆固醇自测系统回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/13/cardiochek-cholesterol-self-test-system-review/>
 

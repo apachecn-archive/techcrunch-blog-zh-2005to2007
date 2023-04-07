@@ -1,4 +1,4 @@
-# 索尼用 GPS 设备找到了自我——TechCrunch
+# 索尼用 GPS 设备找到了自我
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/sony-finds-self-with-gps-device/>
 

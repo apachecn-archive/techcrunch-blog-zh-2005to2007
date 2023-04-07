@@ -1,4 +1,4 @@
-# Cowon iAudio F2 MP3 播放器看起来像手机| TechCrunch
+# Cowon iAudio F2 MP3 播放器看起来像手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/cowon-iaudio-f2-mp3-player-looks-like-a-phone/>
 

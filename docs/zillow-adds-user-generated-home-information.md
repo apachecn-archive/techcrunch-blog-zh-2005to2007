@@ -1,4 +1,4 @@
-# Zillow 增加了用户生成的房屋信息 TechCrunch
+# Zillow 增加了用户生成的房屋信息 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/19/zillow-adds-user-generated-home-information/>
 

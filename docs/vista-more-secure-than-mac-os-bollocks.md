@@ -1,4 +1,4 @@
-# Vista 比 Mac OS 更安全:胡说？–TechCrunch
+# Vista 比 Mac OS 更安全:胡说？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/vista-more-secure-than-mac-os-bollocks/>
 

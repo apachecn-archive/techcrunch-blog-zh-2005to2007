@@ -1,4 +1,4 @@
-# Sprint 推出 1GB 板载音乐手机——TechCrunch
+# Sprint 推出 1GB 板载音乐手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/04/sprint-parades-out-music-phone-with-1gb-on-board/>
 

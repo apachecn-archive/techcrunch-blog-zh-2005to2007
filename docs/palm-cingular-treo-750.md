@@ -1,4 +1,4 @@
-# 不要为 Treo 750 屏住呼吸| TechCrunch
+# 不要为 Treo 750 屏住呼吸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/palm-cingular-treo-750/>
 

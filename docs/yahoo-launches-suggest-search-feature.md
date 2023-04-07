@@ -1,4 +1,4 @@
-# 雅虎推出建议搜索功能——TechCrunch
+# 雅虎推出建议搜索功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/12/yahoo-launches-suggest-search-feature/>
 

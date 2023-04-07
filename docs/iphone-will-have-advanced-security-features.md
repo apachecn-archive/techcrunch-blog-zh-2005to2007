@@ -1,4 +1,4 @@
-# iPhone 将拥有高级安全功能| TechCrunch
+# iPhone 将拥有高级安全功能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/iphone-will-have-advanced-security-features/>
 

@@ -1,4 +1,4 @@
-# 剑桥 SoundWorks 电台 CD 745i 评论–TechCrunch
+# 剑桥 SoundWorks 电台 CD 745i 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/cambridge-soundworks-radio-cd-745i-review/>
 

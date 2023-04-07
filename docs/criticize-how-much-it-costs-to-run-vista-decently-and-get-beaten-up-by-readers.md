@@ -1,4 +1,4 @@
-# 批评体面运行 Vista 的成本并被读者痛打——TechCrunch
+# 批评体面运行 Vista 的成本并被读者痛打
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/criticize-how-much-it-costs-to-run-vista-decently-and-get-beaten-up-by-readers/>
 

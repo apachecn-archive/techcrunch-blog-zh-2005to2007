@@ -1,4 +1,4 @@
-# 谷歌收购欧洲地图公司 TechCrunch
+# 谷歌收购欧洲地图公司 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/18/google-acquires-euro-mapping-company/>
 

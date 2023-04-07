@@ -1,4 +1,4 @@
-# GPS + GSM = TXT MSG 恐惧–TechCrunch
+# GPS + GSM = TXT MSG 恐惧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/gps-gsm-txt-msg-fear/>
 

@@ -1,4 +1,4 @@
-# 知识产权日:MySpace 反盗版，DRM 更名，苹果 C&D-TechCrunch
+# 知识产权日:MySpace 反盗版，DRM 更名，苹果 C&D-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/11/another-day-in-ip-myspace-anti-piracy-drm-name-change-and-apple-cnd/>
 

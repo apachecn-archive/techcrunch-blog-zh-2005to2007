@@ -1,4 +1,4 @@
-# 天龙推出耳机线| TechCrunch
+# 天龙推出耳机线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/denon-launches-headphone-line/>
 

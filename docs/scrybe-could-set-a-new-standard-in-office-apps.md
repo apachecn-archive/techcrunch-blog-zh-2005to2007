@@ -1,4 +1,4 @@
-# Scrybe 可能会在办公应用领域设立一个新的标准——TechCrunch
+# Scrybe 可能会在办公应用领域设立一个新的标准
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/21/scrybe-could-set-a-new-standard-in-office-apps>
 

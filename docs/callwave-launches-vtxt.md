@@ -1,4 +1,4 @@
-# CallWave 发布 Vtxt | TechCrunch
+# CallWave 发布 Vtxt 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/callwave-launches-vtxt/>
 

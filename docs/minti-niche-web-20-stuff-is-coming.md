@@ -1,4 +1,4 @@
-# Minti 利基 Web 2.0 的东西来了 TechCrunch
+# Minti 利基 Web 2.0 的东西来了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/09/minti-niche-web-20-stuff-is-coming>
 

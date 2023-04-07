@@ -1,4 +1,4 @@
-# 快速竞赛过后的小工具纪念——TechCrunch
+# 快速竞赛过后的小工具纪念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/remembrance-of-gadgets-past-quick-contest/>
 

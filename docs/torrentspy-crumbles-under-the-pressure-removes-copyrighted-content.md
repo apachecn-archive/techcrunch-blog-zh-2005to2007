@@ -1,4 +1,4 @@
-# TorrentSpy 在压力下崩溃，删除受版权保护的内容——TechCrunch
+# TorrentSpy 在压力下崩溃，删除受版权保护的内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/torrentspy-crumbles-under-the-pressure-removes-copyrighted-content/>
 

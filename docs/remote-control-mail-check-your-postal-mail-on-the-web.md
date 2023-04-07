@@ -1,4 +1,4 @@
-# 远程控制邮件:在网上查看你的邮件——TechCrunch
+# 远程控制邮件:在网上查看你的邮件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/22/remote-control-mail-check-your-postal-mail-on-the-web/>
 

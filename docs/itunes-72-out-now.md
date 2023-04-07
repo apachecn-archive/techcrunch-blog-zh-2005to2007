@@ -1,4 +1,4 @@
-# iTunes 7.2 现已发布——TechCrunch
+# iTunes 7.2 现已发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/itunes-72-out-now/>
 

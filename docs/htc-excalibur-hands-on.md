@@ -1,4 +1,4 @@
-# HTC Excalibur Hands On | TechCrunch
+# HTC Excalibur Hands On 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/htc-excalibur-hands-on/>
 

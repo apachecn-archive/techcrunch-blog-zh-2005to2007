@@ -1,4 +1,4 @@
-# 微软阅读器为折纸优化，所有五个折纸爱好者欢欣鼓舞| TechCrunch
+# 微软阅读器为折纸优化，所有五个折纸爱好者欢欣鼓舞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/11/microsoft-reader-optimized-for-origami-all-five-origami-lovers-rejoice/>
 

@@ -1,4 +1,4 @@
-# 谷歌在澳大利亚尴尬 TechCrunch
+# 谷歌在澳大利亚尴尬 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/google-embarrassed-in-australia/>
 

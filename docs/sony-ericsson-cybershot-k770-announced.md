@@ -1,4 +1,4 @@
-# 索尼-爱立信 Cybershot K770 发布——TechCrunch
+# 索尼-爱立信 Cybershot K770 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/sony-ericsson-cybershot-k770-announced/>
 

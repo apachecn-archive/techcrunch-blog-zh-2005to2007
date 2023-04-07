@@ -1,4 +1,4 @@
-# 福克斯将在 MySpace——TechCrunch 上首播沉没的电视剧集
+# 福克斯将在 MySpace 上首播沉没的电视剧集
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/24/fox-to-debut-sinking-tv-episodes-on-myspace/>
 

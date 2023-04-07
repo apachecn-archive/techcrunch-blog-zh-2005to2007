@@ -1,4 +1,4 @@
-# 使用来自 ELP 的点击工具——TechCrunch，点击鼠标
+# 使用来自 ELP 的点击工具，点击鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/declick-your-clicks-with-the-declicker-from-elp/>
 

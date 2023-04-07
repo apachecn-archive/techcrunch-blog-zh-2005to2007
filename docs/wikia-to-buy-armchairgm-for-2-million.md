@@ -1,4 +1,4 @@
-# Wikia 将以 200 万美元收购 arm chairgm TechCrunch
+# Wikia 将以 200 万美元收购 arm chairgm 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/04/wikia-to-buy-armchairgm-for-2-million/>
 

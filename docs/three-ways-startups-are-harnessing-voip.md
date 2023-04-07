@@ -1,4 +1,4 @@
-# 初创公司提供 VOIP 的三种方式 TechCrunch
+# 初创公司提供 VOIP 的三种方式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/15/three-ways-startups-are-harnessing-voip/>
 

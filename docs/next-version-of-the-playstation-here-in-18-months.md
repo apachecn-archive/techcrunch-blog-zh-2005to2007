@@ -1,4 +1,4 @@
-# 未来 18 个月内 PlayStation 的下一个版本？–TechCrunch
+# 未来 18 个月内 PlayStation 的下一个版本？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/next-version-of-the-playstation-here-in-18-months/>
 

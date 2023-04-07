@@ -1,4 +1,4 @@
-# 见见毁了变形金刚的家伙| TechCrunch
+# 见见毁了变形金刚的家伙
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/meet-the-guy-who-ruined-transformers/>
 

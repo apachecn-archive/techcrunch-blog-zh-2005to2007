@@ -1,4 +1,4 @@
-# 提醒:ScottEVest 储蓄| TechCrunch
+# 提醒:ScottEVest 储蓄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/reminder-scottevest-savings/>
 

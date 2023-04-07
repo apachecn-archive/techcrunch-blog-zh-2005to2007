@@ -1,4 +1,4 @@
-# 粉色 XM Inno 治疗乳腺癌——TechCrunch
+# 粉色 XM Inno 治疗乳腺癌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/06/pink-xm-inno-for-breast-cancer/>
 

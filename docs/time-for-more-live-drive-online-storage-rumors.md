@@ -1,4 +1,4 @@
-# 是时候发布更多关于实时硬盘在线存储的谣言了——TechCrunch
+# 是时候发布更多关于实时硬盘在线存储的谣言了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/12/time-for-more-live-drive-online-storage-rumors/>
 

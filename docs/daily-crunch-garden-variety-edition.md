@@ -1,4 +1,4 @@
-# 每日新闻:花园综艺版| TechCrunch
+# 每日新闻:花园综艺版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/daily-crunch-garden-variety-edition/>
 

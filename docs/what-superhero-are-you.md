@@ -1,4 +1,4 @@
-# 你是哪个超级英雄？–TechCrunch
+# 你是哪个超级英雄？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/29/what-superhero-are-you/>
 

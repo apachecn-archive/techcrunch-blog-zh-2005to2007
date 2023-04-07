@@ -1,4 +1,4 @@
-# Wiimote 第二部分——TechCrunch
+# Wiimote 第二部分
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/inside-the-wiimote-part-deux/>
 

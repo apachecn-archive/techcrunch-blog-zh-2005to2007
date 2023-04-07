@@ -1,4 +1,4 @@
-# 豪雅手机(？？)| TechCrunch
+# 豪雅手机(？？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/tag-heuer-phone/>
 

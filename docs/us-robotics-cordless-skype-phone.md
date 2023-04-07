@@ -1,4 +1,4 @@
-# 美国机器人无线 Skype 电话| TechCrunch
+# 美国机器人无线 Skype 电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/us-robotics-cordless-skype-phone/>
 

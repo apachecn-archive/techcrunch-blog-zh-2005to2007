@@ -1,4 +1,4 @@
-# Napster 收购 AOL 音乐:下一步是什么？–TechCrunch
+# Napster 收购 AOL 音乐:下一步是什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/14/napster-buys-aol-music-what-is-this-company-doing/>
 

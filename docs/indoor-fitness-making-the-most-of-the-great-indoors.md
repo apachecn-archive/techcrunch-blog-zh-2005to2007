@@ -1,4 +1,4 @@
-# 室内健身:充分利用绝佳的室内环境 TechCrunch
+# 室内健身:充分利用绝佳的室内环境 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/17/indoor-fitness-making-the-most-of-the-great-indoors/>
 

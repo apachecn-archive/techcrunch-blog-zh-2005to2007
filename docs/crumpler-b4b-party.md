@@ -1,4 +1,4 @@
-# Crumpler B4B 派对| TechCrunch
+# Crumpler B4B 派对
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/17/crumpler-b4b-party/>
 

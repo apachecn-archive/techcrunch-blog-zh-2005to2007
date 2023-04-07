@@ -1,4 +1,4 @@
-# 内置数码相机 14 倍变焦–TechCrunch
+# 内置数码相机 14 倍变焦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/14x-zoom-with-built-in-digital-camera/>
 

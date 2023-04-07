@@ -1,4 +1,4 @@
-# Nuvvo 挑战开源 Moodle TechCrunch
+# Nuvvo 挑战开源 Moodle 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/16/nuvvo-takes-on-open-source-moodle/>
 

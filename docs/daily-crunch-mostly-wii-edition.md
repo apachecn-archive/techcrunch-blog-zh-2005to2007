@@ -1,4 +1,4 @@
-# 每日危机:主要是 Wii 版| TechCrunch
+# 每日危机:主要是 Wii 版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/12/daily-crunch-mostly-wii-edition/>
 

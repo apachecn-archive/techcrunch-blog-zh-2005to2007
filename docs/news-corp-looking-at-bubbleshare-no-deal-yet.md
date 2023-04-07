@@ -1,4 +1,4 @@
-# 新闻集团关注 BubbleShare -尚未达成交易 TechCrunch
+# 新闻集团关注 BubbleShare -尚未达成交易 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/13/news-corp-looking-at-bubbleshare-no-deal-yet/>
 

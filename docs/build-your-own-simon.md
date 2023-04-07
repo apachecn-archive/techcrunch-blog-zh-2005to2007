@@ -1,4 +1,4 @@
-# 打造自己的 Simon | TechCrunch
+# 打造自己的 Simon 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/11/build-your-own-simon/>
 

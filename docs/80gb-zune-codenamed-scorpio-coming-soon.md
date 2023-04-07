@@ -1,4 +1,4 @@
-# 80GB Zune，代号天蝎座即将推出| TechCrunch
+# 80GB Zune，代号天蝎座即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/80gb-zune-codenamed-scorpio-coming-soon/>
 

@@ -1,4 +1,4 @@
-# 高清 GPU 对决:英伟达还是 ATI/AMD？TechCrunch
+# 高清 GPU 对决:英伟达还是 ATI/AMD？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/high-def-gpu-showdown-nvidia-or-atiamd/>
 

@@ -1,4 +1,4 @@
-# Mesmo.tv 发现您喜欢的视频–TechCrunch
+# Mesmo.tv 发现您喜欢的视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/17/mesmotv-discovers-videos-you-like/>
 

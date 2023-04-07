@@ -1,4 +1,4 @@
-# 和 Clipfire 做笔交易。TechCrunch
+# 和 Clipfire 做笔交易。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/02/find-a-deal-with-clipfire/>
 

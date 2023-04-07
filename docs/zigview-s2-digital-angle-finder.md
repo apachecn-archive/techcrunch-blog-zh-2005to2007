@@ -1,4 +1,4 @@
-# S2 数字测角仪| TechCrunch
+# S2 数字测角仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/zigview-s2-digital-angle-finder/>
 

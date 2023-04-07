@@ -1,4 +1,4 @@
-# 这是一扇门和一张乒乓球桌，看！？| TechCrunch
+# 这是一扇门和一张乒乓球桌，看！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/its-a-door-and-a-ping-pong-table-see/>
 

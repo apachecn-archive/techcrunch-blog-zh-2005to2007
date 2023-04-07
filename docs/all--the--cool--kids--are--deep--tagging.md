@@ -1,4 +1,4 @@
-# 所有酷孩子都是深度标签——TechCrunch
+# 所有酷孩子都是深度标签
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2006/10/01/all--the--cool--kids--are--deep--tagging/>
 

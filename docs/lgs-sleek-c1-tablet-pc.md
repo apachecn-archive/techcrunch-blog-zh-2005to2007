@@ -1,4 +1,4 @@
-# LG 时尚的 C1 平板电脑| TechCrunch
+# LG 时尚的 C1 平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/23/lgs-sleek-c1-tablet-pc/>
 

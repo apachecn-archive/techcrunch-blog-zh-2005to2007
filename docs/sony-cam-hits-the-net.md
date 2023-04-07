@@ -1,4 +1,4 @@
-# 索尼 NSC-GC1 登陆互联网——TechCrunch
+# 索尼 NSC-GC1 登陆互联网
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/sony-cam-hits-the-net/>
 

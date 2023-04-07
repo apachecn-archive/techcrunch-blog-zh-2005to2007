@@ -1,4 +1,4 @@
-# 剑桥 SoundWorks Radio 820HD:高清收音机的辉煌——TechCrunch
+# 剑桥 SoundWorks Radio 820HD:高清收音机的辉煌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/cambridge-soundworks-radio-820hd-hd-radio-in-all-its-splendor/>
 

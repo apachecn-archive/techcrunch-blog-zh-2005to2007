@@ -1,4 +1,4 @@
-# Retrevo 的“快照”按价格和功能绘制产品图表| TechCrunch
+# Retrevo 的“快照”按价格和功能绘制产品图表
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/retrevos-snapshot-graphs-products-by-price-and-features/>
 

@@ -1,4 +1,4 @@
-# 经济实惠的阿格系列| TechCrunch
+# 经济实惠的阿格系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/budget-friendly-ge-a-series/>
 

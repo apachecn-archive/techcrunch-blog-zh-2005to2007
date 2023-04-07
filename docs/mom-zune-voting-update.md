@@ -1,4 +1,4 @@
-# Mom + Zune +投票=更新| TechCrunch
+# Mom + Zune +投票=更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/mom-zune-voting-update/>
 

@@ -1,4 +1,4 @@
-# 在线订阅阅读器的现状 TechCrunch
+# 在线订阅阅读器的现状 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/30/the-state-of-online-feed-readers>
 

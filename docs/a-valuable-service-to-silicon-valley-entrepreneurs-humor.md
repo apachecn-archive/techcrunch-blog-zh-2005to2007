@@ -1,4 +1,4 @@
-# 对硅谷企业家有价值的服务(幽默)——TechCrunch
+# 对硅谷企业家有价值的服务(幽默)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/04/05/a-valuable-service-to-silicon-valley-entrepreneurs-humor/>
 

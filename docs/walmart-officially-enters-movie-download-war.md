@@ -1,4 +1,4 @@
-# 沃尔玛正式进入电影下载大战| TechCrunch
+# 沃尔玛正式进入电影下载大战
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/06/walmart-officially-enters-movie-download-war/>
 

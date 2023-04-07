@@ -1,4 +1,4 @@
-# 沃尔玛确认视频下载服务 TechCrunch
+# 沃尔玛确认视频下载服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/wal-mart-confirms-video-download-service/>
 

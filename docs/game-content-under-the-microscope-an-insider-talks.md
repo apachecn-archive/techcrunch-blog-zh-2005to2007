@@ -1,4 +1,4 @@
-# 显微镜下的游戏内容:内部人士的谈话——TechCrunch
+# 显微镜下的游戏内容:内部人士的谈话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/game-content-under-the-microscope-an-insider-talks/>
 

@@ -1,4 +1,4 @@
-# Windows Live Writer | TechCrunch
+# Windows Live Writer 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/13/windows-live-writer/>
 

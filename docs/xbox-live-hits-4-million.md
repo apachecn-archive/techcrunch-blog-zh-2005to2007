@@ -1,4 +1,4 @@
-# Xbox Live 点击率 400 万| TechCrunch
+# Xbox Live 点击率 400 万
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/xbox-live-hits-4-million/>
 

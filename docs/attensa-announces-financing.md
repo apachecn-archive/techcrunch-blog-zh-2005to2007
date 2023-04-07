@@ -1,4 +1,4 @@
-# Attensa 宣布融资| TechCrunch
+# Attensa 宣布融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/05/attensa-announces-financing/>
 

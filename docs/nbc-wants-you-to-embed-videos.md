@@ -1,4 +1,4 @@
-# NBC 希望你嵌入视频| TechCrunch
+# NBC 希望你嵌入视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/nbc-wants-you-to-embed-videos/>
 

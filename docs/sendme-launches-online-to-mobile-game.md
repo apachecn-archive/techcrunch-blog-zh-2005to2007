@@ -1,4 +1,4 @@
-# SendMe 推出在线移动游戏| TechCrunch
+# SendMe 推出在线移动游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/sendme-launches-online-to-mobile-game/>
 

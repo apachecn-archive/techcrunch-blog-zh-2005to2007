@@ -1,4 +1,4 @@
-# IE8 暗示 Mix'07，浏览器大战又回来了？TechCrunch
+# IE8 暗示 Mix'07，浏览器大战又回来了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/ie8-hinted-at-mix07-browser-wars-are-back/>
 

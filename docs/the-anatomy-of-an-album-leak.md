@@ -1,4 +1,4 @@
-# 专辑泄露剖析——TechCrunch
+# 专辑泄露剖析
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/the-anatomy-of-an-album-leak/>
 

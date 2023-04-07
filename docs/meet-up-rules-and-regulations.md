@@ -1,4 +1,4 @@
-# 符合规章制度| TechCrunch
+# 符合规章制度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/meet-up-rules-and-regulations/>
 

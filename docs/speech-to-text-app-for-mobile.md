@@ -1,4 +1,4 @@
-# 面向移动设备的语音转文本应用——TechCrunch
+# 面向移动设备的语音转文本应用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/speech-to-text-app-for-mobile/>
 

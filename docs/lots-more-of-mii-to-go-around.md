@@ -1,4 +1,4 @@
-# 更多的信息产业部将围绕| TechCrunch
+# 更多的信息产业部将围绕
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/lots-more-of-mii-to-go-around/>
 

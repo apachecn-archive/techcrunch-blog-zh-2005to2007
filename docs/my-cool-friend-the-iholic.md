@@ -1,4 +1,4 @@
-# 我的酷朋友 iHolic——TechCrunch
+# 我的酷朋友 iHolic
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/29/my-cool-friend-the-iholic/>
 

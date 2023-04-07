@@ -1,4 +1,4 @@
-# 雅虎设计周:高潮鲜花和太空入侵者 TechCrunch
+# 雅虎设计周:高潮鲜花和太空入侵者 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/23/yahoo-design-week-orgasming-flowers-and-space-invaders/>
 

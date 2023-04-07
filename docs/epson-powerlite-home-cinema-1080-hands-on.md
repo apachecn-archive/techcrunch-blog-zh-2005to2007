@@ -1,4 +1,4 @@
-# 爱普生 PowerLite 家庭影院 1080 动手| TechCrunch
+# 爱普生 PowerLite 家庭影院 1080 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/10/epson-powerlite-home-cinema-1080-hands-on/>
 

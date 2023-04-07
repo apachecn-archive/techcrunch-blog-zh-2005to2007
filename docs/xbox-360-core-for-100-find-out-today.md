@@ -1,4 +1,4 @@
-# 100 美元的 Xbox 360 核心？立即了解| TechCrunch
+# 100 美元的 Xbox 360 核心？立即了解
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/xbox-360-core-for-100-find-out-today/>
 

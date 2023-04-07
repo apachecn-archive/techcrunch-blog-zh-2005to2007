@@ -1,4 +1,4 @@
-# 我们参加 Sidekick ID 发布会的邀请函呢？–TechCrunch
+# 我们参加 Sidekick ID 发布会的邀请函呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/where-was-our-invite-to-the-sidekick-id-launch-party/>
 

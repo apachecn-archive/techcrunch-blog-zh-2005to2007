@@ -1,4 +1,4 @@
-# 是的，这是真的——TechCrunch
+# 是的，这是真的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/05/yeah-its-for-real/>
 

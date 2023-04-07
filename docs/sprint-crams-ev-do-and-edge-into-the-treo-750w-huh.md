@@ -1,4 +1,4 @@
-# Sprint 将 EV-DO 和 EDGE 塞进 Treo 750w，哈！？TechCrunch
+# Sprint 将 EV-DO 和 EDGE 塞进 Treo 750w，哈！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/sprint-crams-ev-do-and-edge-into-the-treo-750w-huh/>
 

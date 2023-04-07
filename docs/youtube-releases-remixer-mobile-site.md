@@ -1,4 +1,4 @@
-# YouTube 发布 Remixer，移动网站| TechCrunch
+# YouTube 发布 Remixer，移动网站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/youtube-releases-remixer-mobile-site/>
 

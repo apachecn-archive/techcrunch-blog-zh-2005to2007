@@ -1,4 +1,4 @@
-# 免费、热气腾腾的 T-Mobile 热点接入–TechCrunch
+# 免费、热气腾腾的 T-Mobile 热点接入
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/free-steamy-t-mobile-hotspot-access/>
 

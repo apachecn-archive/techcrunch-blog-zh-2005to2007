@@ -1,4 +1,4 @@
-# Skype 3.0 测试版发布| TechCrunch
+# Skype 3.0 测试版发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/skype-30-beta-released/>
 

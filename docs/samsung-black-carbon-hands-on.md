@@ -1,4 +1,4 @@
-# 三星黑炭动手| TechCrunch
+# 三星黑炭动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/03/samsung-black-carbon-hands-on/>
 

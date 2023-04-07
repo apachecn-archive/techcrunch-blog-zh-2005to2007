@@ -1,4 +1,4 @@
-# 适用于移动设备的 Falcom Samba USB EDGE 适配器| TechCrunch
+# 适用于移动设备的 Falcom Samba USB EDGE 适配器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/falcom-samba-usb-edge-adapter-for-mobile-devices/>
 

@@ -1,4 +1,4 @@
-# 海盗船的 16 个橡胶防水闪存驱动器有趣| TechCrunch
+# 海盗船的 16 个橡胶防水闪存驱动器有趣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/11/corsairs-16-gigs-of-rubberized-water-resistant-flash-drive-fun/>
 

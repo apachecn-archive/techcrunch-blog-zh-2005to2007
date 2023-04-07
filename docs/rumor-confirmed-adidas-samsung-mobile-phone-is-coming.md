@@ -1,4 +1,4 @@
-# 传言证实:阿迪达斯、三星手机来了——TechCrunch
+# 传言证实:阿迪达斯、三星手机来了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/rumor-confirmed-adidas-samsung-mobile-phone-is-coming/>
 

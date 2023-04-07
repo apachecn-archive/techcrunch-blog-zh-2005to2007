@@ -1,4 +1,4 @@
-# LG、微软在| TechCrunch 上发布
+# LG、微软在 上发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/lg-microsoft-get-it-on/>
 

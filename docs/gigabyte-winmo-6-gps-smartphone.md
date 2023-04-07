@@ -1,4 +1,4 @@
-# 千兆字节 WinMo 6 GPS 智能手机| TechCrunch
+# 千兆字节 WinMo 6 GPS 智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/gigabyte-winmo-6-gps-smartphone/>
 

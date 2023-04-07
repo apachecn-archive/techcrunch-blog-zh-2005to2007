@@ -1,4 +1,4 @@
-# 一台光滑的白色 PS3 出现在易贝——TechCrunch
+# 一台光滑的白色 PS3 出现在易贝
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/26/a-3000-ps3-that-isn%E2%80%99t-on-ebay/>
 

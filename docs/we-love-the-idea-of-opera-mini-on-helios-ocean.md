@@ -1,4 +1,4 @@
-# 我们喜欢在 Helio 的海洋上运行 Opera Mini 的想法——TechCrunch
+# 我们喜欢在 Helio 的海洋上运行 Opera Mini 的想法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/we-love-the-idea-of-opera-mini-on-helios-ocean/>
 

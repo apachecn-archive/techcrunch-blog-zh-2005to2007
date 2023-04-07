@@ -1,4 +1,4 @@
-# Sonos 团队与 Real: Rhapsody 在你的客厅| TechCrunch
+# Sonos 团队与 Real: Rhapsody 在你的客厅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/15/sonos-teams-with-real-rhapsody-in-your-livingroom/>
 

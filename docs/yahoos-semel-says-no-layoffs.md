@@ -1,4 +1,4 @@
-# 雅虎的塞梅尔说不会裁员，有点像是——TechCrunch
+# 雅虎的塞梅尔说不会裁员，有点像是
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/07/yahoos-semel-says-no-layoffs/>
 

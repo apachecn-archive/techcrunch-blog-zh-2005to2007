@@ -1,4 +1,4 @@
-# 描绘世界| TechCrunch
+# 描绘世界
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/13/mapping-the-wordosphere/>
 

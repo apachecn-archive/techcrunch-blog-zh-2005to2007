@@ -1,4 +1,4 @@
-# 尼莫:就像 Windows | TechCrunch 的前排
+# 尼莫:就像 Windows  的前排
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/nemo-like-front-row-for-windows/>
 

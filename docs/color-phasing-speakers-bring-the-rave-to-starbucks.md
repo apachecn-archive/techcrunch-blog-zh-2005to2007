@@ -1,4 +1,4 @@
-# 彩色相位扬声器为星巴克带来狂欢| TechCrunch
+# 彩色相位扬声器为星巴克带来狂欢
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/color-phasing-speakers-bring-the-rave-to-starbucks/>
 

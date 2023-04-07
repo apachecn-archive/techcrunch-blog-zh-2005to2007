@@ -1,4 +1,4 @@
-# 移动拍卖网站 MobMart 让你只用手机就可以做任何事情。TechCrunch
+# 移动拍卖网站 MobMart 让你只用手机就可以做任何事情。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/07/mobmart-the-mobile-auction-site-lets-you-do-everything-with-just-your-phone/>
 

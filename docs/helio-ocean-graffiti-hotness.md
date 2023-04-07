@@ -1,4 +1,4 @@
-# helio Ocean Graffiti Hotness–TechCrunch
+# helio Ocean Graffiti Hotness
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/helio-ocean-graffiti-hotness/>
 

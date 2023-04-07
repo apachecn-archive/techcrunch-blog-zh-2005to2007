@@ -1,4 +1,4 @@
-# 加拿大人确实喜欢啤酒 TechCrunch
+# 加拿大人确实喜欢啤酒 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/18/canadians-sure-do-love-beer/>
 

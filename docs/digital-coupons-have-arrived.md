@@ -1,4 +1,4 @@
-# 数字优惠券来了——TechCrunch
+# 数字优惠券来了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/digital-coupons-have-arrived/>
 

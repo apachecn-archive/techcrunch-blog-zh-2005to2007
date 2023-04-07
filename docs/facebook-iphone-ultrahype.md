@@ -1,4 +1,4 @@
-# 脸书+ iPhone =超酷——TechCrunch
+# 脸书+ iPhone =超酷
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/15/facebook-iphone-ultrahype/>
 

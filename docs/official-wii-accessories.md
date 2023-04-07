@@ -1,4 +1,4 @@
-# 官方 Wii 配件| TechCrunch
+# 官方 Wii 配件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/official-wii-accessories/>
 

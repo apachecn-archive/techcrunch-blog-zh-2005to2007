@@ -1,4 +1,4 @@
-# GDC 2007 第 2 天:植入新闻发布室| TechCrunch
+# GDC 2007 第 2 天:植入新闻发布室
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/gdc-2007-day-2-planted-in-the-press-room/>
 

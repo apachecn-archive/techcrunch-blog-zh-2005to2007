@@ -1,4 +1,4 @@
-# 日立计划使用蓝光光盘的 940GB 存储盒| TechCrunch
+# 日立计划使用蓝光光盘的 940GB 存储盒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/hitachi-plans-940gb-storage-cartridges-using-blu-ray-discs/>
 

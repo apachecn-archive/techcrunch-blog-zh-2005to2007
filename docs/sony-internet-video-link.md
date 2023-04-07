@@ -1,4 +1,4 @@
-# 索尼互联网视频链接| TechCrunch
+# 索尼互联网视频链接
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/27/sony-internet-video-link/>
 

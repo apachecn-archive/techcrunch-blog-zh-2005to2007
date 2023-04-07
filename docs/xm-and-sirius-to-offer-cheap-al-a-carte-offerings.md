@@ -1,4 +1,4 @@
-# XM 和 Sirius 将提供廉价的单点产品| TechCrunch
+# XM 和 Sirius 将提供廉价的单点产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/xm-and-sirius-to-offer-cheap-al-a-carte-offerings/>
 

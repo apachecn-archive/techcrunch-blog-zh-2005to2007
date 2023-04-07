@@ -1,4 +1,4 @@
-# 索尼让步，发布 iPod Dock-TechCrunch
+# 索尼让步，发布 iPod Dock-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/sony-gives-in-releases-ipod-dock/>
 

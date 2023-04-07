@@ -1,4 +1,4 @@
-# 东芝发布六款新笔记本电脑——TechCrunch
+# 东芝发布六款新笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/toshiba-announces-six-new-laptops/>
 

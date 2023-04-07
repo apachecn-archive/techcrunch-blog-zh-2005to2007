@@ -1,4 +1,4 @@
-# MySpace 准备推出新闻服务，包括移动更新| TechCrunch
+# MySpace 准备推出新闻服务，包括移动更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/19/myspace-poised-to-launch-news-service-includes-mobile-updates/>
 

@@ -1,4 +1,4 @@
-# Wiimote 的表带接受测试——TechCrunch
+# Wiimote 的表带接受测试
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/15/wiimotes-strap-put-to-the-test/>
 

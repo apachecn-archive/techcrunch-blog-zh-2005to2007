@@ -1,4 +1,4 @@
-# 更新提高了 Windows Vista 的可靠性–TechCrunch
+# 更新提高了 Windows Vista 的可靠性
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/update-improves-windows-vista-reliability/>
 

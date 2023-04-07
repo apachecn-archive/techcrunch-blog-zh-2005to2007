@@ -1,4 +1,4 @@
-# Neoware 瘦客户机笔记本电脑:什么硬盘？–TechCrunch
+# Neoware 瘦客户机笔记本电脑:什么硬盘？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/neoware-thin-client-laptops-what-hard-drive/>
 

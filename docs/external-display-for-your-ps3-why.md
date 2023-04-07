@@ -1,4 +1,4 @@
-# PS3 的外部显示器，为什么？TechCrunch
+# PS3 的外部显示器，为什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/external-display-for-your-ps3-why/>
 

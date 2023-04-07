@@ -1,4 +1,4 @@
-# HTC Advantage 视频拆箱令人惊叹| TechCrunch
+# HTC Advantage 视频拆箱令人惊叹
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/htc-advantage-video-unboxing-is-mindblowingly-amazing/>
 

@@ -1,4 +1,4 @@
-# 手机被罚款 10 万美元| TechCrunch
+# 手机被罚款 10 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/ampd-mobile-being-fined-100k/>
 

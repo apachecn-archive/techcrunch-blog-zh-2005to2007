@@ -1,4 +1,4 @@
-# Vista 延迟版光环| TechCrunch
+# Vista 延迟版光环
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/halo-2-for-vista-delayed/>
 

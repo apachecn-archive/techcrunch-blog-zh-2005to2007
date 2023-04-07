@@ -1,4 +1,4 @@
-# 格兰。Be$T.Kommenter.Evar | TechCrunch
+# 格兰。Be$T.Kommenter.Evar 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/13/tehbetkommenterevar-7/>
 

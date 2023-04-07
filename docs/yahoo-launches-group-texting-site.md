@@ -1,4 +1,4 @@
-# 雅虎！推出群发短信网站——TechCrunch
+# 雅虎！推出群发短信网站
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/29/yahoo-launches-group-texting-site/>
 

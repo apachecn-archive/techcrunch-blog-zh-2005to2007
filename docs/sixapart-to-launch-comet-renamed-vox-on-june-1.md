@@ -1,4 +1,4 @@
-# SixApart 将于 6 月 1 日推出 Comet，更名为 Vox TechCrunch
+# SixApart 将于 6 月 1 日推出 Comet，更名为 Vox 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/31/sixapart-to-launch-comet-renamed-vox-on-june-1/>
 

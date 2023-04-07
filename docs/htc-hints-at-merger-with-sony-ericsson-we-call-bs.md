@@ -1,4 +1,4 @@
-# HTC 暗示与索尼爱立信合并；我们称之为 BS–TechCrunch
+# HTC 暗示与索尼爱立信合并；我们称之为 BS
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/htc-hints-at-merger-with-sony-ericsson-we-call-bs/>
 

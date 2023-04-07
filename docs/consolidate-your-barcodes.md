@@ -1,4 +1,4 @@
-# 整合您的条形码–TechCrunch
+# 整合您的条形码
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/consolidate-your-barcodes/>
 

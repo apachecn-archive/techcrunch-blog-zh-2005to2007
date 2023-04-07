@@ -1,4 +1,4 @@
-# 终极游戏椅| TechCrunch
+# 终极游戏椅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/ultimate-game-chair/>
 

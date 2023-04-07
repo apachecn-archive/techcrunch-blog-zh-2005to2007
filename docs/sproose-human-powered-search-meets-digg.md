@@ -1,4 +1,4 @@
-# Sproose:人肉搜索遇上 Digg TechCrunch
+# Sproose:人肉搜索遇上 Digg 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/01/sproose-human-powered-search-meets-digg/>
 

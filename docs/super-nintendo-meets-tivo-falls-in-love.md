@@ -1,4 +1,4 @@
-# 超级任天堂遇上 TiVo，坠入爱河| TechCrunch
+# 超级任天堂遇上 TiVo，坠入爱河
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/12/super-nintendo-meets-tivo-falls-in-love/>
 

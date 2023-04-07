@@ -1,4 +1,4 @@
-# 亚马逊拆箱现在可以通过你的 TiVo | TechCrunch
+# 亚马逊拆箱现在可以通过你的 TiVo 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/amazon-unbox-now-available-through-your-tivo/>
 

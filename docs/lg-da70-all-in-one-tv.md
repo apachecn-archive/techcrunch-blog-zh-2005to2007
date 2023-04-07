@@ -1,4 +1,4 @@
-# LG DA70 多功能一体电视| TechCrunch
+# LG DA70 多功能一体电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/lg-da70-all-in-one-tv/>
 

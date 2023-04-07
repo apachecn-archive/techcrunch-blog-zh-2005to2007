@@ -1,4 +1,4 @@
-# 博客需要电子邮件——TechCrunch
+# 博客需要电子邮件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/13/blogs-need-an-email-solution/>
 

@@ -1,4 +1,4 @@
-# Crook 用 Wiimote 做武器| TechCrunch
+# Crook 用 Wiimote 做武器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/crook-uses-wiimote-as-a-weapon/>
 

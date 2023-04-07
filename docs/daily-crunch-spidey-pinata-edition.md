@@ -1,4 +1,4 @@
-# 每日快讯:蜘蛛侠皮纳塔版| TechCrunch
+# 每日快讯:蜘蛛侠皮纳塔版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/daily-crunch-spidey-pinata-edition/>
 

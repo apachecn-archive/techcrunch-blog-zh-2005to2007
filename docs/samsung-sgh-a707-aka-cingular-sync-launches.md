@@ -1,4 +1,4 @@
-# 三星 SGH-a707 又名 Cingular SYNC 发布——TechCrunch
+# 三星 SGH-a707 又名 Cingular SYNC 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/samsung-sgh-a707-aka-cingular-sync-launches/>
 

@@ -1,4 +1,4 @@
-# 被投资人背叛的 FilmLoop？TechCrunch
+# 被投资人背叛的 FilmLoop？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/12/filmloop-betrayed-by-investors/>
 

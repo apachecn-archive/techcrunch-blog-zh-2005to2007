@@ -1,4 +1,4 @@
-# Adobe 向全世界发布 PDF——TechCrunch
+# Adobe 向全世界发布 PDF
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/28/adobe-releases-pdf-to-the-world/>
 

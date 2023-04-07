@@ -1,4 +1,4 @@
-# 先锋的 MT-01 电力线多房间音频| TechCrunch
+# 先锋的 MT-01 电力线多房间音频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/pioneers-mt-01-power-line-multi-room-audio/>
 

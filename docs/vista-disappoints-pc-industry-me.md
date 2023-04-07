@@ -1,4 +1,4 @@
-# Vista 让个人电脑行业失望，我 TechCrunch
+# Vista 让个人电脑行业失望，我 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/vista-disappoints-pc-industry-me/>
 

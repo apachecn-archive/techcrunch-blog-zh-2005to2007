@@ -1,4 +1,4 @@
-# Sprint 修订 EV-DO，发行新卡| TechCrunch
+# Sprint 修订 EV-DO，发行新卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/sprint-revises-ev-do-issues-new-card/>
 

@@ -1,4 +1,4 @@
-# Sprint 和 Clearwire 达成重大 WiMax 交易| TechCrunch
+# Sprint 和 Clearwire 达成重大 WiMax 交易
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/sprint-and-clearwire-strike-major-wimax-deal/>
 

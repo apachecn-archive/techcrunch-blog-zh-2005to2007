@@ -1,4 +1,4 @@
-# 思科 iPhone 违反 GPL–TechCrunch
+# 思科 iPhone 违反 GPL
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/cisco-iphone-in-violation-of-gpl/>
 

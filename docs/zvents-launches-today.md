@@ -1,4 +1,4 @@
-# zvents 今日发布| TechCrunch
+# zvents 今日发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/05/zvents-launches-today/>
 

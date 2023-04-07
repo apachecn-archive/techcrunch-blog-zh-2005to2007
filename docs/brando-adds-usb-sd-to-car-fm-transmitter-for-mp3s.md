@@ -1,4 +1,4 @@
-# Brando 为 MP3 的车载调频发射机添加 USB、| TechCrunch
+# Brando 为 MP3 的车载调频发射机添加 USB、
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/brando-adds-usb-sd-to-car-fm-transmitter-for-mp3s/>
 

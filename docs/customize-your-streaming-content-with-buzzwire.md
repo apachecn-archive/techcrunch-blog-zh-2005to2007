@@ -1,4 +1,4 @@
-# 使用 Buzzwire | TechCrunch 定制您的流媒体内容
+# 使用 Buzzwire  定制您的流媒体内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/customize-your-streaming-content-with-buzzwire/>
 

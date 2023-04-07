@@ -1,4 +1,4 @@
-# Wii 马里奥赛车在永远加无限| TechCrunch 发布
+# Wii 马里奥赛车在永远加无限 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/wii-mario-kart-comes-out-in-forever-plus-infinity/>
 

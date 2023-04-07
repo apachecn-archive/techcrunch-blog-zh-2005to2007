@@ -1,4 +1,4 @@
-# Google Picasa 走向移动，走向本地(什么？)| TechCrunch
+# Google Picasa 走向移动，走向本地(什么？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/27/google-picasa-goes-mobile-and-goes-local-what/>
 

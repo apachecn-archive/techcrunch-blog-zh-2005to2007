@@ -1,4 +1,4 @@
-# CrunchGear 与 Treo 680 共度火鸡日——TechCrunch
+# CrunchGear 与 Treo 680 共度火鸡日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/25/crunchgear-spends-turkey-day-with-treo-680/>
 

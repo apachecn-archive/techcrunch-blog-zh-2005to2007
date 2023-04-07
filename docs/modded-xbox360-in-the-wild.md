@@ -1,4 +1,4 @@
-# 野外改装的 Xbox 360 | TechCrunch
+# 野外改装的 Xbox 360 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/modded-xbox360-in-the-wild/>
 

@@ -1,4 +1,4 @@
-# 不舒服的游戏演示| TechCrunch
+# 不舒服的游戏演示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/uncomfortable-game-demo/>
 

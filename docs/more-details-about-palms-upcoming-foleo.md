@@ -1,4 +1,4 @@
-# 关于 Palm 即将推出的 Foleo | TechCrunch 的更多细节
+# 关于 Palm 即将推出的 Foleo  的更多细节
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/more-details-about-palms-upcoming-foleo/>
 

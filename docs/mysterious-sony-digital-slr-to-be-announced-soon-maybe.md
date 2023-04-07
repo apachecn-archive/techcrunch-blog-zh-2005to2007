@@ -1,4 +1,4 @@
-# 神秘的索尼数码单反将很快公布…也许——TechCrunch
+# 神秘的索尼数码单反将很快公布…也许
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/mysterious-sony-digital-slr-to-be-announced-soon-maybe/>
 

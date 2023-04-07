@@ -1,4 +1,4 @@
-# 听说过导管吗？–TechCrunch
+# 听说过导管吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/09/hear-about-conduit-yet/>
 

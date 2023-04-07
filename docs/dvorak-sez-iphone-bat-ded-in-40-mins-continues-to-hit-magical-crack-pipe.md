@@ -1,4 +1,4 @@
-# 德沃夏克经济特区 iPhone 蝙蝠在 40 分钟内死亡，继续击中神奇的裂缝管道 TechCrunch
+# 德沃夏克经济特区 iPhone 蝙蝠在 40 分钟内死亡，继续击中神奇的裂缝管道 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/dvorak-sez-iphone-bat-ded-in-40-mins-continues-to-hit-magical-crack-pipe/>
 

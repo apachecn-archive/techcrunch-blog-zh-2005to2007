@@ -1,4 +1,4 @@
-# 出售 TechCrunch
+# 出售 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/26/microsoft-has-acquired-tellme/>
 

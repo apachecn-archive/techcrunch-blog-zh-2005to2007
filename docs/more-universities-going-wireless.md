@@ -1,4 +1,4 @@
-# 越来越多的大学使用无线技术——TechCrunch
+# 越来越多的大学使用无线技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/more-universities-going-wireless/>
 

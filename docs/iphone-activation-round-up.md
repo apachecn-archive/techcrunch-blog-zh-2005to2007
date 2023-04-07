@@ -1,4 +1,4 @@
-# iPhone 激活综述| TechCrunch
+# iPhone 激活综述
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/04/iphone-activation-round-up/>
 

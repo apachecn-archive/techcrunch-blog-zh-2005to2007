@@ -1,4 +1,4 @@
-# 中国克隆帝国的幕后| TechCrunch
+# 中国克隆帝国的幕后
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/10/behind-the-scenes-of-chinas-cloning-empire/>
 

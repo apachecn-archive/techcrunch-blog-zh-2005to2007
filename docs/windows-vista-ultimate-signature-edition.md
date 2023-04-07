@@ -1,4 +1,4 @@
-# Windows Vista 旗舰版签名版–TechCrunch
+# Windows Vista 旗舰版签名版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/20/windows-vista-ultimate-signature-edition/>
 

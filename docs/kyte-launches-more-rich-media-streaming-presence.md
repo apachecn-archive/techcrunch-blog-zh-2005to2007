@@ -1,4 +1,4 @@
-# Kyte 发布:更丰富的媒体流 TechCrunch
+# Kyte 发布:更丰富的媒体流 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/23/kyte-launches-more-rich-media-streaming-presence/>
 

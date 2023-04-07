@@ -1,4 +1,4 @@
-# 暴雪让愿望成真——TechCrunch
+# 暴雪让愿望成真
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/blizzard-makes-a-wish-come-true/>
 

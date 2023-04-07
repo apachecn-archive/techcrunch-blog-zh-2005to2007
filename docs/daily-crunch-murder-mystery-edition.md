@@ -1,4 +1,4 @@
-# 每日危机:谋杀神秘版| TechCrunch
+# 每日危机:谋杀神秘版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/daily-crunch-murder-mystery-edition/>
 

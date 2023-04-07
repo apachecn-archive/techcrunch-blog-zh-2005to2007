@@ -1,4 +1,4 @@
-# Inform.com 最新产品 TechCrunch
+# Inform.com 最新产品 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/07/30/informcoms-latest-offering/>
 

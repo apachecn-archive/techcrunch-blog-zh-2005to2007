@@ -1,4 +1,4 @@
-# 聚集在篝火周围| TechCrunch
+# 聚集在篝火周围
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/20/gather-round-the-campfire/>
 

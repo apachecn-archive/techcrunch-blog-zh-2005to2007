@@ -1,4 +1,4 @@
-# SuperOyster:将等候名单货币化——TechCrunch
+# SuperOyster:将等候名单货币化
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/24/superoyster-monetizing-the-waiting-list/>
 

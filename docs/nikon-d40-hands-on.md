@@ -1,4 +1,4 @@
-# 尼康 D40 实践–TechCrunch
+# 尼康 D40 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/26/nikon-d40-hands-on/>
 

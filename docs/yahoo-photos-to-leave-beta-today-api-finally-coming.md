@@ -1,4 +1,4 @@
-# 雅虎！照片将于今天发布——TechCrunch
+# 雅虎！照片将于今天发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/17/yahoo-photos-to-leave-beta-today-api-finally-coming/>
 

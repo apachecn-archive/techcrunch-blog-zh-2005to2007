@@ -1,4 +1,4 @@
-# 机器人大战:日式——TechCrunch
+# 机器人大战:日式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/18/robot-wars-japanese-style/>
 

@@ -1,4 +1,4 @@
-# 比起新车，青少年更喜欢 iPhone，Whaaa？–TechCrunch
+# 比起新车，青少年更喜欢 iPhone，Whaaa？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/08/teens-prefer-iphone-over-new-car-whaaa/>
 

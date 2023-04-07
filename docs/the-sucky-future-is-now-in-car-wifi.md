@@ -1,4 +1,4 @@
-# 糟糕的未来就在现在:车内 WiFi——TechCrunch
+# 糟糕的未来就在现在:车内 WiFi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/02/the-sucky-future-is-now-in-car-wifi/>
 

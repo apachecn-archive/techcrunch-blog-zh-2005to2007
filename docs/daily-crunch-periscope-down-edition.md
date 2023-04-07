@@ -1,4 +1,4 @@
-# 每日危机:潜望镜下降版| TechCrunch
+# 每日危机:潜望镜下降版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/15/daily-crunch-periscope-down-edition/>
 

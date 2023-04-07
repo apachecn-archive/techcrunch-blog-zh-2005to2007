@@ -1,4 +1,4 @@
-# 显微镜下的游戏内容:ESRB 评级 TechCrunch
+# 显微镜下的游戏内容:ESRB 评级 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/game-content-under-the-microscope-esrb-ratings/>
 

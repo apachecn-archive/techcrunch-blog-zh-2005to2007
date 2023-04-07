@@ -1,4 +1,4 @@
-# FCC 批准 SE M610I，又名 Elena | TechCrunch
+# FCC 批准 SE M610I，又名 Elena 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/fcc-approves-se-m610i-aka-elena/>
 

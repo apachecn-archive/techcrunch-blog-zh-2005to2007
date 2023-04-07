@@ -1,4 +1,4 @@
-# DIY 铁罐麦克风 TechCrunch
+# DIY 铁罐麦克风 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/diy-tin-can-mic/>
 

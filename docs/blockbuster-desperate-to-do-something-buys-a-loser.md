@@ -1,4 +1,4 @@
-# 百视达不顾一切地想做点什么，收购了一个失败者——TechCrunch
+# 百视达不顾一切地想做点什么，收购了一个失败者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/blockbuster-desperate-to-do-something-buys-a-loser/>
 

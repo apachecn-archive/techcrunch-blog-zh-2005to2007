@@ -1,4 +1,4 @@
-# 第三个屏幕提供移动广告| TechCrunch
+# 第三个屏幕提供移动广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/third-screen-serves-up-mobile-ads/>
 

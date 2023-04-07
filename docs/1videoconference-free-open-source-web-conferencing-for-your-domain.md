@@ -1,4 +1,4 @@
-# 1 视频会议:针对您所在领域的免费开源网络会议——TechCrunch
+# 1 视频会议:针对您所在领域的免费开源网络会议
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/10/1videoconference-free-open-source-web-conferencing-for-your-domain/>
 

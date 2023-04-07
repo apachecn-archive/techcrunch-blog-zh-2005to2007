@@ -1,4 +1,4 @@
-# SEGA 和漫威带来了超级 B 队——TechCrunch
+# SEGA 和漫威带来了超级 B 队
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/sega-and-marvel-bring-out-the-super-b-team/>
 

@@ -1,4 +1,4 @@
-# 2007 年游戏开发者大会 TechCrunch
+# 2007 年游戏开发者大会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/game-developers-conference-2007/>
 

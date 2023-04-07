@@ -1,4 +1,4 @@
-# 谷歌想要 700 MHz 频谱——TechCrunch
+# 谷歌想要 700 MHz 频谱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/google-wants-700-mhz-spectrum/>
 

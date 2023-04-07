@@ -1,4 +1,4 @@
-# 增强型索尼连接上线| TechCrunch
+# 增强型索尼连接上线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/enhanced-sony-connect-goes-live/>
 

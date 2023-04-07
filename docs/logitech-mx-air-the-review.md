@@ -1,4 +1,4 @@
-# 罗技 MX 空气评论| TechCrunch
+# 罗技 MX 空气评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/12/logitech-mx-air-the-review/>
 

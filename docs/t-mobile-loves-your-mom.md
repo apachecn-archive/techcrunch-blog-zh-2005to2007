@@ -1,4 +1,4 @@
-# T-Mobile 爱你妈妈| TechCrunch
+# T-Mobile 爱你妈妈
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/t-mobile-loves-your-mom/>
 

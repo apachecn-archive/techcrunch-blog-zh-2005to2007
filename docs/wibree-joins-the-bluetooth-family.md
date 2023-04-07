@@ -1,4 +1,4 @@
-# Wibree 加入蓝牙大家庭| TechCrunch
+# Wibree 加入蓝牙大家庭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/wibree-joins-the-bluetooth-family/>
 

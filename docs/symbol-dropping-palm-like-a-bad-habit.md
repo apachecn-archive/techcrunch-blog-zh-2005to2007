@@ -1,4 +1,4 @@
-# 符号像坏习惯一样掉掌——TechCrunch
+# 符号像坏习惯一样掉掌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/13/symbol-dropping-palm-like-a-bad-habit/>
 

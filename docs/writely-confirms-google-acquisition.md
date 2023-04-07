@@ -1,4 +1,4 @@
-# Writely 证实谷歌收购 TechCrunch
+# Writely 证实谷歌收购 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/09/writely-confirms-google-acquisition/>
 

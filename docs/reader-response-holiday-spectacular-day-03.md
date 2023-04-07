@@ -1,4 +1,4 @@
-# 读者反应:假日奇观第 3 天——TechCrunch
+# 读者反应:假日奇观第 3 天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/reader-response-holiday-spectacular-day-03/>
 

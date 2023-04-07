@@ -1,4 +1,4 @@
-# 黑莓珍珠 8100 动手| TechCrunch
+# 黑莓珍珠 8100 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/blackberry-pearl-8100-hands-on-2/>
 

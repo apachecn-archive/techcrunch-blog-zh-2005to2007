@@ -1,4 +1,4 @@
-# Linutop:一款 Linux Mac Mini——TechCrunch
+# Linutop:一款 Linux Mac Mini
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/the-linutop-a-linux-mac-mini/>
 

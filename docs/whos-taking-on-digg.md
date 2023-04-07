@@ -1,4 +1,4 @@
-# 走向更好的 Digg——TechCrunch
+# 走向更好的 Digg
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/03/16/whos-taking-on-digg/>
 

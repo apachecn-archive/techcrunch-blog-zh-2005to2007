@@ -1,4 +1,4 @@
-# 2008 年的瘦 PS3 更像是 2009 年，Bummer | TechCrunch
+# 2008 年的瘦 PS3 更像是 2009 年，Bummer 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/16/skinny-ps3-in-2008more-like-2009-bummer/>
 

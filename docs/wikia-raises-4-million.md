@@ -1,4 +1,4 @@
-# 维基百科筹集了 400 万美元——TechCrunch
+# 维基百科筹集了 400 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/27/wikia-raises-4-million/>
 

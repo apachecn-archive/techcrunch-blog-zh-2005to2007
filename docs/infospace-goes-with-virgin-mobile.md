@@ -1,4 +1,4 @@
-# 信息空间与维珍移动| TechCrunch
+# 信息空间与维珍移动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/08/infospace-goes-with-virgin-mobile/>
 

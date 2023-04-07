@@ -1,4 +1,4 @@
-# CES 2007:首日紧张——TechCrunch
+# CES 2007:首日紧张
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/ces-2007-first-day-jitters/>
 

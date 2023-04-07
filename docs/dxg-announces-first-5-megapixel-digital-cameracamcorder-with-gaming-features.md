@@ -1,4 +1,4 @@
-# DXG 发布首款具有游戏功能的 500 万像素数码相机/摄像机——TechCrunch
+# DXG 发布首款具有游戏功能的 500 万像素数码相机/摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/17/dxg-announces-first-5-megapixel-digital-cameracamcorder-with-gaming-features/>
 

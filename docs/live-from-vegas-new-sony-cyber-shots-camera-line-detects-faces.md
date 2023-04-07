@@ -1,4 +1,4 @@
-# 拉斯维加斯现场直播:新索尼数码相机系列检测面部| TechCrunch
+# 拉斯维加斯现场直播:新索尼数码相机系列检测面部
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/live-from-vegas-new-sony-cyber-shots-camera-line-detects-faces/>
 

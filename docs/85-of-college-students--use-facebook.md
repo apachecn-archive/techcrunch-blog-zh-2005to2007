@@ -1,4 +1,4 @@
-# 85%的大学生使用 FaceBook-TechCrunch
+# 85%的大学生使用 FaceBook-
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2005/09/07/85-of-college-students--use-facebook/>
 

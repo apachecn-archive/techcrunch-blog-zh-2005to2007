@@ -1,4 +1,4 @@
-# iPod 在午夜响起——TechCrunch
+# iPod 在午夜响起
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/04/the-ipod-crows-at-midnight/>
 

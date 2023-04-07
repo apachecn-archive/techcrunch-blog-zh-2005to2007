@@ -1,4 +1,4 @@
-# 索尼发布 CD 随身听-什么？–TechCrunch
+# 索尼发布 CD 随身听-什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/sony-releases-cd-walkman-wha/>
 

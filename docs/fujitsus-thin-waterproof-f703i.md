@@ -1,4 +1,4 @@
-# 富士通的轻薄防水 F703i——TechCrunch
+# 富士通的轻薄防水 F703i
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/01/fujitsus-thin-waterproof-f703i/>
 

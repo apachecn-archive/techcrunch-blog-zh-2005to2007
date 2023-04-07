@@ -1,4 +1,4 @@
-# PubSub 首席执行官下台，收购传闻 TechCrunch
+# PubSub 首席执行官下台，收购传闻 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/07/pubsub-ceo-steps-down-acquisition-rumors/>
 

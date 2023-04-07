@@ -1,4 +1,4 @@
-# 最新的核心系统模块:超级网卡 TechCrunch
+# 最新的核心系统模块:超级网卡 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/the-latest-in-hardcore-system-mods-super-nics/>
 

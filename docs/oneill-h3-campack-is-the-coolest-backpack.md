@@ -1,4 +1,4 @@
-# 奥尼尔 H3 Campack 是最酷的背包 TechCrunch
+# 奥尼尔 H3 Campack 是最酷的背包 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/oneill-h3-campack-is-the-coolest-backpack/>
 

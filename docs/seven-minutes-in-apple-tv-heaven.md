@@ -1,4 +1,4 @@
-# 苹果电视天堂的七分钟| TechCrunch
+# 苹果电视天堂的七分钟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/seven-minutes-in-apple-tv-heaven/>
 

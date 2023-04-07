@@ -1,4 +1,4 @@
-# 威瑞森客户可获得摩托罗拉 Q 软件更新| TechCrunch
+# 威瑞森客户可获得摩托罗拉 Q 软件更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/motorola-q-software-update-available-for-verizon-customers/>
 

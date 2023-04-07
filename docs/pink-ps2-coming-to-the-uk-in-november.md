@@ -1,4 +1,4 @@
-# 粉红 PS2 将于 11 月登陆英国——TechCrunch
+# 粉红 PS2 将于 11 月登陆英国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/pink-ps2-coming-to-the-uk-in-november/>
 

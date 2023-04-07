@@ -1,4 +1,4 @@
-# 奇异乐器上的马里奥主题| TechCrunch
+# 奇异乐器上的马里奥主题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/mario-theme-on-exotic-instruments/>
 

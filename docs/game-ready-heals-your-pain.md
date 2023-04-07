@@ -1,4 +1,4 @@
-# 游戏就绪治愈您的痛苦| TechCrunch
+# 游戏就绪治愈您的痛苦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/game-ready-heals-your-pain/>
 

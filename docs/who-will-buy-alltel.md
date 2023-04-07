@@ -1,4 +1,4 @@
-# 谁会收购 Alltel？TechCrunch
+# 谁会收购 Alltel？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/who-will-buy-alltel/>
 

@@ -1,4 +1,4 @@
-# IOGear Digital Scribe 让您轻松书写| TechCrunch
+# IOGear Digital Scribe 让您轻松书写
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/10/iogear-digital-scribe-lets-you-write-with-ease/>
 

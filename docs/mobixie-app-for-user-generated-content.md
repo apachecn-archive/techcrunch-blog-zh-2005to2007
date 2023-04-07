@@ -1,4 +1,4 @@
-# 面向用户生成内容的 Mobixie 应用——TechCrunch
+# 面向用户生成内容的 Mobixie 应用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/23/mobixie-app-for-user-generated-content/>
 

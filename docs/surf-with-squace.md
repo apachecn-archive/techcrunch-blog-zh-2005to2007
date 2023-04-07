@@ -1,4 +1,4 @@
-# 用 Squace 冲浪| TechCrunch
+# 用 Squace 冲浪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/surf-with-squace/>
 

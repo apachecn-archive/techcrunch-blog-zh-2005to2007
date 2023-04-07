@@ -1,4 +1,4 @@
-# 谷歌日历移动化| TechCrunch
+# 谷歌日历移动化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/25/google-calendar-goes-mobile/>
 

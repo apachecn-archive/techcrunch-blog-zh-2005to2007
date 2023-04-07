@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯就像一块滚石| TechCrunch
+# 史蒂夫·乔布斯就像一块滚石
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/13/steve-jobs-is-like-a-rolling-stone/>
 

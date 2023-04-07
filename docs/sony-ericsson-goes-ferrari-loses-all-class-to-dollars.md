@@ -1,4 +1,4 @@
-# 索尼爱立信走向法拉利；输给了美元——TechCrunch
+# 索尼爱立信走向法拉利；输给了美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/sony-ericsson-goes-ferrari-loses-all-class-to-dollars/>
 

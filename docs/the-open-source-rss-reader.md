@@ -1,4 +1,4 @@
-# 开源 RSS 阅读器 TechCrunch
+# 开源 RSS 阅读器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/31/the-open-source-rss-reader/>
 

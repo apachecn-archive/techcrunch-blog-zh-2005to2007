@@ -1,4 +1,4 @@
-# 新闻集团收购 Milkround | TechCrunch
+# 新闻集团收购 Milkround 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/05/news-corp-buys-milkround/>
 

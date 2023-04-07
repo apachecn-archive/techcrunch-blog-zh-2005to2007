@@ -1,4 +1,4 @@
-# 新闻软件:把记者拖进 21 世纪，因为[早些时候] | TechCrunch
+# 新闻软件:把记者拖进 21 世纪，因为[早些时候] 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/newsware-dragging-journalists-into-the-21st-century-since-some-earlier-time/>
 

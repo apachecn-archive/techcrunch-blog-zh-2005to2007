@@ -1,4 +1,4 @@
-# 原生乐器音频 8 DJ 接口| TechCrunch
+# 原生乐器音频 8 DJ 接口
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/22/native-instruments-audio-8-dj-interface/>
 

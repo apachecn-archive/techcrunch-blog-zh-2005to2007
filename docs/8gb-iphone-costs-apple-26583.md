@@ -1,4 +1,4 @@
-# 8GB iPhone 售价苹果 265.83 美元——TechCrunch
+# 8GB iPhone 售价苹果 265.83 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/8gb-iphone-costs-apple-26583/>
 

@@ -1,4 +1,4 @@
-# 天使投资一个企业家配对机构？TechCrunch
+# 天使投资一个企业家配对机构？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/26/angel-pitch-a-web-20-dating-agency/>
 

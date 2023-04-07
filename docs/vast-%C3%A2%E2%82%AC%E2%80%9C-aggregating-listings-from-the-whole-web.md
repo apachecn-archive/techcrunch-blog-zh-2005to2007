@@ -1,4 +1,4 @@
-# 找不到页面| TechCrunch
+# 找不到页面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/14/vast-%C3%A2%E2%82%AC%E2%80%9C-aggregating-listings-from-the-whole-web/>
 

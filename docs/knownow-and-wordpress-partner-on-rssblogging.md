@@ -1,4 +1,4 @@
-# KnowNow 和 WordPress 在 RSS/博客上的合作伙伴——TechCrunch
+# KnowNow 和 WordPress 在 RSS/博客上的合作伙伴
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/21/knownow-and-wordpress-partner-on-rssblogging/>
 

@@ -1,4 +1,4 @@
-# 希捷凭借迈拓品牌获得权威| TechCrunch
+# 希捷凭借迈拓品牌获得权威
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/seagate-gets-definitive-with-the-maxtor-brand/>
 

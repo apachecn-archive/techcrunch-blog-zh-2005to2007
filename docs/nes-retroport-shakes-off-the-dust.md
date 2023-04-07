@@ -1,4 +1,4 @@
-# NES RetroPort 抖落灰尘| TechCrunch
+# NES RetroPort 抖落灰尘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/nes-retroport-shakes-off-the-dust/>
 

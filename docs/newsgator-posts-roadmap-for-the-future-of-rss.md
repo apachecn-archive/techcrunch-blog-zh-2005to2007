@@ -1,4 +1,4 @@
-# Newsgator 发布了 RSS 未来的路线图——TechCrunch
+# Newsgator 发布了 RSS 未来的路线图
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/30/newsgator-posts-roadmap-for-the-future-of-rss/>
 

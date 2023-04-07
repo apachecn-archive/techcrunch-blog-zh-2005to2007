@@ -1,4 +1,4 @@
-# Vonage V-Phone:带 Vonage 的 USB 加密狗–TechCrunch
+# Vonage V-Phone:带 Vonage 的 USB 加密狗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/vonage-v-phone-usb-dongle-with-vonage/>
 

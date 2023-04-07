@@ -1,4 +1,4 @@
-# Sprint 变瘦，而我们变胖——TechCrunch
+# Sprint 变瘦，而我们变胖
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/24/sprint-gets-slim-while-we-get-fat/>
 

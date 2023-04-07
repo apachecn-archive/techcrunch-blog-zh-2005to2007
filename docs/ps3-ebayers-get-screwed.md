@@ -1,4 +1,4 @@
-# PS3 易趣被骗| TechCrunch
+# PS3 易趣被骗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/20/ps3-ebayers-get-screwed/>
 

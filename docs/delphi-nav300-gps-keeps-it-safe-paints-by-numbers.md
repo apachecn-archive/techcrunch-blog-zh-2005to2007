@@ -1,4 +1,4 @@
-# 德尔福 NAV300 GPS 保持它的安全，用数字绘画——TechCrunch
+# 德尔福 NAV300 GPS 保持它的安全，用数字绘画
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/delphi-nav300-gps-keeps-it-safe-paints-by-numbers/>
 

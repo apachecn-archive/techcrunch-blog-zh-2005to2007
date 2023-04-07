@@ -1,4 +1,4 @@
-# 美国在线将发布 YouTube 克隆版——TechCrunch
+# 美国在线将发布 YouTube 克隆版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/16/aol-to-release-youtube-clone/>
 

@@ -1,4 +1,4 @@
-# 戴尔进一步推动游戏技术| TechCrunch
+# 戴尔进一步推动游戏技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/23/dell-pushes-gaming-technology-further/>
 

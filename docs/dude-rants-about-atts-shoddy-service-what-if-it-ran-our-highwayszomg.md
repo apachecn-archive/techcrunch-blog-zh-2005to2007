@@ -1,4 +1,4 @@
-# 哥们怒斥美国电话电报公司的劣质服务:如果它跑了我们的高速公路怎么办？TechCrunch
+# 哥们怒斥美国电话电报公司的劣质服务:如果它跑了我们的高速公路怎么办？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/dude-rants-about-atts-shoddy-service-what-if-it-ran-our-highwayszomg/>
 

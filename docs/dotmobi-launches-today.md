@@ -1,4 +1,4 @@
-# dotMobi 今日发布| TechCrunch
+# dotMobi 今日发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/26/dotmobi-launches-today/>
 

@@ -1,4 +1,4 @@
-# 每日新闻:Zzzap 版| TechCrunch
+# 每日新闻:Zzzap 版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/21/daily-crunch-zzzap-edition/>
 

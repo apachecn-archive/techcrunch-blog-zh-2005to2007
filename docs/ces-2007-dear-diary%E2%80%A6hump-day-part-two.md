@@ -1,4 +1,4 @@
-# CES 2007:亲爱的日记…驼峰日第二部分| TechCrunch
+# CES 2007:亲爱的日记…驼峰日第二部分
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/19/ces-2007-dear-diary%E2%80%A6hump-day-part-two/>
 

@@ -1,4 +1,4 @@
-# 声波:变形，MP3 播放霸天虎！TechCrunch
+# 声波:变形，MP3 播放霸天虎！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/26/soundwave-transforming-mp3-playing-decepticon/>
 

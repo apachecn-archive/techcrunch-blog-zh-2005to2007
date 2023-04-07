@@ -1,4 +1,4 @@
-# 每日危机:吸烟休息室版| TechCrunch
+# 每日危机:吸烟休息室版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/12/daily-crunch-smoking-lounge-edition/>
 

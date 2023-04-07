@@ -1,4 +1,4 @@
-# 节日装饰讨厌 WiFi，你——TechCrunch
+# 节日装饰讨厌 WiFi，你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/holiday-decorations-hate-wifi-you/>
 

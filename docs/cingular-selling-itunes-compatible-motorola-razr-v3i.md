@@ -1,4 +1,4 @@
-# Cingular 销售与 iTunes 兼容的摩托罗拉 RAZR V3i | TechCrunch
+# Cingular 销售与 iTunes 兼容的摩托罗拉 RAZR V3i 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/cingular-selling-itunes-compatible-motorola-razr-v3i/>
 

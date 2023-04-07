@@ -1,4 +1,4 @@
-# 智能手机用户点击谷歌 TechCrunch
+# 智能手机用户点击谷歌 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/smartphoners-tap-google/>
 

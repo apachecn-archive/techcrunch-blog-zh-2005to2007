@@ -1,4 +1,4 @@
-# 谷歌以 16.5 亿美元收购 YouTube TechCrunch
+# 谷歌以 16.5 亿美元收购 YouTube 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/09/google-buys-youtube-for-165-billion/>
 

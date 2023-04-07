@@ -1,4 +1,4 @@
-# 战斗测试:罗技 diNovo Edge–TechCrunch
+# 战斗测试:罗技 diNovo Edge
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/battle-test-logitech-dinovo-edge/>
 

@@ -1,4 +1,4 @@
-# 维珍移动推出头条新闻| TechCrunch
+# 维珍移动推出头条新闻
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/virgin-mobile-launches-headliner/>
 

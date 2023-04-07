@@ -1,4 +1,4 @@
-# 里奇·格威斯的山寨微软视频——TechCrunch
+# 里奇·格威斯的山寨微软视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/ricky-gervais-faux-microsoft-video/>
 

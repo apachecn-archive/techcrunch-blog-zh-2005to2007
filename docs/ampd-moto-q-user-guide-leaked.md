@@ -1,4 +1,4 @@
-# Amp'd Moto Q 用户指南泄露| TechCrunch
+# Amp'd Moto Q 用户指南泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/ampd-moto-q-user-guide-leaked/>
 

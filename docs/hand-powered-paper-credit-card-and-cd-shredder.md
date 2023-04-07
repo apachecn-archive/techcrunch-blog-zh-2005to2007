@@ -1,4 +1,4 @@
-# 手动纸张、信用卡和 CD 碎纸机| TechCrunch
+# 手动纸张、信用卡和 CD 碎纸机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/hand-powered-paper-credit-card-and-cd-shredder/>
 

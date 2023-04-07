@@ -1,4 +1,4 @@
-# D-Link 为 Draft-N | TechCrunch 疯狂
+# D-Link 为 Draft-N  疯狂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/d-link-goes-nutty-for-draft-n/>
 

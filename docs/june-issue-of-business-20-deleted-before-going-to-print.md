@@ -1,4 +1,4 @@
-# 《商业 2.0》六月号在付印前被删除 TechCrunch
+# 《商业 2.0》六月号在付印前被删除 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/02/june-issue-of-business-20-deleted-before-going-to-print/>
 

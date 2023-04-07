@@ -1,4 +1,4 @@
-# 闹钟，储蓄罐混合| TechCrunch
+# 闹钟，储蓄罐混合
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/alarm-clock-piggy-bank-hybrid/>
 

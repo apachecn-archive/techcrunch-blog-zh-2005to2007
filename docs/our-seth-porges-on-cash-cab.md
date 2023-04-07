@@ -1,4 +1,4 @@
-# 我们的 Seth Porges 在 Cash Cab | TechCrunch
+# 我们的 Seth Porges 在 Cash Cab 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/our-seth-porges-on-cash-cab/>
 

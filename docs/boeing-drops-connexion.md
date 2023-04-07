@@ -1,4 +1,4 @@
-# 波音放弃连接——TechCrunch
+# 波音放弃连接
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/boeing-drops-connexion/>
 

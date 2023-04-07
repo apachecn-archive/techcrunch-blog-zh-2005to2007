@@ -1,4 +1,4 @@
-# 修复您的游戏——TechCrunch
+# 修复您的游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/get-your-game-boy-fix/>
 

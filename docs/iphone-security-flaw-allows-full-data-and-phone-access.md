@@ -1,4 +1,4 @@
-# iPhone 安全缺陷允许全部数据和电话访问——TechCrunch
+# iPhone 安全缺陷允许全部数据和电话访问
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/iphone-security-flaw-allows-full-data-and-phone-access/>
 

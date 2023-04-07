@@ -1,4 +1,4 @@
-# 将数码照片发送到手机——TechCrunch
+# 将数码照片发送到手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/01/send-digital-photos-to-a-mobile/>
 

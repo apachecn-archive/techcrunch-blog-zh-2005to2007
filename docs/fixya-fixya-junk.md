@@ -1,4 +1,4 @@
-# Fixya: Fixya 垃圾| TechCrunch
+# Fixya: Fixya 垃圾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/26/fixya-fixya-junk/>
 

@@ -1,4 +1,4 @@
-# iFrogz 为 2G Nano | TechCrunch 发布透明外壳和彩色外壳
+# iFrogz 为 2G Nano  发布透明外壳和彩色外壳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/ifrogz-releases-clear-case-color-case-for-2g-nano/>
 

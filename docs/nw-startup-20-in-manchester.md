@@ -1,4 +1,4 @@
-# 曼彻斯特的 NW startup 2.0 | TechCrunch
+# 曼彻斯特的 NW startup 2.0 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/25/nw-startup-20-in-manchester/>
 

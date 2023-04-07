@@ -1,4 +1,4 @@
-# mio H610:GPS 的 iPod——TechCrunch
+# mio H610:GPS 的 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/27/mio-h610-the-ipod-of-gps/>
 

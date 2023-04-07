@@ -1,4 +1,4 @@
-# 苹果商店无更新| TechCrunch
+# 苹果商店无更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/apple-store-updated-with-nothing/>
 

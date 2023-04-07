@@ -1,4 +1,4 @@
-# 你的宝宝想要奶嘴适配器| TechCrunch
+# 你的宝宝想要奶嘴适配器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/your-baby-wants-nipple-adapters/>
 

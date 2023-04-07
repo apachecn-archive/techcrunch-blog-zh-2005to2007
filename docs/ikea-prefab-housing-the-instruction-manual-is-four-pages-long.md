@@ -1,4 +1,4 @@
-# 宜家预制房屋:使用手册长达四页——TechCrunch
+# 宜家预制房屋:使用手册长达四页
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/04/ikea-prefab-housing-the-instruction-manual-is-four-pages-long/>
 

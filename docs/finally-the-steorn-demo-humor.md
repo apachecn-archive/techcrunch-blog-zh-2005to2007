@@ -1,4 +1,4 @@
-# Steorn 现在被公开嘲笑 TechCrunch
+# Steorn 现在被公开嘲笑 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/07/finally-the-steorn-demo-humor/>
 

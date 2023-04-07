@@ -1,4 +1,4 @@
-# Wii 销量紧追 Xbox 360——TechCrunch
+# Wii 销量紧追 Xbox 360
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/13/wii-sales-nipping-at-xbox-360s-heels/>
 

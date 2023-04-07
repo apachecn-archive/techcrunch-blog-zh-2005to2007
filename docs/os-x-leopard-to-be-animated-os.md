@@ -1,4 +1,4 @@
-# OS X 豹将成为动画操作系统——TechCrunch
+# OS X 豹将成为动画操作系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/os-x-leopard-to-be-animated-os/>
 

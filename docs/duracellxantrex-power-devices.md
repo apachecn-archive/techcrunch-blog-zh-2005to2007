@@ -1,4 +1,4 @@
-# 金霸王/Xantrex 功率器件| TechCrunch
+# 金霸王/Xantrex 功率器件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/duracellxantrex-power-devices/>
 

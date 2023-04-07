@@ -1,4 +1,4 @@
-# ComicVine，超级英雄的天堂——TechCrunch
+# ComicVine，超级英雄的天堂
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/24/comicvine-a-place-for-superheroes/>
 

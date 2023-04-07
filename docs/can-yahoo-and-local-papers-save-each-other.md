@@ -1,4 +1,4 @@
-# 雅虎能吗！和地方报纸互相拯救？–TechCrunch
+# 雅虎能吗！和地方报纸互相拯救？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/20/can-yahoo-and-local-papers-save-each-other/>
 

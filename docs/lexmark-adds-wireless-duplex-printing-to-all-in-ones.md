@@ -1,4 +1,4 @@
-# Lexmark 将无线+双面打印添加到多功能一体机中| TechCrunch
+# Lexmark 将无线+双面打印添加到多功能一体机中
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/08/lexmark-adds-wireless-duplex-printing-to-all-in-ones/>
 

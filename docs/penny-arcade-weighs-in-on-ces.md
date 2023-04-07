@@ -1,4 +1,4 @@
-# Penny Arcade 参与 CES–TechCrunch
+# Penny Arcade 参与 CES
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/penny-arcade-weighs-in-on-ces/>
 

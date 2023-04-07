@@ -1,4 +1,4 @@
-# 更多高清内容进入 Xbox Live 视频市场——TechCrunch
+# 更多高清内容进入 Xbox Live 视频市场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/more-hd-content-coming-to-xbox-live-video-marketplace/>
 

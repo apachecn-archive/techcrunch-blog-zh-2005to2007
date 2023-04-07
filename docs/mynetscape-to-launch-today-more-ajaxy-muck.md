@@ -1,4 +1,4 @@
-# MyNetscape 将于今日发布:更多 Ajaxy 垃圾——TechCrunch
+# MyNetscape 将于今日发布:更多 Ajaxy 垃圾
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/06/mynetscape-to-launch-today-more-ajaxy-muck/>
 

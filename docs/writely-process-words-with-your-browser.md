@@ -1,4 +1,4 @@
-# 用浏览器轻松处理文字 TechCrunch
+# 用浏览器轻松处理文字 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/31/writely-process-words-with-your-browser/>
 

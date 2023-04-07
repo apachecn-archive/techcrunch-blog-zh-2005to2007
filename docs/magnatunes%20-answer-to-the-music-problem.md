@@ -1,4 +1,4 @@
-# 找不到页面| TechCrunch
+# 找不到页面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/28/magnatunes%20-answer-to-the-music-problem/>
 

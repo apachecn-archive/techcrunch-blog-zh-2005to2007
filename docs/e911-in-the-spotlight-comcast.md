@@ -1,4 +1,4 @@
-# 聚焦 E911:康卡斯特 TechCrunch
+# 聚焦 E911:康卡斯特 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/13/e911-in-the-spotlight-comcast/>
 

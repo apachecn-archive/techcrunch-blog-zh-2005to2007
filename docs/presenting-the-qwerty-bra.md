@@ -1,4 +1,4 @@
-# 展示 QWERTY Bra | TechCrunch
+# 展示 QWERTY Bra 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/02/presenting-the-qwerty-bra/>
 

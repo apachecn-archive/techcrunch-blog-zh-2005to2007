@@ -1,4 +1,4 @@
-# 沃达丰虚拟化| TechCrunch
+# 沃达丰虚拟化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/vodafone-goes-virtual/>
 

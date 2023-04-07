@@ -1,4 +1,4 @@
-# Kanguru 32GB 闪存驱动器是有史以来最差的 TechCrunch
+# Kanguru 32GB 闪存驱动器是有史以来最差的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/23/kanguru-32gb-flash-drive-is-the-worst-ever/>
 

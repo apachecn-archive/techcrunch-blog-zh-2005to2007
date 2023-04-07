@@ -1,4 +1,4 @@
-# 科尔伯特报告涵盖 Wii | TechCrunch
+# 科尔伯特报告涵盖 Wii 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/colbert-report-covers-wii/>
 

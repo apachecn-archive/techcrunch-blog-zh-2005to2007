@@ -1,4 +1,4 @@
-# 来自威瑞森的四重播放| TechCrunch
+# 来自威瑞森的四重播放
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/quadruple-play-from-verizon/>
 

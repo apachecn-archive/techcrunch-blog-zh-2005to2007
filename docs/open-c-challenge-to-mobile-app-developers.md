@@ -1,4 +1,4 @@
-# Open C 对移动应用开发者的挑战——TechCrunch
+# Open C 对移动应用开发者的挑战
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/open-c-challenge-to-mobile-app-developers/>
 

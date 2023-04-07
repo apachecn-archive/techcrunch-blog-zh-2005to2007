@@ -1,4 +1,4 @@
-# Flixster 结束竞争激烈的融资回合 TechCrunch
+# Flixster 结束竞争激烈的融资回合 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/31/flixster-closes-very-competitive-financing-round/>
 

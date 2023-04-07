@@ -1,4 +1,4 @@
-# 病毒视频图表| TechCrunch
+# 病毒视频图表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/viral-video-chart/>
 

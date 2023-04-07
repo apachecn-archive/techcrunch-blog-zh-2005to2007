@@ -1,4 +1,4 @@
-# PSP 说“你好，世界！”很快会说更多——TechCrunch
+# PSP 说“你好，世界！”很快会说更多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/psp-says-hello-world-and-soon-will-say-much-more/>
 

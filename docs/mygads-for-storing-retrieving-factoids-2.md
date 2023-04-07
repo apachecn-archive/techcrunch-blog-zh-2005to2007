@@ -1,4 +1,4 @@
-# 用于存储和检索仿真陈述的 MyGADs | TechCrunch
+# 用于存储和检索仿真陈述的 MyGADs 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/mygads-for-storing-retrieving-factoids-2/>
 

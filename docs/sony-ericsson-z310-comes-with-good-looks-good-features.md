@@ -1,4 +1,4 @@
-# 索尼爱立信 Z310 外观漂亮，功能强大| TechCrunch
+# 索尼爱立信 Z310 外观漂亮，功能强大
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/sony-ericsson-z310-comes-with-good-looks-good-features/>
 

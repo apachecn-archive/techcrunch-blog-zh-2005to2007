@@ -1,4 +1,4 @@
-# 黑莓曲线= 8300 | TechCrunch
+# 黑莓曲线= 8300 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/blackberry-curve-8300/>
 

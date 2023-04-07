@@ -1,4 +1,4 @@
-# LG 1900 R 19 英寸液晶显示器| TechCrunch
+# LG 1900 R 19 英寸液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/23/lg-1900-r-19-inch-lcd-monitor/>
 

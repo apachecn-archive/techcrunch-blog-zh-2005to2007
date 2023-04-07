@@ -1,4 +1,4 @@
-# iRiver Clix 2 升级至 8GB | TechCrunch
+# iRiver Clix 2 升级至 8GB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/iriver-clix-2-gets-bumped-to-8gb/>
 

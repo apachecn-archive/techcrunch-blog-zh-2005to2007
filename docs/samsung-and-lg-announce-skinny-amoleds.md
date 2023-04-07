@@ -1,4 +1,4 @@
-# 三星和 LG 发布超薄 amo led——TechCrunch
+# 三星和 LG 发布超薄 amo led
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/samsung-and-lg-announce-skinny-amoleds/>
 

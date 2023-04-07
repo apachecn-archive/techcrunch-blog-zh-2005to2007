@@ -1,4 +1,4 @@
-# 锁定、扩展坞和 iPod | TechCrunch
+# 锁定、扩展坞和 iPod 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/lock-dock-and-ipod/>
 

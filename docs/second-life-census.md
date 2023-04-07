@@ -1,4 +1,4 @@
-# 第二次生命普查 TechCrunch
+# 第二次生命普查 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/10/second-life-census/>
 

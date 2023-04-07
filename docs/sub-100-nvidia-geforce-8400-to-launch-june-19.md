@@ -1,4 +1,4 @@
-# 低于 100 美元的 Nvidia GeForce 8400 将于 6 月 19 日发布——TechCrunch
+# 低于 100 美元的 Nvidia GeForce 8400 将于 6 月 19 日发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/sub-100-nvidia-geforce-8400-to-launch-june-19/>
 

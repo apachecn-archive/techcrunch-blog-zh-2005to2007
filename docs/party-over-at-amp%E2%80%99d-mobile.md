@@ -1,4 +1,4 @@
-# 在 Amp 'd Mobile 开派对？–TechCrunch
+# 在 Amp 'd Mobile 开派对？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/03/party-over-at-amp%E2%80%99d-mobile/>
 

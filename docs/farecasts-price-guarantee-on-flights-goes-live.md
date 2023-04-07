@@ -1,4 +1,4 @@
-# Farecast 航班价格保证上线 TechCrunch
+# Farecast 航班价格保证上线 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/21/farecasts-price-guarantee-on-flights-goes-live/>
 

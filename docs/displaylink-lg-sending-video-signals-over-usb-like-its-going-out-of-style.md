@@ -1,4 +1,4 @@
-# DisplayLink + LG，通过 USB 发送视频信号，就像它过时了一样| TechCrunch
+# DisplayLink + LG，通过 USB 发送视频信号，就像它过时了一样
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/displaylink-lg-sending-video-signals-over-usb-like-its-going-out-of-style/>
 

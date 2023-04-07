@@ -1,4 +1,4 @@
-# 不要边发短信边开车，让你的虚拟助手为你解答| TechCrunch
+# 不要边发短信边开车，让你的虚拟助手为你解答
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/don%e2%80%99t-text-and-drive-let-your-virtual-assistant-answer-for-you/>
 

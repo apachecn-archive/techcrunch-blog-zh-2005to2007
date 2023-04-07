@@ -1,4 +1,4 @@
-# trikke–愤怒的三个轮子| TechCrunch
+# trikke–愤怒的三个轮子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/trikke-three-wheels-of-fury/>
 

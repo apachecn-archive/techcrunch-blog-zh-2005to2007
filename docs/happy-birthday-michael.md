@@ -1,4 +1,4 @@
-# 生日快乐，迈克尔——TechCrunch
+# 生日快乐，迈克尔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/happy-birthday-michael/>
 

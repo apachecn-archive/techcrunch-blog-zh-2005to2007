@@ -1,4 +1,4 @@
-# MSN 移动门户重新设计| TechCrunch
+# MSN 移动门户重新设计
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/msn-mobile-portal-redesigned/>
 

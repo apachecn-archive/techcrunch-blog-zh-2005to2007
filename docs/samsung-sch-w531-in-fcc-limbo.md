@@ -1,4 +1,4 @@
-# 三星 SCH-W531 被 FCC 搁置——TechCrunch
+# 三星 SCH-W531 被 FCC 搁置
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/samsung-sch-w531-in-fcc-limbo/>
 

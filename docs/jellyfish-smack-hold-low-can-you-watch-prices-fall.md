@@ -1,4 +1,4 @@
-# 水母咂嘴:你能眼睁睁看着价格跌到多低？–TechCrunch
+# 水母咂嘴:你能眼睁睁看着价格跌到多低？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/06/jellyfish-smack-hold-low-can-you-watch-prices-fall/>
 

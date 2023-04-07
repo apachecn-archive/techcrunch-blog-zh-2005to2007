@@ -1,4 +1,4 @@
-# I-O 数据在高度保密的情况下展示下一代 Landisk 家庭网络存储——TechCrunch
+# I-O 数据在高度保密的情况下展示下一代 Landisk 家庭网络存储
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/i-o-data-shows-off-next-gen-landisk-home-network-storage-amid-much-secrecy/>
 

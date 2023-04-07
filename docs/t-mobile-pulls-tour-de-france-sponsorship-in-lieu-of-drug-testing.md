@@ -1,4 +1,4 @@
-# T-Mobile 取消环法自行车赛赞助以代替药检——TechCrunch
+# T-Mobile 取消环法自行车赛赞助以代替药检
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/t-mobile-pulls-tour-de-france-sponsorship-in-lieu-of-drug-testing/>
 

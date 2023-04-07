@@ -1,4 +1,4 @@
-# DabbleDB 更新:演示视频可用| TechCrunch
+# DabbleDB 更新:演示视频可用
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/17/dabbledb-update-demo-video-available/>
 

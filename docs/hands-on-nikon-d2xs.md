@@ -1,4 +1,4 @@
-# 动手:尼康 D2Xs | TechCrunch
+# 动手:尼康 D2Xs 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/hands-on-nikon-d2xs/>
 

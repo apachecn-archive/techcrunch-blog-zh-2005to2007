@@ -1,4 +1,4 @@
-# eMusic 推出基于订阅的计划——TechCrunch
+# eMusic 推出基于订阅的计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/emusic-launches-subscription-based-plans/>
 

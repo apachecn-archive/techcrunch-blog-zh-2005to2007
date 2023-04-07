@@ -1,4 +1,4 @@
-# 让我们分享一些文件——比较四种服务——TechCrunch
+# 让我们分享一些文件——比较四种服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/24/lets-share-some-files-four-services-compared/>
 

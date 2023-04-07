@@ -1,4 +1,4 @@
-# 我们的囚犯应该有 5 分钟的有趣时间——TechCrunch
+# 我们的囚犯应该有 5 分钟的有趣时间
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/25/our-prisoner-should-be-interesting-for-a-good-5-minutes>
 

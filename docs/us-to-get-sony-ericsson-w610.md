@@ -1,4 +1,4 @@
-# 美国将获得索尼-爱立信 W610–TechCrunch
+# 美国将获得索尼-爱立信 W610
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/us-to-get-sony-ericsson-w610/>
 

@@ -1,4 +1,4 @@
-# 更新–ice rocket(名称变更)–TechCrunch
+# 更新–ice rocket(名称变更)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/31/update-icerocket-name-change/>
 

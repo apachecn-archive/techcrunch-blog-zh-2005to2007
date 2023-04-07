@@ -1,4 +1,4 @@
-# 太空第一人| TechCrunch
+# 太空第一人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/first-man-in-space/>
 

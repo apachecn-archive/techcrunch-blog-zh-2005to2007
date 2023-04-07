@@ -1,4 +1,4 @@
-# 徕卡 M8 走向数字化，价格昂贵——TechCrunch
+# 徕卡 M8 走向数字化，价格昂贵
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/leica-m8-goes-digital-expensive/>
 

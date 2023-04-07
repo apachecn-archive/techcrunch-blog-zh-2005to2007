@@ -1,4 +1,4 @@
-# 离开办公桌后，移动办公人员的工作效率可能更高| TechCrunch
+# 离开办公桌后，移动办公人员的工作效率可能更高
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/mobile-workforce-possibly-more-productive-away-from-desk/>
 

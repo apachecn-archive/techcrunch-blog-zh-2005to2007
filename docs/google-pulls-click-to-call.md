@@ -1,4 +1,4 @@
-# 谷歌取消点击呼叫——TechCrunch
+# 谷歌取消点击呼叫
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/21/google-pulls-click-to-call/>
 

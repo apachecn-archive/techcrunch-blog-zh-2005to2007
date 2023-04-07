@@ -1,4 +1,4 @@
-# 新加坡欢迎来自沃达丰的 Treo 750v–TechCrunch
+# 新加坡欢迎来自沃达丰的 Treo 750v
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/01/singapore-welcomes-treo-750v-from-vodaphone/>
 

@@ -1,4 +1,4 @@
-# 糟糕:生产前的 HTC 设备可能会发送给零售商| TechCrunch
+# 糟糕:生产前的 HTC 设备可能会发送给零售商
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/12/oops-pre-prod-htc-units-possibly-sent-to-retailers/>
 

@@ -1,4 +1,4 @@
-# 谷歌手机:2007 年底前在这里？TechCrunch
+# 谷歌手机:2007 年底前在这里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/google-phone-here-before-the-end-of-2007/>
 

@@ -1,4 +1,4 @@
-# 网飞下载:Om 加入 TechCrunch
+# 网飞下载:Om 加入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/netflix-downloads-om-chimes-in/>
 

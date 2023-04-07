@@ -1,4 +1,4 @@
-# 用原糖进行群组搜索——TechCrunch
+# 用原糖进行群组搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/27/group-search-with-raw-sugar/>
 

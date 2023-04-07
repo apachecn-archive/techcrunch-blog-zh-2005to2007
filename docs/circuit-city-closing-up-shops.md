@@ -1,4 +1,4 @@
-# 电路城关闭店铺——TechCrunch
+# 电路城关闭店铺
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/circuit-city-closing-up-shops/>
 

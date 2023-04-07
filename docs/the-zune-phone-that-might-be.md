@@ -1,4 +1,4 @@
-# Zune 手机可能是——TechCrunch
+# Zune 手机可能是
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/the-zune-phone-that-might-be/>
 

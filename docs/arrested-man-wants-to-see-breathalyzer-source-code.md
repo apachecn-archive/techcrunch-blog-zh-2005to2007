@@ -1,4 +1,4 @@
-# 被捕男子想看呼气测醉器源代码——TechCrunch
+# 被捕男子想看呼气测醉器源代码
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/arrested-man-wants-to-see-breathalyzer-source-code/>
 

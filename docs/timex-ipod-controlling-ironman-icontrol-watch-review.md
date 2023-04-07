@@ -1,4 +1,4 @@
-# Timex iPod 控制的 Ironman iControl 手表评论| TechCrunch
+# Timex iPod 控制的 Ironman iControl 手表评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/timex-ipod-controlling-ironman-icontrol-watch-review/>
 

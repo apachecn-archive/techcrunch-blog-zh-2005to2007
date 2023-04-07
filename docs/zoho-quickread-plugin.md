@@ -1,4 +1,4 @@
-# Zoho QuickRead 插件 TechCrunch
+# Zoho QuickRead 插件 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/19/zoho-quickread-plugin/>
 

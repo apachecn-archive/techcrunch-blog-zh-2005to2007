@@ -1,4 +1,4 @@
-# 菲尔·哈里森的 GDC 主题演讲泄露——TechCrunch
+# 菲尔·哈里森的 GDC 主题演讲泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/phil-harrisons-gdc-keynote-leaked/>
 

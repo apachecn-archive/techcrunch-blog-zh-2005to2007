@@ -1,4 +1,4 @@
-# 诺基亚视频中心动手——TechCrunch
+# 诺基亚视频中心动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/nokia-video-center-hands-on/>
 

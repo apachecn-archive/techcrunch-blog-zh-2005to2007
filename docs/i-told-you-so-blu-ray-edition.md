@@ -1,4 +1,4 @@
-# 我告诉过你:蓝光版| TechCrunch
+# 我告诉过你:蓝光版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/i-told-you-so-blu-ray-edition/>
 

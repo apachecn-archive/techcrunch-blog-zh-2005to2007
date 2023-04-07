@@ -1,4 +1,4 @@
-# CreateMyNet 接手商业网络——TechCrunch
+# CreateMyNet 接手商业网络
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/13/createmynet-takes-on-business-networking/>
 

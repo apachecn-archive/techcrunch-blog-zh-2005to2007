@@ -1,4 +1,4 @@
-# 微软反击 Xbox 黑客——TechCrunch
+# 微软反击 Xbox 黑客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/microsoft-fights-back-against-xbox-hackers/>
 

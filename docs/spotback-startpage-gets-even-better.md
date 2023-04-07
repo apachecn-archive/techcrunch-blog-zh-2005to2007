@@ -1,4 +1,4 @@
-# Spotback 新闻网站变得更好——TechCrunch
+# Spotback 新闻网站变得更好
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/28/spotback-startpage-gets-even-better/>
 

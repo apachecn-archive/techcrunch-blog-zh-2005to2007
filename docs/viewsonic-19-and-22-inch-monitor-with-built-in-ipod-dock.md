@@ -1,4 +1,4 @@
-# 优派 19 英寸和 22 英寸显示器，内置 iPod 基座–TechCrunch
+# 优派 19 英寸和 22 英寸显示器，内置 iPod 基座
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/viewsonic-19-and-22-inch-monitor-with-built-in-ipod-dock/>
 

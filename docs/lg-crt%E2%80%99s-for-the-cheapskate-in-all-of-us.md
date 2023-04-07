@@ -1,4 +1,4 @@
-# LG CRT 的小气鬼在我们所有人| TechCrunch
+# LG CRT 的小气鬼在我们所有人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/lg-crt%E2%80%99s-for-the-cheapskate-in-all-of-us/>
 

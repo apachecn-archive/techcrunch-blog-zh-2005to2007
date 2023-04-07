@@ -1,4 +1,4 @@
-# 母亲节 iPod 赠品:OMG 哇！TechCrunch
+# 母亲节 iPod 赠品:OMG 哇！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/mothers-day-ipod-giveaway-omg-wow/>
 

@@ -1,4 +1,4 @@
-# 更多佳能:LV7575PR 投影仪–TechCrunch
+# 更多佳能:LV7575PR 投影仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/more-canon-lv7575pr-projector/>
 

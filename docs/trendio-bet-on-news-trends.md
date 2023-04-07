@@ -1,4 +1,4 @@
-# Trendio -押注新闻趋势 TechCrunch
+# Trendio -押注新闻趋势 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/04/trendio-bet-on-news-trends/>
 

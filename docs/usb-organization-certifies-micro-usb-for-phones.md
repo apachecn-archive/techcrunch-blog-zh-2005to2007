@@ -1,4 +1,4 @@
-# USB 组织认证手机微型 USB——TechCrunch
+# USB 组织认证手机微型 USB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/usb-organization-certifies-micro-usb-for-phones/>
 

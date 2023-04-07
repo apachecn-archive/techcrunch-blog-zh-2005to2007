@@ -1,4 +1,4 @@
-# 有没有静音驱动的 Xbox 360？TechCrunch
+# 有没有静音驱动的 Xbox 360？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/14/do-you-have-a-quiet-drive-xbox-360/>
 

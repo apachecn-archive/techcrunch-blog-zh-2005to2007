@@ -1,4 +1,4 @@
-# TiVo 远程日程安排在威瑞森发布——TechCrunch
+# TiVo 远程日程安排在威瑞森发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/tivo-remote-scheduling-launches-on-verizon/>
 

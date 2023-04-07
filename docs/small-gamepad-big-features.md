@@ -1,4 +1,4 @@
-# 小游戏手柄，大功能——TechCrunch
+# 小游戏手柄，大功能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/small-gamepad-big-features/>
 

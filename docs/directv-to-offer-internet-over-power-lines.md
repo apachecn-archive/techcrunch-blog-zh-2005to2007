@@ -1,4 +1,4 @@
-# DirecTV 将通过电力线提供互联网 TechCrunch
+# DirecTV 将通过电力线提供互联网 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/directv-to-offer-internet-over-power-lines/>
 

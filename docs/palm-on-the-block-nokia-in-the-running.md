@@ -1,4 +1,4 @@
-# Palm 在街区，诺基亚在奔跑——TechCrunch
+# Palm 在街区，诺基亚在奔跑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/palm-on-the-block-nokia-in-the-running/>
 

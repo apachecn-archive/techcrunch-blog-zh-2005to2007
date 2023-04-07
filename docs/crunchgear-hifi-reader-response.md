@@ -1,4 +1,4 @@
-# CrunchGear HiFi 阅读器回应–TechCrunch
+# CrunchGear HiFi 阅读器回应
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/crunchgear-hifi-reader-response/>
 

@@ -1,4 +1,4 @@
-# Renchi Wii 飞机控制器支架–TechCrunch
+# Renchi Wii 飞机控制器支架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/renchi-wii-airplane-controller-stand/>
 

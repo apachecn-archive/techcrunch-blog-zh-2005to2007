@@ -1,4 +1,4 @@
-# 朝鲜文 LG Shine | TechCrunch
+# 朝鲜文 LG Shine 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/hangul-lg-shine/>
 

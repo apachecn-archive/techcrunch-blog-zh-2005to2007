@@ -1,4 +1,4 @@
-# 神奇的手指安全地拿着你的装备——TechCrunch
+# 神奇的手指安全地拿着你的装备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/magic-fingers-hold-your-gear-safely/>
 

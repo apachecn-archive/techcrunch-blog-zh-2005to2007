@@ -1,4 +1,4 @@
-# 华纳兄弟的高清光盘总量| TechCrunch
+# 华纳兄弟的高清光盘总量
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/total-hd-disc-from-warner-bros/>
 

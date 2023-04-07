@@ -1,4 +1,4 @@
-# Fwicki 将 RSS 推向极致| TechCrunch
+# Fwicki 将 RSS 推向极致
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/fwicki-takes-rss-to-the-max/>
 

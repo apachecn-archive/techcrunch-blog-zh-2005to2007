@@ -1,4 +1,4 @@
-# Zune 高管离开微软| TechCrunch
+# Zune 高管离开微软
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/zune-executive-leaves-microsoft/>
 

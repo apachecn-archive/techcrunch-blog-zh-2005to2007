@@ -1,4 +1,4 @@
-# Ask.com 推出 AskEraser 工具| TechCrunch
+# Ask.com 推出 AskEraser 工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/20/askcom-launching-askeraser-utility/>
 

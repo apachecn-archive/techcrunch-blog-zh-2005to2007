@@ -1,4 +1,4 @@
-# 索尼背投:优步-thin-TechCrunch
+# 索尼背投:优步-thin-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/sony-rear-projections-uber-thin/>
 

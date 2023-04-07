@@ -1,4 +1,4 @@
-# Bose 升级旗舰产品–TechCrunch
+# Bose 升级旗舰产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/bose-upgrades-flagship-products/>
 

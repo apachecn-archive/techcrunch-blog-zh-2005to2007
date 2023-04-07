@@ -1,4 +1,4 @@
-# TerraTec Electronic Noxon 2:内置 Wi-Fi 的 iPod Dock+收音机| TechCrunch
+# TerraTec Electronic Noxon 2:内置 Wi-Fi 的 iPod Dock+收音机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/terratec-electronic-noxon-2-an-ipod-dockradio-with-built-in-wi-fi/>
 

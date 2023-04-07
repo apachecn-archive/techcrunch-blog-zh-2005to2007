@@ -1,4 +1,4 @@
-# 谁应该为他们的火狐贡献得到奖励？–TechCrunch
+# 谁应该为他们的火狐贡献得到奖励？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/who-should-be-rewarded-for-their-firefox-contributions/>
 

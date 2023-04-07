@@ -1,4 +1,4 @@
-# 百思买提供免费 PS3 交易——TechCrunch
+# 百思买提供免费 PS3 交易
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/best-buy-offering-free-ps3-deal/>
 

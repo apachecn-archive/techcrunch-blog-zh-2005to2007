@@ -1,4 +1,4 @@
-# 摩托罗拉·拉兹尔 2 被淘汰——TechCrunch
+# 摩托罗拉·拉兹尔 2 被淘汰
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/motorola-razr2-v8-specd-out/>
 

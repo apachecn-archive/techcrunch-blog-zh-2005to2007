@@ -1,4 +1,4 @@
-# 希望你还没有购买 360 Elite——TechCrunch
+# 希望你还没有购买 360 Elite
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/26/hope-you-didnt-buy-that-360-elite-just-yet/>
 

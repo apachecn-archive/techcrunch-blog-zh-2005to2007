@@ -1,4 +1,4 @@
-# YouDeparted 让用户在死后也能说话 TechCrunch
+# YouDeparted 让用户在死后也能说话 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/youdeparted-lets-users-speak-beyond-the-grave/>
 

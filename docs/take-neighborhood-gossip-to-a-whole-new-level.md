@@ -1,4 +1,4 @@
-# 将邻里八卦提升到一个全新的水平——TechCrunch
+# 将邻里八卦提升到一个全新的水平
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/29/take-neighborhood-gossip-to-a-whole-new-level/>
 

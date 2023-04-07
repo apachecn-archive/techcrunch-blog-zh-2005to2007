@@ -1,4 +1,4 @@
-# Sidekick 3 回顾:你在吗，上帝？是我，奥斯汀| TechCrunch
+# Sidekick 3 回顾:你在吗，上帝？是我，奥斯汀
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/23/sidekick-3-review-are-you-there-god-its-me-austin/>
 

@@ -1,4 +1,4 @@
-# 手机游戏是威胁吗？TechCrunch
+# 手机游戏是威胁吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/are-mobile-games-a-threat/>
 

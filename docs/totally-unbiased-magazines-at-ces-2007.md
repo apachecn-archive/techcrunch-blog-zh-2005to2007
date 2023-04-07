@@ -1,4 +1,4 @@
-# CES 2007 上完全公正的杂志| TechCrunch
+# CES 2007 上完全公正的杂志
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/totally-unbiased-magazines-at-ces-2007/>
 

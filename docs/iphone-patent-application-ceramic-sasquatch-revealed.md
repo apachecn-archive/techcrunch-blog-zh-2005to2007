@@ -1,4 +1,4 @@
-# iPhone 专利申请:陶瓷大脚野人透露| TechCrunch
+# iPhone 专利申请:陶瓷大脚野人透露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/iphone-patent-application-ceramic-sasquatch-revealed/>
 

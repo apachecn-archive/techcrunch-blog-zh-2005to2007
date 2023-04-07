@@ -1,4 +1,4 @@
-# LinkedIn 将模型扩展到服务推荐——TechCrunch
+# LinkedIn 将模型扩展到服务推荐
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/linkedin-expanding-model-to-service-recommendations>
 

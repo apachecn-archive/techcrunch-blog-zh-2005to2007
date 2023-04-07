@@ -1,4 +1,4 @@
-# SplashCast 将“性感回归”脸书 TechCrunch
+# SplashCast 将“性感回归”脸书 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/01/splashcast-bringing-sexy-back-to-facebook/>
 

@@ -1,4 +1,4 @@
-# 新的。Mac 网络画廊已经上线——TechCrunch
+# 新的。Mac 网络画廊已经上线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/new-mac-web-gallery-online-already/>
 

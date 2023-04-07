@@ -1,4 +1,4 @@
-# 每日危机:磁贴版 TechCrunch
+# 每日危机:磁贴版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/16/daily-crunch-tile-edition/>
 

@@ -1,4 +1,4 @@
-# windows Media Player 11 Beta 2 | TechCrunch
+# windows Media Player 11 Beta 2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/windows-media-player-11-beta-2/>
 

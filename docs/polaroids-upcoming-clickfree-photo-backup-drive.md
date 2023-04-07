@@ -1,4 +1,4 @@
-# 宝丽来即将推出的免点击照片备份硬盘| TechCrunch
+# 宝丽来即将推出的免点击照片备份硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/28/polaroids-upcoming-clickfree-photo-backup-drive/>
 

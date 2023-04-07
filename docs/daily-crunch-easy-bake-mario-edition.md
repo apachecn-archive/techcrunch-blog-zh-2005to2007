@@ -1,4 +1,4 @@
-# 每日危机:简单烘焙马里奥版| TechCrunch
+# 每日危机:简单烘焙马里奥版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/daily-crunch-easy-bake-mario-edition/>
 

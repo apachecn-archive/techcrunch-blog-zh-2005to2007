@@ -1,4 +1,4 @@
-# GigaOm 的新博客，聚焦于成长中的创业公司——TechCrunch
+# GigaOm 的新博客，聚焦于成长中的创业公司
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/14/new-blog-at-gigaom-focusing-on-growing-a-startup/>
 

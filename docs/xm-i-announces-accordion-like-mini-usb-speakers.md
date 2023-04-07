@@ -1,4 +1,4 @@
-# XM-I 宣布推出手风琴式迷你 USB 扬声器| TechCrunch
+# XM-I 宣布推出手风琴式迷你 USB 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/xm-i-announces-accordion-like-mini-usb-speakers/>
 

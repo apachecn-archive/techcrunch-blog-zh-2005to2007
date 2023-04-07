@@ -1,4 +1,4 @@
-# DIY Aqua Teen LED T 恤——TechCrunch
+# DIY Aqua Teen LED T 恤
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/02/diy-aqua-teen-led-t-shirt/>
 

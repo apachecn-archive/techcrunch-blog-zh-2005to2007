@@ -1,4 +1,4 @@
-# Mio DigiWalker C520，与您对话的 GPS 设备| TechCrunch
+# Mio DigiWalker C520，与您对话的 GPS 设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/mio-digiwalker-c520-the-gps-device-that-talks-to-you/>
 

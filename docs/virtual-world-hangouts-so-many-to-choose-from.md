@@ -1,4 +1,4 @@
-# 虚拟世界聚会:如此多的选择 TechCrunch
+# 虚拟世界聚会:如此多的选择 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/05/virtual-world-hangouts-so-many-to-choose-from/>
 

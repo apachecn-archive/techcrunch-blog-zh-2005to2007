@@ -1,4 +1,4 @@
-# Friendster 的全部故事——TechCrunch
+# Friendster 的全部故事
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2006/10/15/the-friendster-tell-all-story/?guccounter=2>
 

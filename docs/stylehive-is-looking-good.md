@@ -1,4 +1,4 @@
-# Stylehive 看起来不错——TechCrunch
+# Stylehive 看起来不错
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/20/stylehive-is-looking-good/>
 

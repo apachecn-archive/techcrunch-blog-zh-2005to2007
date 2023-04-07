@@ -1,4 +1,4 @@
-# 粉色联想 i807 | TechCrunch
+# 粉色联想 i807 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/23/lenovo-i807-in-pink/>
 

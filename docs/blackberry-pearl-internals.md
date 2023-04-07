@@ -1,4 +1,4 @@
-# 黑莓珍珠内部| TechCrunch
+# 黑莓珍珠内部
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/blackberry-pearl-internals/>
 

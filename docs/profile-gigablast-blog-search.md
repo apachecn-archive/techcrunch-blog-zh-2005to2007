@@ -1,4 +1,4 @@
-# 个人资料–giga blast(博客搜索)–TechCrunch
+# 个人资料–giga blast(博客搜索)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/09/profile-gigablast-blog-search/>
 

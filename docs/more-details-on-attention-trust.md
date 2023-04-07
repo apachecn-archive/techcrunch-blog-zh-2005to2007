@@ -1,4 +1,4 @@
-# 关注信托的更多详情 TechCrunch
+# 关注信托的更多详情 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/05/more-details-on-attention-trust/>
 

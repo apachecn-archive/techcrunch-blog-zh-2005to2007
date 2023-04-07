@@ -1,4 +1,4 @@
-# MySpace 推出 YouTube 竞争对手——TechCrunch
+# MySpace 推出 YouTube 竞争对手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/myspace-launching-youtube-competitor/>
 

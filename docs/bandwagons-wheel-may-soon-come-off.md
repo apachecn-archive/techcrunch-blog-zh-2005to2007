@@ -1,4 +1,4 @@
-# MySpace 紧跟潮流？TechCrunch
+# MySpace 紧跟潮流？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/03/bandwagons-wheel-may-soon-come-off/>
 

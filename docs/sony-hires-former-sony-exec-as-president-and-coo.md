@@ -1,4 +1,4 @@
-# Sonos 聘请前索尼高管担任总裁，首席运营官| TechCrunch
+# Sonos 聘请前索尼高管担任总裁，首席运营官
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/sony-hires-former-sony-exec-as-president-and-coo/>
 

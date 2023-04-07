@@ -1,4 +1,4 @@
-# 滚石版黑莓:也许——TechCrunch
+# 滚石版黑莓:也许
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/rolling-stones-edition-blackberry-maybe/>
 

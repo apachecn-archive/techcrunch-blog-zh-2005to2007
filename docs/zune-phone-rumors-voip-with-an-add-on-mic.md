@@ -1,4 +1,4 @@
-# Zune 手机谣言:带有附加麦克风的 VoIP-TechCrunch
+# Zune 手机谣言:带有附加麦克风的 VoIP-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/zune-phone-rumors-voip-with-an-add-on-mic/>
 

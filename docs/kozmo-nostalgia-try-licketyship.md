@@ -1,4 +1,4 @@
-# 科兹莫怀旧？试试 LicketyShip TechCrunch
+# 科兹莫怀旧？试试 LicketyShip 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/11/kozmo-nostalgia-try-licketyship/>
 

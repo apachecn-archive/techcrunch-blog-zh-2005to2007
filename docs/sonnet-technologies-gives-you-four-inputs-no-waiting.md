@@ -1,4 +1,4 @@
-# Sonnet Technologies 给你四个输入，无需等待——TechCrunch
+# Sonnet Technologies 给你四个输入，无需等待
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/sonnet-technologies-gives-you-four-inputs-no-waiting/>
 

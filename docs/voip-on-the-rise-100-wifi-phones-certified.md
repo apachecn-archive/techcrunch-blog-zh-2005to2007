@@ -1,4 +1,4 @@
-# VoIP 正在崛起:100 部 WiFi 手机获得认证——TechCrunch
+# VoIP 正在崛起:100 部 WiFi 手机获得认证
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/voip-on-the-rise-100-wifi-phones-certified/>
 

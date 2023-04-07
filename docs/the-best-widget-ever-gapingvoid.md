@@ -1,4 +1,4 @@
-# 有史以来最好的 Widget——gapping void TechCrunch
+# 有史以来最好的 Widget——gapping void 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/24/the-best-widget-ever-gapingvoid/>
 

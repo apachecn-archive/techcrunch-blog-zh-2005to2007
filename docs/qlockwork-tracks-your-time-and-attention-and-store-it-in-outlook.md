@@ -1,4 +1,4 @@
-# Qlockwork 跟踪您的时间和注意力，并将其存储在 Outlook 中。TechCrunch
+# Qlockwork 跟踪您的时间和注意力，并将其存储在 Outlook 中。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/qlockwork-tracks-your-time-and-attention-and-store-it-in-outlook/>
 

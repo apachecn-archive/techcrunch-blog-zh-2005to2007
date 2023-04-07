@@ -1,4 +1,4 @@
-# 微软 Zune 能播放受保护的 WMA 音乐吗？–TechCrunch
+# 微软 Zune 能播放受保护的 WMA 音乐吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/will-the-microsoft-zune-play-protected-wma-music/>
 

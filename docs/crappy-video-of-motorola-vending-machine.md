@@ -1,4 +1,4 @@
-# 摩托罗拉自动售货机的蹩脚视频| TechCrunch
+# 摩托罗拉自动售货机的蹩脚视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/crappy-video-of-motorola-vending-machine/>
 

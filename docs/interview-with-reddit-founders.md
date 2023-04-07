@@ -1,4 +1,4 @@
-# 采访 Reddit 创始人——TechCrunch
+# 采访 Reddit 创始人
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/10/31/interview-with-reddit-founders/>
 

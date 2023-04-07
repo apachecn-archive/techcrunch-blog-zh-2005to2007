@@ -1,4 +1,4 @@
-# 锐步:Voltron 版| TechCrunch
+# 锐步:Voltron 版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/07/reebok-voltron-edition/>
 

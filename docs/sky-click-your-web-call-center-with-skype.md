@@ -1,4 +1,4 @@
-# Sky-Click:您的 Skype 网络呼叫中心——TechCrunch
+# Sky-Click:您的 Skype 网络呼叫中心
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/25/sky-click-your-web-call-center-with-skype/>
 

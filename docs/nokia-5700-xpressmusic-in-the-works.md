@@ -1,4 +1,4 @@
-# 工作中的诺基亚 5700 xpress music–TechCrunch
+# 工作中的诺基亚 5700 xpress music
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/nokia-5700-xpressmusic-in-the-works/>
 

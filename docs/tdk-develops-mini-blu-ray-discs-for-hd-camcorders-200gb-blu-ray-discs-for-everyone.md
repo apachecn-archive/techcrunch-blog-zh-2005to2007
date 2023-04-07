@@ -1,4 +1,4 @@
-# TDK 为高清摄像机开发迷你蓝光光盘，为每个人开发 200GB 蓝光光盘| TechCrunch
+# TDK 为高清摄像机开发迷你蓝光光盘，为每个人开发 200GB 蓝光光盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/tdk-develops-mini-blu-ray-discs-for-hd-camcorders-200gb-blu-ray-discs-for-everyone/>
 

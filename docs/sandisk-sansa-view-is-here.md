@@ -1,4 +1,4 @@
-# SanDisk Sansa 查看这里| TechCrunch
+# SanDisk Sansa 查看这里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/sandisk-sansa-view-is-here/>
 

@@ -1,4 +1,4 @@
-# ConnectU 有两周时间完成脸书投诉 TechCrunch
+# ConnectU 有两周时间完成脸书投诉 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/connectu-given-two-weeks-to-finalize-facebook-complaint/>
 

@@ -1,4 +1,4 @@
-# 音频文件:苹果能承担得起偷懒吗？TechCrunch
+# 音频文件:苹果能承担得起偷懒吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/10/the-audiofile-can-apple-afford-to-slacker/>
 

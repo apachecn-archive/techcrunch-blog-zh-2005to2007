@@ -1,4 +1,4 @@
-# 索尼新的 4k 投影仪不足——TechCrunch
+# 索尼新的 4k 投影仪不足
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/sonys-new-4k-projector-comes-up-short/>
 

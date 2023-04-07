@@ -1,4 +1,4 @@
-# FWDitOn 的电子邮件 Digg 模型 TechCrunch
+# FWDitOn 的电子邮件 Digg 模型 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/06/fwditons-digg-model-for-emails/>
 

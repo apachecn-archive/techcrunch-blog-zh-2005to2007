@@ -1,4 +1,4 @@
-# AskCity 推出。很酷。TechCrunch
+# AskCity 推出。很酷。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/03/askcity-launches-its-cool/>
 

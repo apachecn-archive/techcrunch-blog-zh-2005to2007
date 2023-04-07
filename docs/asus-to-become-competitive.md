@@ -1,4 +1,4 @@
-# 华硕将变得“有竞争力”——TechCrunch
+# 华硕将变得“有竞争力”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/asus-to-become-competitive/>
 

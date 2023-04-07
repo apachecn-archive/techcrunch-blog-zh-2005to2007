@@ -1,4 +1,4 @@
-# FlickrStorm:更好地搜索 Flickr，包括 Creative Commons-TechCrunch
+# FlickrStorm:更好地搜索 Flickr，包括 Creative Commons-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/11/flickrstorm-better-search-for-flickr-including-creative-commons/>
 

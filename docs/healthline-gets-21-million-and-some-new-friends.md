@@ -1,4 +1,4 @@
-# Healthline 获得 2100 万美元和一些新朋友——TechCrunch
+# Healthline 获得 2100 万美元和一些新朋友
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/16/healthline-gets-21-million-and-some-new-friends/>
 

@@ -1,4 +1,4 @@
-# 谷歌:安全事故和用户信任——TechCrunch
+# 谷歌:安全事故和用户信任
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/18/google-security-mishaps-and-user-trust/>
 

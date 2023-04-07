@@ -1,4 +1,4 @@
-# 中国暴民购物网站获得大折扣 TechCrunch
+# 中国暴民购物网站获得大折扣 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/04/chinese-mob-shopping-sites-score-big-discounts>
 

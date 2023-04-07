@@ -1,4 +1,4 @@
-# PayPerPost 病毒传播 TechCrunch
+# PayPerPost 病毒传播 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/12/the-payperpost-virus-spreads>
 

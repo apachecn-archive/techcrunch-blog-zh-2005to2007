@@ -1,4 +1,4 @@
-# 雅虎！Messenger 发布 Mac IM 3.0 TechCrunch
+# 雅虎！Messenger 发布 Mac IM 3.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/28/yahoo-messenger-releases-mac-im-30/>
 

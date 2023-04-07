@@ -1,4 +1,4 @@
-# 活力季风 II 降低 CPU 温度，无需所有液体冷却管 TechCrunch
+# 活力季风 II 降低 CPU 温度，无需所有液体冷却管 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/vigor-monsoon-ii-lowers-cpu-temps-without-all-the-liquid-cooling-tubes/>
 

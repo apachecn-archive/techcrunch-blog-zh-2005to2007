@@ -1,4 +1,4 @@
-# 索尼新的 Muteki Power 立体声系列:东京设计的拉丁美洲 good-TechCrunch
+# 索尼新的 Muteki Power 立体声系列:东京设计的拉丁美洲 good-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/01/sonys-new-muteki-power-stereo-line-tokyo-designed-latin-american-goodness/>
 

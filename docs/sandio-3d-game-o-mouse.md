@@ -1,4 +1,4 @@
-# Sandio 3D 游戏 O' Mouse | TechCrunch
+# Sandio 3D 游戏 O' Mouse 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/sandio-3d-game-o-mouse/>
 

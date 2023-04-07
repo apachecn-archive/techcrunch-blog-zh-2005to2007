@@ -1,4 +1,4 @@
-# 索尼 XDV-100 便携式电视、AM/FM 收音机:日本以外的有限使用–TechCrunch
+# 索尼 XDV-100 便携式电视、AM/FM 收音机:日本以外的有限使用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/sony-xdv-100-portable-tv-amfm-radio-limited-use-outside-of-japan/>
 

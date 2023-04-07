@@ -1,4 +1,4 @@
-# 解锁的 iPhones 正在准备| TechCrunch
+# 解锁的 iPhones 正在准备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/unlocked-iphones-being-prepped/>
 

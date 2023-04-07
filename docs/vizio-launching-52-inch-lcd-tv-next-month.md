@@ -1,4 +1,4 @@
-# Vizio 下月推出 52 英寸液晶电视——TechCrunch
+# Vizio 下月推出 52 英寸液晶电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/vizio-launching-52-inch-lcd-tv-next-month/>
 

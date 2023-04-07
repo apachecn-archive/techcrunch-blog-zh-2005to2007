@@ -1,4 +1,4 @@
-# Valve 的 Steam 服务器可能遭到黑客攻击——TechCrunch
+# Valve 的 Steam 服务器可能遭到黑客攻击
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/19/valves-steam-servers-possibly-hacked/>
 

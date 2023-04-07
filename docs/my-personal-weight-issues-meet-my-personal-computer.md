@@ -1,4 +1,4 @@
-# 我的个人体重问题，见见我的个人电脑——TechCrunch
+# 我的个人体重问题，见见我的个人电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/18/my-personal-weight-issues-meet-my-personal-computer/>
 

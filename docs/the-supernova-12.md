@@ -1,4 +1,4 @@
-# 超新星 12 TechCrunch
+# 超新星 12 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/03/the-supernova-12/>
 

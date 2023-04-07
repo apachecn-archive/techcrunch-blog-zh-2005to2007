@@ -1,4 +1,4 @@
-# 苹果公司推出配备酷睿 2 双核处理器的 MacBooks——TechCrunch
+# 苹果公司推出配备酷睿 2 双核处理器的 MacBooks
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/macbooks-now-with-core-2-duo-at-apple/>
 

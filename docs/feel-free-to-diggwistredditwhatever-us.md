@@ -1,4 +1,4 @@
-# 随意去 Digg/Wist/Reddit/随便什么 Us | TechCrunch
+# 随意去 Digg/Wist/Reddit/随便什么 Us 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/feel-free-to-diggwistredditwhatever-us/>
 

@@ -1,4 +1,4 @@
-# 间谍相机手表的历史——TechCrunch
+# 间谍相机手表的历史
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/10/history-of-spy-cam-watches/>
 

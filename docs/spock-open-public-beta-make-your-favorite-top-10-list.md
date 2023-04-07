@@ -1,4 +1,4 @@
-# Spock 公开测试版 TechCrunch
+# Spock 公开测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/08/spock-open-public-beta-make-your-favorite-top-10-list>
 

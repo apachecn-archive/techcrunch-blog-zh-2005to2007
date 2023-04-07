@@ -1,4 +1,4 @@
-# VoodooPC 发布四核游戏平台| TechCrunch
+# VoodooPC 发布四核游戏平台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/voodoopc-announces-quad-core-gaming-rig/>
 

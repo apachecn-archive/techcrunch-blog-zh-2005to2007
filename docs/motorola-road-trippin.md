@@ -1,4 +1,4 @@
-# 摩托罗拉公路旅行——TechCrunch
+# 摩托罗拉公路旅行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/motorola-road-trippin/>
 

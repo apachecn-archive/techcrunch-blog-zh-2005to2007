@@ -1,4 +1,4 @@
-# LG Shine 登陆英国| TechCrunch
+# LG Shine 登陆英国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/lg-shine-hits-england/>
 

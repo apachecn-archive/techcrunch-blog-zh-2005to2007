@@ -1,4 +1,4 @@
-# 美国电话电报公司将 MediaFLO 用于移动直播电视——TechCrunch
+# 美国电话电报公司将 MediaFLO 用于移动直播电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/att-taps-mediaflo-for-mobile-live-streaming-tv/>
 

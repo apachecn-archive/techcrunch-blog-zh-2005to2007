@@ -1,4 +1,4 @@
-# BlueAnt Supertooth Light 蓝牙扬声器| TechCrunch
+# BlueAnt Supertooth Light 蓝牙扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/blueant-supertooth-light-bluetooth-speakerphone/>
 

@@ -1,4 +1,4 @@
-# Topix CEO 下台；副总裁 Chris Tolles 接管 TechCrunch
+# Topix CEO 下台；副总裁 Chris Tolles 接管 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/topix-ceo-steps-down-vp-chris-tolles-takes-spot/>
 

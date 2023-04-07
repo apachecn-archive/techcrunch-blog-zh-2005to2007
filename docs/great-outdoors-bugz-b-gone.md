@@ -1,4 +1,4 @@
-# 伟大的户外运动:Bugz-B-Gone–TechCrunch
+# 伟大的户外运动:Bugz-B-Gone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/great-outdoors-bugz-b-gone/>
 

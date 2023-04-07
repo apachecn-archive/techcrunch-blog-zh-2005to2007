@@ -1,4 +1,4 @@
-# 如果你使用 PhotoShop，去看看 Paint.net TechCrunch
+# 如果你使用 PhotoShop，去看看 Paint.net 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/21/if-you-use-photoshop-check-out-paintnet>
 

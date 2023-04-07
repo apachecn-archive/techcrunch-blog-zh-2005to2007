@@ -1,4 +1,4 @@
-# Steelcase 最差工作空间挑战决赛选手——TechCrunch
+# Steelcase 最差工作空间挑战决赛选手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/steelcase-worst-workspace-challenge-finalists/>
 

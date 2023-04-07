@@ -1,4 +1,4 @@
-# 加入我们的脸书小组| TechCrunch
+# 加入我们的脸书小组
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/join-our-facebook-group/>
 

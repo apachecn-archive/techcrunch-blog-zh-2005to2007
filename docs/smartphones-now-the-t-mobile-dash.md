@@ -1,4 +1,4 @@
-# 现在的智能手机:T-Mobile Dash | TechCrunch
+# 现在的智能手机:T-Mobile Dash 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/01/smartphones-now-the-t-mobile-dash/>
 

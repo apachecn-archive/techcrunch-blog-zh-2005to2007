@@ -1,4 +1,4 @@
-# 谷歌博客搜索-第一印象| TechCrunch
+# 谷歌博客搜索-第一印象
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/14/google-blog-search-first-impressions/>
 

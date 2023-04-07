@@ -1,4 +1,4 @@
-# Xbox 360 HD DVD 2006 年圣诞节前 200 美元？–TechCrunch
+# Xbox 360 HD DVD 2006 年圣诞节前 200 美元？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/xbox-360-hd-dvd-200-by-christmas-2006/>
 

@@ -1,4 +1,4 @@
-# Weebly 搭配 y combinator TechCrunch
+# Weebly 搭配 y combinator 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/15/weebly-goes-with-ycombinator/>
 

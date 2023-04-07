@@ -1,4 +1,4 @@
-# Pando 超越电子邮件文件共享 TechCrunch
+# Pando 超越电子邮件文件共享 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/26/pando-moves-beyond-email-file-sharing/>
 

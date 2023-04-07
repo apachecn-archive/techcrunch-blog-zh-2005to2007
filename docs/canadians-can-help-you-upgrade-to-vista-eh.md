@@ -1,4 +1,4 @@
-# 加拿大人可以帮你升级到 Vista，呃| TechCrunch
+# 加拿大人可以帮你升级到 Vista，呃
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/canadians-can-help-you-upgrade-to-vista-eh/>
 

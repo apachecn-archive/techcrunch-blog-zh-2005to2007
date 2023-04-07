@@ -1,4 +1,4 @@
-# Lexar 航运 Jumpdrive Mercury | TechCrunch
+# Lexar 航运 Jumpdrive Mercury 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/02/lexar-shipping-jumpdrive-mercury/>
 

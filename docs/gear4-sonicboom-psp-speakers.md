@@ -1,4 +1,4 @@
-# Gear4 SonicBoom PSP 扬声器–TechCrunch
+# Gear4 SonicBoom PSP 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/gear4-sonicboom-psp-speakers/>
 

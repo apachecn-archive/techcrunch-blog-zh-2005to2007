@@ -1,4 +1,4 @@
-# 4×4 怪物卡车驶向移动 3D 平台——TechCrunch
+# 4×4 怪物卡车驶向移动 3D 平台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/4x4-monster-trucks-drives-to-mobile-3d-platform/>
 

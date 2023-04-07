@@ -1,4 +1,4 @@
-# Findory 增加了自我进化阅读器 TechCrunch
+# Findory 增加了自我进化阅读器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/25/findory-adds-self-evolving-feed-reader/>
 

@@ -1,4 +1,4 @@
-# 我的 Mac Pro 由于 Sonnet 而挂得很好，你的呢？–TechCrunch
+# 我的 Mac Pro 由于 Sonnet 而挂得很好，你的呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/21/my-mac-pro-is-well-hung-thanks-to-sonnet-is-yours/>
 

@@ -1,4 +1,4 @@
-# 日产的酒后驾驶预防系统| TechCrunch
+# 日产的酒后驾驶预防系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/nissans-drunk-driving-prevention-system/>
 

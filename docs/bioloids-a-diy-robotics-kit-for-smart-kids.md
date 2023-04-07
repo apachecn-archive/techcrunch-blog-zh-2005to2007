@@ -1,4 +1,4 @@
-# Bioloids:智能儿童 DIY 机器人套件| TechCrunch
+# Bioloids:智能儿童 DIY 机器人套件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/bioloids-a-diy-robotics-kit-for-smart-kids/>
 

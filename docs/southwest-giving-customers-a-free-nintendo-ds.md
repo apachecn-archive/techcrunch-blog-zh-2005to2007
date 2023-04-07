@@ -1,4 +1,4 @@
-# 西南给顾客一个免费的任天堂 DS | TechCrunch
+# 西南给顾客一个免费的任天堂 DS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/06/southwest-giving-customers-a-free-nintendo-ds/>
 

@@ -1,4 +1,4 @@
-# Xbox Live Vision 上市——TechCrunch
+# Xbox Live Vision 上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/20/xbox-live-vision-hits-stores/>
 

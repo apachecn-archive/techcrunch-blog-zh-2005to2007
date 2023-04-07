@@ -1,4 +1,4 @@
-# Pandora Wifi 设备的原型今晚在旧金山展示 TechCrunch
+# Pandora Wifi 设备的原型今晚在旧金山展示 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/23/prototype-of-pandora-wifi-device-shown-tonight-in-san-francisco/>
 

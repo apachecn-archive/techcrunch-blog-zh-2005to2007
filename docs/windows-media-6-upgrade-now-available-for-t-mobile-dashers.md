@@ -1,4 +1,4 @@
-# Windows Media 6 升级现可用于 T-Mobile Dashers | TechCrunch
+# Windows Media 6 升级现可用于 T-Mobile Dashers 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/windows-media-6-upgrade-now-available-for-t-mobile-dashers/>
 

@@ -1,4 +1,4 @@
-# 安桥 DV-HD805 HD DVD 播放器| TechCrunch
+# 安桥 DV-HD805 HD DVD 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/onkyo-dv-hd805-hd-dvd-player/>
 

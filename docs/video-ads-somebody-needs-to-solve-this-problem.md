@@ -1,4 +1,4 @@
-# 视频广告:每个初创公司都有不同的解决方案——TechCrunch
+# 视频广告:每个初创公司都有不同的解决方案
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/video-ads-somebody-needs-to-solve-this-problem/>
 

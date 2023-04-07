@@ -1,4 +1,4 @@
-# 电话夏尔巴的铃声制作者——TechCrunch
+# 电话夏尔巴的铃声制作者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/27/ringtone-maker-from-phone-sherpa/>
 

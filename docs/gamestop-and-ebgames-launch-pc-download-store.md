@@ -1,4 +1,4 @@
-# GameStop 和 EBGames 推出 PC 下载商店——TechCrunch
+# GameStop 和 EBGames 推出 PC 下载商店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/gamestop-and-ebgames-launch-pc-download-store/>
 

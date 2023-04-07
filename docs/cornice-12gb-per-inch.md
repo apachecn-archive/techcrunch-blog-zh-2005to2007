@@ -1,4 +1,4 @@
-# 檐口:每英寸 12GB–TechCrunch
+# 檐口:每英寸 12GB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/cornice-12gb-per-inch/>
 

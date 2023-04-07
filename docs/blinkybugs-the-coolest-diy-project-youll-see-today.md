@@ -1,4 +1,4 @@
-# BlinkyBugs:今天你会看到的最酷的 DIY 项目——TechCrunch
+# BlinkyBugs:今天你会看到的最酷的 DIY 项目
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/blinkybugs-the-coolest-diy-project-youll-see-today/>
 

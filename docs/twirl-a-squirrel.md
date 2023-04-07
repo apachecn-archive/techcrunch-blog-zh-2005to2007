@@ -1,4 +1,4 @@
-# 旋转松鼠——TechCrunch
+# 旋转松鼠
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/twirl-a-squirrel/>
 

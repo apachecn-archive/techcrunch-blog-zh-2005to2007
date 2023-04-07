@@ -1,4 +1,4 @@
-# Sampa 将个性化页面带到脸书——TechCrunch
+# Sampa 将个性化页面带到脸书
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/08/sampa-brings-personalized-pages-to-facebook/>
 

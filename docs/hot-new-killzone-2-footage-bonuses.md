@@ -1,4 +1,4 @@
-# 热门新杀戮地带 2 镜头+奖金| TechCrunch
+# 热门新杀戮地带 2 镜头+奖金
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/hot-new-killzone-2-footage-bonuses/>
 

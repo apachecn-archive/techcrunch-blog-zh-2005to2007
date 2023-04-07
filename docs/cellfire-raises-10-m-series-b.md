@@ -1,4 +1,4 @@
-# Cellfire 融资 1000 万美元 B 轮 TechCrunch
+# Cellfire 融资 1000 万美元 B 轮 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/10/cellfire-raises-10-m-series-b/>
 

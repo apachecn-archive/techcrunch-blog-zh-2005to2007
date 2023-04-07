@@ -1,4 +1,4 @@
-# iPod 在伊拉克救了一个士兵的命？TechCrunch
+# iPod 在伊拉克救了一个士兵的命？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/06/ipod-saves-a-soldiers-life-in-iraq/>
 

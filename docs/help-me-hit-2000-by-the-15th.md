@@ -1,4 +1,4 @@
-# 帮助我在 15 号达到 2000 美元以上——TechCrunch
+# 帮助我在 15 号达到 2000 美元以上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/13/help-me-hit-2000-by-the-15th/>
 

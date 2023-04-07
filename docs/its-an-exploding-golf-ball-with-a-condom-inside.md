@@ -1,4 +1,4 @@
-# 这是一个爆炸的高尔夫球(里面有一个避孕套)——TechCrunch
+# 这是一个爆炸的高尔夫球(里面有一个避孕套)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/its-an-exploding-golf-ball-with-a-condom-inside/>
 

@@ -1,4 +1,4 @@
-# e-MU 0404 audio pod–TechCrunch
+# e-MU 0404 audio pod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/10/e-mu-0404-audiopod/>
 

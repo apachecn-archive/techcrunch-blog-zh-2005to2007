@@ -1,4 +1,4 @@
-# 愚蠢的 Roomba 技巧| TechCrunch
+# 愚蠢的 Roomba 技巧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/stupid-roomba-tricks/>
 

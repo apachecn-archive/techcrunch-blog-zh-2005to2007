@@ -1,4 +1,4 @@
-# Sirius Stiletto 的 miDock 产品组合将于 10 月推出——TechCrunch
+# Sirius Stiletto 的 miDock 产品组合将于 10 月推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/midock-portfolio-for-sirius-stiletto-due-in-october/>
 

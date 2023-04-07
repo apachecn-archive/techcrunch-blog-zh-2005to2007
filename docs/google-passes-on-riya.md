@@ -1,4 +1,4 @@
-# Riya 单干| TechCrunch
+# Riya 单干
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/18/google-passes-on-riya/>
 

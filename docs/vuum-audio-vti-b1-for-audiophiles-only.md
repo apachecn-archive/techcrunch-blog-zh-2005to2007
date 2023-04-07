@@ -1,4 +1,4 @@
-# Vuum Audio VTi-B1:仅面向发烧友| TechCrunch
+# Vuum Audio VTi-B1:仅面向发烧友
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/vuum-audio-vti-b1-for-audiophiles-only/>
 

@@ -1,4 +1,4 @@
-# 助手 ID 动手–TechCrunch
+# 助手 ID 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/13/sidekick-id-hands-on/>
 

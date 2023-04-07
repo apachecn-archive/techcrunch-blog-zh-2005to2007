@@ -1,4 +1,4 @@
-# 配有两个 iPod 基座的雷诺概念车——TechCrunch
+# 配有两个 iPod 基座的雷诺概念车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/renault-concept-car-with-two-ipod-docks/>
 

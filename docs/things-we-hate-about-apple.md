@@ -1,4 +1,4 @@
-# 我们讨厌苹果的地方——TechCrunch
+# 我们讨厌苹果的地方
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/09/things-we-hate-about-apple/>
 

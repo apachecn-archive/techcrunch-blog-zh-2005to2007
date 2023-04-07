@@ -1,4 +1,4 @@
-# 我的选择列表增加了 Myspace Widget——TechCrunch
+# 我的选择列表增加了 Myspace Widget
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/24/my-pick-list-adds-myspace-widget/>
 

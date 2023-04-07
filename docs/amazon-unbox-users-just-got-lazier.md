@@ -1,4 +1,4 @@
-# 亚马逊 Unbox 用户变得更懒了——TechCrunch
+# 亚马逊 Unbox 用户变得更懒了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/amazon-unbox-users-just-got-lazier/>
 

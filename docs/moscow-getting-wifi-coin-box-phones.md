@@ -1,4 +1,4 @@
-# 莫斯科获得 WiFi 投币电话——TechCrunch
+# 莫斯科获得 WiFi 投币电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/moscow-getting-wifi-coin-box-phones/>
 

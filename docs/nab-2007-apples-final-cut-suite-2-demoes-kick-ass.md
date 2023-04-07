@@ -1,4 +1,4 @@
-# NAB 2007:苹果的最终版本 Suite 2 Demoes 踢屁股 TechCrunch
+# NAB 2007:苹果的最终版本 Suite 2 Demoes 踢屁股 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/17/nab-2007-apples-final-cut-suite-2-demoes-kick-ass/>
 

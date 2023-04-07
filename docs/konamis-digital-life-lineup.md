@@ -1,4 +1,4 @@
-# Konami 的数字生活阵容| TechCrunch
+# Konami 的数字生活阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/09/konamis-digital-life-lineup/>
 

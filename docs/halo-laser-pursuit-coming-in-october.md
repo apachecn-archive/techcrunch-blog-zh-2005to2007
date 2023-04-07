@@ -1,4 +1,4 @@
-# 光晕激光追踪将于 10 月推出——TechCrunch
+# 光晕激光追踪将于 10 月推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/31/halo-laser-pursuit-coming-in-october/>
 

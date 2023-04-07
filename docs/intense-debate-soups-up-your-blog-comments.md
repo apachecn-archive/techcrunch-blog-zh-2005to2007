@@ -1,4 +1,4 @@
-# 激烈的辩论增加了你的博客评论 TechCrunch
+# 激烈的辩论增加了你的博客评论 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/07/intense-debate-soups-up-your-blog-comments/>
 

@@ -1,4 +1,4 @@
-# 索尼 Odo 概念| TechCrunch
+# 索尼 Odo 概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/sony-odo-concepts/>
 

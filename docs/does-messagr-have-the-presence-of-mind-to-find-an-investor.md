@@ -1,4 +1,4 @@
-# 梅萨格有没有找到投资者的头脑？TechCrunch
+# 梅萨格有没有找到投资者的头脑？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/30/does-messagr-have-the-presence-of-mind-to-find-an-investor/>
 

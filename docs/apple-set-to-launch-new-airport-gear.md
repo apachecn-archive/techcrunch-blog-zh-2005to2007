@@ -1,4 +1,4 @@
-# 苹果将推出新的机场设备——TechCrunch
+# 苹果将推出新的机场设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/apple-set-to-launch-new-airport-gear/>
 

@@ -1,4 +1,4 @@
-# 10 月份 MacBooks 上的多点触控——TechCrunch
+# 10 月份 MacBooks 上的多点触控
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/29/multi-touch-on-macbooks-in-october/>
 

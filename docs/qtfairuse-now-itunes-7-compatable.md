@@ -1,4 +1,4 @@
-# QTFairUse Now iTunes 7 兼容| TechCrunch
+# QTFairUse Now iTunes 7 兼容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/13/qtfairuse-now-itunes-7-compatable/>
 

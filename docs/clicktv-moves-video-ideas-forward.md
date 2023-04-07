@@ -1,4 +1,4 @@
-# Click.tv 推进视频创意 TechCrunch
+# Click.tv 推进视频创意 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/16/clicktv-moves-video-ideas-forward/>
 

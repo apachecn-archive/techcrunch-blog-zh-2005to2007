@@ -1,4 +1,4 @@
-# 赫斯特以 3000 多万美元收购 Kaboodle TechCrunch
+# 赫斯特以 3000 多万美元收购 Kaboodle 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/08/hearst-acquires-kaboodle-for-30-million/>
 

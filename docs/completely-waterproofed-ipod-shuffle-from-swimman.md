@@ -1,4 +1,4 @@
-# 来自 SwimMan | TechCrunch 的完全防水 iPod Shuffle
+# 来自 SwimMan  的完全防水 iPod Shuffle
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/15/completely-waterproofed-ipod-shuffle-from-swimman/>
 

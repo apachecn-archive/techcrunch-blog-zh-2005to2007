@@ -1,4 +1,4 @@
-# Mikonoclast 为社交网络提供个人图标——TechCrunch
+# Mikonoclast 为社交网络提供个人图标
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/09/mikonoclast-offers-personal-icons-for-social-networking/>
 

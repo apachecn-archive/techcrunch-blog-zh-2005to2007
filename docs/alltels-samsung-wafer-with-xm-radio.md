@@ -1,4 +1,4 @@
-# Alltel 的三星晶圆带 XM 收音机| TechCrunch
+# Alltel 的三星晶圆带 XM 收音机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/alltels-samsung-wafer-with-xm-radio/>
 

@@ -1,4 +1,4 @@
-# Brando 增加了蓝牙、USB 读卡器集线器–TechCrunch
+# Brando 增加了蓝牙、USB 读卡器集线器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/10/brando-adds-bluetooth-hub-to-usb-card-reader/>
 

@@ -1,4 +1,4 @@
-# 三星 i7 视频浏览| TechCrunch
+# 三星 i7 视频浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/samsung-i7-video-walk-through/>
 

@@ -1,4 +1,4 @@
-# 微软的 ZenZui 推出移动窗口浏览器——TechCrunch
+# 微软的 ZenZui 推出移动窗口浏览器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/microsofts-zenzui-launches-mobile-widget-browser/>
 

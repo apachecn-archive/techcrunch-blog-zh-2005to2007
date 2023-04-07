@@ -1,4 +1,4 @@
-# Qwest 的 Cingular:你再也没有免费电话了——TechCrunch
+# Qwest 的 Cingular:你再也没有免费电话了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/cingular-qwest-no-more-free-calls-for-you/>
 

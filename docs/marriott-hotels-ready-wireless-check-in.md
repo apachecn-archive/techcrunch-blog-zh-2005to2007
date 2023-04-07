@@ -1,4 +1,4 @@
-# 万豪酒店就绪无线入住 TechCrunch
+# 万豪酒店就绪无线入住 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/18/marriott-hotels-ready-wireless-check-in/>
 

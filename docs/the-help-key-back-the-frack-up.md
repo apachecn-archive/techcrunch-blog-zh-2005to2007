@@ -1,4 +1,4 @@
-# 帮助键:备份| TechCrunch
+# 帮助键:备份
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/the-help-key-back-the-frack-up/>
 

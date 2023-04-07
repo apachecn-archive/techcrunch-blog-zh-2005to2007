@@ -1,4 +1,4 @@
-# Bebo 值 10 亿美元吗？–TechCrunch
+# Bebo 值 10 亿美元吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/20/is-bebo-worth-1-billion/>
 

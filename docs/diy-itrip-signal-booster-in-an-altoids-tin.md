@@ -1,4 +1,4 @@
-# 在 Altoids 罐中 DIY iTrip 信号增强器| TechCrunch
+# 在 Altoids 罐中 DIY iTrip 信号增强器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/21/diy-itrip-signal-booster-in-an-altoids-tin/>
 

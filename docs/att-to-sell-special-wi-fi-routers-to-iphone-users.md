@@ -1,4 +1,4 @@
-# 美国电话电报公司将向 iPhone 用户出售特殊的 Wi-Fi 路由器？TechCrunch
+# 美国电话电报公司将向 iPhone 用户出售特殊的 Wi-Fi 路由器？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/att-to-sell-special-wi-fi-routers-to-iphone-users/>
 

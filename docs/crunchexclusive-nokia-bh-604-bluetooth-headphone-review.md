@@ -1,4 +1,4 @@
-# 诺基亚 BH-604 蓝牙耳机评论——TechCrunch
+# 诺基亚 BH-604 蓝牙耳机评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/crunchexclusive-nokia-bh-604-bluetooth-headphone-review/>
 

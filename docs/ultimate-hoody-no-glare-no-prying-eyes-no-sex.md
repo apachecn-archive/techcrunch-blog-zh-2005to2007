@@ -1,4 +1,4 @@
-# 终极帽衫；没有强光，没有窥探，没有性——TechCrunch
+# 终极帽衫；没有强光，没有窥探，没有性
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/ultimate-hoody-no-glare-no-prying-eyes-no-sex/>
 

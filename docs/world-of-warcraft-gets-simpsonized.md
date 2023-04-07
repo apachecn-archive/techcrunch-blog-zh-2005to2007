@@ -1,4 +1,4 @@
-# 魔兽世界变得简单——TechCrunch
+# 魔兽世界变得简单
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/world-of-warcraft-gets-simpsonized/>
 

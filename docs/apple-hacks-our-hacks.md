@@ -1,4 +1,4 @@
-# 苹果攻击我们的黑客——TechCrunch
+# 苹果攻击我们的黑客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/apple-hacks-our-hacks/>
 

@@ -1,4 +1,4 @@
-# 离子音频发布两个时髦的转盘 TechCrunch
+# 离子音频发布两个时髦的转盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/ion-audio-releases-two-snazzy-turntables/>
 

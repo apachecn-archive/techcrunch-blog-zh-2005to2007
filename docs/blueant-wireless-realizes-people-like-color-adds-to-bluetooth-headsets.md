@@ -1,4 +1,4 @@
-# BlueAnt Wireless 意识到人们喜欢颜色，加入蓝牙耳机| TechCrunch
+# BlueAnt Wireless 意识到人们喜欢颜色，加入蓝牙耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/blueant-wireless-realizes-people-like-color-adds-to-bluetooth-headsets/>
 

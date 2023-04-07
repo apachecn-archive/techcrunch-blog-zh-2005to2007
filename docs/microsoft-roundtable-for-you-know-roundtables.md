@@ -1,4 +1,4 @@
-# 微软圆桌会议，圆桌会议| TechCrunch
+# 微软圆桌会议，圆桌会议
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/microsoft-roundtable-for-you-know-roundtables/>
 

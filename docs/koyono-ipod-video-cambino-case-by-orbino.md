@@ -1,4 +1,4 @@
-# KOYONO iPod 视频 Cambino 案件由 Orbino-TechCrunch
+# KOYONO iPod 视频 Cambino 案件由 Orbino-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/koyono-ipod-video-cambino-case-by-orbino/>
 

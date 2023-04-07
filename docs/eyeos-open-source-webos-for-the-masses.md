@@ -1,4 +1,4 @@
-# eyeOS 能在 Desktop.com 失败的地方取得成功吗？TechCrunch
+# eyeOS 能在 Desktop.com 失败的地方取得成功吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/27/eyeos-open-source-webos-for-the-masses/>
 

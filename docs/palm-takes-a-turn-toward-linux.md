@@ -1,4 +1,4 @@
-# Palm 转向 Linux——TechCrunch
+# Palm 转向 Linux
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/palm-takes-a-turn-toward-linux/>
 

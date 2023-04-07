@@ -1,4 +1,4 @@
-# 明基-西门子未来的手机——TechCrunch
+# 明基-西门子未来的手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/benq-siemens-phones-of-the-future/>
 

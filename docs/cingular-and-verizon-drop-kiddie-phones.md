@@ -1,4 +1,4 @@
-# Cingular 和威瑞森推出儿童手机——TechCrunch
+# Cingular 和威瑞森推出儿童手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/13/cingular-and-verizon-drop-kiddie-phones/>
 

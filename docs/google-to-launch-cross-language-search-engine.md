@@ -1,4 +1,4 @@
-# 谷歌将推出跨语言搜索引擎；查询和结果的即时翻译–TechCrunch
+# 谷歌将推出跨语言搜索引擎；查询和结果的即时翻译
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/16/google-to-launch-cross-language-search-engine/>
 

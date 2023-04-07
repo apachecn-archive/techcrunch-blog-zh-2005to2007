@@ -1,4 +1,4 @@
-# HD-DVD 向前冲刺–TechCrunch
+# HD-DVD 向前冲刺
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/hd-dvd-sprints-ahead/>
 

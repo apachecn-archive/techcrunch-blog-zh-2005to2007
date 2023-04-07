@@ -1,4 +1,4 @@
-# 出售 stumble upon:5000 万美元 TechCrunch
+# 出售 stumble upon:5000 万美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/14/stumbleupon-may-be-for-sale-50m/>
 

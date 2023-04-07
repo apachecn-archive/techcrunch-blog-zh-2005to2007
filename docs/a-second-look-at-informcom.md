@@ -1,4 +1,4 @@
-# 重新审视 Inform.com——TechCrunch
+# 重新审视 Inform.com
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/24/a-second-look-at-informcom/>
 

@@ -1,4 +1,4 @@
-# TechCrunch20 大会现场现已上线–TechCrunch
+# TechCrunch20 大会现场现已上线
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/16/techcrunch20-conference-site-live/>
 

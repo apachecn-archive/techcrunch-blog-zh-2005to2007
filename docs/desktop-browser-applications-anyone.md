@@ -1,4 +1,4 @@
-# 桌面浏览器应用有人吗？TechCrunch
+# 桌面浏览器应用有人吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/28/desktop-browser-applications-anyone/>
 

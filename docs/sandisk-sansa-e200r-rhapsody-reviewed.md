@@ -1,4 +1,4 @@
-# SanDisk Sansa e200R 狂想曲评论| TechCrunch
+# SanDisk Sansa e200R 狂想曲评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/sandisk-sansa-e200r-rhapsody-reviewed/>
 

@@ -1,4 +1,4 @@
-# 戴森根 6:机器人吸盘 TechCrunch
+# 戴森根 6:机器人吸盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/dyson-root-6-robo-sucker/>
 

@@ -1,4 +1,4 @@
-# 时代的标志:MP3 门铃| TechCrunch
+# 时代的标志:MP3 门铃
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/the-sign-of-the-times-mp3-doorbells/>
 

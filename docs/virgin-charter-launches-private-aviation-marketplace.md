@@ -1,4 +1,4 @@
-# 维珍包机发布:私人航空市场 TechCrunch
+# 维珍包机发布:私人航空市场 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/virgin-charter-launches-private-aviation-marketplace/>
 

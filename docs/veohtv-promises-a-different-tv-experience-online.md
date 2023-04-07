@@ -1,4 +1,4 @@
-# VeohTV 承诺提供不同的在线电视体验——TechCrunch
+# VeohTV 承诺提供不同的在线电视体验
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/21/veohtv-promises-a-different-tv-experience-online/>
 

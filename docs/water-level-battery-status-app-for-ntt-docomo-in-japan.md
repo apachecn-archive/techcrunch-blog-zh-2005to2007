@@ -1,4 +1,4 @@
-# 日本 NTT DoCoMo 的水位电池状态应用程序——TechCrunch
+# 日本 NTT DoCoMo 的水位电池状态应用程序
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/22/water-level-battery-status-app-for-ntt-docomo-in-japan/>
 

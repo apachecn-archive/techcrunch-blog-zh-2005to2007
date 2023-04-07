@@ -1,4 +1,4 @@
-# 音乐公司期待 WiMax，利润| TechCrunch
+# 音乐公司期待 WiMax，利润
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/09/music-labels-looking-forward-to-wimax-profits/>
 

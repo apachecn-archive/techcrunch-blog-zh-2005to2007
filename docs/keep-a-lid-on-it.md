@@ -1,4 +1,4 @@
-# 保持沉默| TechCrunch
+# 保持沉默
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/keep-a-lid-on-it/>
 

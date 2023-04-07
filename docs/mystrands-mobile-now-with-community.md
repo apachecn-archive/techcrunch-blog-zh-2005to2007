@@ -1,4 +1,4 @@
-# MyStrands Mobile:现在有了社区 TechCrunch
+# MyStrands Mobile:现在有了社区 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/mystrands-mobile-now-with-community/>
 

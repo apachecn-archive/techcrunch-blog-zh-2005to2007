@@ -1,4 +1,4 @@
-# ProtectMyPhotos 推出非常简单的在线媒体存储——TechCrunch
+# ProtectMyPhotos 推出非常简单的在线媒体存储
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/13/protectmyphotos-launches-very-easy-online-media-storage/>
 

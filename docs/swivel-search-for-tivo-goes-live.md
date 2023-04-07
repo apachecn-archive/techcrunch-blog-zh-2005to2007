@@ -1,4 +1,4 @@
-# 旋转搜索 TiVo 上线| TechCrunch
+# 旋转搜索 TiVo 上线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/swivel-search-for-tivo-goes-live/>
 

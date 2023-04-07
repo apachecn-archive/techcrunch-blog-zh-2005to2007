@@ -1,4 +1,4 @@
-# 注册接收免费的无线安珀警报| TechCrunch
+# 注册接收免费的无线安珀警报
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/sign-up-to-receive-free-wireless-amber-alerts/>
 

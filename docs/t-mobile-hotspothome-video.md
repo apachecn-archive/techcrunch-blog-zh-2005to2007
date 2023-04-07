@@ -1,4 +1,4 @@
-# t-Mobile Hotspot @家庭视频| TechCrunch
+# t-Mobile Hotspot @家庭视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/t-mobile-hotspothome-video/>
 

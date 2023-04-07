@@ -1,4 +1,4 @@
-# I-play 全押–TechCrunch
+# I-play 全押
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/i-play-goes-all-in/>
 

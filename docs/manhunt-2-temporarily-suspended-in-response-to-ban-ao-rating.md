@@ -1,4 +1,4 @@
-# 《追捕 2》因禁令而“暂停”, AO 评级——TechCrunch
+# 《追捕 2》因禁令而“暂停”, AO 评级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/manhunt-2-temporarily-suspended-in-response-to-ban-ao-rating/>
 

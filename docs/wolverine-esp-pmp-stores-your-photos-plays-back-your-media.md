@@ -1,4 +1,4 @@
-# 金刚狼 ESP PMP 存储您的照片，播放您的媒体| TechCrunch
+# 金刚狼 ESP PMP 存储您的照片，播放您的媒体
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/wolverine-esp-pmp-stores-your-photos-plays-back-your-media/>
 

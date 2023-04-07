@@ -1,4 +1,4 @@
-# 面向 DAPs 的数字鼓槌–TechCrunch
+# 面向 DAPs 的数字鼓槌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/digital-drumsticks-for-daps/>
 

@@ -1,4 +1,4 @@
-# 谷歌回答起死回生？–TechCrunch
+# 谷歌回答起死回生？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/06/google-answers-to-rise-from-dead/>
 

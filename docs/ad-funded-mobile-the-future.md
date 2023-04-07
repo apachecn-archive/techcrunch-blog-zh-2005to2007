@@ -1,4 +1,4 @@
-# 广告资助的移动未来？TechCrunch
+# 广告资助的移动未来？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/ad-funded-mobile-the-future/>
 

@@ -1,4 +1,4 @@
-# 韩国的 LG 普拉达有 DMB 电视，欧洲没有——TechCrunch
+# 韩国的 LG 普拉达有 DMB 电视，欧洲没有
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/koreas-lg-prada-has-dmb-tv-europes-doesnt/>
 

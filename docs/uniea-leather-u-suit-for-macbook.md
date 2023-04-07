@@ -1,4 +1,4 @@
-# 适用于 MacBook | TechCrunch 的 UNIEA 皮革 U 型套装
+# 适用于 MacBook  的 UNIEA 皮革 U 型套装
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/uniea-leather-u-suit-for-macbook/>
 

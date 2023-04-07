@@ -1,4 +1,4 @@
-# C-SPAN 将推出用户视频网站 TechCrunch
+# C-SPAN 将推出用户视频网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/13/c-span-to-launch-a-user-video-site/>
 

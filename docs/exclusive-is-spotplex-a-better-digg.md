@@ -1,4 +1,4 @@
-# 独家:Spotplex 是不是更好的 Digg？–TechCrunch
+# 独家:Spotplex 是不是更好的 Digg？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/28/exclusive-is-spotplex-a-better-digg/>
 

@@ -1,4 +1,4 @@
-# 你最喜欢的脸书应用程序是什么？TechCrunch
+# 你最喜欢的脸书应用程序是什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/whats-your-favorite-facebook-app/>
 

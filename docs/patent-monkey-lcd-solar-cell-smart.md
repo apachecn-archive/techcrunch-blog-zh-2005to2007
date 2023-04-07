@@ -1,4 +1,4 @@
-# 专利猴:LCD +太阳能电池=智能——TechCrunch
+# 专利猴:LCD +太阳能电池=智能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/22/patent-monkey-lcd-solar-cell-smart/>
 

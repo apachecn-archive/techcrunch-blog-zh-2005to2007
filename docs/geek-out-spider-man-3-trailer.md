@@ -1,4 +1,4 @@
-# 极客出局:蜘蛛侠 3 预告片——TechCrunch
+# 极客出局:蜘蛛侠 3 预告片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/11/geek-out-spider-man-3-trailer/>
 

@@ -1,4 +1,4 @@
-# 蓝牙集团开发 TransSend 协议–将数据保存到移动设备| TechCrunch
+# 蓝牙集团开发 TransSend 协议–将数据保存到移动设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/bluetooth-group-develops-transsend-protocol-saves-data-to-mobile-devices/>
 

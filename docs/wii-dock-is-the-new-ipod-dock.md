@@ -1,4 +1,4 @@
-# Wii Dock 是新的 iPod Dock——TechCrunch
+# Wii Dock 是新的 iPod Dock
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/wii-dock-is-the-new-ipod-dock/>
 

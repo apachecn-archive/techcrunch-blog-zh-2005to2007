@@ -1,4 +1,4 @@
-# 抱歉，我们刚刚用完 XP-TechCrunch
+# 抱歉，我们刚刚用完 XP-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/sorry-were-fresh-out-of-xp/>
 

@@ -1,4 +1,4 @@
-# 半决赛| TechCrunch
+# 半决赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/crunchedgear-semi-finals/>
 

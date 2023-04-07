@@ -1,4 +1,4 @@
-# Palm 发布 Treo 750 音频警报更新| TechCrunch
+# Palm 发布 Treo 750 音频警报更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/21/palm-releases-treo-750-audio-alert-update/>
 

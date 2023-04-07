@@ -1,4 +1,4 @@
-# 英特尔的四核 CPU，现在功耗降低了 60 %| TechCrunch
+# 英特尔的四核 CPU，现在功耗降低了 60 %
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/intels-quad-core-cpus-now-with-60-percet-less-power-consumption/>
 

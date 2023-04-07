@@ -1,4 +1,4 @@
-# YouTube 收入:每年 1500 万美元，还是每月 1500 万美元？TechCrunch
+# YouTube 收入:每年 1500 万美元，还是每月 1500 万美元？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/06/youtube-revenues-15-million-per-year-or-per-month/>
 

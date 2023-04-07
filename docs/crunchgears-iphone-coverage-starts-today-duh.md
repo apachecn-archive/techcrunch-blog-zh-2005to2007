@@ -1,4 +1,4 @@
-# CrunchGear 的 iPhone 报道从今天开始(咄)——TechCrunch
+# CrunchGear 的 iPhone 报道从今天开始(咄)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/crunchgears-iphone-coverage-starts-today-duh/>
 

@@ -1,4 +1,4 @@
-# TurboTax 在纳税日失败:Bloops！–TechCrunch
+# TurboTax 在纳税日失败:Bloops！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/turbotax-fails-on-tax-day-bloops/>
 

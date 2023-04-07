@@ -1,4 +1,4 @@
-# Del.icio.us Widget 发布 TechCrunch
+# Del.icio.us Widget 发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/20/delicious-widget-released/>
 

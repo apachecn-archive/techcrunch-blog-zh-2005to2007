@@ -1,4 +1,4 @@
-# 新研究:排名前 50k 的博客在 2006 年的收入为 5 亿美元 TechCrunch
+# 新研究:排名前 50k 的博客在 2006 年的收入为 5 亿美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/31/new-study-says-top-50k-blogs-had-50-million-in-2006-revenue/>
 

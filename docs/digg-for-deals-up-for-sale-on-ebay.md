@@ -1,4 +1,4 @@
-# “Digg for Deals”在易贝出售——TechCrunch
+# “Digg for Deals”在易贝出售
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/05/digg-for-deals-up-for-sale-on-ebay/>
 

@@ -1,4 +1,4 @@
-# 华纳音乐把音乐视频放在 YouTube 上，而不是 Nastygram 本身——TechCrunch
+# 华纳音乐把音乐视频放在 YouTube 上，而不是 Nastygram 本身
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/18/warner-music-puts-music-videos-on-youtube-doesnt-nastygram-itself/>
 

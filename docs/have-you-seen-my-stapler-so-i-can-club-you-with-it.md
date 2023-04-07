@@ -1,4 +1,4 @@
-# 你看见我的订书机了吗(这样我就可以用它打你了)？–TechCrunch
+# 你看见我的订书机了吗(这样我就可以用它打你了)？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/have-you-seen-my-stapler-so-i-can-club-you-with-it/>
 

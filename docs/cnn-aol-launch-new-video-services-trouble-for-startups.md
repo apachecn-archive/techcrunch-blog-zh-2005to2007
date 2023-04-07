@@ -1,4 +1,4 @@
-# CNN，AOL 推出新的视频服务-创业公司的麻烦？TechCrunch
+# CNN，AOL 推出新的视频服务-创业公司的麻烦？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/31/cnn-aol-launch-new-video-services-trouble-for-startups/>
 

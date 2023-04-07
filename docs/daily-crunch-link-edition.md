@@ -1,4 +1,4 @@
-# 每日快讯:链接版 TechCrunch
+# 每日快讯:链接版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/daily-crunch-link-edition/>
 

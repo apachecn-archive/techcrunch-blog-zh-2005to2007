@@ -1,4 +1,4 @@
-# 衣服，亲爱的，衣服！–TechCrunch
+# 衣服，亲爱的，衣服！
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/04/trendmill-clothes-darling-clothes/>
 

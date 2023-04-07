@@ -1,4 +1,4 @@
-# 让自己倍增| TechCrunch
+# 让自己倍增
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/22/multiply-yourself/>
 

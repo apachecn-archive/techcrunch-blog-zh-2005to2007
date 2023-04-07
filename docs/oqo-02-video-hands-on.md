@@ -1,4 +1,4 @@
-# OQO 02 视频实践| TechCrunch
+# OQO 02 视频实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/oqo-02-video-hands-on/>
 

@@ -1,4 +1,4 @@
-# 即插即用 USB 转盘| TechCrunch
+# 即插即用 USB 转盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/06/plug-n-play-usb-turntable/>
 

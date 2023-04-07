@@ -1,4 +1,4 @@
-# Chapit 辅助机器人提醒你有多孤独——TechCrunch
+# Chapit 辅助机器人提醒你有多孤独
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/chapit-helper-robot-makes-reminds-you-of-how-lonely-you-are/>
 

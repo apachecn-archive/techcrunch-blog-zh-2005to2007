@@ -1,4 +1,4 @@
-# 感谢 TechCrunch 赞助商| TechCrunch
+# 感谢 TechCrunch 赞助商
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/19/thank-you-techcrunch-sponsors/>
 

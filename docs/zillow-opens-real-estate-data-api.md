@@ -1,4 +1,4 @@
-# Zillow 房地产数据来到你附近的网站| TechCrunch
+# Zillow 房地产数据来到你附近的网站
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/26/zillow-opens-real-estate-data-api/>
 

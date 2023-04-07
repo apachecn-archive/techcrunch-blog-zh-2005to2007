@@ -1,4 +1,4 @@
-# DailyMotion 来到我们身边，向用户付费——TechCrunch
+# DailyMotion 来到我们身边，向用户付费
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/10/dailymotion-comes-to-us-pays-users/>
 

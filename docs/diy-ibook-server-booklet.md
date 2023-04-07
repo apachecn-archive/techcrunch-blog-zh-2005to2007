@@ -1,4 +1,4 @@
-# DIY iBook 服务器手册| TechCrunch
+# DIY iBook 服务器手册
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/diy-ibook-server-booklet/>
 

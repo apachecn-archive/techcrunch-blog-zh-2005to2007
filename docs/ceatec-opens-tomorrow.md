@@ -1,4 +1,4 @@
-# Ceatec 明天开幕——TechCrunch
+# Ceatec 明天开幕
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/ceatec-opens-tomorrow/>
 

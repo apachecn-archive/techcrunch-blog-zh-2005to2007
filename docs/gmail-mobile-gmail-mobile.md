@@ -1,4 +1,4 @@
-# GMail 移动版:GMail，移动版| TechCrunch
+# GMail 移动版:GMail，移动版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/gmail-mobile-gmail-mobile/>
 

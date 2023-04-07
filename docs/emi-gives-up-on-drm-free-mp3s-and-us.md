@@ -1,4 +1,4 @@
-# 百代放弃无数字版权管理的 MP3 和美国 TechCrunch
+# 百代放弃无数字版权管理的 MP3 和美国 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/emi-gives-up-on-drm-free-mp3s-and-us/>
 

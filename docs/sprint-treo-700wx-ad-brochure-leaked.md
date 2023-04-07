@@ -1,4 +1,4 @@
-# Sprint Treo 700wx 广告手册泄露| TechCrunch
+# Sprint Treo 700wx 广告手册泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/sprint-treo-700wx-ad-brochure-leaked/>
 

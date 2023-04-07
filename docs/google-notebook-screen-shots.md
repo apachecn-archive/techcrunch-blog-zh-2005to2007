@@ -1,4 +1,4 @@
-# 谷歌笔记本截屏——TechCrunch
+# 谷歌笔记本截屏
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/11/google-notebook-screen-shots/>
 

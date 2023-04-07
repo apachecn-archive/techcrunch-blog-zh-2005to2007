@@ -1,4 +1,4 @@
-# 有. TV 域名？你可以加入我。TV–TechCrunch
+# 有. TV 域名？你可以加入我。TV
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/01/have-a-tv-domain-name-you-can-join-metv/>
 

@@ -1,4 +1,4 @@
-# 谷歌街景新增四个城市——TechCrunch
+# 谷歌街景新增四个城市
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/07/google-street-view-adds-four-cities/>
 

@@ -1,4 +1,4 @@
-# DIY 数码相框套装上市——TechCrunch
+# DIY 数码相框套装上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/18/diy-digital-photo-frame-kit-hits-the-market/>
 

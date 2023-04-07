@@ -1,4 +1,4 @@
-# 赛格威最终帮助执法部门——TechCrunch
+# 赛格威最终帮助执法部门
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/segway-finally-aids-law-enforcement/>
 

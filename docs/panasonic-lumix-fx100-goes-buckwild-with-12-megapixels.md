@@ -1,4 +1,4 @@
-# 松下 Lumix FX100 凭借 1200 万像素大放异彩| TechCrunch
+# 松下 Lumix FX100 凭借 1200 万像素大放异彩
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/panasonic-lumix-fx100-goes-buckwild-with-12-megapixels/>
 

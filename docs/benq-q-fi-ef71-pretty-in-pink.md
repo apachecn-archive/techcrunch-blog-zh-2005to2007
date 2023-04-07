@@ -1,4 +1,4 @@
-# 明基-fi EF71:红粉佳人| TechCrunch
+# 明基-fi EF71:红粉佳人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/benq-q-fi-ef71-pretty-in-pink/>
 

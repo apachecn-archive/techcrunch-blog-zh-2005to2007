@@ -1,4 +1,4 @@
-# 从 mywaves 嵌入这个视频播放器…现在！TechCrunch
+# 从 mywaves 嵌入这个视频播放器…现在！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/embed-this-video-player-from-mywavesnow/>
 

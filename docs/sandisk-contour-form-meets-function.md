@@ -1,4 +1,4 @@
-# 闪迪轮廓:形式符合功能？TechCrunch
+# 闪迪轮廓:形式符合功能？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/20/sandisk-contour-form-meets-function/>
 

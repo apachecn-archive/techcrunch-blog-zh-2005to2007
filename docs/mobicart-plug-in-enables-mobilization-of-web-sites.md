@@ -1,4 +1,4 @@
-# MobiCart 插件支持网站移动化——TechCrunch
+# MobiCart 插件支持网站移动化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/mobicart-plug-in-enables-mobilization-of-web-sites/>
 

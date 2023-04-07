@@ -1,4 +1,4 @@
-# 日本葡萄酒识别机器人——TechCrunch
+# 日本葡萄酒识别机器人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/japanese-wine-identifying-robot/>
 

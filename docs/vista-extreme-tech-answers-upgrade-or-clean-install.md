@@ -1,4 +1,4 @@
-# Vista:极限科技回答，升级还是全新安装？TechCrunch
+# Vista:极限科技回答，升级还是全新安装？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/vista-extreme-tech-answers-upgrade-or-clean-install/>
 

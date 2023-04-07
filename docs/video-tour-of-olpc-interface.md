@@ -1,4 +1,4 @@
-# OLPC 界面视频之旅| TechCrunch
+# OLPC 界面视频之旅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/video-tour-of-olpc-interface/>
 

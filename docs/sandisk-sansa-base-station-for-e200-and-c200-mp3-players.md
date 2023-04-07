@@ -1,4 +1,4 @@
-# 适用于 e200 和 c200 MP3 播放器的 SanDisk Sansa 基站| TechCrunch
+# 适用于 e200 和 c200 MP3 播放器的 SanDisk Sansa 基站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/05/sandisk-sansa-base-station-for-e200-and-c200-mp3-players/>
 

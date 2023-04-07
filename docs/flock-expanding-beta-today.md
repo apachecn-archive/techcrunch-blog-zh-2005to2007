@@ -1,4 +1,4 @@
-# Flock 今天扩展测试版 TechCrunch
+# Flock 今天扩展测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/05/flock-expanding-beta-today/>
 

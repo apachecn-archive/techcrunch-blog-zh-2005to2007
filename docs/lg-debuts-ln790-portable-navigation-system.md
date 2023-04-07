@@ -1,4 +1,4 @@
-# LG 推出 LN790 便携式导航系统| TechCrunch
+# LG 推出 LN790 便携式导航系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/lg-debuts-ln790-portable-navigation-system/>
 

@@ -1,4 +1,4 @@
-# 保护自己免受价格下跌的影响 TechCrunch
+# 保护自己免受价格下跌的影响 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/30/protect-yourself-from-price-drops/>
 

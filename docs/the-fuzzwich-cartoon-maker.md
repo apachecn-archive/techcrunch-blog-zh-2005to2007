@@ -1,4 +1,4 @@
-# Fuzzwich 卡通制作人——TechCrunch
+# Fuzzwich 卡通制作人
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/06/the-fuzzwich-cartoon-maker/>
 

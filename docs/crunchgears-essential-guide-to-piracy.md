@@ -1,4 +1,4 @@
-# CrunchGear 的盗版基本指南| TechCrunch
+# CrunchGear 的盗版基本指南
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/14/crunchgears-essential-guide-to-piracy/>
 

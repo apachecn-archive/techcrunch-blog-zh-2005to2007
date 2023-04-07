@@ -1,4 +1,4 @@
-# Sprint | TechCrunch 即将推出 Loopt 服务
+# Sprint  即将推出 Loopt 服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/loopt-service-coming-to-sprint/>
 

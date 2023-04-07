@@ -1,4 +1,4 @@
-# 哈德逊娱乐公司大爆——TechCrunch
+# 哈德逊娱乐公司大爆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/hudson-entertainment-makes-a-big-blast/>
 

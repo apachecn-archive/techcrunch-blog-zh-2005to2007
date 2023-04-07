@@ -1,4 +1,4 @@
-# 6G iPod 的未来| TechCrunch
+# 6G iPod 的未来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/the-future-of-the-6g-ipod/>
 

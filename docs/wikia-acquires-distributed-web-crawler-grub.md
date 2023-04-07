@@ -1,4 +1,4 @@
-# Wikia 收购分布式网络爬虫 Grub TechCrunch
+# Wikia 收购分布式网络爬虫 Grub 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/27/wikia-acquires-distributed-web-crawler-grub/>
 

@@ -1,4 +1,4 @@
-# 谷歌允许下载版权过期的书籍——TechCrunch
+# 谷歌允许下载版权过期的书籍
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/30/google-allows-downloads-of-out-of-copyright-books/>
 

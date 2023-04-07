@@ -1,4 +1,4 @@
-# iPhone 会是一款严肃的商务设备吗？–TechCrunch
+# iPhone 会是一款严肃的商务设备吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/12/will-the-iphone-be-a-serious-business-device/>
 

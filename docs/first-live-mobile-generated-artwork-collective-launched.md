@@ -1,4 +1,4 @@
-# 第一个现场移动生成的艺术作品集体发布——TechCrunch
+# 第一个现场移动生成的艺术作品集体发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/first-live-mobile-generated-artwork-collective-launched/>
 

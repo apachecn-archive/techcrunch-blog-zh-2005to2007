@@ -1,4 +1,4 @@
-# 神秘的维基百科:隶属于维基百科？–TechCrunch
+# 神秘的维基百科:隶属于维基百科？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/19/the-mysterious-wikiwix/>
 

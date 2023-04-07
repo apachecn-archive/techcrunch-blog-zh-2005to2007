@@ -1,4 +1,4 @@
-# 篝火头骨破碎机豆豆评论 TechCrunch
+# 篝火头骨破碎机豆豆评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/02/bonfire-skull-crusher-beanie-review/>
 

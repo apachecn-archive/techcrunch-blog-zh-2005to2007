@@ -1,4 +1,4 @@
-# Firefox 在美国的市场份额飙升至 16%——TechCrunch
+# Firefox 在美国的市场份额飙升至 16%
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/11/firefox-surgest-to-15-market-share-in-us/>
 

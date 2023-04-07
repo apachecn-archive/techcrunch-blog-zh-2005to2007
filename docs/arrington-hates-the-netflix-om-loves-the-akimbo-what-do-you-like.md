@@ -1,4 +1,4 @@
-# 阿林顿讨厌网飞，奥姆喜欢叉腰，你喜欢什么？TechCrunch
+# 阿林顿讨厌网飞，奥姆喜欢叉腰，你喜欢什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/arrington-hates-the-netflix-om-loves-the-akimbo-what-do-you-like/>
 

@@ -1,4 +1,4 @@
-# Sprint 价格降至 100 美元——TechCrunch
+# Sprint 价格降至 100 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/sprint-drops-upstages-price-to-100/>
 

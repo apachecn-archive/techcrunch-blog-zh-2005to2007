@@ -1,4 +1,4 @@
-# 风投们打开钱包寻找眼中钉、心灵糖果——TechCrunch
+# 风投们打开钱包寻找眼中钉、心灵糖果
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/25/vcs-open-wallets-for-eyespot-mind-candy>
 

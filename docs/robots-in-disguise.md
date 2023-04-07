@@ -1,4 +1,4 @@
-# 伪装的机器人！–TechCrunch
+# 伪装的机器人！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/robots-in-disguise/>
 

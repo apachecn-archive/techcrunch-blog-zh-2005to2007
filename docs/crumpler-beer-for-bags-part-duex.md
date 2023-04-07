@@ -1,4 +1,4 @@
-# Crumpler 啤酒包部分 Duex | TechCrunch
+# Crumpler 啤酒包部分 Duex 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/07/crumpler-beer-for-bags-part-duex/>
 

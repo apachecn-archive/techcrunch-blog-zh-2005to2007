@@ -1,4 +1,4 @@
-# 在 Sprint | TechCrunch 上了解 ABC 系列
+# 在 Sprint  上了解 ABC 系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/catch-up-on-abc-series-on-sprint-2/>
 

@@ -1,4 +1,4 @@
-# 微软点火明天加速——TechCrunch
+# 微软点火明天加速
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/03/microsoft-ignition-revs-up-tomorrow/>
 

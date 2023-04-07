@@ -1,4 +1,4 @@
-# 新的 Feedburner 统计数据和功能 TechCrunch
+# 新的 Feedburner 统计数据和功能 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/28/new-feedburner-stats-and-features/>
 

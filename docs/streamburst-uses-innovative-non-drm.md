@@ -1,4 +1,4 @@
-# Streamburst 提供创新的非 DRM TechCrunch
+# Streamburst 提供创新的非 DRM 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/streamburst-uses-innovative-non-drm/>
 

@@ -1,4 +1,4 @@
-# 这规则？不尽然——TechCrunch
+# 这规则？不尽然
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/this-rules-not-really/>
 

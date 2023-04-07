@@ -1,4 +1,4 @@
-# 微软办公室圆桌会议:解决昂贵的电话会议？–TechCrunch
+# 微软办公室圆桌会议:解决昂贵的电话会议？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/22/microsoft-office-roundtable-an-answer-to-costly-teleconferencing/>
 

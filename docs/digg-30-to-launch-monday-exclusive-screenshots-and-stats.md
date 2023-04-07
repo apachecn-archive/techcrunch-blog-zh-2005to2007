@@ -1,4 +1,4 @@
-# Digg 3.0 将于周一发布:独家截图和统计数据 TechCrunch
+# Digg 3.0 将于周一发布:独家截图和统计数据 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/22/digg-30-to-launch-monday-exclusive-screenshots-and-stats/>
 

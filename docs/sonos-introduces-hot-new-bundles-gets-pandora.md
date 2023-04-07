@@ -1,4 +1,4 @@
-# Sonos 推出热门新捆绑包，获得 Pandora | TechCrunch
+# Sonos 推出热门新捆绑包，获得 Pandora 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/sonos-introduces-hot-new-bundles-gets-pandora/>
 

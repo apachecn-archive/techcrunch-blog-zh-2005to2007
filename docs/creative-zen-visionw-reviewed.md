@@ -1,4 +1,4 @@
-# 创意禅境:W 评论| TechCrunch
+# 创意禅境:W 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/creative-zen-visionw-reviewed/>
 

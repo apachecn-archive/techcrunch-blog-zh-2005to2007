@@ -1,4 +1,4 @@
-# Hauppauge Ups 卫星电视录制功能| TechCrunch
+# Hauppauge Ups 卫星电视录制功能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/hauppauge-ups-satellite-tv-recording-capabilities/>
 

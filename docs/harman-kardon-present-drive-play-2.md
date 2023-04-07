@@ -1,4 +1,4 @@
-# Harman Kardon 展示 Drive+Play 2–TechCrunch
+# Harman Kardon 展示 Drive+Play 2
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/harman-kardon-present-drive-play-2/>
 

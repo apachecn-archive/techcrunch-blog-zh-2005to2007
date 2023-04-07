@@ -1,4 +1,4 @@
-# 大众和 Sirius 罢工交易| TechCrunch
+# 大众和 Sirius 罢工交易
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/volkswagen-and-sirius-strike-deal/>
 

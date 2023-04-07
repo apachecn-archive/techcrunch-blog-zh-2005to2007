@@ -1,4 +1,4 @@
-# Digg 移除顶级用户名单 TechCrunch
+# Digg 移除顶级用户名单 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/01/digg-removes-list-of-top-users/>
 

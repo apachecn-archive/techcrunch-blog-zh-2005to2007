@@ -1,4 +1,4 @@
-# Maxell 开发 200GB 蓝光光盘–TechCrunch
+# Maxell 开发 200GB 蓝光光盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/18/maxell-developing-200gb-blu-ray-disc/>
 

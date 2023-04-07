@@ -1,4 +1,4 @@
-# 美国电话电报公司在 160 个市场推出视频分享——TechCrunch
+# 美国电话电报公司在 160 个市场推出视频分享
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/att-launches-video-share-in-160-markets/>
 

@@ -1,4 +1,4 @@
-# MyMiniLife:你的嵌入式虚拟世界 TechCrunch
+# MyMiniLife:你的嵌入式虚拟世界 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/19/myminilife-your-embeddable-virtual-world/>
 

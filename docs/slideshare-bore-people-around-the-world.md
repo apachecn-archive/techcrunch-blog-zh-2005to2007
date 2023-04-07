@@ -1,4 +1,4 @@
-# SlideShare:让世界各地的人感到无聊 TechCrunch
+# SlideShare:让世界各地的人感到无聊 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/04/slideshare-bore-people-around-the-world/>
 

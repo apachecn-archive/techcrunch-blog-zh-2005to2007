@@ -1,4 +1,4 @@
-# 8 月资本押注视频蛋| TechCrunch
+# 8 月资本押注视频蛋
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/01/18/august-capital-bets-on-videoegg/>
 

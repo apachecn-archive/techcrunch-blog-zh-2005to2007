@@ -1,4 +1,4 @@
-# 先锋+蓝牙+ iPod Meetup 传闻| TechCrunch
+# 先锋+蓝牙+ iPod Meetup 传闻
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/25/pioneer-bluetooth-ipod-meetup-rumored/>
 

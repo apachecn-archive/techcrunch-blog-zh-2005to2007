@@ -1,4 +1,4 @@
-# AmpliChip 分析有助于开药| TechCrunch
+# AmpliChip 分析有助于开药
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/amplichip-assay-helps-prescribe-drugs/>
 

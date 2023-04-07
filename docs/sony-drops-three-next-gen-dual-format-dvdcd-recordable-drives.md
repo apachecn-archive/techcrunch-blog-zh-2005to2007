@@ -1,4 +1,4 @@
-# 索尼推出三款下一代双格式 DVD/CD 可录驱动器| TechCrunch
+# 索尼推出三款下一代双格式 DVD/CD 可录驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/sony-drops-three-next-gen-dual-format-dvdcd-recordable-drives/>
 

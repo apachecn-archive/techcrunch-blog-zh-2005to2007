@@ -1,4 +1,4 @@
-# ShopWiki 将花费 25，000 美元购买用户提交的视频——TechCrunch
+# ShopWiki 将花费 25，000 美元购买用户提交的视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/27/shopwiki-to-pay-users-for-product-review-videos/>
 

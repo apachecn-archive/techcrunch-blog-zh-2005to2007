@@ -1,4 +1,4 @@
-# 迪布拉希折叠三轮车:拍打它，翻转它，摩擦它，哦不！TechCrunch
+# 迪布拉希折叠三轮车:拍打它，翻转它，摩擦它，哦不！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/13/di-blasi-folding-trike-slap-it-up-flip-it-rub-it-down-oh-nooo/>
 

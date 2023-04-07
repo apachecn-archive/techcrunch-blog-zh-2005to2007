@@ -1,4 +1,4 @@
-# 蒙特利尔获得 WiMAX 网络| TechCrunch
+# 蒙特利尔获得 WiMAX 网络
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/15/montreal-getting-wimax-network/>
 

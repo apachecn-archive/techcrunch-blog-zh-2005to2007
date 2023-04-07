@@ -1,4 +1,4 @@
-# Finetune 推出阿波罗桌面播放器| TechCrunch
+# Finetune 推出阿波罗桌面播放器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/09/finetune-launches-apollo-desktop-player/>
 

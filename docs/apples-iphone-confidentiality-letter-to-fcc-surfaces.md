@@ -1,4 +1,4 @@
-# 苹果给 FCC Surfaces 的 iPhone 保密信——TechCrunch
+# 苹果给 FCC Surfaces 的 iPhone 保密信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/apples-iphone-confidentiality-letter-to-fcc-surfaces/>
 

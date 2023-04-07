@@ -1,4 +1,4 @@
-# WD 的 GreenPower 硬盘每年可为您节省 10 万美元| TechCrunch
+# WD 的 GreenPower 硬盘每年可为您节省 10 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/wds-greenpower-hard-drives-can-save-you-100000-annually/>
 

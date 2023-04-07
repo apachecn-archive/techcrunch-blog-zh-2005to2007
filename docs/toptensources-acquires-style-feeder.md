@@ -1,4 +1,4 @@
-# TopTenSources 收购 Style Feeder——TechCrunch
+# TopTenSources 收购 Style Feeder
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/27/toptensources-acquires-style-feeder/>
 

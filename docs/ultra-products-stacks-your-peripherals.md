@@ -1,4 +1,4 @@
-# Ultra Products 堆叠您的外围设备| TechCrunch
+# Ultra Products 堆叠您的外围设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/ultra-products-stacks-your-peripherals/>
 

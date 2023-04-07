@@ -1,4 +1,4 @@
-# 理光的新型工业级重型硬汉相机——TechCrunch
+# 理光的新型工业级重型硬汉相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/ricohs-new-industrial-strength-heavy-duty-tough-guy-camera/>
 

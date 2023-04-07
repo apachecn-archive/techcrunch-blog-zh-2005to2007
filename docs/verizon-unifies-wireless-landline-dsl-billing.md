@@ -1,4 +1,4 @@
-# 威瑞森统一无线、有线、DSL 计费–TechCrunch
+# 威瑞森统一无线、有线、DSL 计费
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/verizon-unifies-wireless-landline-dsl-billing/>
 

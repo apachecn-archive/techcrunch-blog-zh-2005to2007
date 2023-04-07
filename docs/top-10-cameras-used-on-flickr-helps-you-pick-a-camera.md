@@ -1,4 +1,4 @@
-# Flickr 上使用的十大相机帮您挑选相机| TechCrunch
+# Flickr 上使用的十大相机帮您挑选相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/top-10-cameras-used-on-flickr-helps-you-pick-a-camera/>
 

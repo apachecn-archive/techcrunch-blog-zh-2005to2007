@@ -1,4 +1,4 @@
-# 本田拥抱太阳能，听感恩而死，闻广藿香| TechCrunch
+# 本田拥抱太阳能，听感恩而死，闻广藿香
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/03/honda-embraces-solar-power-listens-to-grateful-dead-smells-of-patchouli/>
 

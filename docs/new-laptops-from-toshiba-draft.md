@@ -1,4 +1,4 @@
-# 东芝新推出的笔记本电脑——TechCrunch
+# 东芝新推出的笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/02/new-laptops-from-toshiba-draft/>
 

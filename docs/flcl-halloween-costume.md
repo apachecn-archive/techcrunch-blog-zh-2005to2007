@@ -1,4 +1,4 @@
-# FLCL 万圣节服装| TechCrunch
+# FLCL 万圣节服装
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/flcl-halloween-costume/>
 

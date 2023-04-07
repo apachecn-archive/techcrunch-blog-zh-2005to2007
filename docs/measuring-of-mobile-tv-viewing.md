@@ -1,4 +1,4 @@
-# 衡量移动电视观看| TechCrunch
+# 衡量移动电视观看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/measuring-of-mobile-tv-viewing/>
 

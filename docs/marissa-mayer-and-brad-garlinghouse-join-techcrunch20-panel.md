@@ -1,4 +1,4 @@
-# 玛丽莎·梅耶尔和布拉德·加林豪斯加入 TechCrunch20 小组——TechCrunch
+# 玛丽莎·梅耶尔和布拉德·加林豪斯加入 TechCrunch20 小组
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/16/marissa-mayer-and-brad-garlinghouse-join-techcrunch20-panel/>
 

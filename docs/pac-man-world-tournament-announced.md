@@ -1,4 +1,4 @@
-# 吃豆人世界锦标赛宣布——TechCrunch
+# 吃豆人世界锦标赛宣布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/pac-man-world-tournament-announced/>
 

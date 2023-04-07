@@ -1,4 +1,4 @@
-# 国际的，豪华的花花公子？使用 Flyclear–TechCrunch
+# 国际的，豪华的花花公子？使用 Flyclear
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/19/international-jet-setting-playboy-use-flyclear/>
 

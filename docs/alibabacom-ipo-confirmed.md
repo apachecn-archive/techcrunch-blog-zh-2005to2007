@@ -1,4 +1,4 @@
-# Alibaba.com IPO 已获确认 TechCrunch
+# Alibaba.com IPO 已获确认 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/alibabacom-ipo-confirmed>
 

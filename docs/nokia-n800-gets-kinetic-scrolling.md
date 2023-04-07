@@ -1,4 +1,4 @@
-# 诺基亚 N800 获得动态滚动| TechCrunch
+# 诺基亚 N800 获得动态滚动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/nokia-n800-gets-kinetic-scrolling/>
 

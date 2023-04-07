@@ -1,4 +1,4 @@
-# ZenZui 是各种热点——TechCrunch
+# ZenZui 是各种热点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/zenzui-is-all-sorts-of-hotness/>
 

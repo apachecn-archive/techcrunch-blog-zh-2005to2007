@@ -1,4 +1,4 @@
-# 诺基亚 5200 和 5300 图片–TechCrunch
+# 诺基亚 5200 和 5300 图片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/nokia-5200-and-5300-images/>
 

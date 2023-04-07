@@ -1,4 +1,4 @@
-# 配备 WiFi 的 SD 卡| TechCrunch
+# 配备 WiFi 的 SD 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/wifi-equipped-sd-cards/>
 

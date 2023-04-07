@@ -1,4 +1,4 @@
-# Timex Ironman iControl 手表:无线控制您的 iPod TechCrunch
+# Timex Ironman iControl 手表:无线控制您的 iPod 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/02/timex-ironman-icontrol-watch-wirelessly-control-your-ipod/>
 

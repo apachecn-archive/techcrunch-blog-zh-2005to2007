@@ -1,4 +1,4 @@
-# 苹果公司的代表告诉他们可以把 iPhone 的价格降低 100 美元？TechCrunch
+# 苹果公司的代表告诉他们可以把 iPhone 的价格降低 100 美元？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/13/apple-reps-told-they-can-knock-100-off-the-iphones-price/>
 

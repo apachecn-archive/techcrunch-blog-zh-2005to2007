@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear:读者队伍| TechCrunch
+# 10 天的 CrunchGear:读者队伍
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/10-days-of-crunchgear-the-cavalcade-of-readers/>
 

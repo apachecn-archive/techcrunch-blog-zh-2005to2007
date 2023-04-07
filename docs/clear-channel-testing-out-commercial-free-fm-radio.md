@@ -1,4 +1,4 @@
-# 清晰频道测试免费商业调频广播| TechCrunch
+# 清晰频道测试免费商业调频广播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/clear-channel-testing-out-commercial-free-fm-radio/>
 

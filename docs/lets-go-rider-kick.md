@@ -1,4 +1,4 @@
-# 我们走吧！骑手踢腿！TechCrunch
+# 我们走吧！骑手踢腿！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/29/lets-go-rider-kick/>
 

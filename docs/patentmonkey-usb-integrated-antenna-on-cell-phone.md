@@ -1,4 +1,4 @@
-# PatentMonkey:手机上的 USB 集成天线——TechCrunch
+# PatentMonkey:手机上的 USB 集成天线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/patentmonkey-usb-integrated-antenna-on-cell-phone/>
 

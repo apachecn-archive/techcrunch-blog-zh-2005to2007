@@ -1,4 +1,4 @@
-# 三星 Q1 超 UMPC:嗯。好的。TechCrunch
+# 三星 Q1 超 UMPC:嗯。好的。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/samsung-q1-ultra-umpc-huh-ok/>
 

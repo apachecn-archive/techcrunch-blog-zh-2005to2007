@@ -1,4 +1,4 @@
-# SEP 筹集 1.6 亿英镑，帮助苏格兰科技巡回赛。–TechCrunch
+# SEP 筹集 1.6 亿英镑，帮助苏格兰科技巡回赛。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/sep-raises-%c2%a3160m-and-helps-with-the-scottish-tech-tour/>
 

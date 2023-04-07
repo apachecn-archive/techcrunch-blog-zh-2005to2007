@@ -1,4 +1,4 @@
-# 兄弟打印机让您创建 RFID 标签| TechCrunch
+# 兄弟打印机让您创建 RFID 标签
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/brother-printer-lets-you-create-rfid-tags/>
 

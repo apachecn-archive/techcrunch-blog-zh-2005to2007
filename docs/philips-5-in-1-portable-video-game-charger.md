@@ -1,4 +1,4 @@
-# 飞利浦 5 合 1 便携式视频游戏充电器–TechCrunch
+# 飞利浦 5 合 1 便携式视频游戏充电器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/philips-5-in-1-portable-video-game-charger/>
 

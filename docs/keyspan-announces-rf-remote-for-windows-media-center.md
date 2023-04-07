@@ -1,4 +1,4 @@
-# Keyspan 宣布推出用于 Windows Media Center | TechCrunch 的射频遥控器
+# Keyspan 宣布推出用于 Windows Media Center  的射频遥控器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/keyspan-announces-rf-remote-for-windows-media-center/>
 

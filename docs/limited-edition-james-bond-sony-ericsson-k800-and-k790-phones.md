@@ -1,4 +1,4 @@
-# 限量版詹姆斯·邦德索尼爱立信 k800 和 k790 手机–TechCrunch
+# 限量版詹姆斯·邦德索尼爱立信 k800 和 k790 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/limited-edition-james-bond-sony-ericsson-k800-and-k790-phones/>
 

@@ -1,4 +1,4 @@
-# Popfly:微软和雅虎关系更密切的迹象？TechCrunch
+# Popfly:微软和雅虎关系更密切的迹象？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/25/popfly-sign-of-a-closer-microsoft-yahoo-relationship/>
 

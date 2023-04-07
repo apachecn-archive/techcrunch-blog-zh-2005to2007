@@ -1,4 +1,4 @@
-# LG 飞利浦制造超薄液晶显示器| TechCrunch
+# LG 飞利浦制造超薄液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/lg-philips-creates-ultra-thin-lcd/>
 

@@ -1,4 +1,4 @@
-# Helio Ocean 现已上市——TechCrunch
+# Helio Ocean 现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/helio-ocean-now-available/>
 

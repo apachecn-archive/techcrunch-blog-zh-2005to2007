@@ -1,4 +1,4 @@
-# Linspire 加入微软除红帽集团以外的任何一家公司 TechCrunch
+# Linspire 加入微软除红帽集团以外的任何一家公司 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/14/linspire-joins-microsofts-any-one-but-red-hat-group/>
 

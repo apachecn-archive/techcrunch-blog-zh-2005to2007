@@ -1,4 +1,4 @@
-# 诺基亚将提供免费手机地图服务——TechCrunch
+# 诺基亚将提供免费手机地图服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/nokia-to-offer-free-mobile-map-service/>
 

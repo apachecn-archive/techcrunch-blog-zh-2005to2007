@@ -1,4 +1,4 @@
-# 微软推出 PlayReady DRM–TechCrunch
+# 微软推出 PlayReady DRM
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/13/microsoft-introduces-playready-drm/>
 

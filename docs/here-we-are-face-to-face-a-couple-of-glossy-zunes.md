@@ -1,4 +1,4 @@
-# 这就是我们，面对面，两个光滑的 zune——TechCrunch
+# 这就是我们，面对面，两个光滑的 zune
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/here-we-are-face-to-face-a-couple-of-glossy-zunes/>
 

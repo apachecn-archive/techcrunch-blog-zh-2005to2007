@@ -1,4 +1,4 @@
-# 东芝发布了几款笔记本电脑，其中一款配备了 HD DVD 硬盘——TechCrunch
+# 东芝发布了几款笔记本电脑，其中一款配备了 HD DVD 硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/toshiba-releases-several-laptops-one-of-which-has-hd-dvd-drive/>
 

@@ -1,4 +1,4 @@
-# Alexa 表示，YouTube 现在比谷歌更大。Alexa 毫无用处——TechCrunch
+# Alexa 表示，YouTube 现在比谷歌更大。Alexa 毫无用处
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/08/13/alexa-says-youtube-is-now-bigger-than-google-theyre-wrong/>
 

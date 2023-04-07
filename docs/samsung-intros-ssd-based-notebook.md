@@ -1,4 +1,4 @@
-# 三星推出基于固态硬盘的笔记本电脑——TechCrunch
+# 三星推出基于固态硬盘的笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/samsung-intros-ssd-based-notebook/>
 

@@ -1,4 +1,4 @@
-# T-Mobile 推出新款三星手机——TechCrunch
+# T-Mobile 推出新款三星手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/t-mobile-launches-new-samsung-phones/>
 

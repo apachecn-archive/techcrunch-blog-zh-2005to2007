@@ -1,4 +1,4 @@
-# 找到 1 个 GPS 追踪器——TechCrunch
+# 找到 1 个 GPS 追踪器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/locate-1-gps-tracker/>
 

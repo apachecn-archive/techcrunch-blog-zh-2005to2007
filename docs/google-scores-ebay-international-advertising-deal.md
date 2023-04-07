@@ -1,4 +1,4 @@
-# 谷歌拿下易贝国际广告交易 TechCrunch
+# 谷歌拿下易贝国际广告交易 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/28/google-scores-ebay-international-advertising-deal/>
 

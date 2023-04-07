@@ -1,4 +1,4 @@
-# Zune 文件传输在行动——TechCrunch
+# Zune 文件传输在行动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/zune-file-transfer-in-action/>
 

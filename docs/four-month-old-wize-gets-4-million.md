@@ -1,4 +1,4 @@
-# 四个月大的 Wize 获得 400 万美元——TechCrunch
+# 四个月大的 Wize 获得 400 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/21/four-month-old-wize-gets-4-million/>
 

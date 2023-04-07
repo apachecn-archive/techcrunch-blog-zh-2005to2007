@@ -1,4 +1,4 @@
-# YouTube 收购传闻——TechCrunch
+# YouTube 收购传闻
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/18/youtube-is-probably-being-acquired/>
 

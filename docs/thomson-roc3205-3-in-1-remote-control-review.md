@@ -1,4 +1,4 @@
-# Thomson ROC3205 三合一遥控器评测| TechCrunch
+# Thomson ROC3205 三合一遥控器评测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/thomson-roc3205-3-in-1-remote-control-review/>
 

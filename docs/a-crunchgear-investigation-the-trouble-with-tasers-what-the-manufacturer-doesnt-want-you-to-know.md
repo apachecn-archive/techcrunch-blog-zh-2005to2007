@@ -1,4 +1,4 @@
-# 一项 CrunchGear 调查:泰瑟枪的麻烦——制造商不想让你知道的——TechCrunch
+# 一项 CrunchGear 调查:泰瑟枪的麻烦——制造商不想让你知道的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/a-crunchgear-investigation-the-trouble-with-tasers-what-the-manufacturer-doesnt-want-you-to-know/>
 

@@ -1,4 +1,4 @@
-# 安龙 MP4 视频手表 TechCrunch
+# 安龙 MP4 视频手表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/anlong-mp4-video-watch/>
 

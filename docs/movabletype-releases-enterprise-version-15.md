@@ -1,4 +1,4 @@
-# MovableType 发布企业版 1.5–TechCrunch
+# MovableType 发布企业版 1.5
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/movabletype-releases-enterprise-version-15/>
 

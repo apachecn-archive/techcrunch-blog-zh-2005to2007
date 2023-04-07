@@ -1,4 +1,4 @@
-# 免费电话:如果可以免费获得，为什么要付费？TechCrunch
+# 免费电话:如果可以免费获得，为什么要付费？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/free-phone-calls-why-pay-for-something-if-you-can-get-it-for-free/>
 

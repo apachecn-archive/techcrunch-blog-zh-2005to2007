@@ -1,4 +1,4 @@
-# 苹果收费 5 美元进 Apple Store？(事实上，不是这样的。这是个笑话。)–TechCrunch
+# 苹果收费 5 美元进 Apple Store？(事实上，不是这样的。这是个笑话。)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/apple-charges-5-to-enter-apple-store-actually-no-it-doesnt-its-a-joke/>
 

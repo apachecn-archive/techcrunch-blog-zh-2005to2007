@@ -1,4 +1,4 @@
-# 美国电话电报公司添加无限消息捆绑包，最终| TechCrunch
+# 美国电话电报公司添加无限消息捆绑包，最终
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/att-adds-unlimted-messaging-bundles-finally/>
 

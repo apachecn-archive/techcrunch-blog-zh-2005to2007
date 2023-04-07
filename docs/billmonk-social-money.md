@@ -1,4 +1,4 @@
-# BillMonk -社交资金 TechCrunch
+# BillMonk -社交资金 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/20/billmonk-social-money/>
 

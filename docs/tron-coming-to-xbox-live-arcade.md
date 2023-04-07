@@ -1,4 +1,4 @@
-# 创来到 Xbox Live 街机| TechCrunch
+# 创来到 Xbox Live 街机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/tron-coming-to-xbox-live-arcade/>
 

@@ -1,4 +1,4 @@
-# Techbargains.com 帮你找到 Wii，PS3 | TechCrunch
+# Techbargains.com 帮你找到 Wii，PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/06/techbarginscom-helps-find-your-wii-ps3/>
 

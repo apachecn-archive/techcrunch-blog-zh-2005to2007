@@ -1,4 +1,4 @@
-# 采取最佳行动——TechCrunch
+# 采取最佳行动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/make-your-best-move/>
 

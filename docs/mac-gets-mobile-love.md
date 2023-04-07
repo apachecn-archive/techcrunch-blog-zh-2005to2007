@@ -1,4 +1,4 @@
-# Mac 爱上手机| TechCrunch
+# Mac 爱上手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/mac-gets-mobile-love/>
 

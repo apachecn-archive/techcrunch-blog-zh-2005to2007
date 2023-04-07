@@ -1,4 +1,4 @@
-# 夏普的 EM-One 性感到让人心痛——TechCrunch
+# 夏普的 EM-One 性感到让人心痛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/sharps-em-one-is-so-sexy-it-hurts/>
 

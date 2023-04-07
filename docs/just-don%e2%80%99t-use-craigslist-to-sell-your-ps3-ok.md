@@ -1,4 +1,4 @@
-# 只是不要用 Craigslist 卖你的 PS3，好吗？–TechCrunch
+# 只是不要用 Craigslist 卖你的 PS3，好吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/just-don%e2%80%99t-use-craigslist-to-sell-your-ps3-ok/>
 

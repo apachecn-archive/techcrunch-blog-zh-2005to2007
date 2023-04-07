@@ -1,4 +1,4 @@
-# 苹果提供免费个人购物服务 TechCrunch
+# 苹果提供免费个人购物服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/apple-offering-free-personal-shopping-service/>
 

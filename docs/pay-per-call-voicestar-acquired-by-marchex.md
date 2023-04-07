@@ -1,4 +1,4 @@
-# Marchex 收购按通话付费公司 voice star–TechCrunch
+# Marchex 收购按通话付费公司 voice star
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/pay-per-call-voicestar-acquired-by-marchex/>
 

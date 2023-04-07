@@ -1,4 +1,4 @@
-# Benchmark 投资 Pageflakes: Ajax 桌面大战升温——TechCrunch
+# Benchmark 投资 Pageflakes: Ajax 桌面大战升温
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/30/benchmark-invests-in-pageflakes-ajax-desktop-war-heats-up/>
 

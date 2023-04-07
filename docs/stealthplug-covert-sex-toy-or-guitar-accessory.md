@@ -1,4 +1,4 @@
-# StealthPlug:隐蔽性玩具还是吉他配件？–TechCrunch
+# StealthPlug:隐蔽性玩具还是吉他配件？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/27/stealthplug-covert-sex-toy-or-guitar-accessory/>
 

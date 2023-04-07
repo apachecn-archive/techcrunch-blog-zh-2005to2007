@@ -1,4 +1,4 @@
-# SixApart 进军商业领域| TechCrunch
+# SixApart 进军商业领域
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/07/sixapart-moves-into-business-space/>
 

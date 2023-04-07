@@ -1,4 +1,4 @@
-# 富士推出三款数码相机——TechCrunch
+# 富士推出三款数码相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/fujifilm-drops-three-digicams/>
 

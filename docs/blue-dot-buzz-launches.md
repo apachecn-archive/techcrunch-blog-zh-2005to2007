@@ -1,4 +1,4 @@
-# 蓝点 Buzz 发布| TechCrunch
+# 蓝点 Buzz 发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/22/blue-dot-buzz-launches/>
 

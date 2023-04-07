@@ -1,4 +1,4 @@
-# 高通虎视眈眈，我不这么认为——TechCrunch
+# 高通虎视眈眈，我不这么认为
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/qualcomm-eyeing-ampd-i-dont-think-so/>
 

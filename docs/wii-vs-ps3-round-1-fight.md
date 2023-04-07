@@ -1,4 +1,4 @@
-# Wii 大战 PS3:第一轮！战斗！TechCrunch
+# Wii 大战 PS3:第一轮！战斗！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/wii-vs-ps3-round-1-fight/>
 

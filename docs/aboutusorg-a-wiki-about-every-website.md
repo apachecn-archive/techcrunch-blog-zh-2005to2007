@@ -1,4 +1,4 @@
-# 关于我们:一个关于每个网站的 Wiki TechCrunch
+# 关于我们:一个关于每个网站的 Wiki 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/14/aboutusorg-a-wiki-about-every-website/>
 

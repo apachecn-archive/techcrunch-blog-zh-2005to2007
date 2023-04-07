@@ -1,4 +1,4 @@
-# AskMeNow 维基百科移动搜索 TechCrunch
+# AskMeNow 维基百科移动搜索 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/01/askmenow-mobile-search-for-wikipedia/>
 

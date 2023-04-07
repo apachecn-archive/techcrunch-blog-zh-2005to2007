@@ -1,4 +1,4 @@
-# Grouper 瞄准街角商店:还记得那次 6500 万美元的视频收购吗？–TechCrunch
+# Grouper 瞄准街角商店:还记得那次 6500 万美元的视频收购吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/16/grouper-targets-the-corner-store-remember-that-65m-video-acquisition/>
 

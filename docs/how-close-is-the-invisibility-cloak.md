@@ -1,4 +1,4 @@
-# 隐身衣有多近？TechCrunch
+# 隐身衣有多近？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/19/how-close-is-the-invisibility-cloak/>
 

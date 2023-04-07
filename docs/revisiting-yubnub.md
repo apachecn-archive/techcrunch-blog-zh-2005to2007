@@ -1,4 +1,4 @@
-# 重访 YubNub–TechCrunch
+# 重访 YubNub
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/15/revisiting-yubnub/>
 

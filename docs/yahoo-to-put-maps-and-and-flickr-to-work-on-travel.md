@@ -1,4 +1,4 @@
-# 雅虎！将地图和 Flickr 应用于旅行| TechCrunch
+# 雅虎！将地图和 Flickr 应用于旅行
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/10/yahoo-to-put-maps-and-and-flickr-to-work-on-travel/>
 

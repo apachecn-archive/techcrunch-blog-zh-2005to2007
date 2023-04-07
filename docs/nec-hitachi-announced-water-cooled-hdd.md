@@ -1,4 +1,4 @@
-# NEC、日立发布水冷硬盘| TechCrunch
+# NEC、日立发布水冷硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/nec-hitachi-announced-water-cooled-hdd/>
 

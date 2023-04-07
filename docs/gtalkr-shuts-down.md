@@ -1,4 +1,4 @@
-# Gtalkr 关闭——可能被谷歌收购——TechCrunch
+# Gtalkr 关闭——可能被谷歌收购
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/14/gtalkr-shuts-down/>
 

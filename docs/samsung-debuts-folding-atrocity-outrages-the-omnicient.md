@@ -1,4 +1,4 @@
-# 三星首次亮相折叠暴行，激怒了无所不知的| TechCrunch
+# 三星首次亮相折叠暴行，激怒了无所不知的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/samsung-debuts-folding-atrocity-outrages-the-omnicient/>
 

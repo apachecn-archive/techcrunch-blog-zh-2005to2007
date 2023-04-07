@@ -1,4 +1,4 @@
-# TGS 06:索尼推出 PSP GPS | TechCrunch
+# TGS 06:索尼推出 PSP GPS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/tgs-06-sony-debuts-psp-gps/>
 

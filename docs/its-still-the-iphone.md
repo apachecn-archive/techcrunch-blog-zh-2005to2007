@@ -1,4 +1,4 @@
-# 还是 iPhone？！–TechCrunch
+# 还是 iPhone？！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/its-still-the-iphone/>
 

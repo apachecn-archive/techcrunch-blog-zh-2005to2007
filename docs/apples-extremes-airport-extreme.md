@@ -1,4 +1,4 @@
-# 苹果的极限 Airport Extreme–TechCrunch
+# 苹果的极限 Airport Extreme
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/apples-extremes-airport-extreme/>
 

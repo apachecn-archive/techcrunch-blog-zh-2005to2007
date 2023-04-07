@@ -1,4 +1,4 @@
-# Shuttle 介绍 SDXi，提问 My 1337ness | TechCrunch
+# Shuttle 介绍 SDXi，提问 My 1337ness 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/shuttle-introduces-sdxi-questions-my-1337ness/>
 

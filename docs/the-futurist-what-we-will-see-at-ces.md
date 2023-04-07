@@ -1,4 +1,4 @@
-# 未来学家:我们将在 CES 上看到什么——TechCrunch
+# 未来学家:我们将在 CES 上看到什么
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/the-futurist-what-we-will-see-at-ces/>
 

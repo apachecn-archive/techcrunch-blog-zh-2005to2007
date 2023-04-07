@@ -1,4 +1,4 @@
-# 超级马里奥末日 64 | TechCrunch
+# 超级马里奥末日 64 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/super-mario-doom-64/>
 

@@ -1,4 +1,4 @@
-# 西雅图也有 iPhones 吗？TechCrunch
+# 西雅图也有 iPhones 吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/they-have-iphones-in-seattle-too/>
 

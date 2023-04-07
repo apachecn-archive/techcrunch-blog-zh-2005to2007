@@ -1,4 +1,4 @@
-# 为阿波罗计划做准备——TechCrunch
+# 为阿波罗计划做准备
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/16/preparing-for-apollo>
 

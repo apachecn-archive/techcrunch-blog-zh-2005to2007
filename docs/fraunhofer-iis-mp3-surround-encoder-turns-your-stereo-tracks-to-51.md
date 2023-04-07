@@ -1,4 +1,4 @@
-# Fraunhofer IIS MP3 环绕声编码器将您的立体声音轨转换为 5.1 | TechCrunch
+# Fraunhofer IIS MP3 环绕声编码器将您的立体声音轨转换为 5.1 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/18/fraunhofer-iis-mp3-surround-encoder-turns-your-stereo-tracks-to-51/>
 

@@ -1,4 +1,4 @@
-# 反 Jotspot/谷歌帖子在压力下被删除 TechCrunch
+# 反 Jotspot/谷歌帖子在压力下被删除 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/30/anti-jotspotgoogle-post-deleted-under-pressure/>
 

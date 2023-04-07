@@ -1,4 +1,4 @@
-# 六度计算:休斯顿，问题| TechCrunch
+# 六度计算:休斯顿，问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/six-degrees-of-crunchation-houston-problem/>
 

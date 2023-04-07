@@ -1,4 +1,4 @@
-# 快讯:约翰·c·德沃夏克对某些事情持否定态度——TechCrunch
+# 快讯:约翰·c·德沃夏克对某些事情持否定态度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/newsflash-john-c-dvorak-negative-about-something/>
 

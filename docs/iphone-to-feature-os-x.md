@@ -1,4 +1,4 @@
-# iPhone 将以 OS X 为特色？TechCrunch
+# iPhone 将以 OS X 为特色？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/iphone-to-feature-os-x/>
 

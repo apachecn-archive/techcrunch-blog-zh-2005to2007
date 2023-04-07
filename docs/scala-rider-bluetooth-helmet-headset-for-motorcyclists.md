@@ -1,4 +1,4 @@
-# 面向摩托车手的 Scala Rider 蓝牙头盔耳机——TechCrunch
+# 面向摩托车手的 Scala Rider 蓝牙头盔耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/scala-rider-bluetooth-helmet-headset-for-motorcyclists/>
 

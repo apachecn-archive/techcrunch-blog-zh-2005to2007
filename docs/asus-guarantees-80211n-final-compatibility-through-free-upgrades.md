@@ -1,4 +1,4 @@
-# 华硕通过免费升级保证 802.11n 最终兼容性| TechCrunch
+# 华硕通过免费升级保证 802.11n 最终兼容性
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/asus-guarantees-80211n-final-compatibility-through-free-upgrades/>
 

@@ -1,4 +1,4 @@
-# 爱国者视听腕表——TechCrunch
+# 爱国者视听腕表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/17/aigo-av-wristwatch/>
 

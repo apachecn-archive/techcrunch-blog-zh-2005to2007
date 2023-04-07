@@ -1,4 +1,4 @@
-# 声波 MP3 播放器拆箱| TechCrunch
+# 声波 MP3 播放器拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/soundwave-mp3-player-unboxed/>
 

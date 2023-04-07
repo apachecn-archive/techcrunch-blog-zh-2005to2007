@@ -1,4 +1,4 @@
-# 谷歌开始以每年 10 美元的价格出售域名 TechCrunch
+# 谷歌开始以每年 10 美元的价格出售域名 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/15/google-starts-selling-domains-for-10-per-year/>
 

@@ -1,4 +1,4 @@
-# 思科致力于视频点播——TechCrunch
+# 思科致力于视频点播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/cisco-working-on-video-on-demand/>
 

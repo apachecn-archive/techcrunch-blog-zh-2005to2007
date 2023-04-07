@@ -1,4 +1,4 @@
-# 苹果宣布无限 iTunes 订阅服务 TechCrunch
+# 苹果宣布无限 iTunes 订阅服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/01/apple-announces-unlimited-itunes-subscription-service/>
 

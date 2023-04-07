@@ -1,4 +1,4 @@
-# 第一家 TechStars 公司发布:mad kast–TechCrunch
+# 第一家 TechStars 公司发布:mad kast
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/03/madkast-easily-sydicate-your-blog-in-one-line-of-code/>
 

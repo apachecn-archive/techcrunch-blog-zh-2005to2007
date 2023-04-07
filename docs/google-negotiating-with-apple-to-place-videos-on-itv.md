@@ -1,4 +1,4 @@
-# 谷歌与苹果协商在 iTV | TechCrunch 上放视频
+# 谷歌与苹果协商在 iTV  上放视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/google-negotiating-with-apple-to-place-videos-on-itv/>
 

@@ -1,4 +1,4 @@
-# 弗林:移动网络电话太棒了——TechCrunch
+# 弗林:移动网络电话太棒了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/fring-mobile-voip-is-fringin-awesome/>
 

@@ -1,4 +1,4 @@
-# Playstation 3 降价，增加 HDMI | TechCrunch
+# Playstation 3 降价，增加 HDMI 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/playstation-3-drops-price-adds-hdmi/>
 

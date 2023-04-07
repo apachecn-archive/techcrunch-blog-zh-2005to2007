@@ -1,4 +1,4 @@
-# 黑莓成形| TechCrunch
+# 黑莓成形
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/blackberry-shapes-up/>
 

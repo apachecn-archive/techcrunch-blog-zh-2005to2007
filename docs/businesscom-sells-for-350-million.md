@@ -1,4 +1,4 @@
-# Business.com 售价 3.5 亿美元 TechCrunch
+# Business.com 售价 3.5 亿美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/businesscom-sells-for-350-million/>
 

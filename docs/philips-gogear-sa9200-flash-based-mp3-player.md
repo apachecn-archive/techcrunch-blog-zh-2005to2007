@@ -1,4 +1,4 @@
-# 飞利浦 GoGear SA9200 基于闪存的 MP3 播放器–TechCrunch
+# 飞利浦 GoGear SA9200 基于闪存的 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/philips-gogear-sa9200-flash-based-mp3-player/>
 

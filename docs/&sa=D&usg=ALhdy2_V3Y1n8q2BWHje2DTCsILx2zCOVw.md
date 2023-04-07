@@ -1,4 +1,4 @@
-# 找不到页面| TechCrunch
+# 找不到页面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/05/100-million-valuation-for-geni/&sa=D&usg=ALhdy2_V3Y1n8q2BWHje2DTCsILx2zCOVw/>
 

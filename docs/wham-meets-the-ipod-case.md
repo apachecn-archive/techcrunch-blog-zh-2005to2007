@@ -1,4 +1,4 @@
-# 砰！符合 iPod 案例——TechCrunch
+# 砰！符合 iPod 案例
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/wham-meets-the-ipod-case/>
 

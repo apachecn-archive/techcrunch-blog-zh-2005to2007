@@ -1,4 +1,4 @@
-# T-Mobile 用 Wing 替代 MDA(可能)–TechCrunch
+# T-Mobile 用 Wing 替代 MDA(可能)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/t-mobile-replacing-mda-with-wing-possibly/>
 

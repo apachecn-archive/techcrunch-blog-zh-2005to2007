@@ -1,4 +1,4 @@
-# 黑暗卵石中的冷光| TechCrunch
+# 黑暗卵石中的冷光
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/cool-glow-in-the-dark-pebbles/>
 

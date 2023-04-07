@@ -1,4 +1,4 @@
-# 需要速度？窥视索尼-爱立信 PC300 卡–TechCrunch
+# 需要速度？窥视索尼-爱立信 PC300 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/need-speed-peep-the-sony-ericsson-pc300-card/>
 

@@ -1,4 +1,4 @@
-# Belkin iPhone 配件现已上市| TechCrunch
+# Belkin iPhone 配件现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/belkin-iphone-accessories-now-available/>
 

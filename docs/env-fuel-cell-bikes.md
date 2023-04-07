@@ -1,4 +1,4 @@
-# 环保燃料电池自行车| TechCrunch
+# 环保燃料电池自行车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/env-fuel-cell-bikes/>
 

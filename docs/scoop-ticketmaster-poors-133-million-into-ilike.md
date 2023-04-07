@@ -1,4 +1,4 @@
-# 独家新闻:TicketMaster 向 iLike | TechCrunch 注入 1330 万美元
+# 独家新闻:TicketMaster 向 iLike  注入 1330 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/19/scoop-ticketmaster-poors-133-million-into-ilike/>
 

@@ -1,4 +1,4 @@
-# 非马克杯不会烫伤你的手指——TechCrunch
+# 非马克杯不会烫伤你的手指
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/the-non-mug-mug-wont-burn-your-fingers/>
 

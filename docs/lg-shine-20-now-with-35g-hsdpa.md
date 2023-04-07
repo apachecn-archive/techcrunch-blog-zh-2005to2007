@@ -1,4 +1,4 @@
-# LG Shine 2.0，现在有 3.5G HSDPA | TechCrunch
+# LG Shine 2.0，现在有 3.5G HSDPA 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/lg-shine-20-now-with-35g-hsdpa/>
 

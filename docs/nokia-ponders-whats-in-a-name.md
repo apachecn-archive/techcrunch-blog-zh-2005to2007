@@ -1,4 +1,4 @@
-# 诺基亚思考名字中的含义——TechCrunch
+# 诺基亚思考名字中的含义
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/nokia-ponders-whats-in-a-name/>
 

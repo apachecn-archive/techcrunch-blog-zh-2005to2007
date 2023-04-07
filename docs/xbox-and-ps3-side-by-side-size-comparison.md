@@ -1,4 +1,4 @@
-# Xbox 和 PS3 并排尺寸对比——TechCrunch
+# Xbox 和 PS3 并排尺寸对比
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/xbox-and-ps3-side-by-side-size-comparison/>
 

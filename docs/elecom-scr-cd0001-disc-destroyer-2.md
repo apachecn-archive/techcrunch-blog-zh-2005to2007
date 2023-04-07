@@ -1,4 +1,4 @@
-# Elecom SCR-CD0001 光盘销毁器 TechCrunch
+# Elecom SCR-CD0001 光盘销毁器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/elecom-scr-cd0001-disc-destroyer-2/>
 

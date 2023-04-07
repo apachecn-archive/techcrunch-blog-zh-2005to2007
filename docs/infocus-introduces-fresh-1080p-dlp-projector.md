@@ -1,4 +1,4 @@
-# 富可视推出全新 1080p DLP 投影仪 TechCrunch
+# 富可视推出全新 1080p DLP 投影仪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/infocus-introduces-fresh-1080p-dlp-projector/>
 

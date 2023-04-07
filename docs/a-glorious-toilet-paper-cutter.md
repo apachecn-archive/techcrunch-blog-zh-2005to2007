@@ -1,4 +1,4 @@
-# 一款出色的卫生纸切割机| TechCrunch
+# 一款出色的卫生纸切割机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/23/a-glorious-toilet-paper-cutter/>
 

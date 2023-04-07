@@ -1,4 +1,4 @@
-# 新的奥林巴斯超薄相机是 Hott-TechCrunch
+# 新的奥林巴斯超薄相机是 Hott-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/new-olympus-slim-camera-is-hott/>
 

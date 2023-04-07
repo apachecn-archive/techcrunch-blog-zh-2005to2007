@@ -1,4 +1,4 @@
-# 为 BART 提供移动数据软件的生物钥匙——TechCrunch
+# 为 BART 提供移动数据软件的生物钥匙
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/bio-key-to-provide-bart-with-mobile-data-software/>
 

@@ -1,4 +1,4 @@
-# Bebo 创建了一个新的“发现”主页。TechCrunch
+# Bebo 创建了一个新的“发现”主页。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/28/bebo-creates-a-new-discovery-homepage/>
 

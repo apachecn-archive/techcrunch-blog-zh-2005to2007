@@ -1,4 +1,4 @@
-# 游戏开始回家| TechCrunch
+# 游戏开始回家
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/game-on-comes-home/>
 

@@ -1,4 +1,4 @@
-# LG Fusic II:我们现在有它的照片——TechCrunch
+# LG Fusic II:我们现在有它的照片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/lg-fusic-ii-we-have-a-picture-of-it-now/>
 

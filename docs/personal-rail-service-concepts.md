@@ -1,4 +1,4 @@
-# 个人铁路服务概念| TechCrunch
+# 个人铁路服务概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/personal-rail-service-concepts/>
 

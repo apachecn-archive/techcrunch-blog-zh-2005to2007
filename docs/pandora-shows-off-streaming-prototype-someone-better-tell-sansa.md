@@ -1,4 +1,4 @@
-# 潘多拉展示流媒体原型，最好有人告诉珊莎！–TechCrunch
+# 潘多拉展示流媒体原型，最好有人告诉珊莎！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/pandora-shows-off-streaming-prototype-someone-better-tell-sansa/>
 

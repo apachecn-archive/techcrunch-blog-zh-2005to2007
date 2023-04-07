@@ -1,4 +1,4 @@
-# 富士通转盘 PC:没有麦克风？–TechCrunch
+# 富士通转盘 PC:没有麦克风？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/fujitsu-turntable-pc-no-microphone/>
 

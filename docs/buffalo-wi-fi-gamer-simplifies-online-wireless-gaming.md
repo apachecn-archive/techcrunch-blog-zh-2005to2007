@@ -1,4 +1,4 @@
-# Buffalo Wi-Fi Gamer 简化了在线无线游戏| TechCrunch
+# Buffalo Wi-Fi Gamer 简化了在线无线游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/buffalo-wi-fi-gamer-simplifies-online-wireless-gaming/>
 

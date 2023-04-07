@@ -1,4 +1,4 @@
-# Saitek 的高科技复活节篮子——TechCrunch
+# Saitek 的高科技复活节篮子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/saitek%e2%80%99s-high-tech-easter-basket/>
 

@@ -1,4 +1,4 @@
-# 乐高太阳能直升机教孩子们节约能源——TechCrunch
+# 乐高太阳能直升机教孩子们节约能源
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/11/legos-solar-powered-helicopter-teaches-kids-about-energy-conservation/>
 

@@ -1,4 +1,4 @@
-# Visto 力推中国移动电子邮件——TechCrunch
+# Visto 力推中国移动电子邮件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/visto-pushes-chinese-mobile-e-mail/>
 

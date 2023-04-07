@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:柯达 5300 多功能一体打印机 TechCrunch
+# 10 天的 CrunchGear 赠品:柯达 5300 多功能一体打印机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/10/10-days-of-crunchgear-giveaway-kodak-5300-all-in-one-printer/>
 

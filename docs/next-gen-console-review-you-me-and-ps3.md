@@ -1,4 +1,4 @@
-# 下一代游戏机评论:你、我和 PS3 | TechCrunch
+# 下一代游戏机评论:你、我和 PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/next-gen-console-review-you-me-and-ps3/>
 

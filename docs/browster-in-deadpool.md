@@ -1,4 +1,4 @@
-# 死亡之池中的浏览器——TechCrunch
+# 死亡之池中的浏览器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/07/browster-in-deadpool/>
 

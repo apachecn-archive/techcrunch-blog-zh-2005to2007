@@ -1,4 +1,4 @@
-# 关注妓女的新声音——TechCrunch
+# 关注妓女的新声音
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/the-new-loudness-for-attention-whores/>
 

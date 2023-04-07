@@ -1,4 +1,4 @@
-# 雅虎调整财务 TechCrunch
+# 雅虎调整财务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/17/yahoo-tweaks-finance/>
 

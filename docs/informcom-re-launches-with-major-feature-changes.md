@@ -1,4 +1,4 @@
-# Inform.com 重新推出，主要功能有所改变——TechCrunch
+# Inform.com 重新推出，主要功能有所改变
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/05/informcom-re-launches-with-major-feature-changes/>
 

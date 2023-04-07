@@ -1,4 +1,4 @@
-# Feeds 2.0:有点像 search fox TechCrunch
+# Feeds 2.0:有点像 search fox 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/17/feeds-20-a-little-like-searchfox/>
 

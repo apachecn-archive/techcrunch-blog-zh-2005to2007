@@ -1,4 +1,4 @@
-# 老虎 R-Zone:有史以来最差的游戏机，还是只是被误解了？–TechCrunch
+# 老虎 R-Zone:有史以来最差的游戏机，还是只是被误解了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/tiger-r-zone-worst-console-ever-or-just-misunderstood/>
 

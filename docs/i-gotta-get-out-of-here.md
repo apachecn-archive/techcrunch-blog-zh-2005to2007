@@ -1,4 +1,4 @@
-# “我要离开这里”——TechCrunch
+# “我要离开这里”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/i-gotta-get-out-of-here/>
 

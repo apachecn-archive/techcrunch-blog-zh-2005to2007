@@ -1,4 +1,4 @@
-# CallWave Mobile Widget:我的新好友——TechCrunch
+# CallWave Mobile Widget:我的新好友
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/callwave-mobile-widget-my-new-best-friend/>
 

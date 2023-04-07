@@ -1,4 +1,4 @@
-# 波音 747 模拟器–TechCrunch
+# 波音 747 模拟器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/boeing-747-simulator/>
 

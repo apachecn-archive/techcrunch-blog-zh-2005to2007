@@ -1,4 +1,4 @@
-# NBC 质疑谷歌- YouTube 战略 TechCrunch
+# NBC 质疑谷歌- YouTube 战略 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/08/nbc-piles-on-google-youtube-strategy-in-question/>
 

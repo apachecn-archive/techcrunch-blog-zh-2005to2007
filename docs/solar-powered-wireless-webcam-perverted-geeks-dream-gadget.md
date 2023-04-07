@@ -1,4 +1,4 @@
-# 太阳能无线网络摄像头:变态极客的梦想小工具| TechCrunch
+# 太阳能无线网络摄像头:变态极客的梦想小工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/03/solar-powered-wireless-webcam-perverted-geeks-dream-gadget/>
 

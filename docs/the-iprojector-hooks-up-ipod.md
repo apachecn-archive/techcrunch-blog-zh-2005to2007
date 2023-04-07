@@ -1,4 +1,4 @@
-# iProjector 连接 iPod——TechCrunch
+# iProjector 连接 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/the-iprojector-hooks-up-ipod/>
 

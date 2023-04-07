@@ -1,4 +1,4 @@
-# 惠普交火细节浮出水面:功能丰富| TechCrunch
+# 惠普交火细节浮出水面:功能丰富
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/30/hp-crossfire-details-emerge-packed-with-features/>
 

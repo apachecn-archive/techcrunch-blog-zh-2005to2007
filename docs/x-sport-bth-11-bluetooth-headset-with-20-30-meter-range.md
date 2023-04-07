@@ -1,4 +1,4 @@
-# X-Sport BTH-11 蓝牙耳机，覆盖范围为 20-30 米–TechCrunch
+# X-Sport BTH-11 蓝牙耳机，覆盖范围为 20-30 米
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/x-sport-bth-11-bluetooth-headset-with-20-30-meter-range/>
 

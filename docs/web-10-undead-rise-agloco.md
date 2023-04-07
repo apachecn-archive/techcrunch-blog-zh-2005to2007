@@ -1,4 +1,4 @@
-# Web 1.0 不死崛起:ag loco TechCrunch
+# Web 1.0 不死崛起:ag loco 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/20/web-10-undead-rise-agloco>
 

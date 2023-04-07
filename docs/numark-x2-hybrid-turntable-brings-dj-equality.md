@@ -1,4 +1,4 @@
-# Numark x2 混合转盘带来 DJ 平等| TechCrunch
+# Numark x2 混合转盘带来 DJ 平等
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/numark-x2-hybrid-turntable-brings-dj-equality/>
 

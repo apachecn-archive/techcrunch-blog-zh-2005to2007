@@ -1,4 +1,4 @@
-# Aniboom 为动画片筹集了 450 万美元 TechCrunch
+# Aniboom 为动画片筹集了 450 万美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/14/aniboom-raises-45-million-for-cartoons/>
 

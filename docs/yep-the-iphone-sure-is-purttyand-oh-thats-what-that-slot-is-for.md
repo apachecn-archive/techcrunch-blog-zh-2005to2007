@@ -1,4 +1,4 @@
-# 是的，iPhone 确实很脏……哦，这就是那个插槽的作用！TechCrunch
+# 是的，iPhone 确实很脏……哦，这就是那个插槽的作用！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/yep-the-iphone-sure-is-purttyand-oh-thats-what-that-slot-is-for/>
 

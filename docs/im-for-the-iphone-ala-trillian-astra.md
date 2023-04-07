@@ -1,4 +1,4 @@
-# iPhone Ala Trillian Astra 的即时消息——TechCrunch
+# iPhone Ala Trillian Astra 的即时消息
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/08/im-for-the-iphone-ala-trillian-astra/>
 

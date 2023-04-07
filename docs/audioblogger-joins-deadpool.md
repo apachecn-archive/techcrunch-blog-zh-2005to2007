@@ -1,4 +1,4 @@
-# Audioblogger 加入 dead pool TechCrunch
+# Audioblogger 加入 dead pool 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/04/audioblogger-joins-deadpool/>
 

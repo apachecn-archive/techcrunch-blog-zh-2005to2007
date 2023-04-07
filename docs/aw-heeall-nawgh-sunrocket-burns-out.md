@@ -1,4 +1,4 @@
-# 太阳火箭燃尽了？TechCrunch
+# 太阳火箭燃尽了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/aw-heeall-nawgh-sunrocket-burns-out/>
 

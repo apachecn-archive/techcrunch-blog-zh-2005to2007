@@ -1,4 +1,4 @@
-# SingShot 进入在线卡拉 ok 领域 TechCrunch
+# SingShot 进入在线卡拉 ok 领域 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/30/singshot-enters-online-karaoke-space/>
 

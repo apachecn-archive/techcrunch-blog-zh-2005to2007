@@ -1,4 +1,4 @@
-# 酒鬼们欢呼吧！你电饭煲里的酒精！–TechCrunch
+# 酒鬼们欢呼吧！你电饭煲里的酒精！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/winos-rejoice-alcohol-from-your-rice-cooker/>
 

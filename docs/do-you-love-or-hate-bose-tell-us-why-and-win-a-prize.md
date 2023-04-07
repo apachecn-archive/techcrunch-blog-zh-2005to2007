@@ -1,4 +1,4 @@
-# 你是爱还是恨 Bose？告诉我们为什么，赢取大奖！–TechCrunch
+# 你是爱还是恨 Bose？告诉我们为什么，赢取大奖！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/03/do-you-love-or-hate-bose-tell-us-why-and-win-a-prize/>
 

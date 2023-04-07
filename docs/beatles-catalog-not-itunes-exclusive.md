@@ -1,4 +1,4 @@
-# 披头士的目录不是 iTunes 独有的——TechCrunch
+# 披头士的目录不是 iTunes 独有的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/beatles-catalog-not-itunes-exclusive/>
 

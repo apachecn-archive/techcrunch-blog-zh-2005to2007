@@ -1,4 +1,4 @@
-# FCC | TechCrunch 上的新 TomTom 设备
+# FCC  上的新 TomTom 设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/new-tomtom-device-at-fcc/>
 

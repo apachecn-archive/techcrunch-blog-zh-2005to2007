@@ -1,4 +1,4 @@
-# 迷失 iPod 游戏——TechCrunch
+# 迷失 iPod 游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/lost-the-ipod-game/>
 

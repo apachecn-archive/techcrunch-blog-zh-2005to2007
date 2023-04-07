@@ -1,4 +1,4 @@
-# 第一眼:微软 XBox 360 HD DVD 播放器——TechCrunch
+# 第一眼:微软 XBox 360 HD DVD 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/09/first-look-microsoft-xbox-360-hd-dvd-player/>
 

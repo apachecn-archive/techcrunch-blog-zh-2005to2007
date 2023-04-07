@@ -1,4 +1,4 @@
-# 富豪影院发放急停器——TechCrunch
+# 富豪影院发放急停器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/regal-cinema-hands-out-jerk-stoppers/>
 

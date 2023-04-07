@@ -1,4 +1,4 @@
-# 由手表零件制成的摩托车——TechCrunch
+# 由手表零件制成的摩托车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/11/motorcycles-made-from-watch-parts/>
 

@@ -1,4 +1,4 @@
-# 新 Mac 广告:取消还是允许？TechCrunch
+# 新 Mac 广告:取消还是允许？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/new-mac-ad-cancel-or-allow/>
 

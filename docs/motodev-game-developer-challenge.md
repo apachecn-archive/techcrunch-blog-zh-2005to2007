@@ -1,4 +1,4 @@
-# MOTODEV 游戏开发者挑战赛| TechCrunch
+# MOTODEV 游戏开发者挑战赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/motodev-game-developer-challenge/>
 

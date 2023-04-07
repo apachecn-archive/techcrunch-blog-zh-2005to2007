@@ -1,4 +1,4 @@
-# 10 克相机的梦想| TechCrunch
+# 10 克相机的梦想
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/the-dream-of-a-10-gram-camera/>
 

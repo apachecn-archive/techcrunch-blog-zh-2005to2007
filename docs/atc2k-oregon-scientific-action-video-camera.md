@@ -1,4 +1,4 @@
-# ATC2K:俄勒冈科学行动摄像机——TechCrunch
+# ATC2K:俄勒冈科学行动摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/atc2k-oregon-scientific-action-video-camera/>
 

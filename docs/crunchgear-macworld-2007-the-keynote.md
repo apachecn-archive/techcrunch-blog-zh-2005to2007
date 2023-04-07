@@ -1,4 +1,4 @@
-# 2007 年 MacWorld 大会:主题演讲——TechCrunch
+# 2007 年 MacWorld 大会:主题演讲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/09/crunchgear-macworld-2007-the-keynote/>
 

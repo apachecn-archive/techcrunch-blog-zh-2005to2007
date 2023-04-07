@@ -1,4 +1,4 @@
-# 为博客欢呼三声——TechCrunch
+# 为博客欢呼三声
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/20/three-cheers-for-bloglines/>
 

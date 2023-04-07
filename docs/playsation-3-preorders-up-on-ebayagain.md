@@ -1,4 +1,4 @@
-# PlayStation 3 在 Ebay 上预订…再次| TechCrunch
+# PlayStation 3 在 Ebay 上预订…再次
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/18/playsation-3-preorders-up-on-ebayagain/>
 

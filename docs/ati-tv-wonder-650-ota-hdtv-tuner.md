@@ -1,4 +1,4 @@
-# ATI 电视奇迹 650 OTA 高清电视调谐器| TechCrunch
+# ATI 电视奇迹 650 OTA 高清电视调谐器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/ati-tv-wonder-650-ota-hdtv-tuner/>
 

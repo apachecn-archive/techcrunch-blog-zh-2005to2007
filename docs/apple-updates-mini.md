@@ -1,4 +1,4 @@
-# 苹果更新迷你| TechCrunch
+# 苹果更新迷你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/01/apple-updates-mini/>
 

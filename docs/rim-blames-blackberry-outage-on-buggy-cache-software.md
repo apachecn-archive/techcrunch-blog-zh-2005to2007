@@ -1,4 +1,4 @@
-# RIM 将黑莓停机归咎于错误的缓存软件——TechCrunch
+# RIM 将黑莓停机归咎于错误的缓存软件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/rim-blames-blackberry-outage-on-buggy-cache-software/>
 

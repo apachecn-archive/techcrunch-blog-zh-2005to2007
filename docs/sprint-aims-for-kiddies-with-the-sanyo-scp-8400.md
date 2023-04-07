@@ -1,4 +1,4 @@
-# Sprint 用三洋 SCP-8400 | TechCrunch 瞄准儿童
+# Sprint 用三洋 SCP-8400  瞄准儿童
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/12/sprint-aims-for-kiddies-with-the-sanyo-scp-8400/>
 

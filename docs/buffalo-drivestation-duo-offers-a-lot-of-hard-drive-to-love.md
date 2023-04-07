@@ -1,4 +1,4 @@
-# Buffalo DriveStation Duo 提供了许多令人喜爱的硬盘——TechCrunch
+# Buffalo DriveStation Duo 提供了许多令人喜爱的硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/buffalo-drivestation-duo-offers-a-lot-of-hard-drive-to-love/>
 

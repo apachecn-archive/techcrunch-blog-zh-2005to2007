@@ -1,4 +1,4 @@
-# Helio 正式推出北美最薄的翻盖手机| TechCrunch
+# Helio 正式推出北美最薄的翻盖手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/helio-officializes-the-fin-thinnest-flip-in-north-america/>
 

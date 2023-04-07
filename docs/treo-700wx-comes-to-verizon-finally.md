@@ -1,4 +1,4 @@
-# Treo 700wx 来到威瑞森，终于| TechCrunch
+# Treo 700wx 来到威瑞森，终于
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/treo-700wx-comes-to-verizon-finally/>
 

@@ -1,4 +1,4 @@
-# 竞技游戏走向好莱坞——TechCrunch
+# 竞技游戏走向好莱坞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/21/competitive-gaming-goes-hollywood/>
 

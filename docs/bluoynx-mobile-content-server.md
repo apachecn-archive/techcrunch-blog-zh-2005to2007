@@ -1,4 +1,4 @@
-# BluOynx 移动内容服务器| TechCrunch
+# BluOynx 移动内容服务器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/bluoynx-mobile-content-server/>
 

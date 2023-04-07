@@ -1,4 +1,4 @@
-# 你的 iPhone 需要配件吗？Boxwave 为您提供保障！TechCrunch
+# 你的 iPhone 需要配件吗？Boxwave 为您提供保障！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/need-accessories-for-your-iphone-boxwave-has-you-covered/>
 

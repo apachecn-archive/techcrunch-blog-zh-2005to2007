@@ -1,4 +1,4 @@
-# Sprint 推出两款低端手机，Monsieurs M510 和 M300 | TechCrunch
+# Sprint 推出两款低端手机，Monsieurs M510 和 M300 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/sprint-launches-two-low-end-phones-monsieurs-m510-and-m300/>
 

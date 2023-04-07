@@ -1,4 +1,4 @@
-# 三星 E210 看起来很漂亮| TechCrunch
+# 三星 E210 看起来很漂亮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/samsung-e210-looks-pretty/>
 

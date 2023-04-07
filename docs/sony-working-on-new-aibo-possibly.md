@@ -1,4 +1,4 @@
-# 索尼可能正在开发新 AIBO——TechCrunch
+# 索尼可能正在开发新 AIBO
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/sony-working-on-new-aibo-possibly/>
 

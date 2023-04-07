@@ -1,4 +1,4 @@
-# 三星推出 Symbian OS 智能手机| TechCrunch
+# 三星推出 Symbian OS 智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/25/samsung-launches-symbian-os-smartphone/>
 

@@ -1,4 +1,4 @@
-# Garmin Nuvi 660 亮相——TechCrunch
+# Garmin Nuvi 660 亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/garmin-nuvi-660-shows-face/>
 

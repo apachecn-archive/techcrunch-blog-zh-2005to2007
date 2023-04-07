@@ -1,4 +1,4 @@
-# 苹果 iPhone 支持第三方应用程序——TechCrunch
+# 苹果 iPhone 支持第三方应用程序
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/apples-iphone-to-support-3rd-party-apps-after-all/>
 

@@ -1,4 +1,4 @@
-# 亚马逊推出 Unbox 电影下载服务——TechCrunch
+# 亚马逊推出 Unbox 电影下载服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/amazons-unbox-movie-download-service-launched/>
 

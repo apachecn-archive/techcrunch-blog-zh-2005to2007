@@ -1,4 +1,4 @@
-# 三星的 4G 比 WiMAX 快| TechCrunch
+# 三星的 4G 比 WiMAX 快
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/samsungs-4g-is-faster-than-wimax/>
 

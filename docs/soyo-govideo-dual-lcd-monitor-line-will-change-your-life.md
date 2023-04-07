@@ -1,4 +1,4 @@
-# SOYO GoVideo 双液晶显示器系列将改变您的生活| TechCrunch
+# SOYO GoVideo 双液晶显示器系列将改变您的生活
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/09/soyo-govideo-dual-lcd-monitor-line-will-change-your-life/>
 

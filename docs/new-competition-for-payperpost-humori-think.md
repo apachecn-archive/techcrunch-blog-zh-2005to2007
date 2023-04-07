@@ -1,4 +1,4 @@
-# PayPerPost 的新竞争(幽默)(我想)——TechCrunch
+# PayPerPost 的新竞争(幽默)(我想)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/27/new-competition-for-payperpost-humori-think/>
 

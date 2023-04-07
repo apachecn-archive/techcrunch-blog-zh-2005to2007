@@ -1,4 +1,4 @@
-# Wikia 宣布免费 Wiki 托管 TechCrunch
+# Wikia 宣布免费 Wiki 托管 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/11/wikia-announces-free-wiki-hosting/>
 

@@ -1,4 +1,4 @@
-# Mustek 的双屏便携式 DVD 播放器| TechCrunch
+# Mustek 的双屏便携式 DVD 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/musteks-dual-screen-portable-dvd-player/>
 

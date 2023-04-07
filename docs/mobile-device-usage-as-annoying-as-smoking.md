@@ -1,4 +1,4 @@
-# 移动设备使用像吸烟一样令人讨厌？TechCrunch
+# 移动设备使用像吸烟一样令人讨厌？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/mobile-device-usage-as-annoying-as-smoking/>
 

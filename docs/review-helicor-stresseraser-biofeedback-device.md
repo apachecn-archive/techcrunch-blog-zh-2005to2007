@@ -1,4 +1,4 @@
-# Helicor StressEraser 激光生物反馈设备评论——TechCrunch
+# Helicor StressEraser 激光生物反馈设备评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/13/review-helicor-stresseraser-biofeedback-device/>
 

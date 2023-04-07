@@ -1,4 +1,4 @@
-# PSP Extra Analog Stick Mod–TechCrunch
+# PSP Extra Analog Stick Mod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/psp-extra-analog-stick-mod/>
 

@@ -1,4 +1,4 @@
-# 完全未经证实的谷歌/YouTube 谣言 TechCrunch
+# 完全未经证实的谷歌/YouTube 谣言 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/06/completely-unsubstantiated-googleyoutube-rumor/>
 

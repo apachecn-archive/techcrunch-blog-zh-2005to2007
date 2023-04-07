@@ -1,4 +1,4 @@
-# 新相机镜头捕捉每个角落| TechCrunch
+# 新相机镜头捕捉每个角落
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/new-camera-lenses-capture-every-nook-and-cranny/>
 

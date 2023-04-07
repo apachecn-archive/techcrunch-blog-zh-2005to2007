@@ -1,4 +1,4 @@
-# 笔记本电脑恐怖故事条目#4:摇滚和 Crunch | TechCrunch
+# 笔记本电脑恐怖故事条目#4:摇滚和 Crunch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/laptop-horror-stories-entry-4-rock-and-crunch/>
 

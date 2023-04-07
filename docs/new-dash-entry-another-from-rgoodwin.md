@@ -1,4 +1,4 @@
-# 新的 Dash 条目:来自 rGoodwin 的另一个条目——TechCrunch
+# 新的 Dash 条目:来自 rGoodwin 的另一个条目
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/19/new-dash-entry-another-from-rgoodwin/>
 

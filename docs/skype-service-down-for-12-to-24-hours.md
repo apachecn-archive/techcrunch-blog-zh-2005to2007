@@ -1,4 +1,4 @@
-# Skype 服务中断 12 至 24 小时——TechCrunch
+# Skype 服务中断 12 至 24 小时
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/16/skype-service-down-for-12-to-24-hours/>
 

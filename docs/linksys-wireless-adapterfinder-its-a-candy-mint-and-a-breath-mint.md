@@ -1,4 +1,4 @@
-# Linksys 无线适配器/查找器:它是一颗薄荷糖和一颗薄荷糖| TechCrunch
+# Linksys 无线适配器/查找器:它是一颗薄荷糖和一颗薄荷糖
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/22/linksys-wireless-adapterfinder-its-a-candy-mint-and-a-breath-mint/>
 

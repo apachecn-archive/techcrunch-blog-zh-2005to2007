@@ -1,4 +1,4 @@
-# ExpoTV 获得 600 万美元——TechCrunch
+# ExpoTV 获得 600 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/19/expotv-announces-6-million-series-a>
 

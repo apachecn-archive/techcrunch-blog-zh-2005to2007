@@ -1,4 +1,4 @@
-# 谷歌图书与中国出版商合作 TechCrunch
+# 谷歌图书与中国出版商合作 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/05/google-books-partners-with-chinese-publishers/>
 

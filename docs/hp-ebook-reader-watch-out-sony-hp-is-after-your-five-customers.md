@@ -1,4 +1,4 @@
-# 惠普电子书阅读器:当心，索尼，惠普正在追逐你的五个客户！TechCrunch
+# 惠普电子书阅读器:当心，索尼，惠普正在追逐你的五个客户！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/hp-ebook-reader-watch-out-sony-hp-is-after-your-five-customers/>
 

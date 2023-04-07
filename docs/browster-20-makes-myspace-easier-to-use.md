@@ -1,4 +1,4 @@
-# Browster 2.0 让 MySpace 更容易使用——TechCrunch
+# Browster 2.0 让 MySpace 更容易使用
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/14/browster-20-makes-myspace-easier-to-use/>
 

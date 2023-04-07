@@ -1,4 +1,4 @@
-# PS3 玩游戏的时候发出很恐怖很难听的噪音？TechCrunch
+# PS3 玩游戏的时候发出很恐怖很难听的噪音？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/ps3-makes-horrible-awful-noise-when-playing-games/>
 

@@ -1,4 +1,4 @@
-# Gmail 简介 PowerPoint 预览| TechCrunch
+# Gmail 简介 PowerPoint 预览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/12/gmail-intros-powerpoint-preview/>
 

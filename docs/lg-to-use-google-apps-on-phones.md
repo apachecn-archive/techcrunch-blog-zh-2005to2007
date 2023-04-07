@@ -1,4 +1,4 @@
-# LG 将在手机上使用谷歌应用——TechCrunch
+# LG 将在手机上使用谷歌应用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/lg-to-use-google-apps-on-phones/>
 

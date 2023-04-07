@@ -1,4 +1,4 @@
-# 展开你自己的便携式照明系统| TechCrunch
+# 展开你自己的便携式照明系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/unroll-your-own-portable-lighting-system/>
 

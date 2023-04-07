@@ -1,4 +1,4 @@
-# 变形金刚爱上鞋子| TechCrunch
+# 变形金刚爱上鞋子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/transformers-take-to-the-shoes/>
 

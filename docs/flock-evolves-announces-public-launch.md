@@ -1,4 +1,4 @@
-# Flock 进化，宣布公开发布——TechCrunch
+# Flock 进化，宣布公开发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/17/flock-evolves-announces-public-launch/>
 

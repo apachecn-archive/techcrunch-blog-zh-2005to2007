@@ -1,4 +1,4 @@
-# 鹈鹕 PS3 冷却器:和 PS3 | TechCrunch 一样难闻
+# 鹈鹕 PS3 冷却器:和 PS3  一样难闻
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/pelican-ps3-cooler-just-as-fugly-as-the-ps3/>
 

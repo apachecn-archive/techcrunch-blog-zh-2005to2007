@@ -1,4 +1,4 @@
-# 微软想给你一个 Zune 歌曲分享的 Cookie | TechCrunch
+# 微软想给你一个 Zune 歌曲分享的 Cookie 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/15/microsoft-wants-to-give-you-a-cookie-for-zune-song-sharing/>
 

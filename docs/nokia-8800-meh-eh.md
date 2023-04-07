@@ -1,4 +1,4 @@
-# 诺基亚 8600:咩？呃？TechCrunch
+# 诺基亚 8600:咩？呃？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/nokia-8800-meh-eh/>
 

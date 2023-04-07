@@ -1,4 +1,4 @@
-# Boingo Wireless 提供无限 WiFi 计划 TechCrunch
+# Boingo Wireless 提供无限 WiFi 计划 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/boingo-wireless-offers-unlimited-wifi-plan/>
 

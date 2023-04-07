@@ -1,4 +1,4 @@
-# Venzero Slickr PMP:这是所有屏幕 TechCrunch
+# Venzero Slickr PMP:这是所有屏幕 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/venzero-slickr-pmp-its-all-screen/>
 

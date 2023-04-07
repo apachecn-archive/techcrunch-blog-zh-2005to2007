@@ -1,4 +1,4 @@
-# 面向 Windows 移动设备的 Windows Live Mobile 发布| TechCrunch
+# 面向 Windows 移动设备的 Windows Live Mobile 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/14/windows-live-mobile-for-windows-mobile-devices-launched/>
 

@@ -1,4 +1,4 @@
-# Wi-Fi 可能对你的健康有害(但什么不是呢？)| TechCrunch
+# Wi-Fi 可能对你的健康有害(但什么不是呢？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/wi-fi-could-be-dangerous-to-your-health-but-what-isnt/>
 

@@ -1,4 +1,4 @@
-# 亚马逊将开设无数字版权管理的音乐商店——TechCrunch
+# 亚马逊将开设无数字版权管理的音乐商店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/16/amazon-to-open-drm-free-music-store/>
 

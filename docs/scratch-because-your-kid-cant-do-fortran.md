@@ -1,4 +1,4 @@
-# Scratch:因为你的孩子不会 FORTRAN | TechCrunch
+# Scratch:因为你的孩子不会 FORTRAN 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/scratch-because-your-kid-cant-do-fortran/>
 

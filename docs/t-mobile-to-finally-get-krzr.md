@@ -1,4 +1,4 @@
-# T-Mobile 最终获得 KRZR–TechCrunch
+# T-Mobile 最终获得 KRZR
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/26/t-mobile-to-finally-get-krzr/>
 

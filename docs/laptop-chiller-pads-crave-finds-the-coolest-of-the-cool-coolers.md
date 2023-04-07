@@ -1,4 +1,4 @@
-# 笔记本电脑冷却垫:渴望找到最酷的冷却器| TechCrunch
+# 笔记本电脑冷却垫:渴望找到最酷的冷却器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/laptop-chiller-pads-crave-finds-the-coolest-of-the-cool-coolers/>
 

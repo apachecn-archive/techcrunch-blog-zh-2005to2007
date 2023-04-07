@@ -1,4 +1,4 @@
-# Mpire 升级并推出 Shopwave 购物可视化技术——TechCrunch
+# Mpire 升级并推出 Shopwave 购物可视化技术
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/06/mpire-upgrades-and-launches-shopwave-shopping-visualization/>
 

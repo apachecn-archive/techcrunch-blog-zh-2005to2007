@@ -1,4 +1,4 @@
-# 今年是 PS2 之年，不是 Wii、PS3 或 360 | TechCrunch 之年
+# 今年是 PS2 之年，不是 Wii、PS3 或 360  之年
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/this-is-the-year-of-the-ps2-not-the-wii-ps3-or-360/>
 

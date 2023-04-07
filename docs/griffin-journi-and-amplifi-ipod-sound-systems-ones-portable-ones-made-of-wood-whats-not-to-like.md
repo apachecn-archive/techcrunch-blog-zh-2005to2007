@@ -1,4 +1,4 @@
-# Griffin Journi 和 Amplifi iPod 音响系统:一个是便携式的，一个是木制的。不喜欢什么？TechCrunch
+# Griffin Journi 和 Amplifi iPod 音响系统:一个是便携式的，一个是木制的。不喜欢什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/27/griffin-journi-and-amplifi-ipod-sound-systems-ones-portable-ones-made-of-wood-whats-not-to-like/>
 

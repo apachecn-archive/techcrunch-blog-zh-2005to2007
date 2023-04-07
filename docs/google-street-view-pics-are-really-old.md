@@ -1,4 +1,4 @@
-# 谷歌街景照片真的很老了——TechCrunch
+# 谷歌街景照片真的很老了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/17/google-street-view-pics-are-really-old/>
 

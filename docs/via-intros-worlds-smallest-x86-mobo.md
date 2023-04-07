@@ -1,4 +1,4 @@
-# VIA Intros 世界上最小的 x86 Mobo | TechCrunch
+# VIA Intros 世界上最小的 x86 Mobo 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/via-intros-worlds-smallest-x86-mobo/>
 

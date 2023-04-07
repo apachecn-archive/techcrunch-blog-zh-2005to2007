@@ -1,4 +1,4 @@
-# Skype 2.5 For Mac 可供下载–TechCrunch
+# Skype 2.5 For Mac 可供下载
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/skype-25-for-mac-ready-to-download/>
 

@@ -1,4 +1,4 @@
-# Gateway 宣布推出 22 英寸和 24 英寸高清宽屏液晶显示器| TechCrunch
+# Gateway 宣布推出 22 英寸和 24 英寸高清宽屏液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/08/gateway-announces-22-inch-and-24-inch-hd-widescreen-lcd/>
 

@@ -1,4 +1,4 @@
-# 亚马逊拆箱上线| TechCrunch
+# 亚马逊拆箱上线
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/07/amazon-unbox-goes-live/>
 

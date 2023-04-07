@@ -1,4 +1,4 @@
-# 索尼推出小型家庭影院系统——TechCrunch
+# 索尼推出小型家庭影院系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/23/sony-introduces-pint-sized-home-theater-system/>
 

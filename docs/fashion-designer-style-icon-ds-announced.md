@@ -1,4 +1,4 @@
-# 时装设计师:时尚偶像 DS 发布——TechCrunch
+# 时装设计师:时尚偶像 DS 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/fashion-designer-style-icon-ds-announced/>
 

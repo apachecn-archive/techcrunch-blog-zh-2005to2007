@@ -1,4 +1,4 @@
-# 诺基亚 N73 动手操作| TechCrunch
+# 诺基亚 N73 动手操作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/24/nokia-n73-hands-on/>
 

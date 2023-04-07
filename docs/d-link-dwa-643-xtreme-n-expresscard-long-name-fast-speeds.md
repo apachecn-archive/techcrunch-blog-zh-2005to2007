@@ -1,4 +1,4 @@
-# d-Link DWA-643 Xtreme N express card–长名称、快速度–TechCrunch
+# d-Link DWA-643 Xtreme N express card–长名称、快速度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/d-link-dwa-643-xtreme-n-expresscard-long-name-fast-speeds/>
 

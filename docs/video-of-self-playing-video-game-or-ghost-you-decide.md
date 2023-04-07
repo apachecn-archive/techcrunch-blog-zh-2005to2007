@@ -1,4 +1,4 @@
-# 自己玩电子游戏的视频，还是幽灵？你决定| TechCrunch
+# 自己玩电子游戏的视频，还是幽灵？你决定
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/24/video-of-self-playing-video-game-or-ghost-you-decide/>
 

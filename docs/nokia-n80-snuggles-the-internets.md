@@ -1,4 +1,4 @@
-# 诺基亚 N80 依偎互联网| TechCrunch
+# 诺基亚 N80 依偎互联网
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/nokia-n80-snuggles-the-internets/>
 

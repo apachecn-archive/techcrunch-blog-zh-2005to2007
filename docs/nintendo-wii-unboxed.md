@@ -1,4 +1,4 @@
-# 任天堂 Wii 拆箱| TechCrunch
+# 任天堂 Wii 拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/02/nintendo-wii-unboxed/>
 

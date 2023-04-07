@@ -1,4 +1,4 @@
-# Xbox 360 Elite 的特殊以旧换新交易已确认——TechCrunch
+# Xbox 360 Elite 的特殊以旧换新交易已确认
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/17/special-trade-in-deals-for-the-xbox-360-elite-confirmed/>
 

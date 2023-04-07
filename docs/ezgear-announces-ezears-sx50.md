@@ -1,4 +1,4 @@
-# ezGear 宣布推出 ezEars SX50 | TechCrunch
+# ezGear 宣布推出 ezEars SX50 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/22/ezgear-announces-ezears-sx50/>
 

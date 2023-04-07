@@ -1,4 +1,4 @@
-# T-Mobile Dash 动手–TechCrunch
+# T-Mobile Dash 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/t-mobile-dash-hands-on/>
 

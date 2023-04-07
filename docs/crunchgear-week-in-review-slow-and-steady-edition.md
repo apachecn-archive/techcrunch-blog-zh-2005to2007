@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:缓慢而稳定的版本| TechCrunch
+# CrunchGear 周回顾:缓慢而稳定的版本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/crunchgear-week-in-review-slow-and-steady-edition/>
 

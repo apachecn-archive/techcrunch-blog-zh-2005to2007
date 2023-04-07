@@ -1,4 +1,4 @@
-# HaptiTouch 2.0 将会让你忘记那些愚蠢的 iPhone | TechCrunch
+# HaptiTouch 2.0 将会让你忘记那些愚蠢的 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/haptitouch-20-will-make-you-forget-all-about-that-silly-iphone/>
 

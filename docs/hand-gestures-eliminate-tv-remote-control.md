@@ -1,4 +1,4 @@
-# 手势消除了电视遥控器 TechCrunch
+# 手势消除了电视遥控器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/hand-gestures-eliminate-tv-remote-control/>
 

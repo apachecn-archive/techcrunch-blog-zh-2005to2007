@@ -1,4 +1,4 @@
-# 新 LG 包括触摸屏、神秘——TechCrunch
+# 新 LG 包括触摸屏、神秘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/15/new-lg-includes-touchscreen-mysteries/>
 

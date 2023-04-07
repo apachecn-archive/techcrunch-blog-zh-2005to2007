@@ -1,4 +1,4 @@
-# 任天堂 Wii 赛车轮子视频 TechCrunch
+# 任天堂 Wii 赛车轮子视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/nintendo-wii-racing-wheel-video/>
 

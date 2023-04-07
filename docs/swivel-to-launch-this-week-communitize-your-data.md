@@ -1,4 +1,4 @@
-# Swivel 的目标是成为数据的互联网档案馆——TechCrunch
+# Swivel 的目标是成为数据的互联网档案馆
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/05/swivel-to-launch-this-week-communitize-your-data>
 

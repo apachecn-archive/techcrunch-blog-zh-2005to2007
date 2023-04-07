@@ -1,4 +1,4 @@
-# JVC 发布四款 1080p 液晶电视——TechCrunch
+# JVC 发布四款 1080p 液晶电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/jvc-releases-four-new-1080p-lcd-tvs/>
 

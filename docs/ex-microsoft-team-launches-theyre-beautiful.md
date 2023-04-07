@@ -1,4 +1,4 @@
-# 前微软团队发布“它们很美”TechCrunch
+# 前微软团队发布“它们很美”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/08/ex-microsoft-team-launches-theyre-beautiful/>
 

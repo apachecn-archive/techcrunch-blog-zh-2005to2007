@@ -1,4 +1,4 @@
-# 徕卡的 C-LUX 2:720 万像素在你的口袋里——TechCrunch
+# 徕卡的 C-LUX 2:720 万像素在你的口袋里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/leicas-c-lux-2-72-megapixels-in-your-pocket/>
 

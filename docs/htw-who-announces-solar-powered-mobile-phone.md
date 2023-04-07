@@ -1,4 +1,4 @@
-# HTW(谁？)发布太阳能手机——TechCrunch
+# HTW(谁？)发布太阳能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/htw-who-announces-solar-powered-mobile-phone/>
 

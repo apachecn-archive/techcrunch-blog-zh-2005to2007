@@ -1,4 +1,4 @@
-# 佳能推出两款新的 PowerShot A 系列机型| TechCrunch
+# 佳能推出两款新的 PowerShot A 系列机型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/canon-intros-two-new-powershot-a-series-models/>
 

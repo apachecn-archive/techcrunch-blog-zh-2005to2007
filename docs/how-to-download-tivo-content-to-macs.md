@@ -1,4 +1,4 @@
-# 如何将 TiVo 内容下载到 MAC 电脑——TechCrunch
+# 如何将 TiVo 内容下载到 MAC 电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/how-to-download-tivo-content-to-macs/>
 

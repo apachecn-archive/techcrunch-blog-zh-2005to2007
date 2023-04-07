@@ -1,4 +1,4 @@
-# 新的 RealPlayer:抓取你身边的 YouTube 视频——TechCrunch
+# 新的 RealPlayer:抓取你身边的 YouTube 视频
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/31/the-new-realplayer-ripping-a-youtube-video-near-you/>
 

@@ -1,4 +1,4 @@
-# 音频文件:RIAA 在抽苹果吗？–TechCrunch
+# 音频文件:RIAA 在抽苹果吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/the-audiofile-is-the-riaa-smoking-apples/>
 

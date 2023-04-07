@@ -1,4 +1,4 @@
-# 显微镜下的游戏内容:你怎么看？–TechCrunch
+# 显微镜下的游戏内容:你怎么看？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/game-content-under-the-microscope-what-do-you-think/>
 

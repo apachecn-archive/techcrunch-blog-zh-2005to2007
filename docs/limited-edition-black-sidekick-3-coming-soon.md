@@ -1,4 +1,4 @@
-# 限量版黑色 Sidekick 3 即将推出？TechCrunch
+# 限量版黑色 Sidekick 3 即将推出？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/limited-edition-black-sidekick-3-coming-soon/>
 

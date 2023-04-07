@@ -1,4 +1,4 @@
-# 喇叭音调:哦，上帝，为什么！？–TechCrunch
+# 喇叭音调:哦，上帝，为什么！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/15/horn-tones-oh-god-why/>
 

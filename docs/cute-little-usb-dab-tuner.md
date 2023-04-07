@@ -1,4 +1,4 @@
-# 可爱的小 USB DAB 调谐器| TechCrunch
+# 可爱的小 USB DAB 调谐器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/cute-little-usb-dab-tuner/>
 

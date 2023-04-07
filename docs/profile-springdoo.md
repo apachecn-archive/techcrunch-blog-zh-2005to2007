@@ -1,4 +1,4 @@
-# 个人资料–SpringDoo–TechCrunch
+# 个人资料–SpringDoo
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/27/profile-springdoo/>
 

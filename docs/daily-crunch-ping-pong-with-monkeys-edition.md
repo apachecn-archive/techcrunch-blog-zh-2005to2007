@@ -1,4 +1,4 @@
-# 每日危机:猴子乒乓版| TechCrunch
+# 每日危机:猴子乒乓版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/daily-crunch-ping-pong-with-monkeys-edition/>
 

@@ -1,4 +1,4 @@
-# MYST 用 GameTap——TechCrunch 做插曲
+# MYST 用 GameTap 做插曲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/10/myst-goes-episodic-with-gametap/>
 

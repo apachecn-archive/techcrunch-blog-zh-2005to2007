@@ -1,4 +1,4 @@
-# 罗马重生:3D 重现古罗马，你不能拥有它| TechCrunch
+# 罗马重生:3D 重现古罗马，你不能拥有它
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/rome-reborn-ancient-rome-recreated-in-3d-you-cant-have-it/>
 

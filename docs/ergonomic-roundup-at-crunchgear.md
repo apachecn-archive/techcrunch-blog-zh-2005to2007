@@ -1,4 +1,4 @@
-# CrunchGear 的人体工程学综述–TechCrunch
+# CrunchGear 的人体工程学综述
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/29/ergonomic-roundup-at-crunchgear/>
 

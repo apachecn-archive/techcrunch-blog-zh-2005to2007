@@ -1,4 +1,4 @@
-# Flash Point ShareDrives:对于共享移动数据，我们认为| TechCrunch
+# Flash Point ShareDrives:对于共享移动数据，我们认为
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/flash-point-sharedrives-for-sharing-mobile-data-we-think/>
 

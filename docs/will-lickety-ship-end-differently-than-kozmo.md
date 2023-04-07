@@ -1,4 +1,4 @@
-# 《毁灭战舰》的结局会和科兹莫不同吗？TechCrunch
+# 《毁灭战舰》的结局会和科兹莫不同吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/22/will-lickety-ship-end-differently-than-kozmo/>
 

@@ -1,4 +1,4 @@
-# M-Audio Torq Mixlab 数字 DJ 系统回顾–TechCrunch
+# M-Audio Torq Mixlab 数字 DJ 系统回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/22/m-audio-torq-mixlab-digital-dj-system-review/>
 

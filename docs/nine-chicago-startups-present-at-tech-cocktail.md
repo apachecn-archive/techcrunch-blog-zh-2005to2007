@@ -1,4 +1,4 @@
-# 九家芝加哥初创公司出席科技鸡尾酒会 TechCrunch
+# 九家芝加哥初创公司出席科技鸡尾酒会 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/09/nine-chicago-startups-present-at-tech-cocktail/>
 

@@ -1,4 +1,4 @@
-# AdME 让你成为吉他明星——TechCrunch
+# AdME 让你成为吉他明星
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/adme-let%e2%80%99s-you-become-a-guitarstar/>
 

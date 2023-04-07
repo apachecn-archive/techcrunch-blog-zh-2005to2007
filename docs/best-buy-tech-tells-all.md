@@ -1,4 +1,4 @@
-# 百思买科技告诉所有| TechCrunch
+# 百思买科技告诉所有
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/best-buy-tech-tells-all/>
 

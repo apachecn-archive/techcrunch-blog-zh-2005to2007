@@ -1,4 +1,4 @@
-# Sidekick 用户将获得 MySpace 应用——TechCrunch
+# Sidekick 用户将获得 MySpace 应用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/sidekick-users-to-get-myspace-app/>
 

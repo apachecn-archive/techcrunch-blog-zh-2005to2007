@@ -1,4 +1,4 @@
-# 你、电视、电费和你——TechCrunch
+# 你、电视、电费和你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/you-tv-electric-bills-and-you/>
 

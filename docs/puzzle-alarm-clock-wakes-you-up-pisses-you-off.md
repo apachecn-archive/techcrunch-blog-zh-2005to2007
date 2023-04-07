@@ -1,4 +1,4 @@
-# 益智闹钟叫醒你，让你生气——TechCrunch
+# 益智闹钟叫醒你，让你生气
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/puzzle-alarm-clock-wakes-you-up-pisses-you-off/>
 

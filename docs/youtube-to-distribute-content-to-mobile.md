@@ -1,4 +1,4 @@
-# YouTube 将向移动设备分发内容——TechCrunch
+# YouTube 将向移动设备分发内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/youtube-to-distribute-content-to-mobile/>
 

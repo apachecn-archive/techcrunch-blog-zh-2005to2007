@@ -1,4 +1,4 @@
-# 雅虎为搜索添加歌词快捷方式 TechCrunch
+# 雅虎为搜索添加歌词快捷方式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/07/yahoo-adds-lyrics-shortcut-to-search/>
 

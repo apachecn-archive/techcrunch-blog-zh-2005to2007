@@ -1,4 +1,4 @@
-# 读者反馈更新| TechCrunch
+# 读者反馈更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/reader-response-update-2/>
 

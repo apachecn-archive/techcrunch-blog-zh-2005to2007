@@ -1,4 +1,4 @@
-# 专利战:Local 获得本地搜索专利——TechCrunch
+# 专利战:Local 获得本地搜索专利
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/02/patent-wars-localcom-nabs-local-search-patent/>
 

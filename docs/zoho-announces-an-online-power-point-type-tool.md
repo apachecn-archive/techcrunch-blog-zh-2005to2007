@@ -1,4 +1,4 @@
-# Zoho 宣布推出在线幻灯片工具 TechCrunch
+# Zoho 宣布推出在线幻灯片工具 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/23/zoho-announces-an-online-power-point-type-tool/>
 

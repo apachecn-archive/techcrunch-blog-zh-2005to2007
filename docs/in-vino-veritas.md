@@ -1,4 +1,4 @@
-# 在 Vino Veritas–TechCrunch
+# 在 Vino Veritas
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/19/in-vino-veritas/>
 

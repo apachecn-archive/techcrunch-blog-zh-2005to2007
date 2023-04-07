@@ -1,4 +1,4 @@
-# 中西部的初创公司联合起来喝第二杯技术鸡尾酒——TechCrunch
+# 中西部的初创公司联合起来喝第二杯技术鸡尾酒
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/22/midwest-startups-unite-for-second-tech-cocktail/>
 

@@ -1,4 +1,4 @@
-# MyFabrik 存储并分享您宝贵的| TechCrunch
+# MyFabrik 存储并分享您宝贵的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/myfabrik-stores-and-shares-your-precious/>
 

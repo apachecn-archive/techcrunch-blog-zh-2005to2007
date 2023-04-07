@@ -1,4 +1,4 @@
-# 向我们致敬| TechCrunch
+# 向我们致敬
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/04/bravo-to-usatoday/>
 

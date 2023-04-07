@@ -1,4 +1,4 @@
-# FPS Booster X3 5.25 英寸硬盘托架电源–TechCrunch
+# FPS Booster X3 5.25 英寸硬盘托架电源
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/11/fps-booster-x3-525-inch-drive-bay-power-supply/>
 

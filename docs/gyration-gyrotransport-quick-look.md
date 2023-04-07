@@ -1,4 +1,4 @@
-# Gyration GyroTransport 快速浏览–TechCrunch
+# Gyration GyroTransport 快速浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/16/gyration-gyrotransport-quick-look/>
 

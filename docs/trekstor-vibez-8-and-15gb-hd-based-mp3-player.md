@@ -1,4 +1,4 @@
-# Trekstor Vibez，8 和 15GB 高清 MP3 播放器| TechCrunch
+# Trekstor Vibez，8 和 15GB 高清 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/trekstor-vibez-8-and-15gb-hd-based-mp3-player/>
 

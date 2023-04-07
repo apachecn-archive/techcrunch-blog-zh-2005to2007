@@ -1,4 +1,4 @@
-# 利比亚率先签署“一童一机”计划——TechCrunch
+# 利比亚率先签署“一童一机”计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/libya-first-to-sign-with-one-laptop-per-child-initiative/>
 

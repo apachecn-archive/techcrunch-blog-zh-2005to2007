@@ -1,4 +1,4 @@
-# 宏碁向北美推出 Aspire 系列| TechCrunch
+# 宏碁向北美推出 Aspire 系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/acer-introduces-aspire-series-to-north-america/>
 

@@ -1,4 +1,4 @@
-# 中欧会议？TechCrunch
+# 中欧会议？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/central-european-meet-up/>
 

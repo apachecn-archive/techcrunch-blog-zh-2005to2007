@@ -1,4 +1,4 @@
-# 泛泰再骑:PN-3200 | TechCrunch
+# 泛泰再骑:PN-3200 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/pantech-rides-again-pn-3200/>
 

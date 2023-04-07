@@ -1,4 +1,4 @@
-# Mabber 移动即时消息–TechCrunch
+# Mabber 移动即时消息
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/23/mabber-mobile-instant-messaging/>
 

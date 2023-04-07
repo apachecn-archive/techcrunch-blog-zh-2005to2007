@@ -1,4 +1,4 @@
-# Zune Hi-Fi 像 Dock 一样到来| TechCrunch
+# Zune Hi-Fi 像 Dock 一样到来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/zune-hi-fi-like-dock-arrives/>
 

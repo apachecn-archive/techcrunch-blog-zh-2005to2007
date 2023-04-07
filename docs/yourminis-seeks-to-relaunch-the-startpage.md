@@ -1,4 +1,4 @@
-# 你的迷你电脑寻求重新启动起始页 TechCrunch
+# 你的迷你电脑寻求重新启动起始页 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/yourminis-seeks-to-relaunch-the-startpage/>
 

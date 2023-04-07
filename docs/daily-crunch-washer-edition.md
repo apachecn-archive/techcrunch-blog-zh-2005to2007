@@ -1,4 +1,4 @@
-# 每日新闻:洗衣机版| TechCrunch
+# 每日新闻:洗衣机版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/daily-crunch-washer-edition/>
 

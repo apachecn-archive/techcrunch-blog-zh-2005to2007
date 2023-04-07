@@ -1,4 +1,4 @@
-# 苹果家庭:苹果正在改变家庭娱乐的面貌吗？？？TechCrunch
+# 苹果家庭:苹果正在改变家庭娱乐的面貌吗？？？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/apple-home-entertainment/>
 

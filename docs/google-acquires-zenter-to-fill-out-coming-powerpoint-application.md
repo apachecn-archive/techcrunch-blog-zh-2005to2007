@@ -1,4 +1,4 @@
-# 谷歌收购 ZenterY Combinator 获得又一笔收入 TechCrunch
+# 谷歌收购 ZenterY Combinator 获得又一笔收入 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/19/google-acquires-zenter-to-fill-out-coming-powerpoint-application/>
 

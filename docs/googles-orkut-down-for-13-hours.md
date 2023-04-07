@@ -1,4 +1,4 @@
-# 谷歌 Orkut 宕机 13 小时以上 TechCrunch
+# 谷歌 Orkut 宕机 13 小时以上 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/29/googles-orkut-down-for-13-hours/>
 

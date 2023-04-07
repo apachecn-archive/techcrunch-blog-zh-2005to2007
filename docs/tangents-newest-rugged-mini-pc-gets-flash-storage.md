@@ -1,4 +1,4 @@
-# Tangent 最新的加固型迷你电脑配备闪存——TechCrunch
+# Tangent 最新的加固型迷你电脑配备闪存
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/tangents-newest-rugged-mini-pc-gets-flash-storage/>
 

@@ -1,4 +1,4 @@
-# 苹果将进军手机铃声业务 TechCrunch
+# 苹果将进军手机铃声业务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/24/apple-to-get-into-ringtone-business/>
 

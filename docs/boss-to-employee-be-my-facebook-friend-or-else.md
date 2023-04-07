@@ -1,4 +1,4 @@
-# 老板对员工:做我的脸书朋友…否则…–TechCrunch
+# 老板对员工:做我的脸书朋友…否则…
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/boss-to-employee-be-my-facebook-friend-or-else/>
 

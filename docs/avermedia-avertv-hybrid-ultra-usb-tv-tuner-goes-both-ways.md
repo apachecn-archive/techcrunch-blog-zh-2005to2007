@@ -1,4 +1,4 @@
-# AVerMedia AVerTV 混合超 USB 电视调谐器双向运行| TechCrunch
+# AVerMedia AVerTV 混合超 USB 电视调谐器双向运行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/avermedia-avertv-hybrid-ultra-usb-tv-tuner-goes-both-ways/>
 

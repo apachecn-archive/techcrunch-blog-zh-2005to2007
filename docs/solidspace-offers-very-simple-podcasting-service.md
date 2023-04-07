@@ -1,4 +1,4 @@
-# SolidSpace 提供非常简单的播客服务| TechCrunch
+# SolidSpace 提供非常简单的播客服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/19/solidspace-offers-very-simple-podcasting-service/>
 

@@ -1,4 +1,4 @@
-# 谷歌和微软在无线设备上合作？TechCrunch
+# 谷歌和微软在无线设备上合作？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/google-and-microsoft-working-on-wireless-device/>
 

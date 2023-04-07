@@ -1,4 +1,4 @@
-# IFA | TechCrunch 发布三星 SDC-MS61 600 万像素摄像头
+# IFA  发布三星 SDC-MS61 600 万像素摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/01/samsung-sdc-ms61-6-megapixel-shooter-revealed-at-ifa/>
 

@@ -1,4 +1,4 @@
-# iphone 定价——?–TechCrunch
+# iphone 定价——?
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/18/iphonepricingfakery/>
 

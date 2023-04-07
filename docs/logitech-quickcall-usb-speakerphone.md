@@ -1,4 +1,4 @@
-# 罗技 QuickCall USB 扬声器| TechCrunch
+# 罗技 QuickCall USB 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/logitech-quickcall-usb-speakerphone/>
 

@@ -1,4 +1,4 @@
-# 埃尔维斯是大多数人的英雄，但这并不妨碍我下载 Sun Sessions | TechCrunch
+# 埃尔维斯是大多数人的英雄，但这并不妨碍我下载 Sun Sessions 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/elvis-was-a-hero-to-most-but-that-doesnt-stop-me-from-downloading-the-sun-sessions/>
 

@@ -1,4 +1,4 @@
-# 摩托罗拉·PEBL:我们能再试一次吗？TechCrunch
+# 摩托罗拉·PEBL:我们能再试一次吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/motorola-pebl-can-we-try-this-again/>
 

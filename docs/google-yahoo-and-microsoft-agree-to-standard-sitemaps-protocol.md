@@ -1,4 +1,4 @@
-# 谷歌、雅虎和微软同意标准网站地图协议——TechCrunch
+# 谷歌、雅虎和微软同意标准网站地图协议
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/15/google-yahoo-and-microsoft-agree-to-standard-sitemaps-protocol/>
 

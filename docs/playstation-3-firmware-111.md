@@ -1,4 +1,4 @@
-# PlayStation 3 固件 1.11 | TechCrunch
+# PlayStation 3 固件 1.11 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/playstation-3-firmware-111/>
 

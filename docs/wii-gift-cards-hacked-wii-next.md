@@ -1,4 +1,4 @@
-# Wii 礼品卡被黑:Wii Next-TechCrunch
+# Wii 礼品卡被黑:Wii Next-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/wii-gift-cards-hacked-wii-next/>
 

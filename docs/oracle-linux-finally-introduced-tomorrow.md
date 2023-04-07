@@ -1,4 +1,4 @@
-# Oracle Linux:明天终于推出了？–TechCrunch
+# Oracle Linux:明天终于推出了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/24/oracle-linux-finally-introduced-tomorrow/>
 

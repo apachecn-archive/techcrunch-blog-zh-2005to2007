@@ -1,4 +1,4 @@
-# 来自移动设备的 VoIP–TechCrunch
+# 来自移动设备的 VoIP
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/voip-from-mobile/>
 

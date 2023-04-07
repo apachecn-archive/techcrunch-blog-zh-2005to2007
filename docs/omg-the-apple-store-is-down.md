@@ -1,4 +1,4 @@
-# Omg！苹果商店瘫痪了！TechCrunch
+# Omg！苹果商店瘫痪了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/omg-the-apple-store-is-down/>
 

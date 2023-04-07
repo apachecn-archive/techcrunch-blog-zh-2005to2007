@@ -1,4 +1,4 @@
-# 可信的观点增加了网飞排队–TechCrunch
+# 可信的观点增加了网飞排队
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/27/trusted-opinion-adds-netflix-queuing/>
 

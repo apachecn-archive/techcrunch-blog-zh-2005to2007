@@ -1,4 +1,4 @@
-# 苹果会用高清电视和 iTunes 视频游戏商店来玩游戏吗？–TechCrunch
+# 苹果会用高清电视和 iTunes 视频游戏商店来玩游戏吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/05/rumor-is-apple-going-gaming-with-hdtvs-itunes-video-game-store/>
 

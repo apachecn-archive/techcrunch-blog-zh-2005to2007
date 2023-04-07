@@ -1,4 +1,4 @@
-# Soltronix 太阳能 AM/FM 收音机:拯救环境，听热门话题| TechCrunch
+# Soltronix 太阳能 AM/FM 收音机:拯救环境，听热门话题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/soltronix-solar-powered-amfm-radio-save-the-environment-listen-to-hot-talk/>
 

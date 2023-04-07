@@ -1,4 +1,4 @@
-# 污渍检测器有助于检测不可见的污渍| TechCrunch
+# 污渍检测器有助于检测不可见的污渍
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/02/stain-detector-helps-detect-grody-invisible-stains/>
 

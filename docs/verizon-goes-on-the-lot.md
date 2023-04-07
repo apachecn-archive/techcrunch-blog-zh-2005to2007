@@ -1,4 +1,4 @@
-# 威瑞森上停车场| TechCrunch
+# 威瑞森上停车场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/verizon-goes-on-the-lot/>
 

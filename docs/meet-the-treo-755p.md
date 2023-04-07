@@ -1,4 +1,4 @@
-# 认识 Treo 755 p–TechCrunch
+# 认识 Treo 755 p
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/meet-the-treo-755p/>
 

@@ -1,4 +1,4 @@
-# 戴尔为 Inspiron 笔记本添加颜色、网络摄像头和指纹识别器，扼杀 Dimension 品牌——TechCrunch
+# 戴尔为 Inspiron 笔记本添加颜色、网络摄像头和指纹识别器，扼杀 Dimension 品牌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/dell-adds-colors-webcams-fingerprint-readers-to-inspiron-notebooks-kills-dimension-brand/>
 

@@ -1,4 +1,4 @@
-# 新款三星翻盖式智能手机表面| TechCrunch
+# 新款三星翻盖式智能手机表面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/new-samsung-clamshell-smartphone-surfaces/>
 

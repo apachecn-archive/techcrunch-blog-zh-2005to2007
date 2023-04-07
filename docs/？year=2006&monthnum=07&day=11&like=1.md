@@ -1,4 +1,4 @@
-# 用 ClickTale | TechCrunch 观察互联网用户的行为
+# 用 ClickTale  观察互联网用户的行为
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/07/11/watch-internet-users%E2%80%99-behaviour-with-clicktale/?year=2006&monthnum=07&day=11&like=1>
 

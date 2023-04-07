@@ -1,4 +1,4 @@
-# Logic3 发布首款 iPhone Dock，iSuck I-Station Traveler | TechCrunch
+# Logic3 发布首款 iPhone Dock，iSuck I-Station Traveler 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/logic3-unleashes-1st-iphone-dock-isuck-i-station-traveler/>
 

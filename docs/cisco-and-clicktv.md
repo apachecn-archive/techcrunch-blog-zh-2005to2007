@@ -1,4 +1,4 @@
-# 思科和 Click.tv？–TechCrunch
+# 思科和 Click.tv？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/cisco-and-clicktv/>
 

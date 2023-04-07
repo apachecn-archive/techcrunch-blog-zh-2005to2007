@@ -1,4 +1,4 @@
-# 拉皮条我的吉他盒| TechCrunch
+# 拉皮条我的吉他盒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/pimp-my-guitar-case/>
 

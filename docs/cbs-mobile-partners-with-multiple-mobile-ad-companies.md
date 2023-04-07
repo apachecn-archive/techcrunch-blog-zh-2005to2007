@@ -1,4 +1,4 @@
-# CBS 移动与多家移动广告公司合作| TechCrunch
+# CBS 移动与多家移动广告公司合作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/02/cbs-mobile-partners-with-multiple-mobile-ad-companies/>
 

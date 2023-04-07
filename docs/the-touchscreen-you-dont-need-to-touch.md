@@ -1,4 +1,4 @@
-# 无需触摸的触摸屏——TechCrunch
+# 无需触摸的触摸屏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/the-touchscreen-you-dont-need-to-touch/>
 

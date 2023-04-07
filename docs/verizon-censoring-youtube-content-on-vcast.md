@@ -1,4 +1,4 @@
-# 威瑞森在 VCAST | TechCrunch 上审查 Youtube 内容
+# 威瑞森在 VCAST  上审查 Youtube 内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/verizon-censoring-youtube-content-on-vcast/>
 

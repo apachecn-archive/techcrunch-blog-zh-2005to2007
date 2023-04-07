@@ -1,4 +1,4 @@
-# “你现在能听到我说话吗？”TechCrunch
+# “你现在能听到我说话吗？”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/26/can-you-hear-me-now/>
 

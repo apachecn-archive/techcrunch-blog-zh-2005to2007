@@ -1,4 +1,4 @@
-# 松下的 Toughbooks 获得升级——TechCrunch
+# 松下的 Toughbooks 获得升级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/panasonic-toughbooks-get-upgrade/>
 

@@ -1,4 +1,4 @@
-# 《连线》杂志几乎有点像是在评论美洲豹 WWDC 测试版:最令人印象深刻的——TechCrunch
+# 《连线》杂志几乎有点像是在评论美洲豹 WWDC 测试版:最令人印象深刻的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/wired-almost-sorta-reviews-the-leopard-wwdc-beta-most-impressive/>
 

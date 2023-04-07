@@ -1,4 +1,4 @@
-# 威瑞森 QWERTY Phone enV of Others | TechCrunch
+# 威瑞森 QWERTY Phone enV of Others 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/27/verizons-qwerty-phone-env-of-others/>
 

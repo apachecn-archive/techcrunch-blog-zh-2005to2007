@@ -1,4 +1,4 @@
-# Sellaband 众包免费音乐——TechCrunch
+# Sellaband 众包免费音乐
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/24/sellaband-to-crowdsource-free-music/>
 

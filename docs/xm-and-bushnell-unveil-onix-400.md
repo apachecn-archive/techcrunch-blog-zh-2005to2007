@@ -1,4 +1,4 @@
-# XM 和 Bushnell 推出 Onix 400–TechCrunch
+# XM 和 Bushnell 推出 Onix 400
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/xm-and-bushnell-unveil-onix-400/>
 

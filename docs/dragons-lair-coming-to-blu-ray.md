@@ -1,4 +1,4 @@
-# 《龙穴》即将推出蓝光版| TechCrunch
+# 《龙穴》即将推出蓝光版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/dragons-lair-coming-to-blu-ray/>
 

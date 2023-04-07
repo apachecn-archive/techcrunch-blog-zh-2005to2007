@@ -1,4 +1,4 @@
-# XM 公司的 XpressRC 推出了这些曲调| TechCrunch
+# XM 公司的 XpressRC 推出了这些曲调
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/xpressrc-from-xm-pumps-out-the-tunes/>
 

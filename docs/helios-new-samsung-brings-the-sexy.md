@@ -1,4 +1,4 @@
-# Helio 的新三星带来性感| TechCrunch
+# Helio 的新三星带来性感
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/19/helios-new-samsung-brings-the-sexy/>
 

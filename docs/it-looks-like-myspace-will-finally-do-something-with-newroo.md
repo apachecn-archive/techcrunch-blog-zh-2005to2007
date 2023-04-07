@@ -1,4 +1,4 @@
-# 看起来 MySpace 终于要和 new roo——TechCrunch 合作了
+# 看起来 MySpace 终于要和 new roo 合作了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/09/it-looks-like-myspace-will-finally-do-something-with-newroo/>
 

@@ -1,4 +1,4 @@
-# Powerset 会拉个谷歌吗？–TechCrunch
+# Powerset 会拉个谷歌吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/05/will-powerset-pull-a-google>
 

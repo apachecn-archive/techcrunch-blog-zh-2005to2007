@@ -1,4 +1,4 @@
-# 伦敦联谊会是 PaidContent.org | TechCrunch 新推出的聚会活动
+# 伦敦联谊会是 PaidContent.org  新推出的聚会活动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/07/london-mixer-is-a-new-gathering-event-by-paidcontentorg/>
 

@@ -1,4 +1,4 @@
-# 康卡斯特将收购电影网站 Fandango-TechCrunch
+# 康卡斯特将收购电影网站 Fandango-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/11/comcast-to-buy-movie-site-fandango/>
 

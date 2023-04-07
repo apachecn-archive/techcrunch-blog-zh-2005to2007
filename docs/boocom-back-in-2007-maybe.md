@@ -1,4 +1,4 @@
-# 也许回到 2007 年的 Boo.com——TechCrunch
+# 也许回到 2007 年的 Boo.com
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/24/boocom-back-in-2007-maybe/>
 

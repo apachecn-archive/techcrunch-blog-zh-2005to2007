@@ -1,4 +1,4 @@
-# T-Mobile、三星赢得最无聊新手机竞赛——TechCrunch
+# T-Mobile、三星赢得最无聊新手机竞赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/13/t-mobile-samsung-win-most-boring-new-phone-contest/>
 

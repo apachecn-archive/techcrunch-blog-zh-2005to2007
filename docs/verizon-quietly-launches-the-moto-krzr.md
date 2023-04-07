@@ -1,4 +1,4 @@
-# 威瑞森悄悄推出 Moto KRZR——TechCrunch
+# 威瑞森悄悄推出 Moto KRZR
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/verizon-quietly-launches-the-moto-krzr/>
 

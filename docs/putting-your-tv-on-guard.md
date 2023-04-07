@@ -1,4 +1,4 @@
-# 保护您的电视| TechCrunch
+# 保护您的电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/putting-your-tv-on-guard/>
 

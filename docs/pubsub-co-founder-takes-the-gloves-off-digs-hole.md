@@ -1,4 +1,4 @@
-# PubSub 联合创始人摘下手套，挖洞——TechCrunch
+# PubSub 联合创始人摘下手套，挖洞
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/14/pubsub-co-founder-takes-the-gloves-off-digs-hole/>
 

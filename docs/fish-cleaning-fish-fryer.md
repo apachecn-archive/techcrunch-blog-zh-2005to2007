@@ -1,4 +1,4 @@
-# 鱼清洗鱼炸锅——TechCrunch
+# 鱼清洗鱼炸锅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/fish-cleaning-fish-fryer/>
 

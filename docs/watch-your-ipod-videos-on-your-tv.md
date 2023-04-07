@@ -1,4 +1,4 @@
-# 在电视上观看 iPod 视频| TechCrunch
+# 在电视上观看 iPod 视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/watch-your-ipod-videos-on-your-tv/>
 

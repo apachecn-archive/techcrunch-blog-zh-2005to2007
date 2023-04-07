@@ -1,4 +1,4 @@
-# 每日新闻:谷歌版——TechCrunch
+# 每日新闻:谷歌版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/12/daily-crunch-goop-edition/>
 

@@ -1,4 +1,4 @@
-# 第二位创始人离开 Flock——TechCrunch
+# 第二位创始人离开 Flock
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/11/second-founder-leaves-flock/>
 

@@ -1,4 +1,4 @@
-# YourMinis 全能 Flash 主页——TechCrunch
+# YourMinis 全能 Flash 主页
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/11/the-yourminis-do-it-all-flash-homepage/>
 

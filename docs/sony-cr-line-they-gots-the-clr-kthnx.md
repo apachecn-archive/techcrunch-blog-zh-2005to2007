@@ -1,4 +1,4 @@
-# 索尼 CR 系列:他们有 CLR！KTHNX | TechCrunch
+# 索尼 CR 系列:他们有 CLR！KTHNX 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/sony-cr-line-they-gots-the-clr-kthnx/>
 

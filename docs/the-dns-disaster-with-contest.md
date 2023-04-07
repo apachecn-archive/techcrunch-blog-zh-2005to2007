@@ -1,4 +1,4 @@
-# DNS 灾难(带竞赛！)–TechCrunch
+# DNS 灾难(带竞赛！)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/18/the-dns-disaster-with-contest/>
 

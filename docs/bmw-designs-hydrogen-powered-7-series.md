@@ -1,4 +1,4 @@
-# 宝马设计氢动力 7 系| TechCrunch
+# 宝马设计氢动力 7 系
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/01/bmw-designs-hydrogen-powered-7-series/>
 

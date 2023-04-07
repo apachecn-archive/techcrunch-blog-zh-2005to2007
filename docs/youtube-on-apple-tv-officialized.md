@@ -1,4 +1,4 @@
-# 苹果电视上的 YouTube 官方化| TechCrunch
+# 苹果电视上的 YouTube 官方化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/30/youtube-on-apple-tv-officialized/>
 

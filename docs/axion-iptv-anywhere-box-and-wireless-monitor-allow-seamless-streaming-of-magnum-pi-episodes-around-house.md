@@ -1,4 +1,4 @@
-# Axion iPTV Anywhere Box 和无线监视器允许在家中无缝播放 Magnum P.I .剧集| TechCrunch
+# Axion iPTV Anywhere Box 和无线监视器允许在家中无缝播放 Magnum P.I .剧集
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/axion-iptv-anywhere-box-and-wireless-monitor-allow-seamless-streaming-of-magnum-pi-episodes-around-house/>
 

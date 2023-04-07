@@ -1,4 +1,4 @@
-# 哥们比苹果更懂，提供完善 iPod 的方法——TechCrunch
+# 哥们比苹果更懂，提供完善 iPod 的方法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/16/dude-knows-better-than-apple-offers-way-to-perfect-the-ipod/>
 

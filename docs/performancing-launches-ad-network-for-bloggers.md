@@ -1,4 +1,4 @@
-# Performancing 为博客作者推出广告网络——TechCrunch
+# Performancing 为博客作者推出广告网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/18/performancing-launches-ad-network-for-bloggers/>
 

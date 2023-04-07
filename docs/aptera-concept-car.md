@@ -1,4 +1,4 @@
-# Aptera 概念车–TechCrunch
+# Aptera 概念车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/12/aptera-concept-car/>
 

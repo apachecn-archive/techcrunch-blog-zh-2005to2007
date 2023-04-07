@@ -1,4 +1,4 @@
-# FeedCycle:更聪明的连载故事 TechCrunch
+# FeedCycle:更聪明的连载故事 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/26/feedcycle-smarter-serialized-stories/>
 

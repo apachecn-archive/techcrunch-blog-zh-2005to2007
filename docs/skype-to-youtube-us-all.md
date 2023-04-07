@@ -1,4 +1,4 @@
-# Skype to YouTube Us All–TechCrunch
+# Skype to YouTube Us All
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/skype-to-youtube-us-all/>
 

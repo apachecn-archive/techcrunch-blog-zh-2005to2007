@@ -1,4 +1,4 @@
-# PS3 获得 1.80 固件| TechCrunch
+# PS3 获得 1.80 固件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/ps3-gets-180-firmwared/>
 

@@ -1,4 +1,4 @@
-# Etymotic ety8 蓝牙耳塞实践–TechCrunch
+# Etymotic ety8 蓝牙耳塞实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/22/etymotic-ety8-bluetooth-earbud-hands-on/>
 

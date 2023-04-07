@@ -1,4 +1,4 @@
-# 三星 smrgsbord 闻起来像…–TechCrunch
+# 三星 smrgsbord 闻起来像…
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/samsung-smorgasboard-smells-like/>
 

@@ -1,4 +1,4 @@
-# 平衡概念:一半是豪华手机，一半是智能手机——TechCrunch
+# 平衡概念:一半是豪华手机，一半是智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/balance-concept-part-luxury-cellphone-part-smartphone/>
 

@@ -1,4 +1,4 @@
-# 无意识纹身——TechCrunch
+# 无意识纹身
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/tattoos-for-the-indescisive/>
 

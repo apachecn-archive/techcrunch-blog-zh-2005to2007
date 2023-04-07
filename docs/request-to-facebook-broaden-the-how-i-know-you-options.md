@@ -1,4 +1,4 @@
-# 对脸书的请求:拓宽“我如何认识你”的选项 TechCrunch
+# 对脸书的请求:拓宽“我如何认识你”的选项 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/01/request-to-facebook-broaden-the-how-i-know-you-options/>
 

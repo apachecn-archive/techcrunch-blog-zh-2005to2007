@@ -1,4 +1,4 @@
-# BBC 俄罗斯方块纪录片:惊人| TechCrunch
+# BBC 俄罗斯方块纪录片:惊人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/bbc-tetris-documentary-amazing/>
 

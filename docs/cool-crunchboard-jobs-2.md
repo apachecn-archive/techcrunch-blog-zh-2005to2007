@@ -1,4 +1,4 @@
-# 最近的 CrunchBoard 工作–TechCrunch
+# 最近的 CrunchBoard 工作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/12/cool-crunchboard-jobs-2/>
 

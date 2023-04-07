@@ -1,4 +1,4 @@
-# Connectbeam 获得 350 万美元的 A 轮融资| TechCrunch
+# Connectbeam 获得 350 万美元的 A 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/17/connectbeam-lands-35million-series-a/>
 

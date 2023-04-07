@@ -1,4 +1,4 @@
-# USB、光学雪球鼠标| TechCrunch
+# USB、光学雪球鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/16/usb-optical-snow-globe-mouse/>
 

@@ -1,4 +1,4 @@
-# 无线任天堂 Wii 感应条| TechCrunch
+# 无线任天堂 Wii 感应条
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/wireless-nintendo-wii-sensor-bar/>
 

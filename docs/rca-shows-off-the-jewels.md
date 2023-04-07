@@ -1,4 +1,4 @@
-# RCA 展示珠宝| TechCrunch
+# RCA 展示珠宝
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/03/rca-shows-off-the-jewels/>
 

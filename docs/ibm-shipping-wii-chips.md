@@ -1,4 +1,4 @@
-# IBM 发布 Wii 芯片| TechCrunch
+# IBM 发布 Wii 芯片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/ibm-shipping-wii-chips/>
 

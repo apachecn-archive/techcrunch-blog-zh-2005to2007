@@ -1,4 +1,4 @@
-# 笔记本电脑恐怖故事条目 2: MacBook 地狱| TechCrunch
+# 笔记本电脑恐怖故事条目 2: MacBook 地狱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/laptop-horror-stories-entry-2-macbook-hell/>
 

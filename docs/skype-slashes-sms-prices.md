@@ -1,4 +1,4 @@
-# Skype 大幅降低短信价格| TechCrunch
+# Skype 大幅降低短信价格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/skype-slashes-sms-prices/>
 

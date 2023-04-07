@@ -1,4 +1,4 @@
-# 出售英格玛原型机——TechCrunch
+# 出售英格玛原型机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/original-enigma-machine-for-sale/>
 

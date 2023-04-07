@@ -1,4 +1,4 @@
-# Y Combinator 公司有哪些？–TechCrunch
+# Y Combinator 公司有哪些？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/09/the-y-combinator-companies/>
 

@@ -1,4 +1,4 @@
-# 松下将威瑞森 3G 服务加入 ToughBooks——TechCrunch
+# 松下将威瑞森 3G 服务加入 ToughBooks
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/panasonic-adds-verizon-3g-service-to-toughbooks/>
 

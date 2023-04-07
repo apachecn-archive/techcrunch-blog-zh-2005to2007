@@ -1,4 +1,4 @@
-# 今夏玩 Wii 的 45 个理由——TechCrunch
+# 今夏玩 Wii 的 45 个理由
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/30/45-more-reasons-to-play-with-your-wii-this-summer/>
 

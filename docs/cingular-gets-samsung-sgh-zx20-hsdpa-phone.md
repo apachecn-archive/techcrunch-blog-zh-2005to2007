@@ -1,4 +1,4 @@
-# Cingular 获得三星 SGH-ZX20 HSDPA 手机 TechCrunch
+# Cingular 获得三星 SGH-ZX20 HSDPA 手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/cingular-gets-samsung-sgh-zx20-hsdpa-phone/>
 

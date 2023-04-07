@@ -1,4 +1,4 @@
-# 卡吉特:你知道，对于孩子们来说，TechCrunch
+# 卡吉特:你知道，对于孩子们来说，
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/kajeet-you-know-for-kids-2/>
 

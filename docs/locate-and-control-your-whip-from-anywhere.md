@@ -1,4 +1,4 @@
-# 从任何地方找到并控制你的鞭子 TechCrunch
+# 从任何地方找到并控制你的鞭子 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/locate-and-control-your-whip-from-anywhere/>
 

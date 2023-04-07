@@ -1,4 +1,4 @@
-# 华硕 R2H UMPC | TechCrunch
+# 华硕 R2H UMPC 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/asustek-r2h-umpc/>
 

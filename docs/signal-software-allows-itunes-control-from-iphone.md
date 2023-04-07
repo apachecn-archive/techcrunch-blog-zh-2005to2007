@@ -1,4 +1,4 @@
-# 信号软件允许从 iPhone 控制 iTunes——TechCrunch
+# 信号软件允许从 iPhone 控制 iTunes
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/signal-software-allows-itunes-control-from-iphone/>
 

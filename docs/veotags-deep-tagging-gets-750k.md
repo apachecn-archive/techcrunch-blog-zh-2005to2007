@@ -1,4 +1,4 @@
-# Veotag 的深度标记获得 75 万美元| TechCrunch
+# Veotag 的深度标记获得 75 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/16/veotags-deep-tagging-gets-750k/>
 

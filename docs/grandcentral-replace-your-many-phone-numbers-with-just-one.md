@@ -1,4 +1,4 @@
-# GrandCentral:用一个电话号码取代你的众多电话号码——TechCrunch
+# GrandCentral:用一个电话号码取代你的众多电话号码
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/grandcentral-replace-your-many-phone-numbers-with-just-one/>
 

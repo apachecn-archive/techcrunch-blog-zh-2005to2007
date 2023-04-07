@@ -1,4 +1,4 @@
-# 雅虎照片测试版今日发布 TechCrunch
+# 雅虎照片测试版今日发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/07/yahoo-photos-beta-launches-today/>
 

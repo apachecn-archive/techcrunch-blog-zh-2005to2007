@@ -1,4 +1,4 @@
-# ScottEVest 战术夹克:CG 读者特卖——TechCrunch
+# ScottEVest 战术夹克:CG 读者特卖
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/13/scottevest-tactical-jacket-special-sale-for-cg-readers/>
 

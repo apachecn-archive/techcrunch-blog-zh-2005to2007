@@ -1,4 +1,4 @@
-# Memory Infinite 的 USB 顽皮| TechCrunch
+# Memory Infinite 的 USB 顽皮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/12/memory-infinites-usb-naughtiness/>
 

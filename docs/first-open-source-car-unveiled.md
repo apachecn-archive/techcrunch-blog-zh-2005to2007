@@ -1,4 +1,4 @@
-# 首款开源汽车亮相 TechCrunch
+# 首款开源汽车亮相 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/30/first-open-source-car-unveiled/>
 

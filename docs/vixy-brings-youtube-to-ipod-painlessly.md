@@ -1,4 +1,4 @@
-# Vixy 将 YouTube 轻松引入 iPod——TechCrunch
+# Vixy 将 YouTube 轻松引入 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/vixy-brings-youtube-to-ipod-painlessly/>
 

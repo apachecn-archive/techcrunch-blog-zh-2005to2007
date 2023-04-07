@@ -1,4 +1,4 @@
-# 读者反应:2005 年 4 月 4 日的假日奇观——TechCrunch
+# 读者反应:2005 年 4 月 4 日的假日奇观
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/29/reader-response-holiday-spectacular-days-0405/>
 

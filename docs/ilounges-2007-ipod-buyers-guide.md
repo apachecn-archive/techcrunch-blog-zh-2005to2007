@@ -1,4 +1,4 @@
-# iLounge 的 2007 年 iPod 购买指南| TechCrunch
+# iLounge 的 2007 年 iPod 购买指南
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/ilounges-2007-ipod-buyers-guide/>
 

@@ -1,4 +1,4 @@
-# Linksys 抢先一步推出 802.11n USB——TechCrunch
+# Linksys 抢先一步推出 802.11n USB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/linksys-jumps-the-gun-with-80211n-for-usb/>
 

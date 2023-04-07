@@ -1,4 +1,4 @@
-# Synaptics:普拉达和 Scrawla——TechCrunch
+# Synaptics:普拉达和 Scrawla
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/synaptics-the-prada-and-the-scrawla/>
 

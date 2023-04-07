@@ -1,4 +1,4 @@
-# 苹果命令 Bar 停止“iPod 星期一”——TechCrunch
+# 苹果命令 Bar 停止“iPod 星期一”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/apple-orders-bar-to-cease-and-desist-ipod-monday/>
 

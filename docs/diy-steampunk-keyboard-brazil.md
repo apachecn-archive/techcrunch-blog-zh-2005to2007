@@ -1,4 +1,4 @@
-# DIY 蒸汽朋克键盘:巴西++ TechCrunch
+# DIY 蒸汽朋克键盘:巴西++ 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/diy-steampunk-keyboard-brazil/>
 

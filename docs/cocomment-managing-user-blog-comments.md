@@ -1,4 +1,4 @@
-# 共同评论:跟踪你的博客评论 TechCrunch
+# 共同评论:跟踪你的博客评论 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/04/cocomment-managing-user-blog-comments/>
 

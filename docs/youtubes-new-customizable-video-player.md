@@ -1,4 +1,4 @@
-# YouTube 新的可定制视频播放器——TechCrunch
+# YouTube 新的可定制视频播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/youtubes-new-customizable-video-player/>
 

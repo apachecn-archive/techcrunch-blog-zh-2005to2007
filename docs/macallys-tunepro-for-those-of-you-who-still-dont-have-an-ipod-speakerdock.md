@@ -1,4 +1,4 @@
-# Macally 的 TunePro:对于那些还没有 iPod 扬声器+Dock | TechCrunch 的人
+# Macally 的 TunePro:对于那些还没有 iPod 扬声器+Dock  的人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/macallys-tunepro-for-those-of-you-who-still-dont-have-an-ipod-speakerdock/>
 

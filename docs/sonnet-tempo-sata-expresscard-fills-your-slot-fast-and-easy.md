@@ -1,4 +1,4 @@
-# Sonnet Tempo SATA ExpressCard 快速轻松地填充您的插槽–TechCrunch
+# Sonnet Tempo SATA ExpressCard 快速轻松地填充您的插槽
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/sonnet-tempo-sata-expresscard-fills-your-slot-fast-and-easy/>
 

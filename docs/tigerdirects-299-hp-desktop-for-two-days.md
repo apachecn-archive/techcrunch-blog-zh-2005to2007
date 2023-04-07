@@ -1,4 +1,4 @@
-# tiger direct 299 美元的惠普台式机(两天)** | TechCrunch
+# tiger direct 299 美元的惠普台式机(两天)** 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/06/tigerdirects-299-hp-desktop-for-two-days/>
 

@@ -1,4 +1,4 @@
-# 迷失，Sprint 手机的其他 ABC 节目，免费–TechCrunch
+# 迷失，Sprint 手机的其他 ABC 节目，免费
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/lost-other-abc-shows-to-sprint-phones-free/>
 

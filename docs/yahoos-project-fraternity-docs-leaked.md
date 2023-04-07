@@ -1,4 +1,4 @@
-# 雅虎“项目兄弟会”文件泄露 TechCrunch
+# 雅虎“项目兄弟会”文件泄露 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/12/yahoos-project-fraternity-docs-leaked>
 

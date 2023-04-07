@@ -1,4 +1,4 @@
-# Riya 将于今日发布——TechCrunch
+# Riya 将于今日发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/21/riya-to-launch-today/>
 

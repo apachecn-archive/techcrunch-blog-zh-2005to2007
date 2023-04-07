@@ -1,4 +1,4 @@
-# Jabra Klipsch 手机立体声——TechCrunch
+# Jabra Klipsch 手机立体声
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/jabra-klipsch-stereo-for-mobile-phones/>
 

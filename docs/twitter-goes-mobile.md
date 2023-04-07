@@ -1,4 +1,4 @@
-# Twitter 走向移动| TechCrunch
+# Twitter 走向移动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/06/twitter-goes-mobile/>
 

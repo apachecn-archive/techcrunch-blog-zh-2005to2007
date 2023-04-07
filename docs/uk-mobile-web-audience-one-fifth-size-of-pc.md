@@ -1,4 +1,4 @@
-# 英国移动网络受众是 PC 的五分之一 TechCrunch
+# 英国移动网络受众是 PC 的五分之一 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/uk-mobile-web-audience-one-fifth-size-of-pc/>
 

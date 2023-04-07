@@ -1,4 +1,4 @@
-# 太贵的旧手机——TechCrunch
+# 太贵的旧手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/old-crap-ass-phones-that-cost-way-too-much/>
 

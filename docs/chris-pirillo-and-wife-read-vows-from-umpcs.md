@@ -1,4 +1,4 @@
-# 克里斯·皮里洛和妻子宣读来自 UMPCs | TechCrunch 的誓言
+# 克里斯·皮里洛和妻子宣读来自 UMPCs  的誓言
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/13/chris-pirillo-and-wife-read-vows-from-umpcs/>
 

@@ -1,4 +1,4 @@
-# 乔布斯挑战 DRM，得到怪物有线电视的帮助。不，真的——TechCrunch
+# 乔布斯挑战 DRM，得到怪物有线电视的帮助。不，真的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/jobs-challenges-drm-gets-help-from-monster-cable-no-really/>
 

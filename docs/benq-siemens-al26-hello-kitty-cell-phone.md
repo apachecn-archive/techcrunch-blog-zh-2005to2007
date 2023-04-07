@@ -1,4 +1,4 @@
-# 明基-西门子 AL26 Hello Kitty 手机 TechCrunch
+# 明基-西门子 AL26 Hello Kitty 手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/benq-siemens-al26-hello-kitty-cell-phone/>
 

@@ -1,4 +1,4 @@
-# Vista 已经准备好了。真的吗？TechCrunch
+# Vista 已经准备好了。真的吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/vista-is-ready-to-roll-really/>
 

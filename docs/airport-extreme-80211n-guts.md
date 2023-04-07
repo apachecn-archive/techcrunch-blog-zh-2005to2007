@@ -1,4 +1,4 @@
-# airport Extreme 802.11n Guts | TechCrunch
+# airport Extreme 802.11n Guts 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/airport-extreme-80211n-guts/>
 

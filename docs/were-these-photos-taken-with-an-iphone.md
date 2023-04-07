@@ -1,4 +1,4 @@
-# 这些照片是用 iPhone 拍的吗？TechCrunch
+# 这些照片是用 iPhone 拍的吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/29/were-these-photos-taken-with-an-iphone/>
 

@@ -1,4 +1,4 @@
-# 玩具展不意味着游戏时间——TechCrunch
+# 玩具展不意味着游戏时间
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/toy-fair-doesn%e2%80%99t-mean-playtime/>
 

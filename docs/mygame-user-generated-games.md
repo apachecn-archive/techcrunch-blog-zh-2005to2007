@@ -1,4 +1,4 @@
-# MyGame:创建和发布简单的 Flash 游戏 TechCrunch
+# MyGame:创建和发布简单的 Flash 游戏 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/08/mygame-user-generated-games/>
 

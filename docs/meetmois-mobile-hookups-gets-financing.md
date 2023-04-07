@@ -1,4 +1,4 @@
-# MeetMoi 的移动连接获得融资——TechCrunch
+# MeetMoi 的移动连接获得融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/06/meetmois-mobile-hookups-gets-financing/>
 

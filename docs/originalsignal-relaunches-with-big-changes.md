@@ -1,4 +1,4 @@
-# 原始信号重新推出，有很大变化| TechCrunch
+# 原始信号重新推出，有很大变化
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/23/originalsignal-relaunches-with-big-changes/>
 

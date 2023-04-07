@@ -1,4 +1,4 @@
-# Edgeio 推出 TechCrunch
+# Edgeio 推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/27/edgeio-launches/>
 

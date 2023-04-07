@@ -1,4 +1,4 @@
-# 用 Dandelife 打造你的人生故事——TechCrunch
+# 用 Dandelife 打造你的人生故事
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/13/brand-your-life-story-with-dandelife/>
 

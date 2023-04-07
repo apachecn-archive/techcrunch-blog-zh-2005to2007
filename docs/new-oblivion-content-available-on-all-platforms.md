@@ -1,4 +1,4 @@
-# 所有平台都有新的遗忘内容| TechCrunch
+# 所有平台都有新的遗忘内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/new-oblivion-content-available-on-all-platforms/>
 

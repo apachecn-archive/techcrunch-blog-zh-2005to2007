@@ -1,4 +1,4 @@
-# MonsterPod:贴在任何地方——TechCrunch
+# MonsterPod:贴在任何地方
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/monsterpod-stick-it-anywhere/>
 

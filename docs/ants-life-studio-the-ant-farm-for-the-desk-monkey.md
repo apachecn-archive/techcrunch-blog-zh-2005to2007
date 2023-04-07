@@ -1,4 +1,4 @@
-# 蚂蚁的生活工作室，桌猴的蚂蚁农场| TechCrunch
+# 蚂蚁的生活工作室，桌猴的蚂蚁农场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/ants-life-studio-the-ant-farm-for-the-desk-monkey/>
 

@@ -1,4 +1,4 @@
-# Windows Live Spaces 发布，取代 MSN Spaces TechCrunch
+# Windows Live Spaces 发布，取代 MSN Spaces 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/01/windows-live-spaces-launches-replaces-msn-spaces/>
 

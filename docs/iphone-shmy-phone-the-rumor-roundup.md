@@ -1,4 +1,4 @@
-# iPhone，Shmy-Phone:谣言综述| TechCrunch
+# iPhone，Shmy-Phone:谣言综述
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/iphone-shmy-phone-the-rumor-roundup/>
 

@@ -1,4 +1,4 @@
-# AVerMedia 宣布推出混合电视调谐器 Expresscard | TechCrunch
+# AVerMedia 宣布推出混合电视调谐器 Expresscard 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/avermedia-announces-hybrid-tv-tuner-expresscard/>
 

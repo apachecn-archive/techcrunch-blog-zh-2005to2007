@@ -1,4 +1,4 @@
-# 探索网络推出纯移动内容——TechCrunch
+# 探索网络推出纯移动内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/discovery-networks-launches-mobile-only-content/>
 

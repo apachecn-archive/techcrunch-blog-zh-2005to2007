@@ -1,4 +1,4 @@
-# 苹果员工在公共场合炫耀 iPhone——TechCrunch
+# 苹果员工在公共场合炫耀 iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/apple-employees-flaunting-iphone-in-public/>
 

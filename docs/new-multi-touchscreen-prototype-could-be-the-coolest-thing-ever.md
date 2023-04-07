@@ -1,4 +1,4 @@
-# 新的多触摸屏原型可能是有史以来最酷的东西——TechCrunch
+# 新的多触摸屏原型可能是有史以来最酷的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/new-multi-touchscreen-prototype-could-be-the-coolest-thing-ever/>
 

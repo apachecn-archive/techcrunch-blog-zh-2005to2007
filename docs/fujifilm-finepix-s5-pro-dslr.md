@@ -1,4 +1,4 @@
-# 富士 FinePix S5 Pro DSLR–TechCrunch
+# 富士 FinePix S5 Pro DSLR
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/fujifilm-finepix-s5-pro-dslr/>
 

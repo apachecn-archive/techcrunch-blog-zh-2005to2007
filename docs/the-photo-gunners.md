@@ -1,4 +1,4 @@
-# Flickr 枪手 TechCrunch
+# Flickr 枪手 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/06/the-photo-gunners>
 

@@ -1,4 +1,4 @@
-# 旧的和失败的:瓶装水——新的热点:金光闪闪的 H2O——TechCrunch
+# 旧的和失败的:瓶装水——新的热点:金光闪闪的 H2O
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/old-and-busted-bottled-waternew-hotness-bling-h2o/>
 

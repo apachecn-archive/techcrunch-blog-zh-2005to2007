@@ -1,4 +1,4 @@
-# 纽约 Helio 旗舰店即将开业——TechCrunch
+# 纽约 Helio 旗舰店即将开业
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/19/nycs-helio-flagship-store-coming-soon/>
 

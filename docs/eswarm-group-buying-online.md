@@ -1,4 +1,4 @@
-# eSwarm:在线团购——TechCrunch
+# eSwarm:在线团购
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/28/eswarm-group-buying-online/>
 

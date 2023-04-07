@@ -1,4 +1,4 @@
-# 未来学家:我们预测 iPhone 将会引爆 TechCrunch
+# 未来学家:我们预测 iPhone 将会引爆 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/07/the-futurist-we-predict-the-iphone-will-bomb/>
 

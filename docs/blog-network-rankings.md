@@ -1,4 +1,4 @@
-# 博客网络排名| TechCrunch
+# 博客网络排名
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/12/blog-network-rankings/>
 

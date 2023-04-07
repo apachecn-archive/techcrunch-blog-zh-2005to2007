@@ -1,4 +1,4 @@
-# 现在的智能手机:欢迎| TechCrunch
+# 现在的智能手机:欢迎
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/01/smartphones-now-welcome/>
 

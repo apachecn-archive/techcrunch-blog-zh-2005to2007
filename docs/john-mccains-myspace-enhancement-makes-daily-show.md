@@ -1,4 +1,4 @@
-# 约翰麦凯恩的 MySpace“增强版”成为每日秀 TechCrunch
+# 约翰麦凯恩的 MySpace“增强版”成为每日秀 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/29/john-mccains-myspace-enhancement-makes-daily-show/>
 

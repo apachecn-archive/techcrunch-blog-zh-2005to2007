@@ -1,4 +1,4 @@
-# 学费教练:学费规划网站是很好的避孕工具 TechCrunch
+# 学费教练:学费规划网站是很好的避孕工具 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/27/tuitioncoach-tuition-planning-site-is-good-birth-control/>
 

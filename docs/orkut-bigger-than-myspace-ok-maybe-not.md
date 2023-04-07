@@ -1,4 +1,4 @@
-# Orkut 比 MySpace 大？好吧，也许不是——TechCrunch
+# Orkut 比 MySpace 大？好吧，也许不是
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/01/orkut-bigger-than-myspace-ok-maybe-not/>
 

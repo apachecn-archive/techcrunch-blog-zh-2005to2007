@@ -1,4 +1,4 @@
-# AllTheCode 推出新代码搜索 TechCrunch
+# AllTheCode 推出新代码搜索 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/06/allthecode-launches-new-code-search/>
 

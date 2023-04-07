@@ -1,4 +1,4 @@
-# 微软将除 Red Hat Linux 之外的合作伙伴扩展到 Xandros:包括知识产权保护——TechCrunch
+# 微软将除 Red Hat Linux 之外的合作伙伴扩展到 Xandros:包括知识产权保护
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/04/microsoft-expands-anyone-but-red-hat-linux-partnerships-to-xandros/>
 

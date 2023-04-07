@@ -1,4 +1,4 @@
-# NES 模拟器登陆 iPhone-TechCrunch
+# NES 模拟器登陆 iPhone-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/nes-emulator-hits-the-iphone/>
 

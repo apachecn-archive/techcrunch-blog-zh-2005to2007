@@ -1,4 +1,4 @@
-# Ajax 字典-object graph TechCrunch
+# Ajax 字典-object graph 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/19/ajax-dictionary-objectgraph/>
 

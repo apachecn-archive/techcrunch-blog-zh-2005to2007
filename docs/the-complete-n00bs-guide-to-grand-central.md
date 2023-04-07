@@ -1,4 +1,4 @@
-# 中央车站的 N00B 完整指南| TechCrunch
+# 中央车站的 N00B 完整指南
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/28/the-complete-n00bs-guide-to-grand-central/>
 

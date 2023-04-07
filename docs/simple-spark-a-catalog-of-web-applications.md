@@ -1,4 +1,4 @@
-# 简单火花:网络应用目录 TechCrunch
+# 简单火花:网络应用目录 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/20/simple-spark-a-catalog-of-web-applications/>
 

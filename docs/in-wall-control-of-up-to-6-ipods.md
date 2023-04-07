@@ -1,4 +1,4 @@
-# 墙内控制多达 6 台 iPods | TechCrunch
+# 墙内控制多达 6 台 iPods 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/28/in-wall-control-of-up-to-6-ipods/>
 

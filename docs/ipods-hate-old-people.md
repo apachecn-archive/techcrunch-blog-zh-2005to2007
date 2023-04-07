@@ -1,4 +1,4 @@
-# iPods 讨厌老人——TechCrunch
+# iPods 讨厌老人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/11/ipods-hate-old-people/>
 

@@ -1,4 +1,4 @@
-# 这是钢铁侠的盔甲？WTF！TechCrunch
+# 这是钢铁侠的盔甲？WTF！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/13/this-is-iron-mans-armor-wtf/>
 

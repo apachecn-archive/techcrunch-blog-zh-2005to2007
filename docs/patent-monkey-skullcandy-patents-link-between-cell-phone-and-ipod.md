@@ -1,4 +1,4 @@
-# 专利猴:Skullcandy 手机和 iPod 之间的专利链接 TechCrunch
+# 专利猴:Skullcandy 手机和 iPod 之间的专利链接 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/patent-monkey-skullcandy-patents-link-between-cell-phone-and-ipod/>
 

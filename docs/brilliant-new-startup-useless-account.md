@@ -1,4 +1,4 @@
-# 辉煌的新创公司:无用的账户——TechCrunch
+# 辉煌的新创公司:无用的账户
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/05/brilliant-new-startup-useless-account/>
 

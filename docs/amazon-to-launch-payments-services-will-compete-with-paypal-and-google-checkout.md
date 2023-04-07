@@ -1,4 +1,4 @@
-# 亚马逊将推出支付服务；将与 PayPal 和 Google Checkout 竞争 TechCrunch
+# 亚马逊将推出支付服务；将与 PayPal 和 Google Checkout 竞争 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/01/amazon-to-launch-payments-services-will-compete-with-paypal-and-google-checkout/>
 

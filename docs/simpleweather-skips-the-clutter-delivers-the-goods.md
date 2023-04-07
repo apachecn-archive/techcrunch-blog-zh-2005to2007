@@ -1,4 +1,4 @@
-# SimpleWeather 跳过杂乱，交付货物| TechCrunch
+# SimpleWeather 跳过杂乱，交付货物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/19/simpleweather-skips-the-clutter-delivers-the-goods/>
 

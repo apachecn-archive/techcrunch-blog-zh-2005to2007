@@ -1,4 +1,4 @@
-# MySpace 的外语版将于今年夏天发布——TechCrunch
+# MySpace 的外语版将于今年夏天发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/20/myspace-in-foreign-languages-due-out-this-summer/>
 

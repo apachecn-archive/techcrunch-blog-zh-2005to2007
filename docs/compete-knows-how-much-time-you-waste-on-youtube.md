@@ -1,4 +1,4 @@
-# Compete 知道你在 YouTube 上浪费了多少时间 TechCrunch
+# Compete 知道你在 YouTube 上浪费了多少时间 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/02/compete-knows-how-much-time-you-waste-on-youtube/>
 

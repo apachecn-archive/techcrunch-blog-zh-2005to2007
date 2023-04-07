@@ -1,4 +1,4 @@
-# 复合电缆不做 Wii 正义| TechCrunch
+# 复合电缆不做 Wii 正义
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/13/composite-cables-dont-do-wii-justice/>
 

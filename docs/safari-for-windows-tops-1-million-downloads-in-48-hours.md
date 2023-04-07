@@ -1,4 +1,4 @@
-# Safari For Windows 在 48 小时内下载量突破 100 万次——TechCrunch
+# Safari For Windows 在 48 小时内下载量突破 100 万次
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/15/safari-for-windows-tops-1-million-downloads-in-48-hours/>
 

@@ -1,4 +1,4 @@
-# 圣诞快乐！TechCrunch
+# 圣诞快乐！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/25/merry-christmas/>
 

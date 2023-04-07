@@ -1,4 +1,4 @@
-# Wiz 和 Waz 来拯救| TechCrunch
+# Wiz 和 Waz 来拯救
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/wiz-and-waz-to-the-rescue/>
 

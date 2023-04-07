@@ -1,4 +1,4 @@
-# nVidia 8600 和 8500 GPUs 现在官方:仍然摇滚 PureVideo HD | TechCrunch
+# nVidia 8600 和 8500 GPUs 现在官方:仍然摇滚 PureVideo HD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/nvidia-8600-and-8500-gpus-now-official-still-rock-purevideo-hd/>
 

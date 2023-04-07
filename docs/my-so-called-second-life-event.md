@@ -1,4 +1,4 @@
-# 我所谓的第二人生事件| TechCrunch
+# 我所谓的第二人生事件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/my-so-called-second-life-event/>
 

@@ -1,4 +1,4 @@
-# 3GSM 2007:巴塞罗纳的 crunch gear | TechCrunch
+# 3GSM 2007:巴塞罗纳的 crunch gear 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/3gsm-2007-crunchgear-in-barcelona/>
 

@@ -1,4 +1,4 @@
-# 天狼星地球直播来自 XM | TechCrunch
+# 天狼星地球直播来自 XM 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/sirius-live-earth-feed-came-from-xm/>
 

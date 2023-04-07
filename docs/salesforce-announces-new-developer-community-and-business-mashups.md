@@ -1,4 +1,4 @@
-# 独家:Salesforce Business Mashups，新的开发人员社区 TechCrunch
+# 独家:Salesforce Business Mashups，新的开发人员社区 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/06/salesforce-announces-new-developer-community-and-business-mashups/>
 

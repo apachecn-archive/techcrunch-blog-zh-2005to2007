@@ -1,4 +1,4 @@
-# Jajah 用应用程序瞄准 iPhone 用户——TechCrunch
+# Jajah 用应用程序瞄准 iPhone 用户
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/01/jajah-targets-iphone-users-with-application/>
 

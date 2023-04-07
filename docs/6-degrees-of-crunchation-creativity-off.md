@@ -1,4 +1,4 @@
-# 6 度计算创造力-关闭 TechCrunch
+# 6 度计算创造力-关闭 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/6-degrees-of-crunchation-creativity-off/>
 

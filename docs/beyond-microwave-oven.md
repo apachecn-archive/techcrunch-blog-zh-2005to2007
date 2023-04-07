@@ -1,4 +1,4 @@
-# 超越微波炉| TechCrunch
+# 超越微波炉
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/28/beyond-microwave-oven/>
 

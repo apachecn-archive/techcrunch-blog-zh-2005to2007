@@ -1,4 +1,4 @@
-# Jaxtr Widget 让社交网络用户在真实的手机上聊天——TechCrunch
+# Jaxtr Widget 让社交网络用户在真实的手机上聊天
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/14/jaxtr-widget-lets-social-networkers-chat-on-real-live-phones>
 

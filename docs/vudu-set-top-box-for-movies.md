@@ -1,4 +1,4 @@
-# Vudu:电影机顶盒——TechCrunch
+# Vudu:电影机顶盒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/30/vudu-set-top-box-for-movies/>
 

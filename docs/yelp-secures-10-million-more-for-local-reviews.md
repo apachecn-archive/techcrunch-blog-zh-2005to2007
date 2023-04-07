@@ -1,4 +1,4 @@
-# Yelp 获得 1000 万美元的本地评论 TechCrunch
+# Yelp 获得 1000 万美元的本地评论 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/04/yelp-secures-10-million-more-for-local-reviews/>
 

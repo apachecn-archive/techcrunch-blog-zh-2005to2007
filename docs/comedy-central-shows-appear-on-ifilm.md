@@ -1,4 +1,4 @@
-# 喜剧中心节目出现在 IFilm | TechCrunch
+# 喜剧中心节目出现在 IFilm 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/comedy-central-shows-appear-on-ifilm/>
 

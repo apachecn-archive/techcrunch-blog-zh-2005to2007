@@ -1,4 +1,4 @@
-# Radius 320 无缝显示–TechCrunch
+# Radius 320 无缝显示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/28/radius-320-seamless-display/>
 

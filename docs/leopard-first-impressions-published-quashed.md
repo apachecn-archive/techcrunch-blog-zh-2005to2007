@@ -1,4 +1,4 @@
-# Leopard First Impressions 已发布，但被撤销——TechCrunch
+# Leopard First Impressions 已发布，但被撤销
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/leopard-first-impressions-published-quashed/>
 

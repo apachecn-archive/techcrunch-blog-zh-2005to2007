@@ -1,4 +1,4 @@
-# 发自我的 iPhone——你真差劲！–TechCrunch
+# 发自我的 iPhone——你真差劲！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/sent-from-my-iphoneyou-suck/>
 

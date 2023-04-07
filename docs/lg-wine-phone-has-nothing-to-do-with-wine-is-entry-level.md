@@ -1,4 +1,4 @@
-# LG Wine Phone 与酒无关，是入门级——TechCrunch
+# LG Wine Phone 与酒无关，是入门级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/lg-wine-phone-has-nothing-to-do-with-wine-is-entry-level/>
 

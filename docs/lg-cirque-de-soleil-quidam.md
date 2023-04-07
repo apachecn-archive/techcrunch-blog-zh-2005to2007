@@ -1,4 +1,4 @@
-# LG +太阳马戏团= Quidam–TechCrunch
+# LG +太阳马戏团= Quidam
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/30/lg-cirque-de-soleil-quidam/>
 

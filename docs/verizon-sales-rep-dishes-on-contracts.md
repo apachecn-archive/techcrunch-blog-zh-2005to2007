@@ -1,4 +1,4 @@
-# 合同上的威瑞森销售代表菜肴| TechCrunch
+# 合同上的威瑞森销售代表菜肴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/06/verizon-sales-rep-dishes-on-contracts/>
 

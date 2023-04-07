@@ -1,4 +1,4 @@
-# 声音部策划 MVNO 发布| TechCrunch
+# 声音部策划 MVNO 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/19/ministry-of-sound-plots-mvno-launch/>
 

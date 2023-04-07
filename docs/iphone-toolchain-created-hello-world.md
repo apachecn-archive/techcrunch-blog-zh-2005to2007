@@ -1,4 +1,4 @@
-# iPhone 工具链创建:Hello World | TechCrunch
+# iPhone 工具链创建:Hello World 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/iphone-toolchain-created-hello-world/>
 

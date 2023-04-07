@@ -1,4 +1,4 @@
-# 使命召唤 4 在 PS3 上以 60FPS 的速度运行——TechCrunch
+# 使命召唤 4 在 PS3 上以 60FPS 的速度运行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/call-of-duty-4-runs-at-60fps-on-ps3/>
 

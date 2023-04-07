@@ -1,4 +1,4 @@
-# USBCELL AA 电池可通过 USB 充电——TechCrunch
+# USBCELL AA 电池可通过 USB 充电
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/usbcell-aa-batteries-are-usb-rechargeable/>
 

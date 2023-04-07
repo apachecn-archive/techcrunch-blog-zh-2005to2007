@@ -1,4 +1,4 @@
-# Wii 做得很好，谢谢——TechCrunch
+# Wii 做得很好，谢谢
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/wii-getting-built-just-fine-thank-you/>
 

@@ -1,4 +1,4 @@
-# MyBlogLog 进入标签领域——TechCrunch
+# MyBlogLog 进入标签领域
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/24/mybloglog-gets-into-tagging/>
 

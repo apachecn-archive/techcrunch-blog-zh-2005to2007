@@ -1,4 +1,4 @@
-# 苹果前首席财务官被告知付清款项——重要时刻——TechCrunch
+# 苹果前首席财务官被告知付清款项——重要时刻
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/former-apple-cfo-told-to-pay-up-big-time/>
 

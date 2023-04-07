@@ -1,4 +1,4 @@
-# 创意禅境 W 亮相| TechCrunch
+# 创意禅境 W 亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/creative-zen-vision-w-unveiled/>
 

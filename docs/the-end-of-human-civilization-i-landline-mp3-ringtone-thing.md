@@ -1,4 +1,4 @@
-# 人类文明的终结 I:座机 MP3 铃声的事情| TechCrunch
+# 人类文明的终结 I:座机 MP3 铃声的事情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/the-end-of-human-civilization-i-landline-mp3-ringtone-thing/>
 

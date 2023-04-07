@@ -1,4 +1,4 @@
-# 添加收集大量有趣数据的小部件 TechCrunch
+# 添加收集大量有趣数据的小部件 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/05/addthis-widget-gathering-lots-of-interesting-data/>
 

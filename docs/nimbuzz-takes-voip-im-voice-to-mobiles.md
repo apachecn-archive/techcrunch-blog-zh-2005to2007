@@ -1,4 +1,4 @@
-# Nimbuzz 将 VoiP、即时消息语音带到手机上| TechCrunch
+# Nimbuzz 将 VoiP、即时消息语音带到手机上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/18/nimbuzz-takes-voip-im-voice-to-mobiles/>
 

@@ -1,4 +1,4 @@
-# 来自美国电话电报公司的视频分享——TechCrunch
+# 来自美国电话电报公司的视频分享
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/ctia-2007-hotness-video-share/>
 

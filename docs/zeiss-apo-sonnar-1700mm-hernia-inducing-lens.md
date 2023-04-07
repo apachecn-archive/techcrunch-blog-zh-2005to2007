@@ -1,4 +1,4 @@
-# 蔡司 Apo Sonnar 1700mm 毫米，疝气诱导透镜–TechCrunch
+# 蔡司 Apo Sonnar 1700mm 毫米，疝气诱导透镜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/zeiss-apo-sonnar-1700mm-hernia-inducing-lens/>
 

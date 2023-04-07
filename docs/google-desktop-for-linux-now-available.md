@@ -1,4 +1,4 @@
-# 谷歌 Linux 桌面现已推出| TechCrunch
+# 谷歌 Linux 桌面现已推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/google-desktop-for-linux-now-available/>
 

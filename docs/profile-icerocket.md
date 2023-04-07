@@ -1,4 +1,4 @@
-# 简介–ice rocket–TechCrunch
+# 简介–ice rocket
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/29/profile-icerocket/>
 

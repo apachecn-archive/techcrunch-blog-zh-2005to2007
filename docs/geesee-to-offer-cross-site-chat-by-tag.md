@@ -1,4 +1,4 @@
-# Geesee 将提供跨站点标签聊天| TechCrunch
+# Geesee 将提供跨站点标签聊天
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/04/geesee-to-offer-cross-site-chat-by-tag/>
 

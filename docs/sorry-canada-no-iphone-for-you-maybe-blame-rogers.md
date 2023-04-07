@@ -1,4 +1,4 @@
-# 对不起，加拿大，没有适合你的 iPhone(可能):怪罗杰斯吧——TechCrunch
+# 对不起，加拿大，没有适合你的 iPhone(可能):怪罗杰斯吧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/sorry-canada-no-iphone-for-you-maybe-blame-rogers/>
 

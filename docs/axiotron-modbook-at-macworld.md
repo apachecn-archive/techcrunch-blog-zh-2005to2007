@@ -1,4 +1,4 @@
-# Macworld | TechCrunch 上的 Axiotron Modbook
+# Macworld  上的 Axiotron Modbook
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/28/axiotron-modbook-at-macworld/>
 

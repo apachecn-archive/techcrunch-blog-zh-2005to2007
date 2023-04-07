@@ -1,4 +1,4 @@
-# Altoid Mod:内置流氓式视频游戏| TechCrunch
+# Altoid Mod:内置流氓式视频游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/altoid-mod-built-in-rogue-like-video-game/>
 

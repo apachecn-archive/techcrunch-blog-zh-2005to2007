@@ -1,4 +1,4 @@
-# JVC VCR 让你发光石…嗯，VHS | TechCrunch
+# JVC VCR 让你发光石…嗯，VHS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/21/jvc-vcr-lets-you-shine-shi-uh-vhs/>
 

@@ -1,4 +1,4 @@
-# 柯尼卡美能达展示新的全息 HUD | TechCrunch
+# 柯尼卡美能达展示新的全息 HUD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/05/konica-minolta-shows-off-new-holographic-hud/>
 

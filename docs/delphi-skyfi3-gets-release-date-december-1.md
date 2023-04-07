@@ -1,4 +1,4 @@
-# Delphi SkyFi3 发布日期:12 月 1 日——TechCrunch
+# Delphi SkyFi3 发布日期:12 月 1 日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/delphi-skyfi3-gets-release-date-december-1/>
 

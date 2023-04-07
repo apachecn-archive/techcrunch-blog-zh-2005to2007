@@ -1,4 +1,4 @@
-# 使用 AVeL LinkPlayer2 保持输入输出数据的活跃性–TechCrunch
+# 使用 AVeL LinkPlayer2 保持输入输出数据的活跃性
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/i-o-data-keepin-viiv-alive-with-avel-linkplayer2/>
 

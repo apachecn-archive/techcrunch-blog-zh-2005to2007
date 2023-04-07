@@ -1,4 +1,4 @@
-# Antec 笔记本冷却器 S: CrunchGear 评论–TechCrunch
+# Antec 笔记本冷却器 S: CrunchGear 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/antec-notebook-cooler-s-a-crunchgear-review/>
 

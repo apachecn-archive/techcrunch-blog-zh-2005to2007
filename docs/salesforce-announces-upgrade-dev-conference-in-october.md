@@ -1,4 +1,4 @@
-# Salesforce 宣布升级，十月份的开发会议| TechCrunch
+# Salesforce 宣布升级，十月份的开发会议
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/16/salesforce-announces-upgrade-dev-conference-in-october/>
 

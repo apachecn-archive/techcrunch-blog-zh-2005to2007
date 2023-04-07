@@ -1,4 +1,4 @@
-# CrunchGear 会议:后果| TechCrunch
+# CrunchGear 会议:后果
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/15/crunchgear-meet-up-the-aftermath/>
 

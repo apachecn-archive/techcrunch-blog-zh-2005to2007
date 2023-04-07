@@ -1,4 +1,4 @@
-# iPhone 开丢了？！没有。–TechCrunch
+# iPhone 开丢了？！没有。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/iphone-on-lost-nope/>
 

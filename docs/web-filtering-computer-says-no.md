@@ -1,4 +1,4 @@
-# 网页过滤:电脑说没有？TechCrunch
+# 网页过滤:电脑说没有？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/web-filtering-computer-says-no/>
 

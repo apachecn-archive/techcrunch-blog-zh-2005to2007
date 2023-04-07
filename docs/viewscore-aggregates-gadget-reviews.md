@@ -1,4 +1,4 @@
-# Viewscore 汇总小工具评论——TechCrunch
+# Viewscore 汇总小工具评论
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/30/viewscore-aggregates-gadget-reviews/>
 

@@ -1,4 +1,4 @@
-# Reunion.com 首轮融资 2500 万美元 TechCrunch
+# Reunion.com 首轮融资 2500 万美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/16/reunioncom-gets-25-million-for-meeting-old-friends/>
 

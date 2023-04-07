@@ -1,4 +1,4 @@
-# SXSW:丹·拉瑟直播博客| TechCrunch
+# SXSW:丹·拉瑟直播博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/12/sxsw-liveblogging-dan-rather/>
 

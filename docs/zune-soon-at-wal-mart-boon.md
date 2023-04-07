@@ -1,4 +1,4 @@
-# 沃尔玛的苏恩:恩？TechCrunch
+# 沃尔玛的苏恩:恩？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/zune-soon-at-wal-mart-boon/>
 

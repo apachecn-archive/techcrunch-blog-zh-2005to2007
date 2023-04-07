@@ -1,4 +1,4 @@
-# Palm OS II 推迟到 2008 年——TechCrunch
+# Palm OS II 推迟到 2008 年
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/palm-os-ii-delayed-until-2008/>
 

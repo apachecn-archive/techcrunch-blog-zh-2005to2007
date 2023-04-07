@@ -1,4 +1,4 @@
-# 六度嘎吱嘎吱竞赛| TechCrunch
+# 六度嘎吱嘎吱竞赛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/six-degrees-of-crunchation-contest/>
 

@@ -1,4 +1,4 @@
-# CG 特工版:5 合 1 网络摄像头| TechCrunch
+# CG 特工版:5 合 1 网络摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/03/cg-secret-agent-edition-5-in-1-webcam/>
 

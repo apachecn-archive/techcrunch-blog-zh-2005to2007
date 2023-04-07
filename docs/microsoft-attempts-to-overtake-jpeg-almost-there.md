@@ -1,4 +1,4 @@
-# 微软试图超越 JPEG，即将实现| TechCrunch
+# 微软试图超越 JPEG，即将实现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/microsoft-attempts-to-overtake-jpeg-almost-there/>
 

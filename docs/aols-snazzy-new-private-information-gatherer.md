@@ -1,4 +1,4 @@
-# AOL 的新私人信息收割机 TechCrunch
+# AOL 的新私人信息收割机 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/04/aols-snazzy-new-private-information-gatherer/>
 

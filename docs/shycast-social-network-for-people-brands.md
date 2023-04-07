@@ -1,4 +1,4 @@
-# Shycast:面向人员和品牌的社交网络——TechCrunch
+# Shycast:面向人员和品牌的社交网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/17/shycast-social-network-for-people-brands/>
 

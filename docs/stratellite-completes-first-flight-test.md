@@ -1,4 +1,4 @@
-# Stratellite 完成首次飞行测试——TechCrunch
+# Stratellite 完成首次飞行测试
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/stratellite-completes-first-flight-test/>
 

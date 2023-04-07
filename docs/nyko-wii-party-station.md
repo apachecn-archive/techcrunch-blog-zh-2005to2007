@@ -1,4 +1,4 @@
-# nyko Wii Party Station–TechCrunch
+# nyko Wii Party Station
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/12/nyko-wii-party-station/>
 

@@ -1,4 +1,4 @@
-# 即将推出的威瑞森巧克力翻盖手机| TechCrunch
+# 即将推出的威瑞森巧克力翻盖手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/upcoming-verizon-chocolate-flip-phone/>
 

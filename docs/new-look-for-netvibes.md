@@ -1,4 +1,4 @@
-# Netvibes 的新外观——TechCrunch
+# Netvibes 的新外观
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/30/new-look-for-netvibes/>
 

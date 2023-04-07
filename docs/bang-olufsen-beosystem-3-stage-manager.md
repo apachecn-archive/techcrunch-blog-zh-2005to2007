@@ -1,4 +1,4 @@
-# Bang & Olufsen BeoSystem 3 舞台管理器–TechCrunch
+# Bang & Olufsen BeoSystem 3 舞台管理器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/bang-olufsen-beosystem-3-stage-manager/>
 

@@ -1,4 +1,4 @@
-# PS3 1.90 固件发布:表情包！TechCrunch
+# PS3 1.90 固件发布:表情包！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/ps3-190-firmware-released-emoticons/>
 

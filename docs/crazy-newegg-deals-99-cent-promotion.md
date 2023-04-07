@@ -1,4 +1,4 @@
-# 疯狂新蛋交易——99 美分促销| TechCrunch
+# 疯狂新蛋交易——99 美分促销
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/crazy-newegg-deals-99-cent-promotion/>
 

@@ -1,4 +1,4 @@
-# 苹果电视的 USB 端口现在被黑了，而且(几乎)功能齐全——TechCrunch
+# 苹果电视的 USB 端口现在被黑了，而且(几乎)功能齐全
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/30/apple-tvs-usb-port-now-hacked-and-almost-fully-functional/>
 

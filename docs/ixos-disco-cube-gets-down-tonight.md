@@ -1,4 +1,4 @@
-# IXOS Disco Cube 今晚上市| TechCrunch
+# IXOS Disco Cube 今晚上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/ixos-disco-cube-gets-down-tonight/>
 

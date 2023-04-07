@@ -1,4 +1,4 @@
-# Wink 2.0 上线 TechCrunch
+# Wink 2.0 上线 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/09/06/wink-20-goes-live/>
 

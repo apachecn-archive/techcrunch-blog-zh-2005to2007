@@ -1,4 +1,4 @@
-# 声控应答机传递信息，治疗 TechCrunch
+# 声控应答机传递信息，治疗 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/21/voice-activated-answering-machines-delivers-messages-therapy/>
 

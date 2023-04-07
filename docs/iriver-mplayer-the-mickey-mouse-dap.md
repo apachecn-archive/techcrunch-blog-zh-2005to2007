@@ -1,4 +1,4 @@
-# iRiver Mplayer:米老鼠 DAP | TechCrunch
+# iRiver Mplayer:米老鼠 DAP 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/iriver-mplayer-the-mickey-mouse-dap/>
 

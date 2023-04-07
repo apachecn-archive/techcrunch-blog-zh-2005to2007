@@ -1,4 +1,4 @@
-# 紧凑型 200GB 有备用端口，蓝色 LED | TechCrunch
+# 紧凑型 200GB 有备用端口，蓝色 LED 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/compact-200gb-has-ports-to-spare-blue-led/>
 

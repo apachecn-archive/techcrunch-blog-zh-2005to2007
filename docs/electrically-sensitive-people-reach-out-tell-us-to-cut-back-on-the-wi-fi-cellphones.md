@@ -1,4 +1,4 @@
-# 对电敏感的人伸出手，告诉我们减少无线网络、手机——TechCrunch
+# 对电敏感的人伸出手，告诉我们减少无线网络、手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/electrically-sensitive-people-reach-out-tell-us-to-cut-back-on-the-wi-fi-cellphones/>
 

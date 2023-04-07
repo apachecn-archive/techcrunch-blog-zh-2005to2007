@@ -1,4 +1,4 @@
-# 脸书请求开发者朋友使用新的 API——TechCrunch
+# 脸书请求开发者朋友使用新的 API
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/15/facebook-requests-developer-friends-with-new-api/>
 

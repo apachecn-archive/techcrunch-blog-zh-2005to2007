@@ -1,4 +1,4 @@
-# Vonage 首席执行官离职——我告诉过你！–TechCrunch
+# Vonage 首席执行官离职——我告诉过你！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/12/vonage-ceo-leaves-i-told-you-so/>
 

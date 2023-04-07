@@ -1,4 +1,4 @@
-# 波士顿的 Zoho 船派对——40 张邀请函——TechCrunch
+# 波士顿的 Zoho 船派对——40 张邀请函
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/10/zoho-boat-party-in-boston-40-invitations/>
 

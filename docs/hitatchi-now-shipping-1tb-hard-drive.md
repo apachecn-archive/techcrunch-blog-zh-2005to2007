@@ -1,4 +1,4 @@
-# Hitatchi 现推出 1TB 硬盘–TechCrunch
+# Hitatchi 现推出 1TB 硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/hitatchi-now-shipping-1tb-hard-drive/>
 

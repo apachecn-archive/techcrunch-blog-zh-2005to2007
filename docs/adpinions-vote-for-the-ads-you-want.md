@@ -1,4 +1,4 @@
-# 为你想要的广告投票——TechCrunch
+# 为你想要的广告投票
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/adpinions-vote-for-the-ads-you-want/>
 

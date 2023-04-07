@@ -1,4 +1,4 @@
-# Mundu IM V4:便宜的移动| TechCrunch
+# Mundu IM V4:便宜的移动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/mundu-im-v4-mobile-im-on-the-cheap/>
 

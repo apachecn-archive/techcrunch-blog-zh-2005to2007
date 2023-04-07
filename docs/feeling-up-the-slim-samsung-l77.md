@@ -1,4 +1,4 @@
-# 感受超薄的三星 L77 | TechCrunch
+# 感受超薄的三星 L77 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/11/feeling-up-the-slim-samsung-l77/>
 

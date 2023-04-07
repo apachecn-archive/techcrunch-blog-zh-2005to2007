@@ -1,4 +1,4 @@
-# Xbox 360 保修延长至一年| TechCrunch
+# Xbox 360 保修延长至一年
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/22/xbox-360-warranty-extended-to-one-year/>
 

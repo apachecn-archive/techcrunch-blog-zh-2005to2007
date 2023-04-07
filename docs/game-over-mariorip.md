@@ -1,4 +1,4 @@
-# 游戏结束了，马里奥…RIP | TechCrunch
+# 游戏结束了，马里奥…RIP 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/05/game-over-mariorip/>
 

@@ -1,4 +1,4 @@
-# 在线支付账单的 billeo Bar——TechCrunch
+# 在线支付账单的 billeo Bar
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/16/billeo-bar-for-paying-your-bills-online/>
 

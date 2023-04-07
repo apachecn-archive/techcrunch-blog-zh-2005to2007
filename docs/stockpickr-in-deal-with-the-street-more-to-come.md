@@ -1,4 +1,4 @@
-# 《对付街头》中的斯托克克尔:还会有更多吗？–TechCrunch
+# 《对付街头》中的斯托克克尔:还会有更多吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/03/stockpickr-in-deal-with-the-street-more-to-come/>
 

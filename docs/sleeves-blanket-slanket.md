@@ -1,4 +1,4 @@
-# 袖子+毯子= Slanket！TechCrunch
+# 袖子+毯子= Slanket！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/sleeves-blanket-slanket/>
 

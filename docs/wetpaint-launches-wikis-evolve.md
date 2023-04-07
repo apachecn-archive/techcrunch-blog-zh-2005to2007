@@ -1,4 +1,4 @@
-# Wetpaint 发布:维基进化 TechCrunch
+# Wetpaint 发布:维基进化 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/18/wetpaint-launches-wikis-evolve/>
 

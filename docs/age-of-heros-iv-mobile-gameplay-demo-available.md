@@ -1,4 +1,4 @@
-# 英雄时代 4 手机游戏演示可用——TechCrunch
+# 英雄时代 4 手机游戏演示可用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/age-of-heros-iv-mobile-gameplay-demo-available/>
 

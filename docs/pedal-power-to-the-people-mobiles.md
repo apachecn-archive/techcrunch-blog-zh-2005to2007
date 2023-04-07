@@ -1,4 +1,4 @@
-# 将力量传递给人们，手机| TechCrunch
+# 将力量传递给人们，手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/pedal-power-to-the-people-mobiles/>
 

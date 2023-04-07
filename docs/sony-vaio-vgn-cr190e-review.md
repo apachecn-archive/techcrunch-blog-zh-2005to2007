@@ -1,4 +1,4 @@
-# 索尼 VAIO VGN-CR190E 评论| TechCrunch
+# 索尼 VAIO VGN-CR190E 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/sony-vaio-vgn-cr190e-review/>
 

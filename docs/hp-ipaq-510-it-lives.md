@@ -1,4 +1,4 @@
-# 惠普 iPAQ 510:它活了！TechCrunch
+# 惠普 iPAQ 510:它活了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/hp-ipaq-510-it-lives/>
 

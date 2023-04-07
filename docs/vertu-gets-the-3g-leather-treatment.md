@@ -1,4 +1,4 @@
-# Vertu 获得 3G，皮革处理 TechCrunch
+# Vertu 获得 3G，皮革处理 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/10/vertu-gets-the-3g-leather-treatment/>
 

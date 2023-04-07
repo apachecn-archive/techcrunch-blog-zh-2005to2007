@@ -1,4 +1,4 @@
-# SmutVibes 是没有审查的社交网络——TechCrunch
+# SmutVibes 是没有审查的社交网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/14/smutvibes-is-social-networking-minus-censorship/>
 

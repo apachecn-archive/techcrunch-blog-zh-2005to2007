@@ -1,4 +1,4 @@
-# 投票结果出来了，获胜者是… | TechCrunch
+# 投票结果出来了，获胜者是… 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/15/pater-obsoletis-votes-tallied-the-winner-is/>
 

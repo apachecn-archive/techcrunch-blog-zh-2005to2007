@@ -1,4 +1,4 @@
-# 简介–连接(波音)–TechCrunch
+# 简介–连接(波音)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/06/profile-connexion-boeing/>
 

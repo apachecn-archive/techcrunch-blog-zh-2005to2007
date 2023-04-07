@@ -1,4 +1,4 @@
-# 索尼推出 VAIO LS1 电视/电脑组合——TechCrunch
+# 索尼推出 VAIO LS1 电视/电脑组合
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/sony-unveils-vaio-ls1-tvpc-combo/>
 

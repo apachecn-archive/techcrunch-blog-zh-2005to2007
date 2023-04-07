@@ -1,4 +1,4 @@
-# FragFX 为 PS3 提供 PC 风格的控制——TechCrunch
+# FragFX 为 PS3 提供 PC 风格的控制
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/fragfx-offers-pc-styled-control-for-ps3/>
 

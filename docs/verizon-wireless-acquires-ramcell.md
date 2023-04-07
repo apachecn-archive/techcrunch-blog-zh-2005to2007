@@ -1,4 +1,4 @@
-# 威瑞森无线收购 Ramcell | TechCrunch
+# 威瑞森无线收购 Ramcell 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/verizon-wireless-acquires-ramcell/>
 

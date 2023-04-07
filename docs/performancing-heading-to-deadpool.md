@@ -1,4 +1,4 @@
-# 走向死亡池的表演——TechCrunch
+# 走向死亡池的表演
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/22/performancing-heading-to-deadpool/>
 

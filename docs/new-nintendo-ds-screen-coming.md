@@ -1,4 +1,4 @@
-# 任天堂 DS 新屏幕来了？TechCrunch
+# 任天堂 DS 新屏幕来了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/new-nintendo-ds-screen-coming/>
 

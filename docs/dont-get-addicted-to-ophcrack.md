@@ -1,4 +1,4 @@
-# 不要沉迷于 Ophcrack | TechCrunch
+# 不要沉迷于 Ophcrack 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/02/dont-get-addicted-to-ophcrack/>
 

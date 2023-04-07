@@ -1,4 +1,4 @@
-# 未来主义者:名牌电视的终结。为什么你的下一套会是 Vizio | TechCrunch
+# 未来主义者:名牌电视的终结。为什么你的下一套会是 Vizio 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/the-futurist-the-end-of-name-brand-tvs-or-why-your-next-set-will-be-a-vizio/>
 

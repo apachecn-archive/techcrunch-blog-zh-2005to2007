@@ -1,4 +1,4 @@
-# 加州 RFID 法案——TechCrunch
+# 加州 RFID 法案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/rip-california-rfid-bill/>
 

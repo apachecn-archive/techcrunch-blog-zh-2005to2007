@@ -1,4 +1,4 @@
-# Wii 想要我们的 Wii-TechCrunch
+# Wii 想要我们的 Wii-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/wii-want-our-wii/>
 

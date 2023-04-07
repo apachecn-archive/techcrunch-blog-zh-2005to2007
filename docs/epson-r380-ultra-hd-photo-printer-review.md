@@ -1,4 +1,4 @@
-# 爱普生 R380 超高清照片打印机评论| TechCrunch
+# 爱普生 R380 超高清照片打印机评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/epson-r380-ultra-hd-photo-printer-review/>
 

@@ -1,4 +1,4 @@
-# 付钱在 Monster Dare | TechCrunch 上羞辱你的朋友
+# 付钱在 Monster Dare  上羞辱你的朋友
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/28/pay-to-humiliate-your-friends-on-monster-dare/>
 

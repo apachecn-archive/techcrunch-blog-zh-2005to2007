@@ -1,4 +1,4 @@
-# Sprint–TechCrunch 现已推出 Novatel Merlin EX720 ExpressCard
+# Sprint 现已推出 Novatel Merlin EX720 ExpressCard
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/novatel-merlin-ex720-expresscard-now-available-at-sprint/>
 

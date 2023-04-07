@@ -1,4 +1,4 @@
-# 雅虎团队使用可移动字体——TechCrunch
+# 雅虎团队使用可移动字体
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/12/yahoo-teams-with-moveable-type/>
 

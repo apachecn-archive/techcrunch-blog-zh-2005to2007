@@ -1,4 +1,4 @@
-# 安珀警报 USB 驱动器| TechCrunch
+# 安珀警报 USB 驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/amber-alert-usb-drive/>
 

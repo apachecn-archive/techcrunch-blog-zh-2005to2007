@@ -1,4 +1,4 @@
-# Moto 的 KRZR 变粉红| TechCrunch
+# Moto 的 KRZR 变粉红
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/21/motos-krzr-gets-pinked/>
 

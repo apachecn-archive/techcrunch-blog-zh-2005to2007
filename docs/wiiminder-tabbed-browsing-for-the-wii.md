@@ -1,4 +1,4 @@
-# Wiiminder，Wii 标签式浏览——TechCrunch
+# Wiiminder，Wii 标签式浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/wiiminder-tabbed-browsing-for-the-wii/>
 

@@ -1,4 +1,4 @@
-# CastTV 将革新视频搜索——TechCrunch
+# CastTV 将革新视频搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/03/casttv-will-revolutionize-video-search/>
 

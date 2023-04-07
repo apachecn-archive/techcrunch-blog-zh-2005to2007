@@ -1,4 +1,4 @@
-# 华硕艾古鲁 S1 -无线 Skype 电话 TechCrunch
+# 华硕艾古鲁 S1 -无线 Skype 电话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/22/asus-aiguru-s1-wireless-skype-phone/>
 

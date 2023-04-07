@@ -1,4 +1,4 @@
-# 松下 PT-AE1000:全 1080p 高清家庭影院| TechCrunch
+# 松下 PT-AE1000:全 1080p 高清家庭影院
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/panasonic-pt-ae1000-full-1080p-hd-for-home-theaters/>
 

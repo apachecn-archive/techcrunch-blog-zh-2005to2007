@@ -1,4 +1,4 @@
-# Wii 世界的麻烦？虚拟主机销售放缓–TechCrunch
+# Wii 世界的麻烦？虚拟主机销售放缓
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/trouble-in-wii-world-virtual-console-sales-slowing/>
 

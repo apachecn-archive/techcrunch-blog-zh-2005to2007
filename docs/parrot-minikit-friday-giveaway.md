@@ -1,4 +1,4 @@
-# Parrot MINIKIT 周五赠品–TechCrunch
+# Parrot MINIKIT 周五赠品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/parrot-minikit-friday-giveaway/>
 

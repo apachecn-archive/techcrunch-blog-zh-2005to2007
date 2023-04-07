@@ -1,4 +1,4 @@
-# 戴尔召回 410 万块易着火笔记本电池——TechCrunch
+# 戴尔召回 410 万块易着火笔记本电池
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/dell-recalls-41-million-fire-prone-notebook-batteries/>
 

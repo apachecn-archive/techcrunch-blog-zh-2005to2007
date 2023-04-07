@@ -1,4 +1,4 @@
-# FCC | TechCrunch 的 Sidekick Shuriken 幻灯片
+# FCC  的 Sidekick Shuriken 幻灯片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/sidekick-shuriken-slides-by-fcc/>
 

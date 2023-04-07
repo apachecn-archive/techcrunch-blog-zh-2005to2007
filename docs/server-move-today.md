@@ -1,4 +1,4 @@
-# 今天的服务器迁移 TechCrunch
+# 今天的服务器迁移 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/server-move-today/>
 

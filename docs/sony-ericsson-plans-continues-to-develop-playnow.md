@@ -1,4 +1,4 @@
-# 索尼爱立信继续开发 PlayNow | TechCrunch
+# 索尼爱立信继续开发 PlayNow 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/sony-ericsson-plans-continues-to-develop-playnow/>
 

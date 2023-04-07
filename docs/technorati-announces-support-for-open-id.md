@@ -1,4 +1,4 @@
-# Technorati 宣布支持 Open ID TechCrunch
+# Technorati 宣布支持 Open ID 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/19/technorati-announces-support-for-open-id>
 

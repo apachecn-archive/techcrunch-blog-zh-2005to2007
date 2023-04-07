@@ -1,4 +1,4 @@
-# 威瑞森大胆使用移动电子邮件——TechCrunch
+# 威瑞森大胆使用移动电子邮件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/verizon-makes-bold-moves-with-mobile-e-mail/>
 

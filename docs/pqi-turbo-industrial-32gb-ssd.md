@@ -1,4 +1,4 @@
-# PQI Turbo Industrial 32GB 固态硬盘| TechCrunch
+# PQI Turbo Industrial 32GB 固态硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/pqi-turbo-industrial-32gb-ssd/>
 

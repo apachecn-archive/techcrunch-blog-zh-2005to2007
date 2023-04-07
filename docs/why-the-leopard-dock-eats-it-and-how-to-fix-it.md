@@ -1,4 +1,4 @@
-# Leopard Dock 为什么会吃它以及如何修复它——TechCrunch
+# Leopard Dock 为什么会吃它以及如何修复它
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/why-the-leopard-dock-eats-it-and-how-to-fix-it/>
 

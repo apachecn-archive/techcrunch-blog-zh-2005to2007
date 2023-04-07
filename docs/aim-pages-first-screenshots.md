@@ -1,4 +1,4 @@
-# AIM 页面:第一张截图——TechCrunch
+# AIM 页面:第一张截图
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/08/aim-pages-first-screenshots/>
 

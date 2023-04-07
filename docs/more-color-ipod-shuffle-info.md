@@ -1,4 +1,4 @@
-# 更多彩色 iPod Shuffle 信息–TechCrunch
+# 更多彩色 iPod Shuffle 信息
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/more-color-ipod-shuffle-info/>
 

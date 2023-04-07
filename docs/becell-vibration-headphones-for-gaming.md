@@ -1,4 +1,4 @@
-# 用于游戏的 BeCell 振动耳机–TechCrunch
+# 用于游戏的 BeCell 振动耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/becell-vibration-headphones-for-gaming/>
 

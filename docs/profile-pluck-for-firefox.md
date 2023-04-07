@@ -1,4 +1,4 @@
-# profile–puck(针对 Firefox)–TechCrunch
+# profile–puck(针对 Firefox)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/16/profile-pluck-for-firefox/>
 

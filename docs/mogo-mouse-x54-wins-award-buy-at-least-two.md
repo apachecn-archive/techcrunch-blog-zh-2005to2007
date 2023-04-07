@@ -1,4 +1,4 @@
-# MoGo 鼠标 X54 获奖；至少买两个——TechCrunch
+# MoGo 鼠标 X54 获奖；至少买两个
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/mogo-mouse-x54-wins-award-buy-at-least-two/>
 

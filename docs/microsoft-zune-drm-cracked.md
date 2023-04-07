@@ -1,4 +1,4 @@
-# 微软 Zune DRM 被破解——TechCrunch
+# 微软 Zune DRM 被破解
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/microsoft-zune-drm-cracked/>
 

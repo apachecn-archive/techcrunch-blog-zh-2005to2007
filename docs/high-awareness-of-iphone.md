@@ -1,4 +1,4 @@
-# iPhone 的高认知度——TechCrunch
+# iPhone 的高认知度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/high-awareness-of-iphone/>
 

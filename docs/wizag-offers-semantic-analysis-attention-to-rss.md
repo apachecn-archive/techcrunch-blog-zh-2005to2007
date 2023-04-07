@@ -1,4 +1,4 @@
-# Wizag 提供语义分析，关注 RSS-TechCrunch
+# Wizag 提供语义分析，关注 RSS-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/01/wizag-offers-semantic-analysis-attention-to-rss/>
 

@@ -1,4 +1,4 @@
-# 雅虎支付关闭 TechCrunch
+# 雅虎支付关闭 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/yahoo-bill-pay-to-shut/>
 

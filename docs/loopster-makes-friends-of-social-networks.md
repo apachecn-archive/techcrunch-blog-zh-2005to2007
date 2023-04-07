@@ -1,4 +1,4 @@
-# Loopster 在社交网络上交友——TechCrunch
+# Loopster 在社交网络上交友
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/07/loopster-makes-friends-of-social-networks/>
 

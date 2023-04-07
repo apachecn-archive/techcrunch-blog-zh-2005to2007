@@ -1,4 +1,4 @@
-# 自己动手做苹果电视升级套件:更强大| TechCrunch
+# 自己动手做苹果电视升级套件:更强大
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/do-it-yourself-apple-tv-upgrade-kit-more-power/>
 

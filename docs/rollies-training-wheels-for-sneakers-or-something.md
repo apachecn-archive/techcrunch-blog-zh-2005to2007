@@ -1,4 +1,4 @@
-# Rollies:运动鞋的训练轮，或者别的什么——TechCrunch
+# Rollies:运动鞋的训练轮，或者别的什么
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/rollies-training-wheels-for-sneakers-or-something/>
 

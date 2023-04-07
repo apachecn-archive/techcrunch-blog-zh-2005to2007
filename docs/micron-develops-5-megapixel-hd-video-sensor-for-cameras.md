@@ -1,4 +1,4 @@
-# Micron 为相机开发 500 万像素高清视频传感器| TechCrunch
+# Micron 为相机开发 500 万像素高清视频传感器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/micron-develops-5-megapixel-hd-video-sensor-for-cameras/>
 

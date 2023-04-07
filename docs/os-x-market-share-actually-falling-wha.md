@@ -1,4 +1,4 @@
-# OS X 市场份额实际下降。什么？TechCrunch
+# OS X 市场份额实际下降。什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/os-x-market-share-actually-falling-wha/>
 

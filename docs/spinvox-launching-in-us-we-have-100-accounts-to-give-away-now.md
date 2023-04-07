@@ -1,4 +1,4 @@
-# Spinvox 在美国推出-我们现在有 100 个帐户要赠送 TechCrunch
+# Spinvox 在美国推出-我们现在有 100 个帐户要赠送 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/17/spinvox-launching-in-us-we-have-100-accounts-to-give-away-now/>
 

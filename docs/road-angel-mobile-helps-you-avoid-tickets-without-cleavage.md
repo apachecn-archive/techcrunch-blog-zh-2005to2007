@@ -1,4 +1,4 @@
-# 马路天使手机帮你避开没有乳沟的罚单| TechCrunch
+# 马路天使手机帮你避开没有乳沟的罚单
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/road-angel-mobile-helps-you-avoid-tickets-without-cleavage/>
 

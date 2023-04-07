@@ -1,4 +1,4 @@
-# 不升级到 Vista 的六大理由——TechCrunch
+# 不升级到 Vista 的六大理由
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/six-good-reasons-not-to-upgrade-to-vista/>
 

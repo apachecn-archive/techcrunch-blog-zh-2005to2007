@@ -1,4 +1,4 @@
-# 10 个 Gmail 应用程序:你知道，对于 Gmail-TechCrunch
+# 10 个 Gmail 应用程序:你知道，对于 Gmail-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/19/10-gmail-apps-you-know-for-gmail/>
 

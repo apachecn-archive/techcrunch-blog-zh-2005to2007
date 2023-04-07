@@ -1,4 +1,4 @@
-# 苹果 iLaunch(幽默)——TechCrunch
+# 苹果 iLaunch(幽默)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/07/apple-ilaunch-humor/>
 

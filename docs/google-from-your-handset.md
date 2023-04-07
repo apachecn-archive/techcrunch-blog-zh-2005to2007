@@ -1,4 +1,4 @@
-# 手机上的谷歌| TechCrunch
+# 手机上的谷歌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/google-from-your-handset/>
 

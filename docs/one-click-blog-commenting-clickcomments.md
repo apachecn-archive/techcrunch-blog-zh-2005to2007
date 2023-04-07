@@ -1,4 +1,4 @@
-# 一键博客评论:点击评论 TechCrunch
+# 一键博客评论:点击评论 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/06/one-click-blog-commenting-clickcomments>
 

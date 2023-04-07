@@ -1,4 +1,4 @@
-# NewsGator Go！:Java 和黑莓 RSS–TechCrunch
+# NewsGator Go！:Java 和黑莓 RSS
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/newsgator-go-java-and-blackberry-rss/>
 

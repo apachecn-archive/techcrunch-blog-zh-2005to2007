@@ -1,4 +1,4 @@
-# 一些小的改进| TechCrunch
+# 一些小的改进
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/some-minor-improvements/>
 

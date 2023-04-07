@@ -1,4 +1,4 @@
-# 哦不！iPhone 触摸屏崩溃| TechCrunch
+# 哦不！iPhone 触摸屏崩溃
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/oh-noes-iphone-touchscreen-craps-out/>
 

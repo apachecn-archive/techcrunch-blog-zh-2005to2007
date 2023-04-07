@@ -1,4 +1,4 @@
-# iPhone 疯狂袭击旧金山:小丑！TechCrunch
+# iPhone 疯狂袭击旧金山:小丑！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/29/iphone-madness-hits-san-francisco-clowns/>
 

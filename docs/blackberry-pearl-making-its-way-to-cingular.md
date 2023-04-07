@@ -1,4 +1,4 @@
-# 黑莓珍珠正在走向 Cingular | TechCrunch
+# 黑莓珍珠正在走向 Cingular 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/blackberry-pearl-making-its-way-to-cingular/>
 

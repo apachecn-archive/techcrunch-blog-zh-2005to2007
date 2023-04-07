@@ -1,4 +1,4 @@
-# 瑞典老太太获得世界上最快的互联网连接——TechCrunch
+# 瑞典老太太获得世界上最快的互联网连接
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/12/old-swedish-lady-gets-worlds-fastest-internet-connection/>
 

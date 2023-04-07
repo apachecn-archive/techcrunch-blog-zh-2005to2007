@@ -1,4 +1,4 @@
-# 像杂草一样生长的 flixster——TechCrunch
+# 像杂草一样生长的 flixster
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/01/flixster-growing-like-a-weed/>
 

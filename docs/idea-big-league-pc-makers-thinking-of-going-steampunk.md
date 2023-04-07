@@ -1,4 +1,4 @@
-# 想法:大联盟的个人电脑制造商想成为蒸汽朋克？–TechCrunch
+# 想法:大联盟的个人电脑制造商想成为蒸汽朋克？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/13/idea-big-league-pc-makers-thinking-of-going-steampunk/>
 

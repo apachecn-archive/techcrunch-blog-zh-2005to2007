@@ -1,4 +1,4 @@
-# Arriva 耳机拥有 Arriva'ed | TechCrunch
+# Arriva 耳机拥有 Arriva'ed 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/arriva-headphones-have-arrivaed/>
 

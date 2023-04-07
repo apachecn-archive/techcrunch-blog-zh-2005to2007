@@ -1,4 +1,4 @@
-# “Wee for a Wii”竞赛回归，归咎于 Opie 和 Anthony | TechCrunch
+# “Wee for a Wii”竞赛回归，归咎于 Opie 和 Anthony 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/wee-for-a-wii-contest-returns-blame-opie-and-anthony/>
 

@@ -1,4 +1,4 @@
-# 未来主义者:你的朋友坏了……或者 MVNOs 如何成功——TechCrunch
+# 未来主义者:你的朋友坏了……或者 MVNOs 如何成功
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/the-futurist-your-friendar-is-broken-or-how-mvnos-can-succeed/>
 

@@ -1,4 +1,4 @@
-# WikiMatrix 允许并排进行维基比较 TechCrunch
+# WikiMatrix 允许并排进行维基比较 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/02/wikimatrix-allows-side-by-side-wiki-comparison/>
 

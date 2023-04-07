@@ -1,4 +1,4 @@
-# 可可:让你的鼻子变瘦——TechCrunch
+# 可可:让你的鼻子变瘦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/coco-clip-your-way-to-a-thinner-nose/>
 

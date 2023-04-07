@@ -1,4 +1,4 @@
-# 大西洋游戏塔——TechCrunch
+# 大西洋游戏塔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/03/atlantic-gaming-tower/>
 

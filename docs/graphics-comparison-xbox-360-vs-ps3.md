@@ -1,4 +1,4 @@
-# 图形对比:Xbox 360 与 PS3 | TechCrunch
+# 图形对比:Xbox 360 与 PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/graphics-comparison-xbox-360-vs-ps3/>
 

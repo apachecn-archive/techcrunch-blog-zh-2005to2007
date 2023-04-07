@@ -1,4 +1,4 @@
-# TrekStor 3-1 高清设置| TechCrunch
+# TrekStor 3-1 高清设置
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/trekstor-3-1-hd-setup/>
 

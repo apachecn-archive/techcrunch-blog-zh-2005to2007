@@ -1,4 +1,4 @@
-# 以 410 万美元收购 pickle——TechCrunch
+# 以 410 万美元收购 pickle
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/08/pickle-purchased-for-41-million/>
 

@@ -1,4 +1,4 @@
-# Graphita 为照片增添个人魅力——TechCrunch
+# Graphita 为照片增添个人魅力
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/17/graphita-adds-personal-bling-to-photos/>
 

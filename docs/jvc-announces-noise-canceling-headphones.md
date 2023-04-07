@@ -1,4 +1,4 @@
-# JVC 宣布推出降噪耳机| TechCrunch
+# JVC 宣布推出降噪耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/jvc-announces-noise-canceling-headphones/>
 

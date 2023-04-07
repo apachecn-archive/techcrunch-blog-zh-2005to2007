@@ -1,4 +1,4 @@
-# 天才少年发布高质量 HTC Vox Pix——TechCrunch
+# 天才少年发布高质量 HTC Vox Pix
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/boy-genius-unleashes-high-quality-htc-vox-pix/>
 

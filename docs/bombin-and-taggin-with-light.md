@@ -1,4 +1,4 @@
-# 用光轰炸和标记| TechCrunch
+# 用光轰炸和标记
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/bombin-and-taggin-with-light/>
 

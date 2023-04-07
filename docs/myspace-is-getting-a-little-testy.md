@@ -1,4 +1,4 @@
-# MySpace 有点不耐烦了——TechCrunch
+# MySpace 有点不耐烦了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/18/myspace-is-getting-a-little-testy/>
 

@@ -1,4 +1,4 @@
-# 调查提醒–TechCrunch
+# 调查提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/02/survey-reminder/>
 

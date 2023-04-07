@@ -1,4 +1,4 @@
-# Geni: 5 个月内 500 万份简介| TechCrunch
+# Geni: 5 个月内 500 万份简介
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/02/geni-5-million-profiles-in-5-months/>
 

@@ -1,4 +1,4 @@
-# 诺基亚 E62 现已从 Cingular | TechCrunch 发货
+# 诺基亚 E62 现已从 Cingular  发货
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/nokia-e62-now-shipping-from-cingular/>
 

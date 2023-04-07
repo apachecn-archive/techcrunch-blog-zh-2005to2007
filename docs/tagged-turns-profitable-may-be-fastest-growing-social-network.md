@@ -1,4 +1,4 @@
-# 标签化盈利——可能是增长最快的社交网络 TechCrunch
+# 标签化盈利——可能是增长最快的社交网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/09/tagged-turns-profitable-may-be-fastest-growing-social-network/>
 

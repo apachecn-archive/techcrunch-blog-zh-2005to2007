@@ -1,4 +1,4 @@
-# 每日危机:宝库版| TechCrunch
+# 每日危机:宝库版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/26/daily-crunch-treasure-vault-edition/>
 

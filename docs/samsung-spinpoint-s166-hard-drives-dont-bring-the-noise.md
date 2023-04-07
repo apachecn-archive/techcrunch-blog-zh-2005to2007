@@ -1,4 +1,4 @@
-# 三星 SpinPoint S166 硬盘不会带来噪音——TechCrunch
+# 三星 SpinPoint S166 硬盘不会带来噪音
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/samsung-spinpoint-s166-hard-drives-dont-bring-the-noise/>
 

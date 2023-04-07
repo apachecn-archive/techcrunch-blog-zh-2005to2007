@@ -1,4 +1,4 @@
-# 沃达丰将提供加密短信——TechCrunch
+# 沃达丰将提供加密短信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/vodafone-to-offer-encrypted-sms/>
 

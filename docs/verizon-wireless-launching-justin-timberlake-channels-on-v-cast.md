@@ -1,4 +1,4 @@
-# 威瑞森无线在 V Cast | TechCrunch 上推出贾斯汀·汀布莱克频道
+# 威瑞森无线在 V Cast  上推出贾斯汀·汀布莱克频道
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/16/verizon-wireless-launching-justin-timberlake-channels-on-v-cast/>
 

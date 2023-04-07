@@ -1,4 +1,4 @@
-# 卡西欧发布两款新 Exilims | TechCrunch
+# 卡西欧发布两款新 Exilims 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/casio-unveils-two-new-exilims/>
 

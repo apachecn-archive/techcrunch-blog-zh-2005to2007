@@ -1,4 +1,4 @@
-# 射杀信使(如果消息是“醒醒吧，混蛋”)；或者，格洛克时钟| TechCrunch
+# 射杀信使(如果消息是“醒醒吧，混蛋”)；或者，格洛克时钟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/22/shooting-the-messenger-if-the-message-is-wake-up-jerk-or-the-glock-clock/>
 

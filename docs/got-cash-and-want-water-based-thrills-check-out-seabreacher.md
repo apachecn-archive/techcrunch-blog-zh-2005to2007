@@ -1,4 +1,4 @@
-# 有现金，想要水上刺激？查看 Seabreacher | TechCrunch
+# 有现金，想要水上刺激？查看 Seabreacher 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/02/got-cash-and-want-water-based-thrills-check-out-seabreacher/>
 

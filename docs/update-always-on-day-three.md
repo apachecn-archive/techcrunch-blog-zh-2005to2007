@@ -1,4 +1,4 @@
-# 更新:永远在线(第三天)| TechCrunch
+# 更新:永远在线(第三天)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/23/update-always-on-day-three/>
 

@@ -1,4 +1,4 @@
-# 蓝光对 HD DVD:超时| TechCrunch
+# 蓝光对 HD DVD:超时
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/blu-ray-vs-hd-dvd-timeout/>
 

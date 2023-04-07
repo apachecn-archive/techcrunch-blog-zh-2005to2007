@@ -1,4 +1,4 @@
-# Viagogo 是开放的，为您的业务招徕。–TechCrunch
+# Viagogo 是开放的，为您的业务招徕。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/viagogo-are-open-and-touting-for-your-business/>
 

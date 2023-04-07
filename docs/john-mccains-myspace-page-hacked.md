@@ -1,4 +1,4 @@
-# 约翰·麦凯恩的 MySpace 页面“增强版”TechCrunch
+# 约翰·麦凯恩的 MySpace 页面“增强版”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/27/john-mccains-myspace-page-hacked/>
 

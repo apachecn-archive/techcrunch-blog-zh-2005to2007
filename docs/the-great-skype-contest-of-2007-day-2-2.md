@@ -1,4 +1,4 @@
-# 2007 年 Skype 大赛第二天——TechCrunch
+# 2007 年 Skype 大赛第二天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/the-great-skype-contest-of-2007-day-2-2/>
 

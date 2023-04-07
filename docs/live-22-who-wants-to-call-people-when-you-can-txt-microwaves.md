@@ -1,4 +1,4 @@
-# 直播 22:当你可以发短信给微波炉时，谁愿意给人打电话？–TechCrunch
+# 直播 22:当你可以发短信给微波炉时，谁愿意给人打电话？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/live-22-who-wants-to-call-people-when-you-can-txt-microwaves/>
 

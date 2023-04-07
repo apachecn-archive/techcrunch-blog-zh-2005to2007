@@ -1,4 +1,4 @@
-# 时代华纳高清有线电视盒包括 HDMI、酷炫遥控器、色情——TechCrunch
+# 时代华纳高清有线电视盒包括 HDMI、酷炫遥控器、色情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/time-warner-hd-cable-box-includes-hdmi-cool-remote-porn/>
 

@@ -1,4 +1,4 @@
-# Findory 达到里程碑| TechCrunch
+# Findory 达到里程碑
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/02/findory-is-profitable/>
 

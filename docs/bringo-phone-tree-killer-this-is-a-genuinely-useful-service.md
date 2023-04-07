@@ -1,4 +1,4 @@
-# 电话树黑仔。这是一项真正有用的服务——TechCrunch
+# 电话树黑仔。这是一项真正有用的服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/15/bringo-phone-tree-killer-this-is-a-genuinely-useful-service/>
 

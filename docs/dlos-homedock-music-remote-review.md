@@ -1,4 +1,4 @@
-# DLO 的 HomeDock 音乐远程评论——TechCrunch
+# DLO 的 HomeDock 音乐远程评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/15/dlos-homedock-music-remote-review/>
 

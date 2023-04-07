@@ -1,4 +1,4 @@
-# Web 2.0 的公司，第 1 部分 TechCrunch
+# Web 2.0 的公司，第 1 部分 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/05/the-companies-of-web-20-part-1/>
 

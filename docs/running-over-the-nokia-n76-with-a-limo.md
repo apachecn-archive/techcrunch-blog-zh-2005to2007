@@ -1,4 +1,4 @@
-# 用豪华轿车碾过诺基亚 N76 | TechCrunch
+# 用豪华轿车碾过诺基亚 N76 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/running-over-the-nokia-n76-with-a-limo/>
 

@@ -1,4 +1,4 @@
-# 通用动力变得坚固耐用| TechCrunch
+# 通用动力变得坚固耐用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/general-dynamics-gets-rugged/>
 

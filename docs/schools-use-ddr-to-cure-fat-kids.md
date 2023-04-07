@@ -1,4 +1,4 @@
-# 学校使用 DDR 治疗肥胖儿童——TechCrunch
+# 学校使用 DDR 治疗肥胖儿童
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/30/schools-use-ddr-to-cure-fat-kids/>
 

@@ -1,4 +1,4 @@
-# 手机屁股的廉价塑料| TechCrunch
+# 手机屁股的廉价塑料
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/24/cheap-plastic-for-your-phones-ass/>
 

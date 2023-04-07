@@ -1,4 +1,4 @@
-# 百得红外线烤箱棒极了——TechCrunch
+# 百得红外线烤箱棒极了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/01/black-decker-infrawave-oven-awesomeness/>
 

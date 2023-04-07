@@ -1,4 +1,4 @@
-# 谷歌“提示”拉了？–TechCrunch
+# 谷歌“提示”拉了？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/04/google-tips-pulled/>
 

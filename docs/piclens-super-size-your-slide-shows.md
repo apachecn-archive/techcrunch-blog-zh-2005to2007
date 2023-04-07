@@ -1,4 +1,4 @@
-# PicLens:超大尺寸的幻灯片——TechCrunch
+# PicLens:超大尺寸的幻灯片
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/20/piclens-super-size-your-slide-shows/>
 

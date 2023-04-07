@@ -1,4 +1,4 @@
-# 用文字描述 Gizmondo 的故事——TechCrunch
+# 用文字描述 Gizmondo 的故事
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/the-gizmondo-story-in-words/>
 

@@ -1,4 +1,4 @@
-# 谷歌没有放弃 VoIP | TechCrunch
+# 谷歌没有放弃 VoIP 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/08/google-gives-voip-a-second-chance/>
 

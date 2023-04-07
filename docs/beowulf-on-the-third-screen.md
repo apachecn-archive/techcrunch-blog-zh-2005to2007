@@ -1,4 +1,4 @@
-# 第三个屏幕上的贝奥武夫——TechCrunch
+# 第三个屏幕上的贝奥武夫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/beowulf-on-the-third-screen/>
 

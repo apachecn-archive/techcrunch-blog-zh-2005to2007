@@ -1,4 +1,4 @@
-# 索尼 Vaio LA 系列媒体中心电脑–TechCrunch
+# 索尼 Vaio LA 系列媒体中心电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/sony-vaio-la-series-media-center-pcs/>
 

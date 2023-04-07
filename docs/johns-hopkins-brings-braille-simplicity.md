@@ -1,4 +1,4 @@
-# 约翰霍普金斯带来盲文简洁性 TechCrunch
+# 约翰霍普金斯带来盲文简洁性 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/johns-hopkins-brings-braille-simplicity/>
 

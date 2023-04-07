@@ -1,4 +1,4 @@
-# 邮件收发室管理小型企业邮件 TechCrunch
+# 邮件收发室管理小型企业邮件 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/13/mailroom-manages-small-business-mail/>
 

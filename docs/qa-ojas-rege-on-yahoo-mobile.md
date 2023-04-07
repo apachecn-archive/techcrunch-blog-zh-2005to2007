@@ -1,4 +1,4 @@
-# 雅虎上的 Ojas Rege！手机——TechCrunch
+# 雅虎上的 Ojas Rege！手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/qa-ojas-rege-on-yahoo-mobile/>
 

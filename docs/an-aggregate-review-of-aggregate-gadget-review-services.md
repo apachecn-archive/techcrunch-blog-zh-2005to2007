@@ -1,4 +1,4 @@
-# 聚合评论服务的聚合评论——TechCrunch
+# 聚合评论服务的聚合评论
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/28/an-aggregate-review-of-aggregate-gadget-review-services/>
 

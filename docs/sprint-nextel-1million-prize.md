@@ -1,4 +1,4 @@
-# sprint Nextel 100 万美元奖金| TechCrunch
+# sprint Nextel 100 万美元奖金
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/16/sprint-nextel-1million-prize/>
 

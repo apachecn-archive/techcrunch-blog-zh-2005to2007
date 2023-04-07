@@ -1,4 +1,4 @@
-# Goowy 冲锋在前 TechCrunch
+# Goowy 冲锋在前 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/17/goowy-charges-ahead/>
 

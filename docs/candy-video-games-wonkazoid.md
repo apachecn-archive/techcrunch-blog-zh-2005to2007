@@ -1,4 +1,4 @@
-# 糖果+视频游戏= WonkaZoid–TechCrunch
+# 糖果+视频游戏= WonkaZoid
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/candy-video-games-wonkazoid/>
 

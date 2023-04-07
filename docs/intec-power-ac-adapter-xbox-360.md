@@ -1,4 +1,4 @@
-# 英特尔电源交流适配器 Xbox 360–TechCrunch
+# 英特尔电源交流适配器 Xbox 360
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/intec-power-ac-adapter-xbox-360/>
 

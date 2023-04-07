@@ -1,4 +1,4 @@
-# Usphere:颠倒大学申请流程——TechCrunch
+# Usphere:颠倒大学申请流程
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/05/usphere-turning-the-college-application-process-upside-down/>
 

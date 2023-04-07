@@ -1,4 +1,4 @@
-# Sprint EX720:我的新闺蜜| TechCrunch
+# Sprint EX720:我的新闺蜜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/sprint-ex720-my-new-bff/>
 

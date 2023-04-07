@@ -1,4 +1,4 @@
-# 理论上的 1000PPM 打印机正在研发中| TechCrunch
+# 理论上的 1000PPM 打印机正在研发中
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/theoretical-1000ppm-printer-in-the-works/>
 

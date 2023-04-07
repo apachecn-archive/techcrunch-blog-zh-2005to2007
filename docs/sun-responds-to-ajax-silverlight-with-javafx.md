@@ -1,4 +1,4 @@
-# Sun 回应 AJAX，Silverlight 回应 Java FX TechCrunch
+# Sun 回应 AJAX，Silverlight 回应 Java FX 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/05/08/sun-responds-to-ajax-silverlight-with-javafx/>
 

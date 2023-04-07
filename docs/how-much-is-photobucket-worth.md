@@ -1,4 +1,4 @@
-# Photobucket 值多少钱？TechCrunch
+# Photobucket 值多少钱？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/29/how-much-is-photobucket-worth/>
 

@@ -1,4 +1,4 @@
-# 智能电子邮件简讯解决方案–TechCrunch
+# 智能电子邮件简讯解决方案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/smart-email-newsletter-solution/>
 

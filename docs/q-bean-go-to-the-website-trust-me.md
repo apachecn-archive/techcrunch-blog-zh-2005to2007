@@ -1,4 +1,4 @@
-# 去网站，相信我| TechCrunch
+# 去网站，相信我
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/q-bean-go-to-the-website-trust-me/>
 

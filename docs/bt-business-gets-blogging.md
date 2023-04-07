@@ -1,4 +1,4 @@
-# 英国电信公司开始写博客。–TechCrunch
+# 英国电信公司开始写博客。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/bt-business-gets-blogging/>
 

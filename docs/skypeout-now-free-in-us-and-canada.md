@@ -1,4 +1,4 @@
-# SkypeOut 现已在美国和加拿大免费 TechCrunch
+# SkypeOut 现已在美国和加拿大免费 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/15/skypeout-now-free-in-us-and-canada/>
 

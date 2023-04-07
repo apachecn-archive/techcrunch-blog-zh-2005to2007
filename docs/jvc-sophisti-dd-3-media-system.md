@@ -1,4 +1,4 @@
-# JVC 诡辩 DD-3 媒体系统 TechCrunch
+# JVC 诡辩 DD-3 媒体系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/jvc-sophisti-dd-3-media-system/>
 

@@ -1,4 +1,4 @@
-# 游戏笔记本的进攻:东芝加入战局——TechCrunch
+# 游戏笔记本的进攻:东芝加入战局
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/attack-of-the-gaming-notebooks-toshiba-joins-the-battle/>
 

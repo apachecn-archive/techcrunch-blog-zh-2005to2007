@@ -1,4 +1,4 @@
-# t-Mobile HotSpot @ Home Hands On–TechCrunch
+# t-Mobile HotSpot @ Home Hands On
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/t-mobile-hotspot-home-hands-on/>
 

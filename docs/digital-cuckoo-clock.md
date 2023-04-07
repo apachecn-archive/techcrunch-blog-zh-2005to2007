@@ -1,4 +1,4 @@
-# 数字布谷鸟钟| TechCrunch
+# 数字布谷鸟钟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/digital-cuckoo-clock/>
 

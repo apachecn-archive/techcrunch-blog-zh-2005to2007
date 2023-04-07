@@ -1,4 +1,4 @@
-# XM 再次启动并运行| TechCrunch
+# XM 再次启动并运行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/xm-up-and-running-again/>
 

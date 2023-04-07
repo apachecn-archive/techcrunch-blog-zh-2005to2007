@@ -1,4 +1,4 @@
-# 今天早上有人吃了颗古怪的药丸:iPhone 上的 Maddox——TechCrunch
+# 今天早上有人吃了颗古怪的药丸:iPhone 上的 Maddox
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/someone-took-the-cranky-pill-this-morning-maddox-on-the-iphone/>
 

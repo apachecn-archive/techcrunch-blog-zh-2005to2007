@@ -1,4 +1,4 @@
-# Nike Amp+ Watch 与 FCC | TechCrunch 合作
+# Nike Amp+ Watch 与 FCC  合作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/nike-amp-watch-does-the-dirty-with-the-fcc/>
 

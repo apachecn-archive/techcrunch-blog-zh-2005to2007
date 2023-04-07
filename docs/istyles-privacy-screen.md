@@ -1,4 +1,4 @@
-# iStyles 隐私屏–TechCrunch
+# iStyles 隐私屏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/istyles-privacy-screen/>
 

@@ -1,4 +1,4 @@
-# Friendster 获得社交网络专利 TechCrunch
+# Friendster 获得社交网络专利 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/07/friendster-awarded-patent-on-social-networking/>
 

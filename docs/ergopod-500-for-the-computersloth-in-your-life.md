@@ -1,4 +1,4 @@
-# Ergopod 500:为你生活中的电脑懒虫——TechCrunch
+# Ergopod 500:为你生活中的电脑懒虫
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/ergopod-500-for-the-computersloth-in-your-life/>
 

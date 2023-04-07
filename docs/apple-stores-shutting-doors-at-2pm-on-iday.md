@@ -1,4 +1,4 @@
-# 苹果商店在 iDay | TechCrunch 下午 2 点关门
+# 苹果商店在 iDay  下午 2 点关门
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/apple-stores-shutting-doors-at-2pm-on-iday/>
 

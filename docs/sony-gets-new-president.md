@@ -1,4 +1,4 @@
-# 索尼新任总裁| TechCrunch
+# 索尼新任总裁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/30/sony-gets-new-president/>
 

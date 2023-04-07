@@ -1,4 +1,4 @@
-# 苹果 MacBook 精装版:喜欢，不喜欢，什么？TechCrunch
+# 苹果 MacBook 精装版:喜欢，不喜欢，什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/11/rhinoskin-apple-macbook-hardcase-likes-dislikes-the-wha/>
 

@@ -1,4 +1,4 @@
-# 战斗测试:H2O 音频| TechCrunch
+# 战斗测试:H2O 音频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/battle-test-h2o-audio/>
 

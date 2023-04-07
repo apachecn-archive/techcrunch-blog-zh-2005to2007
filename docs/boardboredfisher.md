@@ -1,4 +1,4 @@
-# 董事会(无聊)费舍尔| TechCrunch
+# 董事会(无聊)费舍尔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/boardboredfisher/>
 

@@ -1,4 +1,4 @@
-# iPhone 没有预售——TechCrunch
+# iPhone 没有预售
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/no-pre-sales-for-iphone/>
 

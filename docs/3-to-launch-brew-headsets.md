@@ -1,4 +1,4 @@
-# 3 推出 BREW 耳机| TechCrunch
+# 3 推出 BREW 耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/3-to-launch-brew-headsets/>
 

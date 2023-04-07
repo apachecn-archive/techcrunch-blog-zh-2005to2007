@@ -1,4 +1,4 @@
-# O2 抛弃 I-mode–TechCrunch
+# O2 抛弃 I-mode
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/o2-to-ditch-i-mode/>
 

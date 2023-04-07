@@ -1,4 +1,4 @@
-# Browzar 只是一个广告软件机器吗？–TechCrunch
+# Browzar 只是一个广告软件机器吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/01/is-browzar-just-an-adware-machine/>
 

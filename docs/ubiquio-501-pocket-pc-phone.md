@@ -1,4 +1,4 @@
-# UBiQUiO 501 掌上电脑手机| TechCrunch
+# UBiQUiO 501 掌上电脑手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/ubiquio-501-pocket-pc-phone/>
 

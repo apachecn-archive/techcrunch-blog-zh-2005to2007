@@ -1,4 +1,4 @@
-# Bang & Olufsen BeoLab9 扬声器:销售如此花哨，您几乎不知道它们是扬声器| TechCrunch
+# Bang & Olufsen BeoLab9 扬声器:销售如此花哨，您几乎不知道它们是扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/25/bang-olufsen-beolab9-loudspeakers-marekted-so-fancily-youd-hardly-know-theyre-speakers/>
 

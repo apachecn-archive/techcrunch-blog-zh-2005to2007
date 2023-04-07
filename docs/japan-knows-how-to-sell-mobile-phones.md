@@ -1,4 +1,4 @@
-# 日本知道如何销售手机| TechCrunch
+# 日本知道如何销售手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/japan-knows-how-to-sell-mobile-phones/>
 

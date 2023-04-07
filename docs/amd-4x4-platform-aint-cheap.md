@@ -1,4 +1,4 @@
-# AMD 4×4 平台不便宜| TechCrunch
+# AMD 4×4 平台不便宜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/11/amd-4x4-platform-aint-cheap/>
 

@@ -1,4 +1,4 @@
-# 诺基亚 6110 在路上——TechCrunch
+# 诺基亚 6110 在路上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/on-the-road-with-the-nokia-6110/>
 

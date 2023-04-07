@@ -1,4 +1,4 @@
-# Zune 获得价格和日期——TechCrunch
+# Zune 获得价格和日期
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/zune-gets-price-date/>
 

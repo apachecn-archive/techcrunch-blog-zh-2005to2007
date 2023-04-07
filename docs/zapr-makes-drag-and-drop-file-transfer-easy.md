@@ -1,4 +1,4 @@
-# Zapr 使拖放文件传输变得容易| TechCrunch
+# Zapr 使拖放文件传输变得容易
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/10/zapr-makes-drag-and-drop-file-transfer-easy/>
 

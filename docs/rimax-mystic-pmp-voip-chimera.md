@@ -1,4 +1,4 @@
-# Rimax 神秘 PMP + VOIP 奇美拉| TechCrunch
+# Rimax 神秘 PMP + VOIP 奇美拉
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/rimax-mystic-pmp-voip-chimera/>
 

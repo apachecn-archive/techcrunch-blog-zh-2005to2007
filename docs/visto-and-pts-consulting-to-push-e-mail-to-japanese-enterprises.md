@@ -1,4 +1,4 @@
-# Visto 和 PTS Consulting 将电子邮件推向日本企业——TechCrunch
+# Visto 和 PTS Consulting 将电子邮件推向日本企业
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/visto-and-pts-consulting-to-push-e-mail-to-japanese-enterprises/>
 

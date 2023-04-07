@@ -1,4 +1,4 @@
-# Wii 光盘即将被…备份用于合法用途——TechCrunch
+# Wii 光盘即将被…备份用于合法用途
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/16/wii-discs-on-the-verge-of-beingbacked-up-for-legitimate-use/>
 

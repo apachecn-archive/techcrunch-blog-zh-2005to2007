@@ -1,4 +1,4 @@
-# 博客电台将博客变成脱口秀主持人 TechCrunch
+# 博客电台将博客变成脱口秀主持人 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/24/blogtalkradio-to-turn-bloggers-into-talk-radio-hosts/>
 

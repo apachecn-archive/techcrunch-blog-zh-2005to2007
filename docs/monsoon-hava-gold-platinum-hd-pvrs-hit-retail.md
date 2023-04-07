@@ -1,4 +1,4 @@
-# 季风 HAVA 黄金，白金击中零售| TechCrunch
+# 季风 HAVA 黄金，白金击中零售
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/monsoon-hava-gold-platinum-hd-pvrs-hit-retail/>
 

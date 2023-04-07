@@ -1,4 +1,4 @@
-# Google 音频广告的试运行 TechCrunch
+# Google 音频广告的试运行 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/30/soft-launch-for-google-audio-ads/>
 

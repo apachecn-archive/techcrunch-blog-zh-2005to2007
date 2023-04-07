@@ -1,4 +1,4 @@
-# Fedafi 为每个人提供了一个易于管理的 RSS 商业解决方案。TechCrunch
+# Fedafi 为每个人提供了一个易于管理的 RSS 商业解决方案。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/fedafi-offer-an-easily-managed-rss-business-solution-for-everyone/>
 

@@ -1,4 +1,4 @@
-# 雅虎！推出管道 TechCrunch
+# 雅虎！推出管道 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/02/07/yahoo-launches-pipes/>
 

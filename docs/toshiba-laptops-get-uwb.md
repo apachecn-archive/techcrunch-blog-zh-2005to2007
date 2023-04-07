@@ -1,4 +1,4 @@
-# 东芝笔记本电脑获得 UWB | TechCrunch
+# 东芝笔记本电脑获得 UWB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/toshiba-laptops-get-uwb/>
 

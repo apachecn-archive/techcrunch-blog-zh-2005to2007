@@ -1,4 +1,4 @@
-# 简介:del . icio . us director | TechCrunch
+# 简介:del . icio . us director 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/26/profile-delicious-director/>
 

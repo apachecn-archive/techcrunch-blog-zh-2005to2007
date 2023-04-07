@@ -1,4 +1,4 @@
-# MizPee:厕所移动 2.0——TechCrunch
+# MizPee:厕所移动 2.0
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/mizpee-mobile-20-for-toilets/>
 

@@ -1,4 +1,4 @@
-# 富士通发布新平板电脑——TechCrunch
+# 富士通发布新平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/fujitsu-releases-new-tablet-pcs/>
 

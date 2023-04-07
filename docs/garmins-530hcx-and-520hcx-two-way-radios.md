@@ -1,4 +1,4 @@
-# Garmin 的 530HCx 和 520HCx 双向无线电 TechCrunch
+# Garmin 的 530HCx 和 520HCx 双向无线电 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/garmins-530hcx-and-520hcx-two-way-radios/>
 

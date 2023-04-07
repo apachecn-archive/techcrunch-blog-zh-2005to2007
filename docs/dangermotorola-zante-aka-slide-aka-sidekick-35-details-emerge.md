@@ -1,4 +1,4 @@
-# 危险/摩托罗拉·赞特又名 Slide 又名 Sidekick 3.5 细节浮出水面——TechCrunch
+# 危险/摩托罗拉·赞特又名 Slide 又名 Sidekick 3.5 细节浮出水面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/16/dangermotorola-zante-aka-slide-aka-sidekick-35-details-emerge/>
 

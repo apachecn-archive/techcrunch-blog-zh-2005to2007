@@ -1,4 +1,4 @@
-# 戴夫·西弗里的博客世界| TechCrunch
+# 戴夫·西弗里的博客世界
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/dave-sifrys-state-of-the-blogosphere/>
 

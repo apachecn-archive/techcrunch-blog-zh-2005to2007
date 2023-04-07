@@ -1,4 +1,4 @@
-# 第一个 PS3 广告出现在纽约 TechCrunch
+# 第一个 PS3 广告出现在纽约 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/first-ps3-ad-spotted-in-nyc/>
 

@@ -1,4 +1,4 @@
-# WD 将我的图书系列升级到 2TB | TechCrunch
+# WD 将我的图书系列升级到 2TB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/wd-upgrades-my-book-line-to-2tb/>
 

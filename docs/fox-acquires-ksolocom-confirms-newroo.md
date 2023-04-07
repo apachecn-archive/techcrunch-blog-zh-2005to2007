@@ -1,4 +1,4 @@
-# 福克斯收购网络卡拉 ok 服务，kSolo–TechCrunch
+# 福克斯收购网络卡拉 ok 服务，kSolo
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/30/fox-acquires-ksolocom-confirms-newroo/>
 

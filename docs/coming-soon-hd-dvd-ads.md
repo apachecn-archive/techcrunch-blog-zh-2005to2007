@@ -1,4 +1,4 @@
-# 即将推出:HD DVD 广告| TechCrunch
+# 即将推出:HD DVD 广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/coming-soon-hd-dvd-ads/>
 

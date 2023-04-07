@@ -1,4 +1,4 @@
-# FM Publishing 启动 A 轮融资 TechCrunch
+# FM Publishing 启动 A 轮融资 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/15/fm-publishing-raises-series-a-round/>
 

@@ -1,4 +1,4 @@
-# 有 iPod Shuffle 吗？查看 iSlimCharger–TechCrunch
+# 有 iPod Shuffle 吗？查看 iSlimCharger
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/have-an-ipod-shuffle-check-out-islimcharger/>
 

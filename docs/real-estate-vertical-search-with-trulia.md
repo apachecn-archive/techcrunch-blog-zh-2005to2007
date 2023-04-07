@@ -1,4 +1,4 @@
-# 使用 Trulia | TechCrunch 进行房地产垂直搜索
+# 使用 Trulia  进行房地产垂直搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/30/real-estate-vertical-search-with-trulia/>
 

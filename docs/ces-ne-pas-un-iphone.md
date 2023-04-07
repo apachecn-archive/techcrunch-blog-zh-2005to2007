@@ -1,4 +1,4 @@
-# 这是一部 iPhone，但不是苹果 iPhone——TechCrunch
+# 这是一部 iPhone，但不是苹果 iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/ces-ne-pas-un-iphone/>
 

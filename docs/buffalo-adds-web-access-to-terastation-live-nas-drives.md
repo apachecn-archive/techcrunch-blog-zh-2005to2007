@@ -1,4 +1,4 @@
-# Buffalo 将 Web 访问添加到 TeraStation Live NAS 驱动器| TechCrunch
+# Buffalo 将 Web 访问添加到 TeraStation Live NAS 驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/buffalo-adds-web-access-to-terastation-live-nas-drives/>
 

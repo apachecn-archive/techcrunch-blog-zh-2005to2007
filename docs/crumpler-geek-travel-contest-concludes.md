@@ -1,4 +1,4 @@
-# Crumpler 极客旅行大赛结束| TechCrunch
+# Crumpler 极客旅行大赛结束
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/26/crumpler-geek-travel-contest-concludes/>
 

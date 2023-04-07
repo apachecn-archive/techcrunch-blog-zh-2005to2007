@@ -1,4 +1,4 @@
-# Gemini eXplo:就像你的第一部手机的第二人生——TechCrunch
+# Gemini eXplo:就像你的第一部手机的第二人生
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/gemini-explo-like-second-life-for-your-first-phone/>
 

@@ -1,4 +1,4 @@
-# Booq Vyper Exo:笔记本电脑保护套| TechCrunch
+# Booq Vyper Exo:笔记本电脑保护套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/booq-vyper-exo-a-laptop-case/>
 

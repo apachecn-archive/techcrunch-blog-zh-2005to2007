@@ -1,4 +1,4 @@
-# Mad Catz Xbox 360 街机棒可供预订——TechCrunch
+# Mad Catz Xbox 360 街机棒可供预订
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/mad-catz-xbox-360-arcade-stick-available-for-preorder/>
 

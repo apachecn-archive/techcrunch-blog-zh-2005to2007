@@ -1,4 +1,4 @@
-# 以 199 美元的价格将您的 TiVo 终身订阅转移到 Series 3 设备| TechCrunch
+# 以 199 美元的价格将您的 TiVo 终身订阅转移到 Series 3 设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/transfer-your-tivo-lifetime-subscription-to-series-3-units-for-199/>
 

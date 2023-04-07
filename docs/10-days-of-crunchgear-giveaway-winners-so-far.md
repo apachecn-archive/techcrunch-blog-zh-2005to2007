@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:迄今为止的赢家| TechCrunch
+# 10 天的 CrunchGear 赠品:迄今为止的赢家
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/13/10-days-of-crunchgear-giveaway-winners-so-far/>
 

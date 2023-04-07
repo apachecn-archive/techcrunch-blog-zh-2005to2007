@@ -1,4 +1,4 @@
-# 采访美国电话电报公司、Cingular 和 iPhone 1066 集团的品牌专家 Michael mega lli——现场直播！–TechCrunch
+# 采访美国电话电报公司、Cingular 和 iPhone 1066 集团的品牌专家 Michael mega lli——现场直播！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/interview-with-michael-megalli-branding-expert-for-group-1066-on-att-cingular-and-the-iphone-live/>
 

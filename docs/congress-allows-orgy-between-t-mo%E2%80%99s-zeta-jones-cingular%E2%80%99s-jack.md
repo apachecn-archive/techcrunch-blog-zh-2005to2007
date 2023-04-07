@@ -1,4 +1,4 @@
-# 国会允许 T-Mo 的泽塔-琼斯、Cingular 的杰克| TechCrunch
+# 国会允许 T-Mo 的泽塔-琼斯、Cingular 的杰克
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/24/congress-allows-orgy-between-t-mo%E2%80%99s-zeta-jones-cingular%E2%80%99s-jack/>
 

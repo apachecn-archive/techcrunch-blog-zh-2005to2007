@@ -1,4 +1,4 @@
-# Oomas For Readers，请告诉我们你为什么想要它 TechCrunch
+# Oomas For Readers，请告诉我们你为什么想要它 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/fifty-oomas-for-readers/>
 

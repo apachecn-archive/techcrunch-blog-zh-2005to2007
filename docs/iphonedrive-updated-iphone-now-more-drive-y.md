@@ -1,4 +1,4 @@
-# iPhoneDrive 更新，iPhone 现在更有驱动力| TechCrunch
+# iPhoneDrive 更新，iPhone 现在更有驱动力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/iphonedrive-updated-iphone-now-more-drive-y/>
 

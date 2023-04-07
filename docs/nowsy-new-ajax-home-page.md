@@ -1,4 +1,4 @@
-# Nowsy:新的 Ajax 主页——TechCrunch
+# Nowsy:新的 Ajax 主页
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/24/nowsy-new-ajax-home-page/>
 

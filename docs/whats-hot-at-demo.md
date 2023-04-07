@@ -1,4 +1,4 @@
-# 演示中的热点——TechCrunch
+# 演示中的热点
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/26/whats-hot-at-demo/>
 

@@ -1,4 +1,4 @@
-# riya–两天内 100 万张照片–TechCrunch
+# riya–两天内 100 万张照片
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/23/riya-1-million-photos-in-2-days/>
 

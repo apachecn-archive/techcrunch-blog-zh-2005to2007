@@ -1,4 +1,4 @@
-# 我们编织的 Web 2.0 TechCrunch
+# 我们编织的 Web 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/12/the-web-20-we-weave/>
 

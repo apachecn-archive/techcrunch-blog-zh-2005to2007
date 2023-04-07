@@ -1,4 +1,4 @@
-# Blufr 测试您的 b.s .雷达——TechCrunch
+# Blufr 测试您的 b.s .雷达
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/14/blufr-tests-your-bs-radar/>
 

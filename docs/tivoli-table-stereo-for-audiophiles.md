@@ -1,4 +1,4 @@
-# 面向音响发烧友的 Tivoli 台式立体声——TechCrunch
+# 面向音响发烧友的 Tivoli 台式立体声
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/02/tivoli-table-stereo-for-audiophiles/>
 

@@ -1,4 +1,4 @@
-# G-Tech 斜挎包让你既能控制 iPod，又能听音乐| TechCrunch
+# G-Tech 斜挎包让你既能控制 iPod，又能听音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/g-tech-messenger-bag-lets-you-have-your-music-listen-to-it-too/>
 

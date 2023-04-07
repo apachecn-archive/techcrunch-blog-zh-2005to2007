@@ -1,4 +1,4 @@
-# CrunchGear 会议:波兰–TechCrunch
+# CrunchGear 会议:波兰
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/crunchgear-meet-up-poland/>
 

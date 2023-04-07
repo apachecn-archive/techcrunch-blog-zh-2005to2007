@@ -1,4 +1,4 @@
-# 吉他英雄出版商确认即将推出 Wii 版本？–TechCrunch
+# 吉他英雄出版商确认即将推出 Wii 版本？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/guitar-hero-publisher-confirms-upcoming-wii-version/>
 

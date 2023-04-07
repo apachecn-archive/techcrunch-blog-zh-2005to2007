@@ -1,4 +1,4 @@
-# Bathys 自动手表——TechCrunch
+# Bathys 自动手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/bathys-automatic-watches/>
 

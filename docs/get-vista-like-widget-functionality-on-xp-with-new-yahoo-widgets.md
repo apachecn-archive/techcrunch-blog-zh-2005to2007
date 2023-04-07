@@ -1,4 +1,4 @@
-# 使用新的 Yahoo Widgets 在 XP 上获得类似 Vista 的 Widget 功能 TechCrunch
+# 使用新的 Yahoo Widgets 在 XP 上获得类似 Vista 的 Widget 功能 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/22/get-vista-like-widget-functionality-on-xp-with-new-yahoo-widgets/>
 

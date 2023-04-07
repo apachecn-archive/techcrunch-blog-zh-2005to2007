@@ -1,4 +1,4 @@
-# 惠普 LED 笔记本即将上市——TechCrunch
+# 惠普 LED 笔记本即将上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/hp-led-notebooks-on-the-way/>
 

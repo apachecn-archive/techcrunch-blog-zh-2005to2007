@@ -1,4 +1,4 @@
-# 苹果电视是 T3H 8om 6——TechCrunch
+# 苹果电视是 T3H 8om 6
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/apple-tv-is-t3h-8om6/>
 

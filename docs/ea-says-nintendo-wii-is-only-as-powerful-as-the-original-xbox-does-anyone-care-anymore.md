@@ -1,4 +1,4 @@
-# 艺电说任天堂 Wii 的功能只和最初的 Xbox 一样强大:还有人在乎吗？–TechCrunch
+# 艺电说任天堂 Wii 的功能只和最初的 Xbox 一样强大:还有人在乎吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/ea-says-nintendo-wii-is-only-as-powerful-as-the-original-xbox-does-anyone-care-anymore/>
 

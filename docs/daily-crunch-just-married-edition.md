@@ -1,4 +1,4 @@
-# 每日新闻:新婚版| TechCrunch
+# 每日新闻:新婚版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/05/daily-crunch-just-married-edition/>
 

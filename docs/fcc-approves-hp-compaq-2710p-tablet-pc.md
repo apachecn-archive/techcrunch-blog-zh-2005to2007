@@ -1,4 +1,4 @@
-# FCC 批准惠普康柏 2710p 平板电脑–TechCrunch
+# FCC 批准惠普康柏 2710p 平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/fcc-approves-hp-compaq-2710p-tablet-pc/>
 

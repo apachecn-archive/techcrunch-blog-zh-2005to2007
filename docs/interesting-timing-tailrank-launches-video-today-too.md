@@ -1,4 +1,4 @@
-# 有趣的时机:TailRank 今天也发布视频 TechCrunch
+# 有趣的时机:TailRank 今天也发布视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/27/interesting-timing-tailrank-launches-video-today-too/>
 

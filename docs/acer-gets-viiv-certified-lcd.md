@@ -1,4 +1,4 @@
-# 宏碁获得欢跃认证的液晶显示器| TechCrunch
+# 宏碁获得欢跃认证的液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/03/acer-gets-viiv-certified-lcd/>
 

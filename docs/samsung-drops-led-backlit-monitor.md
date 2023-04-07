@@ -1,4 +1,4 @@
-# 三星水滴 LED 背光显示器| TechCrunch
+# 三星水滴 LED 背光显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/samsung-drops-led-backlit-monitor/>
 

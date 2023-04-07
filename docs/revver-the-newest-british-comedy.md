@@ -1,4 +1,4 @@
-# Revver:最新的英国喜剧——TechCrunch
+# Revver:最新的英国喜剧
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/10/revver-the-newest-british-comedy/>
 

@@ -1,4 +1,4 @@
-# 吉他英雄 2 曲目列表| TechCrunch
+# 吉他英雄 2 曲目列表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/guitar-hero-2-track-list/>
 

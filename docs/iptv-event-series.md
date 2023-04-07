@@ -1,4 +1,4 @@
-# BCMA IPTV 活动系列| TechCrunch
+# BCMA IPTV 活动系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/iptv-event-series/>
 

@@ -1,4 +1,4 @@
-# 索尼将 PS3 产量目标减半？TechCrunch
+# 索尼将 PS3 产量目标减半？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/sony-to-slash-ps3-production-target-in-half/>
 

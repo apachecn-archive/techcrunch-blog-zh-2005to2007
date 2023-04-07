@@ -1,4 +1,4 @@
-# 富士 A820、A900:800 万或 900 万像素，不到 200 美元——TechCrunch
+# 富士 A820、A900:800 万或 900 万像素，不到 200 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/fujifilm-a820-a900-8-or-9-megapixels-less-than-200/>
 

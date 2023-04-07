@@ -1,4 +1,4 @@
-# SanDisk Sansa c200 MP3 播放器在 IFA 发布——TechCrunch
+# SanDisk Sansa c200 MP3 播放器在 IFA 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/sandisk-sansa-c200-mp3-player-announced-at-ifa/>
 

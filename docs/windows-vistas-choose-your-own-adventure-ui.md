@@ -1,4 +1,4 @@
-# Windows Vista 的选择你自己的冒险界面| TechCrunch
+# Windows Vista 的选择你自己的冒险界面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/windows-vistas-choose-your-own-adventure-ui/>
 

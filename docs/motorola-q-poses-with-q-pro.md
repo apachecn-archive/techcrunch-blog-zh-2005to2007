@@ -1,4 +1,4 @@
-# 摩托罗拉·Q 与 Q Pro | TechCrunch 合影
+# 摩托罗拉·Q 与 Q Pro  合影
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/motorola-q-poses-with-q-pro/>
 

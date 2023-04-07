@@ -1,4 +1,4 @@
-# Netvibes 增加了 Meebo IM-TechCrunch
+# Netvibes 增加了 Meebo IM-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/26/netvibes-adds-meebo-im/>
 

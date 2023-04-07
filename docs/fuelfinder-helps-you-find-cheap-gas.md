@@ -1,4 +1,4 @@
-# FuelFinder 帮你找到廉价汽油| TechCrunch
+# FuelFinder 帮你找到廉价汽油
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/fuelfinder-helps-you-find-cheap-gas/>
 

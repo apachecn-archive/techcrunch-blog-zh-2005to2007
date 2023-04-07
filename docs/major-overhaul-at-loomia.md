@@ -1,4 +1,4 @@
-# 卢米亚的大修 TechCrunch
+# 卢米亚的大修 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/16/major-overhaul-at-loomia/>
 

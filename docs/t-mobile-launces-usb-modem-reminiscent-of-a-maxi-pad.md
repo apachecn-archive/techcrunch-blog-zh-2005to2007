@@ -1,4 +1,4 @@
-# T-Mobile 推出让人想起 Maxi-Pad 的 USB 调制解调器 TechCrunch
+# T-Mobile 推出让人想起 Maxi-Pad 的 USB 调制解调器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/t-mobile-launces-usb-modem-reminiscent-of-a-maxi-pad/>
 

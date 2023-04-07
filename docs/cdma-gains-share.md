@@ -1,4 +1,4 @@
-# CDMA 获得份额| TechCrunch
+# CDMA 获得份额
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/cdma-gains-share/>
 

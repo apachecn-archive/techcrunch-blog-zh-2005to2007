@@ -1,4 +1,4 @@
-# 维亚康姆对 YouTube 的诉讼毫无胜算——TechCrunch
+# 维亚康姆对 YouTube 的诉讼毫无胜算
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/viacoms-lawsuit-against-youtube-has-no-chance-of-succeeding/>
 

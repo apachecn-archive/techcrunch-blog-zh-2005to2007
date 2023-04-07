@@ -1,4 +1,4 @@
-# 瑞典啤酒与创新的冲突？–TechCrunch
+# 瑞典啤酒与创新的冲突？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/01/swedish-beers-innovation-clash/>
 

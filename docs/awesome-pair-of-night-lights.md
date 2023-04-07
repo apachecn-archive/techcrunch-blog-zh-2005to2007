@@ -1,4 +1,4 @@
-# 一对超棒的小夜灯| TechCrunch
+# 一对超棒的小夜灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/awesome-pair-of-night-lights/>
 

@@ -1,4 +1,4 @@
-# 皮肤你的新洗牌| TechCrunch
+# 皮肤你的新洗牌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/skin-your-new-shuffle/>
 

@@ -1,4 +1,4 @@
-# 测试版个性化移动搜索引擎？–TechCrunch
+# 测试版个性化移动搜索引擎？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/personalised-mobile-search-engine-in-beta/>
 

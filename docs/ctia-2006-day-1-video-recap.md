@@ -1,4 +1,4 @@
-# CTIA 2006:第一天视频回顾| TechCrunch
+# CTIA 2006:第一天视频回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/ctia-2006-day-1-video-recap/>
 

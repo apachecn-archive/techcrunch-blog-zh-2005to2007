@@ -1,4 +1,4 @@
-# 爱可视宣布推出 405、605 和 TV Plus | TechCrunch
+# 爱可视宣布推出 405、605 和 TV Plus 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/archos-announces-405-605-and-tv-plus/>
 

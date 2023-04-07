@@ -1,4 +1,4 @@
-# 苹果 Q2 财报:余波——TechCrunch
+# 苹果 Q2 财报:余波
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/apple-q2-earnings-report-the-aftermath/>
 

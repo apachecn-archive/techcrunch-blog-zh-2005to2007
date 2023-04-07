@@ -1,4 +1,4 @@
-# MyDreamApp 旨在将想法变为现实——TechCrunch
+# MyDreamApp 旨在将想法变为现实
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/21/mydreamapp-aims-to-bring-ideas-to-fruition/>
 

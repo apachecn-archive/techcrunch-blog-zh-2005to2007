@@ -1,4 +1,4 @@
-# 索尼感受到了燃烧| TechCrunch
+# 索尼感受到了燃烧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/sony-feels-the-burn/>
 

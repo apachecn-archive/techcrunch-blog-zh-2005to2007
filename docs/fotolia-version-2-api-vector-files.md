@@ -1,4 +1,4 @@
-# Fotolia 版本 2: API +矢量文件 TechCrunch
+# Fotolia 版本 2: API +矢量文件 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/18/fotolia-version-2-api-vector-files/>
 

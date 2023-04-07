@@ -1,4 +1,4 @@
-# 简单地雇用，现在为爱狗和环境的资深同性恋母亲——TechCrunch
+# 简单地雇用，现在为爱狗和环境的资深同性恋母亲
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/27/simply-hired-now-for-senior-gay-mothers-who-love-dogs-the-environment>
 

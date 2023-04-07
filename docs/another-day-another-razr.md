@@ -1,4 +1,4 @@
-# 又一天，又一个 RAZR——TechCrunch
+# 又一天，又一个 RAZR
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/02/another-day-another-razr/>
 

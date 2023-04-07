@@ -1,4 +1,4 @@
-# 我的雅虎上的新东西——TechCrunch
+# 我的雅虎上的新东西
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/16/new-stuff-at-my-yahoo/>
 

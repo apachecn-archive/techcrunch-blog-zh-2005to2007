@@ -1,4 +1,4 @@
-# patent monkey:iPhone 会被用作 Apple TV 遥控器吗？TechCrunch
+# patent monkey:iPhone 会被用作 Apple TV 遥控器吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/patentmonkey-will-the-iphone-be-used-as-apple-tv-remote/>
 

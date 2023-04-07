@@ -1,4 +1,4 @@
-# 融合设备:EPOS 数字笔和 USB 闪存驱动器–TechCrunch
+# 融合设备:EPOS 数字笔和 USB 闪存驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/20/convergence-devices-epos-digital-pen-usb-flash-drive/>
 

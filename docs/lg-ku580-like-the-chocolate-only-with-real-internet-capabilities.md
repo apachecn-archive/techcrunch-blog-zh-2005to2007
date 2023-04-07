@@ -1,4 +1,4 @@
-# LG KU580:像巧克力一样，只有真正的互联网功能| TechCrunch
+# LG KU580:像巧克力一样，只有真正的互联网功能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/lg-ku580-like-the-chocolate-only-with-real-internet-capabilities/>
 

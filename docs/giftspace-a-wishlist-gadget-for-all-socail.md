@@ -1,4 +1,4 @@
-# GiftSpace 所有社交网络的愿望列表小工具| TechCrunch
+# GiftSpace 所有社交网络的愿望列表小工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/giftspace-a-wishlist-gadget-for-all-socail/>
 

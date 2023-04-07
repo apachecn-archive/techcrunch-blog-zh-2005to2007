@@ -1,4 +1,4 @@
-# SearchChamps 上展示的新 Live.com 服务–TechCrunch
+# SearchChamps 上展示的新 Live.com 服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/25/new-livecom-services-shown-at-searchchamps/>
 

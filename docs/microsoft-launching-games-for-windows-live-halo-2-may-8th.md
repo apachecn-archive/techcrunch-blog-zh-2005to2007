@@ -1,4 +1,4 @@
-# 微软 5 月 8 日发布 Windows Live 游戏《光环 2》——TechCrunch
+# 微软 5 月 8 日发布 Windows Live 游戏《光环 2》
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/microsoft-launching-games-for-windows-live-halo-2-may-8th/>
 

@@ -1,4 +1,4 @@
-# Ruby On Rails 与 Java Ad | TechCrunch
+# Ruby On Rails 与 Java Ad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/ruby-on-rails-versus-java-ad/>
 

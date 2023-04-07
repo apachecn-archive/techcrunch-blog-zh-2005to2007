@@ -1,4 +1,4 @@
-# 简介:风险之声 TechCrunch
+# 简介:风险之声 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/05/profile-venture-voice/>
 

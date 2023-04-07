@@ -1,4 +1,4 @@
-# LG Wave 在 Alltel | TechCrunch 海岸坠毁
+# LG Wave 在 Alltel  海岸坠毁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/lg-wave-crashes-on-shores-of-alltel/>
 

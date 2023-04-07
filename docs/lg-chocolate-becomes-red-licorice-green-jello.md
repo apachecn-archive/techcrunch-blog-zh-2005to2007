@@ -1,4 +1,4 @@
-# LG 巧克力变成红色甘草糖，绿色果冻——TechCrunch
+# LG 巧克力变成红色甘草糖，绿色果冻
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/24/lg-chocolate-becomes-red-licorice-green-jello/>
 

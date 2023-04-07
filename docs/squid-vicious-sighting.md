@@ -1,4 +1,4 @@
-# 鱿鱼恶性目击？–TechCrunch
+# 鱿鱼恶性目击？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/squid-vicious-sighting/>
 

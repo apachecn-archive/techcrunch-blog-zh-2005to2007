@@ -1,4 +1,4 @@
-# 日本开发集成 Flickr 和 Youtube 的雨伞——TechCrunch
+# 日本开发集成 Flickr 和 Youtube 的雨伞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/japanese-develop-umbrella-with-flickr-and-youtube-integration/>
 

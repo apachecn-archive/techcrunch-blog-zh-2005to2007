@@ -1,4 +1,4 @@
-# Netequality 的真正即插即用 WiFi | TechCrunch
+# Netequality 的真正即插即用 WiFi 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/netequalitys-true-plug-and-play-wifi/>
 

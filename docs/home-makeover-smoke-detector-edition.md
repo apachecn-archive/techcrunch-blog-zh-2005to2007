@@ -1,4 +1,4 @@
-# 家居改造:烟雾探测器版 TechCrunch
+# 家居改造:烟雾探测器版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/06/home-makeover-smoke-detector-edition/>
 

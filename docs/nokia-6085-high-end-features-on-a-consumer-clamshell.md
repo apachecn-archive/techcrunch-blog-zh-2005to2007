@@ -1,4 +1,4 @@
-# 诺基亚 6085:消费者翻盖手机上的高端功能——TechCrunch
+# 诺基亚 6085:消费者翻盖手机上的高端功能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/nokia-6085-high-end-features-on-a-consumer-clamshell/>
 

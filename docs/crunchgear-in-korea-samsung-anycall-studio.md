@@ -1,4 +1,4 @@
-# 韩国的 CrunchGear:三星 Anycall Studio | TechCrunch
+# 韩国的 CrunchGear:三星 Anycall Studio 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/20/crunchgear-in-korea-samsung-anycall-studio/>
 

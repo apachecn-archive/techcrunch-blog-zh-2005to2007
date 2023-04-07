@@ -1,4 +1,4 @@
-# GoodStorm 将为博客用户提供 50%收入分成的电子商务小工具 TechCrunch
+# GoodStorm 将为博客用户提供 50%收入分成的电子商务小工具 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/23/goodstorm-to-offer-e-commerce-widget-with-50-revenue-split-for-bloggers/>
 

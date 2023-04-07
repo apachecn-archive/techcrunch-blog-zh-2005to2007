@@ -1,4 +1,4 @@
-# Vertu Aerius 蓝牙耳机–TechCrunch
+# Vertu Aerius 蓝牙耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/29/vertu-aerius-bluetooth-headset/>
 

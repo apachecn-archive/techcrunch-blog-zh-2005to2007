@@ -1,4 +1,4 @@
-# CourseCafe 加入了社会化书签讨论——TechCrunch
+# CourseCafe 加入了社会化书签讨论
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/31/coursecafe-adds-to-the-social-bookmarking-discussion/>
 

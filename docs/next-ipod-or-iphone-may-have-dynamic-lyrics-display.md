@@ -1,4 +1,4 @@
-# 下一代 iPod 或 iPhone 可能会有动态歌词显示——TechCrunch
+# 下一代 iPod 或 iPhone 可能会有动态歌词显示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/19/next-ipod-or-iphone-may-have-dynamic-lyrics-display/>
 

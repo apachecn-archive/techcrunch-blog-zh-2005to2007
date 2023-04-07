@@ -1,4 +1,4 @@
-# muveeNow 近距离| TechCrunch
+# muveeNow 近距离
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/muveenow-up-close/>
 

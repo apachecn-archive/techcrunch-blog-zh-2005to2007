@@ -1,4 +1,4 @@
-# Hauppauge 的 WinTV-HVR-950 | TechCrunch
+# Hauppauge 的 WinTV-HVR-950 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/hauppauges-wintv-hvr-950/>
 

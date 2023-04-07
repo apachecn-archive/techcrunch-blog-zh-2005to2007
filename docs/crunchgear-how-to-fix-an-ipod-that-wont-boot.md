@@ -1,4 +1,4 @@
-# 帮助提示:如何修复无法启动的 iPod——TechCrunch
+# 帮助提示:如何修复无法启动的 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/crunchgear-how-to-fix-an-ipod-that-wont-boot/>
 

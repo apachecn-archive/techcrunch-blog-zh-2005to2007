@@ -1,4 +1,4 @@
-# Zune 电池可能导致显示屏破裂——TechCrunch
+# Zune 电池可能导致显示屏破裂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/zune-battery-possibly-cracking-displays/>
 

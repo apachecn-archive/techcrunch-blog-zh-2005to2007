@@ -1,4 +1,4 @@
-# 特洛伊木马的新小工具为您的小工具| TechCrunch
+# 特洛伊木马的新小工具为您的小工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/21/trojans-new-gadgets-for-your-gadget/>
 

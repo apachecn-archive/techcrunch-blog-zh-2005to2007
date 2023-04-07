@@ -1,4 +1,4 @@
-# 任天堂 Wii 现场演示–TechCrunch
+# 任天堂 Wii 现场演示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/10/live-nintendo-wii-demo/>
 

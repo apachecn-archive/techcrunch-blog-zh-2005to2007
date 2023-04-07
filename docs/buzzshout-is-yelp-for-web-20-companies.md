@@ -1,4 +1,4 @@
-# 对网络 2.0 公司来说，buzz 喊是 Yelp——TechCrunch
+# 对网络 2.0 公司来说，buzz 喊是 Yelp
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/09/buzzshout-is-yelp-for-web-20-companies/>
 

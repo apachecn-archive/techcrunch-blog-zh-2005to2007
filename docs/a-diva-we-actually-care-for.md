@@ -1,4 +1,4 @@
-# 我们真正关心的天后| TechCrunch
+# 我们真正关心的天后
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/a-diva-we-actually-care-for/>
 

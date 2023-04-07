@@ -1,4 +1,4 @@
-# 微软再次确认 Vista 上市日期——TechCrunch
+# 微软再次确认 Vista 上市日期
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/microsoft-re-confirms-vista-ship-date/>
 

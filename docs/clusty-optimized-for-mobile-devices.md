@@ -1,4 +1,4 @@
-# 针对移动设备优化的 clusty | TechCrunch
+# 针对移动设备优化的 clusty 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/clusty-optimized-for-mobile-devices/>
 

@@ -1,4 +1,4 @@
-# 更新–Meetro(谷歌收购？)| TechCrunch
+# 更新–Meetro(谷歌收购？)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/09/update-meetro-google-acquisition/>
 

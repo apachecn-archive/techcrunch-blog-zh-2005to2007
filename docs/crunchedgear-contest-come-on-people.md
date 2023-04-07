@@ -1,4 +1,4 @@
-# 克朗彻奇格竞赛:来吧，人们！TechCrunch
+# 克朗彻奇格竞赛:来吧，人们！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/17/crunchedgear-contest-come-on-people/>
 

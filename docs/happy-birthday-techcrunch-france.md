@@ -1,8 +1,8 @@
-# 生日快乐，TechCrunch 法国-TechCrunch
+# 生日快乐，TechCrunch 法国-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/happy-birthday-techcrunch-france/>
 
-# 生日快乐，法国 TechCrunch
+# 生日快乐，法国 
 
 ![](img/7f3a55de3af3115c6d2f30fa9da26e36.png)
 

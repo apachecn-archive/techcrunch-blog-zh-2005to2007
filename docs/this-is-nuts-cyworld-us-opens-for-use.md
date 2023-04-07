@@ -1,4 +1,4 @@
-# 大型韩国社交网络 CyWorld 在美国推出 TechCrunch
+# 大型韩国社交网络 CyWorld 在美国推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/27/this-is-nuts-cyworld-us-opens-for-use/>
 

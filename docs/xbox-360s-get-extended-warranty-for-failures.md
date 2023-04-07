@@ -1,4 +1,4 @@
-# Xbox 360 获得故障延长保修| TechCrunch
+# Xbox 360 获得故障延长保修
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/xbox-360s-get-extended-warranty-for-failures/>
 

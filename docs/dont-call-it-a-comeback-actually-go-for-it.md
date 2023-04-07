@@ -1,4 +1,4 @@
-# 不要称之为东山再起(实际上，去争取吧)| TechCrunch
+# 不要称之为东山再起(实际上，去争取吧)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/dont-call-it-a-comeback-actually-go-for-it/>
 

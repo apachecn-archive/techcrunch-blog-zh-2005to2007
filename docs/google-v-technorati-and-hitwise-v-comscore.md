@@ -1,4 +1,4 @@
-# 谷歌诉 Technorati(和 Hitwise 诉康姆斯克)——TechCrunch
+# 谷歌诉 Technorati(和 Hitwise 诉康姆斯克)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/28/google-v-technorati-and-hitwise-v-comscore/>
 

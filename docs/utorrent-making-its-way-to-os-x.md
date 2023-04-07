@@ -1,4 +1,4 @@
-# uTorrent 进军 OS X | TechCrunch
+# uTorrent 进军 OS X 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/27/utorrent-making-its-way-to-os-x/>
 

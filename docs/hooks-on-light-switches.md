@@ -1,4 +1,4 @@
-# 电灯开关上的挂钩！–TechCrunch
+# 电灯开关上的挂钩！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/hooks-on-light-switches/>
 

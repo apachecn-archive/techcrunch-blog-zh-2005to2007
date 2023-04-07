@@ -1,4 +1,4 @@
-# Vox 升空，你会爱上它 TechCrunch
+# Vox 升空，你会爱上它 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/26/vox-lifts-off-and-youll-love-it/>
 

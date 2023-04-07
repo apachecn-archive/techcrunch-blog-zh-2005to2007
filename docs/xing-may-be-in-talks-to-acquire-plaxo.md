@@ -1,4 +1,4 @@
-# 邢可能正在谈判收购 Plaxo-TechCrunch
+# 邢可能正在谈判收购 Plaxo-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/08/xing-may-be-in-talks-to-acquire-plaxo/>
 

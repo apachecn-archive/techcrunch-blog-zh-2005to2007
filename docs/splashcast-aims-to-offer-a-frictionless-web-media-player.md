@@ -1,4 +1,4 @@
-# Splashcast 旨在提供一个无摩擦的网络媒体播放器 TechCrunch
+# Splashcast 旨在提供一个无摩擦的网络媒体播放器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/06/splashcast-aims-to-offer-a-frictionless-web-media-player/>
 

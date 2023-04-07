@@ -1,4 +1,4 @@
-# Google Drive:我们目前所知| TechCrunch
+# Google Drive:我们目前所知
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/06/google-drive-what-we-know-so-far/>
 

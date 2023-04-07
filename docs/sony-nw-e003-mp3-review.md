@@ -1,4 +1,4 @@
-# 索尼 NW-E003 MP3 评论| TechCrunch
+# 索尼 NW-E003 MP3 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/sony-nw-e003-mp3-review/>
 

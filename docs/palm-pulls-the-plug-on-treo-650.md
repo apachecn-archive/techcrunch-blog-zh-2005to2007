@@ -1,4 +1,4 @@
-# Palm 拔掉 Treo 650 的插头——TechCrunch
+# Palm 拔掉 Treo 650 的插头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/palm-pulls-the-plug-on-treo-650/>
 

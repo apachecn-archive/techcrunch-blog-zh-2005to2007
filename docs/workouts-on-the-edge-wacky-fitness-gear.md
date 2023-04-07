@@ -1,4 +1,4 @@
-# 边缘训练:古怪的健身装备| TechCrunch
+# 边缘训练:古怪的健身装备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/workouts-on-the-edge-wacky-fitness-gear/>
 

@@ -1,4 +1,4 @@
-# 新门户:是面包，不是花生酱 TechCrunch
+# 新门户:是面包，不是花生酱 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/31/the-new-portals-its-the-bread-not-the-peanut-butter/>
 

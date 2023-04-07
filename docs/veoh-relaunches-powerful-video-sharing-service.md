@@ -1,4 +1,4 @@
-# Veoh 重新推出强大的视频分享服务——TechCrunch
+# Veoh 重新推出强大的视频分享服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/12/veoh-relaunches-powerful-video-sharing-service/>
 

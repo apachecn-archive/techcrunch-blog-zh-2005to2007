@@ -1,4 +1,4 @@
-# Jobberwiki 在你被雇佣之前给你一个轻松的谈话——TechCrunch
+# Jobberwiki 在你被雇佣之前给你一个轻松的谈话
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/07/jobberwiki-gives-you-watercooler-talk-before-getting-hired>
 

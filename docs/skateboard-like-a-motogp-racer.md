@@ -1,4 +1,4 @@
-# 像 MotoGP 赛车一样玩滑板| TechCrunch
+# 像 MotoGP 赛车一样玩滑板
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/skateboard-like-a-motogp-racer/>
 

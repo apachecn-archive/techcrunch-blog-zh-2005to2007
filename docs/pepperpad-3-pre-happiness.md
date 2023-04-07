@@ -1,4 +1,4 @@
-# pepper pad 3 Pre-happy–TechCrunch
+# pepper pad 3 Pre-happy
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/pepperpad-3-pre-happiness/>
 

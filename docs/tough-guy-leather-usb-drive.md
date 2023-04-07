@@ -1,4 +1,4 @@
-# 硬汉皮革 u 盘| TechCrunch
+# 硬汉皮革 u 盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/04/tough-guy-leather-usb-drive/>
 

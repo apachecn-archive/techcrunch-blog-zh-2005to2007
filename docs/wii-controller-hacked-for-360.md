@@ -1,4 +1,4 @@
-# Wii 控制器被黑客入侵 360——TechCrunch
+# Wii 控制器被黑客入侵 360
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/wii-controller-hacked-for-360/>
 

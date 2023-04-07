@@ -1,4 +1,4 @@
-# NASPerform 网络存储:高达 750GB | TechCrunch
+# NASPerform 网络存储:高达 750GB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/nasperform-network-storage-up-to-750gb/>
 

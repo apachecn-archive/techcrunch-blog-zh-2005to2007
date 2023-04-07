@@ -1,4 +1,4 @@
-# 《光环 3》之前是《光环 2》的可下载内容，呼吁测试者| TechCrunch
+# 《光环 3》之前是《光环 2》的可下载内容，呼吁测试者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/halo-3-to-be-preceded-by-downloadable-content-for-halo-2-calls-for-beta-testers/>
 

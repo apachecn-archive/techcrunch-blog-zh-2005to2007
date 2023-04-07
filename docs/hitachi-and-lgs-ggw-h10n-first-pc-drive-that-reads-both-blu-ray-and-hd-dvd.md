@@ -1,4 +1,4 @@
-# 日立和 LG 的 GGW-H10N:首款可读取蓝光和 HD DVD 的电脑硬盘——TechCrunch
+# 日立和 LG 的 GGW-H10N:首款可读取蓝光和 HD DVD 的电脑硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/hitachi-and-lgs-ggw-h10n-first-pc-drive-that-reads-both-blu-ray-and-hd-dvd/>
 

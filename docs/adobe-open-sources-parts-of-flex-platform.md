@@ -1,4 +1,4 @@
-# Adobe Open 平台的开源部分 TechCrunch
+# Adobe Open 平台的开源部分 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/26/adobe-open-sources-parts-of-flex-platform/>
 

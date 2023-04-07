@@ -1,4 +1,4 @@
-# Blue Raven Masestro 1070 iPod 系统–TechCrunch
+# Blue Raven Masestro 1070 iPod 系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/blue-raven-masestro-1070-ipod-system/>
 

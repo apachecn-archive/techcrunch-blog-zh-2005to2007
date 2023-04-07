@@ -1,4 +1,4 @@
-# 黑莓 Curve 8300 评论——TechCrunch
+# 黑莓 Curve 8300 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/blackberry-curve-8300-review/>
 

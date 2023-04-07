@@ -1,4 +1,4 @@
-# 世界上最小的 MiniSD 阅读器| TechCrunch
+# 世界上最小的 MiniSD 阅读器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/worlds-smallest-minisd-reader/>
 

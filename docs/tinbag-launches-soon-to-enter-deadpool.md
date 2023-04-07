@@ -1,4 +1,4 @@
-# Tinbag 发布，即将进入死亡池——TechCrunch
+# Tinbag 发布，即将进入死亡池
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/13/tinbag-launches-soon-to-enter-deadpool/>
 

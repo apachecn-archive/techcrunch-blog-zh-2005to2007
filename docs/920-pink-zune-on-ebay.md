@@ -1,4 +1,4 @@
-# 易贝上售价 920 美元的粉色 Zune——TechCrunch
+# 易贝上售价 920 美元的粉色 Zune
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/17/920-pink-zune-on-ebay/>
 

@@ -1,4 +1,4 @@
-# 37Signals 将另一家公司推向绝境 TechCrunch
+# 37Signals 将另一家公司推向绝境 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/13/37signals-drives-another-company-to-the-deadpool/>
 

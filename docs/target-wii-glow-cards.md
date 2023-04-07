@@ -1,4 +1,4 @@
-# 目标 Wii 发光卡| TechCrunch
+# 目标 Wii 发光卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/23/target-wii-glow-cards/>
 

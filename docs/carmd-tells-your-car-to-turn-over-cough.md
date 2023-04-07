@@ -1,4 +1,4 @@
-# CarMD 告诉你的车翻了，咳| TechCrunch
+# CarMD 告诉你的车翻了，咳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/carmd-tells-your-car-to-turn-over-cough/>
 

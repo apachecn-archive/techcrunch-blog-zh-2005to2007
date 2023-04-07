@@ -1,4 +1,4 @@
-# 创意禅境:M Now 249 美元| TechCrunch
+# 创意禅境:M Now 249 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/creative-zen-visionm-now-249/>
 

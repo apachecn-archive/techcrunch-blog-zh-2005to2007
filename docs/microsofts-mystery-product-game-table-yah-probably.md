@@ -1,4 +1,4 @@
-# 微软的神秘产品:游戏桌？是的，可能是——TechCrunch
+# 微软的神秘产品:游戏桌？是的，可能是
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/29/microsofts-mystery-product-game-table-yah-probably/>
 

@@ -1,4 +1,4 @@
-# 苹果 iPhone 蓝牙耳机评论| TechCrunch
+# 苹果 iPhone 蓝牙耳机评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/02/apple-iphone-bluetooth-headset-review/>
 

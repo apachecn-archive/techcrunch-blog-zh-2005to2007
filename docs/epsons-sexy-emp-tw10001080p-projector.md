@@ -1,4 +1,4 @@
-# 爱普生性感的 EMP-TW10001080p 投影仪——TechCrunch
+# 爱普生性感的 EMP-TW10001080p 投影仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/epsons-sexy-emp-tw10001080p-projector/>
 

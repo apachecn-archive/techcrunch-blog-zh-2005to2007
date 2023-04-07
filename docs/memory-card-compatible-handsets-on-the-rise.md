@@ -1,4 +1,4 @@
-# 存储卡兼容手机正在崛起——TechCrunch
+# 存储卡兼容手机正在崛起
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/memory-card-compatible-handsets-on-the-rise/>
 

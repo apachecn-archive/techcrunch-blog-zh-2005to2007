@@ -1,4 +1,4 @@
-# Verwandt.de:德国 Geni 克隆| TechCrunch
+# Verwandt.de:德国 Geni 克隆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/verwandtde-german-geni-clone/?like=1>
 

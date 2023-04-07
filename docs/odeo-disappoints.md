@@ -1,4 +1,4 @@
-# Odeo 令人失望 TechCrunch
+# Odeo 令人失望 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/04/odeo-disappoints/>
 

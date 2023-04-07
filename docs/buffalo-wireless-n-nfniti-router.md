@@ -1,4 +1,4 @@
-# 布法罗无线-N Nfniti 路由器| TechCrunch
+# 布法罗无线-N Nfniti 路由器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/buffalo-wireless-n-nfniti-router/>
 

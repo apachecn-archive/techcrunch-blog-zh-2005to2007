@@ -1,4 +1,4 @@
-# 诺基亚 N800 (nee N870)出土–TechCrunch
+# 诺基亚 N800 (nee N870)出土
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/06/nokia-n800-nee-n870-unearthed/>
 

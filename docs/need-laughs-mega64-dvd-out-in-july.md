@@ -1,4 +1,4 @@
-# 需要笑声吗？Mega64 DVD 将于 7 月上市| TechCrunch
+# 需要笑声吗？Mega64 DVD 将于 7 月上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/need-laughs-mega64-dvd-out-in-july/>
 

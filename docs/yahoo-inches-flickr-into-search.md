@@ -1,4 +1,4 @@
-# 雅虎！将 Flickr 引入搜索——TechCrunch
+# 雅虎！将 Flickr 引入搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/24/yahoo-inches-flickr-into-search/>
 

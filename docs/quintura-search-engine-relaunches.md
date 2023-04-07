@@ -1,4 +1,4 @@
-# Quintura 视觉搜索引擎重新推出 TechCrunch
+# Quintura 视觉搜索引擎重新推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/26/quintura-search-engine-relaunches/>
 

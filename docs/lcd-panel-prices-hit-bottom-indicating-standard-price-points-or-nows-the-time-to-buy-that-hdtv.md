@@ -1,4 +1,4 @@
-# 液晶面板价格触底，显示标准价格点；或者，现在是购买高清电视的时候了——TechCrunch
+# 液晶面板价格触底，显示标准价格点；或者，现在是购买高清电视的时候了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/lcd-panel-prices-hit-bottom-indicating-standard-price-points-or-nows-the-time-to-buy-that-hdtv/>
 

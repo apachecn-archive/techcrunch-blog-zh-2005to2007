@@ -1,4 +1,4 @@
-# 马赫速度 TV5 动手| TechCrunch
+# 马赫速度 TV5 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/20/mach-speed-tv5-hands-on/>
 

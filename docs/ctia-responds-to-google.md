@@ -1,4 +1,4 @@
-# CTIA 回应谷歌| TechCrunch
+# CTIA 回应谷歌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/ctia-responds-to-google/>
 

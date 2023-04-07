@@ -1,4 +1,4 @@
-# Revlayer 推出简单死了的视频广告产品 TechCrunch
+# Revlayer 推出简单死了的视频广告产品 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/07/16/prerollr-launches-dead-simple-video-advertising-product/>
 

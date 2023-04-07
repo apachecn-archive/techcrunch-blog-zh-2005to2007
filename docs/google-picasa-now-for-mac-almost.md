@@ -1,4 +1,4 @@
-# Google Picasa 现在几乎可以在 Mac 上使用了——TechCrunch
+# Google Picasa 现在几乎可以在 Mac 上使用了
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/02/google-picasa-now-for-mac-almost/>
 

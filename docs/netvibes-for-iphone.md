@@ -1,4 +1,4 @@
-# iPhone 版 NetVibes | TechCrunch
+# iPhone 版 NetVibes 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/netvibes-for-iphone/>
 

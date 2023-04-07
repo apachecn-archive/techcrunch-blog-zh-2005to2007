@@ -1,4 +1,4 @@
-# OQO 模型 2 获得 HSDPA d | TechCrunch
+# OQO 模型 2 获得 HSDPA d 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/oqo-model-2-gets-hsdpad/>
 

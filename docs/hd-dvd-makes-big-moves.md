@@ -1,4 +1,4 @@
-# HD DVD 有大动作| TechCrunch
+# HD DVD 有大动作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/01/hd-dvd-makes-big-moves/>
 

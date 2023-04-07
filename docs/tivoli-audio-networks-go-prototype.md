@@ -1,4 +1,4 @@
-# Tivoli 音频网络原型| TechCrunch
+# Tivoli 音频网络原型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/22/tivoli-audio-networks-go-prototype/>
 

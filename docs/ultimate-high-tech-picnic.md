@@ -1,4 +1,4 @@
-# 终极高科技野餐| TechCrunch
+# 终极高科技野餐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/04/ultimate-high-tech-picnic/>
 

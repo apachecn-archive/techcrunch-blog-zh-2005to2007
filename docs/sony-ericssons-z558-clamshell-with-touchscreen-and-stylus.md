@@ -1,4 +1,4 @@
-# 索尼爱立信的 Z558 翻盖手机，配有触摸屏和触控笔| TechCrunch
+# 索尼爱立信的 Z558 翻盖手机，配有触摸屏和触控笔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/05/sony-ericssons-z558-clamshell-with-touchscreen-and-stylus/>
 

@@ -1,4 +1,4 @@
-# Joost 说他们有 100 万 Beta 用户；年底发布——TechCrunch
+# Joost 说他们有 100 万 Beta 用户；年底发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/joost-says-they-have-1-million-beta-users-launch-by-year-end/>
 

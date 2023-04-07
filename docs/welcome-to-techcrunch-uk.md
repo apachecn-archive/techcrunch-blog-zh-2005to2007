@@ -1,4 +1,4 @@
-# 欢迎来到英国 TechCrunch！TechCrunch
+# 欢迎来到英国 TechCrunch！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/welcome-to-techcrunch-uk/>
 

@@ -1,4 +1,4 @@
-# 索尼爱立信 Z610i，带隐藏式外部显示屏——TechCrunch
+# 索尼爱立信 Z610i，带隐藏式外部显示屏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/sony-ericsson-z610i-with-hidden-external-display/>
 

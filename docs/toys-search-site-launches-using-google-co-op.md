@@ -1,4 +1,4 @@
-# 使用谷歌合作| TechCrunch 推出玩具搜索网站
+# 使用谷歌合作 推出玩具搜索网站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/toys-search-site-launches-using-google-co-op/>
 

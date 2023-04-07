@@ -1,4 +1,4 @@
-# Tivo 会把亚马逊拆箱吗？–TechCrunch
+# Tivo 会把亚马逊拆箱吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/22/will-tivo-box-the-amazon-unbox/>
 

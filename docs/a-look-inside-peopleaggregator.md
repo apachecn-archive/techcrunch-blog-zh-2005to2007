@@ -1,4 +1,4 @@
-# 深入了解 people aggregator TechCrunch
+# 深入了解 people aggregator 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/27/a-look-inside-peopleaggregator/>
 

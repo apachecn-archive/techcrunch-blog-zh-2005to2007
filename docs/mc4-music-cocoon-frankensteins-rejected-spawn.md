@@ -1,4 +1,4 @@
-# MC4 音乐茧:弗兰肯斯坦的拒绝产卵？TechCrunch
+# MC4 音乐茧:弗兰肯斯坦的拒绝产卵？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/mc4-music-cocoon-frankensteins-rejected-spawn/>
 

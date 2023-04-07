@@ -1,4 +1,4 @@
-# 蓝牙 2.1:一种看起来像 Lobot 的更快方式——TechCrunch
+# 蓝牙 2.1:一种看起来像 Lobot 的更快方式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/bluetooth-21-a-faster-way-to-look-like-lobot/>
 

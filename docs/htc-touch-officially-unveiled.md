@@ -1,4 +1,4 @@
-# HTC Touch 正式亮相| TechCrunch
+# HTC Touch 正式亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/htc-touch-officially-unveiled/>
 

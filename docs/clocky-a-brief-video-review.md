@@ -1,4 +1,4 @@
-# Clocky:一个简短的视频回顾——TechCrunch
+# Clocky:一个简短的视频回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/clocky-a-brief-video-review/>
 

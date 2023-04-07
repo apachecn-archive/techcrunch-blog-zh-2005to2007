@@ -1,4 +1,4 @@
-# 极端移动天气警报–TechCrunch
+# 极端移动天气警报
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/extreme-mobile-weather-alerts/>
 

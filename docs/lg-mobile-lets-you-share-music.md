@@ -1,4 +1,4 @@
-# LG 移动让你分享音乐| TechCrunch
+# LG 移动让你分享音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/lg-mobile-lets-you-share-music/>
 

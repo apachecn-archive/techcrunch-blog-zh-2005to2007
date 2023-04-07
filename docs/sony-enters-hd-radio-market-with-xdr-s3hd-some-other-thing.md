@@ -1,4 +1,4 @@
-# 索尼凭借 XDR-S3HD 和其他产品——TechCrunch 进入高清收音机市场
+# 索尼凭借 XDR-S3HD 和其他产品 进入高清收音机市场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/29/sony-enters-hd-radio-market-with-xdr-s3hd-some-other-thing/>
 

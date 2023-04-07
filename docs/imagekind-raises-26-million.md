@@ -1,4 +1,4 @@
-# ImageKind 融资 260 万美元——TechCrunch
+# ImageKind 融资 260 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/25/imagekind-raises-26-million/>
 

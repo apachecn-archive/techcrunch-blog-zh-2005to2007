@@ -1,4 +1,4 @@
-# 黑莓和 Treo 设备获得 Opera Mini-TechCrunch
+# 黑莓和 Treo 设备获得 Opera Mini-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/blackberry-and-treo-devices-get-opera-mobile/>
 

@@ -1,4 +1,4 @@
-# 卖出了 100 万台 zune——TechCrunch
+# 卖出了 100 万台 zune
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/28/one-million-zunes-somehow-sold/>
 

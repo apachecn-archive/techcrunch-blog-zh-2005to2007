@@ -1,4 +1,4 @@
-# HBO 和 AOL 的喜剧网站跳入死亡池 TechCrunch
+# HBO 和 AOL 的喜剧网站跳入死亡池 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/hbos-and-aols-comedy-site-diving-into-the-deadpool/>
 

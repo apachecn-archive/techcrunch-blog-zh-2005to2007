@@ -1,4 +1,4 @@
-# OLPC 笔记本电脑不再是 CM1，现在是 2B1 | TechCrunch
+# OLPC 笔记本电脑不再是 CM1，现在是 2B1 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/olpc-laptop-no-longer-cm1-now-2b1/>
 

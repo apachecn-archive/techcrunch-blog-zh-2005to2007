@@ -1,4 +1,4 @@
-# 闪耀…这是真的| TechCrunch
+# 闪耀…这是真的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/the-shiningits-real/>
 

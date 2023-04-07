@@ -1,4 +1,4 @@
-# 第二人生恐怖袭击——TechCrunch
+# 第二人生恐怖袭击
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/second-life-terrorists-attack/>
 

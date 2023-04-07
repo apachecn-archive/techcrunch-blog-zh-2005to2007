@@ -1,4 +1,4 @@
-# M-Audio 的新款 AV20、AV30 和 AV40 扬声器——TechCrunch
+# M-Audio 的新款 AV20、AV30 和 AV40 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/08/m-audios-new-av20-av30-and-av40-speakers/>
 

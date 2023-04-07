@@ -1,4 +1,4 @@
-# Flock 筹集新一轮风险投资，推出公开测试版——TechCrunch
+# Flock 筹集新一轮风险投资，推出公开测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/13/flock-raises-new-venture-round-launches-public-beta/>
 

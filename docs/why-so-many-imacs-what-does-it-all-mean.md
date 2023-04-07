@@ -1,4 +1,4 @@
-# 为什么这么多 iMacs？这一切意味着什么？TechCrunch
+# 为什么这么多 iMacs？这一切意味着什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/why-so-many-imacs-what-does-it-all-mean/>
 

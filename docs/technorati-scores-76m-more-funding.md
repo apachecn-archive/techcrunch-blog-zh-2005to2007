@@ -1,4 +1,4 @@
-# Technorati 获得了 760 万美元的额外资金——TechCrunch
+# Technorati 获得了 760 万美元的额外资金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/13/technorati-scores-76m-more-funding/>
 

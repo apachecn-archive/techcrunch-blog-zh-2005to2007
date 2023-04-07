@@ -1,4 +1,4 @@
-# 《舞会皇后》播出两集，我完全被吸引住了 TechCrunch
+# 《舞会皇后》播出两集，我完全被吸引住了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/03/two-episodes-into-prom-queen-and-im-completely-hooked/>
 

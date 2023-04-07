@@ -1,4 +1,4 @@
-# TDK 凭借 NAND | TechCrunch 达到 32GB
+# TDK 凭借 NAND  达到 32GB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/18/tdk-hits-32gb-with-nand/>
 

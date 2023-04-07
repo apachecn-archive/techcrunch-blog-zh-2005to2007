@@ -1,4 +1,4 @@
-# NBC 对 YouTube 的第二个回答:更多广告(但至少它有个名字)TechCrunch
+# NBC 对 YouTube 的第二个回答:更多广告(但至少它有个名字)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/08/nbcs-answer-to-youtube-more-ads/>
 

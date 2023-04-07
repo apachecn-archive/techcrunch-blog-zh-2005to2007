@@ -1,4 +1,4 @@
-# 阻燃笔记本电脑套| TechCrunch
+# 阻燃笔记本电脑套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/flame-retardant-laptop-sleeves/>
 

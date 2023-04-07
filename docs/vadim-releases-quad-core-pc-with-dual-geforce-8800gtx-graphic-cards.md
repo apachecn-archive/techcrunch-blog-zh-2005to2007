@@ -1,4 +1,4 @@
-# Vadim 发布配备双 GeForce 8800GTX 显卡的四核电脑| TechCrunch
+# Vadim 发布配备双 GeForce 8800GTX 显卡的四核电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/vadim-releases-quad-core-pc-with-dual-geforce-8800gtx-graphic-cards/>
 

@@ -1,4 +1,4 @@
-# 米老鼠 iPod nano-TechCrunch
+# 米老鼠 iPod nano-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/mickey-mouse-ipod-nano/>
 

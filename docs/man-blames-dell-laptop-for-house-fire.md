@@ -1,4 +1,4 @@
-# 男子指责戴尔笔记本电脑引发房屋火灾–TechCrunch
+# 男子指责戴尔笔记本电脑引发房屋火灾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/19/man-blames-dell-laptop-for-house-fire/>
 

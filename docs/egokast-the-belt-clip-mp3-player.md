@@ -1,4 +1,4 @@
-# EgoKast，皮带夹 MP3 播放器–TechCrunch
+# EgoKast，皮带夹 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/egokast-the-belt-clip-mp3-player/>
 

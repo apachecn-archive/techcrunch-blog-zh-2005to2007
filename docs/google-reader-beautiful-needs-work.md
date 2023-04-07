@@ -1,4 +1,4 @@
-# 谷歌阅读器——漂亮，需要改进——TechCrunch
+# 谷歌阅读器——漂亮，需要改进
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/08/google-reader-beautiful-needs-work/>
 

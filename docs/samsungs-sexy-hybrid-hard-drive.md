@@ -1,4 +1,4 @@
-# 三星性感的混合硬盘——TechCrunch
+# 三星性感的混合硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/samsungs-sexy-hybrid-hard-drive/>
 

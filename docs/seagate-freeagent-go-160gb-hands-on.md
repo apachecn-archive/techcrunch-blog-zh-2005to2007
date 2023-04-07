@@ -1,4 +1,4 @@
-# 希捷免费代理 Go 160GB 动手| TechCrunch
+# 希捷免费代理 Go 160GB 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/seagate-freeagent-go-160gb-hands-on/>
 

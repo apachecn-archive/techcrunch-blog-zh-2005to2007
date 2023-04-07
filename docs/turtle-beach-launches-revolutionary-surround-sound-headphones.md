@@ -1,4 +1,4 @@
-# 海龟滩推出革命性环绕声耳机 TechCrunch
+# 海龟滩推出革命性环绕声耳机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/turtle-beach-launches-revolutionary-surround-sound-headphones/>
 

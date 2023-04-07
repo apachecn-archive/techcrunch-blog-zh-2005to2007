@@ -1,4 +1,4 @@
-# 三星 L74:世界旅行计划| TechCrunch
+# 三星 L74:世界旅行计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/10/samsung-l74-world-trip-planner/>
 

@@ -1,4 +1,4 @@
-# Wacom 推出兼容宽屏的图形平板电脑| TechCrunch
+# Wacom 推出兼容宽屏的图形平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/wacom-ships-widescreen-compatible-graphics-tablets/>
 

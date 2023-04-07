@@ -1,4 +1,4 @@
-# PubSub 最有影响力的博客——TechCrunch
+# PubSub 最有影响力的博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/26/pubsubs-linkrank-list-of-most-influential-blogs/>
 
@@ -12,4 +12,4 @@ PubSub 还说“LinkRanks 是 PubSub 衡量 PubSub 监控的超过 1600 万个�
 
 罗伯特·斯考伯说“[啊，前方有更多有趣的博客搜索！](https://web.archive.org/web/20211126235030/http://radio.weblogs.com/0001011/2005/09/26.html#a11266)
 
-该列表包括每个博客的 15 天和 30 天的跟踪数据、当前排名和百分比，以及一个到网站统计数据的链接([示例](https://web.archive.org/web/20211126235030/http://www.pubsub.com/site_stats.php?site=beta.techcrunch.com)–TechCrunch)。
+该列表包括每个博客的 15 天和 30 天的跟踪数据、当前排名和百分比，以及一个到网站统计数据的链接([示例](https://web.archive.org/web/20211126235030/http://www.pubsub.com/site_stats.php?site=beta.techcrunch.com))。

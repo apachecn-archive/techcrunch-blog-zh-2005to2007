@@ -1,4 +1,4 @@
-# 传言:Cingular 将推出路由器和 WiFi 交换手机服务——TechCrunch
+# 传言:Cingular 将推出路由器和 WiFi 交换手机服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/rumor-cingular-to-launch-router-and-wifi-switching-cell-phone-service/>
 

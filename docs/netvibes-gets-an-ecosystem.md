@@ -1,4 +1,4 @@
-# NetVibes 获得一个生态系统——TechCrunch
+# NetVibes 获得一个生态系统
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/31/netvibes-gets-an-ecosystem/>
 

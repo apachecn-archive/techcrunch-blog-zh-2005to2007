@@ -1,4 +1,4 @@
-# 把任何手机变成电子邮件检查，黑莓的崇拜者——TechCrunch
+# 把任何手机变成电子邮件检查，黑莓的崇拜者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/turn-any-cellphone-into-an-e-mail-checking-blackberry-wannabe/>
 

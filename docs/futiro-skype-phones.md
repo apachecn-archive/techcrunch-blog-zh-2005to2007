@@ -1,4 +1,4 @@
-# Futiro Skype 电话–TechCrunch
+# Futiro Skype 电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/futiro-skype-phones/>
 

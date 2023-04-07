@@ -1,4 +1,4 @@
-# 令人质疑的漂浮宠物表面——TechCrunch
+# 令人质疑的漂浮宠物表面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/float-a-pet-surfaces-questionably/>
 

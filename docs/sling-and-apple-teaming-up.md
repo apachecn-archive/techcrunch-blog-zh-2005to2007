@@ -1,4 +1,4 @@
-# Sling 和苹果联手？TechCrunch
+# Sling 和苹果联手？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/sling-and-apple-teaming-up/>
 

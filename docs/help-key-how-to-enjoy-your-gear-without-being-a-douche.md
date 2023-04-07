@@ -1,4 +1,4 @@
-# 帮助提示:如何享受你的装备而不被冲洗——TechCrunch
+# 帮助提示:如何享受你的装备而不被冲洗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/help-key-how-to-enjoy-your-gear-without-being-a-douche/>
 

@@ -1,4 +1,4 @@
-# PSP 固件更新到 3.5，现在可以远程查看 PS3 内容 TechCrunch
+# PSP 固件更新到 3.5，现在可以远程查看 PS3 内容 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/psp-firmware-updated-to-35-can-now-remotely-view-ps3-content/>
 

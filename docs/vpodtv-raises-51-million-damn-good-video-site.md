@@ -1,4 +1,4 @@
-# vpod.tv 融资 510 万美元:第一眼——TechCrunch
+# vpod.tv 融资 510 万美元:第一眼
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/19/vpodtv-raises-51-million-damn-good-video-site/>
 

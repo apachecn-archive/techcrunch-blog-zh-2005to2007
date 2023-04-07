@@ -1,4 +1,4 @@
-# 微软重命名 IPTV 服务，增加功能:Mediaroom，现在有开发者支持 TechCrunch
+# 微软重命名 IPTV 服务，增加功能:Mediaroom，现在有开发者支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/18/microsoft-renames-iptv-service-adds-features-mediaroom-now-with-developer-support/>
 

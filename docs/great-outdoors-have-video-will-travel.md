@@ -1,4 +1,4 @@
-# 户外运动:有视频，会旅行| TechCrunch
+# 户外运动:有视频，会旅行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/great-outdoors-have-video-will-travel/>
 

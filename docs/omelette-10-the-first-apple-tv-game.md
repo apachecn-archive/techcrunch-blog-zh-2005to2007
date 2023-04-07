@@ -1,4 +1,4 @@
-# 煎蛋卷 1.0——首款苹果电视游戏| TechCrunch
+# 煎蛋卷 1.0——首款苹果电视游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/omelette-10-the-first-apple-tv-game/>
 

@@ -1,4 +1,4 @@
-# Web 2.0 本周(7 月 24 日至 30 日)——TechCrunch
+# Web 2.0 本周(7 月 24 日至 30 日)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2005/07/30/web-20-this-week-july-24-30/>
 

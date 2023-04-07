@@ -1,4 +1,4 @@
-# 中国盗版 iPhone | TechCrunch
+# 中国盗版 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/chinese-pirates-copy-iphone/>
 

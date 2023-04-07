@@ -1,4 +1,4 @@
-# 备份您的博客 TechCrunch
+# 备份您的博客 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/13/back-up-your-blog/>
 

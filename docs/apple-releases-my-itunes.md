@@ -1,4 +1,4 @@
-# 苹果发布我的 iTunes | TechCrunch
+# 苹果发布我的 iTunes 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/12/apple-releases-my-itunes/>
 

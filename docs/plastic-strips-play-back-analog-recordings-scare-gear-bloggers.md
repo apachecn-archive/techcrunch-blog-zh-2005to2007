@@ -1,4 +1,4 @@
-# 塑料条回放模拟录音，吓唬 Gear 博主| TechCrunch
+# 塑料条回放模拟录音，吓唬 Gear 博主
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/plastic-strips-play-back-analog-recordings-scare-gear-bloggers/>
 

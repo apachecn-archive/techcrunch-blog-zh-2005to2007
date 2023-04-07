@@ -1,4 +1,4 @@
-# 注射器形状的 USB 拇指驱动器–TechCrunch
+# 注射器形状的 USB 拇指驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/syringe-shaped-usb-thumb-drive/>
 

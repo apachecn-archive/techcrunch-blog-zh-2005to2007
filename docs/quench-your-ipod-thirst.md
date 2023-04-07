@@ -1,4 +1,4 @@
-# 解渴你的 iPod——TechCrunch
+# 解渴你的 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/08/quench-your-ipod-thirst/>
 

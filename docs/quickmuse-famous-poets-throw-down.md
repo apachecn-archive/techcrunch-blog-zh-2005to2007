@@ -1,4 +1,4 @@
-# QuickMuse:著名诗人抛弃| TechCrunch
+# QuickMuse:著名诗人抛弃
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/12/quickmuse-famous-poets-throw-down/>
 

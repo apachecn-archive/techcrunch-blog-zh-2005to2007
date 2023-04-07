@@ -1,4 +1,4 @@
-# 苹果电视上的 YouTube 直播，即将登陆 iPhone | TechCrunch
+# 苹果电视上的 YouTube 直播，即将登陆 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/youtube-live-on-apple-tv-coming-soon-to-iphone/>
 

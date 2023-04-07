@@ -1,4 +1,4 @@
-# 擎天柱摆好姿势准备爆头！–TechCrunch
+# 擎天柱摆好姿势准备爆头！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/25/optimus-prime-poses-for-headshot/>
 

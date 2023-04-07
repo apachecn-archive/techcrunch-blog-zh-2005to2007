@@ -1,4 +1,4 @@
-# AOL 收购 Weblogs，Inc . TechCrunch
+# AOL 收购 Weblogs，Inc . 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/05/aol-acquires-weblog-inc/>
 

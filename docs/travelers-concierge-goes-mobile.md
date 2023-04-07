@@ -1,4 +1,4 @@
-# 旅行者礼宾走向移动化| TechCrunch
+# 旅行者礼宾走向移动化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/travelers-concierge-goes-mobile/>
 

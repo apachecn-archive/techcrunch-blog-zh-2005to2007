@@ -1,4 +1,4 @@
-# Imeem 现在正式合法 TechCrunch
+# Imeem 现在正式合法 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/20/imeem-now-officially-legitimate/>
 

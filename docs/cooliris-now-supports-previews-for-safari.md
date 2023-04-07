@@ -1,4 +1,4 @@
-# Cooliris 现在支持 Safari 预览——TechCrunch
+# Cooliris 现在支持 Safari 预览
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/14/cooliris-now-supports-previews-for-safari/>
 

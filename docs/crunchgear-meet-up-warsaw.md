@@ -1,4 +1,4 @@
-# CrunchGear 会议:华沙| TechCrunch
+# CrunchGear 会议:华沙
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/crunchgear-meet-up-warsaw/>
 

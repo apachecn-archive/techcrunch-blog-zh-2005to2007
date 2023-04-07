@@ -1,4 +1,4 @@
-# Loopt 让移动展示变得可用 TechCrunch
+# Loopt 让移动展示变得可用 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/11/loopt-to-make-mobile-presence-usable/>
 

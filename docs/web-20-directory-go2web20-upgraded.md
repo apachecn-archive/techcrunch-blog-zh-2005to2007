@@ -1,4 +1,4 @@
-# Web 2.0 目录 Go2Web20 升级| TechCrunch
+# Web 2.0 目录 Go2Web20 升级
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/05/web-20-directory-go2web20-upgraded/>
 

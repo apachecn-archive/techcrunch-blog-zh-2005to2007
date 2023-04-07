@@ -1,4 +1,4 @@
-# 2012 年开业的新空间酒店——TechCrunch
+# 2012 年开业的新空间酒店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/10/new-space-hotel-opening-in-2012/>
 

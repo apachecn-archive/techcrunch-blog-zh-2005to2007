@@ -1,4 +1,4 @@
-# Meebo 令人印象深刻的增长——TechCrunch
+# Meebo 令人印象深刻的增长
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/12/meebos-impressive-growth/>
 

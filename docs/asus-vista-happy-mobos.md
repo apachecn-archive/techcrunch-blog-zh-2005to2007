@@ -1,4 +1,4 @@
-# 华硕 Vista Happy Mobos–TechCrunch
+# 华硕 Vista Happy Mobos
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/asus-vista-happy-mobos/>
 

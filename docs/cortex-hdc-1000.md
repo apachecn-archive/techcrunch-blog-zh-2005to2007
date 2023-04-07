@@ -1,4 +1,4 @@
-# Cortex HDC-1000 | TechCrunch
+# Cortex HDC-1000 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/cortex-hdc-1000/>
 

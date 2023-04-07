@@ -1,4 +1,4 @@
-# Yelp 的本地评论| TechCrunch
+# Yelp 的本地评论
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/12/yelps-local-reviews/>
 

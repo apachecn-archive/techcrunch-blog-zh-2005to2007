@@ -1,4 +1,4 @@
-# 答:8GB 苹果 iPod Nano(产品)红色| TechCrunch
+# 答:8GB 苹果 iPod Nano(产品)红色
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/03/a-the-8gb-apple-ipod-nano/>
 

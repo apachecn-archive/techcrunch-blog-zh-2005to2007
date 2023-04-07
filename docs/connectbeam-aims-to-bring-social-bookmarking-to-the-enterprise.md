@@ -1,4 +1,4 @@
-# ConnectBeam 旨在将社会化书签引入企业——TechCrunch
+# ConnectBeam 旨在将社会化书签引入企业
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/28/connectbeam-aims-to-bring-social-bookmarking-to-the-enterprise/>
 

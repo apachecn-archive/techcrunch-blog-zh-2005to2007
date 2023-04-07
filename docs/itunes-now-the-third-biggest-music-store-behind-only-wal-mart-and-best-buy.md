@@ -1,4 +1,4 @@
-# iTunes 现在是仅次于沃尔玛和百思买的第三大音乐商店——TechCrunch
+# iTunes 现在是仅次于沃尔玛和百思买的第三大音乐商店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/itunes-now-the-third-biggest-music-store-behind-only-wal-mart-and-best-buy/>
 

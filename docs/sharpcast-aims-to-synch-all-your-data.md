@@ -1,4 +1,4 @@
-# Sharpcast 旨在同步您的所有数据 TechCrunch
+# Sharpcast 旨在同步您的所有数据 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/14/sharpcast-aims-to-synch-all-your-data/>
 

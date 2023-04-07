@@ -1,4 +1,4 @@
-# 花 45 美元买一张 60 美元的 iTunes 卡——TechCrunch
+# 花 45 美元买一张 60 美元的 iTunes 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/03/get-a-60-itunes-card-for-45/>
 

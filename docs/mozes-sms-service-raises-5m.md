@@ -1,4 +1,4 @@
-# Mozes 短信服务融资 500 万美元| TechCrunch
+# Mozes 短信服务融资 500 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/mozes-sms-service-raises-5m/>
 

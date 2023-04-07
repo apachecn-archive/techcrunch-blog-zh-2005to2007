@@ -1,4 +1,4 @@
-# 简介–Digg 2.0–TechCrunch
+# 简介–Digg 2.0
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/11/profile-digg-2o/>
 

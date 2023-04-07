@@ -1,4 +1,4 @@
-# 与 ISP | TechCrunch 的在线电视创业链接
+# 与 ISP  的在线电视创业链接
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/17/online-tv-startup-links-with-isp/>
 

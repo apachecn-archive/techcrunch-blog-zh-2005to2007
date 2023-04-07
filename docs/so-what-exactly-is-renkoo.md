@@ -1,4 +1,4 @@
-# 那么仁酷到底是什么？–TechCrunch
+# 那么仁酷到底是什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/25/so-what-exactly-is-renkoo/>
 

@@ -1,4 +1,4 @@
-# PopCatcher 接收调频广播，因此您不必| TechCrunch
+# PopCatcher 接收调频广播，因此您不必
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/24/popcatcher-catches-fm-radio-so-you-dont-have-to/>
 

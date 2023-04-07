@@ -1,4 +1,4 @@
-# FlipTrack:一个更复杂的幻灯片放映工具——TechCrunch
+# FlipTrack:一个更复杂的幻灯片放映工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/15/fliptrack-a-more-sophisticated-slide-show-tool/>
 

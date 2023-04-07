@@ -1,4 +1,4 @@
-# 车臣的手工枪——TechCrunch
+# 车臣的手工枪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/15/the-handmade-guns-of-chechnya/>
 

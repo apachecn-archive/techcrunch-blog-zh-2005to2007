@@ -1,4 +1,4 @@
-# 个人资料–blink list–TechCrunch
+# 个人资料–blink list
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/31/profile-blinklist/>
 

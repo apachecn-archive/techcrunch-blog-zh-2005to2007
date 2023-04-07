@@ -1,4 +1,4 @@
-# 也许谷歌新闻需要一点调整——TechCrunch
+# 也许谷歌新闻需要一点调整
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/21/maybe-google-news-needs-a-little-tweaking/>
 

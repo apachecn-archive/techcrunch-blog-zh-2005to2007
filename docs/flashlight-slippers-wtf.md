@@ -1,4 +1,4 @@
-# 手电筒+拖鞋= WTF–TechCrunch
+# 手电筒+拖鞋= WTF
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/flashlight-slippers-wtf/>
 

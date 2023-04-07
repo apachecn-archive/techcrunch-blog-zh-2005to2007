@@ -1,4 +1,4 @@
-# 韩国的 crunch gear | TechCrunch
+# 韩国的 crunch gear 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/17/crunchgear-in-korea/>
 

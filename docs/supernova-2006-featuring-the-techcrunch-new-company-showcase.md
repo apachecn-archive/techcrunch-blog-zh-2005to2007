@@ -1,4 +1,4 @@
-# supernova 2006–展示 TechCrunch 新公司展示| TechCrunch
+# supernova 2006–展示 TechCrunch 新公司展示
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/18/supernova-2006-featuring-the-techcrunch-new-company-showcase/>
 

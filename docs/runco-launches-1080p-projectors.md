@@ -1,4 +1,4 @@
-# Runco 推出 1080p 投影仪——TechCrunch
+# Runco 推出 1080p 投影仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/runco-launches-1080p-projectors/>
 

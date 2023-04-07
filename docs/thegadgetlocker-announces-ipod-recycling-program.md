@@ -1,4 +1,4 @@
-# GadgetLocker 宣布 iPod 回收计划| TechCrunch
+# GadgetLocker 宣布 iPod 回收计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/thegadgetlocker-announces-ipod-recycling-program/>
 

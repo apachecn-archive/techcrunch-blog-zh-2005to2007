@@ -1,4 +1,4 @@
-# 卡西欧 G'zOne Type-S 听起来像一道意大利面——TechCrunch
+# 卡西欧 G'zOne Type-S 听起来像一道意大利面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/casio-gzone-type-s-sounds-like-a-pasta-dish/>
 

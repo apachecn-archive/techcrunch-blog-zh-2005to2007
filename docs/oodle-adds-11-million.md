@@ -1,4 +1,4 @@
-# Oodle 融资 1100 万美元——TechCrunch
+# Oodle 融资 1100 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/21/oodle-adds-11-million/>
 

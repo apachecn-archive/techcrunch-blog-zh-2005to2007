@@ -1,4 +1,4 @@
-# Hi5 流量激增，可能成为第二大社交网络 TechCrunch
+# Hi5 流量激增，可能成为第二大社交网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/20/hi5-traffic-surges-may-be-second-largest-social-network/>
 

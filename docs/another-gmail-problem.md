@@ -1,4 +1,4 @@
-# 另一个 Gmail 问题——TechCrunch
+# 另一个 Gmail 问题
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/01/another-gmail-problem/>
 

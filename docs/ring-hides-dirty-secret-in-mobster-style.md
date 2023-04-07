@@ -1,4 +1,4 @@
-# 戒指以黑帮风格隐藏肮脏秘密| TechCrunch
+# 戒指以黑帮风格隐藏肮脏秘密
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/ring-hides-dirty-secret-in-mobster-style/>
 

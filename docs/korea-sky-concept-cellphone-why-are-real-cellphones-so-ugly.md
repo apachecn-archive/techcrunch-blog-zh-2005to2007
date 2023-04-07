@@ -1,4 +1,4 @@
-# 韩国天空概念手机:为什么真正的手机如此丑陋？TechCrunch
+# 韩国天空概念手机:为什么真正的手机如此丑陋？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/03/korea-sky-concept-cellphone-why-are-real-cellphones-so-ugly/>
 

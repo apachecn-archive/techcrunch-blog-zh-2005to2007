@@ -1,4 +1,4 @@
-# Redfin 今晚 60 分钟——房地产市场混乱| TechCrunch
+# Redfin 今晚 60 分钟——房地产市场混乱
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/13/redfin-on-60-minutes-to>
 

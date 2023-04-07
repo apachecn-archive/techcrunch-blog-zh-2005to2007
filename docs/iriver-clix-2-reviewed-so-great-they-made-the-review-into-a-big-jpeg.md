@@ -1,4 +1,4 @@
-# iRiver Clix 2 评论，太棒了，他们把评论做成一个大 JPEG-TechCrunch
+# iRiver Clix 2 评论，太棒了，他们把评论做成一个大 JPEG-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/iriver-clix-2-reviewed-so-great-they-made-the-review-into-a-big-jpeg/>
 

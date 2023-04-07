@@ -1,4 +1,4 @@
-# 豪华移动阅读器 iBloglines | TechCrunch
+# 豪华移动阅读器 iBloglines 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/ibloglines-the-deluxe-mobile-reader/>
 

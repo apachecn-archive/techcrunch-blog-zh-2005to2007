@@ -1,4 +1,4 @@
-# 3jam 文本服务让你可以同时监听你所有的朋友——TechCrunch
+# 3jam 文本服务让你可以同时监听你所有的朋友
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/3jam-text-service-lets-you-bug-all-your-friends-simultaneously/>
 

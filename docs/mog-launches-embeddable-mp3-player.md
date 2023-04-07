@@ -1,4 +1,4 @@
-# MOG 推出嵌入式 MP3 播放器| TechCrunch
+# MOG 推出嵌入式 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/19/mog-launches-embeddable-mp3-player/>
 

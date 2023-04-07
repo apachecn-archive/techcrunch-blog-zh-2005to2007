@@ -1,4 +1,4 @@
-# 高科技卡拉 ok–TechCrunch
+# 高科技卡拉 ok
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/high-tech-karaoke/>
 

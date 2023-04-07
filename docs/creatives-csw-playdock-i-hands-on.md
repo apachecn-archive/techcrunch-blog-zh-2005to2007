@@ -1,4 +1,4 @@
-# 创意公司的 CSW PlayDock I hand-TechCrunch
+# 创意公司的 CSW PlayDock I hand-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/creatives-csw-playdock-i-hands-on/>
 

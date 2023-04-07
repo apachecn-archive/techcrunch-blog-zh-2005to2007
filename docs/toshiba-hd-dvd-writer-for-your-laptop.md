@@ -1,4 +1,4 @@
-# 适用于您笔记本电脑的东芝 HD DVD 刻录机| TechCrunch
+# 适用于您笔记本电脑的东芝 HD DVD 刻录机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/04/toshiba-hd-dvd-writer-for-your-laptop/>
 

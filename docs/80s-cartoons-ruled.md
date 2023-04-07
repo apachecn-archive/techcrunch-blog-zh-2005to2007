@@ -1,4 +1,4 @@
-# 80 年代动画片统治了！！！TechCrunch
+# 80 年代动画片统治了！！！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/80s-cartoons-ruled/>
 

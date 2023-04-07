@@ -1,4 +1,4 @@
-# 新闻集团、NBC 今天可能宣布分布式 YouTube 的竞争对手；谷歌嘲笑 TechCrunch
+# 新闻集团、NBC 今天可能宣布分布式 YouTube 的竞争对手；谷歌嘲笑 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/22/news-corp-nbc-may-announce-distributed-youtube-competitor-tomorrow/>
 

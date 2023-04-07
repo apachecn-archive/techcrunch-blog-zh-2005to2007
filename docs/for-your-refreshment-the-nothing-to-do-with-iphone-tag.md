@@ -1,4 +1,4 @@
-# 让您耳目一新的是:“与苹果手机无关”标签| TechCrunch
+# 让您耳目一新的是:“与苹果手机无关”标签
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/for-your-refreshment-the-nothing-to-do-with-iphone-tag/>
 

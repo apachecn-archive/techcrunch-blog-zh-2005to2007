@@ -1,4 +1,4 @@
-# 苹果将 iTunes 整合到 Bebo——TechCrunch
+# 苹果将 iTunes 整合到 Bebo
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/13/apple-to-integrate-itunes-into-bebo/>
 

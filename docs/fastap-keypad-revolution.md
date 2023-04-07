@@ -1,4 +1,4 @@
-# Fastap:键盘革命| TechCrunch
+# Fastap:键盘革命
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/14/fastap-keypad-revolution/>
 

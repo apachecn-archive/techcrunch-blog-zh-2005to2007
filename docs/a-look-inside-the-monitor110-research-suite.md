@@ -1,4 +1,4 @@
-# 了解 Monitor110 研究套件——TechCrunch
+# 了解 Monitor110 研究套件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/21/a-look-inside-the-monitor110-research-suite/>
 

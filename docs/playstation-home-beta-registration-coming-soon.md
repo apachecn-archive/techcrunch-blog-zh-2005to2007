@@ -1,4 +1,4 @@
-# Playstation Home 测试版即将注册| TechCrunch
+# Playstation Home 测试版即将注册
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/playstation-home-beta-registration-coming-soon/>
 

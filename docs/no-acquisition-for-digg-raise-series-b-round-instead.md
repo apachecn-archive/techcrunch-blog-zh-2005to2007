@@ -1,4 +1,4 @@
-# 没有对 Digg 的收购-筹集 B 轮资金，而是 TechCrunch
+# 没有对 Digg 的收购-筹集 B 轮资金，而是 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/28/no-acquisition-for-digg-raise-series-b-round-instead/>
 

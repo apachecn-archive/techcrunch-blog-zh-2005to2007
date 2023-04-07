@@ -1,4 +1,4 @@
-# 亲爱的 Podtech:我不是你的营销副总裁 TechCrunch
+# 亲爱的 Podtech:我不是你的营销副总裁 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/27/dear-podtech-im-not-your-vp-marketing/>
 

@@ -1,4 +1,4 @@
-# iPhone 数据计划详情——TechCrunch
+# iPhone 数据计划详情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/iphone-data-plan-details/>
 

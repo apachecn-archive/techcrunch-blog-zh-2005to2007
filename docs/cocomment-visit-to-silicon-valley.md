@@ -1,4 +1,4 @@
-# 对硅谷的共同评价访问 TechCrunch
+# 对硅谷的共同评价访问 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/27/cocomment-visit-to-silicon-valley/>
 

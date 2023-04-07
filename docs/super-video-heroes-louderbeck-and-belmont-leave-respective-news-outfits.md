@@ -1,4 +1,4 @@
-# 超级视频英雄:劳德贝克和贝尔蒙特离开各自的新闻机构——TechCrunch
+# 超级视频英雄:劳德贝克和贝尔蒙特离开各自的新闻机构
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/11/super-video-heroes-louderbeck-and-belmont-leave-respective-news-outfits/>
 

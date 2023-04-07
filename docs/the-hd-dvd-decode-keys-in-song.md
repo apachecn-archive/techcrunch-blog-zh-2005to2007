@@ -1,4 +1,4 @@
-# HD DVD 解码键，在宋| TechCrunch
+# HD DVD 解码键，在宋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/01/the-hd-dvd-decode-keys-in-song/>
 

@@ -1,4 +1,4 @@
-# 飞利浦 lum alive–TechCrunch
+# 飞利浦 lum alive
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/philips-lumalive/>
 

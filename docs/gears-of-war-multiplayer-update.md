@@ -1,4 +1,4 @@
-# 《战争机器》多人更新| TechCrunch
+# 《战争机器》多人更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/09/gears-of-war-multiplayer-update/>
 

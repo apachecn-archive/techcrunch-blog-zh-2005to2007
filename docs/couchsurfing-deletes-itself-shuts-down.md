@@ -1,4 +1,4 @@
-# CouchSurfing 删除自己，关闭| TechCrunch
+# CouchSurfing 删除自己，关闭
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/29/couchsurfing-deletes-itself-shuts-down/>
 

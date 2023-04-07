@@ -1,4 +1,4 @@
-# Sprint 将添加三星 A900M | TechCrunch
+# Sprint 将添加三星 A900M 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/sprint-to-add-samsung-a900m/>
 

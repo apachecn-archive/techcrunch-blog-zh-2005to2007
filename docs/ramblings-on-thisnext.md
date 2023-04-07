@@ -1,4 +1,4 @@
-# 漫谈这个 next——TechCrunch
+# 漫谈这个 next
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/11/ramblings-on-thisnext/>
 

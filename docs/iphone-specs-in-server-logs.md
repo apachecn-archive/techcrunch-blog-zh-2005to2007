@@ -1,4 +1,4 @@
-# 服务器日志中的 iPhone 规格| TechCrunch
+# 服务器日志中的 iPhone 规格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/iphone-specs-in-server-logs/>
 

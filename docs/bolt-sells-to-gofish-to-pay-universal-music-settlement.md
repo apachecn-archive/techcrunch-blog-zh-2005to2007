@@ -1,4 +1,4 @@
-# 博尔特出售给 GoFish 以支付通用音乐结算| TechCrunch
+# 博尔特出售给 GoFish 以支付通用音乐结算
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/11/bolt-sells-to-gofish-to-pay-universal-music-settlement/>
 

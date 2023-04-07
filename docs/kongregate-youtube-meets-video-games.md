@@ -1,4 +1,4 @@
-# Kongregate:视频游戏遇上 YouTube——TechCrunch
+# Kongregate:视频游戏遇上 YouTube
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/22/kongregate-youtube-meets-video-games/>
 

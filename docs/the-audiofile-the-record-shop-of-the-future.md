@@ -1,4 +1,4 @@
-# 音频文件:未来的唱片店——TechCrunch
+# 音频文件:未来的唱片店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/the-audiofile-the-record-shop-of-the-future/>
 

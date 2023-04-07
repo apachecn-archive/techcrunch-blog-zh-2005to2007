@@ -1,4 +1,4 @@
-# 音乐漩涡音箱:当水波纹来袭——TechCrunch
+# 音乐漩涡音箱:当水波纹来袭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/music-vortex-speaker-when-water-ripples-attack/>
 

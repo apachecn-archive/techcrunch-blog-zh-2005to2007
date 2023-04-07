@@ -1,4 +1,4 @@
-# 富士通+ E-Ink =彩色心脏–TechCrunch
+# 富士通+ E-Ink =彩色心脏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/05/fujitsu-e-ink-color/>
 

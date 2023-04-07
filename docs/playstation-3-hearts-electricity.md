@@ -1,4 +1,4 @@
-# PlayStation 3 心脏电| TechCrunch
+# PlayStation 3 心脏电
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/31/playstation-3-hearts-electricity/>
 

@@ -1,4 +1,4 @@
-# 亚马逊可能寻求收购网飞——TechCrunch
+# 亚马逊可能寻求收购网飞
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/06/amazon-may-be-looking-to-acquire-netflix/#respond>
 

@@ -1,4 +1,4 @@
-# TechCrunch 收购 InviteShare | TechCrunch
+# TechCrunch 收购 InviteShare 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/techcrunch-acquires-inviteshare/>
 

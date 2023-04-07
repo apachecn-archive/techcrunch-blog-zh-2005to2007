@@ -1,4 +1,4 @@
-# PatentMonkey:手机功能见过一次又一次| TechCrunch
+# PatentMonkey:手机功能见过一次又一次
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/17/patentmonkey-cell-phone-features-seen-em-once-and-again/>
 

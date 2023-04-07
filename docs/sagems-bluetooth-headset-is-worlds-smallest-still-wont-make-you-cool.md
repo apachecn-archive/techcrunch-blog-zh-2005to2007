@@ -1,4 +1,4 @@
-# 萨基姆的蓝牙耳机是世界上最小的，仍然不会让你很酷| TechCrunch
+# 萨基姆的蓝牙耳机是世界上最小的，仍然不会让你很酷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/sagems-bluetooth-headset-is-worlds-smallest-still-wont-make-you-cool/>
 

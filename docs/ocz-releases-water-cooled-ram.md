@@ -1,4 +1,4 @@
-# OCZ 发布水冷 RAM——TechCrunch
+# OCZ 发布水冷 RAM
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/ocz-releases-water-cooled-ram/>
 

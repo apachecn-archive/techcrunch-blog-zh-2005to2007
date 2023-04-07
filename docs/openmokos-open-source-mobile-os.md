@@ -1,4 +1,4 @@
-# OpenMoko 的开源移动平台| TechCrunch
+# OpenMoko 的开源移动平台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/openmokos-open-source-mobile-os/>
 

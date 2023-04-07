@@ -1,4 +1,4 @@
-# 带有集成扬声器的三星 YP-K5 MP3 播放器–TechCrunch
+# 带有集成扬声器的三星 YP-K5 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/samsung-yp-k5-mp3-player-with-integrated-speakers/>
 

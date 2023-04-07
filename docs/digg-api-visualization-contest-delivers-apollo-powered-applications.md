@@ -1,4 +1,4 @@
-# Digg API 可视化大赛推出 Apollo 驱动的应用——TechCrunch
+# Digg API 可视化大赛推出 Apollo 驱动的应用
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/25/digg-api-visualization-contest-delivers-apollo-powered-applications/>
 

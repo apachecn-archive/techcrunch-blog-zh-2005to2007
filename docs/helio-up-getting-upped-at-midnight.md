@@ -1,4 +1,4 @@
-# Helio UP 午夜起床——TechCrunch
+# Helio UP 午夜起床
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/helio-up-getting-upped-at-midnight/>
 

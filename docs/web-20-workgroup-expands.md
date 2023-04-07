@@ -1,4 +1,4 @@
-# Dave Winer 加入 Web 2.0 工作组 TechCrunch
+# Dave Winer 加入 Web 2.0 工作组 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/12/web-20-workgroup-expands/>
 

@@ -1,4 +1,4 @@
-# OS X 豹| TechCrunch 需要改进的十大事项
+# OS X 豹 需要改进的十大事项
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/top-ten-things-to-improve-in-os-x-leopard/>
 

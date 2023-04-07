@@ -1,4 +1,4 @@
-# 索尼 NW-S706 随身听 MP3 播放器，带 4GB 闪存| TechCrunch
+# 索尼 NW-S706 随身听 MP3 播放器，带 4GB 闪存
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/sony-nw-s706-walkman-mp3-player-with-4gb-flash/>
 

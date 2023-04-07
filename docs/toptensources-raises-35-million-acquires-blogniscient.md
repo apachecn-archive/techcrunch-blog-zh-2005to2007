@@ -1,4 +1,4 @@
-# TopTenSources 融资 350 万美元，收购 blogni scient-TechCrunch
+# TopTenSources 融资 350 万美元，收购 blogni scient-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/29/toptensources-raises-35-million-acquires-blogniscient/>
 

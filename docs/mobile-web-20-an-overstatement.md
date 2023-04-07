@@ -1,4 +1,4 @@
-# 移动 Web 2.0，是否言过其实？TechCrunch
+# 移动 Web 2.0，是否言过其实？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/mobile-web-20-an-overstatement/>
 

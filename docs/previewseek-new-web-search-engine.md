@@ -1,4 +1,4 @@
-# preview seek–新的网络搜索引擎–TechCrunch
+# preview seek–新的网络搜索引擎
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/16/previewseek-new-web-search-engine/>
 

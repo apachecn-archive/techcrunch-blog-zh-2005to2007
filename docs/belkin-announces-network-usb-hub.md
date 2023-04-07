@@ -1,4 +1,4 @@
-# Belkin 宣布推出网络 USB 集线器| TechCrunch
+# Belkin 宣布推出网络 USB 集线器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/belkin-announces-network-usb-hub/>
 

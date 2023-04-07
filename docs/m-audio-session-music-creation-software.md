@@ -1,4 +1,4 @@
-# M-Audio 会话音乐创作软件–TechCrunch
+# M-Audio 会话音乐创作软件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/m-audio-session-music-creation-software/>
 

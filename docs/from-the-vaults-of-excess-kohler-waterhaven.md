@@ -1,4 +1,4 @@
-# 来自过剩的金库:Kohler water haven–TechCrunch
+# 来自过剩的金库:Kohler water haven
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/from-the-vaults-of-excess-kohler-waterhaven/>
 

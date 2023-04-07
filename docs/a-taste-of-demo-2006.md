@@ -1,4 +1,4 @@
-# 体验演示 2006 TechCrunch
+# 体验演示 2006 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/07/a-taste-of-demo-2006/>
 

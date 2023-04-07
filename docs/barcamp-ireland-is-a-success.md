@@ -1,4 +1,4 @@
-# BarCamp Ireland 成功了| TechCrunch
+# BarCamp Ireland 成功了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/01/barcamp-ireland-is-a-success/>
 

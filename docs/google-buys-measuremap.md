@@ -1,4 +1,4 @@
-# 谷歌收购 measure map TechCrunch
+# 谷歌收购 measure map 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/14/google-buys-measuremap/>
 

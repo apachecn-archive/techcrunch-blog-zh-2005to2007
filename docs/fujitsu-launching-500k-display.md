@@ -1,4 +1,4 @@
-# 富士通推出 50 万美元以上的显示器——TechCrunch
+# 富士通推出 50 万美元以上的显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/fujitsu-launching-500k-display/>
 

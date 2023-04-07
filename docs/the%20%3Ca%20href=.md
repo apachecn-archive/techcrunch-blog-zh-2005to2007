@@ -1,4 +1,4 @@
-# TechCrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/&usg=ALkJrhgZHA4rNqXautUH1k4cT6wOVDR7Eg/page/2/page/2/page/2/page/2/page/3/page/2/page/2/page/2/page/3/www.zimbra.com/desktop/page/2/page/3/www.zimbra.com/desktop/Snap/2008/07/18/facebook-sues-german-social-network-studivz/page/2007/05/14/web-2-in-germany-copy-paste-innovation-or-more/http+:/www.crunchbase.com/person/leslie-morgenstein/www.austinventures.com/www.austinventures.com/page/2/page/3/layoffs/the%20%3Ca%20href=/>
 

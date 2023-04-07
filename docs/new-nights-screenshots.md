@@ -1,4 +1,4 @@
-# 新的夜晚截图——TechCrunch
+# 新的夜晚截图
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/06/new-nights-screenshots/>
 

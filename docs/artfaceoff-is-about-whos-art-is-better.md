@@ -1,4 +1,4 @@
-# ArtFaceOff 是关于谁的艺术“更好”——TechCrunch
+# ArtFaceOff 是关于谁的艺术“更好”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/22/artfaceoff-is-about-whos-art-is-better/>
 

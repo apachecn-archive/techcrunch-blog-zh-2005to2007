@@ -1,4 +1,4 @@
-# 37Signals 推出高层联系人管理器——TechCrunch
+# 37Signals 推出高层联系人管理器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/20/37signals-highrises-simple-crm/>
 

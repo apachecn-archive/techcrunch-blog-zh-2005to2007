@@ -1,4 +1,4 @@
-# 299 美元的新 TiVo 系列 3 即将上市？TechCrunch
+# 299 美元的新 TiVo 系列 3 即将上市？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/19/new-299-tivo-series-3-available-soon/>
 

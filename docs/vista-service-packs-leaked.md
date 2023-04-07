@@ -1,4 +1,4 @@
-# Vista 服务包泄露——TechCrunch
+# Vista 服务包泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/vista-service-packs-leaked/>
 

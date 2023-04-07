@@ -1,4 +1,4 @@
-# Skype 3.0(测试版)开启通信平台大战。TechCrunch
+# Skype 3.0(测试版)开启通信平台大战。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/10/skype-30-beta-starts-the-communication-platform-wars/>
 

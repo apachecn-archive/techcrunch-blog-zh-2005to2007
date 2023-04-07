@@ -1,4 +1,4 @@
-# 罗技降噪耳机视频回顾| TechCrunch
+# 罗技降噪耳机视频回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/logitech-noise-canceling-headphones-video-review/>
 

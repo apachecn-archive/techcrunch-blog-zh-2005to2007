@@ -1,4 +1,4 @@
-# 博朗 D800 剃须刀数码相机？！TechCrunch
+# 博朗 D800 剃须刀数码相机？！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/braun-d800-shaver-digital-camera/>
 

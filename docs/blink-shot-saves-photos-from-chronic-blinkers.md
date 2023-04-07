@@ -1,4 +1,4 @@
-# 眨眼拍摄保存照片从慢性眼罩| TechCrunch
+# 眨眼拍摄保存照片从慢性眼罩
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/blink-shot-saves-photos-from-chronic-blinkers/>
 

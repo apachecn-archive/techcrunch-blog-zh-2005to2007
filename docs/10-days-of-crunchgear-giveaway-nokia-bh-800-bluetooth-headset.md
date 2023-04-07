@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:诺基亚 BH-800 蓝牙耳机–TechCrunch
+# 10 天的 CrunchGear 赠品:诺基亚 BH-800 蓝牙耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/12/10-days-of-crunchgear-giveaway-nokia-bh-800-bluetooth-headset/>
 

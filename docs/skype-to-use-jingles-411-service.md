@@ -1,4 +1,4 @@
-# Skype 将使用叮当的 411 服务——TechCrunch
+# Skype 将使用叮当的 411 服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/05/skype-to-use-jingles-411-service/>
 

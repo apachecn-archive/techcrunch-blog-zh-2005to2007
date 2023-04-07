@@ -1,4 +1,4 @@
-# SanDisk Sansa 连接 Wi-Fi–TechCrunch
+# SanDisk Sansa 连接 Wi-Fi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/sandisk-sansa-connects-wi-fi/>
 

@@ -1,4 +1,4 @@
-# Abacus MobileWear 蓝牙手表实践–TechCrunch
+# Abacus MobileWear 蓝牙手表实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/fossil-fx6001-bluetooth-watch-hands-on/>
 

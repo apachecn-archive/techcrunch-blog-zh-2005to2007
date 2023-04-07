@@ -1,4 +1,4 @@
-# 简介:TagCloud TechCrunch
+# 简介:TagCloud 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/05/profile-tagcloud/>
 

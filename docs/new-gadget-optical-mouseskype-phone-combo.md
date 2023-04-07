@@ -1,4 +1,4 @@
-# 新玩意:光电鼠标/Skype 手机组合——TechCrunch
+# 新玩意:光电鼠标/Skype 手机组合
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/11/new-gadget-optical-mouseskype-phone-combo/>
 

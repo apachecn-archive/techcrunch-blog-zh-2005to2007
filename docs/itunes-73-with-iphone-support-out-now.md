@@ -1,4 +1,4 @@
-# 支持 iPhone 的 iTunes 7.3 现已发布——TechCrunch
+# 支持 iPhone 的 iTunes 7.3 现已发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/itunes-73-with-iphone-support-out-now/>
 

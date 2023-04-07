@@ -1,4 +1,4 @@
-# WiiXT Modchip 允许在 Wii 上播放 DVD-TechCrunch
+# WiiXT Modchip 允许在 Wii 上播放 DVD-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/wiixt-modchip-allows-dvd-playback-on-the-wii/>
 

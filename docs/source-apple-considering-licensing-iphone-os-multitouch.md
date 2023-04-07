@@ -1,4 +1,4 @@
-# 来源:苹果考虑授权 iPhone OS，多点触控？–TechCrunch
+# 来源:苹果考虑授权 iPhone OS，多点触控？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/source-apple-considering-licensing-iphone-os-multitouch/>
 

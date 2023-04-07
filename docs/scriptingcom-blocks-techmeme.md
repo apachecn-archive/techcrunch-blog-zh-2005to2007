@@ -1,4 +1,4 @@
-# Scripting.com 阻止 TechMeme-TechCrunch
+# Scripting.com 阻止 TechMeme-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/24/scriptingcom-blocks-techmeme/>
 

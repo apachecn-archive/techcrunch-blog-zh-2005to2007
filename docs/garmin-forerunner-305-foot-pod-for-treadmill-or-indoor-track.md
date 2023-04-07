@@ -1,4 +1,4 @@
-# Garmin Forerunner 305 英尺吊舱:用于跑步机或室内跑道–TechCrunch
+# Garmin Forerunner 305 英尺吊舱:用于跑步机或室内跑道
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/garmin-forerunner-305-foot-pod-for-treadmill-or-indoor-track/>
 

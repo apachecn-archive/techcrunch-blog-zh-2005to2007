@@ -1,4 +1,4 @@
-# 液晶调整到最佳视角| TechCrunch
+# 液晶调整到最佳视角
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/liquid-crystals-adjust-for-best-possible-view/>
 

@@ -1,4 +1,4 @@
-# 在圣诞节的第 n 天，将会有 360 个——TechCrunch
+# 在圣诞节的第 n 天，将会有 360 个
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/on-the-day-of-christmas-there-shall-be-360s/>
 

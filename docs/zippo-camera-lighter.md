@@ -1,4 +1,4 @@
-# Zippo 相机打火机| TechCrunch
+# Zippo 相机打火机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/14/zippo-camera-lighter/>
 

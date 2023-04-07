@@ -1,4 +1,4 @@
-# 雅虎问答增加了简单的社交网络功能——TechCrunch
+# 雅虎问答增加了简单的社交网络功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/08/yahoo-answers-add-simple-social-networking-feature/>
 

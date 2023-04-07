@@ -1,4 +1,4 @@
-# 日本学生用 DS | TechCrunch 学习英语
+# 日本学生用 DS  学习英语
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/japanese-students-learning-english-with-ds/>
 

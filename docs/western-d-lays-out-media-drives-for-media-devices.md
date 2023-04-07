@@ -1,4 +1,4 @@
-# Western D 为媒体设备设计媒体驱动器| TechCrunch
+# Western D 为媒体设备设计媒体驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/western-d-lays-out-media-drives-for-media-devices/>
 

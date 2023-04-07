@@ -1,4 +1,4 @@
-# 苹果的新 iPod:触摸边框，而不是触摸屏？| TechCrunch
+# 苹果的新 iPod:触摸边框，而不是触摸屏？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/apples-new-ipod-touch-bezel-not-touchscreen/>
 

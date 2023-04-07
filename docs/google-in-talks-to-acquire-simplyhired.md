@@ -1,4 +1,4 @@
-# 谷歌正在谈判收购 SimplyHired | TechCrunch
+# 谷歌正在谈判收购 SimplyHired 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/04/google-in-talks-to-acquire-simplyhired/>
 

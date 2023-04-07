@@ -1,4 +1,4 @@
-# 沃尔玛对参议员约翰·爱德华兹说:没有 PS3 给你！–TechCrunch
+# 沃尔玛对参议员约翰·爱德华兹说:没有 PS3 给你！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/wal-mart-to-sen-john-edwards-no-ps3-for-you/>
 

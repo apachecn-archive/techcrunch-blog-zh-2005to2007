@@ -1,4 +1,4 @@
-# XLR8 到 X-Tend 与 Brickhouse Mobile | TechCrunch
+# XLR8 到 X-Tend 与 Brickhouse Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/xlr8-to-x-tend-with-brickhouse-mobile/>
 

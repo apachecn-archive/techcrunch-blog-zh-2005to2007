@@ -1,4 +1,4 @@
-# 短跑比赛最后一搏| TechCrunch
+# 短跑比赛最后一搏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/dash-contest-last-gasp/>
 

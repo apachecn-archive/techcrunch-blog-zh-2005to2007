@@ -1,4 +1,4 @@
-# 我的浴室现在完成了——TechCrunch
+# 我的浴室现在完成了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/my-bathroom-is-now-complete/>
 

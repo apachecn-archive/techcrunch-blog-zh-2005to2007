@@ -1,4 +1,4 @@
-# 米高梅，联合艺术家电影现在在 iTunes 上 TechCrunch
+# 米高梅，联合艺术家电影现在在 iTunes 上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/11/mgm-united-artists-movies-now-on-itunes/>
 

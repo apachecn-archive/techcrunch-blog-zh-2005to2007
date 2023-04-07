@@ -1,4 +1,4 @@
-# 红 5 工作室的目标是成为在线游戏的皮克斯——TechCrunch
+# 红 5 工作室的目标是成为在线游戏的皮克斯
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/11/red-5-studios-aims-to-be-pixar-of-onling-gaming/>
 

@@ -1,4 +1,4 @@
-# Tascam DAP 是音乐人的天赐之物| TechCrunch
+# Tascam DAP 是音乐人的天赐之物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/tascam-dap-is-a-godsend-for-musicians/>
 

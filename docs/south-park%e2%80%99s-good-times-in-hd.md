@@ -1,4 +1,4 @@
-# 南方公园高清版的美好时光——TechCrunch
+# 南方公园高清版的美好时光
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/south-park%e2%80%99s-good-times-in-hd/>
 

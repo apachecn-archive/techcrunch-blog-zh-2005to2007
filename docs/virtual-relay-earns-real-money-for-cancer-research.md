@@ -1,4 +1,4 @@
-# 虚拟接力为癌症研究赚真金白银——TechCrunch
+# 虚拟接力为癌症研究赚真金白银
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/02/virtual-relay-earns-real-money-for-cancer-research/>
 

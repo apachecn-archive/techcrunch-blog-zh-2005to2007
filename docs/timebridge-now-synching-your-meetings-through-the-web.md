@@ -1,4 +1,4 @@
-# TimeBridge:现在通过网络同步您的会议——TechCrunch
+# TimeBridge:现在通过网络同步您的会议
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/14/timebridge-now-synching-your-meetings-through-the-web/>
 

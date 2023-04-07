@@ -1,4 +1,4 @@
-# 我们很抱歉，iPhone L @ unch 3 $ @ 6Pm——TechCrunch
+# 我们很抱歉，iPhone L @ unch 3 $ @ 6Pm
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/we-iz-sorri-iphone-lunch3-6pm/>
 

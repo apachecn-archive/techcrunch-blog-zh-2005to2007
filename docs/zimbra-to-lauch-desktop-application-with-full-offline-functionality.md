@@ -1,4 +1,4 @@
-# 即将推出的 Zimbra 桌面:完整的离线功能–TechCrunch
+# 即将推出的 Zimbra 桌面:完整的离线功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/26/zimbra-to-lauch-desktop-application-with-full-offline-functionality/>
 

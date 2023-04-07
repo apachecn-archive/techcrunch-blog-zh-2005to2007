@@ -1,4 +1,4 @@
-# Digg 应该起诉 Wired | TechCrunch
+# Digg 应该起诉 Wired 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/01/digg-should-sue-wired/>
 

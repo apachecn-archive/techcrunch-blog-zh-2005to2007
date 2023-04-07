@@ -1,4 +1,4 @@
-# Zazzle 谣言:大型对冲基金投资——TechCrunch
+# Zazzle 谣言:大型对冲基金投资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/27/zazzle-rumor-big-hedge-fund-investment/>
 

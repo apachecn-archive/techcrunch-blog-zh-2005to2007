@@ -1,4 +1,4 @@
-# 了解你的朋友何时单身 TechCrunch
+# 了解你的朋友何时单身 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/05/find-out-when-your-friends-become-single/>
 

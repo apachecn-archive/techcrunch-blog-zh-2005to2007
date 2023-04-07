@@ -1,4 +1,4 @@
-# Craigslist +拿着泰瑟枪的足球运动员=公关灾难| TechCrunch
+# Craigslist +拿着泰瑟枪的足球运动员=公关灾难
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/01/craigslist-footballer-with-a-taser-pr-disaster/>
 

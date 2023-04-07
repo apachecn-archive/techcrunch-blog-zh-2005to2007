@@ -1,4 +1,4 @@
-# MyFabrik:文件共享和更多——TechCrunch
+# MyFabrik:文件共享和更多
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/25/myfrabrik-file-sharing-and-more/>
 

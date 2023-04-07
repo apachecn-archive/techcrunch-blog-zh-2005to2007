@@ -1,4 +1,4 @@
-# Alltel 获得 KRZR | TechCrunch
+# Alltel 获得 KRZR 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/alltel-gets-krzr/>
 

@@ -1,4 +1,4 @@
-# Xboy 可能成为现实(更新)——TechCrunch
+# Xboy 可能成为现实(更新)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/the-xboy-could-be-a-reality/>
 

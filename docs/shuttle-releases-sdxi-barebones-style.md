@@ -1,4 +1,4 @@
-# Shuttle 发布 SDXi 准系统风格| TechCrunch
+# Shuttle 发布 SDXi 准系统风格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/26/shuttle-releases-sdxi-barebones-style/>
 

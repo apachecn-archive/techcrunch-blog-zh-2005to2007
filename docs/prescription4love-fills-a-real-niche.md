@@ -1,4 +1,4 @@
-# 得了疱疹？试试处方 4 爱 TechCrunch
+# 得了疱疹？试试处方 4 爱 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/17/prescription4love-fills-a-real-niche/>
 

@@ -1,4 +1,4 @@
-# Webshots 重新设计发布，视频即将推出——TechCrunch
+# Webshots 重新设计发布，视频即将推出
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/29/webshots-redesign-launches-video-coming/>
 

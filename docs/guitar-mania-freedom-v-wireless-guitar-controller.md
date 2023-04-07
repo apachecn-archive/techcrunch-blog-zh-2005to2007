@@ -1,4 +1,4 @@
-# 吉他狂热自由 V 无线吉他控制器 TechCrunch
+# 吉他狂热自由 V 无线吉他控制器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/05/guitar-mania-freedom-v-wireless-guitar-controller/>
 

@@ -1,4 +1,4 @@
-# 现在我们有了 god tube——TechCrunch
+# 现在我们有了 god tube
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/05/well-now-we-have-godtube/>
 

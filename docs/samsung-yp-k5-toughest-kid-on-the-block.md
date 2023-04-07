@@ -1,4 +1,4 @@
-# 三星 YP-K5，最强的孩子？TechCrunch
+# 三星 YP-K5，最强的孩子？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/19/samsung-yp-k5-toughest-kid-on-the-block/>
 

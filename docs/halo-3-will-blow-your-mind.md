@@ -1,4 +1,4 @@
-# 光晕 3 会让你大吃一惊——TechCrunch
+# 光晕 3 会让你大吃一惊
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/halo-3-will-blow-your-mind/>
 

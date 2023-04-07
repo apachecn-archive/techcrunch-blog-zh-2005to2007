@@ -1,4 +1,4 @@
-# 三星 YP-T9 通过百思买| TechCrunch 登陆美国
+# 三星 YP-T9 通过百思买 登陆美国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/09/samsung-yp-t9-hits-the-usa-via-best-buy/>
 

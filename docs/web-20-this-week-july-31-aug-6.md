@@ -1,4 +1,4 @@
-# Web 2.0 本周(7 月 31 日至 8 月 6 日)——TechCrunch
+# Web 2.0 本周(7 月 31 日至 8 月 6 日)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2005/08/07/web-20-this-week-july-31-aug-6/>
 

@@ -1,4 +1,4 @@
-# Sprint 点亮圣地亚哥的 EV-DO 改版，开始全国巡演——TechCrunch
+# Sprint 点亮圣地亚哥的 EV-DO 改版，开始全国巡演
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/sprint-lights-up-revision-a-ev-do-in-san-diego-starts-national-tour/>
 

@@ -1,4 +1,4 @@
-# 评论问题| TechCrunch
+# 评论问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/17/commenting-issues/>
 

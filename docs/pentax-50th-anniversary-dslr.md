@@ -1,4 +1,4 @@
-# 宾得 50 周年 DSLR | TechCrunch
+# 宾得 50 周年 DSLR 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/01/pentax-50th-anniversary-dslr/>
 

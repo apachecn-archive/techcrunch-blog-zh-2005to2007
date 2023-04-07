@@ -1,4 +1,4 @@
-# Memeorandum 与众不同 TechCrunch
+# Memeorandum 与众不同 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/18/memeorandum-is-exceptional/>
 

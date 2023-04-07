@@ -1,4 +1,4 @@
-# Dateline 调查 iPod 窃贼，称他们为“I-Jackers”——TechCrunch
+# Dateline 调查 iPod 窃贼，称他们为“I-Jackers”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/dateline-investigates-ipod-thieves-calls-them-i-jackers/>
 

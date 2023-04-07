@@ -1,4 +1,4 @@
-# JVC 游览美国中心地带，展示其高清产品| TechCrunch
+# JVC 游览美国中心地带，展示其高清产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/jvc-tours-american-heartland-showing-off-its-hi-def-goodies/>
 

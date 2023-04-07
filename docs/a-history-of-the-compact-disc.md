@@ -1,4 +1,4 @@
-# 光盘的历史| TechCrunch
+# 光盘的历史
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/a-history-of-the-compact-disc/>
 

@@ -1,4 +1,4 @@
-# Nike+训练系统将于年底应用于所有 Nike 跑步鞋| TechCrunch
+# Nike+训练系统将于年底应用于所有 Nike 跑步鞋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/nike-workout-system-coming-to-all-nike-running-shoes-by-years-end/>
 

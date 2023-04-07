@@ -1,4 +1,4 @@
-# 三星“蝴蝶”迷你电脑快速浏览–TechCrunch
+# 三星“蝴蝶”迷你电脑快速浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/samsung-butterfly-mini-pc-quick-look/>
 

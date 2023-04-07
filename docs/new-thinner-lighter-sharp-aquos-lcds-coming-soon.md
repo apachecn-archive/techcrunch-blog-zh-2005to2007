@@ -1,4 +1,4 @@
-# 新的更薄、更轻的夏普 Aquos 液晶显示器即将推出| TechCrunch
+# 新的更薄、更轻的夏普 Aquos 液晶显示器即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/new-thinner-lighter-sharp-aquos-lcds-coming-soon/>
 

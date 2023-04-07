@@ -1,4 +1,4 @@
-# Pete Rojas 削减开支 TechCrunch
+# Pete Rojas 削减开支 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/pete-rojas-cuts-line/>
 

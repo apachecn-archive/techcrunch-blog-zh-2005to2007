@@ -1,4 +1,4 @@
-# 猜猜哪部手机可能不会给手机音乐带来革命——TechCrunch
+# 猜猜哪部手机可能不会给手机音乐带来革命
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/guess-which-cellphone-might-not-revolutionize-mobile-music/>
 

@@ -1,4 +1,4 @@
-# 真的，Xbox 360 Elite 配得上 8.5 的评分吗？TechCrunch
+# 真的，Xbox 360 Elite 配得上 8.5 的评分吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/really-is-the-xbox-360-elite-worthy-of-an-85-rating/>
 

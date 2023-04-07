@@ -1,4 +1,4 @@
-# 一个脸书用户值多少钱？至少 0.30 美元 TechCrunch
+# 一个脸书用户值多少钱？至少 0.30 美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/27/how-much-is-a-facebook-user-worth-at-least-030/>
 

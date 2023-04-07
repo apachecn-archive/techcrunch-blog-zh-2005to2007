@@ -1,4 +1,4 @@
-# Hotmail 扩展卡哈纳测试版–TechCrunch
+# Hotmail 扩展卡哈纳测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/10/hotmail-expanding-kahuna-beta/>
 

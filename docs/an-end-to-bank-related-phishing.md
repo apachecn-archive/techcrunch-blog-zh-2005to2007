@@ -1,4 +1,4 @@
-# 终结与银行相关的网络钓鱼| TechCrunch
+# 终结与银行相关的网络钓鱼
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/an-end-to-bank-related-phishing/>
 

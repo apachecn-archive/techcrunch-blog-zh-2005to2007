@@ -1,4 +1,4 @@
-# 哇！Del.icio.us 推出更多内容——TechCrunch
+# 哇！Del.icio.us 推出更多内容
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/29/wow-delicious-rolls-out-more-stuff/>
 

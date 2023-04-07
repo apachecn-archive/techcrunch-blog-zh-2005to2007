@@ -1,4 +1,4 @@
-# 厨师们向任天堂 DS 寻求菜谱——TechCrunch
+# 厨师们向任天堂 DS 寻求菜谱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/cooks-turn-to-the-nintendo-ds-for-recipes/>
 

@@ -1,4 +1,4 @@
-# 沃尔玛将数字下载与实体 DVD 捆绑销售——TechCrunch
+# 沃尔玛将数字下载与实体 DVD 捆绑销售
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/28/walmart-bundles-digital-downloads-with-physical-dvds/>
 

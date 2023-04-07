@@ -1,4 +1,4 @@
-# GoBook XR-1:加固的耐用性–TechCrunch
+# GoBook XR-1:加固的耐用性
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/gobook-xr-1-ruggedized-ruggedness/>
 

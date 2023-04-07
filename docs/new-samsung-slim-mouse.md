@@ -1,4 +1,4 @@
-# 新款三星超薄鼠标——TechCrunch
+# 新款三星超薄鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/new-samsung-slim-mouse/>
 

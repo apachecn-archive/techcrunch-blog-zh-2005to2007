@@ -1,4 +1,4 @@
-# 雅虎推出带有 180 个插件的 Messenger 8——TechCrunch
+# 雅虎推出带有 180 个插件的 Messenger 8
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/28/yahoo-launches-messenger-8-with-180-plugins/>
 

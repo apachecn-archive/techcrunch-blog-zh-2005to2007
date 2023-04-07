@@ -1,4 +1,4 @@
-# Linux Indy Car 简直糟透了——TechCrunch
+# Linux Indy Car 简直糟透了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/29/linux-indy-car-just-plain-sucks/>
 

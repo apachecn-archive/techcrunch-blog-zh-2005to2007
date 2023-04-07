@@ -1,4 +1,4 @@
-# iPhone 将于第四季度进入欧洲，而不是第三季度——TechCrunch
+# iPhone 将于第四季度进入欧洲，而不是第三季度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/iphone-heading-to-europe-in-q4-not-q3/>
 

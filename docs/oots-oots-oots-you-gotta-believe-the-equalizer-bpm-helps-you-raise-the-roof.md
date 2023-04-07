@@ -1,4 +1,4 @@
-# Oots Oots Oots:你必须相信平衡 BPM 帮助你提高屋顶| TechCrunch
+# Oots Oots Oots:你必须相信平衡 BPM 帮助你提高屋顶
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/oots-oots-oots-you-gotta-believe-the-equalizer-bpm-helps-you-raise-the-roof/>
 

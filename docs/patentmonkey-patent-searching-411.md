@@ -1,4 +1,4 @@
-# PatentMonkey:专利搜索 411–TechCrunch
+# PatentMonkey:专利搜索 411
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/15/patentmonkey-patent-searching-411/>
 

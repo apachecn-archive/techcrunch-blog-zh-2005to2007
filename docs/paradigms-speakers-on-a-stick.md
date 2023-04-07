@@ -1,4 +1,4 @@
-# Paradigm 的棒上扬声器——TechCrunch
+# Paradigm 的棒上扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/paradigms-speakers-on-a-stick/>
 

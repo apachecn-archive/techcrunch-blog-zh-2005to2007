@@ -1,4 +1,4 @@
-# 三星 SPH-M8100 智能手机有 WinMo6，WiMAX 和 DMB 电视| TechCrunch
+# 三星 SPH-M8100 智能手机有 WinMo6，WiMAX 和 DMB 电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/samsung-sph-m8100-smartphone-has-winmo6-wimax-and-dmb-tv/>
 

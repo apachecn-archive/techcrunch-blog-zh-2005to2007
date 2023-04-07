@@ -1,4 +1,4 @@
-# 惠普计划推出新的个人电脑品牌？–TechCrunch
+# 惠普计划推出新的个人电脑品牌？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/05/hp-planning-to-launch-new-pc-brand/>
 

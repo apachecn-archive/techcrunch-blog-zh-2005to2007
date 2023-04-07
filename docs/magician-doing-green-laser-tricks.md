@@ -1,4 +1,4 @@
-# 魔术师表演绿色激光魔术| TechCrunch
+# 魔术师表演绿色激光魔术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/magician-doing-green-laser-tricks/>
 

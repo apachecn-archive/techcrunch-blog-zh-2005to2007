@@ -1,4 +1,4 @@
-# Wesabe 钱的线索 2.0？TechCrunch
+# Wesabe 钱的线索 2.0？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/wesabe-clues-for-money-20/>
 

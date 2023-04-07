@@ -1,4 +1,4 @@
-# Zune 传播爱，为“共享”歌曲提供积分 TechCrunch
+# Zune 传播爱，为“共享”歌曲提供积分 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/24/zune-spreads-the-love-offers-credits-for-shared-songs/>
 

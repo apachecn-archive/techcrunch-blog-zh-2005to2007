@@ -1,4 +1,4 @@
-# Zookoda 2.0 发布 TechCrunch
+# Zookoda 2.0 发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/07/zookoda-20-launches/>
 

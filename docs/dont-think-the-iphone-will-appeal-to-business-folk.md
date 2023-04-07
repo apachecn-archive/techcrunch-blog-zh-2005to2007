@@ -1,4 +1,4 @@
-# 不认为 iPhone 会吸引商务人士？TechCrunch
+# 不认为 iPhone 会吸引商务人士？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/23/dont-think-the-iphone-will-appeal-to-business-folk/>
 

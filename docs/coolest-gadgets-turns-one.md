@@ -1,4 +1,4 @@
-# 最酷的小工具转向一——TechCrunch
+# 最酷的小工具转向一
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/18/coolest-gadgets-turns-one/>
 

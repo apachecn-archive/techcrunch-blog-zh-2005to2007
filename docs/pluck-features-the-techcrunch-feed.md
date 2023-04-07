@@ -1,4 +1,4 @@
-# Pluck 的特色是 TechCrunch Feed——TechCrunch
+# Pluck 的特色是 TechCrunch Feed
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/22/pluck-features-the-techcrunch-feed/>
 

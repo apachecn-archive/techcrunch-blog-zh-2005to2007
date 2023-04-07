@@ -1,4 +1,4 @@
-# 斯旺的数码私人眼睛在看着你。罪人。–TechCrunch
+# 斯旺的数码私人眼睛在看着你。罪人。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/swanns-digital-private-eye-is-watching-you-sinner/>
 

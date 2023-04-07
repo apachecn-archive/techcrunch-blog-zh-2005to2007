@@ -1,4 +1,4 @@
-# DailyStrength:在线支持小组和综合治疗信息 TechCrunch
+# DailyStrength:在线支持小组和综合治疗信息 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/07/daily-strength-online-support-groups-and-aggregate-treatment-info/>
 

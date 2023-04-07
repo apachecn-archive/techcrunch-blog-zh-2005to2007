@@ -1,4 +1,4 @@
-# Python XM Bianco 电脑包好看，可以玩粗暴| TechCrunch
+# Python XM Bianco 电脑包好看，可以玩粗暴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/26/python-xm-bianco-laptop-bag-looks-good-can-play-rough/>
 

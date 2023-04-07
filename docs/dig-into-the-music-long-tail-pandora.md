@@ -1,4 +1,4 @@
-# 深入了解音乐长尾理论-Pandora TechCrunch
+# 深入了解音乐长尾理论-Pandora 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/20/dig-into-the-music-long-tail-pandora/>
 

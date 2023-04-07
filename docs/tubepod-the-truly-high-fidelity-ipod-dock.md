@@ -1,4 +1,4 @@
-# TubePod–真正高保真的 iPod 基座| TechCrunch
+# TubePod–真正高保真的 iPod 基座
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/tubepod-the-truly-high-fidelity-ipod-dock/>
 

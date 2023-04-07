@@ -1,4 +1,4 @@
-# 阵亡将士纪念日问候–TechCrunch
+# 阵亡将士纪念日问候
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/25/memorial-day-greetings/>
 

@@ -1,4 +1,4 @@
-# 个人资料–blink sale–TechCrunch
+# 个人资料–blink sale
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/06/profile-blinksale/>
 

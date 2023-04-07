@@ -1,4 +1,4 @@
-# Boo.com 将重新启动——TechCrunch
+# Boo.com 将重新启动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/24/boocom-to-relaunch/>
 

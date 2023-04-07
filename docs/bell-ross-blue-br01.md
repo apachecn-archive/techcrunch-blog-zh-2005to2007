@@ -1,4 +1,4 @@
-# 贝尔&罗斯蓝色 BR01–TechCrunch
+# 贝尔&罗斯蓝色 BR01
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/bell-ross-blue-br01/>
 

@@ -1,4 +1,4 @@
-# 欢迎 Flockers！TechCrunch
+# 欢迎 Flockers！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/welcome-flockers/>
 

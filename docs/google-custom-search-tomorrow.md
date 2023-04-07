@@ -1,4 +1,4 @@
-# 谷歌合作推出 TechCrunch
+# 谷歌合作推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/23/google-custom-search-tomorrow/>
 

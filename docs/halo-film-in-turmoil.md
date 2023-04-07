@@ -1,4 +1,4 @@
-# 混乱中的《光环》电影——TechCrunch
+# 混乱中的《光环》电影
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/halo-film-in-turmoil/>
 

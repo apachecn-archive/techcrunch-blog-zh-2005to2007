@@ -1,4 +1,4 @@
-# 松下宣布为 Skype | TechCrunch 推出 WiFi 手机
+# 松下宣布为 Skype  推出 WiFi 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/panasonic-announces-wifi-phone-for-skype/>
 

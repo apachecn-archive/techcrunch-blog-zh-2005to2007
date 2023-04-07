@@ -1,4 +1,4 @@
-# Ooma | TechCrunch 的免费消费者电话服务
+# Ooma  的免费消费者电话服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/free-consumer-phone-service-from-ooma/>
 

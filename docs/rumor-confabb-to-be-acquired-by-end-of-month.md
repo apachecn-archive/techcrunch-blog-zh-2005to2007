@@ -1,4 +1,4 @@
-# 谣言:Confabb 将于月底被收购 TechCrunch
+# 谣言:Confabb 将于月底被收购 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/rumor-confabb-to-be-acquired-by-end-of-month/>
 

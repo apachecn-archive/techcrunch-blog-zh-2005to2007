@@ -1,4 +1,4 @@
-# 班克斯的巴黎果酱| TechCrunch
+# 班克斯的巴黎果酱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/banksys-paris-jam/>
 

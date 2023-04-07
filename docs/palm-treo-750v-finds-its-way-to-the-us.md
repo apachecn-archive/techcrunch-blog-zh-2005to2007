@@ -1,4 +1,4 @@
-# Palm Treo 750v 登陆美国| TechCrunch
+# Palm Treo 750v 登陆美国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/palm-treo-750v-finds-its-way-to-the-us/>
 

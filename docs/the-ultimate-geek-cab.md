@@ -1,4 +1,4 @@
-# 终极极客出租车——TechCrunch
+# 终极极客出租车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/16/the-ultimate-geek-cab/>
 

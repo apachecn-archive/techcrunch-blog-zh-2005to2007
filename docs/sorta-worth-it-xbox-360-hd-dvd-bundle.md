@@ -1,4 +1,4 @@
-# 有点值得，Xbox 360 HD DVD 捆绑包| TechCrunch
+# 有点值得，Xbox 360 HD DVD 捆绑包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/12/sorta-worth-it-xbox-360-hd-dvd-bundle/>
 

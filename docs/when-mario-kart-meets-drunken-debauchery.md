@@ -1,4 +1,4 @@
-# 当马里奥赛车遇到醉酒放荡| TechCrunch
+# 当马里奥赛车遇到醉酒放荡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/when-mario-kart-meets-drunken-debauchery/>
 

@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:神话般的电子产品| TechCrunch
+# CrunchGear 周回顾:神话般的电子产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/07/crunchgear-week-in-review-fabulous-electronics/>
 

@@ -1,4 +1,4 @@
-# 海绵细胞，Ajax 日历 TechCrunch
+# 海绵细胞，Ajax 日历 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/30/spongecell-an-ajax-calendar/>
 

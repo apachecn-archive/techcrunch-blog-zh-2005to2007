@@ -1,4 +1,4 @@
-# 专利揭示下一代 iPod 和 iPhone Nano——TechCrunch
+# 专利揭示下一代 iPod 和 iPhone Nano
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/10/patent-reveals-next-gen-ipod-and-iphone-nano/>
 

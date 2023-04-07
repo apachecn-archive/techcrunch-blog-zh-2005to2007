@@ -1,4 +1,4 @@
-# 谷歌推出 Ajax 电子表格 iRows——TechCrunch
+# 谷歌推出 Ajax 电子表格 iRows
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/13/google-takes-out-ajax-spreadsheet-irows/>
 

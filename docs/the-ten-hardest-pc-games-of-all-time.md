@@ -1,4 +1,4 @@
-# 史上最难的十款电脑游戏——TechCrunch
+# 史上最难的十款电脑游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/the-ten-hardest-pc-games-of-all-time/>
 

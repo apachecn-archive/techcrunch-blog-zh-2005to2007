@@ -1,4 +1,4 @@
-# 莎士比亚侮辱口香糖:泡泡糖和旧时代侮辱| TechCrunch
+# 莎士比亚侮辱口香糖:泡泡糖和旧时代侮辱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/shakespearean-insult-gum-bubblegum-and-old-timey-insults/>
 

@@ -1,4 +1,4 @@
-# M-Audio IE-10 入耳式耳机实践–TechCrunch
+# M-Audio IE-10 入耳式耳机实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/22/m-audio-ie-10-in-ear-headphones-hands-on/>
 

@@ -1,4 +1,4 @@
-# HD DVD 变得合法——TechCrunch
+# HD DVD 变得合法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/17/hd-dvd-becomes-legitimate/>
 

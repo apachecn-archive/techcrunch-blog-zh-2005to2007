@@ -1,4 +1,4 @@
-# 收购 Clipmarks–TechCrunch
+# 收购 Clipmarks
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/07/acquisition-for-clipmarks/>
 

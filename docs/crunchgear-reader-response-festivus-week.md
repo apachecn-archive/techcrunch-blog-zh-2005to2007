@@ -1,4 +1,4 @@
-# 读者反应:Festivus Week | TechCrunch
+# 读者反应:Festivus Week 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/16/crunchgear-reader-response-festivus-week/>
 

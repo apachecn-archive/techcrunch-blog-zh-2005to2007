@@ -1,4 +1,4 @@
-# 和你的朋友一起挣钱| TechCrunch
+# 和你的朋友一起挣钱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/earn-bucks-with-your-buddies/>
 

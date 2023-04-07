@@ -1,4 +1,4 @@
-# Hitwise:《纽约时报》仍然领先于 Digg——TechCrunch
+# Hitwise:《纽约时报》仍然领先于 Digg
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/06/hitwise-nytimes-still-way-ahead-of-digg/>
 

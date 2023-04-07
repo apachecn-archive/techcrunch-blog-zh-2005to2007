@@ -1,4 +1,4 @@
-# 500 美元的马登戒指——TechCrunch
+# 500 美元的马登戒指
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/17/the-500-madden-ring/>
 

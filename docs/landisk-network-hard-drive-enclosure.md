@@ -1,4 +1,4 @@
-# LanDisk 网络硬盘盘柜–TechCrunch
+# LanDisk 网络硬盘盘柜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/21/landisk-network-hard-drive-enclosure/>
 

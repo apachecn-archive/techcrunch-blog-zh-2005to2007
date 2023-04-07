@@ -1,4 +1,4 @@
-# 欧盟谷歌竞争对手获得 1.65 亿美元启动 TechCrunch
+# 欧盟谷歌竞争对手获得 1.65 亿美元启动 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/20/eu-google-competitor-gets-165million-cash-injection/>
 

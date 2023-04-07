@@ -1,4 +1,4 @@
-# 耳朵表情| TechCrunch
+# 耳朵表情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/06/emoticons-for-your-ears/>
 

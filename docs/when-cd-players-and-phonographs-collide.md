@@ -1,4 +1,4 @@
-# 当 CD 播放器和留声机相撞——TechCrunch
+# 当 CD 播放器和留声机相撞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/when-cd-players-and-phonographs-collide/>
 

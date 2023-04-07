@@ -1,4 +1,4 @@
-# 中国移动内容到 2012 年将突破 210 亿美元！TechCrunch
+# 中国移动内容到 2012 年将突破 210 亿美元！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/china-mobile-content-to-top-21-billion-by-2012/>
 

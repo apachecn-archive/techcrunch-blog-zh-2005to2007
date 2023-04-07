@@ -1,4 +1,4 @@
-# 简介:bad fruit-TechCrunch
+# 简介:bad fruit-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/21/profile-badfruit/>
 

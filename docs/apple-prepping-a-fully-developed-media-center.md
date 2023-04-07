@@ -1,4 +1,4 @@
-# 苹果正在筹备一个完全开发的媒体中心？TechCrunch
+# 苹果正在筹备一个完全开发的媒体中心？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/12/apple-prepping-a-fully-developed-media-center/>
 

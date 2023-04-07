@@ -1,4 +1,4 @@
-# 三星发布 i85 信用卡大小的数码相机——TechCrunch
+# 三星发布 i85 信用卡大小的数码相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/samsung-releases-i85-credit-card-sized-digital-camera/>
 

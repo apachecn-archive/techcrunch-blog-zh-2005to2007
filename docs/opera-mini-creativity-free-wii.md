@@ -1,4 +1,4 @@
-# Opera Mini +创意=免费 Wii–TechCrunch
+# Opera Mini +创意=免费 Wii
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/opera-mini-creativity-free-wii/>
 

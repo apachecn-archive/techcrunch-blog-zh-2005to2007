@@ -1,4 +1,4 @@
-# 苹果零售店正在开通宵派对——TechCrunch
+# 苹果零售店正在开通宵派对
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/apple-retail-stores-are-having-a-sleepover/>
 

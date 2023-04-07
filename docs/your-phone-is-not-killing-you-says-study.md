@@ -1,4 +1,4 @@
-# 研究| TechCrunch 称，你的手机不会杀死你
+# 研究 称，你的手机不会杀死你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/your-phone-is-not-killing-you-says-study/>
 

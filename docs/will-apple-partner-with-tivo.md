@@ -1,4 +1,4 @@
-# 苹果会和 TiVo 合作吗？TechCrunch
+# 苹果会和 TiVo 合作吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/06/will-apple-partner-with-tivo/>
 

@@ -1,4 +1,4 @@
-# 同相船舶全息存储–TechCrunch
+# 同相船舶全息存储
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/inphase-ships-holographic-storage/>
 

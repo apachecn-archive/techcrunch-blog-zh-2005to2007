@@ -1,4 +1,4 @@
-# NVIDIA GoForce 5500:你知道的越多| TechCrunch
+# NVIDIA GoForce 5500:你知道的越多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/nvidia-goforce-5500-the-more-you-know/>
 

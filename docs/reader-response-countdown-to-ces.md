@@ -1,4 +1,4 @@
-# 读者反应:CES 倒计时| TechCrunch
+# 读者反应:CES 倒计时
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/01/reader-response-countdown-to-ces/>
 

@@ -1,4 +1,4 @@
-# 突发新闻:Zune 事件新闻，Zune 手机，基于 Flash 的 Zune(不存在)| TechCrunch
+# 突发新闻:Zune 事件新闻，Zune 手机，基于 Flash 的 Zune(不存在)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/breaking-zune-event-news-zune-phone-flash-based-zune-dont-exist/>
 

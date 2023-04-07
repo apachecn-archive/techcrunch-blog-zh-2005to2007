@@ -1,4 +1,4 @@
-# iPhone 版的 Zork:你被一只 Grue 吃掉了——TechCrunch
+# iPhone 版的 Zork:你被一只 Grue 吃掉了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/zork-for-the-iphone-you-were-eaten-by-a-grue/>
 

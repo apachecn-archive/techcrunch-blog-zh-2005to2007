@@ -1,4 +1,4 @@
-# 罗技 VX 纳米鼠标 TechCrunch
+# 罗技 VX 纳米鼠标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/logitech-vx-nano-mouse/>
 

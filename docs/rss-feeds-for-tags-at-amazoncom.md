@@ -1,4 +1,4 @@
-# Amazon.com 的标签 RSS 源——TechCrunch
+# Amazon.com 的标签 RSS 源
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/08/rss-feeds-for-tags-at-amazoncom/>
 

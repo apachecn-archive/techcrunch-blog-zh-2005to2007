@@ -1,4 +1,4 @@
-# 诺基亚正式推出棱镜系列——TechCrunch
+# 诺基亚正式推出棱镜系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/nokia-officially-unveils-the-prism-collection/>
 

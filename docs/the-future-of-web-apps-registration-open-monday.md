@@ -6,7 +6,7 @@
 
 今年确认的演讲者(目前为止)包括:
 
-*   Mike ar rington–TechCrunch
+*   Mike ar rington
 *   丹尼·里默——指数投资公司
 *   拉斯马斯·勒德尔夫 PHP 的创始人
 *   沃纳·威格尔——亚马逊首席技术官

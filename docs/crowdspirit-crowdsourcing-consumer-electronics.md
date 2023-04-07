@@ -1,4 +1,4 @@
-# 众包消费电子| TechCrunch
+# 众包消费电子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/crowdspirit-crowdsourcing-consumer-electronics/>
 

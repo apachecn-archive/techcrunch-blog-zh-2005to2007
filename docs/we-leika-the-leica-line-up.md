@@ -1,4 +1,4 @@
-# 我们雷卡徕卡阵容——TechCrunch
+# 我们雷卡徕卡阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/we-leika-the-leica-line-up/>
 

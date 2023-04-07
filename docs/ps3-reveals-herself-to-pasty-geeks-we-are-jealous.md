@@ -1,4 +1,4 @@
-# PS3 向苍白的极客展示自己，我们嫉妒了——TechCrunch
+# PS3 向苍白的极客展示自己，我们嫉妒了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/ps3-reveals-herself-to-pasty-geeks-we-are-jealous/>
 

@@ -1,4 +1,4 @@
-# 宾得 X-Change 概念相机–TechCrunch
+# 宾得 X-Change 概念相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/pentax-x-change-concept-camera/>
 

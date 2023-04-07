@@ -1,4 +1,4 @@
-# 更新:英国火狐 2 发布&生日派对！！TechCrunch
+# 更新:英国火狐 2 发布&生日派对！！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/update-uk-firefox-2-launch-birthday-party/>
 

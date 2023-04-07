@@ -1,4 +1,4 @@
-# YouTube 在你的手机上会是什么样子？–TechCrunch
+# YouTube 在你的手机上会是什么样子？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/28/what-will-youtube-be-like-on-your-mobile-phone/>
 

@@ -1,4 +1,4 @@
-# 佳能的野兽 DSLR——EOS——1D Mark III——TechCrunch
+# 佳能的野兽 DSLR——EOS——1D Mark III
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/canons-beastly-dslr-the-eos-1d-mark-iii/>
 

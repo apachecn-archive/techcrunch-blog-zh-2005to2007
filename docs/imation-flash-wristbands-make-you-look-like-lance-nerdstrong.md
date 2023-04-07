@@ -1,4 +1,4 @@
-# 动画闪光腕带让你看起来像 Lance Nerdstrong | TechCrunch
+# 动画闪光腕带让你看起来像 Lance Nerdstrong 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/imation-flash-wristbands-make-you-look-like-lance-nerdstrong/>
 

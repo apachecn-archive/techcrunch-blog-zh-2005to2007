@@ -1,4 +1,4 @@
-# Sprint 下个月增加摩托罗拉 RAZR 2——TechCrunch
+# Sprint 下个月增加摩托罗拉 RAZR 2
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/sprint-dropping-motorola-razr-2-next-month/>
 

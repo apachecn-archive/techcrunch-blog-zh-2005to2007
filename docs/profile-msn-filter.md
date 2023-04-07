@@ -1,4 +1,4 @@
-# 个人资料–MSN 过滤器–TechCrunch
+# 个人资料–MSN 过滤器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/09/profile-msn-filter/>
 

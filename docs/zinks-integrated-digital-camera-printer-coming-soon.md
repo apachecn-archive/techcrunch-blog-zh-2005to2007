@@ -1,4 +1,4 @@
-# Zink 的集成数码相机，打印机即将推出？–TechCrunch
+# Zink 的集成数码相机，打印机即将推出？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/13/zinks-integrated-digital-camera-printer-coming-soon/>
 

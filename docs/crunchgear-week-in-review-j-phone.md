@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:J-Phone–TechCrunch
+# CrunchGear 周回顾:J-Phone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/15/crunchgear-week-in-review-j-phone/>
 

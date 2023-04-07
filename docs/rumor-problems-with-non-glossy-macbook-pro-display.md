@@ -1,4 +1,4 @@
-# 谣言:非光滑 MacBook Pro 显示屏的问题——TechCrunch
+# 谣言:非光滑 MacBook Pro 显示屏的问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/rumor-problems-with-non-glossy-macbook-pro-display/>
 

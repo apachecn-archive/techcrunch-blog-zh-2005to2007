@@ -1,4 +1,4 @@
-# 美国:日益扩大的数字鸿沟 TechCrunch
+# 美国:日益扩大的数字鸿沟 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/06/america-the-growing-digital-divide/>
 

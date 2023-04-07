@@ -1,4 +1,4 @@
-# 比妮可·里奇更小更简单的新魔方| TechCrunch
+# 比妮可·里奇更小更简单的新魔方
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/new-rubiks-cube-tinier-and-easier-than-nicole-ritchie/>
 

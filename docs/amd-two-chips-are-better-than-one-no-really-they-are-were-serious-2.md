@@ -1,4 +1,4 @@
-# AMD:两个芯片比一个好。不真的。他们是。我们是认真的。TechCrunch
+# AMD:两个芯片比一个好。不真的。他们是。我们是认真的。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/30/amd-two-chips-are-better-than-one-no-really-they-are-were-serious-2/>
 

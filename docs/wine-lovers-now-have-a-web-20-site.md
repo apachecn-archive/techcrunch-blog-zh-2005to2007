@@ -1,4 +1,4 @@
-# 葡萄酒爱好者现在有了一个 Web 2.0 网站——TechCrunch
+# 葡萄酒爱好者现在有了一个 Web 2.0 网站
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/24/wine-lovers-now-have-a-web-20-site/>
 

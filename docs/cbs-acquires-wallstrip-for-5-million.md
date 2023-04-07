@@ -1,4 +1,4 @@
-# CBS 以 500 万美元收购 WallStrip TechCrunch
+# CBS 以 500 万美元收购 WallStrip 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/13/cbs-acquires-wallstrip-for-5-million/>
 

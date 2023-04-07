@@ -1,4 +1,4 @@
-# XtremeMac 的新 iPhone 保护套实际上是保护套——TechCrunch
+# XtremeMac 的新 iPhone 保护套实际上是保护套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/xtrememacs-new-iphone-cases-are-in-fact-cases/>
 

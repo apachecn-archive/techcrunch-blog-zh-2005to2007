@@ -1,4 +1,4 @@
-# 苹果平板电脑正在研发中？可能在 2007 年发布| TechCrunch
+# 苹果平板电脑正在研发中？可能在 2007 年发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/mac-tablet-in-the-works-possible-2007-release/>
 

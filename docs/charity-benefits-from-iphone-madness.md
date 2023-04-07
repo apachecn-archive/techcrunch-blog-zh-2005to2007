@@ -1,4 +1,4 @@
-# 慈善机构受益于 iPhone 的疯狂——TechCrunch
+# 慈善机构受益于 iPhone 的疯狂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/26/charity-benefits-from-iphone-madness/>
 

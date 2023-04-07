@@ -1,4 +1,4 @@
-# Google 本地添加优惠券 TechCrunch
+# Google 本地添加优惠券 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/15/google-local-adding-coupons/>
 

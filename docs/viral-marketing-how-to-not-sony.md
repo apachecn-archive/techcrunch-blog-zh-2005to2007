@@ -1,4 +1,4 @@
-# 病毒式营销指南:索尼| TechCrunch
+# 病毒式营销指南:索尼
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/viral-marketing-how-to-not-sony/>
 

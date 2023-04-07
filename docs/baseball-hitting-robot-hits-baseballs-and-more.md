@@ -1,4 +1,4 @@
-# 棒球打击机器人打击棒球和更多——TechCrunch
+# 棒球打击机器人打击棒球和更多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/baseball-hitting-robot-hits-baseballs-and-more/>
 

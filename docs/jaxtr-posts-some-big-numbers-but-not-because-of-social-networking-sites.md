@@ -1,4 +1,4 @@
-# Jaxtr 公布了一些大数据，但不是因为社交网站——TechCrunch
+# Jaxtr 公布了一些大数据，但不是因为社交网站
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/23/jaxtr-posts-some-big-numbers-but-not-because-of-social-networking-sites/>
 

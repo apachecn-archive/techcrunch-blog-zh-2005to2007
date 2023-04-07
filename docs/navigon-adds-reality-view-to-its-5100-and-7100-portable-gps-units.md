@@ -1,4 +1,4 @@
-# Navigon 为其 5100 和 7100 便携式 GPS 设备添加了现实视图| TechCrunch
+# Navigon 为其 5100 和 7100 便携式 GPS 设备添加了现实视图
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/navigon-adds-reality-view-to-its-5100-and-7100-portable-gps-units/>
 

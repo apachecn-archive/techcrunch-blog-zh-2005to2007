@@ -1,4 +1,4 @@
-# Gorb:将个人声誉带入新低 TechCrunch
+# Gorb:将个人声誉带入新低 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/12/gorb-taking-personal-reputation-to-a-new-low/>
 

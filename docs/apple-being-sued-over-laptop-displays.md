@@ -1,4 +1,4 @@
-# 苹果因笔记本电脑显示屏被起诉——TechCrunch
+# 苹果因笔记本电脑显示屏被起诉
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/18/apple-being-sued-over-laptop-displays/>
 

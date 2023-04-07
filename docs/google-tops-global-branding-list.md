@@ -1,4 +1,4 @@
-# 谷歌高居全球品牌榜榜首——TechCrunch
+# 谷歌高居全球品牌榜榜首
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/google-tops-global-branding-list/>
 

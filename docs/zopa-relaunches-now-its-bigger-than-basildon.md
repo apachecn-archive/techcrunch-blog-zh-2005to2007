@@ -1,4 +1,4 @@
-# Zopa(重新)推出现在它比 Basildon 更大？–TechCrunch
+# Zopa(重新)推出现在它比 Basildon 更大？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/zopa-relaunches-now-its-bigger-than-basildon/>
 

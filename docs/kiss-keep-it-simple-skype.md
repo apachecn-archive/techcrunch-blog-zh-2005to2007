@@ -1,4 +1,4 @@
-# 吻:保持简单，Skype | TechCrunch
+# 吻:保持简单，Skype 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/kiss-keep-it-simple-skype/>
 

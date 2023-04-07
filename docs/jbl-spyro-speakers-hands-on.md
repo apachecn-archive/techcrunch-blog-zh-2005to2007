@@ -1,4 +1,4 @@
-# JBL·斯派罗演讲者动手| TechCrunch
+# JBL·斯派罗演讲者动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/27/jbl-spyro-speakers-hands-on/>
 

@@ -1,4 +1,4 @@
-# 关注政府:华盛顿观察 TechCrunch
+# 关注政府:华盛顿观察 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/06/keep-an-eye-on-government-washingtonwatch/>
 

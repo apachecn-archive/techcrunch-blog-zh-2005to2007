@@ -1,4 +1,4 @@
-# 混搭:人口统计+谷歌地图 TechCrunch
+# 混搭:人口统计+谷歌地图 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/19/mash-up-demographics-google-maps/>
 

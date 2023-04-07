@@ -1,4 +1,4 @@
-# Dail Crunch:夜班版 TechCrunch
+# Dail Crunch:夜班版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/31/dail-crunch-graveyard-shift-edition/>
 

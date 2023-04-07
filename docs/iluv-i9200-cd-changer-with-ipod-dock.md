@@ -1,4 +1,4 @@
-# iLuv i9200 CD 换碟机，带 iPod Dock | TechCrunch
+# iLuv i9200 CD 换碟机，带 iPod Dock 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/iluv-i9200-cd-changer-with-ipod-dock/>
 

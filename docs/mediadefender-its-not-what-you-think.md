@@ -1,4 +1,4 @@
-# MediaDefender:“不是你想的那样”| TechCrunch
+# MediaDefender:“不是你想的那样”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/mediadefender-its-not-what-you-think/>
 

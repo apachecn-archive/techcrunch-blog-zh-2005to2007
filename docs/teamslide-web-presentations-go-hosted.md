@@ -1,4 +1,4 @@
-# Teamslide web 演示开始托管| TechCrunch
+# Teamslide web 演示开始托管
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/21/teamslide-web-presentations-go-hosted/>
 

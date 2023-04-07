@@ -1,4 +1,4 @@
-# MyBlogLog:读者围绕他们最喜欢的博客进行交流 TechCrunch
+# MyBlogLog:读者围绕他们最喜欢的博客进行交流 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/19/mybloglog-readers-network-around-their-favorite-blogs/>
 

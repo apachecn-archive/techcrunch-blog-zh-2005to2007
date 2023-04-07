@@ -1,4 +1,4 @@
-# 查尔斯河风险投资公司进军天使市场——TechCrunch
+# 查尔斯河风险投资公司进军天使市场
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/01/charles-river-ventures-goes-for-angel-market/>
 

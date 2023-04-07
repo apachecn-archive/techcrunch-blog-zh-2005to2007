@@ -1,4 +1,4 @@
-# 更多吉他英雄安可曲目亮相 TechCrunch
+# 更多吉他英雄安可曲目亮相 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/more-guitar-hero-encore-tracks-unveiled/>
 

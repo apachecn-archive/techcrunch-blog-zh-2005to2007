@@ -1,4 +1,4 @@
-# MediaTech 饮料邀请| TechCrunch
+# MediaTech 饮料邀请
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/mediatech-drinks-invitation/>
 

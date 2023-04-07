@@ -1,4 +1,4 @@
-# 美国电话电报公司移动备份支持您| TechCrunch
+# 美国电话电报公司移动备份支持您
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/att-mobile-backup-has-your-backup/>
 

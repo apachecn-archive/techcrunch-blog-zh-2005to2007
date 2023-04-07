@@ -1,4 +1,4 @@
-# Vigor Gaming 的 AMD 四核 FX4 处理器| TechCrunch
+# Vigor Gaming 的 AMD 四核 FX4 处理器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/vigor-gamings-amd-quad-fx4-powerhouse/>
 

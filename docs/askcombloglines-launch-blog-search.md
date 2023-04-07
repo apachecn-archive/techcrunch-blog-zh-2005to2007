@@ -1,4 +1,4 @@
-# 终于！Bloglines 博客搜索–TechCrunch
+# 终于！Bloglines 博客搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/31/askcombloglines-launch-blog-search/>
 

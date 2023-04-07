@@ -1,4 +1,4 @@
-# 享受生活…在线| TechCrunch
+# 享受生活…在线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/02/cruncharcade-get-a-life%E2%80%A6-online/>
 

@@ -1,4 +1,4 @@
-# CES 2007:亲爱的日记…iRiver 的 CLIX2，Shuttle 的 X200，Antec 的箱子和迷你汉堡——TechCrunch
+# CES 2007:亲爱的日记…iRiver 的 CLIX2，Shuttle 的 X200，Antec 的箱子和迷你汉堡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/ces-2007-dear-diaryirivers-clix2-shuttles-x200-antecs-cases-and-mini-hamburgers/>
 

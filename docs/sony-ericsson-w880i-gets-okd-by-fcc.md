@@ -1,4 +1,4 @@
-# 索尼-爱立信 W880i 获得 FCC 批准——TechCrunch
+# 索尼-爱立信 W880i 获得 FCC 批准
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/sony-ericsson-w880i-gets-okd-by-fcc/>
 

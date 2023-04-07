@@ -1,4 +1,4 @@
-# 戴尔重返首席执行官之位，承诺:第二次| TechCrunch
+# 戴尔重返首席执行官之位，承诺:第二次
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/01/dell-returns-as-ceo-promises-stuff/>
 

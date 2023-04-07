@@ -1,4 +1,4 @@
-# 乔尔·约翰逊发布《废黜者》——TechCrunch
+# 乔尔·约翰逊发布《废黜者》
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/joel-johnson-launches-dethroner/>
 

@@ -1,4 +1,4 @@
-# Mobango 即将登陆英国| TechCrunch
+# Mobango 即将登陆英国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/mobango-is-coming-to-the-uk/>
 

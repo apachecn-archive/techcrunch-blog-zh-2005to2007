@@ -1,4 +1,4 @@
-# IOGear 缓解高清媒体中心困境——TechCrunch
+# IOGear 缓解高清媒体中心困境
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/iogear-alleviates-hd-media-center-woes/>
 

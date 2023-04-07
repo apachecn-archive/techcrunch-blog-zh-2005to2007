@@ -1,4 +1,4 @@
-# 在 Apple TV 的硬盘上软绵绵地:你好，P2P！TechCrunch
+# 在 Apple TV 的硬盘上软绵绵地:你好，P2P！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/16/cringely-on-apple-tvs-hard-drive-hellp-p2p/>
 

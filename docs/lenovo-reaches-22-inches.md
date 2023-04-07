@@ -1,4 +1,4 @@
-# 联想达到 22 英寸| TechCrunch
+# 联想达到 22 英寸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/lenovo-reaches-22-inches/>
 

@@ -1,4 +1,4 @@
-# 免费 Skype Home–TechCrunch
+# 免费 Skype Home
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/20/skype-home-for-free/>
 

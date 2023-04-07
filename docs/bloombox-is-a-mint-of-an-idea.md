@@ -1,4 +1,4 @@
-# BloomBox 是一个很棒的创意。TechCrunch
+# BloomBox 是一个很棒的创意。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/27/bloombox-is-a-mint-of-an-idea/>
 

@@ -1,4 +1,4 @@
-# RoyalDigital BS4100 蓝牙 GPS 接收器–TechCrunch
+# RoyalDigital BS4100 蓝牙 GPS 接收器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/royaldigital-bs4100-bluetooth-gps-receiver/>
 

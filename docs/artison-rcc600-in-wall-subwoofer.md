@@ -1,4 +1,4 @@
-# Artison RCC600 壁挂式低音炮| TechCrunch
+# Artison RCC600 壁挂式低音炮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/18/artison-rcc600-in-wall-subwoofer/>
 

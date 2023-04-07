@@ -1,4 +1,4 @@
-# MERC 认为 108 个密钥不够| TechCrunch
+# MERC 认为 108 个密钥不够
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/merc-decides-108-keys-are-not-enough/>
 

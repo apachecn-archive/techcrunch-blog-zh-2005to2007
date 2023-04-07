@@ -1,4 +1,4 @@
-# Chronotech 蓝牙耳机/腕表组合。啊？TechCrunch
+# Chronotech 蓝牙耳机/腕表组合。啊？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/chronotech-bluetooth-headsetwristwatch-combo-huh/>
 

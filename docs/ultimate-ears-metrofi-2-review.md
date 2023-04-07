@@ -1,4 +1,4 @@
-# 终极耳朵 metro.fi 2 评测| TechCrunch
+# 终极耳朵 metro.fi 2 评测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/ultimate-ears-metrofi-2-review/>
 

@@ -1,4 +1,4 @@
-# 自由 V 无线吉他控制器评论——TechCrunch
+# 自由 V 无线吉他控制器评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/freedom-v-wireless-guitar-controller-review/>
 

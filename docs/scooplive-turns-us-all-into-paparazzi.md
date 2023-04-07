@@ -1,4 +1,4 @@
-# ScoopLive 把我们都变成狗仔队——TechCrunch
+# ScoopLive 把我们都变成狗仔队
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/25/scooplive-turns-us-all-into-paparazzi/>
 

@@ -1,4 +1,4 @@
-# THX 的 Loudness Plus、雅马哈的 RX-Z11 接收器让安静环境中的聆听变得更加轻松| TechCrunch
+# THX 的 Loudness Plus、雅马哈的 RX-Z11 接收器让安静环境中的聆听变得更加轻松
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/thxs-loudness-plus-yamahas-rx-z11-receiver-make-listening-in-quiet-environments-easier/>
 

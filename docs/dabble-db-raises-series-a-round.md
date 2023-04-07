@@ -1,4 +1,4 @@
-# Dabble DB 启动并宣布 A 轮融资——TechCrunch
+# Dabble DB 启动并宣布 A 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/26/dabble-db-raises-series-a-round/>
 

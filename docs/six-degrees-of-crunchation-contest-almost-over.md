@@ -1,4 +1,4 @@
-# 六度计算竞赛:快结束了——TechCrunch
+# 六度计算竞赛:快结束了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/six-degrees-of-crunchation-contest-almost-over/>
 

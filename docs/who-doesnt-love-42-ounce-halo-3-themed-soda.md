@@ -1,4 +1,4 @@
-# 谁不爱 42 盎司的光环 3 主题汽水？TechCrunch
+# 谁不爱 42 盎司的光环 3 主题汽水？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/who-doesnt-love-42-ounce-halo-3-themed-soda/>
 

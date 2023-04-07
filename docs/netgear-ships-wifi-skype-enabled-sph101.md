@@ -1,4 +1,4 @@
-# NETGEAR 推出支持 WiFi Skype 的 SPH 101–TechCrunch
+# NETGEAR 推出支持 WiFi Skype 的 SPH 101
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/netgear-ships-wifi-skype-enabled-sph101/>
 

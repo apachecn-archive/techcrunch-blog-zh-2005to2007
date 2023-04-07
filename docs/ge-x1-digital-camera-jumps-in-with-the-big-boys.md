@@ -1,4 +1,4 @@
-# GE X1 数码相机与大男孩们一起跳起来——TechCrunch
+# GE X1 数码相机与大男孩们一起跳起来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/ge-x1-digital-camera-jumps-in-with-the-big-boys/>
 

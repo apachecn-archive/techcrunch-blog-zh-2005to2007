@@ -1,4 +1,4 @@
-# ESPN 再次尝试| TechCrunch
+# ESPN 再次尝试
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/espn-gives-it-another-swing/>
 

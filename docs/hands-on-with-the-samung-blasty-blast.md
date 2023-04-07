@@ -1,4 +1,4 @@
-# 手动操作 Samung (Blasty)爆炸——TechCrunch
+# 手动操作 Samung (Blasty)爆炸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/08/hands-on-with-the-samung-blasty-blast/>
 

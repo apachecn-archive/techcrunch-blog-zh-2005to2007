@@ -1,4 +1,4 @@
-# 索尼筹备 PSP 电影商店，有人关心吗？TechCrunch
+# 索尼筹备 PSP 电影商店，有人关心吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/sony-preps-psp-movie-store-does-anyone-care/>
 

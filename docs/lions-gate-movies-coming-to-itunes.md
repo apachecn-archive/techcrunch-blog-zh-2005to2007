@@ -1,4 +1,4 @@
-# 狮门电影登陆 iTunes——TechCrunch
+# 狮门电影登陆 iTunes
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/18/lions-gate-movies-coming-to-itunes/>
 

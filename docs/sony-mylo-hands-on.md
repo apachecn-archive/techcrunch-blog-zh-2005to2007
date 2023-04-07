@@ -1,4 +1,4 @@
-# 索尼 Mylo 动手| TechCrunch
+# 索尼 Mylo 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/sony-mylo-hands-on/>
 

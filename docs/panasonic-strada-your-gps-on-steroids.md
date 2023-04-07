@@ -1,4 +1,4 @@
-# 松下·斯特拉达:你的全球定位系统在类固醇上——TechCrunch
+# 松下·斯特拉达:你的全球定位系统在类固醇上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/panasonic-strada-your-gps-on-steroids/>
 

@@ -1,4 +1,4 @@
-# 惠普击败董事会泄密者——TechCrunch
+# 惠普击败董事会泄密者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/hp-beats-down-boardroom-leaker/>
 

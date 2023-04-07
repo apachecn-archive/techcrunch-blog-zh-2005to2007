@@ -1,4 +1,4 @@
-# AllPeers 增加聊天功能:再次变得重要 TechCrunch
+# AllPeers 增加聊天功能:再次变得重要 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/22/allpeers-adds-chat-becomes-relevant-again/>
 

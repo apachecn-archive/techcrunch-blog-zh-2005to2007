@@ -1,4 +1,4 @@
-# 前后，PSP 版:Slim vs. Fatso | TechCrunch
+# 前后，PSP 版:Slim vs. Fatso 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/17/before-and-after-psp-edition-slim-vs-fatso/>
 

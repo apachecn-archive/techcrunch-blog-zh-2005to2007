@@ -1,4 +1,4 @@
-# Zillow Relaunch -增加了自己的问答服务。TechCrunch
+# Zillow Relaunch -增加了自己的问答服务。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/03/zillow-back-from-spring-break-with-new-features/>
 

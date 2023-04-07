@@ -1,4 +1,4 @@
-# Zune 你妈妈投票提醒——TechCrunch
+# Zune 你妈妈投票提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/zune-your-mom-vote-off-reminder/>
 

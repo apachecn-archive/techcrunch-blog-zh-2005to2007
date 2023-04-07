@@ -1,4 +1,4 @@
-# BGR 拆箱索尼爱立信 W880i-TechCrunch
+# BGR 拆箱索尼爱立信 W880i-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/bgr-unboxes-the-sony-ericsson-w880i/>
 

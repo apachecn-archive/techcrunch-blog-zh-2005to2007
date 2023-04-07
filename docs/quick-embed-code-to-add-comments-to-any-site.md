@@ -1,4 +1,4 @@
-# 快速嵌入代码，为任何网站添加评论 TechCrunch
+# 快速嵌入代码，为任何网站添加评论 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/29/quick-embed-code-to-add-comments-to-any-site/>
 

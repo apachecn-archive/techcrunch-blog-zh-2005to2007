@@ -1,4 +1,4 @@
-# Helio Ocean 快速浏览| TechCrunch
+# Helio Ocean 快速浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/helio-ocean-quick-look/>
 

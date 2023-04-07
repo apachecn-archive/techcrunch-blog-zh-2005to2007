@@ -1,4 +1,4 @@
-# 威瑞森收购 Ramcell | TechCrunch
+# 威瑞森收购 Ramcell 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/verizon-acquires-ramcell/>
 

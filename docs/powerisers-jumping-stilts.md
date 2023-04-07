@@ -1,4 +1,4 @@
-# Powerisers 跳高跷——TechCrunch
+# Powerisers 跳高跷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/powerisers-jumping-stilts/>
 

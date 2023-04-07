@@ -1,4 +1,4 @@
-# 户外运动:渔具——TechCrunch
+# 户外运动:渔具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/03/great-outdoors-fishing-gear/>
 

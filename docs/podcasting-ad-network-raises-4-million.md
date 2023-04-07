@@ -1,4 +1,4 @@
-# 播客广告网络融资 400 万美元——TechCrunch
+# 播客广告网络融资 400 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/23/podcasting-ad-network-raises-4-million/>
 

@@ -1,4 +1,4 @@
-# x 光名片| TechCrunch
+# x 光名片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/24/x-ray-business-cards/>
 

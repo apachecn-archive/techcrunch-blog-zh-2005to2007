@@ -1,4 +1,4 @@
-# I .梦想美国 i-Classic iPod Dock | TechCrunch
+# I .梦想美国 i-Classic iPod Dock 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/idream-america-i-classic-ipod-dock/>
 

@@ -1,4 +1,4 @@
-# 你手机的高射投影仪——TechCrunch
+# 你手机的高射投影仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/02/an-overhead-projector-for-your-cellphone/>
 

@@ -1,4 +1,4 @@
-# 谣言:雅虎收购 Jotspot TechCrunch
+# 谣言:雅虎收购 Jotspot 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/10/rumor-yahoo-closed-jotspot-acquisition/>
 

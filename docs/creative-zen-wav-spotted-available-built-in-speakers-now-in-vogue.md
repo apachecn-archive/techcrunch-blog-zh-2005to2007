@@ -1,4 +1,4 @@
-# 创意 Zen WAV 发现，可用:内置扬声器现在很流行——TechCrunch
+# 创意 Zen WAV 发现，可用:内置扬声器现在很流行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/creative-zen-wav-spotted-available-built-in-speakers-now-in-vogue/>
 

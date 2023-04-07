@@ -1,4 +1,4 @@
-# Powerset 发布增长电子表格模型–TechCrunch
+# Powerset 发布增长电子表格模型
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/14/powerset-releases-growth-spreadsheet-models/>
 

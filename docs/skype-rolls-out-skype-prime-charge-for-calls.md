@@ -1,4 +1,4 @@
-# Skype 推出 Skype Prime:通话收费 TechCrunch
+# Skype 推出 Skype Prime:通话收费 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/07/skype-rolls-out-skype-prime-charge-for-calls/>
 

@@ -1,4 +1,4 @@
-# 巴尔默嘲笑 iPhone，完全是谎言| TechCrunch
+# 巴尔默嘲笑 iPhone，完全是谎言
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/balmer-laughs-at-the-iphone-lies-completely/>
 

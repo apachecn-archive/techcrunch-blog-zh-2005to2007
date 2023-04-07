@@ -1,4 +1,4 @@
-# 雅虎收购 WebJay TechCrunch
+# 雅虎收购 WebJay 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/09/yahoo-acquires-webjay/>
 

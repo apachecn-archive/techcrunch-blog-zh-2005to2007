@@ -1,4 +1,4 @@
-# Down2Night 推出移动夜生活——TechCrunch
+# Down2Night 推出移动夜生活
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/16/down2night-launches-mobile-nightlife/>
 

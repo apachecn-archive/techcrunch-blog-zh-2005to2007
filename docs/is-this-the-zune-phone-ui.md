@@ -1,4 +1,4 @@
-# 这是 Zune 手机 UI 吗？TechCrunch
+# 这是 Zune 手机 UI 吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/is-this-the-zune-phone-ui/>
 

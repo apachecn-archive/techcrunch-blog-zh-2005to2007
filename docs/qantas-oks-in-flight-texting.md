@@ -1,4 +1,4 @@
-# 澳航 OKs 飞行短信| TechCrunch
+# 澳航 OKs 飞行短信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/qantas-oks-in-flight-texting/>
 

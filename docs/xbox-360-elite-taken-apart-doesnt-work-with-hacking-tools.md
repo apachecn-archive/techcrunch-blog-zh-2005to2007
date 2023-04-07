@@ -1,4 +1,4 @@
-# Xbox 360 Elite 被拆开，无法与黑客工具一起使用——TechCrunch
+# Xbox 360 Elite 被拆开，无法与黑客工具一起使用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/xbox-360-elite-taken-apart-doesnt-work-with-hacking-tools/>
 

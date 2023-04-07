@@ -1,4 +1,4 @@
-# 新的 CrunchBoard 工作–TechCrunch
+# 新的 CrunchBoard 工作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/19/new-crunchboard-jobs/>
 

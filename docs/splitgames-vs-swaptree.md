@@ -1,4 +1,4 @@
-# split games vs swap tree TechCrunch
+# split games vs swap tree 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/05/splitgames-vs-swaptree/>
 

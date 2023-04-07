@@ -1,4 +1,4 @@
-# 在 Gamestop | TechCrunch 玩 Wii 游戏需要信用卡
+# 在 Gamestop  玩 Wii 游戏需要信用卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/credit-cards-required-to-play-demo-wii-at-gamestop/>
 

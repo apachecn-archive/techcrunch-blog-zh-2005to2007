@@ -1,4 +1,4 @@
-# 联想给予 T60 Thinkpad 宽屏待遇| TechCrunch
+# 联想给予 T60 Thinkpad 宽屏待遇
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/lenovo-gives-t60-thinkpad-the-widescreen-treatment/>
 

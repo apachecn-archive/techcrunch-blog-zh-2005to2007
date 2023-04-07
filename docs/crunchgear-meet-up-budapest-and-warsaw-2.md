@@ -1,4 +1,4 @@
-# CrunchGear 会议:布达佩斯和华沙 TechCrunch
+# CrunchGear 会议:布达佩斯和华沙 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/crunchgear-meet-up-budapest-and-warsaw-2/>
 

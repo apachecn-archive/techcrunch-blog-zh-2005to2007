@@ -1,4 +1,4 @@
-# Sprint 嗅探 Vonage–TechCrunch
+# Sprint 嗅探 Vonage
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/17/sprint-sniffing-vonage/>
 

@@ -1,4 +1,4 @@
-# Moto RAZR2 亮相威瑞森无线:如此强大的 LCD | TechCrunch
+# Moto RAZR2 亮相威瑞森无线:如此强大的 LCD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/10/moto-razr2-debuts-on-verizon-wireless-such-a-powerful-lcd/>
 

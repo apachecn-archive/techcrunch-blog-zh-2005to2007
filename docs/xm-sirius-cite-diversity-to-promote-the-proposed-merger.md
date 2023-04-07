@@ -1,4 +1,4 @@
-# XM，Sirius 引用“多样性”来推动拟议的合并| TechCrunch
+# XM，Sirius 引用“多样性”来推动拟议的合并
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/xm-sirius-cite-diversity-to-promote-the-proposed-merger/>
 

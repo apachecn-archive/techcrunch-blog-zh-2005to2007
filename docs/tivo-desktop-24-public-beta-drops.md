@@ -1,4 +1,4 @@
-# TiVo Desktop 2.4 公开测试版——TechCrunch
+# TiVo Desktop 2.4 公开测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/tivo-desktop-24-public-beta-drops/>
 

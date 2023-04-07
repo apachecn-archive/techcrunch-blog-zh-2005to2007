@@ -1,4 +1,4 @@
-# 威瑞森 G'zOne 得到审查(裁决:烤！)| TechCrunch
+# 威瑞森 G'zOne 得到审查(裁决:烤！)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/verizon-gzone-gets-reviewed-verdict-toasty/>
 

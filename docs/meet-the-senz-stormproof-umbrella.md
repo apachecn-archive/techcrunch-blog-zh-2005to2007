@@ -1,4 +1,4 @@
-# 认识一下 Senz 防风暴伞——TechCrunch
+# 认识一下 Senz 防风暴伞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/meet-the-senz-stormproof-umbrella/>
 

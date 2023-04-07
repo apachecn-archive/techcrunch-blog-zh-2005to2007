@@ -1,4 +1,4 @@
-# Orange 英国公司与 PhoneSpots 合作——TechCrunch
+# Orange 英国公司与 PhoneSpots 合作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/orange-uk-partners-with-phonespots/>
 

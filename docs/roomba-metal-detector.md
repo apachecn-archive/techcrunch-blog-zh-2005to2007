@@ -1,4 +1,4 @@
-# Roomba 金属检测机| TechCrunch
+# Roomba 金属检测机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/roomba-metal-detector/>
 

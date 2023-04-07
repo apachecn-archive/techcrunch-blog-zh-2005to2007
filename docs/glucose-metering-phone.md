@@ -1,4 +1,4 @@
-# 葡萄糖测量手机| TechCrunch
+# 葡萄糖测量手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/glucose-metering-phone/>
 

@@ -1,4 +1,4 @@
-# 双截棍无鞘| TechCrunch
+# 双截棍无鞘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/nunchuk-disembowled/>
 

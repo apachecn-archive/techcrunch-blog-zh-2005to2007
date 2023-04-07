@@ -1,4 +1,4 @@
-# MyBlogLog 增加了 MySpace 支持 TechCrunch
+# MyBlogLog 增加了 MySpace 支持 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/10/mybloglog-adds-myspace-support>
 

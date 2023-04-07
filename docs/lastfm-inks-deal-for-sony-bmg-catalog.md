@@ -1,4 +1,4 @@
-# 索尼 BMG 目录的 Last.fm 墨水交易| TechCrunch
+# 索尼 BMG 目录的 Last.fm 墨水交易
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/lastfm-inks-deal-for-sony-bmg-catalog/>
 

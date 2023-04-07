@@ -1,4 +1,4 @@
-# ATI 推出中端镭龙 X1650 XT | TechCrunch
+# ATI 推出中端镭龙 X1650 XT 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/ati-launches-midrange-radeon-x1650-xt/>
 

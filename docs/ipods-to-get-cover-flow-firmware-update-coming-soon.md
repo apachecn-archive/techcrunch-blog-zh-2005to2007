@@ -1,4 +1,4 @@
-# iPods 将获得 Cover Flow，固件更新即将推出——TechCrunch
+# iPods 将获得 Cover Flow，固件更新即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/ipods-to-get-cover-flow-firmware-update-coming-soon/>
 

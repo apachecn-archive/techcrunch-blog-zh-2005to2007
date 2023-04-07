@@ -1,4 +1,4 @@
-# Zune *差一点*就能开发 Windows Media Player 11 了——TechCrunch
+# Zune *差一点*就能开发 Windows Media Player 11 了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/zune-this-close-to-working-on-windows-mdia-player/>
 

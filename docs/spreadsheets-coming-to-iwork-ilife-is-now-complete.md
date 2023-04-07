@@ -1,4 +1,4 @@
-# 电子表格来到 iWork，(I)生活现在完整了| TechCrunch
+# 电子表格来到 iWork，(I)生活现在完整了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/spreadsheets-coming-to-iwork-ilife-is-now-complete/>
 

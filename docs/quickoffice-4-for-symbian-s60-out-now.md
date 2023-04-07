@@ -1,4 +1,4 @@
-# 面向 Symbian S60 的 Quickoffice 4 现已上市| TechCrunch
+# 面向 Symbian S60 的 Quickoffice 4 现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/22/quickoffice-4-for-symbian-s60-out-now/>
 

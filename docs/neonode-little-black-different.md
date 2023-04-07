@@ -1,4 +1,4 @@
-# NeoNode:小、黑、不同| TechCrunch
+# NeoNode:小、黑、不同
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/neonode-little-black-different/>
 

@@ -1,4 +1,4 @@
-# 将任何手机变成 iPhone | TechCrunch
+# 将任何手机变成 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/turn-any-phone-into-an-iphone/>
 

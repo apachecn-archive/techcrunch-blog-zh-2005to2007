@@ -1,4 +1,4 @@
-# Newsvine 是完美的 TechCrunch
+# Newsvine 是完美的 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/03/newsvine-is-perfect/>
 

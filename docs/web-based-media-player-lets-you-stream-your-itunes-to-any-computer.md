@@ -1,4 +1,4 @@
-# 基于网络的媒体播放器可让您将 iTunes 流式传输到任何电脑 TechCrunch
+# 基于网络的媒体播放器可让您将 iTunes 流式传输到任何电脑 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/08/web-based-media-player-lets-you-stream-your-itunes-to-any-computer/>
 

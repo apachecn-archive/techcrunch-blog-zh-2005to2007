@@ -1,4 +1,4 @@
-# 导致蓝屏死机的最新诺顿防病毒更新——TechCrunch
+# 导致蓝屏死机的最新诺顿防病毒更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/20/latest-norton-antivirus-update-causing-the-blue-screen-of-death/>
 

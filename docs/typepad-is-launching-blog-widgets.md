@@ -1,4 +1,4 @@
-# Typepad 推出博客小工具——TechCrunch
+# Typepad 推出博客小工具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/03/30/typepad-is-launching-blog-widgets/>
 

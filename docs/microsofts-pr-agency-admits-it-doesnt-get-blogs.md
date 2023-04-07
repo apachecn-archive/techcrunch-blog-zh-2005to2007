@@ -1,4 +1,4 @@
-# 微软的公关机构承认它没有“得到”博客！–TechCrunch
+# 微软的公关机构承认它没有“得到”博客！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/01/microsofts-pr-agency-admits-it-doesnt-get-blogs/>
 

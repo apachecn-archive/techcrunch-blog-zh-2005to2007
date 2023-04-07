@@ -1,4 +1,4 @@
-# SwapTree 起死回生-私人测试版 TechCrunch
+# SwapTree 起死回生-私人测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/28/swaptree-back-from-the-dead-in-private-beta/>
 

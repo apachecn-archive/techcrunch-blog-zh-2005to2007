@@ -1,4 +1,4 @@
-# 高通声称 NextG 专利| TechCrunch
+# 高通声称 NextG 专利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/qualcomm-claims-nextg-patents/>
 

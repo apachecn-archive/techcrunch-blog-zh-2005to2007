@@ -1,4 +1,4 @@
-# Truemors 的屏幕截图:盖伊·川崎的谣言服务——TechCrunch
+# Truemors 的屏幕截图:盖伊·川崎的谣言服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/08/screen-shot-of-truemors-guy-kawasakis-rumor-service/>
 

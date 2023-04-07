@@ -1,4 +1,4 @@
-# 索尼爱立信 P1 视频–TechCrunch
+# 索尼爱立信 P1 视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/sony-ericsson-p1-on-video/>
 

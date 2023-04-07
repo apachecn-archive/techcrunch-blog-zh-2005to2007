@@ -1,4 +1,4 @@
-# Uniden UDC-7M 发布——TechCrunch
+# Uniden UDC-7M 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/uniden-udc-7m-announced/>
 

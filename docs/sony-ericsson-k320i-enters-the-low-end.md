@@ -1,4 +1,4 @@
-# 索尼爱立信 K320i 进入低端| TechCrunch
+# 索尼爱立信 K320i 进入低端
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/sony-ericsson-k320i-enters-the-low-end/>
 

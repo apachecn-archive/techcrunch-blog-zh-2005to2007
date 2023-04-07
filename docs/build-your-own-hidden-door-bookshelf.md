@@ -1,4 +1,4 @@
-# 打造你自己的隐藏式书架——TechCrunch
+# 打造你自己的隐藏式书架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/12/build-your-own-hidden-door-bookshelf/>
 

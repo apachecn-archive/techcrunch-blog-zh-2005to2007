@@ -1,4 +1,4 @@
-# Tenbuno Mini Me 显示器| TechCrunch
+# Tenbuno Mini Me 显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/tenbuno-mini-me-monitors/>
 

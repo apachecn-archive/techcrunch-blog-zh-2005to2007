@@ -1,4 +1,4 @@
-# 索尼 Bravia 广告:Paint-tastic–TechCrunch
+# 索尼 Bravia 广告:Paint-tastic
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/sony-bravia-ad-paint-tastic/>
 

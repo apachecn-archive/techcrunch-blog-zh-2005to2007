@@ -1,4 +1,4 @@
-# 东芝卫星 P100-ST9742 游戏笔记本动手操作 TechCrunch
+# 东芝卫星 P100-ST9742 游戏笔记本动手操作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/25/toshiba-satellite-p100-st9742-gaming-notebook-hands-on/>
 

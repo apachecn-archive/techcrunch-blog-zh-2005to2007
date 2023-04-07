@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:Jester Edition–TechCrunch
+# CrunchGear 周回顾:Jester Edition
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/04/crunchgear-week-in-review-jester-edition/>
 

@@ -1,4 +1,4 @@
-# iPhone 集体诉讼 TechCrunch
+# iPhone 集体诉讼 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/27/iphone-class-action-lawsuit/>
 

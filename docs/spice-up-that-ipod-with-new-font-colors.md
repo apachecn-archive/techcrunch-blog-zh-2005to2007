@@ -1,4 +1,4 @@
-# 用新的字体颜色给 iPod 增添趣味——TechCrunch
+# 用新的字体颜色给 iPod 增添趣味
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/spice-up-that-ipod-with-new-font-colors/>
 

@@ -1,4 +1,4 @@
-# 音频文件:音频质量下滑——TechCrunch
+# 音频文件:音频质量下滑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/the-audiofile-audio-quality-slip-slides-away/>
 

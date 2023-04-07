@@ -1,4 +1,4 @@
-# 比较短信价格比较服务–TechCrunch
+# 比较短信价格比较服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/20/comparing-sms-price-comparison-services/>
 

@@ -1,4 +1,4 @@
-# 东芝准备在高清格式大战中反击——TechCrunch
+# 东芝准备在高清格式大战中反击
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/19/toshiba-ready-to-fight-back-in-the-hd-format-wars/>
 

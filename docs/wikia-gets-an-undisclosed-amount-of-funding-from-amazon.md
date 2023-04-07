@@ -1,4 +1,4 @@
-# 维基百科从亚马逊——TechCrunch 获得了一笔数目不详的资金
+# 维基百科从亚马逊 获得了一笔数目不详的资金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/06/wikia-gets-an-undisclosed-amount-of-funding-from-amazon>
 

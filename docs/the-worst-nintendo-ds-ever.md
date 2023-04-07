@@ -1,4 +1,4 @@
-# 史上最差的任天堂 DS——TechCrunch
+# 史上最差的任天堂 DS
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/the-worst-nintendo-ds-ever/>
 

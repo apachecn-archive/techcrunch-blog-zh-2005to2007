@@ -1,4 +1,4 @@
-# 脸书刚刚启动开放注册 TechCrunch
+# 脸书刚刚启动开放注册 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/26/facebook-just-launched-open-registrations/>
 

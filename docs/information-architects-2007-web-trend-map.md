@@ -1,4 +1,4 @@
-# 信息架构师 2007 年网络趋势图–TechCrunch
+# 信息架构师 2007 年网络趋势图
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/20/information-architects-2007-web-trend-map/>
 

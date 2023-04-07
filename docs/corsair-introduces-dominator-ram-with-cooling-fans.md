@@ -1,4 +1,4 @@
-# 海盗船推出带冷却风扇的支配者 Fans | TechCrunch
+# 海盗船推出带冷却风扇的支配者 Fans 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/corsair-introduces-dominator-ram-with-cooling-fans/>
 

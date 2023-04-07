@@ -1,4 +1,4 @@
-# 谣言:百思买将 PS3s | TechCrunch 的员工拒之门外
+# 谣言:百思买将 PS3s  的员工拒之门外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/rumor-best-buy-locks-out-employees-from-ps3s/>
 

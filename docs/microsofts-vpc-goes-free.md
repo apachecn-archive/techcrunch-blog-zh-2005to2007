@@ -1,4 +1,4 @@
-# 微软 VPC 免费——TechCrunch
+# 微软 VPC 免费
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/20/microsofts-vpc-goes-free/>
 

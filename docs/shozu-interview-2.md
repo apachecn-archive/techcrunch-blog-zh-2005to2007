@@ -1,4 +1,4 @@
-# ShoZu 访谈–TechCrunch
+# ShoZu 访谈
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/17/shozu-interview-2/>
 

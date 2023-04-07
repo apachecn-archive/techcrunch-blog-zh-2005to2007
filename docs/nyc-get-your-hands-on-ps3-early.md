@@ -1,4 +1,4 @@
-# 纽约:尽早拿到 PS3——TechCrunch
+# 纽约:尽早拿到 PS3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/nyc-get-your-hands-on-ps3-early/>
 

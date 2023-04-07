@@ -1,4 +1,4 @@
-# SocialText 寻找新 CEO——TechCrunch
+# SocialText 寻找新 CEO
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/socialtext-looks-for-new-ceo/>
 

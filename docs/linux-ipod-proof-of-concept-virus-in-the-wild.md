@@ -1,4 +1,4 @@
-# Linux iPod 概念验证病毒肆虐| TechCrunch
+# Linux iPod 概念验证病毒肆虐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/06/linux-ipod-proof-of-concept-virus-in-the-wild/>
 

@@ -1,4 +1,4 @@
-# 同传一部有胸部的 Ups iPhone，SFW | TechCrunch
+# 同传一部有胸部的 Ups iPhone，SFW 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/simulscribe-one-ups-iphone-with-boobs-sfw/>
 

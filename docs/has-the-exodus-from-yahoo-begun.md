@@ -1,4 +1,4 @@
-# 离开雅虎已经开始了吗？–TechCrunch
+# 离开雅虎已经开始了吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/03/has-the-exodus-from-yahoo-begun/>
 

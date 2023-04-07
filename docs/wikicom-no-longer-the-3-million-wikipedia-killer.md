@@ -1,4 +1,4 @@
-# Wiki.com——不再是 300 万美元的黑仔维基百科——TechCrunch
+# Wiki.com——不再是 300 万美元的黑仔维基百科
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/03/wikicom-no-longer-the-3-million-wikipedia-killer/>
 

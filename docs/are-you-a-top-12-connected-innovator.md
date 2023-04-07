@@ -1,4 +1,4 @@
-# 你是 12 强互联创新者吗？TechCrunch
+# 你是 12 强互联创新者吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/26/are-you-a-top-12-connected-innovator/>
 

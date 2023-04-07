@@ -1,4 +1,4 @@
-# MojoPac 走向企业，将您的桌面放在 USB 驱动器上| TechCrunch
+# MojoPac 走向企业，将您的桌面放在 USB 驱动器上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/mojopac-goes-enterprise-puts-your-desktop-on-a-usb-drive/>
 

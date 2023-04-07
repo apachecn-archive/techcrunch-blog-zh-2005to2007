@@ -1,4 +1,4 @@
-# 新款美国电话电报公司首款智能手机:SMT5700 | TechCrunch
+# 新款美国电话电报公司首款智能手机:SMT5700 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/the-new-atts-first-smartphone-smt5700/>
 

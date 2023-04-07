@@ -1,4 +1,4 @@
-# 来自荒谬的金库:TrekStor i .击败 Organix Gold-TechCrunch
+# 来自荒谬的金库:TrekStor i .击败 Organix Gold-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/from-the-vaults-of-ridiculous-trekstor-ibeat-organix-gold/>
 

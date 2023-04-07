@@ -1,4 +1,4 @@
-# 东芝 Qosimo G35-av 660:Merom Inside | TechCrunch
+# 东芝 Qosimo G35-av 660:Merom Inside 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/toshiba-qosimo-g35-av660-merom-inside/>
 

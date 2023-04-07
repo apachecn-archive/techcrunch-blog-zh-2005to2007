@@ -1,4 +1,4 @@
-# 盗版者追逐移动设备——TechCrunch
+# 盗版者追逐移动设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/pirates-go-after-mobile/>
 

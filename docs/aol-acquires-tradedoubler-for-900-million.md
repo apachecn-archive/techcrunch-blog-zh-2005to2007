@@ -1,4 +1,4 @@
-# 美国在线将以 9 亿美元收购 trade doubler——TechCrunch
+# 美国在线将以 9 亿美元收购 trade doubler
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/15/aol-acquires-tradedoubler-for-900-million/>
 

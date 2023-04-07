@@ -1,4 +1,4 @@
-# 诺基亚:现在有了 YouTube！–TechCrunch
+# 诺基亚:现在有了 YouTube！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/nokia-now-with-youtube/>
 

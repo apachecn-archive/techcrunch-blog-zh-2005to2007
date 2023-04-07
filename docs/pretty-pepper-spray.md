@@ -1,4 +1,4 @@
-# 漂亮的胡椒喷雾——TechCrunch
+# 漂亮的胡椒喷雾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/pretty-pepper-spray/>
 

@@ -1,4 +1,4 @@
-# 点亮有机玻璃(防暴盾牌上没有)| TechCrunch
+# 点亮有机玻璃(防暴盾牌上没有)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/13/light-up-plexiglass-not-available-on-riot-shields/>
 

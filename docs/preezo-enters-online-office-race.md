@@ -1,4 +1,4 @@
-# Preezo 加入在线办公室竞赛 TechCrunch
+# Preezo 加入在线办公室竞赛 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/11/preezo-enters-online-office-race/>
 

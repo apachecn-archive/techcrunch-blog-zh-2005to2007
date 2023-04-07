@@ -1,4 +1,4 @@
-# Lensbabies 3G 中等格式–TechCrunch
+# Lensbabies 3G 中等格式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/lensbabies-3g-medium-format/>
 

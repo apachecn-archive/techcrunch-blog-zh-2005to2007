@@ -1,4 +1,4 @@
-# mustek Paragon tw 450 for iPod | TechCrunch
+# mustek Paragon tw 450 for iPod 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/mustek-paragon-tw450-for-ipod/>
 

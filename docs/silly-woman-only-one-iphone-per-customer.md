@@ -1,4 +1,4 @@
-# 傻女人！每位顾客只能有一部 iPhone！–TechCrunch
+# 傻女人！每位顾客只能有一部 iPhone！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/silly-woman-only-one-iphone-per-customer/>
 

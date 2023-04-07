@@ -1,4 +1,4 @@
-# 更新:Le Web 3–TechCrunch
+# 更新:Le Web 3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/update-le-web-3/>
 

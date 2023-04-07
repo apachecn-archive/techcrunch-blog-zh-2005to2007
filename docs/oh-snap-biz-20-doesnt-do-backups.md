@@ -1,4 +1,4 @@
-# 哦，太棒了！Biz 2.0 不做备份！TechCrunch
+# 哦，太棒了！Biz 2.0 不做备份！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/oh-snap-biz-20-doesnt-do-backups/>
 

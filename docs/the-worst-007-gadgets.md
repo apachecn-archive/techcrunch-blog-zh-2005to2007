@@ -1,4 +1,4 @@
-# 最差的 007 小玩意？TechCrunch
+# 最差的 007 小玩意？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/13/the-worst-007-gadgets/>
 

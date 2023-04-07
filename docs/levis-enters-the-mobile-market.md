@@ -1,4 +1,4 @@
-# 李维斯进入移动市场——TechCrunch
+# 李维斯进入移动市场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/levis-enters-the-mobile-market/>
 

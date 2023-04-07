@@ -1,4 +1,4 @@
-# 微软虚拟地球——现在是 3D 的，有广告牌——TechCrunch
+# 微软虚拟地球——现在是 3D 的，有广告牌
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/06/microsoft-virtual-earth-now-in-3d-and-with-billboards/>
 

@@ -1,4 +1,4 @@
-# Wikio 会挑战 Google News 和 Technorati 吗？–TechCrunch
+# Wikio 会挑战 Google News 和 Technorati 吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/02/will-wikio-challenge-google-news-and-technorati>
 

@@ -1,4 +1,4 @@
-# 身份盗窃:创业余波和创业机会 TechCrunch
+# 身份盗窃:创业余波和创业机会 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/19/identity-theft-and-startup-fallout/>
 

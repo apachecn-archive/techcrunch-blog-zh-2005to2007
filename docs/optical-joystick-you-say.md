@@ -1,4 +1,4 @@
-# 你说光学操纵杆？–TechCrunch
+# 你说光学操纵杆？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/optical-joystick-you-say/>
 

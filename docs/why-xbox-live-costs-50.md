@@ -1,4 +1,4 @@
-# 为什么 Xbox Live 要 50 美元——TechCrunch
+# 为什么 Xbox Live 要 50 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/why-xbox-live-costs-50/>
 

@@ -1,4 +1,4 @@
-# 吉姆·奥尔钦退休，检查电子邮件，带领大众到 Vista——TechCrunch
+# 吉姆·奥尔钦退休，检查电子邮件，带领大众到 Vista
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/jim-allchin-retires-checks-email-leads-masses-to-vista/>
 

@@ -1,4 +1,4 @@
-# Audioengine 5 扬声器支持| TechCrunch
+# Audioengine 5 扬声器支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/audioengine-5-speakers-are-ipod-friendly/>
 

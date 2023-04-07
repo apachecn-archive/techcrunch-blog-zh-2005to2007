@@ -1,4 +1,4 @@
-# CAPS 将“少数人的智慧”用于选股——TechCrunch
+# CAPS 将“少数人的智慧”用于选股
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/05/caps-takes-wisdom-of-the-few-to-stock-picking/>
 

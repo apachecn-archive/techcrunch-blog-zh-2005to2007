@@ -1,4 +1,4 @@
-# Kingston，eMusic 想让你用手机听音乐——TechCrunch
+# Kingston，eMusic 想让你用手机听音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/kingston-emusic-want-you-to-listen-to-music-on-your-cell-phone/>
 

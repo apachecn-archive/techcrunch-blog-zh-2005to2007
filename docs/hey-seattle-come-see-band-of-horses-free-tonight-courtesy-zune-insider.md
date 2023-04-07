@@ -1,4 +1,4 @@
-# 嘿西雅图！来看看今晚免费的马乐队吧，由 Zune Insider | TechCrunch 提供
+# 嘿西雅图！来看看今晚免费的马乐队吧，由 Zune Insider  提供
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/hey-seattle-come-see-band-of-horses-free-tonight-courtesy-zune-insider/>
 

@@ -1,4 +1,4 @@
-# 超越 E3，iei . e . I . o .即将上市——TechCrunch
+# 超越 E3，iei . e . I . o .即将上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/move-over-e3-eieio-is-on-the-way/>
 

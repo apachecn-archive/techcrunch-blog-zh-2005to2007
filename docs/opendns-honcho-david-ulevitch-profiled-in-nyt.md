@@ -1,4 +1,4 @@
-# OpenDNS 负责人 David Ulevitch 在 NYT 的简介| TechCrunch
+# OpenDNS 负责人 David Ulevitch 在 NYT 的简介
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/opendns-honcho-david-ulevitch-profiled-in-nyt/>
 

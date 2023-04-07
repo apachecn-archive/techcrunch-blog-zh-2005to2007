@@ -1,4 +1,4 @@
-# Zoho 推出脸书应用——TechCrunch
+# Zoho 推出脸书应用
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/02/zoho-launches-facebook-application/>
 

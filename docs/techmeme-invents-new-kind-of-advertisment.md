@@ -1,4 +1,4 @@
-# TechMeme 发明了一种新的广告——TechCrunch
+# TechMeme 发明了一种新的广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/09/25/techmeme-invents-new-kind-of-advertisment/>
 

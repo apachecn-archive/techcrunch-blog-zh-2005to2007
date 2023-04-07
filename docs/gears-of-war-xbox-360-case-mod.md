@@ -1,4 +1,4 @@
-# 战争机器 Xbox 360 案例模型| TechCrunch
+# 战争机器 Xbox 360 案例模型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/gears-of-war-xbox-360-case-mod/>
 

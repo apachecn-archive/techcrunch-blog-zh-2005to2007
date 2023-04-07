@@ -1,4 +1,4 @@
-# 被追求的 zooomr TechCrunch
+# 被追求的 zooomr 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/14/zooomr-being-courted>
 

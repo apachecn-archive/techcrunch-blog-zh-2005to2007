@@ -1,4 +1,4 @@
-# SkyRider 的目标是将 P2P 货币化——TechCrunch
+# SkyRider 的目标是将 P2P 货币化
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/03/skyrider-aims-to-monetize-p2p/>
 

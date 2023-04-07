@@ -1,4 +1,4 @@
-# Live.com 的新外观、新功能——TechCrunch
+# Live.com 的新外观、新功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/08/new-look-features-for-livecom/>
 

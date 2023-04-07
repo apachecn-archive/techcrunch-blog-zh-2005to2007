@@ -1,4 +1,4 @@
-# Openads 开源项目筹集了 500 万美元——TechCrunch
+# Openads 开源项目筹集了 500 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/13/openads-opensource-project-raises-5-million/>
 

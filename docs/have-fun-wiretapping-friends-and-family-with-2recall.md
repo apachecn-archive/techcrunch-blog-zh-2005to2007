@@ -1,4 +1,4 @@
-# 使用 2 call–TechCrunch 享受窃听敌人和亲人的乐趣
+# 使用 2 call 享受窃听敌人和亲人的乐趣
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/20/have-fun-wiretapping-friends-and-family-with-2recall/>
 

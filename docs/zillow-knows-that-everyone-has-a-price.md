@@ -1,4 +1,4 @@
-# Zillow 知道每个人都有一个价格——TechCrunch
+# Zillow 知道每个人都有一个价格
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/06/zillow-knows-that-everyone-has-a-price/>
 

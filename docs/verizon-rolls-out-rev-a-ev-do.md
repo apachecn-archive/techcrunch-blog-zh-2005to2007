@@ -1,4 +1,4 @@
-# 威瑞森推出 EV-DO 版本——TechCrunch
+# 威瑞森推出 EV-DO 版本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/verizon-rolls-out-rev-a-ev-do/>
 

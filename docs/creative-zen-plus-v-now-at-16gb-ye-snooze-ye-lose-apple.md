@@ -1,4 +1,4 @@
-# 创意 Zen Plus V 现在 16GB:你打盹，你输了，苹果| TechCrunch
+# 创意 Zen Plus V 现在 16GB:你打盹，你输了，苹果
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/creative-zen-plus-v-now-at-16gb-ye-snooze-ye-lose-apple/>
 

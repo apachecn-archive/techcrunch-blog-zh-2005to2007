@@ -1,4 +1,4 @@
-# 传言:苹果可能发布 8 核 Mac | TechCrunch
+# 传言:苹果可能发布 8 核 Mac 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/rumor-apple-may-release-8-core-mac/>
 

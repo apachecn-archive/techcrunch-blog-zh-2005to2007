@@ -1,4 +1,4 @@
-# 中欧会议:第一站，布达佩斯| TechCrunch
+# 中欧会议:第一站，布达佩斯
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/09/crunchgear-central-european-meet-up-first-stop-budapest/>
 

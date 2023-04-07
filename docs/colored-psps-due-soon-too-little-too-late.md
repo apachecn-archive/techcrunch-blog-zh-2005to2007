@@ -1,4 +1,4 @@
-# 彩色 PSP 即将上市——太少太晚了？TechCrunch
+# 彩色 PSP 即将上市——太少太晚了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/colored-psps-due-soon-too-little-too-late/>
 

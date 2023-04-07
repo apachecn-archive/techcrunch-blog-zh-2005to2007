@@ -1,4 +1,4 @@
-# Xbox 360 配件定价敲定| TechCrunch
+# Xbox 360 配件定价敲定
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/xbox-360-accessories-pricing-finalized/>
 

@@ -1,4 +1,4 @@
-# 告诉我:机器人做搜索，你说脏话——TechCrunch
+# 告诉我:机器人做搜索，你说脏话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/23/tellme-a-robot-does-the-searching-you-do-the-swearing/>
 

@@ -1,4 +1,4 @@
-# LG U830 手机出人意料地不像巧克力——TechCrunch
+# LG U830 手机出人意料地不像巧克力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/lg-u830-cell-phone-is-surprisingly-un-chocolatey/>
 

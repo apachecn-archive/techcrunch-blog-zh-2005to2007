@@ -1,4 +1,4 @@
-# 编程太棒了！–TechCrunch
+# 编程太棒了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/26/programming-rocks/>
 

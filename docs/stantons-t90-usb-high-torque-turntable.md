@@ -1,4 +1,4 @@
-# Stanton 的 T.90 USB 高扭矩转盘–TechCrunch
+# Stanton 的 T.90 USB 高扭矩转盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/12/stantons-t90-usb-high-torque-turntable/>
 

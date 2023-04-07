@@ -1,4 +1,4 @@
-# Basecamp 的新东西——TechCrunch
+# Basecamp 的新东西
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/13/new-stuff-at-basecamp/>
 

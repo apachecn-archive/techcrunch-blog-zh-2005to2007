@@ -1,4 +1,4 @@
-# 摩托罗拉销售不是 RIZNG | TechCrunch
+# 摩托罗拉销售不是 RIZNG 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/motorola-sales-not-rizng/>
 

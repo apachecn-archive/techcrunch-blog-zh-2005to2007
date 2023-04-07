@@ -1,4 +1,4 @@
-# Steelcase 最差工作空间挑战| TechCrunch
+# Steelcase 最差工作空间挑战
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/the-steelcase-worst-workspace-challenge-2/>
 

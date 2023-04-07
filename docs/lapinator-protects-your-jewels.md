@@ -1,4 +1,4 @@
-# Lapinator 保护您的珠宝——TechCrunch
+# Lapinator 保护您的珠宝
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/lapinator-protects-your-jewels/>
 

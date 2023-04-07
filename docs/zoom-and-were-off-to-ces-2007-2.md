@@ -1,4 +1,4 @@
-# 变焦！:我们要去参加 2007 年国际消费电子展——TechCrunch
+# 变焦！:我们要去参加 2007 年国际消费电子展
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/06/zoom-and-were-off-to-ces-2007-2/>
 

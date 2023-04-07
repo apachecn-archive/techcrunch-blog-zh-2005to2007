@@ -1,4 +1,4 @@
-# 现在的智能手机:Opera Mini 2 开启真正的移动网络浏览| TechCrunch
+# 现在的智能手机:Opera Mini 2 开启真正的移动网络浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/02/smartphones-now-opera-mini-2-opens-up-real-mobile-web-browsing/>
 

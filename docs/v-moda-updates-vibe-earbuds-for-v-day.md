@@ -1,4 +1,4 @@
-# V Moda 为 V-Day | TechCrunch 更新 Vibe 耳塞
+# V Moda 为 V-Day  更新 Vibe 耳塞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/02/v-moda-updates-vibe-earbuds-for-v-day/>
 

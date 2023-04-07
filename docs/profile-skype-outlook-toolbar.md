@@ -1,4 +1,4 @@
-# 个人资料- Skype (Outlook 工具栏)TechCrunch
+# 个人资料- Skype (Outlook 工具栏)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/06/profile-skype-outlook-toolbar/>
 

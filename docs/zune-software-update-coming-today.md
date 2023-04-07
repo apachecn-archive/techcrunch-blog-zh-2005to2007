@@ -1,4 +1,4 @@
-# Zune 软件今天更新| TechCrunch
+# Zune 软件今天更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/19/zune-software-update-coming-today/>
 

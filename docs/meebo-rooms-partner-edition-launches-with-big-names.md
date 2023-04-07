@@ -1,4 +1,4 @@
-# Meebo Rooms 合作伙伴版与知名人士一同发布 TechCrunch
+# Meebo Rooms 合作伙伴版与知名人士一同发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/27/meebo-rooms-partner-edition-launches-with-big-names/>
 

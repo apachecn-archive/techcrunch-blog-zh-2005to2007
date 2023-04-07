@@ -1,4 +1,4 @@
-# Mark/Space 停止错过 Hiptop | TechCrunch 的同步
+# Mark/Space 停止错过 Hiptop  的同步
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/markspace-discontinues-missingsync-for-hiptop/>
 

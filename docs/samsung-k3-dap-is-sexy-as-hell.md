@@ -1,4 +1,4 @@
-# 三星 K3 DAP 性感得要命| TechCrunch
+# 三星 K3 DAP 性感得要命
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/09/samsung-k3-dap-is-sexy-as-hell/>
 

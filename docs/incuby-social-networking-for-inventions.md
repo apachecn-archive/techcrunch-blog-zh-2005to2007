@@ -1,4 +1,4 @@
-# Incuby:发明社交网络——TechCrunch
+# Incuby:发明社交网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/06/incuby-social-networking-for-inventions/>
 

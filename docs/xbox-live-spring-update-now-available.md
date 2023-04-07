@@ -1,4 +1,4 @@
-# Xbox Live 春季更新现已推出——TechCrunch
+# Xbox Live 春季更新现已推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/xbox-live-spring-update-now-available/>
 

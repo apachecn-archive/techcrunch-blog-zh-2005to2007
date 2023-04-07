@@ -1,4 +1,4 @@
-# Yardbarker 想成为体育新闻 2.0 TechCrunch
+# Yardbarker 想成为体育新闻 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/29/yardbarker-wants-to-be-sports-20/>
 

@@ -1,4 +1,4 @@
-# Magnum Chrome DS 外壳让 Fiddy 微笑——TechCrunch
+# Magnum Chrome DS 外壳让 Fiddy 微笑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/magnum-chrome-ds-casing-makes-fiddy-smile/>
 

@@ -1,4 +1,4 @@
-# 面向 MAC 电脑的 Skype 视频今天发布 TechCrunch
+# 面向 MAC 电脑的 Skype 视频今天发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/13/skype-video-for-macs-launches-today/>
 

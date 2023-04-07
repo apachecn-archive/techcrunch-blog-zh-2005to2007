@@ -1,4 +1,4 @@
-# 感谢读者和赞助商| TechCrunch
+# 感谢读者和赞助商
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/01/thank-you-readers-and-sponsors-2/>
 

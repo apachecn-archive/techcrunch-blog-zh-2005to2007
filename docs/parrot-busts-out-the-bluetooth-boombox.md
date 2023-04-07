@@ -1,4 +1,4 @@
-# Parrot 推出蓝牙音箱——TechCrunch
+# Parrot 推出蓝牙音箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/08/parrot-busts-out-the-bluetooth-boombox/>
 

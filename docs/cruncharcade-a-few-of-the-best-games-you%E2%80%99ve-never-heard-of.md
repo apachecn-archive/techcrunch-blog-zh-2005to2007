@@ -1,4 +1,4 @@
-# CrunchArcade:一些你从未听说过的最好的游戏——TechCrunch
+# CrunchArcade:一些你从未听说过的最好的游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/14/cruncharcade-a-few-of-the-best-games-you%E2%80%99ve-never-heard-of/>
 

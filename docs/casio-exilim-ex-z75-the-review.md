@@ -1,4 +1,4 @@
-# 卡西欧 Exilim EX-Z75:评论| TechCrunch
+# 卡西欧 Exilim EX-Z75:评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/29/casio-exilim-ex-z75-the-review/>
 

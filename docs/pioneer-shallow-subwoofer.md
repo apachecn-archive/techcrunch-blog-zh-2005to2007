@@ -1,4 +1,4 @@
-# 先锋浅低音炮–TechCrunch
+# 先锋浅低音炮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/15/pioneer-shallow-subwoofer/>
 

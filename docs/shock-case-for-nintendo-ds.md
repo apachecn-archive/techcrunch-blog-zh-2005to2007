@@ -1,4 +1,4 @@
-# 震惊！任天堂 DS 的案例——TechCrunch
+# 震惊！任天堂 DS 的案例
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/shock-case-for-nintendo-ds/>
 

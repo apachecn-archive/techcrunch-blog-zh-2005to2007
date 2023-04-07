@@ -1,4 +1,4 @@
-# EBay 市值缩水 10 亿美元；Skype 继续中断 TechCrunch
+# EBay 市值缩水 10 亿美元；Skype 继续中断 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/ebay-sees-1-billion-knocked-off-market-cap-as-skype-outages-continue/>
 

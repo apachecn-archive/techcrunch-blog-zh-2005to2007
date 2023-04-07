@@ -1,4 +1,4 @@
-# iCool Phone 是二合一手机| TechCrunch
+# iCool Phone 是二合一手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/icool-phone-is-two-phones-in-one/>
 

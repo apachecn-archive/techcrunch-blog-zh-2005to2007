@@ -1,4 +1,4 @@
-# oDesk 宣布从 Benchmark | TechCrunch 获得 800 万美元资金
+# oDesk 宣布从 Benchmark  获得 800 万美元资金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/27/odesk-announces-8m-funding-from-benchmark/>
 

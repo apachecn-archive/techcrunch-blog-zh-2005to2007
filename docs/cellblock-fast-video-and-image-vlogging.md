@@ -1,4 +1,4 @@
-# Cellblock:快速视频和图像日志| TechCrunch
+# Cellblock:快速视频和图像日志
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/cellblock-fast-video-and-image-vlogging/>
 

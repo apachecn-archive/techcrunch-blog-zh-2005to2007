@@ -1,4 +1,4 @@
-# ws finder——一个开放 API 的 Wiki——TechCrunch
+# ws finder——一个开放 API 的 Wiki
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/08/wsfinder-a-wiki-for-open-apis/>
 

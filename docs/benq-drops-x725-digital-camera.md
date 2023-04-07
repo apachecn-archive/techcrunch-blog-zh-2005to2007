@@ -1,4 +1,4 @@
-# 明基掉落 X725 数码相机| TechCrunch
+# 明基掉落 X725 数码相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/benq-drops-x725-digital-camera/>
 

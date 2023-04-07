@@ -1,4 +1,4 @@
-# 面向 Flock 的 Meebo 扩展–TechCrunch
+# 面向 Flock 的 Meebo 扩展
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/27/meebo-extension-for-flock/>
 

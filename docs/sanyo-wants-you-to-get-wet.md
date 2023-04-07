@@ -1,4 +1,4 @@
-# 三洋希望你淋湿…–TechCrunch
+# 三洋希望你淋湿…
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/sanyo-wants-you-to-get-wet/>
 

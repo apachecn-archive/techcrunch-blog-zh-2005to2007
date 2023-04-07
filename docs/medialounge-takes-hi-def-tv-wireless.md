@@ -1,4 +1,4 @@
-# MediaLounge 采用高清电视无线技术| TechCrunch
+# MediaLounge 采用高清电视无线技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/medialounge-takes-hi-def-tv-wireless/>
 

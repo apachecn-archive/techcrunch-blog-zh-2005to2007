@@ -1,4 +1,4 @@
-# 美国运通数字 IT-N501 i-Talk Nano: USB VoIP 电话，诉讼一包| TechCrunch
+# 美国运通数字 IT-N501 i-Talk Nano: USB VoIP 电话，诉讼一包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/amex-digital-it-n501-i-talk-nano-usb-skype-phone-lawsuit-in-one-package/>
 

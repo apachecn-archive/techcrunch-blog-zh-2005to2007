@@ -1,4 +1,4 @@
-# PatentMonkey:微软将挑战 Joost？TechCrunch
+# PatentMonkey:微软将挑战 Joost？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/08/patentmonkey-microsoft-to-take-on-joost/>
 

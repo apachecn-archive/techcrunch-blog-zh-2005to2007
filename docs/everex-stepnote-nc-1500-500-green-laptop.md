@@ -1,4 +1,4 @@
-# everex step note NC 1500:500 美元绿色笔记本电脑| TechCrunch
+# everex step note NC 1500:500 美元绿色笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/everex-stepnote-nc-1500-500-green-laptop/>
 

@@ -1,4 +1,4 @@
-# 个人资料–合作排名(del . icio . us)–TechCrunch
+# 个人资料–合作排名(del . icio . us)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/04/profile-collaborative-rank-delicious/>
 

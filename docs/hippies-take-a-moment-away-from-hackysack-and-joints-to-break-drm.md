@@ -1,4 +1,4 @@
-# 嬉皮士们暂时远离背包和大麻来破解 DRM——TechCrunch
+# 嬉皮士们暂时远离背包和大麻来破解 DRM
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/hippies-take-a-moment-away-from-hackysack-and-joints-to-break-drm/>
 

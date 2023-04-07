@@ -1,4 +1,4 @@
-# 耐克考虑:全条件装备——TechCrunch
+# 耐克考虑:全条件装备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/24/nike-considered-all-condition-gear/>
 

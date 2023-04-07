@@ -1,4 +1,4 @@
-# 虚拟世界，实势-虚数？TechCrunch
+# 虚拟世界，实势-虚数？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/virtual-worlds-real-potential-imaginary-numbers/>
 

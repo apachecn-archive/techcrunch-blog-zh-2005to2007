@@ -1,4 +1,4 @@
-# 无线电源即将推出？或许| TechCrunch
+# 无线电源即将推出？或许
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/wireless-power-coming-soon-perhaps/>
 

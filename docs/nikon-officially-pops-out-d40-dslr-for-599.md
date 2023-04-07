@@ -1,4 +1,4 @@
-# 尼康正式推出 D40 单反，售价 599 美元** | TechCrunch
+# 尼康正式推出 D40 单反，售价 599 美元** 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/nikon-officially-pops-out-d40-dslr-for-599/>
 

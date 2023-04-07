@@ -1,4 +1,4 @@
-# Wii Crystal Cooler:如果冷却风扇看起来很时尚，它应该是这样的——TechCrunch
+# Wii Crystal Cooler:如果冷却风扇看起来很时尚，它应该是这样的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/wii-crystal-cooler-if-a-cooling-fan-could-look-stylish-itd-look-like-this/>
 

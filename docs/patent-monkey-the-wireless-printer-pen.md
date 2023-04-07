@@ -1,4 +1,4 @@
-# 专利猴:无线打印机笔——TechCrunch
+# 专利猴:无线打印机笔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/patent-monkey-the-wireless-printer-pen/>
 

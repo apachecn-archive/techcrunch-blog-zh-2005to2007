@@ -1,4 +1,4 @@
-# 手环手机设计理念:谁说手机不是时尚配饰？TechCrunch
+# 手环手机设计理念:谁说手机不是时尚配饰？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/13/bracelet-phone-design-concept-who-says-phones-arent-fashion-accessories/>
 

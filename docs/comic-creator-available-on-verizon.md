@@ -1,4 +1,4 @@
-# 威瑞森| TechCrunch 上有漫画创作者
+# 威瑞森 上有漫画创作者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/comic-creator-available-on-verizon/>
 

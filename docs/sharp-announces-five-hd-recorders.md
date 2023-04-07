@@ -1,4 +1,4 @@
-# 夏普发布五款高清录像机——TechCrunch
+# 夏普发布五款高清录像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/03/sharp-announces-five-hd-recorders/>
 

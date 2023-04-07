@@ -1,4 +1,4 @@
-# 英特尔的 Metro 笔记本概念向我们展示了它是如何做到的| TechCrunch
+# 英特尔的 Metro 笔记本概念向我们展示了它是如何做到的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/intels-metro-notebook-concept-shows-us-how-its-done/>
 

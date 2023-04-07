@@ -1,4 +1,4 @@
-# MediaWhiz 收购了另一家广告初创公司 AuctionAds TechCrunch
+# MediaWhiz 收购了另一家广告初创公司 AuctionAds 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/27/mediawhiz-buys-another-ad-startup-auctionads/>
 

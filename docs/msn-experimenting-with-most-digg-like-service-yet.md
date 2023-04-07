@@ -1,4 +1,4 @@
-# MSN 正在尝试最像 Digg 的服务——TechCrunch
+# MSN 正在尝试最像 Digg 的服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/19/msn-experimenting-with-most-digg-like-service-yet/>
 

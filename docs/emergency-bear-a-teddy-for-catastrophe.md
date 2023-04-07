@@ -1,4 +1,4 @@
-# 应急熊:灾难泰迪熊| TechCrunch
+# 应急熊:灾难泰迪熊
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/18/emergency-bear-a-teddy-for-catastrophe/>
 

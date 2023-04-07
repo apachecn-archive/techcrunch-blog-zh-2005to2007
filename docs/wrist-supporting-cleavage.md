@@ -1,4 +1,4 @@
-# 支撑乳沟的手腕——TechCrunch
+# 支撑乳沟的手腕
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/wrist-supporting-cleavage/>
 

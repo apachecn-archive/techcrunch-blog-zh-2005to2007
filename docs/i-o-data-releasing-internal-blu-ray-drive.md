@@ -1,4 +1,4 @@
-# I/O 数据释放内置蓝光驱动器| TechCrunch
+# I/O 数据释放内置蓝光驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/19/i-o-data-releasing-internal-blu-ray-drive/>
 

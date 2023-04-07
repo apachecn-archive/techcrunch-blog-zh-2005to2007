@@ -1,4 +1,4 @@
-# 八分之一的男人宁愿要一个小玩意也不要一个小妞——TechCrunch
+# 八分之一的男人宁愿要一个小玩意也不要一个小妞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/1-in-8-dudes-would-rather-have-a-gadget-than-a-chick/>
 

@@ -1,4 +1,4 @@
-# Buzka:带有商业功能的社会化书签——TechCrunch
+# Buzka:带有商业功能的社会化书签
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/19/buzka-social-bookmarking-with-a-business-function/>
 

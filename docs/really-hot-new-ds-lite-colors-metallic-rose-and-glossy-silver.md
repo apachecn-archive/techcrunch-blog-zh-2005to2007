@@ -1,4 +1,4 @@
-# 真正热门的新 DS Lite 颜色:金属玫瑰色和亮银色| TechCrunch
+# 真正热门的新 DS Lite 颜色:金属玫瑰色和亮银色
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/really-hot-new-ds-lite-colors-metallic-rose-and-glossy-silver/>
 

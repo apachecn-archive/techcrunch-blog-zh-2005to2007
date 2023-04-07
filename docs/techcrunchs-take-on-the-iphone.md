@@ -1,4 +1,4 @@
-# TechCrunch 挑战 iPhone——TechCrunch
+# TechCrunch 挑战 iPhone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/techcrunchs-take-on-the-iphone/>
 

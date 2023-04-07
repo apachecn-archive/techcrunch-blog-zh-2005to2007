@@ -1,4 +1,4 @@
-# Gada.be - Tag 元搜索完成正确 TechCrunch
+# Gada.be - Tag 元搜索完成正确 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/10/gada-tag-meta-search-done-right/>
 

@@ -1,4 +1,4 @@
-# Le Web 3 创业室但英国创业公司不多？TechCrunch
+# Le Web 3 创业室但英国创业公司不多？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/le-web-3-startup-room-but-not-many-uk-startups/>
 

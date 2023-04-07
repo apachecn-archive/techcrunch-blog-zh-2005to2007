@@ -1,4 +1,4 @@
-# 报告称，联想和苹果最可靠的笔记本电脑——TechCrunch
+# 报告称，联想和苹果最可靠的笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/lenovo-and-apple-most-reliable-laptops-report-says/>
 

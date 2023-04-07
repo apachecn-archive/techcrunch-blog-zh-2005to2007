@@ -1,4 +1,4 @@
-# 在手机上发射航天飞机，就像看油漆变干一样？TechCrunch
+# 在手机上发射航天飞机，就像看油漆变干一样？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/space-shuttle-launch-on-mobile-like-watching-paint-dry/>
 

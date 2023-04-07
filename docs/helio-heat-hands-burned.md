@@ -1,4 +1,4 @@
-# Helio Heat 手烧伤–TechCrunch
+# Helio Heat 手烧伤
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/helio-heat-hands-burned/>
 

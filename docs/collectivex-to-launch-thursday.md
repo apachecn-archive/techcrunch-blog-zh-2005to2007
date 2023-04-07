@@ -1,4 +1,4 @@
-# CollectiveX 将于周四发布——TechCrunch
+# CollectiveX 将于周四发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/10/collectivex-to-launch-thursday/>
 

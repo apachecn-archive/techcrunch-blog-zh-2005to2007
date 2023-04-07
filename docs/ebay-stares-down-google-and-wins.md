@@ -1,4 +1,4 @@
-# 易贝盯着谷歌，赢得 TechCrunch
+# 易贝盯着谷歌，赢得 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/13/ebay-stares-down-google-and-wins/>
 

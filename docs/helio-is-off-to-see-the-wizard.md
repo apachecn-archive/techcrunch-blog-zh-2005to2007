@@ -1,4 +1,4 @@
-# Helio 去见巫师了| TechCrunch
+# Helio 去见巫师了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/06/helio-is-off-to-see-the-wizard/>
 

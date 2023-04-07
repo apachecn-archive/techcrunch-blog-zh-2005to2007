@@ -1,4 +1,4 @@
-# Xantrex PowerSource Mobile 100 便携式充电器| TechCrunch
+# Xantrex PowerSource Mobile 100 便携式充电器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/xantrex-powersource-mobile-100-portable-charger/>
 

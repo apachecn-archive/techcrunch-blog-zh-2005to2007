@@ -1,4 +1,4 @@
-# WWDC 2007 | TechCrunch
+# WWDC 2007 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/jobs-kicking-off-wwdc-2007/>
 

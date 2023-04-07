@@ -1,4 +1,4 @@
-# TiVo 制作系列 3“精简”版| TechCrunch
+# TiVo 制作系列 3“精简”版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/01/tivo-working-on-series-3-lite-edition/>
 

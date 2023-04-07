@@ -1,4 +1,4 @@
-# Sprint 赞助第一首文件分享歌曲——TechCrunch
+# Sprint 赞助第一首文件分享歌曲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/08/sprint-sponsors-first-file-share-song/>
 

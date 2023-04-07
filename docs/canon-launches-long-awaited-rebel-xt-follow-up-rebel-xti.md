@@ -1,4 +1,4 @@
-# 佳能推出期待已久的 Rebel XT 后续产品:Rebel XTi–TechCrunch
+# 佳能推出期待已久的 Rebel XT 后续产品:Rebel XTi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/canon-launches-long-awaited-rebel-xt-follow-up-rebel-xti/>
 

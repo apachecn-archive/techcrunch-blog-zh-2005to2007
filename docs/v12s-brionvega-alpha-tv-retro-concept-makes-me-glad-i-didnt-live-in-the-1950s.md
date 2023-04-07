@@ -1,4 +1,4 @@
-# V12 的 Brionvega Alpha 电视复古概念让我庆幸自己没有生活在 20 世纪 50 年代| TechCrunch
+# V12 的 Brionvega Alpha 电视复古概念让我庆幸自己没有生活在 20 世纪 50 年代
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/v12s-brionvega-alpha-tv-retro-concept-makes-me-glad-i-didnt-live-in-the-1950s/>
 

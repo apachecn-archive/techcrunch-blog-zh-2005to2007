@@ -1,4 +1,4 @@
-# 谷歌将博客搜索链接到谷歌新闻 TechCrunch
+# 谷歌将博客搜索链接到谷歌新闻 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/22/google-links-blog-search-to-google-news/>
 

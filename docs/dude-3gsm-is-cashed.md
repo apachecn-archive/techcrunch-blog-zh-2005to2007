@@ -1,4 +1,4 @@
-# 伙计，3GSM 兑现了——TechCrunch
+# 伙计，3GSM 兑现了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/dude-3gsm-is-cashed/>
 

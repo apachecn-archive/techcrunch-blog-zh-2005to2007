@@ -1,4 +1,4 @@
-# HTC Excalibur 首次在德国 O2 网络上贴上标签——TechCrunch
+# HTC Excalibur 首次在德国 O2 网络上贴上标签
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/htc-excalibur-on-o2/>
 

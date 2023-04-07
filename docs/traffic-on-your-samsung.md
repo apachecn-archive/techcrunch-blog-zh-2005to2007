@@ -1,4 +1,4 @@
-# 三星| TechCrunch 上的流量
+# 三星 上的流量
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/traffic-on-your-samsung/>
 

@@ -1,4 +1,4 @@
-# 谷歌快讯将博客加入新闻搜索——TechCrunch
+# 谷歌快讯将博客加入新闻搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/26/google-alerts-adds-blogs-in-a-big-way>
 

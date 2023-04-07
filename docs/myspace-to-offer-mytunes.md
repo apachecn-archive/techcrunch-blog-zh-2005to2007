@@ -1,4 +1,4 @@
-# MySpace 将提供我的音乐… | TechCrunch
+# MySpace 将提供我的音乐… 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/02/myspace-to-offer-mytunes/>
 

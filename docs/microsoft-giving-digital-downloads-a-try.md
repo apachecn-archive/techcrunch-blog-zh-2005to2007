@@ -1,4 +1,4 @@
-# 微软尝试数字下载——TechCrunch
+# 微软尝试数字下载
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/microsoft-giving-digital-downloads-a-try/>
 

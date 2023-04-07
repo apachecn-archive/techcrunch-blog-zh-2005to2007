@@ -1,4 +1,4 @@
-# 未来的三星 DLP 可以处理“令人兴奋”的 3D——TechCrunch
+# 未来的三星 DLP 可以处理“令人兴奋”的 3D
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/future-samsung-dlps-can-handle-mind-blowing-3d/>
 

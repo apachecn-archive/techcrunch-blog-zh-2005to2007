@@ -1,4 +1,4 @@
-# 缤特力发布夏末耳机| TechCrunch
+# 缤特力发布夏末耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/plantronics-announces-late-summer-earware/>
 

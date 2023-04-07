@@ -1,4 +1,4 @@
-# 300 万用 YouSendIt | TechCrunch 发送
+# 300 万用 YouSendIt  发送
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/07/three-million-sending-it-with-yousendit/>
 

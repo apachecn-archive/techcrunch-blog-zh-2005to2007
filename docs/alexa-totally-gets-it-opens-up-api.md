@@ -1,4 +1,4 @@
-# Alexa 完全明白，开放 API TechCrunch
+# Alexa 完全明白，开放 API 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/12/alexa-totally-gets-it-opens-up-api/>
 

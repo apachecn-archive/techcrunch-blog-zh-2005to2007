@@ -1,4 +1,4 @@
-# 野外的 sprint ex 720 EV-DO–TechCrunch
+# 野外的 sprint ex 720 EV-DO
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/sprint-ex720-ev-do-in-the-wild/>
 

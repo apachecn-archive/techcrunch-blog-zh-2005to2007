@@ -1,4 +1,4 @@
-# 黑莓 QuickPlayer 吸引媒体——TechCrunch
+# 黑莓 QuickPlayer 吸引媒体
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/12/quickplayer-for-blackberry-attracts-media-2/>
 

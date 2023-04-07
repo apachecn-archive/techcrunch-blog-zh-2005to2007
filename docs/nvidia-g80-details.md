@@ -1,4 +1,4 @@
-# Nvidia G80 详情| TechCrunch
+# Nvidia G80 详情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/06/nvidia-g80-details/>
 

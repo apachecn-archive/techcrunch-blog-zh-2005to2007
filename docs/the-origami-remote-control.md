@@ -1,4 +1,4 @@
-# 折纸遥控器–TechCrunch
+# 折纸遥控器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/the-origami-remote-control/>
 

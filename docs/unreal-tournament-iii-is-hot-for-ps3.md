@@ -1,4 +1,4 @@
-# 虚幻锦标赛 III 是 PS3 的热门——TechCrunch
+# 虚幻锦标赛 III 是 PS3 的热门
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/unreal-tournament-iii-is-hot-for-ps3/>
 

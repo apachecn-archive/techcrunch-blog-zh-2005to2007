@@ -1,4 +1,4 @@
-# Lenmar Bat Paks 将改变你的收费方式| TechCrunch
+# Lenmar Bat Paks 将改变你的收费方式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/lenmar-bat-paks-will-change-the-way-you-charge/>
 

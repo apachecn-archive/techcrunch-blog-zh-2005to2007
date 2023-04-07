@@ -1,4 +1,4 @@
-# Feedburner 的 1 亿美元发薪日——这笔交易已经确定| TechCrunch
+# Feedburner 的 1 亿美元发薪日——这笔交易已经确定
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/23/100-million-payday-for-feedburner-this-deal-is-confirmed/>
 

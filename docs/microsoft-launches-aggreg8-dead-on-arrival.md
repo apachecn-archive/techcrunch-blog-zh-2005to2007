@@ -1,4 +1,4 @@
-# 微软发布 aggregate 8:不好 TechCrunch
+# 微软发布 aggregate 8:不好 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/13/microsoft-launches-aggreg8-dead-on-arrival/>
 

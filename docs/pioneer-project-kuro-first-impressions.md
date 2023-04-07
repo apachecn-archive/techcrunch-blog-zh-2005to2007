@@ -1,4 +1,4 @@
-# 先锋项目李书行第一印象 TechCrunch
+# 先锋项目李书行第一印象 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/pioneer-project-kuro-first-impressions/>
 

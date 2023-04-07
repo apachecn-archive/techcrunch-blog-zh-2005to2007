@@ -1,4 +1,4 @@
-# 视频、社交网络用尽——TechCrunch
+# 视频、社交网络用尽
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/08/video-social-networking-use-up/>
 

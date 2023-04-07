@@ -1,4 +1,4 @@
-# LG 更名为 Lucky-Goldstar | TechCrunch
+# LG 更名为 Lucky-Goldstar 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/01/lg-changes-name-back-to-lucky-goldstar/>
 

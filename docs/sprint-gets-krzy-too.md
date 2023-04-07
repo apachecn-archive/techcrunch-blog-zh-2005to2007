@@ -1,4 +1,4 @@
-# Sprint 也变得 KRZY——TechCrunch
+# Sprint 也变得 KRZY
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/sprint-gets-krzy-too/>
 

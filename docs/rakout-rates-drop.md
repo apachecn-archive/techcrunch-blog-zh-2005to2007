@@ -1,4 +1,4 @@
-# 退出率下降| TechCrunch
+# 退出率下降
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/rakout-rates-drop/>
 

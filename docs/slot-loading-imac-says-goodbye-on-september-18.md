@@ -1,4 +1,4 @@
-# 插槽加载 iMac 月 18 日告别| TechCrunch
+# 插槽加载 iMac 月 18 日告别
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/slot-loading-imac-says-goodbye-on-september-18/>
 

@@ -1,4 +1,4 @@
-# 首款蓝光电影/游戏组合来自…吴宇森–TechCrunch
+# 首款蓝光电影/游戏组合来自…吴宇森
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/first-blu-ray-moviegame-combo-coming-fromjohn-woo/>
 

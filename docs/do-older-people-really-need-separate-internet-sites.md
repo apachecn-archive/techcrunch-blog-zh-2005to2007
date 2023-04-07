@@ -1,4 +1,4 @@
-# 老年人真的需要单独的互联网网站吗？–TechCrunch
+# 老年人真的需要单独的互联网网站吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/10/do-older-people-really-need-separate-internet-sites/>
 

@@ -1,4 +1,4 @@
-# 马歇尔·柯克帕特里克加入 splash cast–TechCrunch
+# 马歇尔·柯克帕特里克加入 splash cast
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/10/marshall-kirkpatrick-joins-splashcast/>
 

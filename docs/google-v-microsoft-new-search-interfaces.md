@@ -1,4 +1,4 @@
-# 谷歌诉微软:新的搜索界面——TechCrunch
+# 谷歌诉微软:新的搜索界面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/28/google-v-microsoft-new-search-interfaces/>
 

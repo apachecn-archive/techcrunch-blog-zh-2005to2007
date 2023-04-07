@@ -1,4 +1,4 @@
-# 粗糙的闹钟用灯代替蜂鸣器来叫醒你——TechCrunch
+# 粗糙的闹钟用灯代替蜂鸣器来叫醒你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/18/gnarly-alarm-clock-has-light-instead-of-buzzer-to-wake-you-up/>
 

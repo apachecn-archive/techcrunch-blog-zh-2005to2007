@@ -1,4 +1,4 @@
-# 你是我的最爱！竞赛更新–TechCrunch
+# 你是我的最爱！竞赛更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/youre-my-fave-contest-update/>
 

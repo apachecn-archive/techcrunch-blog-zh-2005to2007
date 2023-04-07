@@ -1,4 +1,4 @@
-# LG 将收购 YouTube | TechCrunch
+# LG 将收购 YouTube 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/03/lg-to-get-youtube/>
 

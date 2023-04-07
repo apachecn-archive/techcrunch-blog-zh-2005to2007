@@ -1,4 +1,4 @@
-# EA Games 关闭沃灵顿工作室 TechCrunch
+# EA Games 关闭沃灵顿工作室 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/ea-games-closes-warrington-studio/>
 

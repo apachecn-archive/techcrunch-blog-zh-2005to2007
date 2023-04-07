@@ -1,4 +1,4 @@
-# 天宇让你保护你的东西安全| TechCrunch
+# 天宇让你保护你的东西安全
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/tianyu-lets-you-keep-your-stuff-safe/>
 

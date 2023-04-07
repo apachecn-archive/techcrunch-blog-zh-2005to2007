@@ -1,4 +1,4 @@
-# LG VX-8600 巧克力翻转详情–TechCrunch
+# LG VX-8600 巧克力翻转详情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/lg-vx-8600-chocolate-flip-details/>
 

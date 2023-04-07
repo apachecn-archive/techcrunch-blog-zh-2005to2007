@@ -1,4 +1,4 @@
-# 微软获得公司代码证书| TechCrunch
+# 微软获得公司代码证书
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/microsoft-gets-companys-code-certificate-pulled/>
 

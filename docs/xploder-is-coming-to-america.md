@@ -1,4 +1,4 @@
-# Xploder 即将登陆美国| TechCrunch
+# Xploder 即将登陆美国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/09/xploder-is-coming-to-america/>
 

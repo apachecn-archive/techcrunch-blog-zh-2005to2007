@@ -1,4 +1,4 @@
-# 让你的电脑看起来像 Wii | TechCrunch
+# 让你的电脑看起来像 Wii 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/make-your-pc-look-like-wii/>
 

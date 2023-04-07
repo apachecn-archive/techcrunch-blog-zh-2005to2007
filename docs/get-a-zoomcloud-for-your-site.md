@@ -1,4 +1,4 @@
-# 为你的网站获取一个 zoom cloud——TechCrunch
+# 为你的网站获取一个 zoom cloud
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/05/get-a-zoomcloud-for-your-site/>
 

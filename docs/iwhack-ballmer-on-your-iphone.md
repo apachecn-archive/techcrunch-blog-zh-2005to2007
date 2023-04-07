@@ -1,4 +1,4 @@
-# 我在你的 iPhone 上黑掉鲍尔默——TechCrunch
+# 我在你的 iPhone 上黑掉鲍尔默
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/iwhack-ballmer-on-your-iphone/>
 

@@ -1,4 +1,4 @@
-# 音频文件:电子产品之恋| TechCrunch
+# 音频文件:电子产品之恋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/the-audiofile-gadget-on-gadget-love/>
 

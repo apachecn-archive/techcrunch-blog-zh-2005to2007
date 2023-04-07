@@ -1,4 +1,4 @@
-# ZoneAlarm 安全无线路由器 Z100G:是软件让它变得更好| TechCrunch
+# ZoneAlarm 安全无线路由器 Z100G:是软件让它变得更好
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/zonealarm-secure-wireless-router-z100g-its-the-software-that-makes-it-good/>
 

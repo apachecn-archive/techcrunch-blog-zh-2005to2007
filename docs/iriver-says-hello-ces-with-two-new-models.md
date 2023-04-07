@@ -1,4 +1,4 @@
-# iRiver 用两款新机型向 CES 问好——TechCrunch
+# iRiver 用两款新机型向 CES 问好
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/iriver-says-hello-ces-with-two-new-models/>
 

@@ -1,4 +1,4 @@
-# Tornado 会移动文件，因此您不必| TechCrunch
+# Tornado 会移动文件，因此您不必
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/03/the-tornado-moves-files-so-you-dont-have-to/>
 

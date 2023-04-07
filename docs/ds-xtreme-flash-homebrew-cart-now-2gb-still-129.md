@@ -1,4 +1,4 @@
-# DS-Xtreme Flash“自制”购物车现为 2GB，仍为 129 美元| TechCrunch
+# DS-Xtreme Flash“自制”购物车现为 2GB，仍为 129 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/ds-xtreme-flash-homebrew-cart-now-2gb-still-129/>
 

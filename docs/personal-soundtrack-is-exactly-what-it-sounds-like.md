@@ -1,4 +1,4 @@
-# 个人配乐就像它听起来一样| TechCrunch
+# 个人配乐就像它听起来一样
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/personal-soundtrack-is-exactly-what-it-sounds-like/>
 

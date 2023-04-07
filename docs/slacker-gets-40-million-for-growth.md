@@ -1,4 +1,4 @@
-# Slacker 因增长获得 4000 万美元——TechCrunch
+# Slacker 因增长获得 4000 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/01/slacker-gets-40-million-for-growth/>
 

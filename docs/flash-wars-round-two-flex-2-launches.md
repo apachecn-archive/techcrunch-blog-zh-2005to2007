@@ -1,4 +1,4 @@
-# Adobe 推出 Flex 2–TechCrunch
+# Adobe 推出 Flex 2
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/28/flash-wars-round-two-flex-2-launches/>
 

@@ -1,4 +1,4 @@
-# 谷歌金融——大量 Flash 和 Ajax——TechCrunch
+# 谷歌金融——大量 Flash 和 Ajax
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/21/google-finance-lots-of-flash-ajax/>
 

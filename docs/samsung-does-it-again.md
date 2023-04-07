@@ -1,4 +1,4 @@
-# 三星又来了——TechCrunch
+# 三星又来了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/27/samsung-does-it-again/>
 

@@ -1,4 +1,4 @@
-# 星际争霸 2 来了！！！–TechCrunch
+# 星际争霸 2 来了！！！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/20/starcraft-2-is-here/>
 

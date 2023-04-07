@@ -1,4 +1,4 @@
-# 使用 Contactify | TechCrunch 创建简单的联系人表单
+# 使用 Contactify  创建简单的联系人表单
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/03/create-a-simple-contact-form-with-contactify/>
 

@@ -1,4 +1,4 @@
-# WeSmirch 自动挖掘污垢——TechCrunch
+# WeSmirch 自动挖掘污垢
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/13/wesmirch-automatically-digs-dirt/>
 

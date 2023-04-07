@@ -1,4 +1,4 @@
-# Wablet 将震撼网络即时通讯——TechCrunch
+# Wablet 将震撼网络即时通讯
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/23/wablets-going-to-rock-web-im/>
 

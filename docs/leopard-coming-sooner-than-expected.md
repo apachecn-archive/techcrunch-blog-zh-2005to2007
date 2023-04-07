@@ -1,4 +1,4 @@
-# 豹来的比预期的早？–TechCrunch
+# 豹来的比预期的早？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/leopard-coming-sooner-than-expected/>
 

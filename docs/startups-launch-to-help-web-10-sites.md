@@ -1,4 +1,4 @@
-# 初创公司推出帮助 Web 1.0 网站 TechCrunch
+# 初创公司推出帮助 Web 1.0 网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/07/startups-launch-to-help-web-10-sites/>
 

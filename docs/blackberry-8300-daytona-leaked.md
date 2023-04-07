@@ -1,4 +1,4 @@
-# 黑莓 8300 Daytona 泄露| TechCrunch
+# 黑莓 8300 Daytona 泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/blackberry-8300-daytona-leaked/>
 

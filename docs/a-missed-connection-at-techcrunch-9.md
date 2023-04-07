@@ -1,4 +1,4 @@
-# TechCrunch 9 | TechCrunch 错过的连接
+# TechCrunch 9  错过的连接
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/31/a-missed-connection-at-techcrunch-9/>
 

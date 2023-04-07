@@ -1,4 +1,4 @@
-# Match.com 扩展移动约会服务——TechCrunch
+# Match.com 扩展移动约会服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/matchcom-expands-mobile-dating-service/>
 

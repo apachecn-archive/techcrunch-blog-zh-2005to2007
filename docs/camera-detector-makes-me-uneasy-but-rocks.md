@@ -1,4 +1,4 @@
-# 相机探测器让我感到不安，但岩石 TechCrunch
+# 相机探测器让我感到不安，但岩石 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/camera-detector-makes-me-uneasy-but-rocks/>
 

@@ -1,4 +1,4 @@
-# SanDisk 将 MicroSDHC 填满——TechCrunch
+# SanDisk 将 MicroSDHC 填满
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/sandisk-fills-microsdhc-to-the-brim/>
 

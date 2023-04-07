@@ -1,4 +1,4 @@
-# 高分辨率光环 3 Xbox 360 图片| TechCrunch
+# 高分辨率光环 3 Xbox 360 图片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/high-rez-halo-3-xbox-360-pics/>
 

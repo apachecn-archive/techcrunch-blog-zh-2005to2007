@@ -1,4 +1,4 @@
-# cingular/美国电话电报公司最终放弃了摩托罗拉 KRZR——TechCrunch
+# cingular/美国电话电报公司最终放弃了摩托罗拉 KRZR
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/cingularatt-finally-drops-motorola-krzr/>
 

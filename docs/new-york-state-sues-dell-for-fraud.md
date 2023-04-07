@@ -1,4 +1,4 @@
-# 纽约州起诉戴尔欺诈——TechCrunch
+# 纽约州起诉戴尔欺诈
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/new-york-state-sues-dell-for-fraud/>
 

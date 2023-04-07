@@ -1,4 +1,4 @@
-# Zinadoo 很好做。–TechCrunch
+# Zinadoo 很好做。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/02/zinadoo-is-easy-to-do/>
 

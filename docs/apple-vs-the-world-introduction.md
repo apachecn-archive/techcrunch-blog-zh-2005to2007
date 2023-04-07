@@ -1,4 +1,4 @@
-# 苹果与世界:简介——TechCrunch
+# 苹果与世界:简介
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/apple-vs-the-world-introduction/>
 

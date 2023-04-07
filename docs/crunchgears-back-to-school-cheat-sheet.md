@@ -1,4 +1,4 @@
-# CrunchGear 返校小抄——TechCrunch
+# CrunchGear 返校小抄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/crunchgears-back-to-school-cheat-sheet/>
 

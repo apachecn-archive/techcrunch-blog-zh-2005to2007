@@ -1,4 +1,4 @@
-# 单枪匹马让美国电话电报公司继续经营——TechCrunch
+# 单枪匹马让美国电话电报公司继续经营
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/single-handedly-keeping-att-in-business/>
 

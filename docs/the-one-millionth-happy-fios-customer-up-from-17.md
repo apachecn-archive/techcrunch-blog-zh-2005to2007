@@ -1,4 +1,4 @@
-# 第一百万个快乐的 FiOS 顾客，从 17 个上升到 TechCrunch
+# 第一百万个快乐的 FiOS 顾客，从 17 个上升到 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/the-one-millionth-happy-fios-customer-up-from-17/>
 

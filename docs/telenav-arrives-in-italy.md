@@ -1,4 +1,4 @@
-# TeleNav 抵达意大利| TechCrunch
+# TeleNav 抵达意大利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/telenav-arrives-in-italy/>
 

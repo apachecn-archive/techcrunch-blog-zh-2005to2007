@@ -1,4 +1,4 @@
-# CrunchGear 说醒醒| TechCrunch
+# CrunchGear 说醒醒
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/10/crunchgear-says-wake-up/>
 

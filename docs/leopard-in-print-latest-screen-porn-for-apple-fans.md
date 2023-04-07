@@ -1,4 +1,4 @@
-# 豹纹:苹果粉丝的最新屏幕色情——TechCrunch
+# 豹纹:苹果粉丝的最新屏幕色情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/leopard-in-print-latest-screen-porn-for-apple-fans/>
 

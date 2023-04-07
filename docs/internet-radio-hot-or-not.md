@@ -1,4 +1,4 @@
-# 网络电台:热不热？TechCrunch
+# 网络电台:热不热？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/internet-radio-hot-or-not/>
 

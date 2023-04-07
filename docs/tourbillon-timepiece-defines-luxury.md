@@ -1,4 +1,4 @@
-# 陀飞轮腕表定义奢华——TechCrunch
+# 陀飞轮腕表定义奢华
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/01/tourbillon-timepiece-defines-luxury/>
 

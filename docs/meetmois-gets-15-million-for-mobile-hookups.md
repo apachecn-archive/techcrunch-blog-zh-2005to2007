@@ -1,4 +1,4 @@
-# MeetMoi 的移动连接获得 150 万美元| TechCrunch
+# MeetMoi 的移动连接获得 150 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/06/meetmois-gets-15-million-for-mobile-hookups/>
 

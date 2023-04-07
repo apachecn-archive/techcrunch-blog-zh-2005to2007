@@ -1,4 +1,4 @@
-# 你能要求的所有豹子——TechCrunch
+# 你能要求的所有豹子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/24/all-the-leopard-you-could-ask-for/>
 

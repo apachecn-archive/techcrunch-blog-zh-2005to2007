@@ -1,4 +1,4 @@
-# Web 2.0 =蹩脚的、不可持续的网站——TechCrunch
+# Web 2.0 =蹩脚的、不可持续的网站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/14/web-20-crappy-unsuable-web-sites/>
 

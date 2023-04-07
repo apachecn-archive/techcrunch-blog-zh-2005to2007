@@ -1,4 +1,4 @@
-# 国会提出数字合理使用法案 DRM 的终结？–TechCrunch
+# 国会提出数字合理使用法案 DRM 的终结？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/28/congress-introduces-digital-fair-use-bill-an-end-to-drm/>
 

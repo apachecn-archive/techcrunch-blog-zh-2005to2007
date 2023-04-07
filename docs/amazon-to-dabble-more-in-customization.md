@@ -1,4 +1,4 @@
-# 亚马逊将涉足更多定制业务？TechCrunch
+# 亚马逊将涉足更多定制业务？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/11/amazon-to-dabble-more-in-customization/>
 

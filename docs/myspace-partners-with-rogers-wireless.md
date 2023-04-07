@@ -1,4 +1,4 @@
-# MySpace 与 Rogers Wireless 合作| TechCrunch
+# MySpace 与 Rogers Wireless 合作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/myspace-partners-with-rogers-wireless/>
 

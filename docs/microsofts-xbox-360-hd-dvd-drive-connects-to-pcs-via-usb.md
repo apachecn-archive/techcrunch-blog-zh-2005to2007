@@ -1,4 +1,4 @@
-# 微软的 Xbox 360 HD DVD 硬盘通过 USB | TechCrunch 连接到电脑
+# 微软的 Xbox 360 HD DVD 硬盘通过 USB  连接到电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/microsofts-xbox-360-hd-dvd-drive-connects-to-pcs-via-usb/>
 

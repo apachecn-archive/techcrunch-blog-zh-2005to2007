@@ -1,4 +1,4 @@
-# 希捷将为 iPods 提供 60GB 和 120GB 驱动器？TechCrunch
+# 希捷将为 iPods 提供 60GB 和 120GB 驱动器？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/seagate-to-supply-60gb-and-120gb-drives-for-ipods/>
 

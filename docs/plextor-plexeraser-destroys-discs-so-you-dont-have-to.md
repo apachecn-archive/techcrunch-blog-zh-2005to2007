@@ -1,4 +1,4 @@
-# Plextor PlexEraser 可销毁光盘，因此您不必| TechCrunch
+# Plextor PlexEraser 可销毁光盘，因此您不必
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/plextor-plexeraser-destroys-discs-so-you-dont-have-to/>
 

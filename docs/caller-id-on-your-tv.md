@@ -1,4 +1,4 @@
-# 电视上的来电显示——TechCrunch
+# 电视上的来电显示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/caller-id-on-your-tv/>
 

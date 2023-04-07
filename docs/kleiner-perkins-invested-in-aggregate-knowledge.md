@@ -1,4 +1,4 @@
-# 凯鹏华盈投资聚合知识——TechCrunch
+# 凯鹏华盈投资聚合知识
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/02/kleiner-perkins-invested-in-aggregate-knowledge/>
 

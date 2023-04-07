@@ -1,4 +1,4 @@
-# Gamestop 的劣质客户服务——TechCrunch
+# Gamestop 的劣质客户服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/gamestops-shoddy-customer-service/>
 

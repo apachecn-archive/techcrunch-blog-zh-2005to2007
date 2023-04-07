@@ -1,4 +1,4 @@
-# Skype 以 41 亿美元出售给易贝 TechCrunch
+# Skype 以 41 亿美元出售给易贝 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/12/skype-sells-to-ebay-for-41-billion/>
 

@@ -1,4 +1,4 @@
-# Timex TX 730 动手操作–TechCrunch
+# Timex TX 730 动手操作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/timex-tx-730-hands-on/>
 

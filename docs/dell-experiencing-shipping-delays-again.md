@@ -1,4 +1,4 @@
-# 戴尔再次遭遇发货延迟——TechCrunch
+# 戴尔再次遭遇发货延迟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/10/dell-experiencing-shipping-delays-again/>
 

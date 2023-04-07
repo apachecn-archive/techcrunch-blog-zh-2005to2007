@@ -1,4 +1,4 @@
-# 在尼日尔买棵树 TechCrunch
+# 在尼日尔买棵树 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/16/buy-a-tree-in-niger/>
 

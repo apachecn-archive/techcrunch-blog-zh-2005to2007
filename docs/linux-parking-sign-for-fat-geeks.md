@@ -1,4 +1,4 @@
-# 肥胖极客的 Linux 停车标志——TechCrunch
+# 肥胖极客的 Linux 停车标志
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/21/linux-parking-sign-for-fat-geeks/>
 

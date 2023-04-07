@@ -1,4 +1,4 @@
-# FCC 文件披露了新的 T-Mobile @Home 路由器——TechCrunch
+# FCC 文件披露了新的 T-Mobile @Home 路由器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/fcc-filing-reveals-new-t-mobile-home-router/>
 

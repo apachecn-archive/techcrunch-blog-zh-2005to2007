@@ -1,4 +1,4 @@
-# 谷歌和 Orange Readying GPhone？–TechCrunch
+# 谷歌和 Orange Readying GPhone？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/17/google-and-orange-readying-gphone/>
 

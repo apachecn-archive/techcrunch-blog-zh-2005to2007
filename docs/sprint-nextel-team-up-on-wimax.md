@@ -1,4 +1,4 @@
-# Sprint Nextel 和英特尔联手开发 WiMax–TechCrunch
+# Sprint Nextel 和英特尔联手开发 WiMax
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/09/sprint-nextel-team-up-on-wimax/>
 

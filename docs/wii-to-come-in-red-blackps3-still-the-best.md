@@ -1,4 +1,4 @@
-# Wii 将推出红色和黑色——PS3 仍然是最好的——TechCrunch
+# Wii 将推出红色和黑色——PS3 仍然是最好的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/wii-to-come-in-red-blackps3-still-the-best/>
 

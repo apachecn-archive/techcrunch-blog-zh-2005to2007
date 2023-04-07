@@ -1,4 +1,4 @@
-# 微软 Live 拿下纽约 3D——TechCrunch
+# 微软 Live 拿下纽约 3D
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/28/microsoft-live-takes-new-york-3d/>
 

@@ -1,4 +1,4 @@
-# 氦:点击比较其他人的热门写作——TechCrunch
+# 氦:点击比较其他人的热门写作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/11/helium-click-to-compare-other-peoples-topical-writing/>
 

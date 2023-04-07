@@ -1,4 +1,4 @@
-# Maingear Prysma 金字塔形电脑–TechCrunch
+# Maingear Prysma 金字塔形电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/maingear-prysma-pyramid-shaped-pcs/>
 

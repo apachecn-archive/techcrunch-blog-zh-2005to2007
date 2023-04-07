@@ -1,4 +1,4 @@
-# 安桥推出 D-TK10 吉他扬声器——TechCrunch
+# 安桥推出 D-TK10 吉他扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/onkyo-introduces-d-tk10-guitar-speaker/>
 

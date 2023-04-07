@@ -1,4 +1,4 @@
-# 假日买家指南:游戏笔记本——TechCrunch
+# 假日买家指南:游戏笔记本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/holiday-buyers-guide-gaming-notebooks/>
 

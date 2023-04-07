@@ -1,4 +1,4 @@
-# 简介:谷歌地球| TechCrunch
+# 简介:谷歌地球
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/02/profile-google-earth/>
 

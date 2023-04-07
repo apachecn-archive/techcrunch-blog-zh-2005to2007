@@ -1,4 +1,4 @@
-# 微软称 iPhone 与商业用途“无关”——TechCrunch
+# 微软称 iPhone 与商业用途“无关”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/microsoft-calls-iphone-irrelevant-for-business-use/>
 

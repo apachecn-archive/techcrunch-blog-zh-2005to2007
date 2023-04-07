@@ -1,4 +1,4 @@
-# Zudeo 的合法 P2P 在 1 月份达到 100 万 Uniques——TechCrunch
+# Zudeo 的合法 P2P 在 1 月份达到 100 万 Uniques
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/16/zudeos-legal-p2p-hit-1m-uniques-in-january/>
 

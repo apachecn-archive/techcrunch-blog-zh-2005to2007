@@ -1,4 +1,4 @@
-# Wii | TechCrunch 上我们自己的 Seth Porges
+# Wii  上我们自己的 Seth Porges
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/19/our-own-seth-porges-on-the-wii/>
 

@@ -1,4 +1,4 @@
-# 音频文件:天堂般的音频设备——TechCrunch
+# 音频文件:天堂般的音频设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/the-audiofile-heavenly-audio-gear/>
 

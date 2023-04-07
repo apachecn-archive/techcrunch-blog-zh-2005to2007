@@ -1,4 +1,4 @@
-# 时速 120 英里的电动汽车| TechCrunch
+# 时速 120 英里的电动汽车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/120mph-electric-car/>
 

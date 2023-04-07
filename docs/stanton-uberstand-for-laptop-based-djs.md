@@ -1,4 +1,4 @@
-# 适用于笔记本电脑的 DJ 的斯坦顿·尤伯斯特| TechCrunch
+# 适用于笔记本电脑的 DJ 的斯坦顿·尤伯斯特
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/stanton-uberstand-for-laptop-based-djs/>
 

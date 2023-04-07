@@ -1,4 +1,4 @@
-# 又是谷歌平板电话——TechCrunch
+# 又是谷歌平板电话
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/02/google-flatlines-again/>
 

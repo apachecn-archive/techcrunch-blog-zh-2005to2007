@@ -1,4 +1,4 @@
-# 谷歌组建团队寻求征服中国——TechCrunch
+# 谷歌组建团队寻求征服中国
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/18/google-builds-team-in-quest-to-conquer-china/>
 

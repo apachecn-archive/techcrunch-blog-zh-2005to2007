@@ -1,4 +1,4 @@
-# AOL 提供定制手机| TechCrunch
+# AOL 提供定制手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/aol-offers-customized-mobile/>
 

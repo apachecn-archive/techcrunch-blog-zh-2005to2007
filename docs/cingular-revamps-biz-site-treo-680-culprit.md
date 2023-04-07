@@ -1,4 +1,4 @@
-# Cingular 改版商业网站:Treo 680 的罪魁祸首？–TechCrunch
+# Cingular 改版商业网站:Treo 680 的罪魁祸首？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/05/cingular-revamps-biz-site-treo-680-culprit/>
 

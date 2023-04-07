@@ -1,4 +1,4 @@
-# 原创信号:小工具网站丰富——TechCrunch
+# 原创信号:小工具网站丰富
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/originalsignal-gadget-sites-galore/>
 

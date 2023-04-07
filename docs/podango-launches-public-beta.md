@@ -1,4 +1,4 @@
-# Podango 发布公开测试版 TechCrunch
+# Podango 发布公开测试版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/13/podango-launches-public-beta/>
 

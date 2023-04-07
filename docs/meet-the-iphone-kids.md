@@ -1,4 +1,4 @@
-# 认识 iPhone 儿童| TechCrunch
+# 认识 iPhone 儿童
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/meet-the-iphone-kids/>
 

@@ -1,4 +1,4 @@
-# 明基 FP241W 液晶显示器，现配备 HDMI | TechCrunch
+# 明基 FP241W 液晶显示器，现配备 HDMI 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/benq-fp241w-lcd-now-with-hdmi/>
 

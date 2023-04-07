@@ -1,4 +1,4 @@
-# 将你的拍照手机变成数码扫描仪——TechCrunch
+# 将你的拍照手机变成数码扫描仪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/turn-your-camera-phone-into-a-digital-scanner/>
 

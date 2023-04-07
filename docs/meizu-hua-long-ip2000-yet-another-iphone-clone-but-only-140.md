@@ -1,4 +1,4 @@
-# 魅族华龙 IP2000:又一个 iPhone 克隆版，但仅售 140 美元——TechCrunch
+# 魅族华龙 IP2000:又一个 iPhone 克隆版，但仅售 140 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/meizu-hua-long-ip2000-yet-another-iphone-clone-but-only-140/>
 

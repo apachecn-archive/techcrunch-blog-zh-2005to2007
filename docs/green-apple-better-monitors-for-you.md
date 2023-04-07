@@ -1,4 +1,4 @@
-# 青苹果=更好的显示器| TechCrunch
+# 青苹果=更好的显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/green-apple-better-monitors-for-you/>
 

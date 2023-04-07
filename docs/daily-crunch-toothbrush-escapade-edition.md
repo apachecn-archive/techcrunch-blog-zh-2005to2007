@@ -1,4 +1,4 @@
-# 每日危机:牙刷冒险版| TechCrunch
+# 每日危机:牙刷冒险版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/12/daily-crunch-toothbrush-escapade-edition/>
 

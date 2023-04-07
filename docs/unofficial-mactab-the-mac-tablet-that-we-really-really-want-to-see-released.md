@@ -1,4 +1,4 @@
-# 非官方的 MacTab:我们非常非常希望看到发布的 Mac 平板电脑| TechCrunch
+# 非官方的 MacTab:我们非常非常希望看到发布的 Mac 平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/unofficial-mactab-the-mac-tablet-that-we-really-really-want-to-see-released/>
 

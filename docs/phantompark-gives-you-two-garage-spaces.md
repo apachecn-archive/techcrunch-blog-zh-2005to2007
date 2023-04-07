@@ -1,4 +1,4 @@
-# PhantomPark 给你两个车库空间| TechCrunch
+# PhantomPark 给你两个车库空间
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/phantompark-gives-you-two-garage-spaces/>
 

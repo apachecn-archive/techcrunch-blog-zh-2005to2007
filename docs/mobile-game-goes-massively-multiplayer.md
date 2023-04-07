@@ -1,4 +1,4 @@
-# 手机游戏走向大型多人游戏| TechCrunch
+# 手机游戏走向大型多人游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/10/mobile-game-goes-massively-multiplayer/>
 

@@ -1,4 +1,4 @@
-# USB 天堂的黑仔小丑| TechCrunch
+# USB 天堂的黑仔小丑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/killer-clowns-from-usb-heaven/>
 

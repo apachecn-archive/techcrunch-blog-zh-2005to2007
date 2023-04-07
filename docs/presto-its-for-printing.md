@@ -1,4 +1,4 @@
-# 变戏法:这是为了印刷！TechCrunch
+# 变戏法:这是为了印刷！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/28/presto-its-for-printing/>
 

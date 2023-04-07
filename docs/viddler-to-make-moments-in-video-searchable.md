@@ -1,4 +1,4 @@
-# Viddler 让视频中的瞬间变得可搜索 TechCrunch
+# Viddler 让视频中的瞬间变得可搜索 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/09/viddler-to-make-moments-in-video-searchable/>
 

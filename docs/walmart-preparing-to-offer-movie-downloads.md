@@ -1,4 +1,4 @@
-# 沃尔玛准备提供电影下载 TechCrunch
+# 沃尔玛准备提供电影下载 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/15/walmart-preparing-to-offer-movie-downloads/>
 

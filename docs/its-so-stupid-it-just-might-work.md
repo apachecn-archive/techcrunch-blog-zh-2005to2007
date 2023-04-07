@@ -1,4 +1,4 @@
-# 太蠢了，可能会有用！TechCrunch
+# 太蠢了，可能会有用！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/24/its-so-stupid-it-just-might-work/>
 

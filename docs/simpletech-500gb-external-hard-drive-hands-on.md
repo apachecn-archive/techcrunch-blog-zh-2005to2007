@@ -1,4 +1,4 @@
-# SimpleTech 500GB 外置硬盘动手–TechCrunch
+# SimpleTech 500GB 外置硬盘动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/11/simpletech-500gb-external-hard-drive-hands-on/>
 

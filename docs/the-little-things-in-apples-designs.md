@@ -1,4 +1,4 @@
-# 苹果设计中的小东西| TechCrunch
+# 苹果设计中的小东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/the-little-things-in-apples-designs/>
 

@@ -1,4 +1,4 @@
-# 脸书的真实世界 TechCrunch
+# 脸书的真实世界 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/truemors-for-facebook/>
 

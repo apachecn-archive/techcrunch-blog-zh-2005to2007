@@ -1,4 +1,4 @@
-# 索尼将涉足手机游戏——TechCrunch
+# 索尼将涉足手机游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/01/sony-to-get-in-on-the-mobile-game/>
 

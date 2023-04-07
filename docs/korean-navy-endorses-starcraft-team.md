@@ -1,4 +1,4 @@
-# 韩国海军支持星际战队| TechCrunch
+# 韩国海军支持星际战队
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/korean-navy-endorses-starcraft-team/>
 

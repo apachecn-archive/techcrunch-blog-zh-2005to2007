@@ -1,4 +1,4 @@
-# 纽约的机器人停车库——TechCrunch
+# 纽约的机器人停车库
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/31/nycs-robotic-parking-garage/>
 

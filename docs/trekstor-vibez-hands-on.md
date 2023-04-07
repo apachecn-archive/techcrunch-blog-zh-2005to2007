@@ -1,4 +1,4 @@
-# TrekStor Vibez 动手| TechCrunch
+# TrekStor Vibez 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/trekstor-vibez-hands-on/>
 

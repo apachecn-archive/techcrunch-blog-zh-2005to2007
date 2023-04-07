@@ -1,4 +1,4 @@
-# 透明聚碳酸酯车轮| TechCrunch
+# 透明聚碳酸酯车轮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/clear-polycarbonate-wheels/>
 

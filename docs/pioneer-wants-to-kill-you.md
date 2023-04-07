@@ -1,4 +1,4 @@
-# 先锋想杀了你——TechCrunch
+# 先锋想杀了你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/pioneer-wants-to-kill-you/>
 

@@ -1,4 +1,4 @@
-# OpenDNS:最酷的捷径——TechCrunch
+# OpenDNS:最酷的捷径
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/23/opendns-the-ultimate-in-short-cut-coolness/>
 

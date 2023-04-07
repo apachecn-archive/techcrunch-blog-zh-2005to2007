@@ -1,4 +1,4 @@
-# In2Games 融合控制器–TechCrunch
+# In2Games 融合控制器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/in2games-fusion-controller/>
 

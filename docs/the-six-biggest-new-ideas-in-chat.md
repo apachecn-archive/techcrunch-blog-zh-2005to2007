@@ -1,4 +1,4 @@
-# 聊天中最大的六个新想法——TechCrunch
+# 聊天中最大的六个新想法
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/24/the-six-biggest-new-ideas-in-chat/>
 

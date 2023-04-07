@@ -1,4 +1,4 @@
-# 更新:TechCrunch Meetup 明天| TechCrunch
+# 更新:TechCrunch Meetup 明天
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/21/update-techcrunch-meetup-thursday/>
 

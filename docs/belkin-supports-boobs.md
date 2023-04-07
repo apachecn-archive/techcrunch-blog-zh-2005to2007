@@ -1,4 +1,4 @@
-# 贝尔金支持咪咪——TechCrunch
+# 贝尔金支持咪咪
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/belkin-supports-boobs/>
 

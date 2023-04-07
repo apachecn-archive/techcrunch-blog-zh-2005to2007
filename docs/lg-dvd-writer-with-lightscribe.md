@@ -1,4 +1,4 @@
-# LG DVD Writer with LightScribe | TechCrunch
+# LG DVD Writer with LightScribe 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/30/lg-dvd-writer-with-lightscribe/>
 

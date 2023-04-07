@@ -1,4 +1,4 @@
-# 专利猴:诺基亚试图超越 iPod 滚轮？TechCrunch
+# 专利猴:诺基亚试图超越 iPod 滚轮？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/patent-monkey-nokia-trying-to-one-up-ipod-scroll-wheel/>
 

@@ -1,4 +1,4 @@
-# 玩具北极星潜艇揭秘——TechCrunch
+# 玩具北极星潜艇揭秘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/the-toy-polaris-sub-revealed/>
 

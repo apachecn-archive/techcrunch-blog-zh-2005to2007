@@ -1,4 +1,4 @@
-# 威瑞森 6 月短信量超过 100 亿条——TechCrunch
+# 威瑞森 6 月短信量超过 100 亿条
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/verizon-exceeds-10-billion-text-messages-in-june/>
 

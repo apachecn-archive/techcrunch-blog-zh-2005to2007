@@ -1,4 +1,4 @@
-# 高端音频的案例:超级音频 CD TechCrunch
+# 高端音频的案例:超级音频 CD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/the-case-for-high-end-audio-the-super-audio-cd/>
 

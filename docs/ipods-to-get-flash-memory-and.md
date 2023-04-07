@@ -1,4 +1,4 @@
-# iPods 将获得闪存和… | TechCrunch
+# iPods 将获得闪存和… 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/08/ipods-to-get-flash-memory-and/>
 

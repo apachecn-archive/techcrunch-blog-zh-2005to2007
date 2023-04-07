@@ -1,4 +1,4 @@
-# 关于 Leopard | TechCrunch 你需要知道的一切
+# 关于 Leopard  你需要知道的一切
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/all-you-need-to-know-about-leopard/>
 

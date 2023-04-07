@@ -1,4 +1,4 @@
-# 新的泛泰 C150 手机今天上市| TechCrunch
+# 新的泛泰 C150 手机今天上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/25/new-pantech-c150-mobile-phone-available-today/>
 

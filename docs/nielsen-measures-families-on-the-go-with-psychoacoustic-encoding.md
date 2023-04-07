@@ -1,4 +1,4 @@
-# 尼尔森用心理声学编码测量移动家庭| TechCrunch
+# 尼尔森用心理声学编码测量移动家庭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/nielsen-measures-families-on-the-go-with-psychoacoustic-encoding/>
 

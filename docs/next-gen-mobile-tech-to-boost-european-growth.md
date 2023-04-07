@@ -1,4 +1,4 @@
-# 推动欧洲增长的下一代移动技术——TechCrunch
+# 推动欧洲增长的下一代移动技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/next-gen-mobile-tech-to-boost-european-growth/>
 

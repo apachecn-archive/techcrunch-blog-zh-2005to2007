@@ -1,4 +1,4 @@
-# 苹果将于 7 月 23 日举办 iPhone 研讨会 TechCrunch
+# 苹果将于 7 月 23 日举办 iPhone 研讨会 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/18/apple-to-hold-iphone-workshop-on-july-23/>
 

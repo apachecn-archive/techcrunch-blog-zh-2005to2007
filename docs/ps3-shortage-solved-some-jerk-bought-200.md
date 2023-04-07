@@ -1,4 +1,4 @@
-# PS3 短缺问题解决:某个混蛋买了 200 个| TechCrunch
+# PS3 短缺问题解决:某个混蛋买了 200 个
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/19/ps3-shortage-solved-some-jerk-bought-200/>
 

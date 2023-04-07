@@ -1,4 +1,4 @@
-# 粉色印章吊坠真的是一款 Tazer | TechCrunch
+# 粉色印章吊坠真的是一款 Tazer 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/pink-seal-pendant-really-a-tazer/>
 

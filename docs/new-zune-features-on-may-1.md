@@ -1,4 +1,4 @@
-# 5 月 1 日 Zune 新功能？TechCrunch
+# 5 月 1 日 Zune 新功能？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/new-zune-features-on-may-1/>
 

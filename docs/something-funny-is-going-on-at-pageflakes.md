@@ -1,4 +1,4 @@
-# page flakes——TechCrunch 上发生了一些有趣的事情
+# page flakes 上发生了一些有趣的事情
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/26/something-funny-is-going-on-at-pageflakes>
 

@@ -1,4 +1,4 @@
-# 聚合物视觉 Readius | TechCrunch
+# 聚合物视觉 Readius 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/polymer-vision-readius/>
 

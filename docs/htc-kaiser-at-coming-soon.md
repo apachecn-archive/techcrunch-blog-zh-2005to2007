@@ -1,4 +1,4 @@
-# HTC Kaiser =美国电话电报公司倾斜；即将推出——TechCrunch
+# HTC Kaiser =美国电话电报公司倾斜；即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/htc-kaiser-at-coming-soon/>
 

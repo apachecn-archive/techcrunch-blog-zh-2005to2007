@@ -1,4 +1,4 @@
-# SalesGenius 发布:追踪销售线索——TechCrunch
+# SalesGenius 发布:追踪销售线索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/30/salesgenius-launches-track-sales-leads/>
 

@@ -1,4 +1,4 @@
-# 我对阅读清单的看法——TechCrunch
+# 我对阅读清单的看法
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/16/my-thoughts-on-reading-lists/>
 

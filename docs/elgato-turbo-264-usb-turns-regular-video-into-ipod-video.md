@@ -1,4 +1,4 @@
-# Elgato Turbo 264 USB 将普通视频转换为 iPod 视频——TechCrunch
+# Elgato Turbo 264 USB 将普通视频转换为 iPod 视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/02/elgato-turbo-264-usb-turns-regular-video-into-ipod-video/>
 

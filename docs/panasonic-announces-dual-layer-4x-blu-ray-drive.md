@@ -1,4 +1,4 @@
-# 松下发布双层 4X 蓝光光驱| TechCrunch
+# 松下发布双层 4X 蓝光光驱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/panasonic-announces-dual-layer-4x-blu-ray-drive/>
 

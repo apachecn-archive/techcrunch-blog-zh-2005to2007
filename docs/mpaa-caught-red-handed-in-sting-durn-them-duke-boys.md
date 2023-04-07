@@ -1,4 +1,4 @@
-# 美国电影协会当场抓住斯汀:该死的杜克小子！TechCrunch
+# 美国电影协会当场抓住斯汀:该死的杜克小子！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/mpaa-caught-red-handed-in-sting-durn-them-duke-boys/>
 

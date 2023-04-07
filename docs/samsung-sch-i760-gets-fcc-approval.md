@@ -1,4 +1,4 @@
-# 三星 SCH-i760 获得 FCC 批准| TechCrunch
+# 三星 SCH-i760 获得 FCC 批准
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/samsung-sch-i760-gets-fcc-approval/>
 

@@ -1,4 +1,4 @@
-# Zune 偷了 iPod Shuffle 的设计？TechCrunch
+# Zune 偷了 iPod Shuffle 的设计？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/zune-stole-ipod-shuffle-design/>
 

@@ -1,4 +1,4 @@
-# 8 号球在侧袋| TechCrunch
+# 8 号球在侧袋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/eight-ball-in-the-side-pocket/>
 

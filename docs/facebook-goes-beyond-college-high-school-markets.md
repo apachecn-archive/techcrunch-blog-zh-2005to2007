@@ -1,4 +1,4 @@
-# 脸书超越大学、高中市场 TechCrunch
+# 脸书超越大学、高中市场 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/26/facebook-goes-beyond-college-high-school-markets/>
 

@@ -1,4 +1,4 @@
-# Brando 的微型便携式蓝牙键盘——TechCrunch
+# Brando 的微型便携式蓝牙键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/brandos-tiny-portable-bluetooth-keyboard/>
 

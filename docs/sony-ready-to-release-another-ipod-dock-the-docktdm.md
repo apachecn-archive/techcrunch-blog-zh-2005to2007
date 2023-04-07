@@ -1,4 +1,4 @@
-# 索尼准备发布另一款 iPod 基座:DockTDM | TechCrunch
+# 索尼准备发布另一款 iPod 基座:DockTDM 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/sony-ready-to-release-another-ipod-dock-the-docktdm/>
 

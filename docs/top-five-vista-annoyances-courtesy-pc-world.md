@@ -1,4 +1,4 @@
-# 电脑世界| TechCrunch 提供的五大 Vista 烦恼
+# 电脑世界 提供的五大 Vista 烦恼
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/top-five-vista-annoyances-courtesy-pc-world/>
 

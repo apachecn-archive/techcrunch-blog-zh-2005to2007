@@ -1,4 +1,4 @@
-# 雅虎关闭拍卖-本月第二次向 DeadPool 提供服务 TechCrunch
+# 雅虎关闭拍卖-本月第二次向 DeadPool 提供服务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/09/yahoo-shutting-down-auctions-second-service-to-deadpool-this-month/>
 

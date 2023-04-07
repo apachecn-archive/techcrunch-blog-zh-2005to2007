@@ -1,4 +1,4 @@
-# 乔布斯在 Zune 上对《新闻周刊》说:“什么，让我担心？”–TechCrunch
+# 乔布斯在 Zune 上对《新闻周刊》说:“什么，让我担心？”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/jobs-to-newsweek-on-zune-what-me-worry/>
 

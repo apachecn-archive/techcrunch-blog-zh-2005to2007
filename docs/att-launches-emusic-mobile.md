@@ -1,4 +1,4 @@
-# 美国电话电报公司推出 eMusic 手机——TechCrunch
+# 美国电话电报公司推出 eMusic 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/att-launches-emusic-mobile/>
 

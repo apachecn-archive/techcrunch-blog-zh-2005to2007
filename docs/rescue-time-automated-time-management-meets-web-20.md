@@ -1,4 +1,4 @@
-# 救援时间:自动化时间管理符合 Web 2.0 TechCrunch
+# 救援时间:自动化时间管理符合 Web 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/04/rescue-time-automated-time-management-meets-web-20/>
 

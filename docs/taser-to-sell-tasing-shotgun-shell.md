@@ -1,4 +1,4 @@
-# 出售泰瑟枪猎枪壳| TechCrunch
+# 出售泰瑟枪猎枪壳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/taser-to-sell-tasing-shotgun-shell/>
 

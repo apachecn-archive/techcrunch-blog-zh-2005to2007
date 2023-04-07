@@ -1,4 +1,4 @@
-# 三星发布第二代蓝光播放器——TechCrunch
+# 三星发布第二代蓝光播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/08/samsung-releases-2-gen-blu-ray/>
 

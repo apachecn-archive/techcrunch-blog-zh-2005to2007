@@ -1,4 +1,4 @@
-# 索尼灵活的全彩色有机发光二极管显示器——TechCrunch
+# 索尼灵活的全彩色有机发光二极管显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/sonys-flexible-full-color-oled-display/>
 

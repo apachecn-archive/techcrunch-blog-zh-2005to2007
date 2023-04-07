@@ -1,4 +1,4 @@
-# 健身和互联网的力量——TechCrunch
+# 健身和互联网的力量
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/22/fitness-and-the-power-of-the-internet/>
 

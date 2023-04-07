@@ -1,4 +1,4 @@
-# 新闻集团在 ROO 交易中避开福克斯互动 TechCrunch
+# 新闻集团在 ROO 交易中避开福克斯互动 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/29/news-corp-shuns-fox-interactive-group-in-roo-deal/>
 

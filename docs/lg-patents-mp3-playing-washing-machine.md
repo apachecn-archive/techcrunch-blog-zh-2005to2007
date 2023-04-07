@@ -1,4 +1,4 @@
-# LG 专利 MP3 播放洗衣机——TechCrunch
+# LG 专利 MP3 播放洗衣机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/lg-patents-mp3-playing-washing-machine/>
 

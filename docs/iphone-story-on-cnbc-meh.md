@@ -1,4 +1,4 @@
-# 美国消费者新闻与商业频道的 iPhone 故事:Meh–TechCrunch
+# 美国消费者新闻与商业频道的 iPhone 故事:Meh
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/19/iphone-story-on-cnbc-meh/>
 

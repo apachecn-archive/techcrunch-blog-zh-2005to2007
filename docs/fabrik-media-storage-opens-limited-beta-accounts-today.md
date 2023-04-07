@@ -1,4 +1,4 @@
-# Fabrik media storage 今天开放有限的测试版帐户——TechCrunch
+# Fabrik media storage 今天开放有限的测试版帐户
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/10/fabrik-media-storage-opens-limited-beta-accounts-today/>
 

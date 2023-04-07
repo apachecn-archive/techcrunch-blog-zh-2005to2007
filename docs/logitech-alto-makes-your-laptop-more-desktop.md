@@ -1,4 +1,4 @@
-# 罗技奥拓让您的笔记本电脑更加桌面化| TechCrunch
+# 罗技奥拓让您的笔记本电脑更加桌面化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/logitech-alto-makes-your-laptop-more-desktop/>
 

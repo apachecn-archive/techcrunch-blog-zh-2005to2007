@@ -1,4 +1,4 @@
-# 用你的盗版下载创造美丽的 3D 景观——TechCrunch
+# 用你的盗版下载创造美丽的 3D 景观
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/create-beautiful-3d-landscapes-with-your-pirated-downloads/>
 

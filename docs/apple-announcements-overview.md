@@ -1,4 +1,4 @@
-# 苹果公告概述——TechCrunch
+# 苹果公告概述
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/12/apple-announcements-overview/>
 

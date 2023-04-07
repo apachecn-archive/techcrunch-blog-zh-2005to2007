@@ -1,4 +1,4 @@
-# TeleNav“分享您的位置”竞赛获奖者| TechCrunch
+# TeleNav“分享您的位置”竞赛获奖者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/contest-share-your-location-with-telenav-gps-navigator/>
 

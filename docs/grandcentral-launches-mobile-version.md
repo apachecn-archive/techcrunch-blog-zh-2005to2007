@@ -1,4 +1,4 @@
-# GrandCentral 发布移动版——TechCrunch
+# GrandCentral 发布移动版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/grandcentral-launches-mobile-version/>
 

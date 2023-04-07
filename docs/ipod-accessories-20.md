@@ -1,4 +1,4 @@
-# iPod 配件 2.0–TechCrunch
+# iPod 配件 2.0
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/22/ipod-accessories-20/>
 

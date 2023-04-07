@@ -1,4 +1,4 @@
-# 苹果的豹子秘密:拍卖出售？TechCrunch
+# 苹果的豹子秘密:拍卖出售？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/25/apples-leopard-secrets-sold-at-auction/>
 

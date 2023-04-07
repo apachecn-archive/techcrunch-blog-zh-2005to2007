@@ -1,4 +1,4 @@
-# 最终翻脸的男孩粉丝社区走到了一起——TechCrunch
+# 最终翻脸的男孩粉丝社区走到了一起
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/ultimate-fall-out-boy-fan-community-comes-together/>
 

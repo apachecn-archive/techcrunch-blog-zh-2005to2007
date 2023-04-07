@@ -1,4 +1,4 @@
-# Xbox 360 控制器模型| TechCrunch
+# Xbox 360 控制器模型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/xbox-360-controller-mod/>
 

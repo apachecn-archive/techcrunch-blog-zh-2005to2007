@@ -1,4 +1,4 @@
-# 宜家 Slabang 闹钟有助于唤醒、虐待| TechCrunch
+# 宜家 Slabang 闹钟有助于唤醒、虐待
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/23/ikea-slabang-alarm-clock-good-for-waking-up-abuse/>
 

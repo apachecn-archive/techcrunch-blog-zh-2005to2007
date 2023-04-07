@@ -1,4 +1,4 @@
-# 干预:如果你不对你的手机供应商这么做，它会做出裁决，好吗？TechCrunch
+# 干预:如果你不对你的手机供应商这么做，它会做出裁决，好吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/11/an-intervention-it-would-rule-if-you-didnt-do-this-to-your-cell-provider-okay/>
 

@@ -1,4 +1,4 @@
-# Del.icio .美国竞争对手尝试向用户付费——TechCrunch
+# Del.icio .美国竞争对手尝试向用户付费
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/28/delicious-competitors-paying-users/>
 

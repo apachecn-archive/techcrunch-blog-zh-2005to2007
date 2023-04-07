@@ -1,4 +1,4 @@
-# Linksys 雅虎！Messenger CIT310 电话实践–TechCrunch
+# Linksys 雅虎！Messenger CIT310 电话实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/linksys-yahoo-messenger-cit310-phone-hands-on-2/>
 

@@ -1,4 +1,4 @@
-# 好看——富士通 P1610 平板电脑——TechCrunch
+# 好看——富士通 P1610 平板电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/lookin-good-the-fujitsu-p1610-tablet-pc/>
 

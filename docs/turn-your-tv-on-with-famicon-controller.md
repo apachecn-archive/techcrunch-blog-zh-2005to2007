@@ -1,4 +1,4 @@
-# 用 Famicon 控制器打开电视| TechCrunch
+# 用 Famicon 控制器打开电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/turn-your-tv-on-with-famicon-controller/>
 

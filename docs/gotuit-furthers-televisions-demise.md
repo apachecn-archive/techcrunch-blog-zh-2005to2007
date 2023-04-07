@@ -1,4 +1,4 @@
-# Gotuit 加剧了电视的消亡——TechCrunch
+# Gotuit 加剧了电视的消亡
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/23/gotuit-furthers-televisions-demise/>
 

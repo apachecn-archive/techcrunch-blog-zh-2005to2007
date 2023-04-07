@@ -1,4 +1,4 @@
-# 每日危机:紧追版| TechCrunch
+# 每日危机:紧追版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/30/daily-crunch-hot-pursuit-edition/>
 

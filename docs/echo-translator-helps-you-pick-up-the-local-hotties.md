@@ -1,4 +1,4 @@
-# Echo Translator 帮助您挑选当地热门人物| TechCrunch
+# Echo Translator 帮助您挑选当地热门人物
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/16/echo-translator-helps-you-pick-up-the-local-hotties/>
 

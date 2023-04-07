@@ -1,4 +1,4 @@
-# Gliffy 帮助你在瞬间画。TechCrunch
+# Gliffy 帮助你在瞬间画。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/gliffy-helps-you-draw-in-a-jiffy/>
 

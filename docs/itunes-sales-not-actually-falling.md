@@ -1,4 +1,4 @@
-# iTunes 销量实际上没有下降？TechCrunch
+# iTunes 销量实际上没有下降？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/itunes-sales-not-actually-falling/>
 

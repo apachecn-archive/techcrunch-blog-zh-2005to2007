@@ -1,4 +1,4 @@
-# Brightcove 收购 meta stories–TechCrunch
+# Brightcove 收购 meta stories
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/20/brightcove-acquires-metastories/>
 

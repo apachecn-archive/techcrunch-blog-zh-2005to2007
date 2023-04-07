@@ -1,4 +1,4 @@
-# LG 在美国大放异彩:威瑞森 VX 8700–TechCrunch
+# LG 在美国大放异彩:威瑞森 VX 8700
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/lgs-us-shine-the-verizon-vx8700/>
 

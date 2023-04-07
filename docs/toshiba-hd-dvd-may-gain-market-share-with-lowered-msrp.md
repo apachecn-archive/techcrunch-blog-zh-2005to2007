@@ -1,4 +1,4 @@
-# 东芝 HD DVD 可能通过降低 MSRP 赢得市场份额–TechCrunch
+# 东芝 HD DVD 可能通过降低 MSRP 赢得市场份额
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/toshiba-hd-dvd-may-gain-market-share-with-lowered-msrp/>
 

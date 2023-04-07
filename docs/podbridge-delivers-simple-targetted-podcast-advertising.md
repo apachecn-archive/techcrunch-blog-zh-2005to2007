@@ -1,4 +1,4 @@
-# Podbridge 提供简单的定向播客广告| TechCrunch
+# Podbridge 提供简单的定向播客广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/11/podbridge-delivers-simple-targetted-podcast-advertising/>
 

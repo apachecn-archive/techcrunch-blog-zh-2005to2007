@@ -1,4 +1,4 @@
-# DSMIDIWiFi:任天堂 DS 无线 MIDI 控制器| TechCrunch
+# DSMIDIWiFi:任天堂 DS 无线 MIDI 控制器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/dsmidiwifi-nintendo-ds-wireless-midi-controller/>
 

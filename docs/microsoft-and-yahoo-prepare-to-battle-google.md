@@ -1,4 +1,4 @@
-# 微软和雅虎准备对抗谷歌 TechCrunch
+# 微软和雅虎准备对抗谷歌 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/18/microsoft-and-yahoo-prepare-to-battle-google/>
 

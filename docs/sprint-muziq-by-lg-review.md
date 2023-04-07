@@ -1,4 +1,4 @@
-# LG 评论| TechCrunch 的 Sprint Muziq
+# LG 评论 的 Sprint Muziq
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/sprint-muziq-by-lg-review/>
 

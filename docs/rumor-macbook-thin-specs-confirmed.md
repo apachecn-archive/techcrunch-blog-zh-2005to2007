@@ -1,4 +1,4 @@
-# 传闻:MacBook 轻薄规格确认？TechCrunch
+# 传闻:MacBook 轻薄规格确认？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/rumor-macbook-thin-specs-confirmed/>
 

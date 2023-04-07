@@ -1,4 +1,4 @@
-# Proporta 发布 iPod Nano 防溅运动套件——TechCrunch
+# Proporta 发布 iPod Nano 防溅运动套件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/proporta-releases-splash-proof-sports-kit-for-the-ipod-nano/>
 

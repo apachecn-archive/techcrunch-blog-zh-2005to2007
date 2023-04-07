@@ -1,4 +1,4 @@
-# Novatel 联想起 HSDPA/UMTS/EDGE/GPRS/EIEIO 快递卡| TechCrunch
+# Novatel 联想起 HSDPA/UMTS/EDGE/GPRS/EIEIO 快递卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/11/novatel-conjures-up-hsdpaumtsedgegprseieio-express-card/>
 

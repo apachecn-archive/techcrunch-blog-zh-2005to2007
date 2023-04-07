@@ -1,4 +1,4 @@
-# 索尼 Rin 音箱是…酷？TechCrunch
+# 索尼 Rin 音箱是…酷？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/sony-rin-speakers-arecool/>
 

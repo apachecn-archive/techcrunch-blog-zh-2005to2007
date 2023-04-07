@@ -1,4 +1,4 @@
-# 百视达关闭网飞| TechCrunch
+# 百视达关闭网飞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/blockbuster-shuts-down-netflix/>
 

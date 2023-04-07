@@ -1,4 +1,4 @@
-# 2007 年 Skype 大赛第三天| TechCrunch
+# 2007 年 Skype 大赛第三天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/11/the-great-skype-contest-of-2007-day-3/>
 

@@ -1,4 +1,4 @@
-# SoonR:在手机上使用 Skype TechCrunch
+# SoonR:在手机上使用 Skype 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/03/soonr-use-skype-on-your-cell-phone/>
 

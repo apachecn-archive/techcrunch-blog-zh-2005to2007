@@ -1,4 +1,4 @@
-# 大声点，桑尼！奶奶听不见！–TechCrunch
+# 大声点，桑尼！奶奶听不见！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/speak-up-sonny-grandma-cant-hear-you/>
 

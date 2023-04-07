@@ -1,4 +1,4 @@
-# 天蓝色工作室预览 Trillian Astra TechCrunch
+# 天蓝色工作室预览 Trillian Astra 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/21/trillian-astra-to-take-on-the-world/>
 

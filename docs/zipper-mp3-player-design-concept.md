@@ -1,4 +1,4 @@
-# 拉链 MP3 播放器设计概念——TechCrunch
+# 拉链 MP3 播放器设计概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/zipper-mp3-player-design-concept/>
 

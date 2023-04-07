@@ -1,4 +1,4 @@
-# 超级天才推出固态 IDE 驱动器| TechCrunch
+# 超级天才推出固态 IDE 驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/24/super-talent-launches-solid-state-ide-drives/>
 

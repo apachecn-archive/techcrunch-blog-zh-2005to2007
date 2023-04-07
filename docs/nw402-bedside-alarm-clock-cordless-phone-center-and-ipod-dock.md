@@ -1,4 +1,4 @@
-# NW402 床头闹钟、无绳电话中心和 iPod Dock | TechCrunch
+# NW402 床头闹钟、无绳电话中心和 iPod Dock 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/nw402-bedside-alarm-clock-cordless-phone-center-and-ipod-dock/>
 

@@ -1,4 +1,4 @@
-# 国际 Pandora 听众了解 TechCrunch
+# 国际 Pandora 听众了解 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/international-pandora-listeners-getting-the-shaft/>
 

@@ -1,4 +1,4 @@
-# Helio 采取行动，开设商店，喂人们钓鱼——TechCrunch
+# Helio 采取行动，开设商店，喂人们钓鱼
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/helio-makes-moves-opens-stores-feeds-people-to-fish/>
 

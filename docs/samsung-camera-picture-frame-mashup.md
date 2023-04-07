@@ -1,4 +1,4 @@
-# 三星数码相机/相框混搭——TechCrunch
+# 三星数码相机/相框混搭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/samsung-camera-picture-frame-mashup/>
 

@@ -1,4 +1,4 @@
-# 幕后的日常生活——TechCrunch
+# 幕后的日常生活
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/26/daylife-peeks-from-behind-the-curtains/>
 

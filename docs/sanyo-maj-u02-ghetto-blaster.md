@@ -1,4 +1,4 @@
-# 三洋 MAJ-U02 犹太爆破工| TechCrunch
+# 三洋 MAJ-U02 犹太爆破工
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/sanyo-maj-u02-ghetto-blaster/>
 

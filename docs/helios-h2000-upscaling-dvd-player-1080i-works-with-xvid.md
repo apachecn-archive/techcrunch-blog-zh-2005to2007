@@ -1,4 +1,4 @@
-# Helios H2000 升级版 DVD 播放器:1080i，支持 XviD | TechCrunch
+# Helios H2000 升级版 DVD 播放器:1080i，支持 XviD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/helios-h2000-upscaling-dvd-player-1080i-works-with-xvid/>
 

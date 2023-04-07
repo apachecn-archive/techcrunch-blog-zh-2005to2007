@@ -1,4 +1,4 @@
-# 更多更好的社交网络仍有发展空间:采访 SixApart 的 Andrew Anker-TechCrunch
+# 更多更好的社交网络仍有发展空间:采访 SixApart 的 Andrew Anker-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/10/31/vox-says-theres-still-room-for-more-and-better-social-networking-an-interview-with-sixaparts-andrew-anker/>
 

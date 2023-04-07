@@ -1,4 +1,4 @@
-# 海尔黑珍珠手机 TechCrunch
+# 海尔黑珍珠手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/haier-black-pearl-cell-phone/>
 

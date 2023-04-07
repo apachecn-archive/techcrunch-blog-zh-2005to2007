@@ -1,4 +1,4 @@
-# Trilibis Mobile 发布 Peepsnation 4.0，移动社交网络| TechCrunch
+# Trilibis Mobile 发布 Peepsnation 4.0，移动社交网络
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/trilibis-mobile-unveils-peepsnation-40-mobile-social-network/>
 

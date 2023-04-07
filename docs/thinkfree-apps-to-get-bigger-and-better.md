@@ -1,4 +1,4 @@
-# ThinkFree 应用程序变得更大更好 TechCrunch
+# ThinkFree 应用程序变得更大更好 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/20/thinkfree-apps-to-get-bigger-and-better/>
 

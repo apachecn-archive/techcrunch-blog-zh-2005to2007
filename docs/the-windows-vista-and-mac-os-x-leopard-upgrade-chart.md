@@ -1,4 +1,4 @@
-# Windows Vista 和 Mac OS X Leopard 升级图表| TechCrunch
+# Windows Vista 和 Mac OS X Leopard 升级图表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/02/the-windows-vista-and-mac-os-x-leopard-upgrade-chart/>
 

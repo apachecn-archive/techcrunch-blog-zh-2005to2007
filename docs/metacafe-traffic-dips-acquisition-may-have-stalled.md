@@ -1,4 +1,4 @@
-# Metacafe 流量下降，收购可能已经停止——TechCrunch
+# Metacafe 流量下降，收购可能已经停止
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/11/metacafe-traffic-dips-acquisition-may-have-stalled>
 

@@ -1,4 +1,4 @@
-# 用罗杰斯？你的种子可能没用——TechCrunch
+# 用罗杰斯？你的种子可能没用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/use-rogers-your-torrents-might-be-useless/>
 

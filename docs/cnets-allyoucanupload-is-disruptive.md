@@ -1,4 +1,4 @@
-# CNET 的 AllYouCanUpload 是颠覆性的——TechCrunch
+# CNET 的 AllYouCanUpload 是颠覆性的
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/29/cnets-allyoucanupload-is-disruptive/>
 

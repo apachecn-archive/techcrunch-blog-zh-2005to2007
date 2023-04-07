@@ -1,4 +1,4 @@
-# Profile - Del.icio.us(新功能)TechCrunch
+# Profile - Del.icio.us(新功能)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/10/profile-delicious-new-feature/>
 

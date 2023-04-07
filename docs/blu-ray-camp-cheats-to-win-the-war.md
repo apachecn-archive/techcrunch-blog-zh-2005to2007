@@ -1,4 +1,4 @@
-# 蓝光阵营作弊赢得战争| TechCrunch
+# 蓝光阵营作弊赢得战争
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/blu-ray-camp-cheats-to-win-the-war/>
 

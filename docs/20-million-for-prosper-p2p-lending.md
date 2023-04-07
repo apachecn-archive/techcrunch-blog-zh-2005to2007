@@ -1,4 +1,4 @@
-# 2000 万美元用于 Prosper: P2P 贷款——TechCrunch
+# 2000 万美元用于 Prosper: P2P 贷款
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/20/20-million-for-prosper-p2p-lending/>
 

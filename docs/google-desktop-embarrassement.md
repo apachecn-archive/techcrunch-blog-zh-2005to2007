@@ -1,4 +1,4 @@
-# 谷歌桌面尴尬——TechCrunch
+# 谷歌桌面尴尬
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/06/google-desktop-embarrassement/>
 

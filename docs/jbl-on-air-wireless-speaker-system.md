@@ -1,4 +1,4 @@
-# JBL On Air 无线扬声器系统| TechCrunch
+# JBL On Air 无线扬声器系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/19/jbl-on-air-wireless-speaker-system/>
 

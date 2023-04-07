@@ -1,4 +1,4 @@
-# LG 宣布推出 coup la CDMA 蛤蜊| TechCrunch
+# LG 宣布推出 coup la CDMA 蛤蜊
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/27/lg-announces-coupla-cdma-clams/>
 

@@ -1,4 +1,4 @@
-# 双重访问电脑包–TechCrunch
+# 双重访问电脑包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/07/dual-access-computer-case/>
 

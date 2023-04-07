@@ -1,4 +1,4 @@
-# 面向 Zen Vision M 和 V 玩家的创意 TravelDock Z500 | TechCrunch
+# 面向 Zen Vision M 和 V 玩家的创意 TravelDock Z500 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/creative-traveldock-z500-for-zen-vision-m-and-v-players/>
 

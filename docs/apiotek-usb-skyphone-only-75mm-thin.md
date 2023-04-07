@@ -1,4 +1,4 @@
-# Apiotek USB SkyPhone 仅 7.5 毫米薄| TechCrunch
+# Apiotek USB SkyPhone 仅 7.5 毫米薄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/08/apiotek-usb-skyphone-only-75mm-thin/>
 

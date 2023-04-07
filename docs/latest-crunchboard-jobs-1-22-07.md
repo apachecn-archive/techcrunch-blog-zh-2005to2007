@@ -1,4 +1,4 @@
-# 最新的 CrunchBoard 工作–TechCrunch
+# 最新的 CrunchBoard 工作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/22/latest-crunchboard-jobs-1-22-07/>
 

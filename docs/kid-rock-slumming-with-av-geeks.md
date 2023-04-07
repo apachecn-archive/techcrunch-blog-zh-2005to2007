@@ -1,4 +1,4 @@
-# 与 AV 极客一起逛 kid Rock–TechCrunch
+# 与 AV 极客一起逛 kid Rock
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/kid-rock-slumming-with-av-geeks/>
 

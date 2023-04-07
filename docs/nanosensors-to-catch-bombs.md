@@ -1,4 +1,4 @@
-# 纳米传感器捕捉炸弹——TechCrunch
+# 纳米传感器捕捉炸弹
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/nanosensors-to-catch-bombs/>
 

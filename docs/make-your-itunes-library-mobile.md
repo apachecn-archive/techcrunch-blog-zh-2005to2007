@@ -1,4 +1,4 @@
-# 让您的 iTunes 资料库移动化 TechCrunch
+# 让您的 iTunes 资料库移动化 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/25/make-your-itunes-library-mobile/>
 

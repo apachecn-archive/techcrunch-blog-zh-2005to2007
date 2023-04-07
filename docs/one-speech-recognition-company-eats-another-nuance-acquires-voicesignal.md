@@ -1,4 +1,4 @@
-# 一家语音识别公司吃掉另一家:Nuance 收购 voice signal——TechCrunch
+# 一家语音识别公司吃掉另一家:Nuance 收购 voice signal
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/one-speech-recognition-company-eats-another-nuance-acquires-voicesignal/>
 

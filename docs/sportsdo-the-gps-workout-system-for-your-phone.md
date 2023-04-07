@@ -1,4 +1,4 @@
-# sports do–手机的 GPS 锻炼系统–TechCrunch
+# sports do–手机的 GPS 锻炼系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/sportsdo-the-gps-workout-system-for-your-phone/>
 

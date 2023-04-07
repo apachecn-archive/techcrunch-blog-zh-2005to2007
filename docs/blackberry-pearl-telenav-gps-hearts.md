@@ -1,4 +1,4 @@
-# blackberry Pearl+TeleNav GPS = Hearts–TechCrunch
+# blackberry Pearl+TeleNav GPS = Hearts
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/blackberry-pearl-telenav-gps-hearts/>
 

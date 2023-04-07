@@ -1,4 +1,4 @@
-# Sprint 提供无限计划与 MVNOs 竞争——TechCrunch
+# Sprint 提供无限计划与 MVNOs 竞争
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/sprint-offering-unlimited-plans-to-compete-with-mvnos/>
 

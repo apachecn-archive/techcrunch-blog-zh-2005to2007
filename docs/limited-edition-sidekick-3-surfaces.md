@@ -1,4 +1,4 @@
-# 限量版 Sidekick 3 Surfaces | TechCrunch
+# 限量版 Sidekick 3 Surfaces 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/limited-edition-sidekick-3-surfaces/>
 

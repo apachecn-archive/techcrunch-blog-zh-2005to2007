@@ -1,4 +1,4 @@
-# 在输给一个好妈妈——TechCrunch 之后，RIAA 必须支付 68685.23 美元
+# 在输给一个好妈妈 之后，RIAA 必须支付 68685.23 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/riaa-must-pay-6868523-after-losing-to-a-nice-mom/>
 

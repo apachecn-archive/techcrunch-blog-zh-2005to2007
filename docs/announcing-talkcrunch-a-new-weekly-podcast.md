@@ -1,4 +1,4 @@
-# 宣布 TalkCrunch:新的每周播客——TechCrunch
+# 宣布 TalkCrunch:新的每周播客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/15/announcing-talkcrunch-a-new-weekly-podcast/>
 

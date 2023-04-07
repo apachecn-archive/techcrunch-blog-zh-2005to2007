@@ -1,4 +1,4 @@
-# 预示新的 Zune 广告| TechCrunch
+# 预示新的 Zune 广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/foreboding-new-zune-ad/>
 

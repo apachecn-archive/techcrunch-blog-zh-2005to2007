@@ -1,4 +1,4 @@
-# E-Messenger 获得 Ajax 宗教——TechCrunch
+# E-Messenger 获得 Ajax 宗教
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/02/e-messenger-gets-ajax-religion/>
 

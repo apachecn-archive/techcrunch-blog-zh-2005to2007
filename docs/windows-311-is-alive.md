@@ -1,4 +1,4 @@
-# Windows 3.11 还活着| TechCrunch
+# Windows 3.11 还活着
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/06/windows-311-is-alive/>
 

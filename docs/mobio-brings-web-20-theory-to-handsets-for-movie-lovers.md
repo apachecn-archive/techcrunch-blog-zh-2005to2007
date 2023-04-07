@@ -1,4 +1,4 @@
-# Mobio 将 Web 2.0 理论引入电影爱好者的手机——TechCrunch
+# Mobio 将 Web 2.0 理论引入电影爱好者的手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/mobio-brings-web-20-theory-to-handsets-for-movie-lovers/>
 

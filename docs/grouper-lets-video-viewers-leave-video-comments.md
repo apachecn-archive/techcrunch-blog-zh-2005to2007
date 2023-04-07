@@ -1,4 +1,4 @@
-# Grouper 让视频观众留下视频评论——TechCrunch
+# Grouper 让视频观众留下视频评论
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/28/grouper-lets-video-viewers-leave-video-comments/>
 

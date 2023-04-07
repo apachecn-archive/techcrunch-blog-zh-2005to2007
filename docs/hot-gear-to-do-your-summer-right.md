@@ -1,4 +1,4 @@
-# 热装备让你的夏天过得更好——TechCrunch
+# 热装备让你的夏天过得更好
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/hot-gear-to-do-your-summer-right/>
 

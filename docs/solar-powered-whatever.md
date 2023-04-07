@@ -1,4 +1,4 @@
-# 太阳能什么的| TechCrunch
+# 太阳能什么的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/solar-powered-whatever/>
 

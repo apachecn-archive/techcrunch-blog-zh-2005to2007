@@ -1,4 +1,4 @@
-# 乐高 PC:一次导游之旅——TechCrunch
+# 乐高 PC:一次导游之旅
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/22/lego-pc-a-guided-tour/>
 

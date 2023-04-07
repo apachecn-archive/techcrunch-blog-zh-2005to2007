@@ -1,4 +1,4 @@
-# 华硕 WL-700gE WiFi 路由器，带 160GB 硬盘、iTunes 和 Bittorrent 支持–TechCrunch
+# 华硕 WL-700gE WiFi 路由器，带 160GB 硬盘、iTunes 和 Bittorrent 支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/11/asus-wl-700ge-wifi-router-with-160gb-hard-drive-itunes-and-bittorrent-support/>
 

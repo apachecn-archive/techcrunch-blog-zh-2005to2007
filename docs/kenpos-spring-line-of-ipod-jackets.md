@@ -1,4 +1,4 @@
-# Kenpo 的 iPod 夹克春季系列| TechCrunch
+# Kenpo 的 iPod 夹克春季系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/kenpos-spring-line-of-ipod-jackets/>
 

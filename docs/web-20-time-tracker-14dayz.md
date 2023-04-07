@@ -1,4 +1,4 @@
-# Web 2.0 时间追踪器:14Dayz | TechCrunch
+# Web 2.0 时间追踪器:14Dayz 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/18/web-20-time-tracker-14dayz/>
 

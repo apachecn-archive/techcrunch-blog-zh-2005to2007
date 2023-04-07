@@ -1,4 +1,4 @@
-# Veoh 获得 2600 万美元的 C 轮融资——TechCrunch
+# Veoh 获得 2600 万美元的 C 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/14/veoh-takes-26million-round-c/>
 

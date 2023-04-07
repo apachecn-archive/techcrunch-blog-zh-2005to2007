@@ -1,4 +1,4 @@
-# Wii 界面一览| TechCrunch
+# Wii 界面一览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/a-look-at-the-wii-interface/>
 

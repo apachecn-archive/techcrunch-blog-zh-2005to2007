@@ -1,4 +1,4 @@
-# Sprint 合同提示:转向莫哈韦——TechCrunch
+# Sprint 合同提示:转向莫哈韦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/sprint-contract-tips-move-to-the-mojave/>
 

@@ -1,4 +1,4 @@
-# 2005 年失窃的数据影响了 27，000 名 Kingston 客户| TechCrunch
+# 2005 年失窃的数据影响了 27，000 名 Kingston 客户
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/data-stolen-in-2005-affects-27000-kingston-customers/>
 

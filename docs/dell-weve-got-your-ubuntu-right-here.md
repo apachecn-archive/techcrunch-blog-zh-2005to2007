@@ -1,4 +1,4 @@
-# 戴尔:我们这里有您的 Ubuntu-TechCrunch
+# 戴尔:我们这里有您的 Ubuntu-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/22/dell-weve-got-your-ubuntu-right-here/>
 

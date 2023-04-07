@@ -1,4 +1,4 @@
-# 简介:post secret–TechCrunch
+# 简介:post secret
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/06/18/profile-postsecret/>
 

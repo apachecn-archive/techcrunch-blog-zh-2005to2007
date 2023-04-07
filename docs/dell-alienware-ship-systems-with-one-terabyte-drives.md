@@ -1,4 +1,4 @@
-# 外星人戴尔推出配备 1tb 硬盘的系统–TechCrunch
+# 外星人戴尔推出配备 1tb 硬盘的系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/dell-alienware-ship-systems-with-one-terabyte-drives/>
 

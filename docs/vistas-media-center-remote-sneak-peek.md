@@ -1,4 +1,4 @@
-# Vista 的媒体中心远程预览| TechCrunch
+# Vista 的媒体中心远程预览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/vistas-media-center-remote-sneak-peek/>
 

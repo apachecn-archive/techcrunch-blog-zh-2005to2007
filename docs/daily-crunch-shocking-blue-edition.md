@@ -1,4 +1,4 @@
-# 每日危机:震撼蓝版| TechCrunch
+# 每日危机:震撼蓝版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/daily-crunch-shocking-blue-edition/>
 

@@ -1,4 +1,4 @@
-# Hammer Storage 的 2TB 外置硬盘:先生们，开始你的激流吧——TechCrunch
+# Hammer Storage 的 2TB 外置硬盘:先生们，开始你的激流吧
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/22/hammer-storages-2tb-external-hard-drive-gentlemen-start-your-torrents/>
 

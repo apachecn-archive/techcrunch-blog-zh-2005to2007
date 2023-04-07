@@ -1,4 +1,4 @@
-# 赠送奖品获奖者| TechCrunch
+# 赠送奖品获奖者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/26/giving-thanks-giveaway-winner/>
 

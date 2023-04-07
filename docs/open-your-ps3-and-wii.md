@@ -1,4 +1,4 @@
-# 打开你的 PS3 和 Wii | TechCrunch
+# 打开你的 PS3 和 Wii 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/open-your-ps3-and-wii/>
 

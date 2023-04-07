@@ -1,4 +1,4 @@
-# 希捷准备 Momentus 加密硬盘| TechCrunch
+# 希捷准备 Momentus 加密硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/30/seagate-prepping-momentus-encrypted-drives/>
 

@@ -1,4 +1,4 @@
-# 为了 iPhone 去 CeBIT？2BAD4U！–TechCrunch
+# 为了 iPhone 去 CeBIT？2BAD4U！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/16/went-to-cebit-for-the-iphone-2bad4u/>
 

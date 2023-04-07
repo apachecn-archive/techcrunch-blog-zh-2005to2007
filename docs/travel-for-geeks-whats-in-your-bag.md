@@ -1,4 +1,4 @@
-# 极客旅行:你的包里有什么？TechCrunch
+# 极客旅行:你的包里有什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/22/travel-for-geeks-whats-in-your-bag/>
 

@@ -1,4 +1,4 @@
-# VisualSize 从照片中获得精确的 3D 测量值——TechCrunch
+# VisualSize 从照片中获得精确的 3D 测量值
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/22/visualsize-to-give-accurate-3d-measurements-from-photos/>
 

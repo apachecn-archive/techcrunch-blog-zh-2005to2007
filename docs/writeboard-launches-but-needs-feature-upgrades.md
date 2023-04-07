@@ -1,4 +1,4 @@
-# Writeboard 推出，但需要功能升级 TechCrunch
+# Writeboard 推出，但需要功能升级 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/02/writeboard-launches-but-needs-feature-upgrades/>
 

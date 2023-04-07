@@ -1,4 +1,4 @@
-# 新款 DS 相机，人脸训练软件，你喜欢练脸！好吧！马里奥！TechCrunch
+# 新款 DS 相机，人脸训练软件，你喜欢练脸！好吧！马里奥！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/new-ds-camera-face-training-software-you-like-to-train-your-face-okay-mario/>
 

@@ -1,4 +1,4 @@
-# Macpack Pwns 你的背包——TechCrunch
+# Macpack Pwns 你的背包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/macpack-pwns-your-backpack/>
 

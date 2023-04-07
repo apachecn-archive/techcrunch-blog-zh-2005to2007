@@ -1,4 +1,4 @@
-# TheStreet.com 收购 stock picker TechCrunch
+# TheStreet.com 收购 stock picker 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/25/stockpickr-acquired-by-thestreetcom/>
 

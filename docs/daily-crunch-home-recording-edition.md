@@ -1,4 +1,4 @@
-# 每日危机:家庭录音版| TechCrunch
+# 每日危机:家庭录音版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/daily-crunch-home-recording-edition/>
 

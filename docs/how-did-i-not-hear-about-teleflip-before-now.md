@@ -1,4 +1,4 @@
-# 我之前怎么没听说过 Teleflip？–TechCrunch
+# 我之前怎么没听说过 Teleflip？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/11/how-did-i-not-hear-about-teleflip-before-now/>
 

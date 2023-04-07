@@ -1,4 +1,4 @@
-# 苹果 WWDC 2007 直播博客——TechCrunch
+# 苹果 WWDC 2007 直播博客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/apple-wwdc-2007-liveblog/>
 

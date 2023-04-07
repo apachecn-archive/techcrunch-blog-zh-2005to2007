@@ -1,4 +1,4 @@
-# 成人游泳+Zune =另一个 CG 邀请在邮件中丢失——TechCrunch
+# 成人游泳+Zune =另一个 CG 邀请在邮件中丢失
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/27/adult-swimzuneanother-cg-invite-lost-in-the-mail/>
 

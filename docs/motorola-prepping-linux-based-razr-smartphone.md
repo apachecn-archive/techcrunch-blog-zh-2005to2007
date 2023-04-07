@@ -1,4 +1,4 @@
-# 摩托罗拉准备基于 Linux 的 RAZR 智能手机？TechCrunch
+# 摩托罗拉准备基于 Linux 的 RAZR 智能手机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/motorola-prepping-linux-based-razr-smartphone/>
 

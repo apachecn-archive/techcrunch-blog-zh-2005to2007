@@ -1,4 +1,4 @@
-# 购买大黄蜂在'湾 TechCrunch
+# 购买大黄蜂在'湾 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/buy-bumblebee-on-the-bay/>
 

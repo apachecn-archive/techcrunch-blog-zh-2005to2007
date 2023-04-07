@@ -1,4 +1,4 @@
-# Amina Tech 的隐形石膏墙扬声器——TechCrunch
+# Amina Tech 的隐形石膏墙扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/23/amina-tech%E2%80%99s-soundunseen-plaster-in-wall-speakers/>
 

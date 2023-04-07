@@ -1,4 +1,4 @@
-# 新王子专辑中的第一首单曲可从威瑞森无线获得——TechCrunch
+# 新王子专辑中的第一首单曲可从威瑞森无线获得
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/31/first-single-from-new-prince-album-available-from-verizon-wireless/>
 

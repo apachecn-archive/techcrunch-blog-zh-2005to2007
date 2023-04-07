@@ -1,4 +1,4 @@
-# 来自 ABS | TechCrunch 的轻薄游戏笔记本电脑
+# 来自 ABS  的轻薄游戏笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/02/thin-and-very-light-gaming-notebook-from-abs/>
 

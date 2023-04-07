@@ -1,4 +1,4 @@
-# 最终证实:iPhone 不会为你做的事| TechCrunch
+# 最终证实:iPhone 不会为你做的事
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/finally-confirmed-what-the-iphone-wont-do-for-you/>
 

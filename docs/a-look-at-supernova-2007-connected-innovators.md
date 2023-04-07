@@ -1,4 +1,4 @@
-# 了解 Supernova 2007 互联创新者——TechCrunch
+# 了解 Supernova 2007 互联创新者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/27/a-look-at-supernova-2007-connected-innovators/>
 

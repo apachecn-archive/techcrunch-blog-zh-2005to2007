@@ -1,4 +1,4 @@
-# 华硕蓝宝 VXS2 拉皮获得圣罗莎待遇| TechCrunch
+# 华硕蓝宝 VXS2 拉皮获得圣罗莎待遇
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/asus-lambo-vxs2-lappy-getting-santa-rosa-treatment/>
 

@@ -1,4 +1,4 @@
-# 移动运营商的成本——TechCrunch
+# 移动运营商的成本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/cost-to-the-mnos/>
 

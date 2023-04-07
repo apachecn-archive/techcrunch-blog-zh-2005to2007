@@ -1,4 +1,4 @@
-# SIXAXIS 将不提供可更换电池| TechCrunch
+# SIXAXIS 将不提供可更换电池
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/sixaxis-will-not-offer-replaceable-battery/>
 

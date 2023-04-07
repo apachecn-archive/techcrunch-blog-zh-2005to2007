@@ -1,4 +1,4 @@
-# 家庭影院手表:1.5 英寸的屏幕意味着“影院”——TechCrunch
+# 家庭影院手表:1.5 英寸的屏幕意味着“影院”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/home-theater-watch-where-a-15-inch-screen-means-theater/>
 

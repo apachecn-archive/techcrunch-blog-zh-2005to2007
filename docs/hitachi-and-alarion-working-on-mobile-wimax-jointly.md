@@ -1,4 +1,4 @@
-# 日立和 Alarion 联合开发移动 WiMAX | TechCrunch
+# 日立和 Alarion 联合开发移动 WiMAX 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/hitachi-and-alarion-working-on-mobile-wimax-jointly/>
 

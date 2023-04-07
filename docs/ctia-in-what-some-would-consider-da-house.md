@@ -1,4 +1,4 @@
-# CTIA 在，有些人会认为，达豪斯| TechCrunch
+# CTIA 在，有些人会认为，达豪斯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/ctia-in-what-some-would-consider-da-house/>
 

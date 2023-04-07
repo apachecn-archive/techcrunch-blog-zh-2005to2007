@@ -1,4 +1,4 @@
-# 吴:苹果对所有 iPods 和笔记本电脑都采用固态技术？TechCrunch
+# 吴:苹果对所有 iPods 和笔记本电脑都采用固态技术？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/wu-apple-going-solid-state-for-all-ipods-portables/>
 

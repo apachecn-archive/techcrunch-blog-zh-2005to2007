@@ -1,4 +1,4 @@
-# 通用大西洋公司收购网络解决方案 TechCrunch
+# 通用大西洋公司收购网络解决方案 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/06/network-solutions-acquired-by-general-atlantic/>
 

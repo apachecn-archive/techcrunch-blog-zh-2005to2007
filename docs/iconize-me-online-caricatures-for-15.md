@@ -1,4 +1,4 @@
-# 图标化我——15 美元的在线漫画——TechCrunch
+# 图标化我——15 美元的在线漫画
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/03/iconize-me-online-caricatures-for-15/>
 

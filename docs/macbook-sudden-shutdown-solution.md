@@ -1,4 +1,4 @@
-# MacBook 突然关机的解决方案——TechCrunch
+# MacBook 突然关机的解决方案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/macbook-sudden-shutdown-solution/>
 

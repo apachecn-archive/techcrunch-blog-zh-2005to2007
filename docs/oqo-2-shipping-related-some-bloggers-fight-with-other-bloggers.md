@@ -1,4 +1,4 @@
-# OQO 2 发货，相关:部分博主与其他博主打架| TechCrunch
+# OQO 2 发货，相关:部分博主与其他博主打架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/oqo-2-shipping-related-some-bloggers-fight-with-other-bloggers/>
 

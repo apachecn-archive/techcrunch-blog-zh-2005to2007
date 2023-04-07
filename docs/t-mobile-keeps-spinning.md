@@ -1,4 +1,4 @@
-# T-Mobile 保持运转| TechCrunch
+# T-Mobile 保持运转
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/t-mobile-keeps-spinning/>
 

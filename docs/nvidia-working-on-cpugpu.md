@@ -1,4 +1,4 @@
-# nVidia 致力于 CPU+GPU | TechCrunch
+# nVidia 致力于 CPU+GPU 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/nvidia-working-on-cpugpu/>
 

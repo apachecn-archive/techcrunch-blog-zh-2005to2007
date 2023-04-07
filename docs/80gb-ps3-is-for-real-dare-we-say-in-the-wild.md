@@ -1,4 +1,4 @@
-# 80GB PS3 是真的，我们敢在野外说吗？TechCrunch
+# 80GB PS3 是真的，我们敢在野外说吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/80gb-ps3-is-for-real-dare-we-say-in-the-wild/>
 

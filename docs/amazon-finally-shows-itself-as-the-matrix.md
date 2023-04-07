@@ -1,4 +1,4 @@
-# 亚马逊最终展示了自己的黑客帝国 TechCrunch
+# 亚马逊最终展示了自己的黑客帝国 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/04/amazon-finally-shows-itself-as-the-matrix/>
 

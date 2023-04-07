@@ -1,4 +1,4 @@
-# 见见 d . a . v . e——我们在希捷| TechCrunch 的朋友
+# 见见 d . a . v . e——我们在希捷 的朋友
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/30/meet-dave-our-friend-from-seagate/>
 

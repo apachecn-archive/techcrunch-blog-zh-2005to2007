@@ -1,4 +1,4 @@
-# 胖子探测椅:甜蜜的正义| TechCrunch
+# 胖子探测椅:甜蜜的正义
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/the-fat-person-detecting-chair-sweet-justice/>
 

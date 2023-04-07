@@ -1,4 +1,4 @@
-# 微软 QnA 进入拥挤的市场——TechCrunch
+# 微软 QnA 进入拥挤的市场
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/05/microsoft-qna-enters-crowded-market/>
 

@@ -1,4 +1,4 @@
-# TripSync:简单的商务旅行规划和管理–TechCrunch
+# TripSync:简单的商务旅行规划和管理
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/28/tripsync-simple-business-trip-planning-and-management/>
 

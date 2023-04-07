@@ -1,4 +1,4 @@
-# 这几周接下来的事件。TechCrunch
+# 这几周接下来的事件。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/this-weeks-up-coming-events/>
 

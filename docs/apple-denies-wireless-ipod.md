@@ -1,4 +1,4 @@
-# 苹果否认无线 iPod-TechCrunch
+# 苹果否认无线 iPod-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/apple-denies-wireless-ipod/>
 

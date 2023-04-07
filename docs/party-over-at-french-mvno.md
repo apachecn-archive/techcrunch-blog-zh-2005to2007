@@ -1,4 +1,4 @@
-# 法国 MVNO–TechCrunch 的派对
+# 法国 MVNO 的派对
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/party-over-at-french-mvno/>
 

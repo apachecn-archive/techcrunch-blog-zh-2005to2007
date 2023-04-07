@@ -1,4 +1,4 @@
-# Nobu 8 英寸壁挂式触摸屏–TechCrunch
+# Nobu 8 英寸壁挂式触摸屏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/nobu-8-in-wall-touchscreen/>
 

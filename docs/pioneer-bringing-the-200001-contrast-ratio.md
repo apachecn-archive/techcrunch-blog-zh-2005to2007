@@ -1,4 +1,4 @@
-# 率先推出 20，000:1 对比度——TechCrunch
+# 率先推出 20，000:1 对比度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/pioneer-bringing-the-200001-contrast-ratio/>
 

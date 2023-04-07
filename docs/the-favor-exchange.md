@@ -1,4 +1,4 @@
-# 优惠交换 TechCrunch
+# 优惠交换 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/30/the-favor-exchange/>
 

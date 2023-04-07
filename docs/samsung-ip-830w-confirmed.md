@@ -1,4 +1,4 @@
-# 三星 IP-830w 已确认| TechCrunch
+# 三星 IP-830w 已确认
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/samsung-ip-830w-confirmed/>
 

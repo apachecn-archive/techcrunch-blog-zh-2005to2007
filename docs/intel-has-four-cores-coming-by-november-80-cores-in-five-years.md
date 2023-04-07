@@ -1,4 +1,4 @@
-# 英特尔将于 11 月推出四枚内核，五年内将达到 80 枚内核| TechCrunch
+# 英特尔将于 11 月推出四枚内核，五年内将达到 80 枚内核
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/26/intel-has-four-cores-coming-by-november-80-cores-in-five-years/>
 

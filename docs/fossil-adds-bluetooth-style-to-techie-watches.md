@@ -1,4 +1,4 @@
-# Fossil 为高科技手表增添蓝牙和时尚元素——TechCrunch
+# Fossil 为高科技手表增添蓝牙和时尚元素
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/fossil-adds-bluetooth-style-to-techie-watches/>
 

@@ -1,4 +1,4 @@
-# 你的手机在驱赶蜜蜂吗？–TechCrunch
+# 你的手机在驱赶蜜蜂吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/is-your-mobile-phone-driving-away-the-bees/>
 

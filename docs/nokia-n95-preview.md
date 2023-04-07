@@ -1,4 +1,4 @@
-# 诺基亚 N95 预览版| TechCrunch
+# 诺基亚 N95 预览版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/06/nokia-n95-preview/>
 

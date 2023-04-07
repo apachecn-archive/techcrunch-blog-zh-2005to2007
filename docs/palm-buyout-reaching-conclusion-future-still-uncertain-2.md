@@ -1,4 +1,4 @@
-# Palm 买断达成结论；未来仍不确定| TechCrunch
+# Palm 买断达成结论；未来仍不确定
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/palm-buyout-reaching-conclusion-future-still-uncertain-2/>
 

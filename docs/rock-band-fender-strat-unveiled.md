@@ -1,4 +1,4 @@
-# 摇滚乐队芬德尔·斯特拉特亮相| TechCrunch
+# 摇滚乐队芬德尔·斯特拉特亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/rock-band-fender-strat-unveiled/>
 

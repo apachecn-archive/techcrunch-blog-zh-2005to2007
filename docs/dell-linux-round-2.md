@@ -1,4 +1,4 @@
-# 戴尔+ Linux:第二轮–TechCrunch
+# 戴尔+ Linux:第二轮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/01/dell-linux-round-2/>
 

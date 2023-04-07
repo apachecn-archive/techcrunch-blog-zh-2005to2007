@@ -1,4 +1,4 @@
-# IE7 Beta 2 版本| TechCrunch
+# IE7 Beta 2 版本
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/24/ie7-beta-2-ships/>
 

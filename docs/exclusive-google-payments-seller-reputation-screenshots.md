@@ -1,4 +1,4 @@
-# 独家:谷歌支付卖家信誉截图 TechCrunch
+# 独家:谷歌支付卖家信誉截图 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/11/exclusive-google-payments-seller-reputation-screenshots/>
 

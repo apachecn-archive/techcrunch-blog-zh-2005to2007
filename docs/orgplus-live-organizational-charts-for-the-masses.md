@@ -1,4 +1,4 @@
-# OrgPlus Live:面向大众的组织结构图——TechCrunch
+# OrgPlus Live:面向大众的组织结构图
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/18/orgplus-live-organizational-charts-for-the-masses/>
 

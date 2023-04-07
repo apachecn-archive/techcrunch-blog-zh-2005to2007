@@ -1,4 +1,4 @@
-# 雅虎何时收购 Technorati？–TechCrunch
+# 雅虎何时收购 Technorati？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/12/when-will-yahoo-acquire-technorati/>
 

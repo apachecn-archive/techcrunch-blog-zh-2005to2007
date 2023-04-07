@@ -1,4 +1,4 @@
-# 问答:Novarra 回应移动网络问题——TechCrunch
+# 问答:Novarra 回应移动网络问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/qa-novarra-responds-to-mobile-web-issues/>
 

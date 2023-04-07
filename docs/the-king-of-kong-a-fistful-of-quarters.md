@@ -1,4 +1,4 @@
-# 金刚:一把硬币| TechCrunch
+# 金刚:一把硬币
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/the-king-of-kong-a-fistful-of-quarters/>
 

@@ -1,4 +1,4 @@
-# Belkin 转向 DVI–TechCrunch
+# Belkin 转向 DVI
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/19/belkin-flips-for-dvis/>
 

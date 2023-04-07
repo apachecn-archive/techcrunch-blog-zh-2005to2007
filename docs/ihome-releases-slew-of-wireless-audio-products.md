@@ -1,4 +1,4 @@
-# iHome 发布大量无线音频产品——TechCrunch
+# iHome 发布大量无线音频产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/ihome-releases-slew-of-wireless-audio-products/>
 

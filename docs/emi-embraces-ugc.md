@@ -1,4 +1,4 @@
-# 最后，音乐视频将出现在 YouTube——TechCrunch 上
+# 最后，音乐视频将出现在 YouTube 上
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/31/emi-embraces-ugc/>
 

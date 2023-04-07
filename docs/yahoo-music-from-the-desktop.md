@@ -1,4 +1,4 @@
-# 雅虎音乐-来自桌面 TechCrunch
+# 雅虎音乐-来自桌面 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/22/yahoo-music-from-the-desktop/>
 

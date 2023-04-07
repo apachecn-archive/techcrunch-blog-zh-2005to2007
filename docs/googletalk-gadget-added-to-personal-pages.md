@@ -1,4 +1,4 @@
-# GoogleTalk 小工具添加到个人页面 TechCrunch
+# GoogleTalk 小工具添加到个人页面 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/14/googletalk-gadget-added-to-personal-pages/>
 

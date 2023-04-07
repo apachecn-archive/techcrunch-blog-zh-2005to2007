@@ -1,4 +1,4 @@
-# Technorati 的交配之舞——TechCrunch
+# Technorati 的交配之舞
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/03/technoratis-mating-dance/>
 

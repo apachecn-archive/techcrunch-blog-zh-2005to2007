@@ -1,4 +1,4 @@
-# AllofMP3 欠 RIAA 1.65 万亿美元 TechCrunch
+# AllofMP3 欠 RIAA 1.65 万亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/allofmp3-owes-riaa-165-trillion/>
 

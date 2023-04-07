@@ -1,4 +1,4 @@
-# 来自 Midway | TechCrunch 的五款任天堂独家游戏
+# 来自 Midway  的五款任天堂独家游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/five-nintendo-exclusives-coming-from-midway/>
 

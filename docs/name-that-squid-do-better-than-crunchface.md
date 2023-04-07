@@ -1,4 +1,4 @@
-# 给那只乌贼命名:比 Crunchface | TechCrunch 做得更好
+# 给那只乌贼命名:比 Crunchface  做得更好
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/name-that-squid-do-better-than-crunchface/>
 

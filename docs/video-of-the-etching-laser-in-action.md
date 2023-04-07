@@ -1,4 +1,4 @@
-# 运行中的蚀刻激光器视频| TechCrunch
+# 运行中的蚀刻激光器视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/video-of-the-etching-laser-in-action/>
 

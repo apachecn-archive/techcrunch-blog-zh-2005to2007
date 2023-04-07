@@ -1,4 +1,4 @@
-# 快速求助| TechCrunch
+# 快速求助
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/20/a-quick-call-for-help/>
 

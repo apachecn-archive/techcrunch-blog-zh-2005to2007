@@ -1,4 +1,4 @@
-# Simplyhired 推出 GLBT 友好求职| TechCrunch
+# Simplyhired 推出 GLBT 友好求职
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/14/simplyhired-launches-glbt-friendly-job-search/>
 

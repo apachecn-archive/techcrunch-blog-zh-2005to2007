@@ -1,4 +1,4 @@
-# 英国苹果商店意外披露 8 核 Mac Pro–TechCrunch
+# 英国苹果商店意外披露 8 核 Mac Pro
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/13/uk-apple-store-accidentally-reveals-8-core-mac-pro/>
 

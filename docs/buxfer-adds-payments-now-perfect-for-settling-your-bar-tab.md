@@ -1,4 +1,4 @@
-# Buxfer 增加付款；现在是解决您的酒吧账单的完美选择——TechCrunch
+# Buxfer 增加付款；现在是解决您的酒吧账单的完美选择
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/03/buxfer-adds-payments-now-perfect-for-settling-your-bar-tab/>
 

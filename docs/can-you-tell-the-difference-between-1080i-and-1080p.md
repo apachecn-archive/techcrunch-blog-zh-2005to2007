@@ -1,4 +1,4 @@
-# 你能说出 1080i 和 1080p 的区别吗？–TechCrunch
+# 你能说出 1080i 和 1080p 的区别吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/can-you-tell-the-difference-between-1080i-and-1080p/>
 

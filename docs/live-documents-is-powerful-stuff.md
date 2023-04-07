@@ -1,4 +1,4 @@
-# Live Documents 是强大的工具——TechCrunch
+# Live Documents 是强大的工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/08/live-documents-is-powerful-stuff/>
 

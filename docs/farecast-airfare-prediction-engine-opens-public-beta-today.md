@@ -1,4 +1,4 @@
-# Farecast 机票预测引擎今天公开测试 TechCrunch
+# Farecast 机票预测引擎今天公开测试 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/26/farecast-airfare-prediction-engine-opens-public-beta-today/>
 

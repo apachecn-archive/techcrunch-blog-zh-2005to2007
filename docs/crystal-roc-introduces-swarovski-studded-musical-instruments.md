@@ -1,4 +1,4 @@
-# 水晶 Roc 推出镶嵌施华洛世奇的乐器| TechCrunch
+# 水晶 Roc 推出镶嵌施华洛世奇的乐器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/crystal-roc-introduces-swarovski-studded-musical-instruments/>
 

@@ -1,4 +1,4 @@
-# 光环 3 预告广告| TechCrunch
+# 光环 3 预告广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/halo-3-teaser-commercial/>
 

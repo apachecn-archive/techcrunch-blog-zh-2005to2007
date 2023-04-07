@@ -1,4 +1,4 @@
-# Belkin 让这些桌面索环孔变得有用| TechCrunch
+# Belkin 让这些桌面索环孔变得有用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/30/belkin-makes-those-desk-grommet-holes-useful/>
 

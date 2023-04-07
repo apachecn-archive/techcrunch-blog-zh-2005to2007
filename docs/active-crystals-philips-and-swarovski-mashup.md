@@ -1,4 +1,4 @@
-# 活性水晶:飞利浦和施华洛世奇混搭——TechCrunch
+# 活性水晶:飞利浦和施华洛世奇混搭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/active-crystals-philips-and-swarovski-mashup/>
 

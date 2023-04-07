@@ -1,4 +1,4 @@
-# 索尼做了两次 720p 投影仪:2015 年和 2010 年——TechCrunch
+# 索尼做了两次 720p 投影仪:2015 年和 2010 年
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/sony-does-the-720p-projector-thing-twice-aw15-and-aw10/>
 

@@ -1,4 +1,4 @@
-# Wis.dm 简单看一下问答——TechCrunch
+# Wis.dm 简单看一下问答
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/12/wisdm-takes-a-simple-look-at-qa/>
 

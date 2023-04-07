@@ -1,4 +1,4 @@
-# 因为蓝牙是如此 2005 | TechCrunch
+# 因为蓝牙是如此 2005 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/because-bluetooth-is-so-2005/>
 

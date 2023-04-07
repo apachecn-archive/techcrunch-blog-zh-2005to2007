@@ -1,4 +1,4 @@
-# 福克斯是谷歌/YouTube 交易中的一个因素吗？TechCrunch
+# 福克斯是谷歌/YouTube 交易中的一个因素吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/09/is-fox-a-factor-in-the-googleyoutube-deal/>
 

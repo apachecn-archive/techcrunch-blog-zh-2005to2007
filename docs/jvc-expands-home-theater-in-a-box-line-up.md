@@ -1,4 +1,4 @@
-# JVC 在盒子系列中扩展家庭影院–TechCrunch
+# JVC 在盒子系列中扩展家庭影院
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/jvc-expands-home-theater-in-a-box-line-up/>
 

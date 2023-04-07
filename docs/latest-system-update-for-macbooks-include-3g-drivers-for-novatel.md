@@ -1,4 +1,4 @@
-# MacBooks 的最新系统更新包括 Novatel | TechCrunch 的 3G 驱动程序
+# MacBooks 的最新系统更新包括 Novatel  的 3G 驱动程序
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/latest-system-update-for-macbooks-include-3g-drivers-for-novatel/>
 

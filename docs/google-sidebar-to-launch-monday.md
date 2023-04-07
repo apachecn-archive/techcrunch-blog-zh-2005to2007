@@ -1,4 +1,4 @@
-# 谷歌侧边栏将于周一发布 TechCrunch
+# 谷歌侧边栏将于周一发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2005/08/21/google-sidebar-to-launch-monday/>
 

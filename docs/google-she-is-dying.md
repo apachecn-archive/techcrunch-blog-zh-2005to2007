@@ -1,4 +1,4 @@
-# 谷歌，她快死了——TechCrunch
+# 谷歌，她快死了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/google-she-is-dying/>
 

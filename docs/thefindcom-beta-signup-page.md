@@ -1,4 +1,4 @@
-# TheFind.com 测试注册页面——TechCrunch
+# TheFind.com 测试注册页面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/24/thefindcom-beta-signup-page/>
 

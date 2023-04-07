@@ -1,4 +1,4 @@
-# Linksys KiSS 1600 无线媒体中心| TechCrunch
+# Linksys KiSS 1600 无线媒体中心
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/linksys-kiss-1600-wireless-media-hub/>
 

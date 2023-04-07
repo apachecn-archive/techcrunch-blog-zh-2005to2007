@@ -1,4 +1,4 @@
-# 简介:rocket boom–TechCrunch
+# 简介:rocket boom
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/09/profile-rocketboom/>
 

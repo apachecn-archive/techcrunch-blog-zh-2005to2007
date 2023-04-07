@@ -1,4 +1,4 @@
-# YouTube 已经终结了嘻哈大战——TechCrunch
+# YouTube 已经终结了嘻哈大战
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/youtube-has-killed-the-hip-hop-war/>
 

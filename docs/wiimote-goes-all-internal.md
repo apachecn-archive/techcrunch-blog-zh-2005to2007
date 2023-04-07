@@ -1,4 +1,4 @@
-# Wiimote 全部内部化| TechCrunch
+# Wiimote 全部内部化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/wiimote-goes-all-internal/>
 

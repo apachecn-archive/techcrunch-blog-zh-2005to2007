@@ -1,4 +1,4 @@
-# 微软首款 Xbox 360 HD DVD 广告| TechCrunch
+# 微软首款 Xbox 360 HD DVD 广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/12/microsofts-first-xbox-360-hd-dvd-ad/>
 

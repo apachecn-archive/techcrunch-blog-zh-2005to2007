@@ -1,4 +1,4 @@
-# 07 年买车？它可能会喜欢你的 iPod——TechCrunch
+# 07 年买车？它可能会喜欢你的 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/buying-a-car-in-2007-chances-are-it%e2%80%99ll-love-your-ipod/>
 

@@ -1,4 +1,4 @@
-# Otterbox 发布两款新的黑莓手机套——TechCrunch
+# Otterbox 发布两款新的黑莓手机套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/otterbox-announces-two-new-blackberry-cases/>
 

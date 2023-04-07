@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/08/17/yahoo-photos-to-leave-beta-today-api-finally-coming/&js=1&rnd=0.26585636068742374>
 

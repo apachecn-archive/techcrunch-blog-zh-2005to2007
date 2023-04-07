@@ -1,4 +1,4 @@
-# 专利猴:用 PS3 控制器做手机分机？TechCrunch
+# 专利猴:用 PS3 控制器做手机分机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/22/patent-monkey-using-ps3-controller-as-extension-for-cell-phone/>
 

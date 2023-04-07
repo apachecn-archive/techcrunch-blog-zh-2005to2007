@@ -1,4 +1,4 @@
-# iCarta 立体声基座| TechCrunch
+# iCarta 立体声基座
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/23/icarta-stereo-dock/>
 

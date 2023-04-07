@@ -1,4 +1,4 @@
-# Helios H4000 升级版 HD DVD 播放器| TechCrunch
+# Helios H4000 升级版 HD DVD 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/helios-h4000-upscaling-hd-dvd-player/>
 

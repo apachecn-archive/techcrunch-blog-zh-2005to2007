@@ -1,4 +1,4 @@
-# Sonos 和百思买联手| TechCrunch
+# Sonos 和百思买联手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/20/sonos-and-best-buy-team-up/>
 

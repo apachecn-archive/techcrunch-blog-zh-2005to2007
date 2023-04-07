@@ -1,4 +1,4 @@
-# 航空公司喜欢上了 WiFi——TechCrunch
+# 航空公司喜欢上了 WiFi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/airlines-taking-a-liking-to-wifi/>
 

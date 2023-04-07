@@ -1,4 +1,4 @@
-# 宣布 TechCrunch 英国–TechCrunch
+# 宣布 TechCrunch 英国
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/24/announcing-techcrunch-uk/>
 

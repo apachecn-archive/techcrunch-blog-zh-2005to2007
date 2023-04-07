@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:庇护版| TechCrunch
+# CrunchGear 周回顾:庇护版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/crunchgear-week-in-review-asylum-edition/>
 

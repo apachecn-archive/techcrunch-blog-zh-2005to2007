@@ -1,4 +1,4 @@
-# iPhone 将拥有更长的电池寿命？–TechCrunch
+# iPhone 将拥有更长的电池寿命？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/18/iphone-to-have-extensive-battery-life/>
 

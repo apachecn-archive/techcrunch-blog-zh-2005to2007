@@ -1,4 +1,4 @@
-# ViewScore.com:点评聚合器——TechCrunch
+# ViewScore.com:点评聚合器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/viewscorecom-review-aggregator/>
 

@@ -1,4 +1,4 @@
-# Popuri:任何网站的大量统计数据——TechCrunch
+# Popuri:任何网站的大量统计数据
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/26/lots-of-stats-for-any-site>
 

@@ -1,4 +1,4 @@
-# 危险手机:Mac Skype 手机| TechCrunch
+# 危险手机:Mac Skype 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/13/danger-phone-the-mac-skype-headset/>
 

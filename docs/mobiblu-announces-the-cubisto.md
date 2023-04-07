@@ -1,4 +1,4 @@
-# MobiBLU 宣布推出 Cubisto | TechCrunch
+# MobiBLU 宣布推出 Cubisto 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/22/mobiblu-announces-the-cubisto/>
 

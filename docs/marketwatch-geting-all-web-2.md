@@ -1,4 +1,4 @@
-# MarketWatch 增加了社区股票预测工具——TechCrunch
+# MarketWatch 增加了社区股票预测工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/26/marketwatch-geting-all-web-2/>
 

@@ -1,4 +1,4 @@
-# 来自日立的 1tb 硬盘–TechCrunch
+# 来自日立的 1tb 硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/one-terabyte-harddrives-arrive-from-hitachi/>
 

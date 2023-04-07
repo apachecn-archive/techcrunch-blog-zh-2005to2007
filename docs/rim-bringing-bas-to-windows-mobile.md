@@ -1,4 +1,4 @@
-# RIM 将 BAS 引入 Windows Mobile——TechCrunch
+# RIM 将 BAS 引入 Windows Mobile
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/rim-bringing-bas-to-windows-mobile/>
 

@@ -1,4 +1,4 @@
-# 高中生令人印象深刻的发明——TechCrunch
+# 高中生令人印象深刻的发明
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/impressive-inventions-from-high-schoolers/>
 

@@ -1,4 +1,4 @@
-# 电视节目向何处去？–TechCrunch
+# 电视节目向何处去？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/09/whither-television-programming/>
 

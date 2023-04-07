@@ -1,4 +1,4 @@
-# 战争机器开始行动| TechCrunch
+# 战争机器开始行动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/27/gears-of-war-get-action-figured/>
 

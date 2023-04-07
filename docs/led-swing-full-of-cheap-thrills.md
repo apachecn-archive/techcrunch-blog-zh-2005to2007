@@ -1,4 +1,4 @@
-# 充满廉价刺激的 LED 秋千——TechCrunch
+# 充满廉价刺激的 LED 秋千
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/08/led-swing-full-of-cheap-thrills/>
 

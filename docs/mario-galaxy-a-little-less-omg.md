@@ -1,4 +1,4 @@
-# 马里奥银河:少一点 OMG——TechCrunch
+# 马里奥银河:少一点 OMG
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/mario-galaxy-a-little-less-omg/>
 

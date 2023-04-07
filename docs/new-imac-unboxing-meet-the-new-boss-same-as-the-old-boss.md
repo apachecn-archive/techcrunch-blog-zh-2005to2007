@@ -1,4 +1,4 @@
-# 新 iMac 拆箱:见见新老板，和老老板一样| TechCrunch
+# 新 iMac 拆箱:见见新老板，和老老板一样
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/new-imac-unboxing-meet-the-new-boss-same-as-the-old-boss/>
 

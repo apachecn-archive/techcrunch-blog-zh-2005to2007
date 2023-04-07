@@ -1,4 +1,4 @@
-# SmartShopper 需要降价 147 美元才能具有竞争力——TechCrunch
+# SmartShopper 需要降价 147 美元才能具有竞争力
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/20/smartshopper-needs-147-price-drop-to-be-competitive/>
 

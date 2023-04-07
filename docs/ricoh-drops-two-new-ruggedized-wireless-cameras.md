@@ -1,4 +1,4 @@
-# 理光推出两款新的加固型无线摄像头| TechCrunch
+# 理光推出两款新的加固型无线摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/ricoh-drops-two-new-ruggedized-wireless-cameras/>
 

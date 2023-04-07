@@ -1,4 +1,4 @@
-# iPhone Shuffle 发布——TechCrunch
+# iPhone Shuffle 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/iphone-shuffle-announced/>
 

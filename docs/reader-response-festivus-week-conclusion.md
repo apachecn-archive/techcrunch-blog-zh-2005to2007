@@ -1,4 +1,4 @@
-# 读者反应:Festivus 周结束——TechCrunch
+# 读者反应:Festivus 周结束
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/22/reader-response-festivus-week-conclusion/>
 

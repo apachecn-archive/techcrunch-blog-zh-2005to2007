@@ -1,4 +1,4 @@
-# 沃尔玛与 RIAA:斗气对决| TechCrunch
+# 沃尔玛与 RIAA:斗气对决
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/walmart-vs-riaa-grudge-match/>
 

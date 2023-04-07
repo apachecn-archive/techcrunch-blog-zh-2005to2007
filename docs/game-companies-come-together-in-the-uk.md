@@ -1,4 +1,4 @@
-# 游戏公司齐聚英国——TechCrunch
+# 游戏公司齐聚英国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/30/game-companies-come-together-in-the-uk/>
 

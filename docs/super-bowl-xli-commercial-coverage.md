@@ -1,4 +1,4 @@
-# 超级碗 XLI 商业报道| TechCrunch
+# 超级碗 XLI 商业报道
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/04/super-bowl-xli-commercial-coverage/>
 

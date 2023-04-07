@@ -1,4 +1,4 @@
-# TechCrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/&usg=ALkJrhiAEot9va6upHCX6Ug2mP13hjsbVg/page/2/page/3/page/2/page/3/page/4/page/3/www.zimbra.com/desktop/Snap/page/2/page/2/page/2/page/3/www.zimbra.com/2008/05/08/share-your-links-with-mento-weve-got-500-invites/page/2008/05/08/share-your-links-with-mento-weve-got-500-invites/page/2/page/2/page/2/page/2/www.austinventures.com/page/2/page/2/page/3/page/2/page/layoffs/>
 

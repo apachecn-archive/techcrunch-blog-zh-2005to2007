@@ -1,4 +1,4 @@
-# 暂时不要购买苹果 MacBook 或 MacBook Pro——TechCrunch
+# 暂时不要购买苹果 MacBook 或 MacBook Pro
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/dont-buy-an-apple-macbook-or-macbook-pro-just-yet/>
 

@@ -1,4 +1,4 @@
-# 皇冠城堡拔掉移动电视插头——TechCrunch
+# 皇冠城堡拔掉移动电视插头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/crown-castle-pulls-mobile-tv-plug/>
 

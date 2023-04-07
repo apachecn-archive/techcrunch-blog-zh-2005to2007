@@ -1,4 +1,4 @@
-# 苹果商店备份:新的 iMacs，iLife’08，iWork’08 | TechCrunch
+# 苹果商店备份:新的 iMacs，iLife’08，iWork’08 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/apple-store-back-up-new-imacs-ilife-08-iwork-08/>
 

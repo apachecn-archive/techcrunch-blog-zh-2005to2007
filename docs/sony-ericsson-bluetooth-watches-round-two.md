@@ -1,4 +1,4 @@
-# 索尼爱立信蓝牙手表，第二轮| TechCrunch
+# 索尼爱立信蓝牙手表，第二轮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/15/sony-ericsson-bluetooth-watches-round-two/>
 

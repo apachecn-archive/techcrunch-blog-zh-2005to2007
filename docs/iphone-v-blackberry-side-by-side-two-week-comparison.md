@@ -1,4 +1,4 @@
-# iPhone 与黑莓:并排，两周对比 TechCrunch
+# iPhone 与黑莓:并排，两周对比 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/iphone-v-blackberry-side-by-side-two-week-comparison/>
 

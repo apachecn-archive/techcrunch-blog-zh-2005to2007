@@ -1,4 +1,4 @@
-# 松下 Lumix DMC-TZ3:10 倍变焦，小型封装| TechCrunch
+# 松下 Lumix DMC-TZ3:10 倍变焦，小型封装
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/panasonic-dmc-tz3-10x-zoom-small-package/>
 

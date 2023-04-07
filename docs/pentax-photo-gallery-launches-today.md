@@ -1,4 +1,4 @@
-# 宾得照片库今天发布——TechCrunch
+# 宾得照片库今天发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/06/pentax-photo-gallery-launches-today/>
 

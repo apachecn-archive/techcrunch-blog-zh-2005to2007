@@ -1,4 +1,4 @@
-# 数码相机行业据说正处于顶峰(“因为每个人都有一台”)——TechCrunch
+# 数码相机行业据说正处于顶峰(“因为每个人都有一台”)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/digital-cameras-biz-said-to-be-peaking-cause-everyone-has-one/>
 

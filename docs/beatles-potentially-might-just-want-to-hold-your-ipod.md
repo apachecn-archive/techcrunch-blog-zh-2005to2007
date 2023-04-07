@@ -1,4 +1,4 @@
-# 披头士可能只是想拿着你的 iPod——TechCrunch
+# 披头士可能只是想拿着你的 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/beatles-potentially-might-just-want-to-hold-your-ipod/>
 

@@ -1,4 +1,4 @@
-# EQO 推出移动 VOIP/聊天/消息客户端 TechCrunch
+# EQO 推出移动 VOIP/聊天/消息客户端 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/23/eqo-launches-mobile-voipchatmessaging-client/>
 

@@ -1,4 +1,4 @@
-# FireFox Coop 的早期原型发布——TechCrunch
+# FireFox Coop 的早期原型发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/05/early-prototype-of-firefox-coop-released/>
 

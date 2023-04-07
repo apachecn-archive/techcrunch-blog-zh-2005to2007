@@ -1,4 +1,4 @@
-# 另一个限量版 Sidekick3:德韦恩·韦德版——TechCrunch
+# 另一个限量版 Sidekick3:德韦恩·韦德版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/02/another-limited-edition-sidekick3-dwayne-wade-edition/>
 

@@ -1,4 +1,4 @@
-# Stickis 推出联合网络注释器——TechCrunch
+# Stickis 推出联合网络注释器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/28/stickis-launches-syndicated-web-note-taker/>
 

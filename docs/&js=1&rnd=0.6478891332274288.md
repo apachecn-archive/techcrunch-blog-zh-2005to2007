@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/08/06/aol-proudly-releases-massive-amounts-of-user-search-data/&js=1&rnd=0.6478891332274288>
 

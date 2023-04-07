@@ -1,4 +1,4 @@
-# 博客为工会化的劳动力做好准备了吗？TechCrunch
+# 博客为工会化的劳动力做好准备了吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/05/is-blogging-ready-for-a-unionized-workforce/>
 

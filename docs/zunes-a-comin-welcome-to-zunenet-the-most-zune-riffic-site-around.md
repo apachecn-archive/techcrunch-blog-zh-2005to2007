@@ -1,4 +1,4 @@
-# Zune.net: Zune 即将推出——TechCrunch
+# Zune.net: Zune 即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/zunes-a-comin-welcome-to-zunenet-the-most-zune-riffic-site-around/>
 

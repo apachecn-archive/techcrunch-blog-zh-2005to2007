@@ -1,4 +1,4 @@
-# Zlango 基于图标的短信语言——TechCrunch
+# Zlango 基于图标的短信语言
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/28/zlangos-icon-based-language/>
 

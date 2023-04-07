@@ -1,4 +1,4 @@
-# 惠普正式宣布收购 Voodoo PC–TechCrunch
+# 惠普正式宣布收购 Voodoo PC
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/hp-officially-announces-purchase-of-voodoo-pc/>
 

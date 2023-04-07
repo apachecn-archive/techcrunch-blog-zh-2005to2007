@@ -1,4 +1,4 @@
-# 汉堡王提供 Xbox 和 Xbox 360 游戏——TechCrunch
+# 汉堡王提供 Xbox 和 Xbox 360 游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/burger-king-offers-xbox-and-xbox-360-games/>
 

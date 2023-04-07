@@ -1,4 +1,4 @@
-# 找不到页面| TechCrunch
+# 找不到页面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/23/big-money-for-tagged-too/&sa=D&usg=ALhdy2-LDFo4Py7SeCeViZtv0dmS6iEKsg/>
 

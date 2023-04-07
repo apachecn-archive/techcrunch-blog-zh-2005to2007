@@ -1,4 +1,4 @@
-# 2%的美国互联网流量通过 Photobucket TechCrunch
+# 2%的美国互联网流量通过 Photobucket 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/19/2-of-us-internet-traffic-through-photobucket/>
 

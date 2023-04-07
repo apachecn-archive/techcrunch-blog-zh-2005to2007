@@ -1,4 +1,4 @@
-# 黑莓 8800 快速查看–TechCrunch
+# 黑莓 8800 快速查看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/blackberry-8800-quick-look/>
 

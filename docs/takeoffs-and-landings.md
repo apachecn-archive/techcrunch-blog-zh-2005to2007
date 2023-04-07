@@ -1,4 +1,4 @@
-# 起飞和着陆——TechCrunch
+# 起飞和着陆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/11/takeoffs-and-landings/>
 

@@ -1,4 +1,4 @@
-# 更多 PSP 超薄信息披露 TechCrunch
+# 更多 PSP 超薄信息披露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/08/more-psp-slim-information-revealed/>
 

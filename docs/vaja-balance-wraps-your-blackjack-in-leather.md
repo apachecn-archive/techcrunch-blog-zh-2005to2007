@@ -1,4 +1,4 @@
-# Vaja Balance 用皮革包裹您的 21 点——TechCrunch
+# Vaja Balance 用皮革包裹您的 21 点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/vaja-balance-wraps-your-blackjack-in-leather/>
 

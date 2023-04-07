@@ -1,4 +1,4 @@
-# Glubble 让 Firefox 对家庭友好——TechCrunch
+# Glubble 让 Firefox 对家庭友好
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/18/glubble-makes-firefox-family-friendly/>
 

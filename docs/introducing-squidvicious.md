@@ -1,4 +1,4 @@
-# 介绍… SquidVicious | TechCrunch
+# 介绍… SquidVicious 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/introducing-squidvicious/>
 

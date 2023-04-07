@@ -1,4 +1,4 @@
-# 更多了解 Leopard Delay | TechCrunch
+# 更多了解 Leopard Delay 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/more-insight-into-leopard-delay/>
 

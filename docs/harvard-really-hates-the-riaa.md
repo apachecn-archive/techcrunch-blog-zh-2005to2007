@@ -1,4 +1,4 @@
-# 哈佛真的讨厌 RIAA——TechCrunch
+# 哈佛真的讨厌 RIAA
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/11/harvard-really-hates-the-riaa/>
 

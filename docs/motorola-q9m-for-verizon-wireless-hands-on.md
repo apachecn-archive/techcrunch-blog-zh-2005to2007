@@ -1,4 +1,4 @@
-# 威瑞森无线的摩托罗拉 Q9M:动手实践 TechCrunch
+# 威瑞森无线的摩托罗拉 Q9M:动手实践 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/motorola-q9m-for-verizon-wireless-hands-on/>
 

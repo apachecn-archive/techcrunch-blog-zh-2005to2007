@@ -1,4 +1,4 @@
-# 使命召唤走向移动——TechCrunch
+# 使命召唤走向移动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/call-of-duty-goes-mobile-2/>
 

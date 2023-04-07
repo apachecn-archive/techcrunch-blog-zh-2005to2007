@@ -1,4 +1,4 @@
-# 三星的新 NAND | TechCrunch
+# 三星的新 NAND 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/samsungs-new-nand/>
 

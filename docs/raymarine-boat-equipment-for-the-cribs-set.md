@@ -1,4 +1,4 @@
-# Raymarine:婴儿床的船只设备| TechCrunch
+# Raymarine:婴儿床的船只设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/28/raymarine-boat-equipment-for-the-cribs-set/>
 

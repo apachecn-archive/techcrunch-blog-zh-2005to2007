@@ -1,4 +1,4 @@
-# 让我们宣布电视已死，继续前进吧 TechCrunch
+# 让我们宣布电视已死，继续前进吧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/lets-just-declare-tv-dead-and-move-onhttpwwwtechcrunchcomwp-adminpostphpactioneditpost3865-2/>
 

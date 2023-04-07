@@ -1,4 +1,4 @@
-# 迄今为止，oDesk 外包项目花费了 1000 万美元| TechCrunch
+# 迄今为止，oDesk 外包项目花费了 1000 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/12/10-million-spent-to-date-on-odesk-outsourcing-projects/>
 

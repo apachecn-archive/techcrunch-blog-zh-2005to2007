@@ -1,4 +1,4 @@
-# 用巧克力再现冰冻韩| TechCrunch
+# 用巧克力再现冰冻韩
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/recreate-the-frozen-han-solo-with-chocolate/>
 

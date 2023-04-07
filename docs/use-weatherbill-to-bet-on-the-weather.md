@@ -1,4 +1,4 @@
-# 使用 WeatherBill 赌天气 TechCrunch
+# 使用 WeatherBill 赌天气 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/02/use-weatherbill-to-bet-on-the-weather/>
 

@@ -1,4 +1,4 @@
-# Yahoo.icio.us？-雅虎收购 del . icio . us TechCrunch
+# Yahoo.icio.us？-雅虎收购 del . icio . us 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/09/yahoo-acquires-delicious/>
 

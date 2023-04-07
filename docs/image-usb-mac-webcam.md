@@ -1,4 +1,4 @@
-# 图像 USB Mac 网络摄像头–TechCrunch
+# 图像 USB Mac 网络摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/image-usb-mac-webcam/>
 

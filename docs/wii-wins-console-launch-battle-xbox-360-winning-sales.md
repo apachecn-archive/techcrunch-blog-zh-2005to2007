@@ -1,4 +1,4 @@
-# Wii 赢得主机发布战，Xbox 360 赢得销售| TechCrunch
+# Wii 赢得主机发布战，Xbox 360 赢得销售
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/wii-wins-console-launch-battle-xbox-360-winning-sales/>
 

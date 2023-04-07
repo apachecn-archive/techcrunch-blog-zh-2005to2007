@@ -1,4 +1,4 @@
-# 你的工作女孩:女性健身 TechCrunch
+# 你的工作女孩:女性健身 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/16/you-work-it-girl-womens-fitness/>
 

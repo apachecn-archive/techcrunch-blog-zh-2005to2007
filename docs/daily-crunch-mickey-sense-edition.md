@@ -1,4 +1,4 @@
-# 每日危机:米奇感觉版| TechCrunch
+# 每日危机:米奇感觉版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/17/daily-crunch-mickey-sense-edition/>
 

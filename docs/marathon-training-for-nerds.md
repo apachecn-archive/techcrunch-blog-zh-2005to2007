@@ -1,4 +1,4 @@
-# 面向书呆子的马拉松训练——TechCrunch
+# 面向书呆子的马拉松训练
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/marathon-training-for-nerds/>
 

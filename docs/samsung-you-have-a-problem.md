@@ -1,4 +1,4 @@
-# 三星:你有厌食症——TechCrunch
+# 三星:你有厌食症
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/22/samsung-you-have-a-problem/>
 

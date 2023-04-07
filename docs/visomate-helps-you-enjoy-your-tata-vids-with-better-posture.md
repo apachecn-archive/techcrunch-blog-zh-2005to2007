@@ -1,4 +1,4 @@
-# Visomate 帮助您以更好的姿势享受塔塔视频——TechCrunch
+# Visomate 帮助您以更好的姿势享受塔塔视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/visomate-helps-you-enjoy-your-tata-vids-with-better-posture/>
 

@@ -1,4 +1,4 @@
-# Opie & Anthony 周五返回 XM；XM 免除重新激活费用——TechCrunch
+# Opie & Anthony 周五返回 XM；XM 免除重新激活费用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/opie-xm-waives-reactivation-fee/>
 

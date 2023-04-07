@@ -1,4 +1,4 @@
-# 快速播放列表夹克:你口袋里是一个 iPod 吗？–TechCrunch
+# 快速播放列表夹克:你口袋里是一个 iPod 吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/express-play-list-jacket-is-that-an-ipod-in-your-pocket/>
 

@@ -1,4 +1,4 @@
-# CES 2007 上最愚蠢的广告——TechCrunch
+# CES 2007 上最愚蠢的广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/dumbest-ad-yet-at-ces-2007/>
 

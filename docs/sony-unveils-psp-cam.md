@@ -1,4 +1,4 @@
-# 索尼推出 PSP 摄像头 TechCrunch
+# 索尼推出 PSP 摄像头 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/sony-unveils-psp-cam/>
 

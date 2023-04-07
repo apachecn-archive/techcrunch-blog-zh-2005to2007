@@ -1,4 +1,4 @@
-# Qumana 简单的博客广告收录——TechCrunch
+# Qumana 简单的博客广告收录
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/13/qumanas-simple-ad-inclusion-for-blogs/>
 

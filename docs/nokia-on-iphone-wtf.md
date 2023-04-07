@@ -1,4 +1,4 @@
-# iPhone 上的诺基亚:WTF！？TechCrunch
+# iPhone 上的诺基亚:WTF！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/nokia-on-iphone-wtf/>
 

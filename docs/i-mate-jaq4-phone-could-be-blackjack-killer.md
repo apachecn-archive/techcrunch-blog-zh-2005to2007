@@ -1,4 +1,4 @@
-# I-Mate JAQ4 手机可能是 21 点黑仔| TechCrunch
+# I-Mate JAQ4 手机可能是 21 点黑仔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/07/i-mate-jaq4-phone-could-be-blackjack-killer/>
 

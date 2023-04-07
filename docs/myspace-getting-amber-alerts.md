@@ -1,4 +1,4 @@
-# MySpace 收到黄色警报| TechCrunch
+# MySpace 收到黄色警报
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/myspace-getting-amber-alerts/>
 

@@ -1,4 +1,4 @@
-# Treo 680s 出现在 Fry ' s Electronics–TechCrunch
+# Treo 680s 出现在 Fry ' s Electronics
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/treo-680s-showing-up-at-frys-electronics/>
 

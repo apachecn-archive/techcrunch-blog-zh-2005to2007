@@ -1,4 +1,4 @@
-# 防松鼠卷纸机| TechCrunch
+# 防松鼠卷纸机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/squirrel-proof-rollerfeeder/>
 

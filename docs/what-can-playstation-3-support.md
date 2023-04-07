@@ -1,4 +1,4 @@
-# PlayStation 3 能支持什么？–TechCrunch
+# PlayStation 3 能支持什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/what-can-playstation-3-support/>
 

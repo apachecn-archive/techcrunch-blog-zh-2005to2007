@@ -1,4 +1,4 @@
-# 这很酷，除非它实现意识并杀死我们所有人 TechCrunch
+# 这很酷，除非它实现意识并杀死我们所有人 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/09/this-is-cool-unless-it-achieves-consciousness-and-kills-us-all/>
 

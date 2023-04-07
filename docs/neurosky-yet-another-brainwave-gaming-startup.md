@@ -1,4 +1,4 @@
-# NeuroSky，又一家脑波游戏创业公司——TechCrunch
+# NeuroSky，又一家脑波游戏创业公司
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/30/neurosky-yet-another-brainwave-gaming-startup/>
 

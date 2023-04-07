@@ -1,4 +1,4 @@
-# Sling Player 和 Apple TV 一起玩乐的惊心动魄的视频| TechCrunch
+# Sling Player 和 Apple TV 一起玩乐的惊心动魄的视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/heart-stopping-video-of-sling-player-and-apple-tv-having-fun-together/>
 

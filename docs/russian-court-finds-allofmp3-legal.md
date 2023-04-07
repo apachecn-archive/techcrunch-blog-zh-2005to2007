@@ -1,4 +1,4 @@
-# 俄罗斯法院认定 AllofMP3 合法——TechCrunch
+# 俄罗斯法院认定 AllofMP3 合法
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/15/russian-court-finds-allofmp3-legal/>
 

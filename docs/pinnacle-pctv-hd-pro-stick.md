@@ -1,4 +1,4 @@
-# 顶峰 PCTV 高清专业棒| TechCrunch
+# 顶峰 PCTV 高清专业棒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/pinnacle-pctv-hd-pro-stick/>
 

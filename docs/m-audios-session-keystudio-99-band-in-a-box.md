@@ -1,4 +1,4 @@
-# M-Audio 的 Session key studio:99 美元一盒的乐队| TechCrunch
+# M-Audio 的 Session key studio:99 美元一盒的乐队
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/m-audios-session-keystudio-99-band-in-a-box/>
 

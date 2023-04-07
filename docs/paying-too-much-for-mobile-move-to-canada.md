@@ -1,4 +1,4 @@
-# 为移动支付太多？搬到加拿大去！TechCrunch
+# 为移动支付太多？搬到加拿大去！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/13/paying-too-much-for-mobile-move-to-canada/>
 

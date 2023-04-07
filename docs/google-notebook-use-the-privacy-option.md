@@ -1,4 +1,4 @@
-# 谷歌笔记本:使用隐私选项——TechCrunch
+# 谷歌笔记本:使用隐私选项
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/27/google-notebook-use-the-privacy-option/>
 

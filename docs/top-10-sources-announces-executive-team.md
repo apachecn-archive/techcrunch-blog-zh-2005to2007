@@ -1,4 +1,4 @@
-# 十大消息来源宣布高管团队 TechCrunch
+# 十大消息来源宣布高管团队 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/22/top-10-sources-announces-executive-team/>
 

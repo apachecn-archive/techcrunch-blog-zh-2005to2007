@@ -1,4 +1,4 @@
-# LED 吉他精选| TechCrunch
+# LED 吉他精选
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/led-guitar-picks/>
 

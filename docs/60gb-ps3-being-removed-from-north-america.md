@@ -1,4 +1,4 @@
-# 60GB PS3 将从北美移除| TechCrunch
+# 60GB PS3 将从北美移除
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/60gb-ps3-being-removed-from-north-america/>
 

@@ -1,4 +1,4 @@
-# 迈拓共享存储 II 实践–TechCrunch
+# 迈拓共享存储 II 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/23/maxtor-shared-storage-ii-hands-on/>
 

@@ -1,4 +1,4 @@
-# 移动网络的使用正在上升——TechCrunch
+# 移动网络的使用正在上升
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/mobile-web-usage-on-the-rise/>
 

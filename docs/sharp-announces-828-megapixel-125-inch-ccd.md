@@ -1,4 +1,4 @@
-# 夏普宣布推出 828 万像素 1/2.5 英寸 CCD | TechCrunch
+# 夏普宣布推出 828 万像素 1/2.5 英寸 CCD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/21/sharp-announces-828-megapixel-125-inch-ccd/>
 

@@ -1,4 +1,4 @@
-# Maxfield Max-Sin Touch MP3 播放器–TechCrunch
+# Maxfield Max-Sin Touch MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/18/maxfield-max-sin-touch-mp3-player/>
 

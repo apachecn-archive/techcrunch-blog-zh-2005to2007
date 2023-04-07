@@ -1,4 +1,4 @@
-# Mondo Mint DMS300 评论–TechCrunch
+# Mondo Mint DMS300 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/mondo-mint-dms300-review/>
 

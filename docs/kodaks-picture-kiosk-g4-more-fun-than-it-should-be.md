@@ -1,4 +1,4 @@
-# 柯达的照片亭 G4 比它应有的更有趣——TechCrunch
+# 柯达的照片亭 G4 比它应有的更有趣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/16/kodaks-picture-kiosk-g4-more-fun-than-it-should-be/>
 

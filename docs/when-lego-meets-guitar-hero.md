@@ -1,4 +1,4 @@
-# 当乐高遇上吉他英雄——TechCrunch
+# 当乐高遇上吉他英雄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/when-lego-meets-guitar-hero/>
 

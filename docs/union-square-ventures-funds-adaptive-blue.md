@@ -1,4 +1,4 @@
-# Union Square Ventures 资助 Adaptive Blue——TechCrunch
+# Union Square Ventures 资助 Adaptive Blue
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/union-square-ventures-funds-adaptive-blue/>
 

@@ -1,4 +1,4 @@
-# 微软 Surface 恶搞视频 TechCrunch
+# 微软 Surface 恶搞视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/21/micorosft-surface-parody-video/>
 

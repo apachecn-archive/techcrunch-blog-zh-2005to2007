@@ -1,4 +1,4 @@
-# 冲刺后台:Flippy，伙计——TechCrunch
+# 冲刺后台:Flippy，伙计
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/25/sprint-upstage-flippy-man/>
 

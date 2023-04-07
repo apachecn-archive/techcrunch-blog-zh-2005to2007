@@ -1,4 +1,4 @@
-# 四核即将到来——TechCrunch
+# 四核即将到来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/17/quad-core-is-on-the-way/>
 

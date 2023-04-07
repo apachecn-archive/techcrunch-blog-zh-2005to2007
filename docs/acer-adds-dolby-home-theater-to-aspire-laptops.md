@@ -1,4 +1,4 @@
-# 宏碁为 Aspire 笔记本电脑添加杜比家庭影院——TechCrunch
+# 宏碁为 Aspire 笔记本电脑添加杜比家庭影院
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/05/acer-adds-dolby-home-theater-to-aspire-laptops/>
 

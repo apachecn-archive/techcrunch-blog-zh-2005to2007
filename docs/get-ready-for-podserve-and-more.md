@@ -1,4 +1,4 @@
-# 为 PodServe(及更多)做好准备——TechCrunch
+# 为 PodServe(及更多)做好准备
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/04/get-ready-for-podserve-and-more/>
 

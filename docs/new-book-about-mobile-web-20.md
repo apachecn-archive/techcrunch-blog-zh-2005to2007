@@ -1,4 +1,4 @@
-# 关于移动 Web 2.0 的新书| TechCrunch
+# 关于移动 Web 2.0 的新书
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/27/new-book-about-mobile-web-20/>
 

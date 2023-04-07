@@ -1,4 +1,4 @@
-# 英伟达下周将推出的下一款顶级 GPU:只是一个超频的 8800 GTX？–TechCrunch
+# 英伟达下周将推出的下一款顶级 GPU:只是一个超频的 8800 GTX？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/nvidias-next-top-of-the-line-gpu-to-appear-next-week-just-an-overclocked-8800-gtx/>
 

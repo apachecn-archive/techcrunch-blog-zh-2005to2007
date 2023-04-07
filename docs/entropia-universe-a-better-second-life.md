@@ -1,4 +1,4 @@
-# 安特罗皮亚宇宙:更好的第二人生？TechCrunch
+# 安特罗皮亚宇宙:更好的第二人生？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/17/entropia-universe-a-better-second-life/>
 

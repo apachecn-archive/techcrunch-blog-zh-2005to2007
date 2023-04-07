@@ -1,4 +1,4 @@
-# 奥林巴斯 SP-510 UZ 10 倍变焦数码相机| TechCrunch
+# 奥林巴斯 SP-510 UZ 10 倍变焦数码相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/olympus-sp-510-uz-10x-zoom-digicam/>
 

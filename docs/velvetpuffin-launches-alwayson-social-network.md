@@ -1,4 +1,4 @@
-# VelvetPuffin 推出“永远在线”社交网络| TechCrunch
+# VelvetPuffin 推出“永远在线”社交网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/04/velvetpuffin-launches-alwayson-social-network/>
 

@@ -1,4 +1,4 @@
-# SanDisk 宣布推出极致杜卡迪版硬盘| TechCrunch
+# SanDisk 宣布推出极致杜卡迪版硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/sandisk-announces-extreme-ducati-edition-drives/>
 

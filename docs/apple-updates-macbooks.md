@@ -1,4 +1,4 @@
-# 苹果更新 macbook——TechCrunch
+# 苹果更新 macbook
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/apple-updates-macbooks/>
 

@@ -1,4 +1,4 @@
-# Flickr 上最受欢迎的相机是什么？–TechCrunch
+# Flickr 上最受欢迎的相机是什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/22/whats-the-most-popular-camera-on-flickr/>
 

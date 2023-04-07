@@ -1,4 +1,4 @@
-# Commodore 游戏电脑亮相| TechCrunch
+# Commodore 游戏电脑亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/commodore-gaming-pcs-unveiled/>
 

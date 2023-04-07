@@ -1,4 +1,4 @@
-# 命名为 Squid 更新| TechCrunch
+# 命名为 Squid 更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/25/name-that-squid-update/>
 

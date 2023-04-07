@@ -1,4 +1,4 @@
-# WiMax 进展顺利–TechCrunch
+# WiMax 进展顺利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/wimax-moving-along-nicely/>
 

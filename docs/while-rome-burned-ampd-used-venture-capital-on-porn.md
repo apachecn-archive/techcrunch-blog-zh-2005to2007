@@ -1,4 +1,4 @@
-# 当罗马燃烧的时候，Amp 将风险投资用于色情业——TechCrunch
+# 当罗马燃烧的时候，Amp 将风险投资用于色情业
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/while-rome-burned-ampd-used-venture-capital-on-porn/>
 

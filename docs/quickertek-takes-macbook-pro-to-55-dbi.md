@@ -1,4 +1,4 @@
-# QuickerTek 将 Macbook Pro 提升至 5.5 dBi–TechCrunch
+# QuickerTek 将 Macbook Pro 提升至 5.5 dBi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/quickertek-takes-macbook-pro-to-55-dbi/>
 

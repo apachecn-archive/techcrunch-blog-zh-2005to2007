@@ -1,4 +1,4 @@
-# Cellfish.com: PC 到移动内容共享| TechCrunch
+# Cellfish.com: PC 到移动内容共享
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/26/cellfishcom-pc-to-mobile-content-sharing/>
 

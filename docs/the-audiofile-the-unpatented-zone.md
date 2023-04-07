@@ -1,4 +1,4 @@
-# 音频文件:无专利区——TechCrunch
+# 音频文件:无专利区
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/02/the-audiofile-the-unpatented-zone/>
 

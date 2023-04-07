@@ -1,4 +1,4 @@
-# PSP 用户的免费 WiFi——TechCrunch
+# PSP 用户的免费 WiFi
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/free-wifi-for-psp-owners/>
 

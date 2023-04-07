@@ -1,4 +1,4 @@
-# 来自海盗湾的未经审查的免费图片托管 TechCrunch
+# 来自海盗湾的未经审查的免费图片托管 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/20/uncensored-free-image-hosting-from-the-pirate-bay/>
 

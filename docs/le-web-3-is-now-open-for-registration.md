@@ -1,4 +1,4 @@
-# 乐 Web 3 现已开放报名！TechCrunch
+# 乐 Web 3 现已开放报名！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/le-web-3-is-now-open-for-registration/>
 

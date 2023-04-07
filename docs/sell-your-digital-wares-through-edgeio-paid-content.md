@@ -1,4 +1,4 @@
-# 通过 Edgeio 付费内容销售您的数字产品——TechCrunch
+# 通过 Edgeio 付费内容销售您的数字产品
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/10/sell-your-digital-wares-through-edgeio-paid-content/>
 

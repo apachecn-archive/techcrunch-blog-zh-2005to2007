@@ -1,4 +1,4 @@
-# 威瑞森增加短信套餐中的短信分配；不，真的！–TechCrunch
+# 威瑞森增加短信套餐中的短信分配；不，真的！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/01/verizon-increases-text-messaging-allotments-in-messaging-packages-no-really/>
 

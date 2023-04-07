@@ -1,4 +1,4 @@
-# Meebo 踏上现场音乐推广之路——TechCrunch
+# Meebo 踏上现场音乐推广之路
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/30/meebo-hits-the-live-music-promotion-road/>
 

@@ -1,4 +1,4 @@
-# Ogo 继续存在！TechCrunch
+# Ogo 继续存在！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/the-ogo-lives-on/>
 

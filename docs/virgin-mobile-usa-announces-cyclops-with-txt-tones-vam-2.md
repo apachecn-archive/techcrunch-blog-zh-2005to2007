@@ -1,4 +1,4 @@
-# 美国维珍手机公司宣布推出独眼巨人手机，VAM | TechCrunch
+# 美国维珍手机公司宣布推出独眼巨人手机，VAM 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/31/virgin-mobile-usa-announces-cyclops-with-txt-tones-vam-2/>
 

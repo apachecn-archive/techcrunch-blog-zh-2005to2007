@@ -1,4 +1,4 @@
-# 传言:Slide 的风险投资是 2000 万美元——TechCrunch
+# 传言:Slide 的风险投资是 2000 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/06/rumor-slides-venture-round-was-20-million/>
 

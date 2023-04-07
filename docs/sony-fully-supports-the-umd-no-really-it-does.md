@@ -1,4 +1,4 @@
-# 索尼全力支持 UMD。不，确实如此——TechCrunch
+# 索尼全力支持 UMD。不，确实如此
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/sony-fully-supports-the-umd-no-really-it-does/>
 

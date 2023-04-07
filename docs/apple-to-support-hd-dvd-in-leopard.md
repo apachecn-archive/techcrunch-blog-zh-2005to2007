@@ -1,4 +1,4 @@
-# 苹果将在 Leopard 中支持 HD DVD？–TechCrunch
+# 苹果将在 Leopard 中支持 HD DVD？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/apple-to-support-hd-dvd-in-leopard/>
 

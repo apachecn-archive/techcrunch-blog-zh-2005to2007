@@ -1,4 +1,4 @@
-# 一只海豚评论当今最热门的智能手机——TechCrunch
+# 一只海豚评论当今最热门的智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/a-dolphin-reviews-todays-hottest-smartphones/>
 

@@ -1,4 +1,4 @@
-# MySpace 安全措施禁止插件病毒式传播 TechCrunch
+# MySpace 安全措施禁止插件病毒式传播 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/20/myspace-security-measure-disables-viral-spread-of-widgets>
 

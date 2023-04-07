@@ -1,4 +1,4 @@
-# tassimo Premium Hands On | TechCrunch
+# tassimo Premium Hands On 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/tassimo-premium-hands-on/>
 

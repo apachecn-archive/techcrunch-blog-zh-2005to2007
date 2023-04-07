@@ -1,4 +1,4 @@
-# 电影电视:网飞缺失的功能 TechCrunch
+# 电影电视:网飞缺失的功能 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/02/movietally-netflixs-missing-features/>
 

@@ -1,4 +1,4 @@
-# 2007 年 MojoPlay 游戏液晶显示器| TechCrunch
+# 2007 年 MojoPlay 游戏液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/mojoplay-gaming-lcds-for-2007/>
 

@@ -1,4 +1,4 @@
-# 欧宝 Antara 有可伸缩的自行车架| TechCrunch
+# 欧宝 Antara 有可伸缩的自行车架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/opel-antara-has-retractable-bike-rack/>
 

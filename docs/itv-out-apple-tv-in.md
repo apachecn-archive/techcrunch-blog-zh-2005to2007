@@ -1,4 +1,4 @@
-# iTV 出局，Apple TV 入| TechCrunch
+# iTV 出局，Apple TV 入
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/itv-out-apple-tv-in/>
 

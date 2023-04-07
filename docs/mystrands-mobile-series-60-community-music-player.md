@@ -1,4 +1,4 @@
-# MyStrands Mobile:60 系列社区音乐播放器| TechCrunch
+# MyStrands Mobile:60 系列社区音乐播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/mystrands-mobile-series-60-community-music-player/>
 

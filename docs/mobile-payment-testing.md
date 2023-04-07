@@ -1,4 +1,4 @@
-# 移动支付测试| TechCrunch
+# 移动支付测试
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/15/mobile-payment-testing/>
 

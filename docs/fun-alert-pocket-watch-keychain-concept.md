@@ -1,4 +1,4 @@
-# 趣味提醒:怀表钥匙扣概念| TechCrunch
+# 趣味提醒:怀表钥匙扣概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/fun-alert-pocket-watch-keychain-concept/>
 

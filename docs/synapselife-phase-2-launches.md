@@ -1,4 +1,4 @@
-# SynapseLife 二期发布| TechCrunch
+# SynapseLife 二期发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/09/synapselife-phase-2-launches/>
 

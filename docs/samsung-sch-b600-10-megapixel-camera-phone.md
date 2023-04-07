@@ -1,4 +1,4 @@
-# 三星 SCH-B600 一千万像素照相手机| TechCrunch
+# 三星 SCH-B600 一千万像素照相手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/samsung-sch-b600-10-megapixel-camera-phone/>
 

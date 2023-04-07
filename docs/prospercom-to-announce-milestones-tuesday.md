@@ -1,4 +1,4 @@
-# Prosper.com 将于周二宣布里程碑——TechCrunch
+# Prosper.com 将于周二宣布里程碑
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/30/prospercom-to-announce-milestones-tuesday/>
 

@@ -1,4 +1,4 @@
-# WTF？柯达 EasyShare Z885 上的 ISO 8000–TechCrunch
+# WTF？柯达 EasyShare Z885 上的 ISO 8000
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/wtf-iso-8000-on-kodaks-easyshare-z885/>
 

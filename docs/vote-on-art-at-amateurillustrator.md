@@ -1,4 +1,4 @@
-# 业余插画师钉钉小众社交网络 TechCrunch
+# 业余插画师钉钉小众社交网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/20/vote-on-art-at-amateurillustrator/>
 

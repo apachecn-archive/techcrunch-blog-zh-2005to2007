@@ -1,4 +1,4 @@
-# 贝尔&罗斯 BR 01 幻影——TechCrunch
+# 贝尔&罗斯 BR 01 幻影
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/16/bell-ross-br-01-phantom/>
 

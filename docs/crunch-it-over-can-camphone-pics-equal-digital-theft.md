@@ -1,4 +1,4 @@
-# 仔细想想:手机照片能等同于数字盗窃吗？–TechCrunch
+# 仔细想想:手机照片能等同于数字盗窃吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/crunch-it-over-can-camphone-pics-equal-digital-theft/>
 

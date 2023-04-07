@@ -1,4 +1,4 @@
-# 电子革命万岁！–TechCrunch
+# 电子革命万岁！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/05/viva-la-e-revolution/>
 

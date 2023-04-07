@@ -1,4 +1,4 @@
-# 任天堂 DS 40GB 硬盘 Mod–TechCrunch
+# 任天堂 DS 40GB 硬盘 Mod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/11/nintendo-ds-40gb-hard-drive-mod/>
 

@@ -1,4 +1,4 @@
-# 苹果又欺负博主了 TechCrunch
+# 苹果又欺负博主了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/13/apple-bullies-bloggers-again>
 

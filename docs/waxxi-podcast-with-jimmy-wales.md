@@ -1,4 +1,4 @@
-# 吉米·多纳尔·威尔士的 Waxxi 播客 TechCrunch
+# 吉米·多纳尔·威尔士的 Waxxi 播客 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/09/waxxi-podcast-with-jimmy-wales/>
 

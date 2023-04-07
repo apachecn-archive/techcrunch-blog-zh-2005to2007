@@ -1,4 +1,4 @@
-# 苹果召回 180 万块电池——TechCrunch
+# 苹果召回 180 万块电池
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/24/apple-recalls-13-million-batteries/>
 

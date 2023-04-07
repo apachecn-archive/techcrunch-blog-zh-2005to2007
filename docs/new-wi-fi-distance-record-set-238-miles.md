@@ -1,4 +1,4 @@
-# 新的无线网络距离记录:238 英里——TechCrunch
+# 新的无线网络距离记录:238 英里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/new-wi-fi-distance-record-set-238-miles/>
 

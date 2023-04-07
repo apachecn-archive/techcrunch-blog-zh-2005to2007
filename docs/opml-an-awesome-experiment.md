@@ -1,4 +1,4 @@
-# OPML——一项了不起的实验 TechCrunch
+# OPML——一项了不起的实验 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/29/opml-an-awesome-experiment/>
 

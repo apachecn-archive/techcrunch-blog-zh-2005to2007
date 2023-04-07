@@ -1,4 +1,4 @@
-# 在哈博酒店举行的移动电话虚拟会议。TechCrunch
+# 在哈博酒店举行的移动电话虚拟会议。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/mobileyouth-virtual-meeting-in-habbo-hotel/>
 

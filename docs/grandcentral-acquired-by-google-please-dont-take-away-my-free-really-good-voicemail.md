@@ -1,4 +1,4 @@
-# 被谷歌收购的 GrandCentral:请不要拿走我免费的真的很好的语音信箱！TechCrunch
+# 被谷歌收购的 GrandCentral:请不要拿走我免费的真的很好的语音信箱！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/03/grandcentral-acquired-by-google-please-dont-take-away-my-free-really-good-voicemail/>
 

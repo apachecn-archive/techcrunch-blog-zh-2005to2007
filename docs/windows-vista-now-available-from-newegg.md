@@ -1,4 +1,4 @@
-# Windows Vista 现可从 NewEgg | TechCrunch 获得
+# Windows Vista 现可从 NewEgg  获得
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/24/windows-vista-now-available-from-newegg/>
 

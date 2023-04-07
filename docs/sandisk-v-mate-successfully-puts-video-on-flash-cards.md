@@ -1,4 +1,4 @@
-# SanDisk V-Mate 成功将视频放在闪存卡上——TechCrunch
+# SanDisk V-Mate 成功将视频放在闪存卡上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/sandisk-v-mate-successfully-puts-video-on-flash-cards/>
 

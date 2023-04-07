@@ -1,4 +1,4 @@
-# Rebtel 让国际通话变得便宜又简单——TechCrunch
+# Rebtel 让国际通话变得便宜又简单
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/26/rebtel-makes-international-calling-easy-and-cheap/>
 

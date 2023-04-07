@@ -1,4 +1,4 @@
-# 宽屏户外影院:黑白热遍| TechCrunch
+# 宽屏户外影院:黑白热遍
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/widescreen-outdoor-theater-black-and-white-and-hot-all-over/>
 

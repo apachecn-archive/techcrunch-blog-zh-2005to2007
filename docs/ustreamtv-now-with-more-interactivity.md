@@ -1,4 +1,4 @@
-# Ustream.tv 现在具有更多交互性| TechCrunch
+# Ustream.tv 现在具有更多交互性
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/ustreamtv-now-with-more-interactivity/>
 

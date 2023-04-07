@@ -1,4 +1,4 @@
-# 手机音乐在挣扎？TechCrunch
+# 手机音乐在挣扎？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/mobile-music-floundering/>
 

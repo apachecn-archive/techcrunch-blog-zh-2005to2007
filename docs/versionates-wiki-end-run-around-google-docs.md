@@ -1,4 +1,4 @@
-# Versionate 的 Wiki 围绕 Google Docs 运行——TechCrunch
+# Versionate 的 Wiki 围绕 Google Docs 运行
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/11/versionates-wiki-end-run-around-google-docs/>
 

@@ -1,4 +1,4 @@
-# iCarta iPod 基座和卫生纸架评论| TechCrunch
+# iCarta iPod 基座和卫生纸架评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/icarta-ipod-dock-and-toilet-paper-holder-reviewed/>
 

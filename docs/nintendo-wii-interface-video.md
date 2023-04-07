@@ -1,4 +1,4 @@
-# 任天堂 Wii 界面视频| TechCrunch
+# 任天堂 Wii 界面视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/nintendo-wii-interface-video/>
 

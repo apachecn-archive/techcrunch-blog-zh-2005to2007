@@ -1,4 +1,4 @@
-# LG 将艺术和空调融合在一起，成为 ARTCOOL——TechCrunch
+# LG 将艺术和空调融合在一起，成为 ARTCOOL
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/01/lg-fuses-art-and-air-conditioning-together-as-artcool/>
 

@@ -1,4 +1,4 @@
-# 在线备份的 Carbonite 解决方案 TechCrunch
+# 在线备份的 Carbonite 解决方案 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/17/the-carbonite-solution-to-online-backups/>
 

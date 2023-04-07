@@ -1,4 +1,4 @@
-# 苹果、微软尝试社交软件模式 TechCrunch
+# 苹果、微软尝试社交软件模式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/15/apple-microsoft-try-social-software-model/>
 

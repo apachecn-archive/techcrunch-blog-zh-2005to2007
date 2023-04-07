@@ -1,4 +1,4 @@
-# TomTom ONE GPS 在北美发布——TechCrunch
+# TomTom ONE GPS 在北美发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/tomtom-one-gps-released-in-north-america/>
 

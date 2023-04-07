@@ -1,4 +1,4 @@
-# JotSpot Live -完美的维基？TechCrunch
+# JotSpot Live -完美的维基？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/27/jotspot-live-the-perfect-wiki/>
 

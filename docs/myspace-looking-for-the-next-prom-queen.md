@@ -1,4 +1,4 @@
-# MySpace 正在寻找下一个“舞会皇后”——TechCrunch
+# MySpace 正在寻找下一个“舞会皇后”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/myspace-looking-for-the-next-prom-queen/>
 

@@ -1,4 +1,4 @@
-# 不要孤立 Fido——TechCrunch
+# 不要孤立 Fido
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/20/don%E2%80%99t-fence-fido-in/>
 

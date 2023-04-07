@@ -1,4 +1,4 @@
-# FBI 调查后第二人生禁止赌博 TechCrunch
+# FBI 调查后第二人生禁止赌博 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/25/second-life-bans-gambling-following-fbi-investigation/>
 

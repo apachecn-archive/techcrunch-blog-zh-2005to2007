@@ -1,4 +1,4 @@
-# 让我们玩全球热核战争…或者在| TechCrunch 之后会发生什么
+# 让我们玩全球热核战争…或者在 之后会发生什么
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/let%e2%80%99s-play-global-thermonuclear-war%e2%80%a6-or-what-happens-after/>
 

@@ -1,4 +1,4 @@
-# 完美俯卧撑:深夜炒作还是深夜炒作？–TechCrunch
+# 完美俯卧撑:深夜炒作还是深夜炒作？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/the-perfect-pushup-late-night-hype-or-late-night-hype/>
 

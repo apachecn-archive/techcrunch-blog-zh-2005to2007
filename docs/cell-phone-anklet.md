@@ -1,4 +1,4 @@
-# 手机脚链| TechCrunch
+# 手机脚链
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/cell-phone-anklet/>
 

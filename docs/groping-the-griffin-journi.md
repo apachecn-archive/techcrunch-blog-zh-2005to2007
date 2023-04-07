@@ -1,4 +1,4 @@
-# 探索格里芬杂志| TechCrunch
+# 探索格里芬杂志
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/16/groping-the-griffin-journi/>
 

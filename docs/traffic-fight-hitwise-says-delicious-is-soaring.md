@@ -1,4 +1,4 @@
-# 流量大战:Hitwise 称 Del.icio.us 正在飙升 TechCrunch
+# 流量大战:Hitwise 称 Del.icio.us 正在飙升 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/10/traffic-fight-hitwise-says-delicious-is-soaring>
 

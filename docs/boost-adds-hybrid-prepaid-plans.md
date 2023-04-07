@@ -1,4 +1,4 @@
-# Boost 增加混合预付费计划| TechCrunch
+# Boost 增加混合预付费计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/boost-adds-hybrid-prepaid-plans/>
 

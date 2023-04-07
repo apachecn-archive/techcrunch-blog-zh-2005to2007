@@ -1,4 +1,4 @@
-# SanDisk V-Mate 闪存录像机–TechCrunch
+# SanDisk V-Mate 闪存录像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/sandisk-v-mate-flash-video-recorder/>
 

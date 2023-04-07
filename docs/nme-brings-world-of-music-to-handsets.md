@@ -1,4 +1,4 @@
-# NME 将音乐世界带入手机——TechCrunch
+# NME 将音乐世界带入手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/nme-brings-world-of-music-to-handsets/>
 

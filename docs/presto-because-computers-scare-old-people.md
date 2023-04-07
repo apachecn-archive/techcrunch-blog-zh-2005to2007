@@ -1,4 +1,4 @@
-# 很快:因为电脑会吓到老人——TechCrunch
+# 很快:因为电脑会吓到老人
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/27/presto-because-computers-scare-old-people/>
 

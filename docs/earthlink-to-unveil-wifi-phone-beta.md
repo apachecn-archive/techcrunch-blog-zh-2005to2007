@@ -1,4 +1,4 @@
-# EarthLink 将推出 WiFi 手机测试版| TechCrunch
+# EarthLink 将推出 WiFi 手机测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/earthlink-to-unveil-wifi-phone-beta/>
 

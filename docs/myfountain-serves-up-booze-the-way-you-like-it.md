@@ -1,4 +1,4 @@
-# MyFountain 以你喜欢的方式提供酒水——TechCrunch
+# MyFountain 以你喜欢的方式提供酒水
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/12/myfountain-serves-up-booze-the-way-you-like-it/>
 

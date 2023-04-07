@@ -1,4 +1,4 @@
-# 美国在线可能会扼杀他们的网景 Digg 克隆版 TechCrunch
+# 美国在线可能会扼杀他们的网景 Digg 克隆版 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/aol-may-kill-their-netscape-digg-clone/>
 

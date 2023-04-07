@@ -1,4 +1,4 @@
-# Panthius.com 演示销售力量模型–TechCrunch
+# Panthius.com 演示销售力量模型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/panthiuscom-demos-salesforce-model/>
 

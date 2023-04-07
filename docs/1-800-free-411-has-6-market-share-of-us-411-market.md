@@ -1,4 +1,4 @@
-# 1-800-Free-411 在美国移动 411 市场拥有 6%的市场份额 TechCrunch
+# 1-800-Free-411 在美国移动 411 市场拥有 6%的市场份额 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/15/1-800-free-411-has-6-market-share-of-us-411-market/>
 

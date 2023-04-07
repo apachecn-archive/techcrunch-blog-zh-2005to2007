@@ -1,4 +1,4 @@
-# 穿梭 XPC SD37P2:最快的小型电脑——TechCrunch
+# 穿梭 XPC SD37P2:最快的小型电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/shuttle-xpc-sd37p2-fastest-small-form-factor-pc/>
 

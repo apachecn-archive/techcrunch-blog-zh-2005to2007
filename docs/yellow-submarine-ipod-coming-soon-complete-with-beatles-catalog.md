@@ -1,4 +1,4 @@
-# 黄色潜水艇 iPod 即将推出，包括披头士乐队的目录 TechCrunch
+# 黄色潜水艇 iPod 即将推出，包括披头士乐队的目录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/12/yellow-submarine-ipod-coming-soon-complete-with-beatles-catalog/>
 

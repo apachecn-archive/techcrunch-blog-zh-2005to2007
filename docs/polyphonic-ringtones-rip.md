@@ -1,4 +1,4 @@
-# 合成音铃声 RIP–TechCrunch
+# 合成音铃声 RIP
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/polyphonic-ringtones-rip/>
 

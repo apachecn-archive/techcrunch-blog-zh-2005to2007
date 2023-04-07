@@ -1,4 +1,4 @@
-# 传奇的萝拉·卡芙特来到你的口袋——TechCrunch
+# 传奇的萝拉·卡芙特来到你的口袋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/24/legendary-lara-crofts-in-your-pocket/>
 

@@ -1,4 +1,4 @@
-# 诺基亚和微软保护合作伙伴——TechCrunch
+# 诺基亚和微软保护合作伙伴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/nokia-and-microsoft-partner-on-protection/>
 

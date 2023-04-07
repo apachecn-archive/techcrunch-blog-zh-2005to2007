@@ -1,4 +1,4 @@
-# Alesis iMultiMix 8 USB 记录到 iPod–TechCrunch
+# Alesis iMultiMix 8 USB 记录到 iPod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/12/alesis-imultimix-8-usb-records-right-to-ipod/>
 

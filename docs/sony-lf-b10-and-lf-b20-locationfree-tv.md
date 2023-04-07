@@ -1,4 +1,4 @@
-# 索尼 LF-B10 和 LF-B20 无位置电视–TechCrunch
+# 索尼 LF-B10 和 LF-B20 无位置电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/sony-lf-b10-and-lf-b20-locationfree-tv/>
 

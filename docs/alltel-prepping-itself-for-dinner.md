@@ -1,4 +1,4 @@
-# Alltel 在为晚餐做准备？–TechCrunch
+# Alltel 在为晚餐做准备？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/alltel-prepping-itself-for-dinner/>
 

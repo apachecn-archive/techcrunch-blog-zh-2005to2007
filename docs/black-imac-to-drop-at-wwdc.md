@@ -1,4 +1,4 @@
-# 黑色 iMac 将登陆 WWDC？TechCrunch
+# 黑色 iMac 将登陆 WWDC？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/black-imac-to-drop-at-wwdc/>
 

@@ -1,4 +1,4 @@
-# 博彩爱好者的社交网络——TechCrunch
+# 博彩爱好者的社交网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/22/social-network-for-betting-junkies/>
 

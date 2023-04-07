@@ -1,4 +1,4 @@
-# JibJab 的“伟大的素描实验”TechCrunch
+# JibJab 的“伟大的素描实验”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/20/jibjabs-great-sketch-experiment/>
 

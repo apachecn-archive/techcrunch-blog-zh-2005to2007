@@ -1,4 +1,4 @@
-# Technorati 现在有了权威——TechCrunch
+# Technorati 现在有了权威
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/13/technorati-now-has-authority/>
 

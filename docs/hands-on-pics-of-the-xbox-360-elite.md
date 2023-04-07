@@ -1,4 +1,4 @@
-# Xbox 360 Elite 的实际照片——TechCrunch
+# Xbox 360 Elite 的实际照片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/hands-on-pics-of-the-xbox-360-elite/>
 

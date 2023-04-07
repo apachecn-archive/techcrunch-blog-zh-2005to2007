@@ -1,4 +1,4 @@
-# 400，000 台 PS3 在美国上市| TechCrunch
+# 400，000 台 PS3 在美国上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/400000-ps3s-for-us-launch/>
 

@@ -1,4 +1,4 @@
-# Scrybe 同步日历已推出测试版——TechCrunch
+# Scrybe 同步日历已推出测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/10/31/scrybe-syncing-calendar-has-launched-in-beta/>
 

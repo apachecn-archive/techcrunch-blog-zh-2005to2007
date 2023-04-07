@@ -1,4 +1,4 @@
-# 索尼 Gachapin(？？)SE MP3 播放器| TechCrunch
+# 索尼 Gachapin(？？)SE MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/sony-gachapin-se-mp3-player/>
 

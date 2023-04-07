@@ -1,4 +1,4 @@
-# Quicktime 更新增加了 Apple TV 支持–TechCrunch
+# Quicktime 更新增加了 Apple TV 支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/19/quicktime-update-adds-apple-tv-support/>
 

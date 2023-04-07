@@ -1,4 +1,4 @@
-# 先锋李书行高清电视只做 720p | TechCrunch
+# 先锋李书行高清电视只做 720p 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/pioneer-kuro-hdtvs-only-do-720p/>
 

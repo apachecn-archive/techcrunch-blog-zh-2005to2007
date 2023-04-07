@@ -1,4 +1,4 @@
-# 诺基亚纽约店先睹为快——TechCrunch
+# 诺基亚纽约店先睹为快
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/nokia-new-york-store-sneak-peek/>
 

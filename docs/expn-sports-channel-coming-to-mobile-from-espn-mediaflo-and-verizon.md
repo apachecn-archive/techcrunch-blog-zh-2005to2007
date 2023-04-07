@@ -1,4 +1,4 @@
-# EXPN 体育频道将从 ESPN、MediaFlo 和威瑞森转移到移动设备| TechCrunch
+# EXPN 体育频道将从 ESPN、MediaFlo 和威瑞森转移到移动设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/expn-sports-channel-coming-to-mobile-from-espn-mediaflo-and-verizon/>
 

@@ -1,4 +1,4 @@
-# 简单的 Web 2.0 流量趋势跟踪器 TechCrunch
+# 简单的 Web 2.0 流量趋势跟踪器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/07/simple-web-2-traffic-trends-tracker/>
 

@@ -1,4 +1,4 @@
-# Book Time 5000 自动图书阅读器–TechCrunch
+# Book Time 5000 自动图书阅读器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/book-time-5000-automatic-book-reader/>
 

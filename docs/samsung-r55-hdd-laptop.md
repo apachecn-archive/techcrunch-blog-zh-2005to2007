@@ -1,4 +1,4 @@
-# 三星 R55 硬盘笔记本电脑| TechCrunch
+# 三星 R55 硬盘笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/samsung-r55-hdd-laptop/>
 

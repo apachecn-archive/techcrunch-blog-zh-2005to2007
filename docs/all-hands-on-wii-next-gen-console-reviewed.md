@@ -1,4 +1,4 @@
-# Wii 上的所有人:下一代游戏机审查 TechCrunch
+# Wii 上的所有人:下一代游戏机审查 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/all-hands-on-wii-next-gen-console-reviewed/>
 

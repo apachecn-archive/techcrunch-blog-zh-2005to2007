@@ -1,4 +1,4 @@
-# 发布传输 0.71–修复关键问题| TechCrunch
+# 发布传输 0.71–修复关键问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/transmission-071-released-key-issues-fixed/>
 

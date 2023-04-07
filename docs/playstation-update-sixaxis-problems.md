@@ -1,4 +1,4 @@
-# PlayStation 更新+ SIXAXIS 问题| TechCrunch
+# PlayStation 更新+ SIXAXIS 问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/29/playstation-update-sixaxis-problems/>
 

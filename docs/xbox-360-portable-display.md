@@ -1,4 +1,4 @@
-# Xbox 360 便携式显示器–TechCrunch
+# Xbox 360 便携式显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/17/xbox-360-portable-display/>
 

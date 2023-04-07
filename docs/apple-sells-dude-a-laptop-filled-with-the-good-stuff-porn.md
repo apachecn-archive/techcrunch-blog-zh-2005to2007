@@ -1,4 +1,4 @@
-# 苹果卖给杜德一台装满好东西(色情)的笔记本电脑——TechCrunch
+# 苹果卖给杜德一台装满好东西(色情)的笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/apple-sells-dude-a-laptop-filled-with-the-good-stuff-porn/>
 

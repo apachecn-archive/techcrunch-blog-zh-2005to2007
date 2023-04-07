@@ -1,4 +1,4 @@
-# Diet Television 修改名称，花费 200 万美元——TechCrunch
+# Diet Television 修改名称，花费 200 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/13/diet-television-trims-name-takes-2-million/>
 

@@ -1,4 +1,4 @@
-# 耐克:再见，iPod！嗨，手表！| TechCrunch
+# 耐克:再见，iPod！嗨，手表！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/17/nike-bye-ipod-hi-wristwatch/>
 

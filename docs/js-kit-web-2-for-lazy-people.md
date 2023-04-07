@@ -1,4 +1,4 @@
-# JS-Kit:懒人的 Web 2.0 TechCrunch
+# JS-Kit:懒人的 Web 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/23/js-kit-web-2-for-lazy-people/>
 

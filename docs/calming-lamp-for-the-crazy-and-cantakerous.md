@@ -1,4 +1,4 @@
-# 为疯狂和暴躁的人准备的镇静灯——TechCrunch
+# 为疯狂和暴躁的人准备的镇静灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/calming-lamp-for-the-crazy-and-cantakerous/>
 

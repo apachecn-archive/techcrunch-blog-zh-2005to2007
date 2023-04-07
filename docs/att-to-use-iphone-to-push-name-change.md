@@ -1,4 +1,4 @@
-# 美国电话电报公司将使用 iPhone 推动更名——TechCrunch
+# 美国电话电报公司将使用 iPhone 推动更名
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/att-to-use-iphone-to-push-name-change/>
 

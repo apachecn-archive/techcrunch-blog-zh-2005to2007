@@ -1,4 +1,4 @@
-# SynapseLife 捆绑了许多小工具——TechCrunch
+# SynapseLife 捆绑了许多小工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/31/synapselife-will-offer-lightweight-life-management/>
 

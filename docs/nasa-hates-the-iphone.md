@@ -1,4 +1,4 @@
-# NASA 讨厌 iPhone | TechCrunch
+# NASA 讨厌 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/31/nasa-hates-the-iphone/>
 

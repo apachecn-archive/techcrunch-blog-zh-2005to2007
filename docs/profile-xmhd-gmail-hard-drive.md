@@ -1,4 +1,4 @@
-# XMHD (Gmail 硬盘)–TechCrunch
+# XMHD (Gmail 硬盘)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/01/profile-xmhd-gmail-hard-drive/>
 

@@ -1,4 +1,4 @@
-# 美国在线将推出“我的空间黑仔”——TechCrunch
+# 美国在线将推出“我的空间黑仔”
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/19/aol-to-launch-myspace-killer>
 

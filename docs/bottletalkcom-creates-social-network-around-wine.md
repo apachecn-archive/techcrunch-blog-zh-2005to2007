@@ -1,4 +1,4 @@
-# Bottletalk.com 围绕葡萄酒创建社交网络——TechCrunch
+# Bottletalk.com 围绕葡萄酒创建社交网络
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/05/bottletalkcom-creates-social-network-around-wine/>
 

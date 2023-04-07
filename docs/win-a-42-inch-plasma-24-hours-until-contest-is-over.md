@@ -1,4 +1,4 @@
-# 赢得 42 英寸等离子电视:比赛结束前 24 小时——TechCrunch
+# 赢得 42 英寸等离子电视:比赛结束前 24 小时
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/win-a-42-inch-plasma-24-hours-until-contest-is-over/>
 

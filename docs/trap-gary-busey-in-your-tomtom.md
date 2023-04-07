@@ -1,4 +1,4 @@
-# 把加里·布西困在你的 TomTom | TechCrunch 里
+# 把加里·布西困在你的 TomTom  里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/trap-gary-busey-in-your-tomtom/>
 

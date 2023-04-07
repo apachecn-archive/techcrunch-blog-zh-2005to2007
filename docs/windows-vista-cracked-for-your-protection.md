@@ -1,4 +1,4 @@
-# Windows Vista:为保护您而破解——TechCrunch
+# Windows Vista:为保护您而破解
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/13/windows-vista-cracked-for-your-protection/>
 

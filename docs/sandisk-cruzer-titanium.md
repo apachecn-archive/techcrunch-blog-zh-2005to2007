@@ -1,4 +1,4 @@
-# 战斗测试:SanDisk Cruzer 钛| TechCrunch
+# 战斗测试:SanDisk Cruzer 钛
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/sandisk-cruzer-titanium/>
 

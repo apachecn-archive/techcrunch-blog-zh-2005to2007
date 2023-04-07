@@ -1,4 +1,4 @@
-# Xbox 360 Elite 毕竟不是精英| TechCrunch
+# Xbox 360 Elite 毕竟不是精英
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/xbox-360-elite-not-so-elite-after-all/>
 

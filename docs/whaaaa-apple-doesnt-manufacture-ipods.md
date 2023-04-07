@@ -1,4 +1,4 @@
-# 什么？？？苹果不制造 iPods？！TechCrunch
+# 什么？？？苹果不制造 iPods？！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/whaaaa-apple-doesnt-manufacture-ipods/>
 

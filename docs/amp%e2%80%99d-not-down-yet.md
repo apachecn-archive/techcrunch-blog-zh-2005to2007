@@ -1,4 +1,4 @@
-# 尚未关闭| TechCrunch
+# 尚未关闭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/amp%e2%80%99d-not-down-yet/>
 

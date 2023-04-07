@@ -1,4 +1,4 @@
-# 自然无线激光鼠标 6000，微软的新鼠标——TechCrunch
+# 自然无线激光鼠标 6000，微软的新鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/30/natural-wireless-laser-mouse-6000-microsofts-crazy-looking-new-mouse/>
 

@@ -1,4 +1,4 @@
-# myMobileMedia 允许您播放受 DRM 保护的音乐| TechCrunch
+# myMobileMedia 允许您播放受 DRM 保护的音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/mymobilemedia-lets-you-stream-drm-protected-tunes/>
 

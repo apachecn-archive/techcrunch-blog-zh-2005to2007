@@ -1,4 +1,4 @@
-# 竞争来了，阿波罗——TechCrunch
+# 竞争来了，阿波罗
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/23/here-comes-competition-apollo/>
 

@@ -1,4 +1,4 @@
-# 美国电话电报公司挂断企业客户的电话——TechCrunch
+# 美国电话电报公司挂断企业客户的电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/01/att-hangs-up-on-business-customers/>
 

@@ -1,4 +1,4 @@
-# 用于 MAC 的 Buffalo USB 数字电视调谐器–TechCrunch
+# 用于 MAC 的 Buffalo USB 数字电视调谐器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/01/buffalo-usb-digital-tv-tuner-for-macs/>
 

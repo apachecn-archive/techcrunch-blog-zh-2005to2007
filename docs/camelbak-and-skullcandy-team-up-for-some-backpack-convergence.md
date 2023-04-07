@@ -1,4 +1,4 @@
-# CamelBak 和 Skullcandy 合作进行背包整合——TechCrunch
+# CamelBak 和 Skullcandy 合作进行背包整合
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/camelbak-and-skullcandy-team-up-for-some-backpack-convergence/>
 

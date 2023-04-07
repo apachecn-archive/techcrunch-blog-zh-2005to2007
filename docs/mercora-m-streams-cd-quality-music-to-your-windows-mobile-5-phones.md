@@ -1,4 +1,4 @@
-# Mercora M 将 CD 品质的音乐传输到您的 Windows Mobile 5 手机| TechCrunch
+# Mercora M 将 CD 品质的音乐传输到您的 Windows Mobile 5 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/mercora-m-streams-cd-quality-music-to-your-windows-mobile-5-phones/>
 

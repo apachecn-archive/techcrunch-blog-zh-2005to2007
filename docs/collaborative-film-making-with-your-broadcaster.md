@@ -1,4 +1,4 @@
-# 与广播公司合作制作电影——TechCrunch
+# 与广播公司合作制作电影
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/21/collaborative-film-making-with-your-broadcaster/>
 

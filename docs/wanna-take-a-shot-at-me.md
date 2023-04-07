@@ -1,4 +1,4 @@
-# 想向我开枪吗？–TechCrunch
+# 想向我开枪吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/28/wanna-take-a-shot-at-me/>
 

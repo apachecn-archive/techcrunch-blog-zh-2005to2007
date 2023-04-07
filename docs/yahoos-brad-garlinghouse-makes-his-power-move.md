@@ -1,4 +1,4 @@
-# 雅虎的布拉德·加林豪斯使他的权力移动 TechCrunch
+# 雅虎的布拉德·加林豪斯使他的权力移动 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/18/yahoos-brad-garlinghouse-makes-his-power-move/>
 

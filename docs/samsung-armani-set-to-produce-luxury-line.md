@@ -1,4 +1,4 @@
-# 三星、阿玛尼将推出奢侈品系列——TechCrunch
+# 三星、阿玛尼将推出奢侈品系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/samsung-armani-set-to-produce-luxury-line/>
 

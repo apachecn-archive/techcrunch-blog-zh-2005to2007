@@ -1,4 +1,4 @@
-# OWC 宣布为 MacBook Pro | TechCrunch 升级 4GB 内存
+# OWC 宣布为 MacBook Pro  升级 4GB 内存
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/15/owc-announces-4gb-memory-upgrade-for-macbook-pro/>
 

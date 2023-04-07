@@ -1,4 +1,4 @@
-# 三星 E700: Wha？–TechCrunch
+# 三星 E700: Wha？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/samsung-e700-wha/>
 

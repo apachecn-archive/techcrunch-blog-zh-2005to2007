@@ -1,4 +1,4 @@
-# 你在光明节收到了什么？TechCrunch
+# 你在光明节收到了什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/27/what-did-you-receive-for-hanukkah/>
 

@@ -1,4 +1,4 @@
-# Alltel 增加“mywaves”移动视频服务| TechCrunch
+# Alltel 增加“mywaves”移动视频服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/alltels-mywaves-mobile-video-service-launches/>
 

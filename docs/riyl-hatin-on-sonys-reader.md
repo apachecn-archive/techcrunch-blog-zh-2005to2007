@@ -1,4 +1,4 @@
-# RIYL:憎恨索尼阅读器——TechCrunch
+# RIYL:憎恨索尼阅读器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/riyl-hatin-on-sonys-reader/>
 

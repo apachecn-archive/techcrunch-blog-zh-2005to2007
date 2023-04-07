@@ -1,4 +1,4 @@
-# 共享网站 eSnips 增加了电子商务 TechCrunch
+# 共享网站 eSnips 增加了电子商务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/10/sharing-site-esnips-adds-e-commerce/>
 

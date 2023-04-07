@@ -1,4 +1,4 @@
-# 预见 iTunes 视频租赁公告 TechCrunch
+# 预见 iTunes 视频租赁公告 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/18/itunes-video-rental-announcement-forseen/>
 

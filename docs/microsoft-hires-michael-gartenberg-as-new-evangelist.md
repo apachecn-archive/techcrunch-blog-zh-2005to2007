@@ -1,4 +1,4 @@
-# 微软聘用迈克尔·加滕伯格为新布道者 TechCrunch
+# 微软聘用迈克尔·加滕伯格为新布道者 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/15/microsoft-hires-michael-gartenberg-as-new-evangelist/>
 

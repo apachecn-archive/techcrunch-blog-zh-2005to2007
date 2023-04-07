@@ -1,4 +1,4 @@
-# 买一个苹果显示器，让里面有小虫子——TechCrunch
+# 买一个苹果显示器，让里面有小虫子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/05/buy-an-apple-display-get-tiny-bugs-inside-it/>
 

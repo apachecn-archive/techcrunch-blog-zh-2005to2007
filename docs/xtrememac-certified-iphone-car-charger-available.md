@@ -1,4 +1,4 @@
-# XtremeMac 认证的 iPhone 车载充电器可用| TechCrunch
+# XtremeMac 认证的 iPhone 车载充电器可用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/xtrememac-certified-iphone-car-charger-available/>
 

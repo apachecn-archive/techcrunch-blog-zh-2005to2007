@@ -1,4 +1,4 @@
-# 谷歌收购维基协作公司 Jotspot TechCrunch
+# 谷歌收购维基协作公司 Jotspot 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/10/31/google-acquires-wiki-company-jotspot/>
 

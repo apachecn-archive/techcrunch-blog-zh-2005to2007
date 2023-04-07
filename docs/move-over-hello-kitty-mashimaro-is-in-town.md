@@ -1,4 +1,4 @@
-# 跳过 Hello Kitty，流氓兔就在镇上——TechCrunch
+# 跳过 Hello Kitty，流氓兔就在镇上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/move-over-hello-kitty-mashimaro-is-in-town/>
 

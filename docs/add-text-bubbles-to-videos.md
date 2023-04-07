@@ -1,4 +1,4 @@
-# 向视频添加文本气泡 TechCrunch
+# 向视频添加文本气泡 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/10/add-text-bubbles-to-videos/>
 

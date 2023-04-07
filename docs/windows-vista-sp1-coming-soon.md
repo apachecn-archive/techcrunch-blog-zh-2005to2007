@@ -1,4 +1,4 @@
-# Windows Vista SP1 即将推出——TechCrunch
+# Windows Vista SP1 即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/windows-vista-sp1-coming-soon/>
 

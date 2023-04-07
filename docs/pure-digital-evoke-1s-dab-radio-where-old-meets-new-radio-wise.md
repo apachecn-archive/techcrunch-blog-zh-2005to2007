@@ -1,4 +1,4 @@
-# 纯数字唤起 1S DAB 收音机:旧与新的相遇(收音机方面)TechCrunch
+# 纯数字唤起 1S DAB 收音机:旧与新的相遇(收音机方面)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/pure-digital-evoke-1s-dab-radio-where-old-meets-new-radio-wise/>
 

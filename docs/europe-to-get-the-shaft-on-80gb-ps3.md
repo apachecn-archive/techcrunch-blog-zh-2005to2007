@@ -1,4 +1,4 @@
-# 欧洲将推出 80GB PS3 | TechCrunch
+# 欧洲将推出 80GB PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/europe-to-get-the-shaft-on-80gb-ps3/>
 

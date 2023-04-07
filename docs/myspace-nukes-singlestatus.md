@@ -1,4 +1,4 @@
-# MySpace Nukes singlestat . us–TechCrunch
+# MySpace Nukes singlestat . us
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/15/myspace-nukes-singlestatus/>
 

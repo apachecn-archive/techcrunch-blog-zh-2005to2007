@@ -1,4 +1,4 @@
-# FreshBooks invoicing 报告您的累积情况——TechCrunch
+# FreshBooks invoicing 报告您的累积情况
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/05/freshbooks-invoicing-reports-how-you-stack-up/>
 

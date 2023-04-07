@@ -1,4 +1,4 @@
-# 向你的新银行机器人大师——TechCrunch 致敬
+# 向你的新银行机器人大师 致敬
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/20/bow-to-your-new-banking-robotic-master/>
 

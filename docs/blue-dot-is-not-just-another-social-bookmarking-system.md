@@ -1,4 +1,4 @@
-# 蓝点不仅仅是另一个社会化书签系统 TechCrunch
+# 蓝点不仅仅是另一个社会化书签系统 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/06/blue-dot-is-not-just-another-social-bookmarking-system/>
 

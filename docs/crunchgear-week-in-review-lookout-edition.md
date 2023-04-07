@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:了望版 TechCrunch
+# CrunchGear 周回顾:了望版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/29/crunchgear-week-in-review-lookout-edition/>
 

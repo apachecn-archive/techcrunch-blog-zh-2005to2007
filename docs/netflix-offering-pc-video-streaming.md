@@ -1,4 +1,4 @@
-# 网飞提供电脑视频流| TechCrunch
+# 网飞提供电脑视频流
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/netflix-offering-pc-video-streaming/>
 

@@ -1,4 +1,4 @@
-# Wi-Ex zBoost YX500/510 手机扩展器第一眼:哦哇| TechCrunch
+# Wi-Ex zBoost YX500/510 手机扩展器第一眼:哦哇
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/15/wi-ex-zboost-yx500510-cellphone-extender-first-look-oh-wow/>
 

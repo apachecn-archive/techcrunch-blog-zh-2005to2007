@@ -1,4 +1,4 @@
-# Zune 不兼容| TechCrunch
+# Zune 不兼容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/zune-not-mac-compatible/>
 

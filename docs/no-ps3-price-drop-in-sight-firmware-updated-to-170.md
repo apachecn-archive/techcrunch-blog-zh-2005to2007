@@ -1,4 +1,4 @@
-# PS3 价格看不到下降的迹象；固件更新至 1.70–TechCrunch
+# PS3 价格看不到下降的迹象；固件更新至 1.70
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/no-ps3-price-drop-in-sight-firmware-updated-to-170/>
 

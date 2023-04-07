@@ -1,4 +1,4 @@
-# 读者反应:Festivus 周–第三天| TechCrunch
+# 读者反应:Festivus 周–第三天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/20/reader-response-festivus-week-day-3/>
 

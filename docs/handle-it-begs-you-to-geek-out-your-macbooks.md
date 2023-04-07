@@ -1,4 +1,4 @@
-# 手柄——它恳求你拿出你的 macbook——TechCrunch
+# 手柄——它恳求你拿出你的 macbook
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/02/handle-it-begs-you-to-geek-out-your-macbooks/>
 

@@ -1,4 +1,4 @@
-# 在易贝购买 DigForIt——TechCrunch
+# 在易贝购买 DigForIt
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/04/want-to-buy-a-search-engine-2/>
 

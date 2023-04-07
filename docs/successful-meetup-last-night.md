@@ -1,4 +1,4 @@
-# 昨晚的成功聚会——TechCrunch
+# 昨晚的成功聚会
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/23/successful-meetup-last-night/>
 

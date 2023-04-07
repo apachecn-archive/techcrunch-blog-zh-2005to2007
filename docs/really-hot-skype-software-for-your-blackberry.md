@@ -1,4 +1,4 @@
-# 为您的黑莓手机提供真正热门的 Skype 软件——TechCrunch
+# 为您的黑莓手机提供真正热门的 Skype 软件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/09/really-hot-skype-software-for-your-blackberry/>
 

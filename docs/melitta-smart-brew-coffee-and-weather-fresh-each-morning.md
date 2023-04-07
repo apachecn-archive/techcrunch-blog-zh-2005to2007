@@ -1,4 +1,4 @@
-# Melitta Smart Brew:咖啡和天气，每天早上新鲜| TechCrunch
+# Melitta Smart Brew:咖啡和天气，每天早上新鲜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/melitta-smart-brew-coffee-and-weather-fresh-each-morning/>
 

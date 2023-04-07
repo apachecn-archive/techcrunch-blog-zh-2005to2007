@@ -1,4 +1,4 @@
-# 所有新的 AOL 订阅阅读器即将推出——TechCrunch
+# 所有新的 AOL 订阅阅读器即将推出
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/06/all-new-aol-feed-reader-coming-soon/>
 

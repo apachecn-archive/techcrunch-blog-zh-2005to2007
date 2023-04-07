@@ -1,4 +1,4 @@
-# 更多 Windows Home Server 设计概念–TechCrunch
+# 更多 Windows Home Server 设计概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/more-windows-home-server-design-concepts/>
 

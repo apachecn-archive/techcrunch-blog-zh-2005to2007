@@ -1,4 +1,4 @@
-# 足球小玩意正好赶上足总杯| TechCrunch
+# 足球小玩意正好赶上足总杯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/soccer-gadgets-just-in-time-for-the-fa-cup/>
 

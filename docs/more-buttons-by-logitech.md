@@ -1,4 +1,4 @@
-# 罗技| TechCrunch 的更多按钮
+# 罗技 的更多按钮
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/more-buttons-by-logitech/>
 

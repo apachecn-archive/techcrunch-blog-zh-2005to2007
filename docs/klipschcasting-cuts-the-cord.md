@@ -1,4 +1,4 @@
-# KlipschCasting 切断了联系| TechCrunch
+# KlipschCasting 切断了联系
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/klipschcasting-cuts-the-cord/>
 

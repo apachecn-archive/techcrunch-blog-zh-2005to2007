@@ -1,4 +1,4 @@
-# 不在西雅图？还想要一个 Zune？没问题。求求。TechCrunch
+# 不在西雅图？还想要一个 Zune？没问题。求求。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/not-in-seattle-still-want-a-zune-no-problem-beg/>
 

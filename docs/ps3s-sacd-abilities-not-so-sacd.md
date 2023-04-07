@@ -1,4 +1,4 @@
-# PS3 的 SACD 能力不那么 SACD | TechCrunch
+# PS3 的 SACD 能力不那么 SACD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/ps3s-sacd-abilities-not-so-sacd/>
 

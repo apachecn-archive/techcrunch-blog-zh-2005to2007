@@ -1,4 +1,4 @@
-# 简单天气跳过杂乱——TechCrunch
+# 简单天气跳过杂乱
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/19/simpleweather-skips-the-clutter/>
 

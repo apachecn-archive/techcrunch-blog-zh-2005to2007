@@ -1,4 +1,4 @@
-# 爱普生 PowerLite 家庭影院 1080: 100 英寸的乐趣| TechCrunch
+# 爱普生 PowerLite 家庭影院 1080: 100 英寸的乐趣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/06/epson-powerlite-home-cinema-1080-100-inches-of-pleasure/>
 

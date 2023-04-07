@@ -1,4 +1,4 @@
-# T-Mo Dash 的 WinMo 6 泄露——TechCrunch
+# T-Mo Dash 的 WinMo 6 泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/29/winmo-6-for-t-mo-dash-leaked/>
 

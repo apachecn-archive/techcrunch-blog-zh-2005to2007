@@ -1,4 +1,4 @@
-# 潮人双宽–TechCrunch
+# 潮人双宽
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/hipster-double-wide/>
 

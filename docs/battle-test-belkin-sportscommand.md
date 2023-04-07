@@ -1,4 +1,4 @@
-# 战斗测试:Belkin SportsCommand | TechCrunch
+# 战斗测试:Belkin SportsCommand 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/battle-test-belkin-sportscommand/>
 

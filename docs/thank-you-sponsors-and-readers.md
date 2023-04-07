@@ -1,4 +1,4 @@
-# 赞助商休息| TechCrunch
+# 赞助商休息
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/27/thank-you-sponsors-and-readers/>
 

@@ -1,4 +1,4 @@
-# 2007 年，一半的汽车安装了 ipod——TechCrunch
+# 2007 年，一半的汽车安装了 ipod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/21/2007-puts-ipods-in-half-of-all-cars/>
 

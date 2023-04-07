@@ -1,4 +1,4 @@
-# 未来学家:阅读苹果茶叶或者 iPhone 告诉我们的未来——TechCrunch
+# 未来学家:阅读苹果茶叶或者 iPhone 告诉我们的未来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/12/the-futurist-reading-the-apple-tea-leaves-or-what-the-iphone-tells-us-about-the-future/>
 

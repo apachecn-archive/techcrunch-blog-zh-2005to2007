@@ -1,4 +1,4 @@
-# Makayama 为您提供了在小屏幕上观看电视的另一种方式| TechCrunch
+# Makayama 为您提供了在小屏幕上观看电视的另一种方式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/makayama-gives-you-one-more-way-to-watch-tv-on-a-small-screen/>
 

@@ -1,4 +1,4 @@
-# 暴雪嘉年华上的新星际争霸 2 图片——TechCrunch
+# 暴雪嘉年华上的新星际争霸 2 图片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/new-starcraft-2-pics-from-blizzcon/>
 

@@ -1,4 +1,4 @@
-# 好样的，沃尔玛 TechCrunch
+# 好样的，沃尔玛 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/06/nice-one-walmart/>
 

@@ -1,4 +1,4 @@
-# 做更多:在线待办事项列表比较 TechCrunch
+# 做更多:在线待办事项列表比较 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/08/do-more-online-to-do-lists-compared/>
 

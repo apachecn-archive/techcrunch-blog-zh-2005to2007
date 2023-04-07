@@ -1,4 +1,4 @@
-# gt 赛车 5 预告片——TechCrunch
+# gt 赛车 5 预告片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/gran-turismo-5-trailer/>
 

@@ -1,4 +1,4 @@
-# TomTom 找到了 Palm——TechCrunch
+# TomTom 找到了 Palm
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/tomtom-finds-palm/>
 

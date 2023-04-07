@@ -1,4 +1,4 @@
-# Iomega 仍在竞争中..有点像——TechCrunch
+# Iomega 仍在竞争中..有点像
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/23/iomega-still-in-the-gamesort-of/>
 

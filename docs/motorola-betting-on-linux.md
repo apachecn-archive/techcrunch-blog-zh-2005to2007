@@ -1,4 +1,4 @@
-# 摩托罗拉押注 Linux | TechCrunch
+# 摩托罗拉押注 Linux 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/motorola-betting-on-linux/>
 

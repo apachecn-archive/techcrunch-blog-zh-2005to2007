@@ -1,4 +1,4 @@
-# Habbo Hotel 微交易收入 3000 万美元 TechCrunch
+# Habbo Hotel 微交易收入 3000 万美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/10/habbo-hotel-microtransacts-itself-to-30m-in-revenue/>
 

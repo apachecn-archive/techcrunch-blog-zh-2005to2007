@@ -1,4 +1,4 @@
-# 在家使用按钮庄园| TechCrunch
+# 在家使用按钮庄园
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/18/at-home-with-the-push-button-manor/>
 

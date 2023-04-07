@@ -1,4 +1,4 @@
-# 停止工作，开始玩| TechCrunch
+# 停止工作，开始玩
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/stop-working-start-playing/>
 

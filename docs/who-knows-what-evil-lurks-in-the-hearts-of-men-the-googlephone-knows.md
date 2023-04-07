@@ -1,4 +1,4 @@
-# 谁知道男人心中潜伏着什么邪恶？谷歌手机知道——TechCrunch
+# 谁知道男人心中潜伏着什么邪恶？谷歌手机知道
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/who-knows-what-evil-lurks-in-the-hearts-of-men-the-googlephone-knows/>
 

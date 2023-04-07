@@ -1,4 +1,4 @@
-# 这真是| TechCrunch
+# 这真是
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/02/this-is-a-really/>
 

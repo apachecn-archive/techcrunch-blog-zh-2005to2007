@@ -1,4 +1,4 @@
-# Proporta 推出新的横向案例——TechCrunch
+# Proporta 推出新的横向案例
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/proporta-launches-new-lateral-cases/>
 

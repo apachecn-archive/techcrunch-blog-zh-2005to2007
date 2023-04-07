@@ -1,4 +1,4 @@
-# Mad Catz 将 GameStick 添加到 360 配件阵容中——TechCrunch
+# Mad Catz 将 GameStick 添加到 360 配件阵容中
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/mad-catz-adds-gamestick-to-360-accessory-lineup/>
 

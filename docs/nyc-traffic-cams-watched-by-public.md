@@ -1,4 +1,4 @@
-# 公众观看的纽约交通摄像头——TechCrunch
+# 公众观看的纽约交通摄像头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/26/nyc-traffic-cams-watched-by-public/>
 

@@ -1,4 +1,4 @@
-# NewsGator 走向移动| TechCrunch
+# NewsGator 走向移动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/newsgator-goes-mobile/>
 

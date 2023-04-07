@@ -1,4 +1,4 @@
-# 37 Signals 启动篝火——TechCrunch
+# 37 Signals 启动篝火
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/16/37-signals-launches-campfire/>
 

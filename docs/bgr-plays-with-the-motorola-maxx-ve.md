@@ -1,4 +1,4 @@
-# BGR 在玩摩托罗拉 MAXX Ve | TechCrunch
+# BGR 在玩摩托罗拉 MAXX Ve 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/bgr-plays-with-the-motorola-maxx-ve/>
 

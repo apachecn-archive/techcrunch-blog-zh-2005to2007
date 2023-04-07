@@ -1,4 +1,4 @@
-# 希捷称其拥有“世界上最快的硬盘”——TechCrunch
+# 希捷称其拥有“世界上最快的硬盘”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/16/seagate-says-they-have-worlds-fastest-hard-drive/>
 

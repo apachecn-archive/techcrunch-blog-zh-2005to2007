@@ -1,4 +1,4 @@
-# 让游戏启动 HSPA | TechCrunch
+# 让游戏启动 HSPA 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/08/let-the-games-launch-hspa/>
 

@@ -1,4 +1,4 @@
-# 下一代 iMacs 可能会有新的键盘设计——TechCrunch
+# 下一代 iMacs 可能会有新的键盘设计
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/next-gen-imacs-could-have-new-keyboard-design/>
 

@@ -1,4 +1,4 @@
-# Treo 750 实践–TechCrunch
+# Treo 750 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/treo-750-hands-on/>
 

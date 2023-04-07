@@ -1,4 +1,4 @@
-# iRobot 哨兵项目首张照片| TechCrunch
+# iRobot 哨兵项目首张照片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/first-pic-of-irobots-sentinel-project/>
 

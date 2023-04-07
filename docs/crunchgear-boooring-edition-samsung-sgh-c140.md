@@ -1,4 +1,4 @@
-# CrunchGear Boooring 版:三星 SGH-C140–TechCrunch
+# CrunchGear Boooring 版:三星 SGH-C140
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/crunchgear-boooring-edition-samsung-sgh-c140/>
 

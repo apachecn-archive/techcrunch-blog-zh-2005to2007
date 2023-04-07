@@ -1,4 +1,4 @@
-# 苹果影院显示器降价——TechCrunch
+# 苹果影院显示器降价
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/apple-cinema-displays-take-a-price-cut/>
 

@@ -1,4 +1,4 @@
-# 富士通西门子袖珍 LOOX N100 评论| TechCrunch
+# 富士通西门子袖珍 LOOX N100 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/fujitsu-siemens-pocket-loox-n100-review/>
 

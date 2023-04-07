@@ -1,4 +1,4 @@
-# 罗伯特·斯考伯:直播视频博客，iPhone 的第一选择——TechCrunch
+# 罗伯特·斯考伯:直播视频博客，iPhone 的第一选择
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/robert-scoble-live-video-blogging-and-first-in-line-for-iphone/>
 

@@ -1,4 +1,4 @@
-# 联发科技 2.006:谁在走这条路？TechCrunch
+# 联发科技 2.006:谁在走这条路？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/06/mediatech-2006-who-is-walking-the-walk/>
 

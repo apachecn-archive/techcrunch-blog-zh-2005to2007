@@ -1,4 +1,4 @@
-# Helio 将停止 EV-DO/WiFi 访问| TechCrunch
+# Helio 将停止 EV-DO/WiFi 访问
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/19/helio-to-discontinue-ev-dowifi-access/>
 

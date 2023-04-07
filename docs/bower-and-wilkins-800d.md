@@ -1,4 +1,4 @@
-# 鲍尔和威尔金斯 800d TechCrunch
+# 鲍尔和威尔金斯 800d 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/bower-and-wilkins-800d/>
 

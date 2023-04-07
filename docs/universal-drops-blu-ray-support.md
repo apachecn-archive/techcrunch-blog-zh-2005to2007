@@ -1,4 +1,4 @@
-# 通用滴蓝光支持| TechCrunch
+# 通用滴蓝光支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/universal-drops-blu-ray-support/>
 

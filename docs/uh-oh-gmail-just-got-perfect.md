@@ -1,4 +1,4 @@
-# 哦，Gmail 刚刚完善了 TechCrunch
+# 哦，Gmail 刚刚完善了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/09/uh-oh-gmail-just-got-perfect>
 

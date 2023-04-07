@@ -1,4 +1,4 @@
-# 索尼爱立信的触摸屏智能手机:什么，苹果担心？TechCrunch
+# 索尼爱立信的触摸屏智能手机:什么，苹果担心？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/sony-ericssons-touchscreen-smartphone-what-apple-worry/>
 

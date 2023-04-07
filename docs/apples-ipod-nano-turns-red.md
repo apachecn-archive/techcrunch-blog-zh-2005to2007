@@ -1,4 +1,4 @@
-# 苹果 iPod Nano 变红| TechCrunch
+# 苹果 iPod Nano 变红
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/apples-ipod-nano-turns-red/>
 

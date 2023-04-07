@@ -1,4 +1,4 @@
-# 新网络计算&面向服务的客户端| TechCrunch
+# 新网络计算&面向服务的客户端
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/neo-network-computing-the-service-oriented-client/>
 

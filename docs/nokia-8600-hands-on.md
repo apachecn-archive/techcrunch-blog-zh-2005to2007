@@ -1,4 +1,4 @@
-# 诺基亚 8600 实践| TechCrunch
+# 诺基亚 8600 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/nokia-8600-hands-on/>
 

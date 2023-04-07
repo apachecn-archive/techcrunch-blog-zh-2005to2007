@@ -1,4 +1,4 @@
-# 用 Trailfire 继续前进——TechCrunch
+# 用 Trailfire 继续前进
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/16/blaze-away-with-trailfire>
 

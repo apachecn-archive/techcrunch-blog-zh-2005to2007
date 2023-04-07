@@ -1,4 +1,4 @@
-# 购买 iPhone，获得 1.5 年免费服务——TechCrunch
+# 购买 iPhone，获得 1.5 年免费服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/buy-an-iphone-get-15-years-of-free-service/>
 

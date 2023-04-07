@@ -1,4 +1,4 @@
-# YouTube 推出视频指纹识别——TechCrunch
+# YouTube 推出视频指纹识别
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/12/youtube-rolling-out-video-fingerprinting/>
 

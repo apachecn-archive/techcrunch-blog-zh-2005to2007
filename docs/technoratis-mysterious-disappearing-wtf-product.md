@@ -1,4 +1,4 @@
-# Technorati 神秘消失的 WTF 产品——TechCrunch
+# Technorati 神秘消失的 WTF 产品
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/31/technoratis-mysterious-disappearing-wtf-product/>
 

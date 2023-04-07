@@ -1,4 +1,4 @@
-# 获得金士顿 1GB microSD 卡，仅需 5.95 美元！TechCrunch
+# 获得金士顿 1GB microSD 卡，仅需 5.95 美元！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/get-your-paws-on-a-kingston-1gb-microsd-card-for-595/>
 

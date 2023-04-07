@@ -1,4 +1,4 @@
-# Riya Nails 第二轮融资| TechCrunch
+# Riya Nails 第二轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/09/riya-nails-second-round-financing/>
 

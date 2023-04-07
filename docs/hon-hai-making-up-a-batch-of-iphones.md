@@ -1,4 +1,4 @@
-# 鸿海制造一批 iphone——TechCrunch
+# 鸿海制造一批 iphone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/hon-hai-making-up-a-batch-of-iphones/>
 

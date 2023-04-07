@@ -1,4 +1,4 @@
-# AOL/AIM 用户获得 5GB 免费存储空间——TechCrunch
+# AOL/AIM 用户获得 5GB 免费存储空间
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/03/aolaim-users-to-get-5gb-free-storage/>
 

@@ -1,4 +1,4 @@
-# 迷你合并:Imified 收购 feed crier TechCrunch
+# 迷你合并:Imified 收购 feed crier 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/14/mini-merger-imified-buys-feedcrier/>
 

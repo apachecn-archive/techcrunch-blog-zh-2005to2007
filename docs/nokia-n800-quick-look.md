@@ -1,4 +1,4 @@
-# 诺基亚 N800 快速浏览–TechCrunch
+# 诺基亚 N800 快速浏览
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/nokia-n800-quick-look/>
 

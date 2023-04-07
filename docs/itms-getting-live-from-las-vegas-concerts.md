@@ -1,4 +1,4 @@
-# iTMS 获得“拉斯维加斯现场”音乐会–TechCrunch
+# iTMS 获得“拉斯维加斯现场”音乐会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/15/itms-getting-live-from-las-vegas-concerts/>
 

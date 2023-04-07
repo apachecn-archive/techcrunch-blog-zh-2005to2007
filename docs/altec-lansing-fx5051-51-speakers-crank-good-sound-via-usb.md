@@ -1,4 +1,4 @@
-# Altec Lansing FX5051 5.1 扬声器通过 USB 发出良好的声音| TechCrunch
+# Altec Lansing FX5051 5.1 扬声器通过 USB 发出良好的声音
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/10/altec-lansing-fx5051-51-speakers-crank-good-sound-via-usb/>
 

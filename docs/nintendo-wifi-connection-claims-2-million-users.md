@@ -1,4 +1,4 @@
-# 任天堂 WiFi 连接声称拥有 200 万用户——TechCrunch
+# 任天堂 WiFi 连接声称拥有 200 万用户
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/nintendo-wifi-connection-claims-2-million-users/>
 

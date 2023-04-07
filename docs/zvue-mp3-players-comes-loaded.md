@@ -1,4 +1,4 @@
-# ZVUE MP3 播放器已加载| TechCrunch
+# ZVUE MP3 播放器已加载
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/zvue-mp3-players-comes-loaded/>
 

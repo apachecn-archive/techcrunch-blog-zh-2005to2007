@@ -1,4 +1,4 @@
-# SMS M500 投入生产| TechCrunch
+# SMS M500 投入生产
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/08/sms-m500-goes-into-production/>
 

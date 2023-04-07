@@ -1,4 +1,4 @@
-# 互联网品牌推出 WikiCars TechCrunch
+# 互联网品牌推出 WikiCars 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/01/internet-brands-launches-wikicars/>
 

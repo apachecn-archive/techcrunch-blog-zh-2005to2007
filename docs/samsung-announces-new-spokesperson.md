@@ -1,4 +1,4 @@
-# 三星宣布新代言人——TechCrunch
+# 三星宣布新代言人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/01/samsung-announces-new-spokesperson/>
 

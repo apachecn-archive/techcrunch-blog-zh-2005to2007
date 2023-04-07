@@ -1,4 +1,4 @@
-# 割草机充气机:地鼠穿孔机| TechCrunch
+# 割草机充气机:地鼠穿孔机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/23/mow-aerator-gopher-perforator/>
 

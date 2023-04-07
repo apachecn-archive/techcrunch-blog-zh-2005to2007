@@ -1,4 +1,4 @@
-# Splashpower 为你的便携设备提供无线充电| TechCrunch
+# Splashpower 为你的便携设备提供无线充电
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/splashpower-gives-you-wireless-recharging-for-your-portable-gear/>
 

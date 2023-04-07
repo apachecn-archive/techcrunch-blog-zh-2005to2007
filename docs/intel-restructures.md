@@ -1,4 +1,4 @@
-# 英特尔重组| TechCrunch
+# 英特尔重组
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/intel-restructures/>
 

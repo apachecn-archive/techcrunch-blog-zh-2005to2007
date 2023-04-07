@@ -1,4 +1,4 @@
-# 辛古拉会打败你的兄弟！TechCrunch
+# 辛古拉会打败你的兄弟！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/cingular-is-gonna-lay-the-smackdown-on-ya-brother/>
 

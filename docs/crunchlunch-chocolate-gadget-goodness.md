@@ -1,4 +1,4 @@
-# 克朗彻午餐:巧克力小玩意——TechCrunch
+# 克朗彻午餐:巧克力小玩意
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/crunchlunch-chocolate-gadget-goodness/>
 

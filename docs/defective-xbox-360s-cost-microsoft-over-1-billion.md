@@ -1,4 +1,4 @@
-# 缺陷 Xbox 360s 让微软损失超过 10 亿美元——TechCrunch
+# 缺陷 Xbox 360s 让微软损失超过 10 亿美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/defective-xbox-360s-cost-microsoft-over-1-billion/>
 

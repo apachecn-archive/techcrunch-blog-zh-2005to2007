@@ -1,4 +1,4 @@
-# 自动售货机的红色令人垂涎| TechCrunch
+# 自动售货机的红色令人垂涎
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/vending-machine-red-is-jawsome/>
 

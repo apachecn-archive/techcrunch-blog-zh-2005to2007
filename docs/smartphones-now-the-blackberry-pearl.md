@@ -1,4 +1,4 @@
-# 智能手机现在:黑莓珍珠| TechCrunch
+# 智能手机现在:黑莓珍珠
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/01/smartphones-now-the-blackberry-pearl/>
 

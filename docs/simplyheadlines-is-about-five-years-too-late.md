@@ -1,4 +1,4 @@
-# 简单来说，Headlines 晚了大约五年 TechCrunch
+# 简单来说，Headlines 晚了大约五年 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/05/simplyheadlines-is-about-five-years-too-late/>
 

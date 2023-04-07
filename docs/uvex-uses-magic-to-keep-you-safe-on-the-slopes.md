@@ -1,4 +1,4 @@
-# Uvex 使用魔法让你在斜坡上保持安全——TechCrunch
+# Uvex 使用魔法让你在斜坡上保持安全
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/uvex-uses-magic-to-keep-you-safe-on-the-slopes/>
 

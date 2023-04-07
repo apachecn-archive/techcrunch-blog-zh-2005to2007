@@ -1,4 +1,4 @@
-# Attensa 推出测试版——TechCrunch
+# Attensa 推出测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/31/attensa-rolls-out-of-beta/>
 

@@ -1,4 +1,4 @@
-# 性感的 Mvix 媒体中心拆箱| TechCrunch
+# 性感的 Mvix 媒体中心拆箱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/sexy-mvix-media-center-unboxxxing/>
 

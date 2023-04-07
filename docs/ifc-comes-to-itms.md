@@ -1,4 +1,4 @@
-# IFC 来到 iTMS | TechCrunch
+# IFC 来到 iTMS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/ifc-comes-to-itms/>
 

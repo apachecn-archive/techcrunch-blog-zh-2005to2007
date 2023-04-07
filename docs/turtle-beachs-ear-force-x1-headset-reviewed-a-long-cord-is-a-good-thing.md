@@ -1,4 +1,4 @@
-# Turtle Beach 的 Ear Force X1 耳机评论:长电线是个好东西| TechCrunch
+# Turtle Beach 的 Ear Force X1 耳机评论:长电线是个好东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/turtle-beachs-ear-force-x1-headset-reviewed-a-long-cord-is-a-good-thing/>
 

@@ -1,4 +1,4 @@
-# Ujogo 启动、获得首轮融资并收购 Gaming Everywhere | TechCrunch
+# Ujogo 启动、获得首轮融资并收购 Gaming Everywhere 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/19/ujogo-launches-takes-series-a-funding-and-acquires-gaming-everywhere/>
 

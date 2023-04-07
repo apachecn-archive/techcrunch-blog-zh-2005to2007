@@ -1,4 +1,4 @@
-# Entropia 的虚拟世界来到中国——TechCrunch
+# Entropia 的虚拟世界来到中国
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/30/entropias-virtual-world-comes-to-china/>
 

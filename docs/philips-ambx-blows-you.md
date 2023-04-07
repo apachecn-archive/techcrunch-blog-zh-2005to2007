@@ -1,4 +1,4 @@
-# 飞利浦 amBX 吹你| TechCrunch
+# 飞利浦 amBX 吹你
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/philips-ambx-blows-you/>
 

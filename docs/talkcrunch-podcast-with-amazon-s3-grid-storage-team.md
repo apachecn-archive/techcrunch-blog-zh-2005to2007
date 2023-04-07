@@ -1,4 +1,4 @@
-# TalkCrunch:亚马逊 S3 网格存储团队播客| TechCrunch
+# TalkCrunch:亚马逊 S3 网格存储团队播客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/26/talkcrunch-podcast-with-amazon-s3-grid-storage-team/>
 

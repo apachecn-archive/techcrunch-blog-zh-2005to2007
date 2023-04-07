@@ -1,4 +1,4 @@
-# 《街头霸王 2》系列 20 周年纪念版上线——TechCrunch
+# 《街头霸王 2》系列 20 周年纪念版上线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/street-fighter-ii-goes-mobile-for-20th-anniversary-of-series/>
 

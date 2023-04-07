@@ -1,4 +1,4 @@
-# 音频文件:声音在哪里？–TechCrunch
+# 音频文件:声音在哪里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/23/the-audiofile-wheres-that-sound/>
 

@@ -1,4 +1,4 @@
-# GPS + GSM =小枝发现| TechCrunch
+# GPS + GSM =小枝发现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/23/gps-gsm-twig-discovery/>
 

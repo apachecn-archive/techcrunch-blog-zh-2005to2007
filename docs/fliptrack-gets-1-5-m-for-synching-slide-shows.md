@@ -1,4 +1,4 @@
-# FlipTrack 获得 150 万美元用于同步幻灯片放映| TechCrunch
+# FlipTrack 获得 150 万美元用于同步幻灯片放映
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/27/fliptrack-gets-1-5-m-for-synching-slide-shows/>
 

@@ -1,4 +1,4 @@
-# 英国比铃声还大的游戏| TechCrunch
+# 英国比铃声还大的游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/05/games-bigger-than-ringtones-in-the-uk/>
 

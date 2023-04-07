@@ -1,4 +1,4 @@
-# 苹果将在 Macbooks 底部安装光驱？–TechCrunch
+# 苹果将在 Macbooks 底部安装光驱？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/apple-to-stick-optical-drive-on-bottom-of-macbooks/>
 

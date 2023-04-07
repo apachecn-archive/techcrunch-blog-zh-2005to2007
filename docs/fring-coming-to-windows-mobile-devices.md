@@ -1,4 +1,4 @@
-# Fring 来到 Windows Mobile 设备| TechCrunch
+# Fring 来到 Windows Mobile 设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/fring-coming-to-windows-mobile-devices/>
 

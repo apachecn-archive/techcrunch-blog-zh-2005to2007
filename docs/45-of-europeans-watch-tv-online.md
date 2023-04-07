@@ -1,4 +1,4 @@
-# 45%的欧洲人在线看电视——TechCrunch
+# 45%的欧洲人在线看电视
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/03/45-of-europeans-watch-tv-online/>
 

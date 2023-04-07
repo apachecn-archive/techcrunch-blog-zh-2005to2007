@@ -1,4 +1,4 @@
-# 罗技 Wave 无线桌面| TechCrunch
+# 罗技 Wave 无线桌面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/logitech-wave-wireless-desktop/>
 

@@ -1,4 +1,4 @@
-# 索尼爱立信推出完整的移动办公室，P1 | TechCrunch
+# 索尼爱立信推出完整的移动办公室，P1 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/sony-ericsson-unveils-the-complete-mobile-office-p1/>
 

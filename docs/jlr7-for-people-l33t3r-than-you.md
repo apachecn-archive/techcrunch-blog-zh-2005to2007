@@ -1,4 +1,4 @@
-# JLr7:对于比你 l33t3r 的人| TechCrunch
+# JLr7:对于比你 l33t3r 的人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/19/jlr7-for-people-l33t3r-than-you/>
 

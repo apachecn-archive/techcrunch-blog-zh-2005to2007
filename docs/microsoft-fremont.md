@@ -1,4 +1,4 @@
-# 微软“弗里蒙特”将推出 TechCrunch
+# 微软“弗里蒙特”将推出 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/28/microsoft-fremont/>
 

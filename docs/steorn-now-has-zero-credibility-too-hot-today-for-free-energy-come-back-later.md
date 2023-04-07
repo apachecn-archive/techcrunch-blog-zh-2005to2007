@@ -1,4 +1,4 @@
-# Steorn:今天太热，不适合免费能源，请稍后再来——TechCrunch
+# Steorn:今天太热，不适合免费能源，请稍后再来
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/steorn-now-has-zero-credibility-too-hot-today-for-free-energy-come-back-later/>
 

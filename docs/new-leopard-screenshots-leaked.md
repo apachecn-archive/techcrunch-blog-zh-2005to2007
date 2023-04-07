@@ -1,4 +1,4 @@
-# 泄露的新 Leopard 截图——TechCrunch
+# 泄露的新 Leopard 截图
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/14/new-leopard-screenshots-leaked/>
 

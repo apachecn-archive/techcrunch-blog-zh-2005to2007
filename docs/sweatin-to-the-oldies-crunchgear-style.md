@@ -1,4 +1,4 @@
-# 为老歌流汗，嘎吱嘎吱风格| TechCrunch
+# 为老歌流汗，嘎吱嘎吱风格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/20/sweatin-to-the-oldies-crunchgear-style/>
 

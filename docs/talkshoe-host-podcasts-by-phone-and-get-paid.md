@@ -1,4 +1,4 @@
-# TalkShoe:通过电话主持播客并获得报酬 TechCrunch
+# TalkShoe:通过电话主持播客并获得报酬 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/15/talkshoe-host-podcasts-by-phone-and-get-paid/>
 

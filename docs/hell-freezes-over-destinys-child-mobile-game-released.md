@@ -1,4 +1,4 @@
-# 地狱冻结:命运之子手机游戏发布——TechCrunch
+# 地狱冻结:命运之子手机游戏发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/18/hell-freezes-over-destinys-child-mobile-game-released/>
 

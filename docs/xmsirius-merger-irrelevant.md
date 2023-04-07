@@ -1,4 +1,4 @@
-# XM/天狼星合并无关？| TechCrunch
+# XM/天狼星合并无关？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/xmsirius-merger-irrelevant/>
 

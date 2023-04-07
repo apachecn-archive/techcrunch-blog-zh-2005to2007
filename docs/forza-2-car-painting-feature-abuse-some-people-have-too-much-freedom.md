@@ -1,4 +1,4 @@
-# Forza 2 汽车喷漆功能滥用:有些人有太多的自由| TechCrunch
+# Forza 2 汽车喷漆功能滥用:有些人有太多的自由
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/forza-2-car-painting-feature-abuse-some-people-have-too-much-freedom/>
 

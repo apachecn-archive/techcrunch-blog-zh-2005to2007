@@ -1,4 +1,4 @@
-# 21 点现在附带扩展电池？–TechCrunch
+# 21 点现在附带扩展电池？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/19/blackjack-now-shipping-with-extended-battery/>
 

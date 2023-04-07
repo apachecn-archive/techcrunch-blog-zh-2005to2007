@@ -1,4 +1,4 @@
-# PS3 杀死 360 人——第一次谋杀是他们给的，哟——TechCrunch
+# PS3 杀死 360 人——第一次谋杀是他们给的，哟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/ps3-kills-360-murder-in-the-1st-is-what-they-gave-it-yo/>
 

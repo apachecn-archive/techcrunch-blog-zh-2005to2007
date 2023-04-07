@@ -1,4 +1,4 @@
-# 不仅仅是一个包，还有一个三脚架——TechCrunch
+# 不仅仅是一个包，还有一个三脚架
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/19/not-just-a-bag-but-a-tripod/>
 

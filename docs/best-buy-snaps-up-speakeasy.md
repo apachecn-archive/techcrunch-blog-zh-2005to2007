@@ -1,4 +1,4 @@
-# 百思买抢购 Speakeasy-TechCrunch
+# 百思买抢购 Speakeasy-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/best-buy-snaps-up-speakeasy/>
 

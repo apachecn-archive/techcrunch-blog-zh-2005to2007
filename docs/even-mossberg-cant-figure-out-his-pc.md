@@ -1,4 +1,4 @@
-# 就连莫斯伯格也搞不清楚他的 PC——TechCrunch
+# 就连莫斯伯格也搞不清楚他的 PC
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/06/even-mossberg-cant-figure-out-his-pc/>
 

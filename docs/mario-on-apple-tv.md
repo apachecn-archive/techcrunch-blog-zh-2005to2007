@@ -1,4 +1,4 @@
-# 苹果电视上的马里奥| TechCrunch
+# 苹果电视上的马里奥
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/08/mario-on-apple-tv/>
 

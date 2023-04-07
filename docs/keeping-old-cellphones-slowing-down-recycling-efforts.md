@@ -1,4 +1,4 @@
-# 让旧手机减缓回收工作——TechCrunch
+# 让旧手机减缓回收工作
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/keeping-old-cellphones-slowing-down-recycling-efforts/>
 

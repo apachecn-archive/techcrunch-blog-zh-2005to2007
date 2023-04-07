@@ -1,4 +1,4 @@
-# 移动广告流行| TechCrunch
+# 移动广告流行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/pop-goes-the-mobile-ad/>
 

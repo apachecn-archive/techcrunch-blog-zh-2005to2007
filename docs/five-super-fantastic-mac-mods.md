@@ -1,4 +1,4 @@
-# 五款超级神奇的 Mac Mods | TechCrunch
+# 五款超级神奇的 Mac Mods 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/30/five-super-fantastic-mac-mods/>
 

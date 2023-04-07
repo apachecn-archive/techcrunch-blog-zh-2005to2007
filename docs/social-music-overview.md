@@ -1,4 +1,4 @@
-# 社交音乐概述–TechCrunch
+# 社交音乐概述
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/05/social-music-overview/>
 

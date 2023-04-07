@@ -1,4 +1,4 @@
-# 9 月份新推出的松下 Lumix 相机| TechCrunch
+# 9 月份新推出的松下 Lumix 相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/new-panasonic-lumix-cameras-in-september/>
 

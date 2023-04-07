@@ -1,4 +1,4 @@
-# 苹果 iPod 与胰岛素泵——TechCrunch
+# 苹果 iPod 与胰岛素泵
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/09/apple-ipod-v-the-insulin-pump/>
 

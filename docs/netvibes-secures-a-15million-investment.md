@@ -1,4 +1,4 @@
-# Netvibes 获得 1500 万美元投资——TechCrunch
+# Netvibes 获得 1500 万美元投资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/13/netvibes-secures-a-15million-investment>
 

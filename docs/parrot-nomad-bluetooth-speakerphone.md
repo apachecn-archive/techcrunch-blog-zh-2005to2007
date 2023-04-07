@@ -1,4 +1,4 @@
-# Parrot MINIKIT 蓝牙扬声器| TechCrunch
+# Parrot MINIKIT 蓝牙扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/12/parrot-nomad-bluetooth-speakerphone/>
 

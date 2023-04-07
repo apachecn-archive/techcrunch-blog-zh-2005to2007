@@ -1,4 +1,4 @@
-# BakeSpace.com:为喜欢烹饪的人准备的 MySpace TechCrunch
+# BakeSpace.com:为喜欢烹饪的人准备的 MySpace 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/02/bakespacecom-myspace-for-people-who-like-cooking/>
 

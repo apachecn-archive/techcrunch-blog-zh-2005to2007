@@ -1,4 +1,4 @@
-# iResQ 将为您升级 Apple TV 的硬盘| TechCrunch
+# iResQ 将为您升级 Apple TV 的硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/iresq-will-upgrade-your-apple-tvs-hard-drive-for-you/>
 

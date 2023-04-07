@@ -1,4 +1,4 @@
-# 纽约时报推出 MyTimes，这是一款不太给力的 RSS 播放器 TechCrunch
+# 纽约时报推出 MyTimes，这是一款不太给力的 RSS 播放器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/11/nytimes-launches-mytimes/>
 

@@ -1,4 +1,4 @@
-# Veeker:移动视频的嵌入式播放器——TechCrunch
+# Veeker:移动视频的嵌入式播放器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/25/veeker-an-embedded-player-for-mobile-video/>
 

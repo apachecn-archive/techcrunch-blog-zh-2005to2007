@@ -1,4 +1,4 @@
-# T-Mobile Dash 将于 10 月 16 日发布——TechCrunch
+# T-Mobile Dash 将于 10 月 16 日发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/t-mobile-dash-coming-october-16th/>
 

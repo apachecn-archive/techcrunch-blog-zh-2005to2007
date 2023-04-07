@@ -1,4 +1,4 @@
-# Comcast 的所有高清频道–TechCrunch
+# Comcast 的所有高清频道
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/whole-lotta-hd-channels-for-comcast/>
 

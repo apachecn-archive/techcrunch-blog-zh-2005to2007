@@ -1,4 +1,4 @@
-# 在线观看电视的 33 种免费方式——TechCrunch
+# 在线观看电视的 33 种免费方式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/19/33-free-ways-to-watch-tv-online/>
 

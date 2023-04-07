@@ -1,4 +1,4 @@
-# 直接涂在墙上。直接涂在墙上。直接涂在墙上。TechCrunch
+# 直接涂在墙上。直接涂在墙上。直接涂在墙上。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/16/paint-on-apply-directly-to-the-wall-paint-on-apply-directly-to-the-wall/>
 

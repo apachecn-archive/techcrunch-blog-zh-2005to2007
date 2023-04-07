@@ -1,4 +1,4 @@
-# PatentMonkey:微软增强型电视——TechCrunch
+# PatentMonkey:微软增强型电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/patentmonkey-microsoft-enhanced-tv/>
 

@@ -1,4 +1,4 @@
-# Leopard 可在亚马逊| TechCrunch 上预订
+# Leopard 可在亚马逊 上预订
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/16/leopard-available-for-pre-order-on-amazon/>
 

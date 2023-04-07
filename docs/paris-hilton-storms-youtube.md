@@ -1,4 +1,4 @@
-# 帕丽斯·希尔顿能提振 YouTube 吗？–TechCrunch
+# 帕丽斯·希尔顿能提振 YouTube 吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/22/paris-hilton-storms-youtube/>
 

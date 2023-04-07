@@ -1,4 +1,4 @@
-# 2006 年最佳设备——TechCrunch
+# 2006 年最佳设备
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/05/best-gadgets-of-2006/>
 

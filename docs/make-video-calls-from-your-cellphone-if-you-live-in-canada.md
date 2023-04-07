@@ -1,4 +1,4 @@
-# 用手机打视频电话(如果你住在加拿大)——TechCrunch
+# 用手机打视频电话(如果你住在加拿大)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/02/make-video-calls-from-your-cellphone-if-you-live-in-canada/>
 

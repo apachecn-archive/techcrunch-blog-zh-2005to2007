@@ -1,4 +1,4 @@
-# 三星蓝牙导航系统| TechCrunch
+# 三星蓝牙导航系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/bluetooth-nav-system-from-samsung/>
 

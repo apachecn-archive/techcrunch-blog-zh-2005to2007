@@ -1,4 +1,4 @@
-# 亚马逊 S3 的数据增加了 40tb——TechCrunch
+# 亚马逊 S3 的数据增加了 40tb
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/13/40-terabytes-more-data-for-amazon-s3/>
 

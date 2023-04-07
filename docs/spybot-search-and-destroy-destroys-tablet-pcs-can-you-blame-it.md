@@ -1,4 +1,4 @@
-# Spybot 搜索和破坏破坏平板电脑:你能责怪它吗？TechCrunch
+# Spybot 搜索和破坏破坏平板电脑:你能责怪它吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/06/spybot-search-and-destroy-destroys-tablet-pcs-can-you-blame-it/>
 

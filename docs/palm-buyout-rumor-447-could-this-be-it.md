@@ -1,4 +1,4 @@
-# Palm 买断传闻# 447；会是这个吗？TechCrunch
+# Palm 买断传闻# 447；会是这个吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/24/palm-buyout-rumor-447-could-this-be-it/>
 

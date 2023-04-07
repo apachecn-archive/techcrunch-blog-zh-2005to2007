@@ -1,4 +1,4 @@
-# 迈拓融合硬盘:第一印象| TechCrunch
+# 迈拓融合硬盘:第一印象
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/maxtor-fusion-drive-first-impressions/>
 

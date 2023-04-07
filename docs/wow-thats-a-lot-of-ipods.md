@@ -1,4 +1,4 @@
-# 哇，这么多 ipod TechCrunch
+# 哇，这么多 ipod 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/09/wow-thats-a-lot-of-ipods/>
 

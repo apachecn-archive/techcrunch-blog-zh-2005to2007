@@ -1,4 +1,4 @@
-# 为什么你不能直接发布“09-F9-11-02-9d-74-E3-5b-D8-41-56-C5-63-56-88-c0”——TechCrunch
+# 为什么你不能直接发布“09-F9-11-02-9d-74-E3-5b-D8-41-56-C5-63-56-88-c0”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/why-you-cant-just-go-ahead-and-post-09-f9-11-02-9d-74-e3-5b-d8-41-56-c5-63-56-88-c0/>
 

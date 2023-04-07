@@ -1,4 +1,4 @@
-# 诺基亚签约使用微软 DRM——TechCrunch
+# 诺基亚签约使用微软 DRM
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/nokia-signs-on-to-use-microsoft-drm/>
 

@@ -1,4 +1,4 @@
-# Moto W220 获得 FCC 批准——TechCrunch
+# Moto W220 获得 FCC 批准
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/moto-w220-gets-fcc-nod/>
 

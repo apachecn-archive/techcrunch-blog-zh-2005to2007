@@ -1,4 +1,4 @@
-# 今夏在移动设备上看到的不止这些——TechCrunch
+# 今夏在移动设备上看到的不止这些
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/more-than-meets-the-eye-on-mobile-this-summer/>
 

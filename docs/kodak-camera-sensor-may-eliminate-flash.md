@@ -1,4 +1,4 @@
-# 柯达相机传感器可能消除闪光灯——TechCrunch
+# 柯达相机传感器可能消除闪光灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/14/kodak-camera-sensor-may-eliminate-flash/>
 

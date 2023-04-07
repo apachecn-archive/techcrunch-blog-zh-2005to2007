@@ -1,4 +1,4 @@
-# 在您的电子邮件收件箱中接收语音邮件:got voice–TechCrunch
+# 在您的电子邮件收件箱中接收语音邮件:got voice
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/06/03/get-voicemail-in-your-email-inbox-gotvoice/>
 

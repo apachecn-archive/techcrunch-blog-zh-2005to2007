@@ -1,4 +1,4 @@
-# Glofiish 获得 WinMo 6.0，世界停止旋转| TechCrunch
+# Glofiish 获得 WinMo 6.0，世界停止旋转
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/14/glofiish-gets-winmo-60-world-stops-spinning/>
 

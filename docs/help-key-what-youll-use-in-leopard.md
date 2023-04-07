@@ -1,4 +1,4 @@
-# Help-Key:您将在 Leopard | TechCrunch 中使用什么
+# Help-Key:您将在 Leopard  中使用什么
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/help-key-what-youll-use-in-leopard/>
 

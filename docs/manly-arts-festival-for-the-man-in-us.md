@@ -1,4 +1,4 @@
-# 美国男人的男人艺术节——TechCrunch
+# 美国男人的男人艺术节
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/12/manly-arts-festival-for-the-man-in-us/>
 

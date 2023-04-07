@@ -1,4 +1,4 @@
-# Vonage Beta 测试新的 Ambit VOIP 网关–TechCrunch
+# Vonage Beta 测试新的 Ambit VOIP 网关
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/03/vonage-beta-testing-new-ambit-voip-gateway/>
 

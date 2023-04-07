@@ -1,4 +1,4 @@
-# mFoundry 和威瑞森合作开发移动银行——TechCrunch
+# mFoundry 和威瑞森合作开发移动银行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/mfoundry-and-verizon-working-together-on-mobile-banking/>
 

@@ -1,4 +1,4 @@
-# 听说过 PopSugar 吗？TechCrunch
+# 听说过 PopSugar 吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/17/hear-about-popsugar-yet/>
 

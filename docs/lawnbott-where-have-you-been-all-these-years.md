@@ -1,4 +1,4 @@
-# 劳恩博特，这些年你去了哪里？TechCrunch
+# 劳恩博特，这些年你去了哪里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/03/lawnbott-where-have-you-been-all-these-years/>
 

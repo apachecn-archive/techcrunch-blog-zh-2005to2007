@@ -1,4 +1,4 @@
-# 华硕 J501 将其打包在| TechCrunch
+# 华硕 J501 将其打包在
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/asus-j501-packs-it-in/>
 

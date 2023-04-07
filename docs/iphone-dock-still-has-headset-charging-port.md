@@ -1,4 +1,4 @@
-# iPhone Dock 还有耳机充电口| TechCrunch
+# iPhone Dock 还有耳机充电口
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/iphone-dock-still-has-headset-charging-port/>
 

@@ -1,4 +1,4 @@
-# 撒尿屏幕=撒尿游戏| TechCrunch
+# 撒尿屏幕=撒尿游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/piss-screen-gaming-through-pissing/>
 

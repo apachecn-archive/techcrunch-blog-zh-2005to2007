@@ -1,4 +1,4 @@
-# telepark.contact:基于标签的联系人管理| TechCrunch
+# telepark.contact:基于标签的联系人管理
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/09/teleparkcontact-tag-based-contact-management/>
 

@@ -1,4 +1,4 @@
-# 一些零售商停止销售 20GB PS3 | TechCrunch
+# 一些零售商停止销售 20GB PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/some-retailers-stop-carrying-20gb-ps3/>
 

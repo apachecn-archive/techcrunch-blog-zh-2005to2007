@@ -1,4 +1,4 @@
-# Meebo -使用 Ajax 的即时消息 TechCrunch
+# Meebo -使用 Ajax 的即时消息 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/14/meebo-instant-messaging-with-ajax/>
 

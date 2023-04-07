@@ -1,4 +1,4 @@
-# 索尼输掉了游戏——TechCrunch
+# 索尼输掉了游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/14/sony-losing-the-game/>
 

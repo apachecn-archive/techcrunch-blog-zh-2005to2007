@@ -1,4 +1,4 @@
-# 剑桥 SoundWorks Radio 820HD 评论–TechCrunch
+# 剑桥 SoundWorks Radio 820HD 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/25/cambridge-soundworks-radio-820hd-review/>
 

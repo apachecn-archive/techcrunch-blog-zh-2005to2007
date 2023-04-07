@@ -1,4 +1,4 @@
-# 维亚康姆说你不能拥有我们的 MTV | TechCrunch
+# 维亚康姆说你不能拥有我们的 MTV 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/02/viacom-says-you-can%e2%80%99t-have-our-mtv/>
 

@@ -1,4 +1,4 @@
-# 博客有用——这些人创造了很酷的东西 TechCrunch
+# 博客有用——这些人创造了很酷的东西 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/27/weblogs-work-these-guys-build-cool-stuff/>
 

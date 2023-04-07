@@ -1,4 +1,4 @@
-# 采用抗菌技术的罗技无线台式机| TechCrunch
+# 采用抗菌技术的罗技无线台式机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/logitech-cordless-desktop-mx-3200-with-antimicrobial-technology/>
 

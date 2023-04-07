@@ -1,4 +1,4 @@
-# TiVo 系列 3 在野外——TechCrunch
+# TiVo 系列 3 在野外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/tivo-series-3-in-the-wild/>
 

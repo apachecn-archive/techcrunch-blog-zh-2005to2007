@@ -1,4 +1,4 @@
-# 三星 Digimax D103 功能丰富| TechCrunch
+# 三星 Digimax D103 功能丰富
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/samsung-digimax-d103-packed-with-features/>
 

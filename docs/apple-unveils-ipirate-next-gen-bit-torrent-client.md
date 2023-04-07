@@ -1,4 +1,4 @@
-# 苹果发布 IPI rate——下一代 Bit Torrent 客户端——TechCrunch
+# 苹果发布 IPI rate——下一代 Bit Torrent 客户端
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/01/apple-unveils-ipirate-next-gen-bit-torrent-client/>
 

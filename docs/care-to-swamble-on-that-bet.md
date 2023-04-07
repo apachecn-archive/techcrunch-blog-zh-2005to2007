@@ -1,4 +1,4 @@
-# 介意交换一下吗？–TechCrunch
+# 介意交换一下吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/14/care-to-swamble-on-that-bet/>
 

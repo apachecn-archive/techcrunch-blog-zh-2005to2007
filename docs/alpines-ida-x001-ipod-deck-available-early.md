@@ -1,4 +1,4 @@
-# 阿尔卑斯的 iDA-x001 iPod 音乐播放器提前上市！TechCrunch
+# 阿尔卑斯的 iDA-x001 iPod 音乐播放器提前上市！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/alpines-ida-x001-ipod-deck-available-early/>
 

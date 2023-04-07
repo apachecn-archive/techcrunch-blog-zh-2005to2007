@@ -1,4 +1,4 @@
-# 东芝 Qosimo G45-AV680 发布| TechCrunch
+# 东芝 Qosimo G45-AV680 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/24/toshiba-qosimo-g45-av680-announced/>
 

@@ -1,4 +1,4 @@
-# Digg 用户大声呼唤新照片版块 TechCrunch
+# Digg 用户大声呼唤新照片版块 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/23/digg-users-calling-loudly-for-new-photos-section/>
 

@@ -1,4 +1,4 @@
-# Brando 遥控手表–TechCrunch
+# Brando 遥控手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/25/brando-remote-control-watch/>
 

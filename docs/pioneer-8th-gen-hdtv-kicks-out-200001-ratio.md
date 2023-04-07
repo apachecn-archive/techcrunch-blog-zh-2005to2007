@@ -1,4 +1,4 @@
-# 先锋第八代高清电视推出 20，000:1 比率| TechCrunch
+# 先锋第八代高清电视推出 20，000:1 比率
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/pioneer-8th-gen-hdtv-kicks-out-200001-ratio/>
 

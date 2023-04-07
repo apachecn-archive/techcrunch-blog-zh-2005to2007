@@ -1,4 +1,4 @@
-# 那些中国人喜欢发短信——TechCrunch
+# 那些中国人喜欢发短信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/those-chinese-love-them-some-texting/>
 

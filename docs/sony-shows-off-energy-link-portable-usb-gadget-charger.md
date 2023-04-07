@@ -1,4 +1,4 @@
-# 索尼展示 Energy Link 便携式 USB 设备充电器——TechCrunch
+# 索尼展示 Energy Link 便携式 USB 设备充电器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/sony-shows-off-energy-link-portable-usb-gadget-charger/>
 

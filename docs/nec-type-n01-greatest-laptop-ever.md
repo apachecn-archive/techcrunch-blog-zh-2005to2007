@@ -1,4 +1,4 @@
-# NEC TYPE-N01:史上最伟大的笔记本电脑？–TechCrunch
+# NEC TYPE-N01:史上最伟大的笔记本电脑？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/nec-type-n01-greatest-laptop-ever/>
 

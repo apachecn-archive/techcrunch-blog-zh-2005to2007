@@ -1,4 +1,4 @@
-# 光盘擦除器视频回顾–TechCrunch
+# 光盘擦除器视频回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/disc-eraser-video-review/>
 

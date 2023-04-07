@@ -1,4 +1,4 @@
-# 脸书对“黑帽”应用采取行动 TechCrunch
+# 脸书对“黑帽”应用采取行动 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/facebook-takes-action-against-black-hat-apps/>
 

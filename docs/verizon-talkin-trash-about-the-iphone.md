@@ -1,4 +1,4 @@
-# 威瑞森在谈论 iPhone | TechCrunch
+# 威瑞森在谈论 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/verizon-talkin-trash-about-the-iphone/>
 

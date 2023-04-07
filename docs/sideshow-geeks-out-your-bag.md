@@ -1,4 +1,4 @@
-# 杂耍极客出你的包| TechCrunch
+# 杂耍极客出你的包
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/09/sideshow-geeks-out-your-bag/>
 

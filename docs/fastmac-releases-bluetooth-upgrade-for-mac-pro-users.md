@@ -1,4 +1,4 @@
-# FastMac 为 Mac Pro 用户发布蓝牙升级| TechCrunch
+# FastMac 为 Mac Pro 用户发布蓝牙升级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/fastmac-releases-bluetooth-upgrade-for-mac-pro-users/>
 

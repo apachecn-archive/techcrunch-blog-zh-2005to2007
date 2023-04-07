@@ -1,4 +1,4 @@
-# PS3 上的索尼:游戏上路！不要慌！–TechCrunch
+# PS3 上的索尼:游戏上路！不要慌！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/sony-on-ps3-games-on-the-way-dont-panic/>
 

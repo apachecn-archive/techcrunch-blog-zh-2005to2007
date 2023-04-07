@@ -1,4 +1,4 @@
-# 博客的定义是什么？–TechCrunch
+# 博客的定义是什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/31/what-is-the-definition-of-a-blog/>
 

@@ -1,4 +1,4 @@
-# MySpace 的零售流量超过了 MSN 搜索——TechCrunch
+# MySpace 的零售流量超过了 MSN 搜索
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/31/myspace-driving-more-online-retail-than-msn-search/>
 

@@ -1,4 +1,4 @@
-# 即将推出的粉色、橙色 Zunes 以及下一代产品规格| TechCrunch
+# 即将推出的粉色、橙色 Zunes 以及下一代产品规格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/15/pink-orange-zunes-on-the-horizon-plus-next-gen-specs/>
 

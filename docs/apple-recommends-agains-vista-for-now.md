@@ -1,4 +1,4 @@
-# 苹果建议暂时不要使用 Vista——TechCrunch
+# 苹果建议暂时不要使用 Vista
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/04/apple-recommends-agains-vista-for-now/>
 

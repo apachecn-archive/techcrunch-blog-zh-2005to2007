@@ -1,4 +1,4 @@
-# LG UP3Flat A Shuffle 黑仔？TechCrunch
+# LG UP3Flat A Shuffle 黑仔？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/lg-up3flat-a-shuffle-killer/>
 

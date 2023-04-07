@@ -1,4 +1,4 @@
-# DRM 今天会死吗？TechCrunch
+# DRM 今天会死吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/02/will-drm-die-today/>
 

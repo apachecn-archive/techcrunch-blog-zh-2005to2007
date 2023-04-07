@@ -1,4 +1,4 @@
-# 拼命寻找 CrunchGear 实习生——TechCrunch
+# 拼命寻找 CrunchGear 实习生
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/31/desperately-seeking-crunchgear-intern/>
 

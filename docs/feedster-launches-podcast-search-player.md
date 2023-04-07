@@ -1,4 +1,4 @@
-# Feedster 进入播客搜索市场 TechCrunch
+# Feedster 进入播客搜索市场 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/07/feedster-launches-podcast-search-player/>
 

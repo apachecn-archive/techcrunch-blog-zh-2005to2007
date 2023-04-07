@@ -1,4 +1,4 @@
-# XPC X200m 航天飞机动手| TechCrunch
+# XPC X200m 航天飞机动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/17/shuttle-xpc-x200m-hands-on/>
 

@@ -1,4 +1,4 @@
-# Bebo 完成 1500 万美元融资——TechCrunch
+# Bebo 完成 1500 万美元融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/22/bebo-closes-15m-financing/>
 

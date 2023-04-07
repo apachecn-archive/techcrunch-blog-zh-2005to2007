@@ -1,4 +1,4 @@
-# M-Cody M22 超薄 MP3 播放器–TechCrunch
+# M-Cody M22 超薄 MP3 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/m-cody-m22-slim-mp3-player/>
 

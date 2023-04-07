@@ -1,4 +1,4 @@
-# 美国电话电报公司视频分享发布——TechCrunch
+# 美国电话电报公司视频分享发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/att-video-share-launches/>
 

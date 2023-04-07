@@ -1,4 +1,4 @@
-# 不包括电池，有印象吗？–TechCrunch
+# 不包括电池，有印象吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/boynq-alibi-batteries-not-included-ring-a-bell/>
 

@@ -1,4 +1,4 @@
-# NetTansor WiFi 让你窥探你的东西——TechCrunch
+# NetTansor WiFi 让你窥探你的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/nettansor-wifi-lets-you-spy-on-your-stuff/>
 

@@ -1,4 +1,4 @@
-# Vivendi 将推出欧洲移动娱乐门户网站| TechCrunch
+# Vivendi 将推出欧洲移动娱乐门户网站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/vivendi-to-launch-european-mobile-entertainment-portal/>
 

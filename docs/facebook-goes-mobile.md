@@ -1,4 +1,4 @@
-# 脸书走向移动| TechCrunch
+# 脸书走向移动
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/10/facebook-goes-mobile/>
 

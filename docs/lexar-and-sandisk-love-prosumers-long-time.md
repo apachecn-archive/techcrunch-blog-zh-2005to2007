@@ -1,4 +1,4 @@
-# Lexar 和 SanDisk 喜欢 Prosumers 很久了| TechCrunch
+# Lexar 和 SanDisk 喜欢 Prosumers 很久了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/08/lexar-and-sandisk-love-prosumers-long-time/>
 

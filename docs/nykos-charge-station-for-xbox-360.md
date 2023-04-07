@@ -1,4 +1,4 @@
-# Nyko 的 Xbox 360 充电站| TechCrunch
+# Nyko 的 Xbox 360 充电站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/nykos-charge-station-for-xbox-360/>
 

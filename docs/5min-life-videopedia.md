@@ -1,4 +1,4 @@
-# 5 分钟:生活视频百科——TechCrunch
+# 5 分钟:生活视频百科
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/14/5min-life-videopedia/>
 

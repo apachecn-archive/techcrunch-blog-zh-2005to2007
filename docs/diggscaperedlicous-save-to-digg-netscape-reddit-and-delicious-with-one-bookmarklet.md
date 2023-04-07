@@ -1,4 +1,4 @@
-# Diggscaperedilicous:用一个书签工具保存到 Digg、Netscape、Reddit 和 del . icio . us——TechCrunch
+# Diggscaperedilicous:用一个书签工具保存到 Digg、Netscape、Reddit 和 del . icio . us
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/10/diggscaperedlicous-save-to-digg-netscape-reddit-and-delicious-with-one-bookmarklet/>
 

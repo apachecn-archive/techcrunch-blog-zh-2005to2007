@@ -1,4 +1,4 @@
-# 在线日历大战——TechCrunch
+# 在线日历大战
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/04/online-calendar-wiars/>
 

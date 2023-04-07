@@ -1,4 +1,4 @@
-# 耐克地板曲棍球清洁概念——TechCrunch
+# 耐克地板曲棍球清洁概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/27/nike-floor-hockey-cleaning-concept/>
 

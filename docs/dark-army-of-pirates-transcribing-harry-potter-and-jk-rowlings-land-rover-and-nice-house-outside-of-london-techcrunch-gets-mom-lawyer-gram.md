@@ -1,4 +1,4 @@
-# 黑暗的海盗军改编哈利波特和 J.K .罗琳的路虎和伦敦郊外的漂亮房子，TechCrunch 得到妈妈律师-Gram-TechCrunch
+# 黑暗的海盗军改编哈利波特和 J.K .罗琳的路虎和伦敦郊外的漂亮房子，TechCrunch 得到妈妈律师-Gram-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/dark-army-of-pirates-transcribing-harry-potter-and-jk-rowlings-land-rover-and-nice-house-outside-of-london-techcrunch-gets-mom-lawyer-gram/>
 

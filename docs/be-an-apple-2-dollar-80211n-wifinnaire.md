@@ -1,4 +1,4 @@
-# 做苹果 2 块钱 802.11n！–TechCrunch
+# 做苹果 2 块钱 802.11n！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/19/be-an-apple-2-dollar-80211n-wifinnaire/>
 

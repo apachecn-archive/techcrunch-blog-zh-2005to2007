@@ -1,4 +1,4 @@
-# iSoundCap–把你的 iPod Nano 放进你的帽子里| TechCrunch
+# iSoundCap–把你的 iPod Nano 放进你的帽子里
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/isoundcap-put-your-ipod-nano-in-your-hat/>
 

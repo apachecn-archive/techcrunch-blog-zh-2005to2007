@@ -1,4 +1,4 @@
-# Gada.be 的新外观、新名称——TechCrunch
+# Gada.be 的新外观、新名称
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/24/new-look-new-name-for-gadabe/>
 

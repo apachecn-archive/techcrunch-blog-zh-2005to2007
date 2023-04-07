@@ -1,4 +1,4 @@
-# EMI | TechCrunch 的无 DRM 音乐销售“不错”
+# EMI  的无 DRM 音乐销售“不错”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/21/drm-free-music-sales-good-for-emi/>
 

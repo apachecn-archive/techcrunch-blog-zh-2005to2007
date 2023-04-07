@@ -1,4 +1,4 @@
-# 用不到 30 美元就能照亮、消灭你的敌人——TechCrunch
+# 用不到 30 美元就能照亮、消灭你的敌人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/01/illuminate-incapacitate-your-enemies-for-under-30/>
 

@@ -1,4 +1,4 @@
-# 谷歌希望根据它的 You | TechCrunch 数据库给出建议
+# 谷歌希望根据它的 You  数据库给出建议
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/google-wants-to-give-advice-based-on-its-database-of-you/>
 

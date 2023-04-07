@@ -1,4 +1,4 @@
-# 惠普低价出售液晶显示器和等离子显示器——TechCrunch
+# 惠普低价出售液晶显示器和等离子显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/hp-shipping-lcd-and-plasmas-on-the-cheap/>
 

@@ -1,4 +1,4 @@
-# Pandora WiFi 播放器即将推出——TechCrunch
+# Pandora WiFi 播放器即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/pandora-wifi-player-coming/>
 

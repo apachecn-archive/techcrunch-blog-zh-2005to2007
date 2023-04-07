@@ -1,4 +1,4 @@
-# 标记的也是一大笔钱 TechCrunch
+# 标记的也是一大笔钱 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/23/big-money-for-tagged-too/>
 

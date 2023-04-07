@@ -1,4 +1,4 @@
-# 拉拉拉拉拉拉...窃取音乐的另一种方式 TechCrunch
+# 拉拉拉拉拉拉...窃取音乐的另一种方式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/07/lalalalalalaanother-way-to-share-music/>
 

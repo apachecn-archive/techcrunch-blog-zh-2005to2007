@@ -1,4 +1,4 @@
-# 第一眼:Helio 为 Fin | TechCrunch 做的广告
+# 第一眼:Helio 为 Fin  做的广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/16/first-look-helios-ad-for-fin/>
 

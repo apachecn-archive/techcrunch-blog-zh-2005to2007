@@ -1,4 +1,4 @@
-# MySpace 将举行总统初选 TechCrunch
+# MySpace 将举行总统初选 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/03/myspace-will-hold-presidential-primary/>
 

@@ -1,4 +1,4 @@
-# Cingular 为诺基亚 N75 的腾飞做准备| TechCrunch
+# Cingular 为诺基亚 N75 的腾飞做准备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/cingular-preps-nokia-n75-for-take-off/>
 

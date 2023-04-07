@@ -1,4 +1,4 @@
-# 当摩根大通发言时，人们不应该听:没有 iPhone Nano | TechCrunch
+# 当摩根大通发言时，人们不应该听:没有 iPhone Nano 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/11/when-jp-morgan-talks-people-shouldnt-listen-no-iphone-nano/>
 

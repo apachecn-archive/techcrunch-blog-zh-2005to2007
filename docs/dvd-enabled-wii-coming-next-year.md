@@ -1,4 +1,4 @@
-# 明年将推出支持 DVD 的 Wii——TechCrunch
+# 明年将推出支持 DVD 的 Wii
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/dvd-enabled-wii-coming-next-year/>
 

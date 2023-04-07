@@ -1,4 +1,4 @@
-# PS3 降价会影响微软和任天堂吗？TechCrunch
+# PS3 降价会影响微软和任天堂吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/will-ps3-price-cuts-affect-microsoft-and-nintendo/>
 

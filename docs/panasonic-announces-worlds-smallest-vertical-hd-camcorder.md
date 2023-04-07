@@ -1,4 +1,4 @@
-# 松下宣布推出世界上最小的(垂直)高清摄像机| TechCrunch
+# 松下宣布推出世界上最小的(垂直)高清摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/panasonic-announces-worlds-smallest-vertical-hd-camcorder/>
 

@@ -1,4 +1,4 @@
-# Vista 服务包将于秋季推出——TechCrunch
+# Vista 服务包将于秋季推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/vista-service-pack-coming-in-fall/>
 

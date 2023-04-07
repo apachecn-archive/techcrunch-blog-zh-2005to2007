@@ -1,4 +1,4 @@
-# 齿轮键盘防止错别字？TechCrunch
+# 齿轮键盘防止错别字？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/geared-keyboard-prevents-typos/>
 

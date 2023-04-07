@@ -1,4 +1,4 @@
-# RocketBoom 拒绝喝 Zune Kool-Aid，但这并没有阻止我们！或者简单说说 CG 的独立性——TechCrunch
+# RocketBoom 拒绝喝 Zune Kool-Aid，但这并没有阻止我们！或者简单说说 CG 的独立性
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/13/rocketboom-refuses-to-drink-zune-kool-aid-but-that-didnt-stop-us-or-a-brief-note-on-cgs-independence/>
 

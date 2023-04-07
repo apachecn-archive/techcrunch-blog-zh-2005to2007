@@ -1,4 +1,4 @@
-# 廉价的全功能 USB Skype 电话——TechCrunch
+# 廉价的全功能 USB Skype 电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/27/full-featured-usb-skype-phone-on-the-cheap/>
 

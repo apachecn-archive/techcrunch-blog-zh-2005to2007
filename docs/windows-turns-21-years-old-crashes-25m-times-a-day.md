@@ -1,4 +1,4 @@
-# Windows 岁了，每天崩溃 2500 万次——TechCrunch
+# Windows 岁了，每天崩溃 2500 万次
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/20/windows-turns-21-years-old-crashes-25m-times-a-day/>
 

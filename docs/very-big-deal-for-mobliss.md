@@ -1,4 +1,4 @@
-# 对 Mobliss 来说非常重要——TechCrunch
+# 对 Mobliss 来说非常重要
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/very-big-deal-for-mobliss/>
 

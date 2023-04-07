@@ -1,4 +1,4 @@
-# 新闻片段:Skype、Pandora 和 Meebo TechCrunch
+# 新闻片段:Skype、Pandora 和 Meebo 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/02/news-bits-skype-pandora-and-meebo/>
 

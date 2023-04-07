@@ -1,4 +1,4 @@
-# 摩尔菲贝菲评论——TechCrunch
+# 摩尔菲贝菲评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/08/mophie-bevy-review/>
 

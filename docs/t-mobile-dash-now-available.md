@@ -1,4 +1,4 @@
-# T-Mobile Dash 现已上市| TechCrunch
+# T-Mobile Dash 现已上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/t-mobile-dash-now-available/>
 

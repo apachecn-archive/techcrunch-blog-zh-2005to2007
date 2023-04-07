@@ -1,4 +1,4 @@
-# 《纽约时报》为他们开设了一个科技博客——TechCrunch
+# 《纽约时报》为他们开设了一个科技博客
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/27/the-new-york-times-has-them-a-tech-blog/>
 

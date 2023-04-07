@@ -1,4 +1,4 @@
-# T-Mobile 和尼康联手进行 WiFi 照片上传| TechCrunch
+# T-Mobile 和尼康联手进行 WiFi 照片上传
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/t-mobile-and-nikon-join-forces-for-wifi-photo-uploading/>
 

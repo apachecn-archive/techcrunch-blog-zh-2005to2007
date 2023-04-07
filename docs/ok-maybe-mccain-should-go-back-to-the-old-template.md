@@ -1,4 +1,4 @@
-# 好吧，也许麦凯恩应该回到老模板 TechCrunch
+# 好吧，也许麦凯恩应该回到老模板 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/28/ok-maybe-mccain-should-go-back-to-the-old-template/>
 

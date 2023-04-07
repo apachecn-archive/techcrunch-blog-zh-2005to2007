@@ -1,4 +1,4 @@
-# LG KG810 巧克力翻盖手机–TechCrunch
+# LG KG810 巧克力翻盖手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/lg-kg810-chocolate-flip-phone/>
 

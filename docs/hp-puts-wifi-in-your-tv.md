@@ -1,4 +1,4 @@
-# 惠普为您的电视安装 WiFi | TechCrunch
+# 惠普为您的电视安装 WiFi 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/hp-puts-wifi-in-your-tv/>
 

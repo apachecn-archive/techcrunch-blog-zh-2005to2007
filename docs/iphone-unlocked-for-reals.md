@@ -1,4 +1,4 @@
-# iPhone 真正解锁| TechCrunch
+# iPhone 真正解锁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/iphone-unlocked-for-reals/>
 

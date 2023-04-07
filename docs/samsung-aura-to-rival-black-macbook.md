@@ -1,4 +1,4 @@
-# 三星光环要媲美黑 Macbook？–TechCrunch
+# 三星光环要媲美黑 Macbook？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/22/samsung-aura-to-rival-black-macbook/>
 

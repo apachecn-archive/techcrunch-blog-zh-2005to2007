@@ -1,4 +1,4 @@
-# 根深蒂固的玩家困境/机会 TechCrunch
+# 根深蒂固的玩家困境/机会 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/17/the-entrenched-player-dilemma/>
 

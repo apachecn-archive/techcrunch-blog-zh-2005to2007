@@ -1,4 +1,4 @@
-# 八月推出新款 iMacs，或许还有新款 iLife？TechCrunch
+# 八月推出新款 iMacs，或许还有新款 iLife？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/new-imacs-in-august-maybe-new-ilife-too/>
 

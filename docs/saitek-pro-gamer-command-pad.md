@@ -1,4 +1,4 @@
-# Saitek Pro 玩家指挥台–TechCrunch
+# Saitek Pro 玩家指挥台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/19/saitek-pro-gamer-command-pad/>
 

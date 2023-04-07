@@ -1,4 +1,4 @@
-# 适马 SD14 抢先看| TechCrunch
+# 适马 SD14 抢先看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/29/sigma-sd14-sneak-peek/>
 

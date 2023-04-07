@@ -1,4 +1,4 @@
-# 沃尔玛提供西屋返校套餐——TechCrunch
+# 沃尔玛提供西屋返校套餐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/wal-mart-offers-westinghouse-back-to-school-bundle/>
 

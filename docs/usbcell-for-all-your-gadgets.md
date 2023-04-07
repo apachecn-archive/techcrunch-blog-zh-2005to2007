@@ -1,4 +1,4 @@
-# 为您的所有小工具提供 USB cell | TechCrunch
+# 为您的所有小工具提供 USB cell 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/usbcell-for-all-your-gadgets/>
 

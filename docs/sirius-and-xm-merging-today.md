@@ -1,4 +1,4 @@
-# 天狼星和 XM 今天合并？–TechCrunch
+# 天狼星和 XM 今天合并？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/sirius-and-xm-merging-today/>
 

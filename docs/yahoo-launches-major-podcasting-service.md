@@ -1,4 +1,4 @@
-# 雅虎推出主要播客服务 TechCrunch
+# 雅虎推出主要播客服务 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/09/yahoo-launches-major-podcasting-service/>
 

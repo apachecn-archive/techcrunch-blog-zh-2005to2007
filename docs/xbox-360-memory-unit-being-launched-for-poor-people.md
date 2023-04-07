@@ -1,4 +1,4 @@
-# 面向穷人推出 512MB Xbox 360 内存单元| TechCrunch
+# 面向穷人推出 512MB Xbox 360 内存单元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/xbox-360-memory-unit-being-launched-for-poor-people/>
 

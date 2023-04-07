@@ -1,4 +1,4 @@
-# 20 世纪 80 年代的苹果概念 iPhone 的起源——TechCrunch
+# 20 世纪 80 年代的苹果概念 iPhone 的起源
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/1980s-apple-concepts-the-origin-of-the-iphone/>
 

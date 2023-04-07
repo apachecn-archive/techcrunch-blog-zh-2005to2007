@@ -1,4 +1,4 @@
-# GPS——3D 抬头，标记现场——TechCrunch
+# GPS——3D 抬头，标记现场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/11/gps-heads-up-3d-and-marking-the-spot/>
 

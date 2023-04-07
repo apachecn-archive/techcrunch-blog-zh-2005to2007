@@ -1,4 +1,4 @@
-# Belkin 奇特的电涌保护器隐藏了你的电缆羞耻——TechCrunch
+# Belkin 奇特的电涌保护器隐藏了你的电缆羞耻
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/14/belkins-fancy-surge-protectors-hide-your-cable-shame/>
 

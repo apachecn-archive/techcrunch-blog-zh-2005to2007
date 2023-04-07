@@ -1,4 +1,4 @@
-# VOIP——细节扼杀乐趣——TechCrunch
+# VOIP——细节扼杀乐趣
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/23/voip-the-details-kill-the-fun>
 

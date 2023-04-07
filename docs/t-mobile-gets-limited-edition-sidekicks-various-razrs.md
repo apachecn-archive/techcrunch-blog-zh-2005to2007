@@ -1,4 +1,4 @@
-# T-Mobile 获得限量版助手，各种 razr-TechCrunch
+# T-Mobile 获得限量版助手，各种 razr-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/t-mobile-gets-limited-edition-sidekicks-various-razrs/>
 

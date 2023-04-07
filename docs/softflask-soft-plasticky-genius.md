@@ -1,4 +1,4 @@
-# Softflask:柔软的塑料天才| TechCrunch
+# Softflask:柔软的塑料天才
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/07/softflask-soft-plasticky-genius/>
 

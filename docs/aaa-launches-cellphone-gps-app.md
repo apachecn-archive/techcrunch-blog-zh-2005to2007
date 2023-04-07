@@ -1,4 +1,4 @@
-# 美国汽车协会推出手机 GPS 应用程序——TechCrunch
+# 美国汽车协会推出手机 GPS 应用程序
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/15/aaa-launches-cellphone-gps-app/>
 

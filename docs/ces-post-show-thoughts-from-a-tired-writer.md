@@ -1,4 +1,4 @@
-# CES Post 展示了一位疲惫作家的想法——TechCrunch
+# CES Post 展示了一位疲惫作家的想法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/11/ces-post-show-thoughts-from-a-tired-writer/>
 

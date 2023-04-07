@@ -1,4 +1,4 @@
-# CrunchGear 生日派对——8 月 20 日| TechCrunch
+# CrunchGear 生日派对——8 月 20 日
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/13/crunchgear-birthday-party-august-20/>
 

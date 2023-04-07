@@ -1,4 +1,4 @@
-# 三星 i7 没那么科学| TechCrunch
+# 三星 i7 没那么科学
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/samsung-i7-not-so-frankensteinish/>
 

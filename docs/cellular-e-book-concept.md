@@ -1,4 +1,4 @@
-# 蜂窝电子书概念| TechCrunch
+# 蜂窝电子书概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/cellular-e-book-concept/>
 

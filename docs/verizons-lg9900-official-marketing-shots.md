@@ -1,4 +1,4 @@
-# 威瑞森 LG9900 官方营销照片——TechCrunch
+# 威瑞森 LG9900 官方营销照片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/verizons-lg9900-official-marketing-shots/>
 

@@ -1,4 +1,4 @@
-# 三星波尔多是炎热和蒸汽| TechCrunch
+# 三星波尔多是炎热和蒸汽
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/07/samsung-bordeaux-is-hot-and-steamy/>
 

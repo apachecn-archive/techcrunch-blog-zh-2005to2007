@@ -1,4 +1,4 @@
-# Jabra BT 系列耳机:BT 代表蓝牙质量| TechCrunch
+# Jabra BT 系列耳机:BT 代表蓝牙质量
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/jabra-bt-series-headsets-the-bt-stands-for-bluetooth-quality/>
 

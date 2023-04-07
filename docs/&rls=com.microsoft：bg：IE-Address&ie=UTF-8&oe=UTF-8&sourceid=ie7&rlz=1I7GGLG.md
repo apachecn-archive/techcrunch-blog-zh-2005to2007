@@ -1,4 +1,4 @@
-# Techcrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/20/google-news-the-end-of-news-indexing-as-we-know-it/&rls=com.microsoft:bg:IE-Address&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLG>
 

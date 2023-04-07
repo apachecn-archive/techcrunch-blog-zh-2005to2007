@@ -1,4 +1,4 @@
-# Naneu Pro 军事行动 Sierra 评论 TechCrunch
+# Naneu Pro 军事行动 Sierra 评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/16/naneu-pro-military-ops-lima-review/>
 

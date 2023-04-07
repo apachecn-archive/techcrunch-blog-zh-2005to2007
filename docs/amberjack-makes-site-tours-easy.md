@@ -1,4 +1,4 @@
-# Amberjack 让现场参观变得简单 TechCrunch
+# Amberjack 让现场参观变得简单 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/03/amberjack-makes-site-tours-easy/>
 

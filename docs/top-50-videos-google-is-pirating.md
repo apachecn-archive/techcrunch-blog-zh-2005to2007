@@ -1,4 +1,4 @@
-# 谷歌盗版的 50 大版权视频 TechCrunch
+# 谷歌盗版的 50 大版权视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/11/top-50-videos-google-is-pirating/>
 

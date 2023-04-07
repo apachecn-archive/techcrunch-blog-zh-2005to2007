@@ -1,4 +1,4 @@
-# 摩托罗拉赞特图片表面| TechCrunch
+# 摩托罗拉赞特图片表面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/motorola-zante-pics-surface/>
 

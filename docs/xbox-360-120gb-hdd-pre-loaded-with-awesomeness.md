@@ -1,4 +1,4 @@
-# Xbox 360 120GB 硬盘预装了强大的功能——TechCrunch
+# Xbox 360 120GB 硬盘预装了强大的功能
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/30/xbox-360-120gb-hdd-pre-loaded-with-awesomeness/>
 

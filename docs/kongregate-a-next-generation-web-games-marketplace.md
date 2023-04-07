@@ -1,4 +1,4 @@
-# Kongregate:下一代网页游戏市场 TechCrunch
+# Kongregate:下一代网页游戏市场 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/19/kongregate-a-next-generation-web-games-marketplace/>
 

@@ -1,4 +1,4 @@
-# 据说彩色哑铃让锻炼更具设计感| TechCrunch
+# 据说彩色哑铃让锻炼更具设计感
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/colored-dumbbells-said-to-make-exercising-more-design-friendly/>
 

@@ -1,4 +1,4 @@
-# 叫 MacWorld Still 吧？–TechCrunch
+# 叫 MacWorld Still 吧？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/09/its-called-macworld-still-right/>
 

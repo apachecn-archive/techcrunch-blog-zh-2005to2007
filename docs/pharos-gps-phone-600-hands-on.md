@@ -1,4 +1,4 @@
-# Pharos GPS 手机 600 动手| TechCrunch
+# Pharos GPS 手机 600 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/pharos-gps-phone-600-hands-on/>
 

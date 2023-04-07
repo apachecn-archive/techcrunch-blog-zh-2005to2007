@@ -1,4 +1,4 @@
-# 奥林巴斯手写笔 770SW 评论| TechCrunch
+# 奥林巴斯手写笔 770SW 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/25/olympus-stylus-770sw-review/>
 

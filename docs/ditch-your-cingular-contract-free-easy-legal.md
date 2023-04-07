@@ -1,4 +1,4 @@
-# 放弃你的 Cingular 合同！免费！轻松点。合法！–TechCrunch
+# 放弃你的 Cingular 合同！免费！轻松点。合法！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/16/ditch-your-cingular-contract-free-easy-legal/>
 

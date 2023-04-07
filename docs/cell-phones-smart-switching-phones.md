@@ -1,4 +1,4 @@
-# 手机–智能交换手机–TechCrunch
+# 手机–智能交换手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/14/cell-phones-smart-switching-phones/>
 

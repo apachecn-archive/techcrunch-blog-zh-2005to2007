@@ -1,4 +1,4 @@
-# 纽约出租车走向高科技——TechCrunch
+# 纽约出租车走向高科技
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/10/nyc-taxis-to-go-high-tech/>
 

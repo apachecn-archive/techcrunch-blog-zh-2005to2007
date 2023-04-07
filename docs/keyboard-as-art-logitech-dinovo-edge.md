@@ -1,4 +1,4 @@
-# 键盘艺术:罗技 diNovo Edge | TechCrunch
+# 键盘艺术:罗技 diNovo Edge 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/keyboard-as-art-logitech-dinovo-edge/>
 

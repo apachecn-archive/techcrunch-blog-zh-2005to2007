@@ -1,4 +1,4 @@
-# 你知道在哪里缝合；)| TechCrunch
+# 你知道在哪里缝合；)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/08/you-know-where-to-stikkit/>
 

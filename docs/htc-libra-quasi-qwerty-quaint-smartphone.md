@@ -1,4 +1,4 @@
-# HTC Libra:准 QWERTY 古雅智能手机| TechCrunch
+# HTC Libra:准 QWERTY 古雅智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/14/htc-libra-quasi-qwerty-quaint-smartphone/>
 

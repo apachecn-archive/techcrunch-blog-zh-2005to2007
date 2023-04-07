@@ -1,4 +1,4 @@
-# 伦敦 2.0——某事的开始…？TechCrunch
+# 伦敦 2.0——某事的开始…？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/07/london-20-the-start-of-something/>
 

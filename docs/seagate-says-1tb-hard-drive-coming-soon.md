@@ -1,4 +1,4 @@
-# 希捷 1TB 硬盘即将推出| TechCrunch
+# 希捷 1TB 硬盘即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/04/seagate-says-1tb-hard-drive-coming-soon/>
 

@@ -1,4 +1,4 @@
-# 婚礼惊悚片:被录下来——TechCrunch
+# 婚礼惊悚片:被录下来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/30/wedding-thriller-caught-on-tape/>
 

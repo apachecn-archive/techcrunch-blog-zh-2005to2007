@@ -1,4 +1,4 @@
-# 移动游戏:最佳笔记本电脑游戏——TechCrunch
+# 移动游戏:最佳笔记本电脑游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/20/gaming-on-the-go-the-best-of-laptop-gaming/>
 

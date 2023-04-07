@@ -1,4 +1,4 @@
-# CNET 交通拥堵 TechCrunch
+# CNET 交通拥堵 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/13/cnet-is-bleeding-traffic>
 

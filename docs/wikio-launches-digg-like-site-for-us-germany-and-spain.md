@@ -1,4 +1,4 @@
-# Wikio 为美国、德国和西班牙推出类似 Digg 的网站 TechCrunch
+# Wikio 为美国、德国和西班牙推出类似 Digg 的网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/11/wikio-launches-digg-like-site-for-us-germany-and-spain/>
 

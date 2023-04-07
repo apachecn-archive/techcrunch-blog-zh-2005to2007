@@ -1,4 +1,4 @@
-# Digg Mobile，灵感来自 Dave Winer——TechCrunch
+# Digg Mobile，灵感来自 Dave Winer
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/08/dave-winer-inspires-digg/>
 

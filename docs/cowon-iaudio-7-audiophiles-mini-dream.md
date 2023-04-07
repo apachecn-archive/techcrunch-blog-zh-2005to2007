@@ -1,4 +1,4 @@
-# 考恩 iAudio 7:音响发烧友的迷你梦？TechCrunch
+# 考恩 iAudio 7:音响发烧友的迷你梦？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/cowon-iaudio-7-audiophiles-mini-dream/>
 

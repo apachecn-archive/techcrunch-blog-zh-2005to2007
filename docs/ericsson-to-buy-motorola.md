@@ -1,4 +1,4 @@
-# 爱立信将收购摩托罗拉？TechCrunch
+# 爱立信将收购摩托罗拉？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/ericsson-to-buy-motorola/>
 

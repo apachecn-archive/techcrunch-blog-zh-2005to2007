@@ -1,4 +1,4 @@
-# Plugaid 将把 trackbacks 带到 MySpace、Xanga——TechCrunch
+# Plugaid 将把 trackbacks 带到 MySpace、Xanga
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/12/plugaid-will-bring-trackbacks-to-myspace-xanga/>
 

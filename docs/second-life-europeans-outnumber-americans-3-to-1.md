@@ -1,4 +1,4 @@
-# 第二人生:欧洲人比美国人多 3 倍——TechCrunch
+# 第二人生:欧洲人比美国人多 3 倍
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/05/second-life-europeans-outnumber-americans-3-to-1/>
 

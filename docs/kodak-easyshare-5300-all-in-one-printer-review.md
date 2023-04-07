@@ -1,4 +1,4 @@
-# 柯达 EasyShare 5300 多功能一体打印机评论| TechCrunch
+# 柯达 EasyShare 5300 多功能一体打印机评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/kodak-easyshare-5300-all-in-one-printer-review/>
 

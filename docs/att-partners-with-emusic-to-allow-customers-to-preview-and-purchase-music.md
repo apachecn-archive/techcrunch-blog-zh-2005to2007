@@ -1,4 +1,4 @@
-# 美国电话电报公司与 eMusic 合作，允许客户试听和购买音乐| TechCrunch
+# 美国电话电报公司与 eMusic 合作，允许客户试听和购买音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/att-partners-with-emusic-to-allow-customers-to-preview-and-purchase-music/>
 

@@ -1,4 +1,4 @@
-# 摩托罗拉 RAZR 2 亮相——TechCrunch
+# 摩托罗拉 RAZR 2 亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/15/motorola-razr-2-debuted/>
 

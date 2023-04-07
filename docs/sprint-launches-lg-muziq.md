@@ -1,4 +1,4 @@
-# Sprint 发布 LG MUZIQ–TechCrunch
+# Sprint 发布 LG MUZIQ
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/sprint-launches-lg-muziq/>
 

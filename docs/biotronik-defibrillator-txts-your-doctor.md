@@ -1,4 +1,4 @@
-# Biotronik 除颤器向您的医生发送短信–TechCrunch
+# Biotronik 除颤器向您的医生发送短信
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/04/biotronik-defibrillator-txts-your-doctor/>
 

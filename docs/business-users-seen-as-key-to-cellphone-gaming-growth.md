@@ -1,4 +1,4 @@
-# 商业用户被视为手机游戏增长的关键——TechCrunch
+# 商业用户被视为手机游戏增长的关键
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/business-users-seen-as-key-to-cellphone-gaming-growth/>
 

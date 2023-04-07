@@ -1,4 +1,4 @@
-# PatentMonkey:微软的触摸屏手机——TechCrunch
+# PatentMonkey:微软的触摸屏手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/patentmonkey-microsofts-cell-phone-with-touch-screen/>
 

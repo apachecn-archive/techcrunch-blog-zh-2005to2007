@@ -1,4 +1,4 @@
-# 冷宫拍卖:噱头还是真正的交易？TechCrunch
+# 冷宫拍卖:噱头还是真正的交易？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/28/limbo-auctions-gimmick-or-the-real-deal/>
 

@@ -1,4 +1,4 @@
-# 摩托罗拉在纽约到处张贴神秘海报 TechCrunch
+# 摩托罗拉在纽约到处张贴神秘海报 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/motorola-throwing-up-cryptic-posters-around-nyc/>
 

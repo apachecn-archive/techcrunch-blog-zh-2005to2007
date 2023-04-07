@@ -1,4 +1,4 @@
-# OWC 解决您的 USB2+eSATA 便携式硬盘问题——TechCrunch
+# OWC 解决您的 USB2+eSATA 便携式硬盘问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/26/owc-solves-your-usb2esata-portable-drive-problems/>
 

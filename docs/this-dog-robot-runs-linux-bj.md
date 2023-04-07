@@ -1,4 +1,4 @@
-# 这个狗机器人运行 Linux:BJ——TechCrunch
+# 这个狗机器人运行 Linux:BJ
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/this-dog-robot-runs-linux-bj/>
 

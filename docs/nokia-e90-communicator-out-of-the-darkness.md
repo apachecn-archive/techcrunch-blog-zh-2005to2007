@@ -1,4 +1,4 @@
-# 诺基亚 E90 通讯器走出黑暗！–TechCrunch
+# 诺基亚 E90 通讯器走出黑暗！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/nokia-e90-communicator-out-of-the-darkness/>
 

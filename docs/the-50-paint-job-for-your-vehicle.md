@@ -1,4 +1,4 @@
-# 花 50 美元给你的车上漆——TechCrunch
+# 花 50 美元给你的车上漆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/the-50-paint-job-for-your-vehicle/>
 

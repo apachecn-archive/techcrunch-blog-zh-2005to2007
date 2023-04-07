@@ -1,4 +1,4 @@
-# CityCita 正在跳入社会组织丛林——TechCrunch
+# CityCita 正在跳入社会组织丛林
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/02/citycita-is-jumping-into-the-social-organization-jungle>
 

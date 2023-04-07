@@ -1,4 +1,4 @@
-# DocuPen 比单纯的扫描仪更强大——TechCrunch
+# DocuPen 比单纯的扫描仪更强大
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/11/docupen-is-mightier-than-the-mere-scanner/>
 

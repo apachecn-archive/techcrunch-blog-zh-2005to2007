@@ -1,4 +1,4 @@
-# Benchmark 向 Igglo | TechCrunch 投资 1250 万美元
+# Benchmark 向 Igglo  投资 1250 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/24/benchmark-invests-125m-in-igglo/>
 

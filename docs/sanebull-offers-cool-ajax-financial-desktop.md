@@ -1,4 +1,4 @@
-# SaneBull 提供很酷的 ajax 财务桌面——TechCrunch
+# SaneBull 提供很酷的 ajax 财务桌面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/19/sanebull-offers-cool-ajax-financial-desktop/>
 

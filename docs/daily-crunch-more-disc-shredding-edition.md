@@ -1,4 +1,4 @@
-# 每日新闻:更多光盘粉碎版| TechCrunch
+# 每日新闻:更多光盘粉碎版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/19/daily-crunch-more-disc-shredding-edition/>
 

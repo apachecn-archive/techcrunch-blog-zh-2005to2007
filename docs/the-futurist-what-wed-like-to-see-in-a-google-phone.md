@@ -1,4 +1,4 @@
-# 未来学家:我们希望在谷歌手机中看到什么——TechCrunch
+# 未来学家:我们希望在谷歌手机中看到什么
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/the-futurist-what-wed-like-to-see-in-a-google-phone/>
 

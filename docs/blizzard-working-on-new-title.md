@@ -1,4 +1,4 @@
-# 暴雪正在开发新游戏| TechCrunch
+# 暴雪正在开发新游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/16/blizzard-working-on-new-title/>
 

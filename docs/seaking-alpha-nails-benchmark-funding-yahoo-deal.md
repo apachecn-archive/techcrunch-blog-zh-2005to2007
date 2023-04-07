@@ -1,4 +1,4 @@
-# 寻求 Alpha nails 基准融资，雅虎交易 TechCrunch
+# 寻求 Alpha nails 基准融资，雅虎交易 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/11/seaking-alpha-nails-benchmark-funding-yahoo-deal/>
 

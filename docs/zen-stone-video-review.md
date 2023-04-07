@@ -1,4 +1,4 @@
-# 禅石视频评论| TechCrunch
+# 禅石视频评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/zen-stone-video-review/>
 

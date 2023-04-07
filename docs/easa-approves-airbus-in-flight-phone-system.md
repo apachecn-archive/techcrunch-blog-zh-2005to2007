@@ -1,4 +1,4 @@
-# EASA 批准空中客车飞行电话系统——TechCrunch
+# EASA 批准空中客车飞行电话系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/20/easa-approves-airbus-in-flight-phone-system/>
 

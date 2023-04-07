@@ -1,4 +1,4 @@
-# iLike 将免费 Indy 音乐引入 iTunes 推荐——TechCrunch
+# iLike 将免费 Indy 音乐引入 iTunes 推荐
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/24/ilike-brings-free-indy-music-to-itunes-recommendations/>
 

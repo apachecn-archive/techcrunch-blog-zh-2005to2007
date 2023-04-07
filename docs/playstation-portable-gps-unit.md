@@ -1,4 +1,4 @@
-# PlayStation 便携式 GPS 设备| TechCrunch
+# PlayStation 便携式 GPS 设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/playstation-portable-gps-unit/>
 

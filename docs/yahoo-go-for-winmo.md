@@ -1,4 +1,4 @@
-# 雅虎！选择 WinMo–TechCrunch
+# 雅虎！选择 WinMo
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/07/yahoo-go-for-winmo/>
 

@@ -1,4 +1,4 @@
-# 未来学家:所有这些手机名称将把我们带向何处——TechCrunch
+# 未来学家:所有这些手机名称将把我们带向何处
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/the-futurist-where-all-these-cell-phone-names-are-taking-us/>
 

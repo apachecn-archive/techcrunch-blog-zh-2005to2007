@@ -1,4 +1,4 @@
-# T-Mobile 投资 3G 频谱–TechCrunch
+# T-Mobile 投资 3G 频谱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/t-mobile-invests-in-3g-spectrum/>
 

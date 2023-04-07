@@ -1,4 +1,4 @@
-# 轻松录制 PSP 视频变得轻松–TechCrunch
+# 轻松录制 PSP 视频变得轻松
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/04/easy-recorder-2-video-on-psp-made-easy/>
 

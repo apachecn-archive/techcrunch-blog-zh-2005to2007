@@ -1,4 +1,4 @@
-# IPod Dock 无视噪音条例| TechCrunch
+# IPod Dock 无视噪音条例
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/18/ipod-dock-defies-noise-ordinances/>
 

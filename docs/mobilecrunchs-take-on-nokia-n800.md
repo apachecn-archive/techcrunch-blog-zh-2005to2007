@@ -1,4 +1,4 @@
-# MobileCrunch 对诺基亚 N800 的看法| TechCrunch
+# MobileCrunch 对诺基亚 N800 的看法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/mobilecrunchs-take-on-nokia-n800/>
 

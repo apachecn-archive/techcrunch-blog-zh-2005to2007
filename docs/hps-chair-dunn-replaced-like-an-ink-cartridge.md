@@ -1,4 +1,4 @@
-# 惠普的主席邓恩像墨盒一样被替换了——TechCrunch
+# 惠普的主席邓恩像墨盒一样被替换了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/hps-chair-dunn-replaced-like-an-ink-cartridge/>
 

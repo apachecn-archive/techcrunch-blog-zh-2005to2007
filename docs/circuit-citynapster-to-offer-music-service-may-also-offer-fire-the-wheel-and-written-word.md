@@ -1,4 +1,4 @@
-# Circuit City/Napster 将提供音乐服务，可能还会提供火、轮子和文字——TechCrunch
+# Circuit City/Napster 将提供音乐服务，可能还会提供火、轮子和文字
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/20/circuit-citynapster-to-offer-music-service-may-also-offer-fire-the-wheel-and-written-word/>
 

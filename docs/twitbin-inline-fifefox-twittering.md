@@ -1,4 +1,4 @@
-# TwitBin:内嵌 Firefox Twitter——TechCrunch
+# TwitBin:内嵌 Firefox Twitter
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/05/twitbin-inline-fifefox-twittering/>
 

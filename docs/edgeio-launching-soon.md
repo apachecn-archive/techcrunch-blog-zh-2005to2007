@@ -1,4 +1,4 @@
-# edgeio 即将发布——TechCrunch
+# edgeio 即将发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/07/edgeio-launching-soon/>
 

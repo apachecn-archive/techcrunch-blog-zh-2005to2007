@@ -1,4 +1,4 @@
-# Nintedo 的条形比微软和索尼的大——TechCrunch
+# Nintedo 的条形比微软和索尼的大
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/nintedos-bars-are-bigger-than-microsofts-and-sonys/>
 

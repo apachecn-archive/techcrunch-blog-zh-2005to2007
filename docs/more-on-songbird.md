@@ -1,4 +1,4 @@
-# 关于 Songbird 的更多信息——TechCrunch
+# 关于 Songbird 的更多信息
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/29/more-on-songbird/>
 

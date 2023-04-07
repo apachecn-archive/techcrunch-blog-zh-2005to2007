@@ -1,4 +1,4 @@
-# 微软 Zune 市场| TechCrunch
+# 微软 Zune 市场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/14/the-microsoft-zune-marketplace/>
 

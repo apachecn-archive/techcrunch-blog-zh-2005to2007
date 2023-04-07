@@ -1,4 +1,4 @@
-# 三星蓝光+ HD DVD 播放器支持两种格式的特殊功能 TechCrunch
+# 三星蓝光+ HD DVD 播放器支持两种格式的特殊功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/05/samsung-blu-ray-hd-dvd-player-to-support-both-formats-special-features/>
 

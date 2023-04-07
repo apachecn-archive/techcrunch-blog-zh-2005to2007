@@ -1,4 +1,4 @@
-# 苹果 iPhone 到 Cingular？–TechCrunch
+# 苹果 iPhone 到 Cingular？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/apple-iphone-to-cingular/>
 

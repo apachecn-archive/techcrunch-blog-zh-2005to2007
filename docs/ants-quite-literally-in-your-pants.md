@@ -1,4 +1,4 @@
-# 裤子里的蚂蚁| TechCrunch
+# 裤子里的蚂蚁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/ants-quite-literally-in-your-pants/>
 

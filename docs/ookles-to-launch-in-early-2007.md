@@ -1,4 +1,4 @@
-# 将于 2007 年初推出的产品——TechCrunch
+# 将于 2007 年初推出的产品
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/18/ookles-to-launch-in-early-2007/>
 

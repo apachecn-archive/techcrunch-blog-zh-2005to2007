@@ -1,4 +1,4 @@
-# 微软谜题揭晓:是“Surface”——TechCrunch
+# 微软谜题揭晓:是“Surface”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/30/microsoft-mystery-solved-its-surface/>
 

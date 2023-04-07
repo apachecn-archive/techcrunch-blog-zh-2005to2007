@@ -1,4 +1,4 @@
-# DabbleDB:面向所有人的在线应用构建——TechCrunch
+# DabbleDB:面向所有人的在线应用构建
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/11/dabbledb-online-app-building-for-everyone/>
 

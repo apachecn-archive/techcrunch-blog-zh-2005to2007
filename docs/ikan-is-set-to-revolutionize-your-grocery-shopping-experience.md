@@ -1,4 +1,4 @@
-# Ikan 将彻底改变你的购物体验——TechCrunch
+# Ikan 将彻底改变你的购物体验
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/ikan-is-set-to-revolutionize-your-grocery-shopping-experience/>
 

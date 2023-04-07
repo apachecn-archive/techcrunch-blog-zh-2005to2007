@@ -1,4 +1,4 @@
-# 雅虎的 BBAuth 将允许更好的混搭——TechCrunch
+# 雅虎的 BBAuth 将允许更好的混搭
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/29/yahoos-bbauth-will-allow-better-mashups/>
 

@@ -1,4 +1,4 @@
-# Technorati 扩展搜索功能——TechCrunch
+# Technorati 扩展搜索功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/03/technorati-extends-search-functionality/>
 

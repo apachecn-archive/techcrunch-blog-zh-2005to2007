@@ -1,4 +1,4 @@
-# 雨中的仪式笔记本——TechCrunch
+# 雨中的仪式笔记本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/13/rite-in-the-rain-notebooks/>
 

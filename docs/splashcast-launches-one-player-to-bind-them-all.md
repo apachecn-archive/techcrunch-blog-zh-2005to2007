@@ -1,4 +1,4 @@
-# Splashcast 推出一个玩家来绑定他们所有人——TechCrunch
+# Splashcast 推出一个玩家来绑定他们所有人
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/29/splashcast-launches-one-player-to-bind-them-all>
 

@@ -1,4 +1,4 @@
-# Shutterfly 在首次公开募股中向银行提供照片打印服务——TechCrunch
+# Shutterfly 在首次公开募股中向银行提供照片打印服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/29/shutterfly-takes-photo-printing-to-the-bank-in-ipo/>
 

@@ -1,4 +1,4 @@
-# Trulia 和 Mashery 推出房地产搜索 API | TechCrunch
+# Trulia 和 Mashery 推出房地产搜索 API 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/trulia-and-mashery-launch-real-estate-search-api/>
 

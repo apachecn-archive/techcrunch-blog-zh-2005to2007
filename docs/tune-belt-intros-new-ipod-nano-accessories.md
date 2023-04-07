@@ -1,4 +1,4 @@
-# Tune Belt 推出新的 iPod Nano 配件——TechCrunch
+# Tune Belt 推出新的 iPod Nano 配件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/tune-belt-intros-new-ipod-nano-accessories/>
 

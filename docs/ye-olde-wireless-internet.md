@@ -1,4 +1,4 @@
-# Ye Olde 无线互联网| TechCrunch
+# Ye Olde 无线互联网
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/ye-olde-wireless-internet/>
 

@@ -1,4 +1,4 @@
-# Gifttagging 囊括了愿望清单| TechCrunch
+# Gifttagging 囊括了愿望清单
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/gifttagging-wraps-up-the-wishlist/>
 

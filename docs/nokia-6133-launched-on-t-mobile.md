@@ -1,4 +1,4 @@
-# 诺基亚 6133 在 T-Mobile | TechCrunch 上发布
+# 诺基亚 6133 在 T-Mobile  上发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/nokia-6133-launched-on-t-mobile/>
 

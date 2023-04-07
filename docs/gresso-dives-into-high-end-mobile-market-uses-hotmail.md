@@ -1,4 +1,4 @@
-# Gresso 进军高端移动市场，使用 Hotmail-TechCrunch
+# Gresso 进军高端移动市场，使用 Hotmail-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/16/gresso-dives-into-high-end-mobile-market-uses-hotmail/>
 

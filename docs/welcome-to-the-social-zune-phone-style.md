@@ -1,4 +1,4 @@
-# 欢迎来到社交网站:Zune 手机风格——TechCrunch
+# 欢迎来到社交网站:Zune 手机风格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/welcome-to-the-social-zune-phone-style/>
 

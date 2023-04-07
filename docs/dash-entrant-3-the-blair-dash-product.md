@@ -1,4 +1,4 @@
-# Dash 参赛者#3:布莱尔 Dash 产品| TechCrunch
+# Dash 参赛者#3:布莱尔 Dash 产品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/17/dash-entrant-3-the-blair-dash-product/>
 

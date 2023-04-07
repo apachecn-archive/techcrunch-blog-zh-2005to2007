@@ -1,4 +1,4 @@
-# 你圣诞节得到了什么？TechCrunch
+# 你圣诞节得到了什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/26/what-did-you-get-for-christmas/>
 

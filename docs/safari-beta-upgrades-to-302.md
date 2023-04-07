@@ -1,4 +1,4 @@
-# Safari Beta 升级至 3.0.2 | TechCrunch
+# Safari Beta 升级至 3.0.2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/23/safari-beta-upgrades-to-302/>
 

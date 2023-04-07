@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:Audiovox D7000XP 便携式 DVD 播放器| TechCrunch
+# 10 天的 CrunchGear 赠品:Audiovox D7000XP 便携式 DVD 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/10-days-of-crunchgear-giveaway-audiovox-d7000xp-portable-dvd-player/>
 

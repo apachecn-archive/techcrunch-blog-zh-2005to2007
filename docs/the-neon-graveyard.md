@@ -1,4 +1,4 @@
-# 霓虹灯墓地| TechCrunch
+# 霓虹灯墓地
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/09/the-neon-graveyard/>
 

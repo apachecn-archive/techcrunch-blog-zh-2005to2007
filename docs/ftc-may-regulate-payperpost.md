@@ -1,4 +1,4 @@
-# 美国联邦贸易委员会可能监管 payper post TechCrunch
+# 美国联邦贸易委员会可能监管 payper post 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/13/ftc-may-regulate-payperpost/>
 

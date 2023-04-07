@@ -1,4 +1,4 @@
-# 我希望谷歌能收购 allo fm3 TechCrunch
+# 我希望谷歌能收购 allo fm3 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/20/i-wish-google-could-buy-allofmp3/>
 

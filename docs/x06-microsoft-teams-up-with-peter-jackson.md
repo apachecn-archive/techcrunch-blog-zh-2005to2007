@@ -1,4 +1,4 @@
-# X06:微软与彼得·杰克逊合作 TechCrunch
+# X06:微软与彼得·杰克逊合作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/x06-microsoft-teams-up-with-peter-jackson/>
 

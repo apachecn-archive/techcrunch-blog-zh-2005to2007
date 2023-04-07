@@ -1,4 +1,4 @@
-# Zune Douchery 激怒纽约人| TechCrunch
+# Zune Douchery 激怒纽约人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/zune-douchery-angers-new-yorkers/>
 

@@ -1,4 +1,4 @@
-# DesktopTwo 免费提供强大的网络桌面 TechCrunch
+# DesktopTwo 免费提供强大的网络桌面 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/07/desktoptwo-is-free-web-based-computing/>
 

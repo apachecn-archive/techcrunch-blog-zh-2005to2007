@@ -1,4 +1,4 @@
-# 多重苹果电视之谜| TechCrunch
+# 多重苹果电视之谜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/the-mystery-of-the-multiple-apple-tvs/>
 

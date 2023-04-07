@@ -1,4 +1,4 @@
-# Bob Iger 确认 iTV 硬盘–TechCrunch
+# Bob Iger 确认 iTV 硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/bob-iger-confirms-itv-hard-drive/>
 

@@ -1,4 +1,4 @@
-# 通过虚拟化在非苹果硬件上实现| TechCrunch
+# 通过虚拟化在非苹果硬件上实现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/os-x-on-non-apple-hardware-via-virtualization/>
 

@@ -1,4 +1,4 @@
-# Masabi 推出全球首款移动 Java 安全应用——TechCrunch
+# Masabi 推出全球首款移动 Java 安全应用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/13/masabi-launches-world%E2%80%99s-first-mobile-java-security-app/>
 

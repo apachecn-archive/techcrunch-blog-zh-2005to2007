@@ -1,4 +1,4 @@
-# Audiovox 收购汤姆逊的 CE 配件，RCA 品牌——TechCrunch
+# Audiovox 收购汤姆逊的 CE 配件，RCA 品牌
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/audiovox-buys-thomsons-ce-accessories-rca-brand/>
 

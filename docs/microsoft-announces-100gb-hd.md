@@ -1,4 +1,4 @@
-# 微软发布 100GB 高清| TechCrunch
+# 微软发布 100GB 高清
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/microsoft-announces-100gb-hd/>
 

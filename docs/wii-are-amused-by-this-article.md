@@ -1,4 +1,4 @@
-# Wii 被这篇文章逗乐了| TechCrunch
+# Wii 被这篇文章逗乐了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/05/wii-are-amused-by-this-article/>
 

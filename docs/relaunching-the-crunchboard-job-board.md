@@ -1,4 +1,4 @@
-# 重新推出 CrunchBoard 工作板 TechCrunch
+# 重新推出 CrunchBoard 工作板 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/09/relaunching-the-crunchboard-job-board/>
 

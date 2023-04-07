@@ -1,4 +1,4 @@
-# Garmin 宣布预算文本到语音的 PND，nüvi 260 | TechCrunch
+# Garmin 宣布预算文本到语音的 PND，nüvi 260 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/garmin-announces-budget-text-to-speech-pnd-nuvi-260/>
 

@@ -1,4 +1,4 @@
-# 微软将 Windows Mobile 6 更名为标准版、专业版、经典版——TechCrunch
+# 微软将 Windows Mobile 6 更名为标准版、专业版、经典版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/microsoft-renames-windows-media-6-to-standard-professional-classic/>
 

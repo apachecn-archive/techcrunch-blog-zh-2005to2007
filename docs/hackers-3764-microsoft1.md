@@ -1,4 +1,4 @@
-# 黑客:3764 人，微软:1 人——TechCrunch
+# 黑客:3764 人，微软:1 人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/hackers-3764-microsoft1/>
 

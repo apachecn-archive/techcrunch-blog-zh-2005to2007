@@ -1,4 +1,4 @@
-# NTT DoCoMo 发布 3G 老大哥手机——TechCrunch
+# NTT DoCoMo 发布 3G 老大哥手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/ntt-docomo-releases-3g-big-brother-mobile/>
 

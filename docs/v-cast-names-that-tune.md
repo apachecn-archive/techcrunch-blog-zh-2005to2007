@@ -1,4 +1,4 @@
-# v 演员姓名调整| TechCrunch
+# v 演员姓名调整
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/22/v-cast-names-that-tune/>
 

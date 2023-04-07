@@ -1,4 +1,4 @@
-# 关于 Leopard 你不知道的 10 件事:赢得胜利的圆角| TechCrunch
+# 关于 Leopard 你不知道的 10 件事:赢得胜利的圆角
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/10-things-you-didnt-know-about-leopard-rounded-corners-for-the-win/>
 

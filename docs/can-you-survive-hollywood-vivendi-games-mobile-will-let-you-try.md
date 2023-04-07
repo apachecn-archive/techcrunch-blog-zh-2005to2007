@@ -1,4 +1,4 @@
-# 你能在好莱坞生存吗？Vivendi Games Mobile 将让您尝试| TechCrunch
+# 你能在好莱坞生存吗？Vivendi Games Mobile 将让您尝试
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/01/can-you-survive-hollywood-vivendi-games-mobile-will-let-you-try/>
 

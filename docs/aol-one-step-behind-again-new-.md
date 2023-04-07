@@ -1,4 +1,4 @@
-# 美国在线又落后一步:与雅虎相同的新主页——TechCrunch
+# 美国在线又落后一步:与雅虎相同的新主页
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/26/aol-one-step-behind-again-new->
 

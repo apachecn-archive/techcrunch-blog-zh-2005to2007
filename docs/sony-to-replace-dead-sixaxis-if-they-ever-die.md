@@ -1,4 +1,4 @@
-# 索尼将取代死去的 SIXAXIS(如果他们曾经死去)——TechCrunch
+# 索尼将取代死去的 SIXAXIS(如果他们曾经死去)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/sony-to-replace-dead-sixaxis-if-they-ever-die/>
 

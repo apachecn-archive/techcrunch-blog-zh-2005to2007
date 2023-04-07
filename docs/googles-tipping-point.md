@@ -1,4 +1,4 @@
-# 谷歌的引爆点——TechCrunch
+# 谷歌的引爆点
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/30/googles-tipping-point/>
 

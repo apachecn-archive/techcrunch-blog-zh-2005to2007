@@ -1,4 +1,4 @@
-# 时代华纳有线电视使用错误的电源来抑制服务？–TechCrunch
+# 时代华纳有线电视使用错误的电源来抑制服务？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/time-warner-cable-using-bad-power-supplies-to-throttle-service/>
 

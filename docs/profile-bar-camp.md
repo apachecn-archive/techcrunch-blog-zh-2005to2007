@@ -1,4 +1,4 @@
-# 酒吧营和 OPML 路演 TechCrunch
+# 酒吧营和 OPML 路演 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/16/profile-bar-camp/>
 

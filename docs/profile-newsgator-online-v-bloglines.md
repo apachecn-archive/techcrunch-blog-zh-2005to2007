@@ -1,4 +1,4 @@
-# 个人资料–NewsGator Online 与 Bloglines–TechCrunch
+# 个人资料–NewsGator Online 与 Bloglines
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/08/profile-newsgator-online-v-bloglines/>
 

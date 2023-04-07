@@ -1,4 +1,4 @@
-# 每个人给我发 5 美元——TechCrunch
+# 每个人给我发 5 美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/15/everyone-send-me-5/>
 

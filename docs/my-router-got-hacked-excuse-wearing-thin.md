@@ -1,4 +1,4 @@
-# “我的路由器被黑了！”穿薄的借口| TechCrunch
+# “我的路由器被黑了！”穿薄的借口
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/my-router-got-hacked-excuse-wearing-thin/>
 

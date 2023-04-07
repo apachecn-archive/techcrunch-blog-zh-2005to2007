@@ -1,4 +1,4 @@
-# 混搭:place opedia–TechCrunch
+# 混搭:place opedia
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/19/mash-up-placeopedia/>
 

@@ -1,4 +1,4 @@
-# 迷你吧伦敦:另一个 2.0 事件——TechCrunch
+# 迷你吧伦敦:另一个 2.0 事件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/13/minibar-london-another-20-event/>
 

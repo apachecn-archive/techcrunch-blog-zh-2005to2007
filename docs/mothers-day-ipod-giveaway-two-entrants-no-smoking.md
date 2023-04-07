@@ -1,4 +1,4 @@
-# 母亲节 iPod 赠品:两位参赛者，禁止吸烟| TechCrunch
+# 母亲节 iPod 赠品:两位参赛者，禁止吸烟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/mothers-day-ipod-giveaway-two-entrants-no-smoking/>
 

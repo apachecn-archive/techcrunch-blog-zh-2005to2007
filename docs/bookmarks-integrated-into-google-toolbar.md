@@ -1,4 +1,4 @@
-# 集成到谷歌工具栏的书签——TechCrunch
+# 集成到谷歌工具栏的书签
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/30/bookmarks-integrated-into-google-toolbar/>
 

@@ -1,4 +1,4 @@
-# 用 ReCellular | TechCrunch 回收你的手机
+# 用 ReCellular  回收你的手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/10/recycle-your-cellphone-with-recellular/>
 

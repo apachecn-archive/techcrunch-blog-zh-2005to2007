@@ -1,4 +1,4 @@
-# Areae 旨在合并 MMOG 和 Web 2.0 TechCrunch
+# Areae 旨在合并 MMOG 和 Web 2.0 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/17/areae-aims-to-merge-mmog-web-20/>
 

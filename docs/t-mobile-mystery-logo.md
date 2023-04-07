@@ -1,4 +1,4 @@
-# T-Mobile 神秘标志| TechCrunch
+# T-Mobile 神秘标志
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/t-mobile-mystery-logo/>
 

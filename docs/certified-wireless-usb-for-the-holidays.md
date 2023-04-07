@@ -1,4 +1,4 @@
-# 经过认证的假日无线| TechCrunch
+# 经过认证的假日无线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/certified-wireless-usb-for-the-holidays/>
 

@@ -1,4 +1,4 @@
-# 微软增加额外的散热器来修复有故障的 Xbox 360-TechCrunch
+# 微软增加额外的散热器来修复有故障的 Xbox 360-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/13/microsoft-adding-additional-heatsinks-to-fix-faulty-xbox-360s/>
 

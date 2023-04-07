@@ -1,4 +1,4 @@
-# 美国电话电报公司让我们的生活更美好？TechCrunch
+# 美国电话电报公司让我们的生活更美好？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/att-making-our-lives-better/>
 

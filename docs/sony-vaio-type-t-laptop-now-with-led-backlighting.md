@@ -1,4 +1,4 @@
-# 索尼 Type T 型笔记本电脑现已配备 LED——TechCrunch
+# 索尼 Type T 型笔记本电脑现已配备 LED
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/sony-vaio-type-t-laptop-now-with-led-backlighting/>
 

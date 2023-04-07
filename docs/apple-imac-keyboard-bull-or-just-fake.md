@@ -1,4 +1,4 @@
-# 苹果 iMac 键盘:牛还是只是假的？TechCrunch
+# 苹果 iMac 键盘:牛还是只是假的？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/apple-imac-keyboard-bull-or-just-fake/>
 

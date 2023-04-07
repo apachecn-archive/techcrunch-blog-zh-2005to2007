@@ -1,4 +1,4 @@
-# LightScribe 来到 Mac | TechCrunch
+# LightScribe 来到 Mac 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/lightscribe-comes-to-the-mac/>
 

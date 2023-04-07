@@ -1,4 +1,4 @@
-# 冲锋队 LAN Party | TechCrunch
+# 冲锋队 LAN Party 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/stormtrooper-lan-party/>
 

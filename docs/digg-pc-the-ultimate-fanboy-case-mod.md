@@ -1,4 +1,4 @@
-# Digg PC:终极粉丝案例模型——TechCrunch
+# Digg PC:终极粉丝案例模型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/digg-pc-the-ultimate-fanboy-case-mod/>
 

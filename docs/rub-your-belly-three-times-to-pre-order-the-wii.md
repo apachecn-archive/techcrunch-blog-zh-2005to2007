@@ -1,4 +1,4 @@
-# 搓三下你的肚子来预订 Wii | TechCrunch
+# 搓三下你的肚子来预订 Wii 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/09/rub-your-belly-three-times-to-pre-order-the-wii/>
 

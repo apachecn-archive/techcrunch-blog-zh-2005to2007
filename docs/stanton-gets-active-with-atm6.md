@@ -1,4 +1,4 @@
-# 斯坦顿积极使用 ATM . 6–TechCrunch
+# 斯坦顿积极使用 ATM . 6
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/16/stanton-gets-active-with-atm6/>
 

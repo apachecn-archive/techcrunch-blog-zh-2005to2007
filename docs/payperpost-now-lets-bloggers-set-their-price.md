@@ -1,4 +1,4 @@
-# 你的灵魂值多少钱？PayPerPost 现在允许博客作者设定价格 TechCrunch
+# 你的灵魂值多少钱？PayPerPost 现在允许博客作者设定价格 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/27/payperpost-now-lets-bloggers-set-their-price/>
 

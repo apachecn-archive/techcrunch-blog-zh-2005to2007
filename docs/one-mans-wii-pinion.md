@@ -1,4 +1,4 @@
-# 一个人的 Wii-pinion——TechCrunch
+# 一个人的 Wii-pinion
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/one-mans-wii-pinion/>
 

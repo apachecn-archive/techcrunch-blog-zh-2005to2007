@@ -1,4 +1,4 @@
-# HoMedics 发布 iCush–TechCrunch
+# HoMedics 发布 iCush
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/homedics-release-icush/>
 

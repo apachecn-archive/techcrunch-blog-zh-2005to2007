@@ -1,4 +1,4 @@
-# Napster 在日本推出手机无线音乐下载——TechCrunch
+# Napster 在日本推出手机无线音乐下载
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/napster-launches-over-the-air-music-downloads-for-cellphones-in-japan/>
 

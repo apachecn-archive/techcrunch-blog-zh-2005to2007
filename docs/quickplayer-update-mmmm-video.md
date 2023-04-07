@@ -1,4 +1,4 @@
-# QuickPlayer 更新–Mmmm…视频| TechCrunch
+# QuickPlayer 更新–Mmmm…视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/quickplayer-update-mmmm-video/>
 

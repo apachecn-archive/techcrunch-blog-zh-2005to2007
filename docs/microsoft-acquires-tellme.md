@@ -1,4 +1,4 @@
-# 微软收购 Tellme TechCrunch
+# 微软收购 Tellme 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/14/microsoft-acquires-tellme/>
 

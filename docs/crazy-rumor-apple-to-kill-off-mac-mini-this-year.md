@@ -1,4 +1,4 @@
-# 疯狂的谣言:苹果将在今年消灭 Mac Mini——TechCrunch
+# 疯狂的谣言:苹果将在今年消灭 Mac Mini
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/crazy-rumor-apple-to-kill-off-mac-mini-this-year/>
 

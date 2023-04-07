@@ -1,4 +1,4 @@
-# 圣罗莎得到 HD DVD，蓝光播放| TechCrunch
+# 圣罗莎得到 HD DVD，蓝光播放
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/santa-rosa-to-get-hd-dvd-bluray-playback/>
 

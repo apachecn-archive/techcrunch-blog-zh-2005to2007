@@ -1,4 +1,4 @@
-# 微软为印度尝试另一种低成本 PC 解决方案 TechCrunch
+# 微软为印度尝试另一种低成本 PC 解决方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/28/microsoft-attempts-another-low-cost-pc-solution-for-india/>
 

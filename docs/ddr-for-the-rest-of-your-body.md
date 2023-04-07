@@ -1,4 +1,4 @@
-# DDR 针对您身体的其他部分——TechCrunch
+# DDR 针对您身体的其他部分
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/ddr-for-the-rest-of-your-body/>
 

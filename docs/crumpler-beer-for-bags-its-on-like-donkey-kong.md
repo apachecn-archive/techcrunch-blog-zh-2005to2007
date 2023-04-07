@@ -1,4 +1,4 @@
-# 袋装 Crumpler 啤酒，就像大金刚| TechCrunch
+# 袋装 Crumpler 啤酒，就像大金刚
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/crumpler-beer-for-bags-its-on-like-donkey-kong/>
 

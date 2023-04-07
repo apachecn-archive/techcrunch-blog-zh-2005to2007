@@ -1,4 +1,4 @@
-# 独家报道——Zookoda 被拍卖——TechCrunch
+# 独家报道——Zookoda 被拍卖
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/21/exclusive-zookoda-auction/>
 

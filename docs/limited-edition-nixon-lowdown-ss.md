@@ -1,4 +1,4 @@
-# 限量版尼克松真相 SS | TechCrunch
+# 限量版尼克松真相 SS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/limited-edition-nixon-lowdown-ss/>
 

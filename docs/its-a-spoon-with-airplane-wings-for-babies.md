@@ -1,4 +1,4 @@
-# 这是给婴儿用的带飞机翅膀的勺子| TechCrunch
+# 这是给婴儿用的带飞机翅膀的勺子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/07/its-a-spoon-with-airplane-wings-for-babies/>
 

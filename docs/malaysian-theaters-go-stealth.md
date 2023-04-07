@@ -1,4 +1,4 @@
-# 马来西亚影院走向隐身——TechCrunch
+# 马来西亚影院走向隐身
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/29/malaysian-theaters-go-stealth/>
 

@@ -1,4 +1,4 @@
-# 第八部分:一百万个小片段——TechCrunch
+# 第八部分:一百万个小片段
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/octopart-a-million-little-pieces/>
 

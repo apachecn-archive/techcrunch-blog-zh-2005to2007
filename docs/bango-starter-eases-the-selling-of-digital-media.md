@@ -1,4 +1,4 @@
-# Bango Starter 简化了数字媒体的销售——TechCrunch
+# Bango Starter 简化了数字媒体的销售
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/15/bango-starter-eases-the-selling-of-digital-media/>
 

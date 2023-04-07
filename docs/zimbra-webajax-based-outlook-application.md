@@ -1,4 +1,4 @@
-# Zimbra -基于 Web/Ajax 的 Outlook TechCrunch
+# Zimbra -基于 Web/Ajax 的 Outlook 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/12/zimbra-webajax-based-outlook-application/>
 

@@ -1,4 +1,4 @@
-# GrandCentral 可以让手机再次变得可爱 TechCrunch
+# GrandCentral 可以让手机再次变得可爱 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/25/grandcentral-could-make-phones-lovable-again/>
 

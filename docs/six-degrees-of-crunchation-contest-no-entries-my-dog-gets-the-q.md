@@ -1,4 +1,4 @@
-# 六度嘎吱嘎吱大赛:没有参赛作品=我的狗得到了 Q | TechCrunch
+# 六度嘎吱嘎吱大赛:没有参赛作品=我的狗得到了 Q 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/six-degrees-of-crunchation-contest-no-entries-my-dog-gets-the-q/>
 

@@ -1,4 +1,4 @@
-# 模仿为王:iPhone 皮肤出现 WM 5.0，Palm OS | TechCrunch
+# 模仿为王:iPhone 皮肤出现 WM 5.0，Palm OS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/14/imitation-is-king-iphone-skins-appear-for-wm-50-palm-os/>
 

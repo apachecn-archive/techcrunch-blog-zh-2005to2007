@@ -1,4 +1,4 @@
-# 苹果策划 MVNO，碾压 Helio？–TechCrunch
+# 苹果策划 MVNO，碾压 Helio？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/14/apple-planning-mvno-squashing-helio/>
 

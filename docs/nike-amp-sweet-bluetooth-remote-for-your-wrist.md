@@ -1,4 +1,4 @@
-# Nike Amp+:专为您的手腕打造的贴心蓝牙遥控器——TechCrunch
+# Nike Amp+:专为您的手腕打造的贴心蓝牙遥控器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/nike-amp-sweet-bluetooth-remote-for-your-wrist/>
 

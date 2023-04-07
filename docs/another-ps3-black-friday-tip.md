@@ -1,4 +1,4 @@
-# 另一个 PS3 黑色星期五提示——TechCrunch
+# 另一个 PS3 黑色星期五提示
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/22/another-ps3-black-friday-tip/>
 

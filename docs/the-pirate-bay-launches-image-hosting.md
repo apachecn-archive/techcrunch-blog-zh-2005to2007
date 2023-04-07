@@ -1,4 +1,4 @@
-# 海盗湾发布图片托管——TechCrunch
+# 海盗湾发布图片托管
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/21/the-pirate-bay-launches-image-hosting/>
 

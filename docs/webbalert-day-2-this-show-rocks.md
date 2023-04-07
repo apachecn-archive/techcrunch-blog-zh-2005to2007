@@ -1,4 +1,4 @@
-# WebbAlert 第二天:这个节目很棒——TechCrunch
+# WebbAlert 第二天:这个节目很棒
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/03/webbalert-day-2-this-show-rocks/>
 

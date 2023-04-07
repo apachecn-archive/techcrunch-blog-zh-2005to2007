@@ -1,4 +1,4 @@
-# 谷歌跳混搭舞——TechCrunch
+# 谷歌跳混搭舞
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/03/google-does-the-mashup-dance/>
 

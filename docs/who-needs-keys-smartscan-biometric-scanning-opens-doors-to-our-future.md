@@ -1,4 +1,4 @@
-# 谁需要钥匙？SmartScan 生物识别扫描为我们的未来打开大门| TechCrunch
+# 谁需要钥匙？SmartScan 生物识别扫描为我们的未来打开大门
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/who-needs-keys-smartscan-biometric-scanning-opens-doors-to-our-future/>
 

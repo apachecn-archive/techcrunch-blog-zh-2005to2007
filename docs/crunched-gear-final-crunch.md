@@ -1,4 +1,4 @@
-# 嘎吱作响的齿轮:最终嘎吱——TechCrunch
+# 嘎吱作响的齿轮:最终嘎吱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/21/crunched-gear-final-crunch/>
 

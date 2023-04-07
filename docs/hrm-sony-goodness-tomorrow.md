@@ -1,4 +1,4 @@
-# Hrm…索尼善良的明天？–TechCrunch
+# Hrm…索尼善良的明天？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/10/hrm-sony-goodness-tomorrow/>
 

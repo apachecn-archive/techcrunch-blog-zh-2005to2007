@@ -1,4 +1,4 @@
-# UPS 推出递送拦截服务| TechCrunch
+# UPS 推出递送拦截服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/ups-launches-delivery-intercept-service/>
 

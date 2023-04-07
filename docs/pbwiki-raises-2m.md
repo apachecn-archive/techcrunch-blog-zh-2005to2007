@@ -1,4 +1,4 @@
-# PBWiki 筹集了 200 万美元——TechCrunch
+# PBWiki 筹集了 200 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/21/pbwiki-raises-2m/>
 

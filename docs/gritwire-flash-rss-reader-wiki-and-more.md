@@ -1,4 +1,4 @@
-# gritwire——酷炫的 Flash 阅读器，愚蠢的发布会| TechCrunch
+# gritwire——酷炫的 Flash 阅读器，愚蠢的发布会
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/13/gritwire-flash-rss-reader-wiki-and-more/>
 

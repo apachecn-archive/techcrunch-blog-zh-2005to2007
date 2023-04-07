@@ -1,4 +1,4 @@
-# 内置 PayPass 的手表——TechCrunch
+# 内置 PayPass 的手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/watch-with-built-in-paypass/>
 

@@ -1,4 +1,4 @@
-# 神探南茜的手机之谜| TechCrunch
+# 神探南茜的手机之谜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/nancy-drew%e2%80%99s-mobile-mystery/>
 

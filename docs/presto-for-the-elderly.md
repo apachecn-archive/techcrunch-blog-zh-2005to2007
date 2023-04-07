@@ -1,4 +1,4 @@
-# 转眼间。面向老年人| TechCrunch
+# 转眼间。面向老年人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/14/presto-for-the-elderly/>
 

@@ -1,4 +1,4 @@
-# CrunchGear Illustrator 发布| TechCrunch
+# CrunchGear Illustrator 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/22/the-crunchgear-illustrator-unleashed/>
 

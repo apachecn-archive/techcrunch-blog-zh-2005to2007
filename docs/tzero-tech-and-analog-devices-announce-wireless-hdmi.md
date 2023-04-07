@@ -1,4 +1,4 @@
-# Tzero Tech 和 ADI 公司发布无线 HDMI–TechCrunch
+# Tzero Tech 和 ADI 公司发布无线 HDMI
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/tzero-tech-and-analog-devices-announce-wireless-hdmi/>
 

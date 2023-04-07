@@ -1,4 +1,4 @@
-# 雅虎！凭借其新的移动出版商服务——TechCrunch 开创先河
+# 雅虎！凭借其新的移动出版商服务 开创先河
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/yahoo-trailblazes-with-its-new-mobile-publisher-services/>
 

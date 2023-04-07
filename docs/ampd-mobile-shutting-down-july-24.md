@@ -1,4 +1,4 @@
-# 7 月 24 日| TechCrunch
+# 7 月 24 日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/22/ampd-mobile-shutting-down-july-24/>
 

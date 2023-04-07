@@ -1,4 +1,4 @@
-# 控制好自己！钢琴上的 Windows XP 声音| TechCrunch
+# 控制好自己！钢琴上的 Windows XP 声音
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/04/control-yourself-windows-xp-sounds-on-a-piano/>
 

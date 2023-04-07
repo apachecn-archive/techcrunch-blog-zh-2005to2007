@@ -1,4 +1,4 @@
-# 创意直播！Cam Optia 网络摄像头抛弃驱动程序| TechCrunch
+# 创意直播！Cam Optia 网络摄像头抛弃驱动程序
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/creative-live-cam-optia-webcam-ditches-the-drivers/>
 

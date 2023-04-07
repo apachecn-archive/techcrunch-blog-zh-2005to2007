@@ -1,4 +1,4 @@
-# Retrevo.com:电子产品的搜索引擎——TechCrunch
+# Retrevo.com:电子产品的搜索引擎
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/retrevocom-search-engine-for-gadgets-electronics/>
 

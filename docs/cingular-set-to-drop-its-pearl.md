@@ -1,4 +1,4 @@
-# Cingular 准备放弃它的珍珠| TechCrunch
+# Cingular 准备放弃它的珍珠
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/16/cingular-set-to-drop-its-pearl/>
 

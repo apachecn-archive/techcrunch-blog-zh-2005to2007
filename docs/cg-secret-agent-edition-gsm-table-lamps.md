@@ -1,4 +1,4 @@
-# CG 密探版:GSM 台灯| TechCrunch
+# CG 密探版:GSM 台灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/cg-secret-agent-edition-gsm-table-lamps/>
 

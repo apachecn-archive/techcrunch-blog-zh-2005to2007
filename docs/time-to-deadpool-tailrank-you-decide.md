@@ -1,4 +1,4 @@
-# 死侍尾阶的时间到了？你决定吧。–TechCrunch
+# 死侍尾阶的时间到了？你决定吧。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/22/time-to-deadpool-tailrank-you-decide/>
 

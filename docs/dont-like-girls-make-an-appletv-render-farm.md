@@ -1,4 +1,4 @@
-# 不喜欢女生？制作一个 AppleTV 渲染农场！TechCrunch
+# 不喜欢女生？制作一个 AppleTV 渲染农场！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/21/dont-like-girls-make-an-appletv-render-farm/>
 

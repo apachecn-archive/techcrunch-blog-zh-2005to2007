@@ -1,4 +1,4 @@
-# 亚马逊将全力支持视频下载——TechCrunch
+# 亚马逊将全力支持视频下载
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/07/25/amazon-to-throw-its-weight-at-video-downloads/>
 

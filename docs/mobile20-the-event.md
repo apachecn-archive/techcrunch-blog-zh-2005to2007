@@ -1,4 +1,4 @@
-# 移动 2.0:事件| TechCrunch
+# 移动 2.0:事件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/mobile20-the-event/>
 

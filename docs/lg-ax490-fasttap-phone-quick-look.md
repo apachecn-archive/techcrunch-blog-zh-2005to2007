@@ -1,4 +1,4 @@
-# LG AX490 FastTap 手机快速查看| TechCrunch
+# LG AX490 FastTap 手机快速查看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/lg-ax490-fasttap-phone-quick-look/>
 

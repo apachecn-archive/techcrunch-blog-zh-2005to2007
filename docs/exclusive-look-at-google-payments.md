@@ -1,4 +1,4 @@
-# 独家关注谷歌支付——TechCrunch
+# 独家关注谷歌支付
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/02/27/exclusive-look-at-google-payments/>
 

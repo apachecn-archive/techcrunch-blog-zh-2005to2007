@@ -1,4 +1,4 @@
-# 无线等离子电视便于壁挂安装| TechCrunch
+# 无线等离子电视便于壁挂安装
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/12/wireless-plasma-tv-for-easy-wall-mounting/>
 

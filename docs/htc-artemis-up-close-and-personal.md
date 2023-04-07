@@ -1,4 +1,4 @@
-# HTC Artemis 近距离个人化——TechCrunch
+# HTC Artemis 近距离个人化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/htc-artemis-up-close-and-personal/>
 

@@ -1,4 +1,4 @@
-# 佳能 HV20:高清摄像机–TechCrunch
+# 佳能 HV20:高清摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/canon-hv20-hd-hd-camcorder/>
 

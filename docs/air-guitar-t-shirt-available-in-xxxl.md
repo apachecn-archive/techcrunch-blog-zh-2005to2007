@@ -1,4 +1,4 @@
-# 空气吉他 t 恤:XXXL 有售——TechCrunch
+# 空气吉他 t 恤:XXXL 有售
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/13/air-guitar-t-shirt-available-in-xxxl/>
 

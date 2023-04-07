@@ -1,4 +1,4 @@
-# 首款 ZunePhone 广告浮出水面，主角是史蒂夫·鲍尔默| TechCrunch
+# 首款 ZunePhone 广告浮出水面，主角是史蒂夫·鲍尔默
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/first-zunephone-ad-surfaces-featuring-steve-ballmer/>
 

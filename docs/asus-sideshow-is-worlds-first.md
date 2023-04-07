@@ -1,4 +1,4 @@
-# 华硕 Sideshow 是全球首创——TechCrunch
+# 华硕 Sideshow 是全球首创
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/asus-sideshow-is-worlds-first/>
 

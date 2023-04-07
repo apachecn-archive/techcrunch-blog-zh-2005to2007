@@ -1,4 +1,4 @@
-# 比尔和史蒂夫的精彩冒险——TechCrunch
+# 比尔和史蒂夫的精彩冒险
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/20/bill-and-steves-excellent-adventure/>
 

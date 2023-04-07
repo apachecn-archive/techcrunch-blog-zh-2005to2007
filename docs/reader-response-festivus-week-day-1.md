@@ -1,4 +1,4 @@
-# 读者反应:Festivus 周第一天| TechCrunch
+# 读者反应:Festivus 周第一天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/reader-response-festivus-week-day-1/>
 

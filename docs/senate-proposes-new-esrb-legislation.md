@@ -1,4 +1,4 @@
-# 参议院提出新的 ESRB 立法——TechCrunch
+# 参议院提出新的 ESRB 立法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/senate-proposes-new-esrb-legislation/>
 

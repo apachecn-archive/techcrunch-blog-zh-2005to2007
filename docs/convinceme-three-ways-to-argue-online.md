@@ -1,4 +1,4 @@
-# 说服:网上辩论的三种方式 TechCrunch
+# 说服:网上辩论的三种方式 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/31/convinceme-three-ways-to-argue-online/>
 

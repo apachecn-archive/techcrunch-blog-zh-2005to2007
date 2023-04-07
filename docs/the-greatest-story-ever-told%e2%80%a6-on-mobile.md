@@ -1,4 +1,4 @@
-# 有史以来在移动设备上讲述的最伟大的故事——TechCrunch
+# 有史以来在移动设备上讲述的最伟大的故事
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/27/the-greatest-story-ever-told%e2%80%a6-on-mobile/>
 

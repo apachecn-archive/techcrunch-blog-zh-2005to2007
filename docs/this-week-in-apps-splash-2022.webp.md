@@ -1,4 +1,4 @@
-# 介绍 slide share:Power Point+YouTube TechCrunch
+# 介绍 slide share:Power Point+YouTube 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2006/10/04/introducing-slideshare-power-point-youtube/slide/1/trident/this-week-in-apps-splash-2022.webp/>
 

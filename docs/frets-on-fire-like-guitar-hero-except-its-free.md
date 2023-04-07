@@ -1,4 +1,4 @@
-# Frets on Fire:像《吉他英雄》一样，只是它是免费的——TechCrunch
+# Frets on Fire:像《吉他英雄》一样，只是它是免费的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/frets-on-fire-like-guitar-hero-except-its-free/>
 

@@ -1,4 +1,4 @@
-# PriceProtectr 跟踪您的采购情况以获得价格保护| TechCrunch
+# PriceProtectr 跟踪您的采购情况以获得价格保护
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/31/priceprotectr-tracks-your-purhcases-for-price-protection/>
 

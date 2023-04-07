@@ -1,4 +1,4 @@
-# Belkin 现推出 Draft-N express card–TechCrunch
+# Belkin 现推出 Draft-N express card
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/10/belkin-now-shipping-draft-n-expresscard/>
 

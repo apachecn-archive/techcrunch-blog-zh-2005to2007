@@ -1,4 +1,4 @@
-# XBox 的官方博客偷窥现场视觉| TechCrunch
+# XBox 的官方博客偷窥现场视觉
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/xboxs-official-blog-sneaks-a-peek-at-live-vision/>
 

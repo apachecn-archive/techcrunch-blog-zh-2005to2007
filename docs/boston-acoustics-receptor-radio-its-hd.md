@@ -1,4 +1,4 @@
-# 波士顿声学受体电台:这是高清的 TechCrunch
+# 波士顿声学受体电台:这是高清的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/09/boston-acoustics-receptor-radio-its-hd/>
 

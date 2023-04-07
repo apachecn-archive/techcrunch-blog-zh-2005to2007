@@ -1,4 +1,4 @@
-# 卡西欧推出 EXILIM Zoom EX-Z1200 | TechCrunch
+# 卡西欧推出 EXILIM Zoom EX-Z1200 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/21/casio-introduces-exilim-zoom-ex-z1200/>
 

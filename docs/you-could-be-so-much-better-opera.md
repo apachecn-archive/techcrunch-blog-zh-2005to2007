@@ -1,4 +1,4 @@
-# 你可以做得更好，Opera-TechCrunch
+# 你可以做得更好，Opera-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/19/you-could-be-so-much-better-opera/>
 

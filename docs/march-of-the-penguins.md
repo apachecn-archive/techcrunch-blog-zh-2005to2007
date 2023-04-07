@@ -1,4 +1,4 @@
-# 企鹅进行曲| TechCrunch
+# 企鹅进行曲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/march-of-the-penguins/>
 

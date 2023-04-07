@@ -1,4 +1,4 @@
-# GDrive 与博客玩打地鼠 TechCrunch
+# GDrive 与博客玩打地鼠 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/10/gdrive-plays-whack-a-mole-with-bloggers/>
 

@@ -1,4 +1,4 @@
-# 专利猴:Cingular 手机地理搜索服务——TechCrunch
+# 专利猴:Cingular 手机地理搜索服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/13/patent-monkey-cingular-cell-phone-geo-finder-services/>
 

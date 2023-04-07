@@ -1,4 +1,4 @@
-# 谷歌应用突破| TechCrunch
+# 谷歌应用突破
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/28/google-apps-break-on-through/>
 

@@ -1,4 +1,4 @@
-# 以色列午餐:六家初创公司、一家风投公司和一位博客作者 TechCrunch
+# 以色列午餐:六家初创公司、一家风投公司和一位博客作者 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/01/lunch-in-israel-six-startups-and-a-vc/>
 

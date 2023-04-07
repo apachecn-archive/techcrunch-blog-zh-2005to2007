@@ -1,4 +1,4 @@
-# 伦敦(或其他任何地方)的廉价电话| TechCrunch
+# 伦敦(或其他任何地方)的廉价电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/23/london-calling-or-anywhere-else-on-the-cheap/>
 

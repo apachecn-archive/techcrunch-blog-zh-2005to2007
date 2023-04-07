@@ -1,4 +1,4 @@
-# 一台从桌面上滚下来的电脑| TechCrunch
+# 一台从桌面上滚下来的电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/16/a-pc-that-rolls-off-the-tip-of-your-desk/>
 

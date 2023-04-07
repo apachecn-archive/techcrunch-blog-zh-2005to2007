@@ -1,4 +1,4 @@
-# Helio Fin 快速查看| TechCrunch
+# Helio Fin 快速查看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/helio-fin-quick-look/>
 

@@ -1,4 +1,4 @@
-# 吉他形状像老学校 Famicom-TechCrunch
+# 吉他形状像老学校 Famicom-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/27/guitar-shaped-like-old-school-famicom/>
 

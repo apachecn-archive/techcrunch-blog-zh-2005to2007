@@ -1,4 +1,4 @@
-# 本周的新 Ajax 主页——TechCrunch
+# 本周的新 Ajax 主页
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/25/yes-this-weeks-ajax-homepage/>
 

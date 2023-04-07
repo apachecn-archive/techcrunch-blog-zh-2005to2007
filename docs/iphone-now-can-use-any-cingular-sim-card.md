@@ -1,4 +1,4 @@
-# iPhone 现在可以使用任何 Cingular SIM 卡| TechCrunch
+# iPhone 现在可以使用任何 Cingular SIM 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/iphone-now-can-use-any-cingular-sim-card/>
 

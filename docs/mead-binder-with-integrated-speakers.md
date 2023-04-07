@@ -1,4 +1,4 @@
-# 带有集成扬声器的 mead Binder–TechCrunch
+# 带有集成扬声器的 mead Binder
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/05/mead-binder-with-integrated-speakers/>
 

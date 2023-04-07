@@ -1,4 +1,4 @@
-# Pixelotto 你必须在里面才能赢...TechCrunch
+# Pixelotto 你必须在里面才能赢...
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/pixelotto-you-have-to-be-in-it-to-win-it/>
 

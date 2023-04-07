@@ -1,4 +1,4 @@
-# 理查德·马克斯博士讲述的 Playstation Eye 创造故事| TechCrunch
+# 理查德·马克斯博士讲述的 Playstation Eye 创造故事
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/01/the-playstation-eye-creation-story-as-told-by-dr-richard-marks/>
 

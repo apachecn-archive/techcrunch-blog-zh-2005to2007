@@ -1,4 +1,4 @@
-# 六度将帮助人们(我们可以取笑它)——TechCrunch
+# 六度将帮助人们(我们可以取笑它)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/18/six-degrees-will-help-people-and-we-can-make-fun-of-it/>
 

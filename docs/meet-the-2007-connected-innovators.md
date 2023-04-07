@@ -1,4 +1,4 @@
-# 认识 2007 互联创新者| TechCrunch
+# 认识 2007 互联创新者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/21/meet-the-2007-connected-innovators/>
 

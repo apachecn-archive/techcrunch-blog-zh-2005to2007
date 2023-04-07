@@ -1,4 +1,4 @@
-# 有人需要阻止这一切——TechCrunch
+# 有人需要阻止这一切
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/22/somebody-needs-to-stop-this>
 

@@ -1,4 +1,4 @@
-# 苹果说不要从 iTMS 购买，震惊世界| TechCrunch
+# 苹果说不要从 iTMS 购买，震惊世界
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/29/apple-says-dont-buy-from-itms-world-in-shock/>
 

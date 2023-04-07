@@ -1,4 +1,4 @@
-# 放弃微软——TechCrunch
+# 放弃微软
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/giving-up-on-microsoft/>
 

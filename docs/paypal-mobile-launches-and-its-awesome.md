@@ -1,4 +1,4 @@
-# PayPal 手机发布——太棒了 TechCrunch
+# PayPal 手机发布——太棒了 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/22/paypal-mobile-launches-and-its-awesome/>
 

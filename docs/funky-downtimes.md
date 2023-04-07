@@ -1,4 +1,4 @@
-# 时髦的停机时间——TechCrunch
+# 时髦的停机时间
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/23/funky-downtimes/>
 

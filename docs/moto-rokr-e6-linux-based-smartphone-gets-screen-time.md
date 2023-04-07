@@ -1,4 +1,4 @@
-# Moto ROKR e6 基于 Linux 的智能手机获得屏幕时间 TechCrunch
+# Moto ROKR e6 基于 Linux 的智能手机获得屏幕时间 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/moto-rokr-e6-linux-based-smartphone-gets-screen-time/>
 

@@ -1,4 +1,4 @@
-# 传闻苹果影院显示器:HDMI，iSight(？？)–TechCrunch
+# 传闻苹果影院显示器:HDMI，iSight(？？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/26/rumored-apple-cinema-display-hdmi-isight/>
 

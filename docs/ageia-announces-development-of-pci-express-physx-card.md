@@ -1,4 +1,4 @@
-# Ageia 宣布开发 PCI Express PhysX 卡–TechCrunch
+# Ageia 宣布开发 PCI Express PhysX 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/02/ageia-announces-development-of-pci-express-physx-card/>
 

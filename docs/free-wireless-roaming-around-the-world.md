@@ -1,4 +1,4 @@
-# 全球免费无线漫游–TechCrunch
+# 全球免费无线漫游
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/free-wireless-roaming-around-the-world/>
 

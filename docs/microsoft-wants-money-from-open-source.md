@@ -1,4 +1,4 @@
-# 微软想从开源| TechCrunch 赚钱
+# 微软想从开源 赚钱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/microsoft-wants-money-from-open-source/>
 

@@ -1,4 +1,4 @@
-# 创意禅境 W 评论，获得编辑选择| TechCrunch
+# 创意禅境 W 评论，获得编辑选择
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/creative-zen-vision-w-reviewed-gets-editors-choice/>
 

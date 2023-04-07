@@ -1,4 +1,4 @@
-# 我喜欢快速增长，但仍远远落后于 last . FM–TechCrunch
+# 我喜欢快速增长，但仍远远落后于 last . FM
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/27/ilike-growing-quickly-still-massively-trailing-lastfm/>
 

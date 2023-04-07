@@ -1,4 +1,4 @@
-# WebbAlert:很像 Rocketboom，除了它很有趣 TechCrunch
+# WebbAlert:很像 Rocketboom，除了它很有趣 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/02/webbalert-a-lot-like-rocketboom-except-its-interesting>
 

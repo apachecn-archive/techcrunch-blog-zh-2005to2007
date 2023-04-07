@@ -1,4 +1,4 @@
-# 黄金时间:变形金刚电影预览版| TechCrunch
+# 黄金时间:变形金刚电影预览版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/14/prime-time-transformers-movie-merch-preview/>
 

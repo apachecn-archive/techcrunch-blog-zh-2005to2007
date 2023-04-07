@@ -1,4 +1,4 @@
-# 幻影再次滑落——TechCrunch
+# 幻影再次滑落
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/08/phantom-slips-yet-again/>
 

@@ -1,4 +1,4 @@
-# 购买索尼 Mylo，免费获得一年的 T-Mobile 热点——TechCrunch
+# 购买索尼 Mylo，免费获得一年的 T-Mobile 热点
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/13/buy-a-sony-mylo-get-free-t-mobile-hotspot-for-a-year/>
 

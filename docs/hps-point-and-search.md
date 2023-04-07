@@ -1,4 +1,4 @@
-# 惠普的指向和搜索| TechCrunch
+# 惠普的指向和搜索
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/hps-point-and-search/>
 

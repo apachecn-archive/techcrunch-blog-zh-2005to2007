@@ -1,4 +1,4 @@
-# Altec Lansing iMV712:本周最佳 iPod 基座| TechCrunch
+# Altec Lansing iMV712:本周最佳 iPod 基座
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/altec-lansing-imv712-best-ipod-dock-this-week/>
 

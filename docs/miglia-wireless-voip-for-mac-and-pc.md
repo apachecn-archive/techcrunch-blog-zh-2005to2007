@@ -1,4 +1,4 @@
-# 适用于 Mac 和 PC 的 Miglia 无线 VoIP | TechCrunch
+# 适用于 Mac 和 PC 的 Miglia 无线 VoIP 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/07/miglia-wireless-voip-for-mac-and-pc/>
 

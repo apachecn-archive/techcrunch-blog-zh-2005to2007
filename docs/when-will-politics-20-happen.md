@@ -1,4 +1,4 @@
-# 政治 2.0 什么时候会发生？–TechCrunch
+# 政治 2.0 什么时候会发生？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/12/when-will-politics-20-happen/>
 

@@ -1,4 +1,4 @@
-# 第二人生！福克斯新闻频道！性！跟踪！恐怖主义！TechCrunch
+# 第二人生！福克斯新闻频道！性！跟踪！恐怖主义！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/23/second-life-fox-news-sex-stalking-terrorism/>
 

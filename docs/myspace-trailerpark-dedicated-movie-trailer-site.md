@@ -1,4 +1,4 @@
-# MySpace TrailerPark:专门的电影预告片网站 TechCrunch
+# MySpace TrailerPark:专门的电影预告片网站 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/10/myspace-trailerpark-dedicated-movie-trailer-site/>
 

@@ -1,4 +1,4 @@
-# 太阳能无线扬声器——无线技术万岁——TechCrunch
+# 太阳能无线扬声器——无线技术万岁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/27/solar-powered-wireless-speaker-yay-for-wireless/>
 

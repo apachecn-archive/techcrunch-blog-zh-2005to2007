@@ -1,4 +1,4 @@
-# 最近在 Crunchboard 上的工作——成为会员——TechCrunch
+# 最近在 Crunchboard 上的工作——成为会员
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/08/recent-jobs-on-crunchboard-become-an-affiliate/>
 

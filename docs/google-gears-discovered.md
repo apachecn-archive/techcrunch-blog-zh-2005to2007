@@ -1,4 +1,4 @@
-# Google Gears 发现| TechCrunch
+# Google Gears 发现
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/google-gears-discovered/>
 

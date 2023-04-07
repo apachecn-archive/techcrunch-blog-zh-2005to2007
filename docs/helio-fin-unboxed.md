@@ -1,4 +1,4 @@
-# helio Fin:unbox | TechCrunch
+# helio Fin:unbox 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/helio-fin-unboxed/>
 

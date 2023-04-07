@@ -1,4 +1,4 @@
-# MacLockPick 提取 Mac 密码 TechCrunch
+# MacLockPick 提取 Mac 密码 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/27/maclockpick-extracts-mac-passwords/>
 

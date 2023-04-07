@@ -1,4 +1,4 @@
-# 雷蛇死亡骑士来袭| TechCrunch
+# 雷蛇死亡骑士来袭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/01/razer-deathadder-strikes/>
 

@@ -1,4 +1,4 @@
-# 三星 L74 Wide | TechCrunch
+# 三星 L74 Wide 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/30/samsung-l74-wide/>
 

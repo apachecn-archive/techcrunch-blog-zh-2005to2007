@@ -1,4 +1,4 @@
-# Flickr 进入假期——TechCrunch
+# Flickr 进入假期
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/flickr-gets-into-the-holidays/>
 

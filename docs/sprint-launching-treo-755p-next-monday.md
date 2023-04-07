@@ -1,4 +1,4 @@
-# Sprint 下周一发布 Treo 755 p——TechCrunch
+# Sprint 下周一发布 Treo 755 p
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/07/sprint-launching-treo-755p-next-monday/>
 

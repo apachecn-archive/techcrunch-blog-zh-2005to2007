@@ -1,4 +1,4 @@
-# Leopard 路线图:8 月完成功能，9 月下旬发布黄金版| TechCrunch
+# Leopard 路线图:8 月完成功能，9 月下旬发布黄金版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/leopard-roadmap-feature-complete-by-august-gold-late-september/>
 

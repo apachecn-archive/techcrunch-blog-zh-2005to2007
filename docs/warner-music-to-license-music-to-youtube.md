@@ -1,4 +1,4 @@
-# 华纳将授权 YouTube 视频中的音乐 TechCrunch
+# 华纳将授权 YouTube 视频中的音乐 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/17/warner-music-to-license-music-to-youtube/>
 

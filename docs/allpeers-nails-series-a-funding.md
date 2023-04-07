@@ -1,4 +1,4 @@
-# AllPeers 钉钉 A 轮融资–TechCrunch
+# AllPeers 钉钉 A 轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/06/allpeers-nails-series-a-funding/>
 

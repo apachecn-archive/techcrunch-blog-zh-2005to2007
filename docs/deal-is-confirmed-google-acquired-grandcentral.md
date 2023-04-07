@@ -1,4 +1,4 @@
-# 交易已确认:谷歌收购 grand central TechCrunch
+# 交易已确认:谷歌收购 grand central 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/02/deal-is-confirmed-google-acquired-grandcentral/>
 

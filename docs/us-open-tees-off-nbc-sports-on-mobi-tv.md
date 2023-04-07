@@ -1,4 +1,4 @@
-# 美国公开赛在 Mobi TV | TechCrunch 上开球
+# 美国公开赛在 Mobi TV  上开球
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/14/us-open-tees-off-nbc-sports-on-mobi-tv/>
 

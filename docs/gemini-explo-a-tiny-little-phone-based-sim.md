@@ -1,4 +1,4 @@
-# Gemini eXplo:一款基于手机的微型 Sim | TechCrunch
+# Gemini eXplo:一款基于手机的微型 Sim 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/27/gemini-explo-a-tiny-little-phone-based-sim/>
 

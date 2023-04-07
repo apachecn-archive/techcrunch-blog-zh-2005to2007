@@ -1,4 +1,4 @@
-# 百万美元的 MacBook！？TechCrunch
+# 百万美元的 MacBook！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/22/million-dollar-macbook/>
 

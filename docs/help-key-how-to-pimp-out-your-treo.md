@@ -1,4 +1,4 @@
-# 帮助提示:如何推销你的 Treo——TechCrunch
+# 帮助提示:如何推销你的 Treo
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/13/help-key-how-to-pimp-out-your-treo/>
 

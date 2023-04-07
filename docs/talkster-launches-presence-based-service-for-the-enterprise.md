@@ -1,4 +1,4 @@
-# Talkster 推出面向企业的在线服务——TechCrunch
+# Talkster 推出面向企业的在线服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/10/talkster-launches-presence-based-service-for-the-enterprise>
 

@@ -1,4 +1,4 @@
-# BSA 为海盗提供 100 万美元的奖励，新的 CG 比赛宣布！TechCrunch
+# BSA 为海盗提供 100 万美元的奖励，新的 CG 比赛宣布！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/bsa-offers-1-million-reward-for-pirates-new-cg-contest-announced/>
 

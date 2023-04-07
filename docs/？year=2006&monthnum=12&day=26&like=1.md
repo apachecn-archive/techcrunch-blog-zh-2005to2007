@@ -1,4 +1,4 @@
-# Pageflakes | TechCrunch 上发生了一些有趣的事情
+# Pageflakes  上发生了一些有趣的事情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/26/something-funny-is-going-on-at-pageflakes/?year=2006&monthnum=12&day=26&like=1>
 

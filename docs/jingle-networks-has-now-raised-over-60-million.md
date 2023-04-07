@@ -1,4 +1,4 @@
-# 叮当网络公司现已筹集超过 6000 万美元 TechCrunch
+# 叮当网络公司现已筹集超过 6000 万美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/23/jingle-networks-has-now-raised-over-60-million/>
 

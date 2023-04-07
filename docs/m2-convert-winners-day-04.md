@@ -1,4 +1,4 @@
-# M2 转换赢家:第 4 天| TechCrunch
+# M2 转换赢家:第 4 天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/08/m2-convert-winners-day-04/>
 

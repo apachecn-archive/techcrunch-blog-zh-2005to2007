@@ -1,4 +1,4 @@
-# LumiGrams:给女士们——TechCrunch
+# LumiGrams:给女士们
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/lumigrams-for-the-ladies/>
 

@@ -1,4 +1,4 @@
-# Allofmp3.com 不再是| TechCrunch
+# Allofmp3.com 不再是
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/02/allofmp3com-is-no-more/>
 

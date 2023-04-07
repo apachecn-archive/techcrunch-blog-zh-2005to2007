@@ -1,4 +1,4 @@
-# 环球音乐对苹果:也许再见了？–TechCrunch
+# 环球音乐对苹果:也许再见了？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/02/universal-music-to-apple-adieu-perhaps/>
 

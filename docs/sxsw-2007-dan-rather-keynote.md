@@ -1,4 +1,4 @@
-# SXSW 2007:丹·拉瑟主题演讲–TechCrunch
+# SXSW 2007:丹·拉瑟主题演讲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/sxsw-2007-dan-rather-keynote/>
 

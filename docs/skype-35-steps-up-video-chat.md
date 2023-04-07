@@ -1,4 +1,4 @@
-# Skype 3.5 升级视频聊天| TechCrunch
+# Skype 3.5 升级视频聊天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/skype-35-steps-up-video-chat/>
 

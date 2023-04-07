@@ -1,4 +1,4 @@
-# Plaxo 可能是开放的脸书——TechCrunch
+# Plaxo 可能是开放的脸书
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/18/plaxo-could-be-the-open-source-facebook/>
 

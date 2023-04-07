@@ -1,4 +1,4 @@
-# Ooma 提前一个月上市 TechCrunch
+# Ooma 提前一个月上市 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/ooma-goes-on-sale-a-month-early/>
 

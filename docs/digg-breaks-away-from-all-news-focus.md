@@ -1,4 +1,4 @@
-# Digg 脱离了所有新闻焦点——TechCrunch
+# Digg 脱离了所有新闻焦点
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/18/digg-breaks-away-from-all-news-focus/>
 

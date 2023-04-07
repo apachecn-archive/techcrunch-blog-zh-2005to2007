@@ -1,4 +1,4 @@
-# 原始 Zune 聊天 TechCrunch
+# 原始 Zune 聊天 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/15/primitive-zune-chat/>
 

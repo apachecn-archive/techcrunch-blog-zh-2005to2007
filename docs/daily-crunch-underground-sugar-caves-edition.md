@@ -1,4 +1,4 @@
-# 每日危机:地下糖洞版| TechCrunch
+# 每日危机:地下糖洞版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/09/daily-crunch-underground-sugar-caves-edition/>
 

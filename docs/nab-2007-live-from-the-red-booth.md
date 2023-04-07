@@ -1,4 +1,4 @@
-# NAB 2007:红色展台现场直播——TechCrunch
+# NAB 2007:红色展台现场直播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/16/nab-2007-live-from-the-red-booth/>
 

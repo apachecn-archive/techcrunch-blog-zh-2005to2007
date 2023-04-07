@@ -1,4 +1,4 @@
-# IReader 使用语义分析来总结链接的页面–TechCrunch
+# IReader 使用语义分析来总结链接的页面
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/20/ireader-uses-semantic-analysis-to-summarize-linked-pages/>
 

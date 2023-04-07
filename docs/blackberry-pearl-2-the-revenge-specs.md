@@ -1,4 +1,4 @@
-# 《黑莓珍珠 2:复仇》规格——TechCrunch
+# 《黑莓珍珠 2:复仇》规格
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/blackberry-pearl-2-the-revenge-specs/>
 

@@ -1,4 +1,4 @@
-# HotSwap 将进军 3700 亿美元的二手车市场——TechCrunch
+# HotSwap 将进军 3700 亿美元的二手车市场
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/26/hotswap-to-enter-370-billion-used-car-market>
 

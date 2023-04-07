@@ -1,4 +1,4 @@
-# 高清视频终于登陆 iTunes 商店，有点像| TechCrunch
+# 高清视频终于登陆 iTunes 商店，有点像
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/hd-video-finally-hits-itunes-store-sorta-kinda/>
 

@@ -1,4 +1,4 @@
-# iPods 和 Zunes 的 100GB 硬盘升级| TechCrunch
+# iPods 和 Zunes 的 100GB 硬盘升级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/100gb-hdd-upgrade-for-ipods-and-zunes/>
 

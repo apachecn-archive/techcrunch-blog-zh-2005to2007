@@ -1,4 +1,4 @@
-# Guruza 带来即时消息专家提问 TechCrunch
+# Guruza 带来即时消息专家提问 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/29/guruza-brings-im-to-expert-questioning/>
 

@@ -1,4 +1,4 @@
-# CrunchGear Meet Up 更新:了解你的编辑——TechCrunch
+# CrunchGear Meet Up 更新:了解你的编辑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/crunchgear-meet-up-update-know-your-editors/>
 

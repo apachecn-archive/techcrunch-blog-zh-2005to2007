@@ -1,4 +1,4 @@
-# 分子识别，即将推出——TechCrunch
+# 分子识别，即将推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/molecular-identification-coming-soon/>
 

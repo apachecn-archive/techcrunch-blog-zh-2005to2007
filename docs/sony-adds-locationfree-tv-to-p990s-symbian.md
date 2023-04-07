@@ -1,4 +1,4 @@
-# 索尼将无定位电视添加到 P990 的 Symbian–TechCrunch 中
+# 索尼将无定位电视添加到 P990 的 Symbian 中
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/sony-adds-locationfree-tv-to-p990s-symbian/>
 

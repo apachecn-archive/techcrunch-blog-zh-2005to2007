@@ -1,4 +1,4 @@
-# 工作中的个人审查——TechCrunch
+# 工作中的个人审查
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/31/personal-censorship-in-the-works/>
 

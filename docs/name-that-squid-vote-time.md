@@ -1,4 +1,4 @@
-# 给乌贼命名:投票时间| TechCrunch
+# 给乌贼命名:投票时间
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/name-that-squid-vote-time/>
 

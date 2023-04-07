@@ -1,4 +1,4 @@
-# 带 HDMI 的穿梭 XPC Glamor 系列 SG33G5 准系统| TechCrunch
+# 带 HDMI 的穿梭 XPC Glamor 系列 SG33G5 准系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/shuttle-xpc-glamor-series-sg33g5-barebones-with-hdmi/>
 

@@ -1,4 +1,4 @@
-# 韦纳狗重点灯| TechCrunch
+# 韦纳狗重点灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/25/weiner-dog-accent-lamp/>
 

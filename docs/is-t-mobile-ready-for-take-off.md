@@ -1,4 +1,4 @@
-# T-Mobile 准备好起飞了吗？–TechCrunch
+# T-Mobile 准备好起飞了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/30/is-t-mobile-ready-for-take-off/>
 

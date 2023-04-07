@@ -1,4 +1,4 @@
-# Gateway 赢得最佳预算 LCD–TechCrunch
+# Gateway 赢得最佳预算 LCD
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/25/gateway-wins-best-budget-lcd/>
 

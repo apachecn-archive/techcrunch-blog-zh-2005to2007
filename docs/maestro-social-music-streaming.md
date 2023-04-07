@@ -1,4 +1,4 @@
-# Maestro:社交音乐流媒体——TechCrunch
+# Maestro:社交音乐流媒体
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/01/maestro-social-music-streaming/>
 

@@ -1,4 +1,4 @@
-# 三星冰箱将瑞秋·雷置于冰上——TechCrunch
+# 三星冰箱将瑞秋·雷置于冰上
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/05/samsung-fridge-puts-rachael-ray-on-ice/>
 

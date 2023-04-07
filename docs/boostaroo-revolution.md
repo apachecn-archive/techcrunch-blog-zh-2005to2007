@@ -1,4 +1,4 @@
-# Boostaroo 革命| TechCrunch
+# Boostaroo 革命
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/boostaroo-revolution/>
 

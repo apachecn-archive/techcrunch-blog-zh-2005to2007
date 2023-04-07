@@ -1,4 +1,4 @@
-# 夏普发布 4k 电视——TechCrunch
+# 夏普发布 4k 电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/sharp-unveils-4k-tv/>
 

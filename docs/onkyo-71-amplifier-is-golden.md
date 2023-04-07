@@ -1,4 +1,4 @@
-# 安桥 7.1 放大器是黄金| TechCrunch
+# 安桥 7.1 放大器是黄金
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/20/onkyo-71-amplifier-is-golden/>
 

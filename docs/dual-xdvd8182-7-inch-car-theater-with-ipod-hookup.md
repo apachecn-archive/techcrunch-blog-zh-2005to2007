@@ -1,4 +1,4 @@
-# 带 iPod 连接的双 XDVD8182 7 英寸汽车影院–TechCrunch
+# 带 iPod 连接的双 XDVD8182 7 英寸汽车影院
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/21/dual-xdvd8182-7-inch-car-theater-with-ipod-hookup/>
 

@@ -1,4 +1,4 @@
-# SlickrFrame 数码相框可自动显示 Flickr 照片——TechCrunch
+# SlickrFrame 数码相框可自动显示 Flickr 照片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/slickrframe-digital-photo-frame-automatically-displays-flickr-photos/>
 

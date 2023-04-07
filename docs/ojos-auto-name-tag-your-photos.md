@@ -1,4 +1,4 @@
-# ojos–自动命名和标记您的照片–TechCrunch
+# ojos–自动命名和标记您的照片
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/31/ojos-auto-name-tag-your-photos/>
 

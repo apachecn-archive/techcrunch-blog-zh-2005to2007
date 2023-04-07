@@ -1,4 +1,4 @@
-# 服用类固醇的三星 NAND–TechCrunch
+# 服用类固醇的三星 NAND
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/samsung-nand-on-steroids/>
 

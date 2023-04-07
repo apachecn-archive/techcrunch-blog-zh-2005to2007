@@ -1,4 +1,4 @@
-# 竞赛:使用 TeleNav GPS Navigator | TechCrunch 分享您的位置
+# 竞赛:使用 TeleNav GPS Navigator  分享您的位置
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/contest-share-your-location-with-telenav-gps-navigator-2/>
 

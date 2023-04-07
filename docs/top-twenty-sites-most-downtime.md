@@ -1,4 +1,4 @@
-# 前二十大网站:停机时间最长——TechCrunch
+# 前二十大网站:停机时间最长
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/02/top-twenty-sites-most-downtime/>
 

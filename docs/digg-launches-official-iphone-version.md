@@ -1,4 +1,4 @@
-# Digg 发布官方 iPhone 版本——TechCrunch
+# Digg 发布官方 iPhone 版本
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/10/digg-launches-official-iphone-version/>
 

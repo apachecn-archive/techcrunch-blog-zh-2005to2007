@@ -1,4 +1,4 @@
-# 一个欧洲项目试图在机器人中植入人造小脑——TechCrunch
+# 一个欧洲项目试图在机器人中植入人造小脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/29/european-project-attempts-to-put-a-man-made-cerebellum-in-a-robot/>
 

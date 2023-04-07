@@ -1,4 +1,4 @@
-# Firefox 2.0 测试版–亮点–TechCrunch
+# Firefox 2.0 测试版–亮点
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/12/firefox-20-beta-the-highlights/>
 

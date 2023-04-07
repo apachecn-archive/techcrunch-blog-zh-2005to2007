@@ -1,4 +1,4 @@
-# BloggerKit 提供简单的联盟广告，良好的收入分享——TechCrunch
+# BloggerKit 提供简单的联盟广告，良好的收入分享
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/12/bloggerkit-provides-easy-affiliate-ads-good-revenue-sharing/>
 

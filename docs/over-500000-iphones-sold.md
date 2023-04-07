@@ -1,4 +1,4 @@
-# 售出超过 50 万部 iphone——TechCrunch
+# 售出超过 50 万部 iphone
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/02/over-500000-iphones-sold/>
 

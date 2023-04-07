@@ -1,4 +1,4 @@
-# 沃尔玛撤回 PlayStation 3 | TechCrunch
+# 沃尔玛撤回 PlayStation 3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/25/wal-mart-rolls-back-playstation-3/>
 

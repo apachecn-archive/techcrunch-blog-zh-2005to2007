@@ -1,4 +1,4 @@
-# Apple Store Down:可能是背光、多点触控、小猫形状的无手机 iphone！TechCrunch
+# Apple Store Down:可能是背光、多点触控、小猫形状的无手机 iphone！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/apple-store-down-maybe-its-backlit-multi-touch-kitten-shaped-phone-less-iphones/>
 

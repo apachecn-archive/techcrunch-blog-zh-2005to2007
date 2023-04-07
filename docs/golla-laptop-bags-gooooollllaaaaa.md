@@ -1,4 +1,4 @@
-# Golla 笔记本电脑包:GOOOOOLLLLAAAAA–TechCrunch
+# Golla 笔记本电脑包:GOOOOOLLLLAAAAA
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/golla-laptop-bags-gooooollllaaaaa/>
 

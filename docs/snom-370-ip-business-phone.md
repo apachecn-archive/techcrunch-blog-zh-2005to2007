@@ -1,4 +1,4 @@
-# snom 370 IP 商务电话–TechCrunch
+# snom 370 IP 商务电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/06/snom-370-ip-business-phone/>
 

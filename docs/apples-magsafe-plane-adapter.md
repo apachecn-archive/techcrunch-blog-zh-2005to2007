@@ -1,4 +1,4 @@
-# 苹果的 Magsafe 飞机适配器——TechCrunch
+# 苹果的 Magsafe 飞机适配器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/apples-magsafe-plane-adapter/>
 

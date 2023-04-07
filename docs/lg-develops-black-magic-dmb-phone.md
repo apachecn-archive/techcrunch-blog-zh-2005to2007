@@ -1,4 +1,4 @@
-# LG 开发黑魔法 DMB 手机——TechCrunch
+# LG 开发黑魔法 DMB 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/25/lg-develops-black-magic-dmb-phone/>
 

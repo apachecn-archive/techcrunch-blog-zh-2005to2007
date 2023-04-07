@@ -1,4 +1,4 @@
-# 潘多拉正在启动——TechCrunch
+# 潘多拉正在启动
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/28/pandora-is-launching-right-now/>
 

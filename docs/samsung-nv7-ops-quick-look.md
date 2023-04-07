@@ -1,4 +1,4 @@
-# 三星 NV7 OPS 快速查看| TechCrunch
+# 三星 NV7 OPS 快速查看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/01/samsung-nv7-ops-quick-look/>
 

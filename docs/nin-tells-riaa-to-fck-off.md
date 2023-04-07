@@ -1,4 +1,4 @@
-# 宁告诉 RIAA 滚蛋？–TechCrunch
+# 宁告诉 RIAA 滚蛋？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/nin-tells-riaa-to-fck-off/>
 

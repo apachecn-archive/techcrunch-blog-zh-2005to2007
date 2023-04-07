@@ -1,4 +1,4 @@
-# 免费 Treo 680 与购买 iPhone:哪个更便宜？–TechCrunch
+# 免费 Treo 680 与购买 iPhone:哪个更便宜？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/free-treo-680-vs-buying-an-iphone-which-is-cheaper/>
 

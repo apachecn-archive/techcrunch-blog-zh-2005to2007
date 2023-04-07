@@ -1,4 +1,4 @@
-# 金钱星期一:CreateMyNet 和 SiteVista | TechCrunch
+# 金钱星期一:CreateMyNet 和 SiteVista 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/20/money-mondays-createmynet-and-sitevista/>
 

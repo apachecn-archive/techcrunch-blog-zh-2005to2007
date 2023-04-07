@@ -1,4 +1,4 @@
-# 索尼终于推出 50GB 双层蓝光可刻录光盘——TechCrunch
+# 索尼终于推出 50GB 双层蓝光可刻录光盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/sony-finally-shipping-50gb-dual-layer-blu-ray-recordables/>
 

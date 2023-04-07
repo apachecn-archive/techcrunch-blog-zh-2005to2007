@@ -1,4 +1,4 @@
-# 蒸汽男孩:蒸汽动力游戏男孩| TechCrunch
+# 蒸汽男孩:蒸汽动力游戏男孩
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/steamboy-steam-powered-game-boy/>
 

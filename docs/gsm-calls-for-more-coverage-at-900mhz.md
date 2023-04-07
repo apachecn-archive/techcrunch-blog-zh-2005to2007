@@ -1,4 +1,4 @@
-# GSM 呼吁在 900MHz 上扩大覆盖范围——TechCrunch
+# GSM 呼吁在 900MHz 上扩大覆盖范围
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/25/gsm-calls-for-more-coverage-at-900mhz/>
 

@@ -1,4 +1,4 @@
-# 带回 TechCrunch 英国| TechCrunch
+# 带回 TechCrunch 英国
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/bringing_back_techcrunch_uk/>
 

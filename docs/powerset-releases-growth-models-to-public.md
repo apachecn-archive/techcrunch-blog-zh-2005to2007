@@ -1,4 +1,4 @@
-# Powerset 向公众发布增长模型——TechCrunch
+# Powerset 向公众发布增长模型
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/powerset-releases-growth-models-to-public/>
 

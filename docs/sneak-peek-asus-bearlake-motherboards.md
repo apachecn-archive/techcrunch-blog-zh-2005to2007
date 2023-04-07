@@ -1,4 +1,4 @@
-# 先睹为快:华硕 Bearlake 主板–TechCrunch
+# 先睹为快:华硕 Bearlake 主板
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/06/sneak-peek-asus-bearlake-motherboards/>
 

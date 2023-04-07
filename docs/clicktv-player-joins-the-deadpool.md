@@ -1,4 +1,4 @@
-# 点击。电视播放器加入死亡池——TechCrunch
+# 点击。电视播放器加入死亡池
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/07/clicktv-player-joins-the-deadpool/>
 

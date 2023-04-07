@@ -1,4 +1,4 @@
-# iPhone 上发现的神秘新应用——TechCrunch
+# iPhone 上发现的神秘新应用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/new-mystery-app-spotted-on-iphone/>
 

@@ -1,4 +1,4 @@
-# 蔻驰签名条纹 iPod 外壳| TechCrunch
+# 蔻驰签名条纹 iPod 外壳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/coach-signature-stripe-ipod-case/>
 

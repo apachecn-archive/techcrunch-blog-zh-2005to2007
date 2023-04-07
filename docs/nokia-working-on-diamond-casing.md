@@ -1,4 +1,4 @@
-# 诺基亚致力于钻石外壳| TechCrunch
+# 诺基亚致力于钻石外壳
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/nokia-working-on-diamond-casing/>
 

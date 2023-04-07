@@ -1,4 +1,4 @@
-# Memorex 的 TravelDrive 2007 闪存驱动器为您的闪存驱动器选项增加了闪存–TechCrunch
+# Memorex 的 TravelDrive 2007 闪存驱动器为您的闪存驱动器选项增加了闪存
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/02/memorexs-traveldrive-2007-flashy-flash-drives-add-flash-to-your-flash-drive-options/>
 

@@ -1,4 +1,4 @@
-# 为岛屿设计的一流扬声器| TechCrunch
+# 为岛屿设计的一流扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/16/groovy-speakers-for-the-island/>
 

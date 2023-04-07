@@ -1,4 +1,4 @@
-# 环球将尝试通过 SpiralFrog 下载广告驱动的音乐——仍然使用 DRM——TechCrunch
+# 环球将尝试通过 SpiralFrog 下载广告驱动的音乐——仍然使用 DRM
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/29/universal-music-group-to-try-ad-driven-music-downloads-through-sprialfrog/>
 

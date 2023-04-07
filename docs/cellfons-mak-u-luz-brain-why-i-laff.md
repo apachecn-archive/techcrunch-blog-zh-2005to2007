@@ -1,4 +1,4 @@
-# Cellfons Mak U Luz Brain！为什么我 Laff？TechCrunch
+# Cellfons Mak U Luz Brain！为什么我 Laff？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/cellfons-mak-u-luz-brain-why-i-laff/>
 

@@ -1,4 +1,4 @@
-# 诺基亚公布了 Mosh 私人测试版的访问代码——TechCrunch
+# 诺基亚公布了 Mosh 私人测试版的访问代码
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/09/nokia-publishes-access-code-for-mosh-private-beta/>
 

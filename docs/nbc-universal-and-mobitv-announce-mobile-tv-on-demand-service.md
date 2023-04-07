@@ -1,4 +1,4 @@
-# NBC 环球和 MobiTV 宣布推出移动电视点播服务——TechCrunch
+# NBC 环球和 MobiTV 宣布推出移动电视点播服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/nbc-universal-and-mobitv-announce-mobile-tv-on-demand-service/>
 

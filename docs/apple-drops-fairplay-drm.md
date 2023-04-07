@@ -1,4 +1,4 @@
-# 苹果放弃公平播放 DRM——TechCrunch
+# 苹果放弃公平播放 DRM
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/01/apple-drops-fairplay-drm/>
 

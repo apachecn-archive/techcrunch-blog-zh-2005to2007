@@ -1,4 +1,4 @@
-# Snapalarm 烟雾探测器，因为安全第一，还是什么——TechCrunch
+# Snapalarm 烟雾探测器，因为安全第一，还是什么
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/snapalarm-smoke-detector-because-safetys-first-or-something/>
 

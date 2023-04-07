@@ -1,4 +1,4 @@
-# PlayStation 3 是有史以来最好的游戏机——TechCrunch
+# PlayStation 3 是有史以来最好的游戏机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/the-playstation-3-is-the-best-console-ever/>
 

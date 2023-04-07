@@ -1,4 +1,4 @@
-# Box.net 宣布资助 50 万注册用户——TechCrunch
+# Box.net 宣布资助 50 万注册用户
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/23/boxnet-announces-funding-registered-users>
 

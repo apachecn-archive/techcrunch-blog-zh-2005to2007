@@ -1,4 +1,4 @@
-# Newsgator 发布有用的工具栏——关注博客| TechCrunch
+# Newsgator 发布有用的工具栏——关注博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/09/newsgator-releases-useful-toolbar/>
 

@@ -1,4 +1,4 @@
-# SearchFox -个性化 RSS 阅读器 TechCrunch
+# SearchFox -个性化 RSS 阅读器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/12/searchfox-personalized-rss-reader/>
 

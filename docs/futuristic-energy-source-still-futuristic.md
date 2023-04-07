@@ -1,4 +1,4 @@
-# 未来派能源仍然未来派——TechCrunch
+# 未来派能源仍然未来派
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/06/futuristic-energy-source-still-futuristic/>
 

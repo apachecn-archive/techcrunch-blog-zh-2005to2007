@@ -1,4 +1,4 @@
-# 将电子邮件与照片联系起来——TechCrunch
+# 将电子邮件与照片联系起来
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/14/who-r-you-is-a-simple-good-idea/>
 

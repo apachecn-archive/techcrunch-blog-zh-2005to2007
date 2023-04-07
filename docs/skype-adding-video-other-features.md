@@ -1,4 +1,4 @@
-# Skype 增加视频和其他功能——TechCrunch
+# Skype 增加视频和其他功能
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/26/skype-adding-video-other-features/>
 

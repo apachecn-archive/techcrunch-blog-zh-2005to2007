@@ -1,4 +1,4 @@
-# NewsVine 推出 ElectionVine:基于 Widget 的选举投票 TechCrunch
+# NewsVine 推出 ElectionVine:基于 Widget 的选举投票 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/27/newsvine-launches-electionvine-widget-based-polling/>
 

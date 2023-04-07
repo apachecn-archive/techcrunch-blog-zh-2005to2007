@@ -1,4 +1,4 @@
-# 发布 Treo 750v 获得发布日期| TechCrunch
+# 发布 Treo 750v 获得发布日期
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/launched-treo-750v-gets-launch-date-for-launch/>
 

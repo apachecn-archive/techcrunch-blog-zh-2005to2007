@@ -1,4 +1,4 @@
-# ultrasone 1500 美元的第 9 版耳机——TechCrunch
+# ultrasone 1500 美元的第 9 版耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/ultrasones-1500-edition-9-headphones/>
 

@@ -1,4 +1,4 @@
-# 索尼 Vaio VGC-RM1-蓝光有人吗？–TechCrunch
+# 索尼 Vaio VGC-RM1-蓝光有人吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/23/sony-vaio-vgc-rm1-blu-ray-anyone/>
 

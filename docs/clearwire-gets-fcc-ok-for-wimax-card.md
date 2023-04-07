@@ -1,4 +1,4 @@
-# Clearwire 获得 WiMax 卡 FCC 许可| TechCrunch
+# Clearwire 获得 WiMax 卡 FCC 许可
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/clearwire-gets-fcc-ok-for-wimax-card/>
 

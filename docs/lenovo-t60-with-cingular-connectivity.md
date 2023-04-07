@@ -1,4 +1,4 @@
-# 带 Cingular 连接的联想| TechCrunch
+# 带 Cingular 连接的联想
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/lenovo-t60-with-cingular-connectivity/>
 

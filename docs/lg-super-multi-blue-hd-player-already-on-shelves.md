@@ -1,4 +1,4 @@
-# LG 超级多蓝高清播放器已经上架？！–TechCrunch
+# LG 超级多蓝高清播放器已经上架？！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/17/lg-super-multi-blue-hd-player-already-on-shelves/>
 

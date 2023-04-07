@@ -1,4 +1,4 @@
-# 新的雅虎主页今天上线——TechCrunch
+# 新的雅虎主页今天上线
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/17/new-yahoo-home-page-goes-live-today/>
 

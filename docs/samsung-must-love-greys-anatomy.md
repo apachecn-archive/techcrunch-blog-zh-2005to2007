@@ -1,4 +1,4 @@
-# 三星肯定喜欢《实习医生格蕾》——TechCrunch
+# 三星肯定喜欢《实习医生格蕾》
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/08/samsung-must-love-greys-anatomy/>
 

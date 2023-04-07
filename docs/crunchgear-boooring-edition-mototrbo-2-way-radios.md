@@ -1,4 +1,4 @@
-# CrunchGear Boooring 版:MOTOTRBO 双向收音机| TechCrunch
+# CrunchGear Boooring 版:MOTOTRBO 双向收音机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/crunchgear-boooring-edition-mototrbo-2-way-radios/>
 

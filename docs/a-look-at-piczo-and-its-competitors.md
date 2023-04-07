@@ -1,4 +1,4 @@
-# 看看 Piczo 及其竞争对手——TechCrunch
+# 看看 Piczo 及其竞争对手
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/25/a-look-at-piczo-and-its-competitors>
 

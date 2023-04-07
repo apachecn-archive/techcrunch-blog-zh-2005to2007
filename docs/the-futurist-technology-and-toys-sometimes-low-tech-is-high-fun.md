@@ -1,4 +1,4 @@
-# 未来主义者:科技和玩具——有时低科技是高乐趣——TechCrunch
+# 未来主义者:科技和玩具——有时低科技是高乐趣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/12/the-futurist-technology-and-toys-sometimes-low-tech-is-high-fun/>
 

@@ -1,4 +1,4 @@
-# Competitio.us:在线追踪竞争对手 TechCrunch
+# Competitio.us:在线追踪竞争对手 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/04/competitous-track-your-competition-online/>
 

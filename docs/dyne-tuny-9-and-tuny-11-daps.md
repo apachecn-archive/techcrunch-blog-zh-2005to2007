@@ -1,4 +1,4 @@
-# 达因 Tuny 9 和 Tuny 11 DAPs | TechCrunch
+# 达因 Tuny 9 和 Tuny 11 DAPs 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/27/dyne-tuny-9-and-tuny-11-daps/>
 

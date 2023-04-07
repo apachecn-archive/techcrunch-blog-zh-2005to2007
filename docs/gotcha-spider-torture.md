@@ -1,4 +1,4 @@
-# 抓住你了。蜘蛛折磨——TechCrunch
+# 抓住你了。蜘蛛折磨
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/26/gotcha-spider-torture/>
 

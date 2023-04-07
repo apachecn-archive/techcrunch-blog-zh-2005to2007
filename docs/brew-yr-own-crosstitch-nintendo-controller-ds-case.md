@@ -1,4 +1,4 @@
-# Brew-Yr-Own Crosstitch 任天堂控制器 DS Case | TechCrunch
+# Brew-Yr-Own Crosstitch 任天堂控制器 DS Case 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/brew-yr-own-crosstitch-nintendo-controller-ds-case/>
 

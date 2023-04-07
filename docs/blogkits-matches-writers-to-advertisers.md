@@ -1,4 +1,4 @@
-# BlogKits 为作家和广告商牵线搭桥——TechCrunch
+# BlogKits 为作家和广告商牵线搭桥
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/15/blogkits-matches-writers-to-advertisers>
 

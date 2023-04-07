@@ -1,4 +1,4 @@
-# 索尼推出两款蓝光设备——TechCrunch
+# 索尼推出两款蓝光设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/03/sony-drops-two-blu-ray-devices/>
 

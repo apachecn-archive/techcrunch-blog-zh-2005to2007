@@ -1,4 +1,4 @@
-# QuickerTek 将 MacBook 信号强度提高了一倍——TechCrunch
+# QuickerTek 将 MacBook 信号强度提高了一倍
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/15/mac-double-wifi-signal-strength/>
 

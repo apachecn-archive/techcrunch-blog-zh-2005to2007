@@ -1,4 +1,4 @@
-# WiFi 加入“一英里高俱乐部”——TechCrunch
+# WiFi 加入“一英里高俱乐部”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/04/wifi-joins-the-mile-high-club/>
 

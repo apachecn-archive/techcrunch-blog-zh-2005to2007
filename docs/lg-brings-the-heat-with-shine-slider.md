@@ -1,4 +1,4 @@
-# LG 用闪亮的滑块带来热度——TechCrunch
+# LG 用闪亮的滑块带来热度
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/lg-brings-the-heat-with-shine-slider/>
 

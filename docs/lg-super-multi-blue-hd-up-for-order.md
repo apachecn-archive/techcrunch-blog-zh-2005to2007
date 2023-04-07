@@ -1,4 +1,4 @@
-# LG Super Multi Blue HD Up for Order–TechCrunch
+# LG Super Multi Blue HD Up for Order
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/21/lg-super-multi-blue-hd-up-for-order/>
 

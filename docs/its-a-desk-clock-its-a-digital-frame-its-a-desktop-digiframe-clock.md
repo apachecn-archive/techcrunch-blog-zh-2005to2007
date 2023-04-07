@@ -1,4 +1,4 @@
-# 这是一个座钟，这是一个数码相框；这是一个桌面数码相框&时钟| TechCrunch
+# 这是一个座钟，这是一个数码相框；这是一个桌面数码相框&时钟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/06/its-a-desk-clock-its-a-digital-frame-its-a-desktop-digiframe-clock/>
 

@@ -1,4 +1,4 @@
-# Cingular 3125 实践–TechCrunch
+# Cingular 3125 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/14/cingular-3125-hands-on/>
 

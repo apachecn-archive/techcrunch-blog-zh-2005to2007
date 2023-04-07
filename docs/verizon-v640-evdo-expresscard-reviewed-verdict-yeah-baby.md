@@ -1,4 +1,4 @@
-# 威瑞森 V640 EVDO ExpressCard 已审核–TechCrunch
+# 威瑞森 V640 EVDO ExpressCard 已审核
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/verizon-v640-evdo-expresscard-reviewed-verdict-yeah-baby/>
 

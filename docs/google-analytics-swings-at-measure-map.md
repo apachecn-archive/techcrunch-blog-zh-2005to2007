@@ -1,4 +1,4 @@
-# 谷歌分析在 Measure Map 上摇摆——TechCrunch
+# 谷歌分析在 Measure Map 上摇摆
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/14/google-analytics-swings-at-measure-map/>
 

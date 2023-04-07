@@ -1,4 +1,4 @@
-# 商业周刊| TechCrunch 称强大的苹果公司是年度最具创新力的公司
+# 商业周刊 称强大的苹果公司是年度最具创新力的公司
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/04/mighty-apple-inc-is-most-innovative-company-of-the-year-says-businessweek/>
 

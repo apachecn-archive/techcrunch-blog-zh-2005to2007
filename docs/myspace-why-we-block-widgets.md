@@ -1,4 +1,4 @@
-# MySpace:我们为什么屏蔽小工具——TechCrunch
+# MySpace:我们为什么屏蔽小工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/26/myspace-why-we-block-widgets/>
 

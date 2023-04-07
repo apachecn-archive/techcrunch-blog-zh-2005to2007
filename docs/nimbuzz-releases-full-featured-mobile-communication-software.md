@@ -1,4 +1,4 @@
-# Nimbuzz 发布全功能移动通信软件| TechCrunch
+# Nimbuzz 发布全功能移动通信软件
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/22/nimbuzz-releases-full-featured-mobile-communication-software/>
 

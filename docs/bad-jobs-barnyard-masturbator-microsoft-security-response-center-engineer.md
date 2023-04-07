@@ -1,4 +1,4 @@
-# 糟糕的工作:农场自慰者，微软安全响应中心工程师——TechCrunch
+# 糟糕的工作:农场自慰者，微软安全响应中心工程师
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/27/bad-jobs-barnyard-masturbator-microsoft-security-response-center-engineer/>
 

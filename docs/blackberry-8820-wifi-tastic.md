@@ -1,4 +1,4 @@
-# 黑莓 8820–WiFi-tastic | TechCrunch
+# 黑莓 8820–WiFi-tastic 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/blackberry-8820-wifi-tastic/>
 

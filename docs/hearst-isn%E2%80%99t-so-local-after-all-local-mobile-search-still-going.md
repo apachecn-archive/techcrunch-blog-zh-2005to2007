@@ -1,4 +1,4 @@
-# 赫斯特公司毕竟不是那么本地化；本地移动搜索还在继续吗？TechCrunch
+# 赫斯特公司毕竟不是那么本地化；本地移动搜索还在继续吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/18/hearst-isn%E2%80%99t-so-local-after-all-local-mobile-search-still-going/>
 

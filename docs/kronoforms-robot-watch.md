@@ -1,4 +1,4 @@
-# Kronoforms 机器人手表| TechCrunch
+# Kronoforms 机器人手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/19/kronoforms-robot-watch/>
 

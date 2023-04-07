@@ -1,4 +1,4 @@
-# 霍尔马克电影频道将于明年推出高清电视——TechCrunch
+# 霍尔马克电影频道将于明年推出高清电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/hallmark-movie-channel-goes-hd-next-year/>
 

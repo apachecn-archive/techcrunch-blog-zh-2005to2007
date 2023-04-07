@@ -1,4 +1,4 @@
-# Parrot 推出支持蓝牙的数码相框| TechCrunch
+# Parrot 推出支持蓝牙的数码相框
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/02/parrot-intros-bluetooth-enabled-digital-photo-frames/>
 

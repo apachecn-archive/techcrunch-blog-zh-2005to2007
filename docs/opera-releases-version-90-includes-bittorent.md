@@ -1,4 +1,4 @@
-# Opera 发布 9.0 版本，包括 bittorent–TechCrunch
+# Opera 发布 9.0 版本，包括 bittorent
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/20/opera-releases-version-90-includes-bittorent/>
 

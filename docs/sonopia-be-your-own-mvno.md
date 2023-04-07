@@ -1,4 +1,4 @@
-# Sonopia:做你自己的 MVNO | TechCrunch
+# Sonopia:做你自己的 MVNO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/sonopia-be-your-own-mvno/>
 

@@ -1,4 +1,4 @@
-# 移动广告商关注游戏| TechCrunch
+# 移动广告商关注游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/20/mobile-advertisers-looking-at-gaming/>
 

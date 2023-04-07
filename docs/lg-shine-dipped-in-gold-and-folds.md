@@ -1,4 +1,4 @@
-# LG Shine 浸金褶皱| TechCrunch
+# LG Shine 浸金褶皱
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/12/lg-shine-dipped-in-gold-and-folds/>
 

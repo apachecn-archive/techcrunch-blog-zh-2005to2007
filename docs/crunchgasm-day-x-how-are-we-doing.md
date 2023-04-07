@@ -1,4 +1,4 @@
-# Crunchgasm 第 X 天:我们做得怎么样？–TechCrunch
+# Crunchgasm 第 X 天:我们做得怎么样？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/28/crunchgasm-day-x-how-are-we-doing/>
 

@@ -1,4 +1,4 @@
-# 顶级社交媒体用户获得报酬；平衡正在改变吗？–TechCrunch
+# 顶级社交媒体用户获得报酬；平衡正在改变吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/10/top-social-media-users-getting-paid-is-the-balance-shifting/>
 

@@ -1,4 +1,4 @@
-# 使用 TrustedID | TechCrunch 打击身份盗窃
+# 使用 TrustedID  打击身份盗窃
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/13/trustedid-this-is-important/>
 

@@ -1,4 +1,4 @@
-# 来自其他世界计算的 2TB RAID 阵列:您有足够的空间吗？–TechCrunch
+# 来自其他世界计算的 2TB RAID 阵列:您有足够的空间吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/09/2tb-raid-array-from-other-world-computing-enough-space-for-you/>
 

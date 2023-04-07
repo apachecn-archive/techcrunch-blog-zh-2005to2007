@@ -1,4 +1,4 @@
-# 索尼爱立信于 6 月 14 日推出四款新手机——TechCrunch
+# 索尼爱立信于 6 月 14 日推出四款新手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/sony-ericsson-dropping-four-new-phones-on-june-14th/>
 

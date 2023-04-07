@@ -1,4 +1,4 @@
-# 几乎免费的更多现实寝具——TechCrunch
+# 几乎免费的更多现实寝具
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/23/more-reality-bedding-for-almost-free/>
 

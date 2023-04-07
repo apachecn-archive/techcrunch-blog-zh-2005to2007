@@ -1,4 +1,4 @@
-# l 宣布推出配备固态硬盘、仙尘和精灵魔法的梦幻 8 核笔记本电脑| TechCrunch
+# l 宣布推出配备固态硬盘、仙尘和精灵魔法的梦幻 8 核笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/12/l-announces-fantasy-8-core-laptop-with-ssd-fairy-dust-and-elven-magic/>
 

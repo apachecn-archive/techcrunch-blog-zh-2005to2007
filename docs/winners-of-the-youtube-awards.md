@@ -1,4 +1,4 @@
-# YouTube 大奖得主| TechCrunch
+# YouTube 大奖得主
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/winners-of-the-youtube-awards/>
 

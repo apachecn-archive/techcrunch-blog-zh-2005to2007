@@ -1,4 +1,4 @@
-# 索尼将 PSP 的价格降低了 30 美元至 169 美元| TechCrunch
+# 索尼将 PSP 的价格降低了 30 美元至 169 美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/03/sony-drops-the-psps-price-by-30-to-169/>
 

@@ -1,4 +1,4 @@
-# Roxio 介入，让 TiVoToGo For Mac 成为现实| TechCrunch
+# Roxio 介入，让 TiVoToGo For Mac 成为现实
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/08/roxio-steps-in-to-make-tivotogo-for-mac-a-reality/>
 

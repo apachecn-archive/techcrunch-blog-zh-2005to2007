@@ -1,4 +1,4 @@
-# 来自微软| TechCrunch 的 XNA Game Studio Express
+# 来自微软 的 XNA Game Studio Express
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/14/xna-game-studio-express-from-microsoft/>
 

@@ -1,4 +1,4 @@
-# 美国测绘局 CTO 是否已经离开了 Web 2.0？TechCrunch
+# 美国测绘局 CTO 是否已经离开了 Web 2.0？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/06/has-the-ordnance-survey-cto-left-over-web-20/>
 

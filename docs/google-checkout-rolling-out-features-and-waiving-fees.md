@@ -1,4 +1,4 @@
-# Google Checkout 推出新功能并免除费用 TechCrunch
+# Google Checkout 推出新功能并免除费用 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/11/google-checkout-rolling-out-features-and-waiving-fees/>
 

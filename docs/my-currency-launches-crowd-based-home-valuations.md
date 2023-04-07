@@ -1,4 +1,4 @@
-# 我的货币推出基于人群的房屋估价——TechCrunch
+# 我的货币推出基于人群的房屋估价
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/30/my-currency-launches-crowd-based-home-valuations/>
 

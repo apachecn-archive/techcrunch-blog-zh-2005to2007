@@ -1,4 +1,4 @@
-# 勒布朗成为蚀刻素描艺术| TechCrunch
+# 勒布朗成为蚀刻素描艺术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/12/lebron-becomes-etch-a-sketch-art/>
 

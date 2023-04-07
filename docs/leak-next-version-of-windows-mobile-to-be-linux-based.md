@@ -1,4 +1,4 @@
-# 泄露:下一个版本的 Windows Mobile 将基于 Linux？TechCrunch
+# 泄露:下一个版本的 Windows Mobile 将基于 Linux？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/01/leak-next-version-of-windows-mobile-to-be-linux-based/>
 

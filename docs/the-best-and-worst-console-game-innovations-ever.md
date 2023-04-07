@@ -1,4 +1,4 @@
-# 有史以来最好(也是最差)的主机游戏创新——TechCrunch
+# 有史以来最好(也是最差)的主机游戏创新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/06/the-best-and-worst-console-game-innovations-ever/>
 

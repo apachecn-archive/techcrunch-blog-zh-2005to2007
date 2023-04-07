@@ -1,4 +1,4 @@
-# Q1 UMPC 配件实践| TechCrunch
+# Q1 UMPC 配件实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/05/q1-umpc-accessories-hands-on/>
 

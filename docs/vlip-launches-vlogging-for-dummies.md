@@ -1,4 +1,4 @@
-# VLIP 推出虚拟博客——TechCrunch
+# VLIP 推出虚拟博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/15/vlip-launches-vlogging-for-dummies/>
 

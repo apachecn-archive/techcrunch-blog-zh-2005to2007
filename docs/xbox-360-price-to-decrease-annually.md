@@ -1,4 +1,4 @@
-# Xbox 360 价格逐年下降——TechCrunch
+# Xbox 360 价格逐年下降
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/07/xbox-360-price-to-decrease-annually/>
 

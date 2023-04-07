@@ -1,4 +1,4 @@
-# 业余体育管理遭遇 Web 2.0: TeamSnap | TechCrunch
+# 业余体育管理遭遇 Web 2.0: TeamSnap 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/18/amateur-sports-management-meets-web-20-teamsnap/>
 

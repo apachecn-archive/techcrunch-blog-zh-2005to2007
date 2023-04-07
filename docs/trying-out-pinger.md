@@ -1,4 +1,4 @@
-# 试用 Pinger–TechCrunch
+# 试用 Pinger
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/14/trying-out-pinger/>
 

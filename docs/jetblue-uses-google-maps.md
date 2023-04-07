@@ -1,4 +1,4 @@
-# 捷蓝航空使用谷歌地图| TechCrunch
+# 捷蓝航空使用谷歌地图
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/jetblue-uses-google-maps/>
 

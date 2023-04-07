@@ -1,4 +1,4 @@
-# 富士 FinePix S6000fd 动手| TechCrunch
+# 富士 FinePix S6000fd 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/fujifilm-finepix-s6000fd-hands-on/>
 

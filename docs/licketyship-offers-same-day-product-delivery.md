@@ -1,4 +1,4 @@
-# LicketyShip 提供当天送货服务——TechCrunch
+# LicketyShip 提供当天送货服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/27/licketyship-offers-same-day-product-delivery/>
 

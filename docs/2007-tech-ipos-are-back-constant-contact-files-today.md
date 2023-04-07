@@ -1,4 +1,4 @@
-# 2007 年:科技股 IPO 卷土重来。今天不断的联系文件。TechCrunch
+# 2007 年:科技股 IPO 卷土重来。今天不断的联系文件。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/06/2007-tech-ipos-are-back-constant-contact-files-today/>
 

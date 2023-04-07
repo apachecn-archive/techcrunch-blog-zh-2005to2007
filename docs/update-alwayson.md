@@ -1,4 +1,4 @@
-# 更新:AlwaysOn(第一天)——TechCrunch
+# 更新:AlwaysOn(第一天)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2005/07/19/update-alwayson/>
 

@@ -1,4 +1,4 @@
-# 手机锁让手机在课堂上安全——TechCrunch
+# 手机锁让手机在课堂上安全
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/cell-lock-keeps-cellphones-safe-during-class/>
 

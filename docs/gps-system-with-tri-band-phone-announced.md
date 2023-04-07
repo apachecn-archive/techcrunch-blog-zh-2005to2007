@@ -1,4 +1,4 @@
-# 全球定位系统与三频电话宣布| TechCrunch
+# 全球定位系统与三频电话宣布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/25/gps-system-with-tri-band-phone-announced/>
 

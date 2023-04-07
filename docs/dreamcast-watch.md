@@ -1,4 +1,4 @@
-# Dreamcast 手表| TechCrunch
+# Dreamcast 手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/dreamcast-watch/>
 

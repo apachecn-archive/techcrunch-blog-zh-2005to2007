@@ -1,4 +1,4 @@
-# AMD 的两个电视调谐神狗| TechCrunch
+# AMD 的两个电视调谐神狗
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/09/amds-two-tv-tuning-wonder-dongles/>
 

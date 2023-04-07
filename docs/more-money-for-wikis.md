@@ -1,4 +1,4 @@
-# 为维基提供更多资金——TechCrunch
+# 为维基提供更多资金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/08/more-money-for-wikis/>
 

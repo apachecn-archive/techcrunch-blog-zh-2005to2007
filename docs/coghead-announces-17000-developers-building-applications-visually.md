@@ -1,4 +1,4 @@
-# Coghead 宣布 17，000 名开发人员可视化构建应用程序——TechCrunch
+# Coghead 宣布 17，000 名开发人员可视化构建应用程序
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/16/coghead-announces-17000-developers-building-applications-visually/>
 

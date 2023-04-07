@@ -1,4 +1,4 @@
-# 存在 Optimus Mini 三键盘——TechCrunch
+# 存在 Optimus Mini 三键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/17/the-optimus-mini-three-keyboard-exists/>
 

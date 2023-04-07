@@ -1,4 +1,4 @@
-# 新的格里芬 iPod 配件宣布| TechCrunch
+# 新的格里芬 iPod 配件宣布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/new-griffin-ipod-accessories-announced/>
 

@@ -1,4 +1,4 @@
-# 3.5 互联网让你无所事事的原因| TechCrunch
+# 3.5 互联网让你无所事事的原因
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/35-reasons-why-the-interweb-gets-you-no-play/>
 

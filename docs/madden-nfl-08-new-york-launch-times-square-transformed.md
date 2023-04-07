@@ -1,4 +1,4 @@
-# Madden NFL '08 纽约发布会:时代广场改造| TechCrunch
+# Madden NFL '08 纽约发布会:时代广场改造
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/madden-nfl-08-new-york-launch-times-square-transformed/>
 

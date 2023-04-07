@@ -1,4 +1,4 @@
-# 西门子 VDO 路标阅读器| TechCrunch
+# 西门子 VDO 路标阅读器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/siemens-vdo-road-sign-reader/>
 

@@ -1,4 +1,4 @@
-# 语音信号 VSearch:嵌入式语音搜索| TechCrunch
+# 语音信号 VSearch:嵌入式语音搜索
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/voicesignal-vsearch-embedded-voice-search/>
 

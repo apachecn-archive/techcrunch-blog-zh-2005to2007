@@ -1,4 +1,4 @@
-# PS3 降价——TechCrunch
+# PS3 降价
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/30/ps3-gets-price-cut/>
 

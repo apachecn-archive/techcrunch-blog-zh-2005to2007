@@ -1,4 +1,4 @@
-# Chronotech 蓝牙耳机/腕表–TechCrunch
+# Chronotech 蓝牙耳机/腕表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/16/chronotech-bluetooth-headsetwristwatch/>
 

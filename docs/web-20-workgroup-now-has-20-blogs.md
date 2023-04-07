@@ -1,4 +1,4 @@
-# Web 2.0 工作组现在有 20 个博客——TechCrunch
+# Web 2.0 工作组现在有 20 个博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/23/web-20-workgroup-now-has-20-blogs/>
 

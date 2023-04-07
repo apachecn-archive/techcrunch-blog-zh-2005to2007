@@ -1,4 +1,4 @@
-# 飞机旅行的小贴士——TechCrunch
+# 飞机旅行的小贴士
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/23/crunchgear-tips-for-airplane-trips/>
 

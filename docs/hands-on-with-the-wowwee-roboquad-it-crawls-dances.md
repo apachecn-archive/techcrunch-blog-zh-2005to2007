@@ -1,4 +1,4 @@
-# 动手操作 Wowwee Roboquad:它会爬行、跳舞——TechCrunch
+# 动手操作 Wowwee Roboquad:它会爬行、跳舞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/hands-on-with-the-wowwee-roboquad-it-crawls-dances/>
 

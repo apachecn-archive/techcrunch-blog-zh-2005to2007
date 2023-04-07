@@ -1,4 +1,4 @@
-# 真实世界中的手机通话时间——TechCrunch
+# 真实世界中的手机通话时间
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/cellphone-talk-time-in-the-real-world/>
 

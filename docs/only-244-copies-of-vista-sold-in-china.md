@@ -1,4 +1,4 @@
-# 在中国仅售出 244 份 Vista——TechCrunch
+# 在中国仅售出 244 份 Vista
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/18/only-244-copies-of-vista-sold-in-china/>
 

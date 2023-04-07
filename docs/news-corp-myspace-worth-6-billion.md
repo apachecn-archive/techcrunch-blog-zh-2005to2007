@@ -1,4 +1,4 @@
-# 新闻集团:MySpace 价值 60 亿美元 TechCrunch
+# 新闻集团:MySpace 价值 60 亿美元 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/15/news-corp-myspace-worth-6-billion/>
 

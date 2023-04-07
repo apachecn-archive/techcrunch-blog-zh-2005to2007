@@ -1,4 +1,4 @@
-# 嘿怪胎！以书呆子的方式恢复身材——TechCrunch
+# 嘿怪胎！以书呆子的方式恢复身材
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/18/hey-geek-get-back-in-shape-the-nerdy-way/>
 

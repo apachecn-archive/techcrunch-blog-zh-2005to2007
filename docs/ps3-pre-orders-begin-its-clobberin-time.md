@@ -1,4 +1,4 @@
-# PS3 预购开始:是时候了——TechCrunch
+# PS3 预购开始:是时候了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/10/ps3-pre-orders-begin-its-clobberin-time/>
 

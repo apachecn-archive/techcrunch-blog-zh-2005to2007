@@ -1,4 +1,4 @@
-# 戴尔开源，发布免费操作系统台式机| TechCrunch
+# 戴尔开源，发布免费操作系统台式机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/24/dell-goes-open-source-ships-os-free-desktops/>
 

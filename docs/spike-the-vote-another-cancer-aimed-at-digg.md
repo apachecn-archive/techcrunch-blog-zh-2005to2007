@@ -1,4 +1,4 @@
-# 秒杀投票:针对 Digg | TechCrunch 的另一个毒瘤
+# 秒杀投票:针对 Digg  的另一个毒瘤
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/18/spike-the-vote-another-cancer-aimed-at-digg>
 

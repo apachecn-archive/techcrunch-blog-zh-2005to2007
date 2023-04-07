@@ -1,4 +1,4 @@
-# 3D 邮箱:最差。App。永远不会。–TechCrunch
+# 3D 邮箱:最差。App。永远不会。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/18/3d-mailbox-worst-app-ever/>
 

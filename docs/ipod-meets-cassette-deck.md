@@ -1,4 +1,4 @@
-# iPod 遇上卡带——TechCrunch
+# iPod 遇上卡带
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/ipod-meets-cassette-deck/>
 

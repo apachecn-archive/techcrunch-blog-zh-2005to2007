@@ -1,4 +1,4 @@
-# 罗杰·伊伯特仍然说电子游戏不是“高雅艺术”:我们真的在乎吗？TechCrunch
+# 罗杰·伊伯特仍然说电子游戏不是“高雅艺术”:我们真的在乎吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/roger-ebert-still-says-video-games-arent-high-art-do-we-really-care/>
 

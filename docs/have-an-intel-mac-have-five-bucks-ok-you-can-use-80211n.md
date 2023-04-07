@@ -1,4 +1,4 @@
-# 有英特尔 Mac 电脑吗？有五块钱吗？好的，你可以用 802.11n | TechCrunch
+# 有英特尔 Mac 电脑吗？有五块钱吗？好的，你可以用 802.11n 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/15/have-an-intel-mac-have-five-bucks-ok-you-can-use-80211n/>
 

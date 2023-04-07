@@ -1,4 +1,4 @@
-# Kanguru 的节能便携式硬盘| TechCrunch
+# Kanguru 的节能便携式硬盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/20/kangurus-power-saving-portable-hard-drives/>
 

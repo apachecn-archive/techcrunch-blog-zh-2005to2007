@@ -1,4 +1,4 @@
-# 下载 MP3，被开除| TechCrunch
+# 下载 MP3，被开除
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/download-an-mp3-get-expelled/>
 

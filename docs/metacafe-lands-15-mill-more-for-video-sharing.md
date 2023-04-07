@@ -1,4 +1,4 @@
-# MetaCafe 在过滤视频分享方面多赚了 1500 万美元——TechCrunch
+# MetaCafe 在过滤视频分享方面多赚了 1500 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/03/metacafe-lands-15-mill-more-for-video-sharing/>
 

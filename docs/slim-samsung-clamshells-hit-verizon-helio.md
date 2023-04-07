@@ -1,4 +1,4 @@
-# 超薄三星蛤壳击中威瑞森，Helio | TechCrunch
+# 超薄三星蛤壳击中威瑞森，Helio 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/10/slim-samsung-clamshells-hit-verizon-helio/>
 

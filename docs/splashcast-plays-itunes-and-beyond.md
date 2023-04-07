@@ -1,4 +1,4 @@
-# SplashCast 扩展了媒体播放器 TechCrunch
+# SplashCast 扩展了媒体播放器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/30/splashcast-plays-itunes-and-beyond/>
 

@@ -1,4 +1,4 @@
-# 从 USB 端口到立体声系统的无线音频，价格低廉——TechCrunch
+# 从 USB 端口到立体声系统的无线音频，价格低廉
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/10/wireless-audio-from-your-usb-port-to-your-stereo-on-the-cheap/>
 

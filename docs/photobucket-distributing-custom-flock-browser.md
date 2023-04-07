@@ -1,4 +1,4 @@
-# Photobucket 分发自定义 Flock 浏览器–TechCrunch
+# Photobucket 分发自定义 Flock 浏览器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/04/photobucket-distributing-custom-flock-browser/>
 

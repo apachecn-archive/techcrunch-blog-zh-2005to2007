@@ -1,4 +1,4 @@
-# 为有避孕套的极客准备的避孕套分发器——TechCrunch
+# 为有避孕套的极客准备的避孕套分发器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/condom-dispenser-for-geeks-who-get-some/>
 

@@ -1,4 +1,4 @@
-# Podtech 到底是怎么回事？TechCrunch
+# Podtech 到底是怎么回事？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/27/whats-really-going-on-with-podtech/>
 

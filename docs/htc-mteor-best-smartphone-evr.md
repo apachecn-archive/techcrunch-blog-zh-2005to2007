@@ -1,4 +1,4 @@
-# HTC MTeoR:有史以来最好的智能手机？TechCrunch
+# HTC MTeoR:有史以来最好的智能手机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/19/htc-mteor-best-smartphone-evr/>
 

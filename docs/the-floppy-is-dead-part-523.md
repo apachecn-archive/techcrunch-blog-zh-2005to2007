@@ -1,4 +1,4 @@
-# 软盘坏了，第 523 部分| TechCrunch
+# 软盘坏了，第 523 部分
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/31/the-floppy-is-dead-part-523/>
 

@@ -1,4 +1,4 @@
-# 受有毒青蛙启发的电脑模型是最好的——TechCrunch
+# 受有毒青蛙启发的电脑模型是最好的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/poisonous-frog-inspired-pc-mod-is-best-of-the-bunch/>
 

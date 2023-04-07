@@ -1,4 +1,4 @@
-# 飞利浦 GoGear SA1335 Flash 播放器| TechCrunch
+# 飞利浦 GoGear SA1335 Flash 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/28/philips-gogear-sa1335-flash-player/>
 

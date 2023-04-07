@@ -1,4 +1,4 @@
-# 个人资料-阴影 TechCrunch
+# 个人资料-阴影 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/07/18/profile-shadows/>
 

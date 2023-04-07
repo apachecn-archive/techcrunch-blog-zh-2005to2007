@@ -1,4 +1,4 @@
-# TROLLTECH 发布绿色电话——TechCrunch
+# TROLLTECH 发布绿色电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/trolltech-announces-greenphone/>
 

@@ -1,4 +1,4 @@
-# 物理定律今天显然被改写 TechCrunch
+# 物理定律今天显然被改写 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/04/laws-of-physics-apparently-being-rewritten/>
 

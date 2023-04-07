@@ -1,4 +1,4 @@
-# 关于微软“Expo”测试版的更多信息 TechCrunch
+# 关于微软“Expo”测试版的更多信息 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/13/microsoft-expo-beta/>
 

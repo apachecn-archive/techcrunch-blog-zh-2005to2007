@@ -1,4 +1,4 @@
-# 索尼 Cyber-shot S800 提升至 6 倍光学变焦| TechCrunch
+# 索尼 Cyber-shot S800 提升至 6 倍光学变焦
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/sony-cyber-shot-s800-jacked-up-to-6x-digital-zoom/>
 

@@ -1,4 +1,4 @@
-# Podtech 和 SolutionWatch 加入 Web 2.0 工作组–TechCrunch
+# Podtech 和 SolutionWatch 加入 Web 2.0 工作组
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2005/10/14/podtech-and-solutionwatch-joing-web-20-workgroup/>
 

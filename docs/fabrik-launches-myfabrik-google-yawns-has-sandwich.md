@@ -1,4 +1,4 @@
-# Fabrik 推出 my fabrik——谷歌打哈欠，吃三明治——TechCrunch
+# Fabrik 推出 my fabrik——谷歌打哈欠，吃三明治
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/fabrik-launches-myfabrik-google-yawns-has-sandwich/>
 

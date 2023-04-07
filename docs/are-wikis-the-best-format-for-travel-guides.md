@@ -1,4 +1,4 @@
-# 维基是旅游指南的最佳格式吗？–TechCrunch
+# 维基是旅游指南的最佳格式吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/06/are-wikis-the-best-format-for-travel-guides/>
 

@@ -1,4 +1,4 @@
-# Gemini Mobile 获得融资——TechCrunch
+# Gemini Mobile 获得融资
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/29/gemini-mobile-gets-funding/>
 

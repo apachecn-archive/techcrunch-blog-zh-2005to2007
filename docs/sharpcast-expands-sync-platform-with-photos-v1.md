@@ -1,4 +1,4 @@
-# Sharpcast 通过照片 v1.0 扩展同步平台 TechCrunch
+# Sharpcast 通过照片 v1.0 扩展同步平台 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/07/sharpcast-expands-sync-platform-with-photos-v1/>
 

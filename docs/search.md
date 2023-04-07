@@ -1,4 +1,4 @@
-# TechCrunch
+# 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/&nxdFilter=clean&fr=flo2&type=bWljX2FmYzA5RkVGMkQxQkFFNyp2ZXJfMi41LjIqaW5zX3Vua25vd24qY3R4X2Q=&searchURL=http://search.yahoo.com/search/>
 

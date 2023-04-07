@@ -1,4 +1,4 @@
-# GlowSkin，会发光的皮肤——TechCrunch
+# GlowSkin，会发光的皮肤
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/glowskin-the-skin-that-glows/>
 

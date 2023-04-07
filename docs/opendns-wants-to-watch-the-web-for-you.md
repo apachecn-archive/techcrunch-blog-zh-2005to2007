@@ -1,4 +1,4 @@
-# OpenDNS 想帮你看网络——TechCrunch
+# OpenDNS 想帮你看网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/18/opendns-wants-to-watch-the-web-for-you/>
 

@@ -1,4 +1,4 @@
-# 迪士尼儿童混音版麦克斯·PMP | TechCrunch
+# 迪士尼儿童混音版麦克斯·PMP 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/disneys-mix-max-pmp-for-kids/>
 

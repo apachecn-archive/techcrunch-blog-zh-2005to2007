@@ -1,4 +1,4 @@
-# CrunchRumor: 6G iPod 将加入 iPhone，Apple TV 将推出 YouTube 内容？TechCrunch
+# CrunchRumor: 6G iPod 将加入 iPhone，Apple TV 将推出 YouTube 内容？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/crunchrumor-6g-ipod-to-join-iphone-apple-tv-in-featuring-youtube-content/>
 

@@ -1,4 +1,4 @@
-# TechCrunch20 | TechCrunch 的顶级公司将获得 5 万美元的奖励
+# TechCrunch20  的顶级公司将获得 5 万美元的奖励
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/05/50k-prize-for-top-company-at-techcrunch20/>
 

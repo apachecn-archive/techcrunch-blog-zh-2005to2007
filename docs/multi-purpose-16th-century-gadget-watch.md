@@ -1,4 +1,4 @@
-# 多功能 16 世纪小工具手表| TechCrunch
+# 多功能 16 世纪小工具手表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/25/multi-purpose-16th-century-gadget-watch/>
 

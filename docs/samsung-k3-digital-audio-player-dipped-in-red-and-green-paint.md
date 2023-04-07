@@ -1,4 +1,4 @@
-# 蘸有红色和绿色油漆的三星 K3 数字音频播放器| TechCrunch
+# 蘸有红色和绿色油漆的三星 K3 数字音频播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/27/samsung-k3-digital-audio-player-dipped-in-red-and-green-paint/>
 

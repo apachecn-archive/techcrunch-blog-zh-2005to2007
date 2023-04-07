@@ -1,4 +1,4 @@
-# 率先发布 HD DVD/蓝光光驱组合| TechCrunch
+# 率先发布 HD DVD/蓝光光驱组合
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/01/pioneer-to-release-combo-hd-dvdblu-ray-drive/>
 

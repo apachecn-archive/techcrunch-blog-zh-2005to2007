@@ -1,4 +1,4 @@
-# 1，100 台丢失的政府笔记本电脑 TechCrunch
+# 1，100 台丢失的政府笔记本电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/1100-missing-govt-laptops/>
 

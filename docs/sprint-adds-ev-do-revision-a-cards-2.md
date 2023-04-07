@@ -1,4 +1,4 @@
-# Sprint 增加了 EV-DO 修订版 A 卡——TechCrunch
+# Sprint 增加了 EV-DO 修订版 A 卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/sprint-adds-ev-do-revision-a-cards-2/>
 

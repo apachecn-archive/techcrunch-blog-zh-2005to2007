@@ -1,4 +1,4 @@
-# 用手机望远镜释放你内心的窥视——TechCrunch
+# 用手机望远镜释放你内心的窥视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/release-your-inner-peeping-tom-with-a-cellphone-telescope/>
 

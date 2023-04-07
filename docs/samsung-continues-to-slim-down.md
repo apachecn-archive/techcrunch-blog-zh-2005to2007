@@ -1,4 +1,4 @@
-# 三星继续精简液晶显示器——TechCrunch
+# 三星继续精简液晶显示器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/26/samsung-continues-to-slim-down/>
 

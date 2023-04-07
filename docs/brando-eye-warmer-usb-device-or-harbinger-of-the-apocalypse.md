@@ -1,4 +1,4 @@
-# 白兰度暖眼器:USB 设备还是世界末日的先兆？TechCrunch
+# 白兰度暖眼器:USB 设备还是世界末日的先兆？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/12/brando-eye-warmer-usb-device-or-harbinger-of-the-apocalypse/>
 

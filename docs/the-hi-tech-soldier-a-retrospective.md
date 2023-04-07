@@ -1,4 +1,4 @@
-# 高科技士兵:回顾——TechCrunch
+# 高科技士兵:回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/28/the-hi-tech-soldier-a-retrospective/>
 

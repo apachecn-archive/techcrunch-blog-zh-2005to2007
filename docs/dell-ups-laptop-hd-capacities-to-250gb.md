@@ -1,4 +1,4 @@
-# 戴尔 Ups 笔记本电脑硬盘容量高达 250 GB–TechCrunch
+# 戴尔 Ups 笔记本电脑硬盘容量高达 250 GB
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/12/dell-ups-laptop-hd-capacities-to-250gb/>
 

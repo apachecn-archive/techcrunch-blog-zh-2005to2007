@@ -1,4 +1,4 @@
-# Wii OS 视频登陆网络——TechCrunch
+# Wii OS 视频登陆网络
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/02/wii-os-video-hits-the-net/>
 

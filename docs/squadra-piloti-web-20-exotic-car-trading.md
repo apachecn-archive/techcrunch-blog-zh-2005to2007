@@ -1,4 +1,4 @@
-# Squadra Piloti: Web 2.0 异国汽车交易 TechCrunch
+# Squadra Piloti: Web 2.0 异国汽车交易 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/04/squadra-piloti-web-20-exotic-car-trading/>
 

@@ -1,4 +1,4 @@
-# Treo 680 免费(当然是在 MIR 之后)！–TechCrunch
+# Treo 680 免费(当然是在 MIR 之后)！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/treo-680-for-free-after-mir-of-course/>
 

@@ -1,4 +1,4 @@
-# EBay 颓废堕落| TechCrunch
+# EBay 颓废堕落
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/ebay-is-decadent-and-depraved/>
 

@@ -1,4 +1,4 @@
-# 群体社交浏览很酷 TechCrunch
+# 群体社交浏览很酷 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/26/flock-social-browsing-is-cool/>
 

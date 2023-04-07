@@ -1,4 +1,4 @@
-# Netvibes 发布宇宙:定制公共页面 TechCrunch
+# Netvibes 发布宇宙:定制公共页面 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/16/netvibes-launches-universe-customized-public-pages/>
 

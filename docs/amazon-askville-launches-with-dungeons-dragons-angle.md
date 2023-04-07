@@ -1,4 +1,4 @@
-# 亚马逊 Askville 以《龙与地下城》的角度发布——TechCrunch
+# 亚马逊 Askville 以《龙与地下城》的角度发布
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/08/amazon-askville-launches-with-dungeons-dragons-angle/>
 

@@ -1,4 +1,4 @@
-# 跨平台 OpenOffice 蠕虫:可怕的概念验证——TechCrunch
+# 跨平台 OpenOffice 蠕虫:可怕的概念验证
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/11/cross-platform-openoffice-worm-scary-proof-of-concept/>
 

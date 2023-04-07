@@ -1,4 +1,4 @@
-# 热绒毛:睡眠小队闹钟| TechCrunch
+# 热绒毛:睡眠小队闹钟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/02/hot-fuzz-the-sleep-squad-alarm-clock/>
 

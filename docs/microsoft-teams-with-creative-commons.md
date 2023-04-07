@@ -1,4 +1,4 @@
-# 微软团队与知识共享——TechCrunch
+# 微软团队与知识共享
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/06/20/microsoft-teams-with-creative-commons/>
 

@@ -1,4 +1,4 @@
-# CrunchGear Meet Up:赞助商阵容| TechCrunch
+# CrunchGear Meet Up:赞助商阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/13/crunchgear-meet-up-sponsor-line-up/>
 

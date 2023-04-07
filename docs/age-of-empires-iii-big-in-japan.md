@@ -1,4 +1,4 @@
-# 帝国时代 3:日本大？TechCrunch
+# 帝国时代 3:日本大？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/18/age-of-empires-iii-big-in-japan/>
 

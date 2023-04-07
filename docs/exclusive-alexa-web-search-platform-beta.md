@@ -1,4 +1,4 @@
-# 独家:Alexa 网络搜索平台测试版| TechCrunch
+# 独家:Alexa 网络搜索平台测试版
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/30/exclusive-alexa-web-search-platform-beta/>
 

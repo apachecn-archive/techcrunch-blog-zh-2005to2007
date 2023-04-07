@@ -1,4 +1,4 @@
-# Feedpass 什么都不做| TechCrunch
+# Feedpass 什么都不做
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/21/feedpass-does-absolutely-nothing/>
 

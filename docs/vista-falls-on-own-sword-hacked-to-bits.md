@@ -1,4 +1,4 @@
-# Vista 落在自己的剑下，被砍成碎片——TechCrunch
+# Vista 落在自己的剑下，被砍成碎片
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/05/vista-falls-on-own-sword-hacked-to-bits/>
 

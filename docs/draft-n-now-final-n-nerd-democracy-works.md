@@ -1,4 +1,4 @@
-# 草稿-N 现在定稿-N，书呆子民主工程 TechCrunch
+# 草稿-N 现在定稿-N，书呆子民主工程 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/14/draft-n-now-final-n-nerd-democracy-works/>
 

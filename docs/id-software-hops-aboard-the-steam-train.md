@@ -1,4 +1,4 @@
-# Id 软件跳上蒸汽火车| TechCrunch
+# Id 软件跳上蒸汽火车
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/id-software-hops-aboard-the-steam-train/>
 

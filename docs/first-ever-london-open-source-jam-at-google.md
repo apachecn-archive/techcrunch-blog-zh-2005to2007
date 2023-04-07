@@ -1,4 +1,4 @@
-# 谷歌| TechCrunch 首次伦敦开源大会
+# 谷歌 首次伦敦开源大会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/13/first-ever-london-open-source-jam-at-google/>
 

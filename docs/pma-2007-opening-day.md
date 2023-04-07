@@ -1,4 +1,4 @@
-# PMA 2007 开幕日| TechCrunch
+# PMA 2007 开幕日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/08/pma-2007-opening-day/>
 

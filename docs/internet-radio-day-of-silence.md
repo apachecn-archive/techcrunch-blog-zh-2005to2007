@@ -1,4 +1,4 @@
-# 网络电台:沉默日——TechCrunch
+# 网络电台:沉默日
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/26/internet-radio-day-of-silence/>
 

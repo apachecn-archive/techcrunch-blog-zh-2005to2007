@@ -1,4 +1,4 @@
-# 超级秘密遥控器| TechCrunch
+# 超级秘密遥控器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/16/super-secret-remote/>
 

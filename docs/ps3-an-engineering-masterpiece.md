@@ -1,4 +1,4 @@
-# PS3 一款工程大作？TechCrunch
+# PS3 一款工程大作？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/16/ps3-an-engineering-masterpiece/>
 

@@ -1,4 +1,4 @@
-# 统一费率的移动数据计划，不那么简单——TechCrunch
+# 统一费率的移动数据计划，不那么简单
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/19/flat-rate-mobile-data-plans-not-so-flat/>
 

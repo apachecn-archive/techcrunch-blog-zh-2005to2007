@@ -1,4 +1,4 @@
-# 光环 2 突破 500 万大关——TechCrunch
+# 光环 2 突破 500 万大关
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/10/halo-2-hits-the-5-million-mark/>
 

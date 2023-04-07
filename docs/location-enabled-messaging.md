@@ -1,4 +1,4 @@
-# 支持定位的信息| TechCrunch
+# 支持定位的信息
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/15/location-enabled-messaging/>
 

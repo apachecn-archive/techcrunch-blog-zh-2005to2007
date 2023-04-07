@@ -1,4 +1,4 @@
-# O2 Xda Terra 是首款 WinMo 6 智能手机| TechCrunch
+# O2 Xda Terra 是首款 WinMo 6 智能手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/29/o2-xda-terra-is-first-winmo-6-smartphone/>
 

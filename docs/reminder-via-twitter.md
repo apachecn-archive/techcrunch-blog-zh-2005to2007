@@ -1,4 +1,4 @@
-# 通过 Twitter | TechCrunch 提醒
+# 通过 Twitter  提醒
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/25/reminder-via-twitter/>
 

@@ -1,4 +1,4 @@
-# iPhone 发布日期已确定，6 月 29 日 TechCrunch
+# iPhone 发布日期已确定，6 月 29 日 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/03/iphone-release-date-confirmed/>
 

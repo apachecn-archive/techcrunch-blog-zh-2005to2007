@@ -1,4 +1,4 @@
-# 圣诞故事腿灯| TechCrunch
+# 圣诞故事腿灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/22/christmas-story-leg-lamp/>
 

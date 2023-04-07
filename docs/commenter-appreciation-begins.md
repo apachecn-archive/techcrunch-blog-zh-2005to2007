@@ -1,4 +1,4 @@
-# 评论者开始赞赏——TechCrunch
+# 评论者开始赞赏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/29/commenter-appreciation-begins/>
 

@@ -1,4 +1,4 @@
-# 谷歌对雅虎！:哪种网络美食至高无上？！？TechCrunch
+# 谷歌对雅虎！:哪种网络美食至高无上？！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/google-vs-yahoo-which-web-cuisine-reigns-supreme/>
 

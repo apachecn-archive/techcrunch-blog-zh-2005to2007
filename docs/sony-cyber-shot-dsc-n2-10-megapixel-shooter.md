@@ -1,4 +1,4 @@
-# 索尼 Cyber-Shot DSC-N2 1000 万像素相机 TechCrunch
+# 索尼 Cyber-Shot DSC-N2 1000 万像素相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/11/sony-cyber-shot-dsc-n2-10-megapixel-shooter/>
 

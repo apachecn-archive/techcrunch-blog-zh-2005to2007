@@ -1,4 +1,4 @@
-# UMPC | TechCrunch
+# UMPC 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/20/u-g-l-y-ago7-umpc/>
 

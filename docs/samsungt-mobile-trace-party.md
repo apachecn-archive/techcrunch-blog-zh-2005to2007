@@ -1,4 +1,4 @@
-# 三星/T-Mobile 追踪党| TechCrunch
+# 三星/T-Mobile 追踪党
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/24/samsungt-mobile-trace-party/>
 

@@ -1,4 +1,4 @@
-# MySpace 值 120 亿美元吗？TechCrunch
+# MySpace 值 120 亿美元吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/19/is-myspace-worth-12-billion/>
 

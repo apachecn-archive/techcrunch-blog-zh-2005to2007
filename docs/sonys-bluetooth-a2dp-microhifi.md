@@ -1,4 +1,4 @@
-# 索尼的蓝牙 A2DP micro hifi TechCrunch
+# 索尼的蓝牙 A2DP micro hifi 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/18/sonys-bluetooth-a2dp-microhifi/>
 

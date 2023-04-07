@@ -1,4 +1,4 @@
-# 戴尔推出首款 AMD 台式机–TechCrunch
+# 戴尔推出首款 AMD 台式机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/dell-launches-first-amd-powered-desktops/>
 

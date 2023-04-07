@@ -1,4 +1,4 @@
-# CrunchGear 周回顾:再见雪路版| TechCrunch
+# CrunchGear 周回顾:再见雪路版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/crunchgear-week-in-review-goodbye-snow-road-edition/>
 

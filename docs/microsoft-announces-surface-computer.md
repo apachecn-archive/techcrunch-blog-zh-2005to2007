@@ -1,4 +1,4 @@
-# 微软发布 Surface 电脑| TechCrunch
+# 微软发布 Surface 电脑
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/05/29/microsoft-announces-surface-computer/http://www.techcrunch.com/2007/05/29/microsoft-announces-surface-computer/>
 

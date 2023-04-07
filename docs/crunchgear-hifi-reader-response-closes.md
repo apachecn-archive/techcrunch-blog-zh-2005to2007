@@ -1,4 +1,4 @@
-# CrunchGear HiFi 阅读器响应关闭| TechCrunch
+# CrunchGear HiFi 阅读器响应关闭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/04/crunchgear-hifi-reader-response-closes/>
 

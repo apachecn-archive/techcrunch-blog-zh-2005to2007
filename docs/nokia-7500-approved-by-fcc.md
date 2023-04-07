@@ -1,4 +1,4 @@
-# FCC | TechCrunch 批准诺基亚 7500
+# FCC  批准诺基亚 7500
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/nokia-7500-approved-by-fcc/>
 

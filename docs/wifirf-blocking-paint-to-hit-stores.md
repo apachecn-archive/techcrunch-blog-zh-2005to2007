@@ -1,4 +1,4 @@
-# 无线/射频屏蔽涂料上市——TechCrunch
+# 无线/射频屏蔽涂料上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/wifirf-blocking-paint-to-hit-stores/>
 

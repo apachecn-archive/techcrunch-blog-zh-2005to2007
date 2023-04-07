@@ -1,4 +1,4 @@
-# 弗劳恩霍夫的 SX Pro 将立体声转换为 5.1 环绕声| TechCrunch
+# 弗劳恩霍夫的 SX Pro 将立体声转换为 5.1 环绕声
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/fraunhofers-sx-pro-converts-stereo-to-51-surround-sound/>
 

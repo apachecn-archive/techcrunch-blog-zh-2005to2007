@@ -1,4 +1,4 @@
-# Coglets 将简单的数据驱动应用程序带到你的网页上——TechCrunch
+# Coglets 将简单的数据驱动应用程序带到你的网页上
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/10/coglets-bring-easy-data-driven-apps-to-your-web-page/>
 

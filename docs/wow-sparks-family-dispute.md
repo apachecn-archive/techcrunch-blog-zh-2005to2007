@@ -1,4 +1,4 @@
-# WoW 引发家庭纠纷——TechCrunch
+# WoW 引发家庭纠纷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/wow-sparks-family-dispute/>
 

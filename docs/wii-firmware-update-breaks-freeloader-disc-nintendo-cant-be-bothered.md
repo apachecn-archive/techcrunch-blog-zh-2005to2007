@@ -1,4 +1,4 @@
-# Wii 固件更新打破免费光盘，任天堂不能被打扰 TechCrunch
+# Wii 固件更新打破免费光盘，任天堂不能被打扰 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/wii-firmware-update-breaks-freeloader-disc-nintendo-cant-be-bothered/>
 

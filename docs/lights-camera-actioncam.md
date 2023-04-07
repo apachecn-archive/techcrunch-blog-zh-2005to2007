@@ -1,4 +1,4 @@
-# 灯光，摄像机，动作摄像机！TechCrunch
+# 灯光，摄像机，动作摄像机！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/08/lights-camera-actioncam/>
 

@@ -1,4 +1,4 @@
-# MusicNation:主要唱片公司试图购买朋友 TechCrunch
+# MusicNation:主要唱片公司试图购买朋友 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/20/musicnation-major-lables-try-to-get-down/>
 

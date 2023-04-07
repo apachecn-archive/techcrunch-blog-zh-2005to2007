@@ -1,4 +1,4 @@
-# 未来学家:为什么蓝牙不是 MP3 播放器的标准？TechCrunch
+# 未来学家:为什么蓝牙不是 MP3 播放器的标准？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/03/the-futurist-why-isnt-bluetooth-standard-on-mp3-players/>
 

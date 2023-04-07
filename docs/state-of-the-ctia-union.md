@@ -1,4 +1,4 @@
-# CTIA 联盟| TechCrunch
+# CTIA 联盟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/12/state-of-the-ctia-union/>
 

@@ -1,4 +1,4 @@
-# 链接到谷歌广告词。TechCrunch
+# 链接到谷歌广告词。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/30/coull-vlogger-interactive-video-links-to-google-adwords/>
 

@@ -1,4 +1,4 @@
-# Xbox 360 获得高清电影下载，也许| TechCrunch
+# Xbox 360 获得高清电影下载，也许
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/xbox-360-to-get-hd-movie-downloads-maybe/>
 

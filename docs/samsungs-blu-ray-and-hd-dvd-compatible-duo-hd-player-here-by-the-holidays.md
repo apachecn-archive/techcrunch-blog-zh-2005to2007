@@ -1,4 +1,4 @@
-# 三星的蓝光和 HD DVD 兼容双高清播放器在这里的假期 TechCrunch
+# 三星的蓝光和 HD DVD 兼容双高清播放器在这里的假期 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/13/samsungs-blu-ray-and-hd-dvd-compatible-duo-hd-player-here-by-the-holidays/>
 

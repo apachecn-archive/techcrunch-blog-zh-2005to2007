@@ -1,4 +1,4 @@
-# 新的 eBuddy 提供了改进的用户体验——TechCrunch
+# 新的 eBuddy 提供了改进的用户体验
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/16/the-new-ebuddy-delivers-improved-user-experience/>
 

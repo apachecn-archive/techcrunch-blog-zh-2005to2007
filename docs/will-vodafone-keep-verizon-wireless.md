@@ -1,4 +1,4 @@
-# 沃达丰会保留威瑞森无线吗？–TechCrunch
+# 沃达丰会保留威瑞森无线吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/will-vodafone-keep-verizon-wireless/>
 

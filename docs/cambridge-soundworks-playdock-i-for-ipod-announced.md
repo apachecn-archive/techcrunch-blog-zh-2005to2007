@@ -1,4 +1,4 @@
-# 剑桥 SoundWorks PlayDock i For iPod 发布| TechCrunch
+# 剑桥 SoundWorks PlayDock i For iPod 发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/13/cambridge-soundworks-playdock-i-for-ipod-announced/>
 

@@ -1,4 +1,4 @@
-# 三星 70 英寸液晶电视–TechCrunch
+# 三星 70 英寸液晶电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/21/samsung-70-inch-lcd-tv/>
 

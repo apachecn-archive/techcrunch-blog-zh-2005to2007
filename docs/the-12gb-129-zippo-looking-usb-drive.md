@@ -1,4 +1,4 @@
-# 12GB，129 美元的 Zippo 外观的 USB 驱动器| TechCrunch
+# 12GB，129 美元的 Zippo 外观的 USB 驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/24/the-12gb-129-zippo-looking-usb-drive/>
 

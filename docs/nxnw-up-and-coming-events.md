@@ -1,4 +1,4 @@
-# NxNW 上升和未来的事件。TechCrunch
+# NxNW 上升和未来的事件。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/nxnw-up-and-coming-events/>
 

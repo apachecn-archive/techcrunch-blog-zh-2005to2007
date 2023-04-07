@@ -1,4 +1,4 @@
-# 来自 CTIA 的松下 Toughbook 视频采访——TechCrunch
+# 来自 CTIA 的松下 Toughbook 视频采访
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/18/panasonic-toughbook-video-interview-from-ctia/>
 

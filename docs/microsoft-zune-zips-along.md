@@ -1,4 +1,4 @@
-# 微软 Zune 齐步走 TechCrunch
+# 微软 Zune 齐步走 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/microsoft-zune-zips-along/>
 

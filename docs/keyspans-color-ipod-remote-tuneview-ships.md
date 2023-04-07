@@ -1,4 +1,4 @@
-# Keyspan 的彩色 iPod 遥控器、TuneView、Ships–TechCrunch
+# Keyspan 的彩色 iPod 遥控器、TuneView、Ships
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/keyspans-color-ipod-remote-tuneview-ships/>
 

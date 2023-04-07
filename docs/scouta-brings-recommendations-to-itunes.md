@@ -1,4 +1,4 @@
-# Scouta 为 iTunes 带来了建议——TechCrunch
+# Scouta 为 iTunes 带来了建议
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/01/scouta-brings-recommendations-to-itunes>
 

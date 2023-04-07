@@ -1,4 +1,4 @@
-# T-Mobile Wing 第二外观| TechCrunch
+# T-Mobile Wing 第二外观
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/t-mobile-wing-second-look/>
 

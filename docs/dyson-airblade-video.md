@@ -1,4 +1,4 @@
-# Dyson Airblade 视频| TechCrunch
+# Dyson Airblade 视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/04/dyson-airblade-video/>
 

@@ -1,4 +1,4 @@
-# VideoEgg:他们突然变成了脸书广告网络 TechCrunch
+# VideoEgg:他们突然变成了脸书广告网络 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/13/videoegg-suddenly-theyre-a-facebook-ad-network/>
 

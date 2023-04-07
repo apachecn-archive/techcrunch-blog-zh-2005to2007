@@ -1,4 +1,4 @@
-# 三星开发自动调节亮度的高分辨率 LCD——TechCrunch
+# 三星开发自动调节亮度的高分辨率 LCD
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/27/samsung-develops-hi-res-lcd-that-automatically-adjusts-brightness/>
 

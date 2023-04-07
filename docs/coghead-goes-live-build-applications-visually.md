@@ -1,4 +1,4 @@
-# Coghead 上线:可视化构建应用程序——TechCrunch
+# Coghead 上线:可视化构建应用程序
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/11/coghead-goes-live-build-applications-visually>
 

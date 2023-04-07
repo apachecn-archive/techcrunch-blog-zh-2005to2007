@@ -1,4 +1,4 @@
-# 傲游准备面对浏览器大战——TechCrunch
+# 傲游准备面对浏览器大战
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/16/maxthon-gets-ready-to-face-browser-war/>
 

@@ -1,4 +1,4 @@
-# Metacafe 可能以 2 亿美元的价格出售 TechCrunch
+# Metacafe 可能以 2 亿美元的价格出售 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/07/metacafe-may-be-sold-for-200-million/>
 

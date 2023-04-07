@@ -1,4 +1,4 @@
-# 内置加热器的 520TVL 安全摄像机| TechCrunch
+# 内置加热器的 520TVL 安全摄像机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/520tvl-security-camera-with-built-in-heater/>
 

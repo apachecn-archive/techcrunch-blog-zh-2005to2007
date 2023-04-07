@@ -1,4 +1,4 @@
-# CyberLock:解除安全威胁——TechCrunch
+# CyberLock:解除安全威胁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/15/cyberlock-uncomprimising-security/>
 

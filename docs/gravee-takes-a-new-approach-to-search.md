@@ -1,4 +1,4 @@
-# Gravee 采用新的搜索方式——TechCrunch
+# Gravee 采用新的搜索方式
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/21/gravee-takes-a-new-approach-to-search/>
 

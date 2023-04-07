@@ -1,4 +1,4 @@
-# YouTube 和谷歌寻求音乐货币化——TechCrunch
+# YouTube 和谷歌寻求音乐货币化
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/16/youtube-and-google-seek-to-monetize-music/>
 

@@ -1,4 +1,4 @@
-# Zune 从电台录音？–TechCrunch
+# Zune 从电台录音？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/15/zune-to-record-from-radio/>
 

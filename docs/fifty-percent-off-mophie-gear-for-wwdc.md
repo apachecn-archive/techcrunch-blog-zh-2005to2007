@@ -1,4 +1,4 @@
-# 前往 WWDC 的摩尔菲设备半价——TechCrunch
+# 前往 WWDC 的摩尔菲设备半价
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/11/fifty-percent-off-mophie-gear-for-wwdc/>
 

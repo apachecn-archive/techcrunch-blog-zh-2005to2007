@@ -1,4 +1,4 @@
-# 真正的搜索引擎大量使用标签而不是列表。TechCrunch
+# 真正的搜索引擎大量使用标签而不是列表。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/real-extate-search-engine-makes-extensive-use-of-tags-but-not-hlisting/>
 

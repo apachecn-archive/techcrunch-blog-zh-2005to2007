@@ -1,4 +1,4 @@
-# 索尼 MDR-NC22 降噪耳塞评测——TechCrunch
+# 索尼 MDR-NC22 降噪耳塞评测
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/17/sony-mdr-nc22-noise-cancelling-earbuds-review/>
 

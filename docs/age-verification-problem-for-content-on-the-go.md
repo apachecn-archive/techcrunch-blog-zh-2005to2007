@@ -1,4 +1,4 @@
-# 移动内容的年龄验证问题| TechCrunch
+# 移动内容的年龄验证问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/09/age-verification-problem-for-content-on-the-go/>
 

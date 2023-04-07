@@ -1,4 +1,4 @@
-# UAC:来吧，已经开始了！态度好点！天哪！TechCrunch
+# UAC:来吧，已经开始了！态度好点！天哪！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/on-vista-uac-come-on-already-be-nice-gosh/>
 

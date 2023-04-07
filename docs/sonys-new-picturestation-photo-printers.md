@@ -1,4 +1,4 @@
-# 索尼新推出的 PictureStation 照片打印机——TechCrunch
+# 索尼新推出的 PictureStation 照片打印机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/28/sonys-new-picturestation-photo-printers/>
 

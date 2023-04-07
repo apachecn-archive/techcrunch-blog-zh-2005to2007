@@ -1,4 +1,4 @@
-# 福克斯完成 Photobucket 收购——TechCrunch
+# 福克斯完成 Photobucket 收购
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/08/fox-completes-photobucket-acquisition/>
 

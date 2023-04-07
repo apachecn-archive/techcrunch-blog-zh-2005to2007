@@ -1,4 +1,4 @@
-# 128GB 未经切割的原始固态内存–TechCrunch
+# 128GB 未经切割的原始固态内存
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/128gb-of-raw-uncut-solid-state-memory/>
 

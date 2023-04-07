@@ -1,4 +1,4 @@
-# 我们今天不写博客| TechCrunch
+# 我们今天不写博客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/09/02/were-not-blogging-today/>
 

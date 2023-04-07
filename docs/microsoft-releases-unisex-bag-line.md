@@ -1,4 +1,4 @@
-# 微软发布男女通用包系列——TechCrunch
+# 微软发布男女通用包系列
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/16/microsoft-releases-unisex-bag-line/>
 

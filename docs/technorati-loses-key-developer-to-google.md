@@ -1,4 +1,4 @@
-# Technorati 失去了谷歌的关键开发者——TechCrunch
+# Technorati 失去了谷歌的关键开发者
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/14/technorati-loses-key-developer-to-google/>
 

@@ -1,4 +1,4 @@
-# Windows Mobile 6:直截了当的毒品——TechCrunch
+# Windows Mobile 6:直截了当的毒品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/02/12/windows-mobile-6-the-straight-dope/>
 

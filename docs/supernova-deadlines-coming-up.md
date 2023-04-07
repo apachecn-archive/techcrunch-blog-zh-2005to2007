@@ -1,4 +1,4 @@
-# 超新星截止日期即将到来| TechCrunch
+# 超新星截止日期即将到来
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/24/supernova-deadlines-coming-up/>
 

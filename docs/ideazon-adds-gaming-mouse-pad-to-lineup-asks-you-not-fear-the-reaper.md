@@ -1,4 +1,4 @@
-# Ideazon 将游戏鼠标、Pad 加入阵容，让您不要害怕死神| TechCrunch
+# Ideazon 将游戏鼠标、Pad 加入阵容，让您不要害怕死神
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/ideazon-adds-gaming-mouse-pad-to-lineup-asks-you-not-fear-the-reaper/>
 

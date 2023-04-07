@@ -1,4 +1,4 @@
-# 所有三星 Ultra 的手:你能说 Ultra 波弟吗？TechCrunch
+# 所有三星 Ultra 的手:你能说 Ultra 波弟吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/13/hands-on-with-all-the-samsung-ultras-can-you-say-ultra-purdy/>
 

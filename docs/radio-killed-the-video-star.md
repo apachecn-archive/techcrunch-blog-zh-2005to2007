@@ -1,4 +1,4 @@
-# 电台杀了视频明星？TechCrunch
+# 电台杀了视频明星？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/14/radio-killed-the-video-star/>
 

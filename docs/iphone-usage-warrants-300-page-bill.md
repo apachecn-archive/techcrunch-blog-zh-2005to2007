@@ -1,4 +1,4 @@
-# iPhone 使用授权 300 页的法案| TechCrunch
+# iPhone 使用授权 300 页的法案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/iphone-usage-warrants-300-page-bill/>
 

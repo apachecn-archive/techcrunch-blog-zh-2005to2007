@@ -1,4 +1,4 @@
-# T-Mobile 将推出 Sidekick ID:瘦身版 SK3——TechCrunch
+# T-Mobile 将推出 Sidekick ID:瘦身版 SK3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/t-mobile-to-unveil-the-sidekick-id-slimmed-down-sk3/>
 

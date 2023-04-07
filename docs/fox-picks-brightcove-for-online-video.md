@@ -1,4 +1,4 @@
-# 福克斯选择 BrightCove 做在线视频 TechCrunch
+# 福克斯选择 BrightCove 做在线视频 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/18/fox-picks-brightcove-for-online-video/>
 

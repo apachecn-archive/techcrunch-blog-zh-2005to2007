@@ -1,4 +1,4 @@
-# 富士 FinePix S700:入门级长焦？TechCrunch
+# 富士 FinePix S700:入门级长焦？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/09/fujifilm-finepix-s700-entry-level-long-zoom/>
 

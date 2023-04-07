@@ -1,4 +1,4 @@
-# Screencast-o-Matic 将截屏制作引入网络浏览器——TechCrunch
+# Screencast-o-Matic 将截屏制作引入网络浏览器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/29/screencast-o-matic-brings-screencasts-to-a-web-browser/>
 

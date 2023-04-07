@@ -1,4 +1,4 @@
-# Wii 有点问题| TechCrunch
+# Wii 有点问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/wii-bit-of-a-problem/>
 

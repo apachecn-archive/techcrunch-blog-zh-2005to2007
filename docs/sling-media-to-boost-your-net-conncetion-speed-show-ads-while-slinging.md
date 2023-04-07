@@ -1,4 +1,4 @@
-# 悬挂媒体以提高网络连接速度，在悬挂时显示广告| TechCrunch
+# 悬挂媒体以提高网络连接速度，在悬挂时显示广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/16/sling-media-to-boost-your-net-conncetion-speed-show-ads-while-slinging/>
 

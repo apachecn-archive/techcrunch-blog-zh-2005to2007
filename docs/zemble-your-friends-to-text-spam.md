@@ -1,4 +1,4 @@
-# 让您的朋友发送垃圾短信 TechCrunch
+# 让您的朋友发送垃圾短信 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/27/zemble-your-friends-to-text-spam/>
 

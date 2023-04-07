@@ -1,4 +1,4 @@
-# 旅行摄影师的旅行指南| TechCrunch
+# 旅行摄影师的旅行指南
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/02/tripper-v-for-traveling-photographers/>
 

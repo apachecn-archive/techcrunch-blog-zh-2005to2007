@@ -1,4 +1,4 @@
-# 为 CES | TechCrunch 做好准备
+# 为 CES  做好准备
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/04/gearing-up-for-ces/>
 

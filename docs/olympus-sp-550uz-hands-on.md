@@ -1,4 +1,4 @@
-# 奥林巴斯 SP-550UZ 动手——TechCrunch
+# 奥林巴斯 SP-550UZ 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/28/olympus-sp-550uz-hands-on/>
 

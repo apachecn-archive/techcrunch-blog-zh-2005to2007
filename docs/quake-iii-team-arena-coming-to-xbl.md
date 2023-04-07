@@ -1,4 +1,4 @@
-# 雷神之锤 3:团队竞技场来到 XBL？–TechCrunch
+# 雷神之锤 3:团队竞技场来到 XBL？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/quake-iii-team-arena-coming-to-xbl/>
 

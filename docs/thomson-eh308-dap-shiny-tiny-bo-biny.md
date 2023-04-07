@@ -1,4 +1,4 @@
-# Thomson EH308 DAP:闪亮、小巧、轻薄| TechCrunch
+# Thomson EH308 DAP:闪亮、小巧、轻薄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/04/thomson-eh308-dap-shiny-tiny-bo-biny/>
 

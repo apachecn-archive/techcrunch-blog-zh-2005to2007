@@ -1,4 +1,4 @@
-# 我们赞助商的商业广告| TechCrunch
+# 我们赞助商的商业广告
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/17/commercial-break-for-our-sponsors/>
 

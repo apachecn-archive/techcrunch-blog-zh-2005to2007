@@ -1,4 +1,4 @@
-# 摩托罗拉发布 T305 免提套件–TechCrunch
+# 摩托罗拉发布 T305 免提套件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/motorola-releases-t305-handsfree-kit-2/>
 

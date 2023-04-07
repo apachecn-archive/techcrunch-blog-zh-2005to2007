@@ -1,4 +1,4 @@
-# 戴尔将提供基于 Linux 的系统–TechCrunch
+# 戴尔将提供基于 Linux 的系统
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/dell-to-offer-linux-based-systems/>
 

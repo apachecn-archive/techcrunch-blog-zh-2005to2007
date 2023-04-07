@@ -1,4 +1,4 @@
-# 威尼斯项目启动名称:Joost TechCrunch
+# 威尼斯项目启动名称:Joost 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/15/venice-project-launch-name-joost>
 

@@ -1,4 +1,4 @@
-# 你应该垂涎的 iPhone | TechCrunch
+# 你应该垂涎的 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/29/the-iphone-you-should-lust-over/>
 

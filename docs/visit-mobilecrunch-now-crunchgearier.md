@@ -1,4 +1,4 @@
-# 访问 mobile runch:Now crunch gearier！–TechCrunch
+# 访问 mobile runch:Now crunch gearier！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/01/visit-mobilecrunch-now-crunchgearier/>
 

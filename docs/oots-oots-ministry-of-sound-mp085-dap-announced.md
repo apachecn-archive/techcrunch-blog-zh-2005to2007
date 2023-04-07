@@ -1,4 +1,4 @@
-# Oots Oots:声音部 MP085 DAP 宣布 TechCrunch
+# Oots Oots:声音部 MP085 DAP 宣布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/oots-oots-ministry-of-sound-mp085-dap-announced/>
 

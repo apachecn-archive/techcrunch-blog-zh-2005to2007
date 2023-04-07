@@ -1,4 +1,4 @@
-# GadgetTell 重装上阵:现在有奖！TechCrunch
+# GadgetTell 重装上阵:现在有奖！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/gadgettell-reloaded-now-with-prizes/>
 

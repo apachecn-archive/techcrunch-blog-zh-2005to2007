@@ -1,4 +1,4 @@
-# GoPlan 接收 37 个信号——TechCrunch
+# GoPlan 接收 37 个信号
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/20/goplan-takes-on-37signals/>
 

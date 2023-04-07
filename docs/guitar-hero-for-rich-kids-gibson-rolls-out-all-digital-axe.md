@@ -1,4 +1,4 @@
-# 富家子弟的吉他英雄:吉布森推出全数字斧头——TechCrunch
+# 富家子弟的吉他英雄:吉布森推出全数字斧头
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/02/guitar-hero-for-rich-kids-gibson-rolls-out-all-digital-axe/>
 

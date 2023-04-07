@@ -1,4 +1,4 @@
-# RealTravel 旅行规划:剪切、粘贴和分享旅行技巧 TechCrunch
+# RealTravel 旅行规划:剪切、粘贴和分享旅行技巧 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/13/realtravel-trip-planner-cut-paste-share-travel-tips/>
 

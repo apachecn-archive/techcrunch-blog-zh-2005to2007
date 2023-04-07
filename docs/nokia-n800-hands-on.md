@@ -1,4 +1,4 @@
-# 诺基亚 N800 实践–TechCrunch
+# 诺基亚 N800 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/nokia-n800-hands-on/>
 

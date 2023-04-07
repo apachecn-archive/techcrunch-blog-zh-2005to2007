@@ -1,4 +1,4 @@
-# iPhone 终于获得 FCC 批准| TechCrunch
+# iPhone 终于获得 FCC 批准
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/17/iphone-finally-gets-fcc-approval/>
 

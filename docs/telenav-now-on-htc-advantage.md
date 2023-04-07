@@ -1,4 +1,4 @@
-# HTC Advantage | TechCrunch 上的 TeleNav Now
+# HTC Advantage  上的 TeleNav Now
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/07/telenav-now-on-htc-advantage/>
 

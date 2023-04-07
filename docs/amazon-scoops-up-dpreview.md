@@ -1,4 +1,4 @@
-# 亚马逊收购 DP review-TechCrunch
+# 亚马逊收购 DP review-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/14/amazon-scoops-up-dpreview/>
 

@@ -1,4 +1,4 @@
-# 福克斯新闻频道摄制组出格了——TechCrunch
+# 福克斯新闻频道摄制组出格了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/fox-news-gets-out-of-line/>
 

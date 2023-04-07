@@ -1,4 +1,4 @@
-# 法国交通系统启动试点项目——TechCrunch
+# 法国交通系统启动试点项目
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/07/pilot-program-launched-for-french-transit-system/>
 

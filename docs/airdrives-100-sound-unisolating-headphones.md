@@ -1,4 +1,4 @@
-# air drives 100 美元隔音耳机| TechCrunch
+# air drives 100 美元隔音耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/13/airdrives-100-sound-unisolating-headphones/>
 

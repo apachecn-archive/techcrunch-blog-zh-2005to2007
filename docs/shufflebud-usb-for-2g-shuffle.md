@@ -1,4 +1,4 @@
-# 用于 2G Shuffle 的 Shuffle | TechCrunch
+# 用于 2G Shuffle 的 Shuffle 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/04/shufflebud-usb-for-2g-shuffle/>
 

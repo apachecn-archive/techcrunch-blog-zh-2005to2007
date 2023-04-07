@@ -1,4 +1,4 @@
-# 外星人释放 Area-51 m5790 特别版| TechCrunch
+# 外星人释放 Area-51 m5790 特别版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/alienware-unleashes-area-51-m5790-special-edition/>
 

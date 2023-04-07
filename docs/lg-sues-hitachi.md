@@ -1,4 +1,4 @@
-# LG 起诉日立 TechCrunch
+# LG 起诉日立 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/18/lg-sues-hitachi/>
 

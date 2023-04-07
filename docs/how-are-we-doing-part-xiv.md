@@ -1,4 +1,4 @@
-# 我们进展如何？第十四部分| TechCrunch
+# 我们进展如何？第十四部分
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/27/how-are-we-doing-part-xiv/>
 

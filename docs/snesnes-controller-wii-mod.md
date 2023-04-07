@@ -1,4 +1,4 @@
-# SNES/NES 控制器 Wii Mod–TechCrunch
+# SNES/NES 控制器 Wii Mod
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/02/snesnes-controller-wii-mod/>
 

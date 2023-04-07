@@ -1,4 +1,4 @@
-# Diner Dash 2 今秋上市——TechCrunch
+# Diner Dash 2 今秋上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/07/diner-dash-2-serving-up-this-fall/>
 

@@ -1,4 +1,4 @@
-# LightInSight 将交通灯置于视野之内——TechCrunch
+# LightInSight 将交通灯置于视野之内
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/14/lightinsight-puts-traffic-lights-in-sight/>
 

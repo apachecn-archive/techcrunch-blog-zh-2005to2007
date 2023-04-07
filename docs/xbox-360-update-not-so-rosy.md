@@ -1,4 +1,4 @@
-# Xbox 360 更新不太乐观？TechCrunch
+# Xbox 360 更新不太乐观？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/01/xbox-360-update-not-so-rosy/>
 

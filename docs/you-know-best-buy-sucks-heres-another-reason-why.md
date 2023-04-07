@@ -1,4 +1,4 @@
-# 你知道百思买很烂:这是为什么| TechCrunch
+# 你知道百思买很烂:这是为什么
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/you-know-best-buy-sucks-heres-another-reason-why/>
 

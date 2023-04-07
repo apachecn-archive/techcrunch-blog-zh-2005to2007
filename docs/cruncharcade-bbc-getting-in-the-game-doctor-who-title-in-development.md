@@ -1,4 +1,4 @@
-# CrunchArcade: BBC 加入游戏，开发中的神秘博士头衔 TechCrunch
+# CrunchArcade: BBC 加入游戏，开发中的神秘博士头衔 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/cruncharcade-bbc-getting-in-the-game-doctor-who-title-in-development/>
 

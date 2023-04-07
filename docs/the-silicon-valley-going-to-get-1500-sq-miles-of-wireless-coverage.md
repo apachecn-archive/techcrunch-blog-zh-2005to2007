@@ -1,4 +1,4 @@
-# 硅谷将得到 1500 平方英尺。无线覆盖英里数| TechCrunch
+# 硅谷将得到 1500 平方英尺。无线覆盖英里数
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/07/the-silicon-valley-going-to-get-1500-sq-miles-of-wireless-coverage/>
 

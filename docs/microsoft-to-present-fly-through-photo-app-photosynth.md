@@ -1,4 +1,4 @@
-# 微软将推出飞越照片应用 PhotoSynth | TechCrunch
+# 微软将推出飞越照片应用 PhotoSynth 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/01/microsoft-to-present-fly-through-photo-app-photosynth/>
 

@@ -1,4 +1,4 @@
-# Loomia 与《华尔街日报》——TechCrunch 合作
+# Loomia 与《华尔街日报》 合作
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/14/loomia-partners-with-wall-street-journal/>
 

@@ -1,4 +1,4 @@
-# 秘密之书——TechCrunch
+# 秘密之书
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/10/23/the-postsecret-book-cometh/>
 

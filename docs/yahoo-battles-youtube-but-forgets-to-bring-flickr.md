@@ -1,4 +1,4 @@
-# 雅虎与 YouTube 竞争，却忘记了带来 Flickr——TechCrunch
+# 雅虎与 YouTube 竞争，却忘记了带来 Flickr
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/05/31/yahoo-battles-youtube-but-forgets-to-bring-flickr/>
 

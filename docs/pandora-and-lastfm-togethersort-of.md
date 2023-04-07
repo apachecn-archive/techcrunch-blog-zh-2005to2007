@@ -1,4 +1,4 @@
-# Pandora 和 Last.fm 一起……有点像——TechCrunch
+# Pandora 和 Last.fm 一起……有点像
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/03/29/pandora-and-lastfm-togethersort-of/>
 

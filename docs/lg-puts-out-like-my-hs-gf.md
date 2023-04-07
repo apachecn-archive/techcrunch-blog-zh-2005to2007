@@ -1,4 +1,4 @@
-# LG 推出了像我的 HS GF | TechCrunch
+# LG 推出了像我的 HS GF 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/lg-puts-out-like-my-hs-gf/>
 

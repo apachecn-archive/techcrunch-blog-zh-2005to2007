@@ -1,4 +1,4 @@
-# 灰色袋鼠个人酒过滤器 TechCrunch
+# 灰色袋鼠个人酒过滤器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/02/gray-kangaroo-personal-liquor-filter/>
 

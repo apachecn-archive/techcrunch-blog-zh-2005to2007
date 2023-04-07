@@ -1,4 +1,4 @@
-# cowon iAudio 7 Shipping–TechCrunch
+# cowon iAudio 7 Shipping
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/09/cowon-iaudio-7-shipping/>
 

@@ -1,4 +1,4 @@
-# 罗技 V470:带激光的蓝牙鼠标| TechCrunch
+# 罗技 V470:带激光的蓝牙鼠标
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/logitech-v470-bluetooth-mouse-with-lasers/>
 

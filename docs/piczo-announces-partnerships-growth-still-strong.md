@@ -1,4 +1,4 @@
-# Piczo 宣布合作——增长依然强劲——TechCrunch
+# Piczo 宣布合作——增长依然强劲
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/06/piczo-announces-partnerships-growth-still-strong/>
 

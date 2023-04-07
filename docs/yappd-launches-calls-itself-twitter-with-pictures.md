@@ -1,4 +1,4 @@
-# Yappd 推出自称为“带图片的 Twitter”的 TechCrunch
+# Yappd 推出自称为“带图片的 Twitter”的 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/13/yappd-launches-calls-itself-twitter-with-pictures/>
 

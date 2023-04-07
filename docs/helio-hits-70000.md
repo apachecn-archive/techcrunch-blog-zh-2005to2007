@@ -1,4 +1,4 @@
-# Helio 达到 70，000–TechCrunch
+# Helio 达到 70，000
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/helio-hits-70000/>
 

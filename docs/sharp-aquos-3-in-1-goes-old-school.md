@@ -1,4 +1,4 @@
-# 夏普 AQUOS 3 合 1 设备过时| TechCrunch
+# 夏普 AQUOS 3 合 1 设备过时
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/27/sharp-aquos-3-in-1-goes-old-school/>
 

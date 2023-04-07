@@ -1,4 +1,4 @@
-# 环球仍将为苹果提供音乐——TechCrunch
+# 环球仍将为苹果提供音乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/03/universal-will-still-supply-apple-with-music/>
 

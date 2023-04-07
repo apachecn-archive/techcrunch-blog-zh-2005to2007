@@ -1,4 +1,4 @@
-# 电子艺界获得摩尔| TechCrunch
+# 电子艺界获得摩尔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/electronic-arts-gets-moore/>
 

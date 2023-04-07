@@ -1,4 +1,4 @@
-# 暖手宝使用电子循环技术——TechCrunch
+# 暖手宝使用电子循环技术
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/04/hand-warmers-use-eneloop-technology/>
 

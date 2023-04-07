@@ -1,4 +1,4 @@
-# WebJam Bags 价值 200 万美元的个性化页面社区——TechCrunch
+# WebJam Bags 价值 200 万美元的个性化页面社区
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/28/webjam-bags-2-million-for-personal-page-community/>
 

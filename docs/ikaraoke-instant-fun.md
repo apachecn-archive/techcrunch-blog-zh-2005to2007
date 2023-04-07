@@ -1,4 +1,4 @@
-# iKaraoke:即时乐趣| TechCrunch
+# iKaraoke:即时乐趣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/20/ikaraoke-instant-fun/>
 

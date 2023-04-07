@@ -1,4 +1,4 @@
-# 最好尽快使用百思买礼品卡——TechCrunch
+# 最好尽快使用百思买礼品卡
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/18/better-use-that-best-buy-gift-card-soon/>
 

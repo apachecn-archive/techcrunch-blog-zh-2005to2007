@@ -1,4 +1,4 @@
-# 已证实:MySpace 将以 2.5 亿美元收购 Photobucket——TechCrunch
+# 已证实:MySpace 将以 2.5 亿美元收购 Photobucket
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/07/myspace-to-acquire-photobucket-for-250-million/>
 

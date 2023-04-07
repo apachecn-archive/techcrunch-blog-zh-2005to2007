@@ -1,4 +1,4 @@
-# 雷克萨斯 JumpDrive Mercury:史上最牛的 jump drive Mercury | TechCrunch
+# 雷克萨斯 JumpDrive Mercury:史上最牛的 jump drive Mercury 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/lexar-jumpdrive-mercury-ii-awesomest-jumpdrive-mercury-ii-ever/>
 

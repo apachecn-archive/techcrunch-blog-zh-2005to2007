@@ -1,4 +1,4 @@
-# Mii 一代| TechCrunch
+# Mii 一代
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/the-mii-generation/>
 

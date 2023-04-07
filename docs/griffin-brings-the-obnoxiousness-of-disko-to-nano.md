@@ -1,4 +1,4 @@
-# 格里芬将 Disko 的讨厌之处带到了 Nano | TechCrunch
+# 格里芬将 Disko 的讨厌之处带到了 Nano 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/08/griffin-brings-the-obnoxiousness-of-disko-to-nano/>
 

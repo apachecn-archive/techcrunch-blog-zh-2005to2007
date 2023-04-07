@@ -1,4 +1,4 @@
-# HD DVD 2.0 今天发布| TechCrunch
+# HD DVD 2.0 今天发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/22/hd-dvd-20-is-coming-today/>
 

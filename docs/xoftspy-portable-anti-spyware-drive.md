@@ -1,4 +1,4 @@
-# XOFTspy 便携式反间谍驱动器–TechCrunch
+# XOFTspy 便携式反间谍驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/11/xoftspy-portable-anti-spyware-drive/>
 

@@ -1,4 +1,4 @@
-# 斯坦福开展互联网研究| TechCrunch
+# 斯坦福开展互联网研究
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/12/stanford-conducts-internet-research/>
 

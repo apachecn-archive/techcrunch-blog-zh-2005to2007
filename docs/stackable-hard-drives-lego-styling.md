@@ -1,4 +1,4 @@
-# 可堆叠硬盘驱动器；乐高造型–TechCrunch
+# 可堆叠硬盘驱动器；乐高造型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/02/stackable-hard-drives-lego-styling/>
 

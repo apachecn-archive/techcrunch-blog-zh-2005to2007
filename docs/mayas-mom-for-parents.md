@@ -1,4 +1,4 @@
-# 玛雅的妈妈-为父母 TechCrunch
+# 玛雅的妈妈-为父母 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/12/mayas-mom-for-parents/>
 

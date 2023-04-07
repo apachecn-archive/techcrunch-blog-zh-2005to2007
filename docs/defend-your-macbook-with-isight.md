@@ -1,4 +1,4 @@
-# 使用 iSight | TechCrunch 保护您的 Macbook
+# 使用 iSight  保护您的 Macbook
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/13/defend-your-macbook-with-isight/>
 

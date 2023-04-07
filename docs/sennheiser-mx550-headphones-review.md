@@ -1,4 +1,4 @@
-# 森海塞尔 MX550 耳机评论——TechCrunch
+# 森海塞尔 MX550 耳机评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/26/sennheiser-mx550-headphones-review/>
 

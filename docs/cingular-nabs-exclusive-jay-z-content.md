@@ -1,4 +1,4 @@
-# Cingular Nabs 独家 Jay-Z 内容–TechCrunch
+# Cingular Nabs 独家 Jay-Z 内容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/04/cingular-nabs-exclusive-jay-z-content/>
 

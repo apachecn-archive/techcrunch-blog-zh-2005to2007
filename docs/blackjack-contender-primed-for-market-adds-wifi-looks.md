@@ -1,4 +1,4 @@
-# 21 点竞争者准备上市，增加 WiFi，看起来| TechCrunch
+# 21 点竞争者准备上市，增加 WiFi，看起来
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/blackjack-contender-primed-for-market-adds-wifi-looks/>
 

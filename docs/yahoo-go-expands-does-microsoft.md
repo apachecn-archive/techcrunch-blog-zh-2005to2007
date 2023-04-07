@@ -1,4 +1,4 @@
-# 雅虎！Go 扩张，难道微软| TechCrunch
+# 雅虎！Go 扩张，难道微软
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/30/yahoo-go-expands-does-microsoft/>
 

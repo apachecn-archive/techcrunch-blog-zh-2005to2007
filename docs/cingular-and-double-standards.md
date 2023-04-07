@@ -1,4 +1,4 @@
-# Cingular 和双重标准| TechCrunch
+# Cingular 和双重标准
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/09/21/cingular-and-double-standards/>
 

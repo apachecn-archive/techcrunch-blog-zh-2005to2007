@@ -1,4 +1,4 @@
-# Cingular 3125 发布会视频| TechCrunch
+# Cingular 3125 发布会视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/29/cingular-3125-launch-party-video/>
 

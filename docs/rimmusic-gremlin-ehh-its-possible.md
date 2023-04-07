@@ -1,4 +1,4 @@
-# RIM+MusicGremlin: Ehh？有可能吗？–TechCrunch
+# RIM+MusicGremlin: Ehh？有可能吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/02/rimmusic-gremlin-ehh-its-possible/>
 

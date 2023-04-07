@@ -1,4 +1,4 @@
-# MyLiveSearch 错过了发布日期，但新标志是一流的 TechCrunch
+# MyLiveSearch 错过了发布日期，但新标志是一流的 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/10/mylivesearch-misses-launch-date-but-has-snazzy-new-logo/>
 

@@ -1,4 +1,4 @@
-# 未来学家:一年中最美好的时光还是……2007 年 CES | TechCrunch 一瞥
+# 未来学家:一年中最美好的时光还是……2007 年 CES  一瞥
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/21/the-futurist-that-most-wonderful-time-of-the-year-or-a-first-look-at-the-2007-ces/>
 

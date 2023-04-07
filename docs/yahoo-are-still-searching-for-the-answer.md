@@ -1,4 +1,4 @@
-# 雅虎找到答案了吗？TechCrunch
+# 雅虎找到答案了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/04/yahoo-are-still-searching-for-the-answer/>
 

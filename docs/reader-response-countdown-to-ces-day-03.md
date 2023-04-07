@@ -1,4 +1,4 @@
-# 读者反应:CES 日倒计时 03 | TechCrunch
+# 读者反应:CES 日倒计时 03 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/04/reader-response-countdown-to-ces-day-03/>
 

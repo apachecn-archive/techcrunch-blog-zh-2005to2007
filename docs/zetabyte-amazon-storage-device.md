@@ -1,4 +1,4 @@
-# Zetabyte 亚马逊存储设备–TechCrunch
+# Zetabyte 亚马逊存储设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/23/zetabyte-amazon-storage-device/>
 

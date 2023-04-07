@@ -1,4 +1,4 @@
-# Belkin 网络 USB 集线器将于 6 月上市——TechCrunch
+# Belkin 网络 USB 集线器将于 6 月上市
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/17/belkin-network-usb-hub-avaible-in-june/>
 

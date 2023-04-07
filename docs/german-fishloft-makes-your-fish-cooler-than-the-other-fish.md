@@ -1,4 +1,4 @@
-# 德国 Fishloft 让您的鱼比其他鱼更酷 TechCrunch
+# 德国 Fishloft 让您的鱼比其他鱼更酷 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/german-fishloft-makes-your-fish-cooler-than-the-other-fish/>
 

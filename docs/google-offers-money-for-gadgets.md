@@ -1,4 +1,4 @@
-# 谷歌为小工具提供资金——TechCrunch
+# 谷歌为小工具提供资金
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/06/27/google-offers-money-for-gadgets/>
 

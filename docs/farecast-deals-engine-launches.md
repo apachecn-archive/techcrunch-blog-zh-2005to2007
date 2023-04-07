@@ -1,4 +1,4 @@
-# Farecast 交易引擎发布 TechCrunch
+# Farecast 交易引擎发布 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/12/farecast-deals-engine-launches/>
 

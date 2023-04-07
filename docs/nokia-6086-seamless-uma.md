@@ -1,4 +1,4 @@
-# 诺基亚 6086，无缝 UMA | TechCrunch
+# 诺基亚 6086，无缝 UMA 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/03/nokia-6086-seamless-uma/>
 

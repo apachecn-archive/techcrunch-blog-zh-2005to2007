@@ -1,4 +1,4 @@
-# Baja Motorsports 70cc 越野车评论——TechCrunch
+# Baja Motorsports 70cc 越野车评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/27/baja-motorsports-70cc-dirt-bike-reviewed/>
 

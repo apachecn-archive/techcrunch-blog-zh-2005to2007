@@ -1,4 +1,4 @@
-# Amp 将获得 Prexar | TechCrunch 的股份
+# Amp 将获得 Prexar  的股份
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/03/amp%e2%80%99d-get-25-percent-stake-in-prexar/>
 

@@ -1,4 +1,4 @@
-# LG 发布普拉达手机——TechCrunch
+# LG 发布普拉达手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/18/lg-announces-prada-phone/>
 

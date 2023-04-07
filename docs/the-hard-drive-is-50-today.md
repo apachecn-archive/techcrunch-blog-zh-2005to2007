@@ -1,4 +1,4 @@
-# 硬盘今天| TechCrunch
+# 硬盘今天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/13/the-hard-drive-is-50-today/>
 

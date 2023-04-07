@@ -1,4 +1,4 @@
-# Sprint Nextel 在呼叫中心满意度排名中垫底| TechCrunch
+# Sprint Nextel 在呼叫中心满意度排名中垫底
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/sprint-nextel-in-last-place-in-call-center-satisfaction/>
 

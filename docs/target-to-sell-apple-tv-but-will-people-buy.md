@@ -1,4 +1,4 @@
-# 目标是销售 Apple TV，但人们会购买吗？TechCrunch
+# 目标是销售 Apple TV，但人们会购买吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/20/target-to-sell-apple-tv-but-will-people-buy/>
 

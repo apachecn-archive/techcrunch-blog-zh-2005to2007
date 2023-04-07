@@ -1,4 +1,4 @@
-# TiVo 销售独立系列 3 远程–TechCrunch
+# TiVo 销售独立系列 3 远程
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/03/tivo-selling-standalone-series3-remote/>
 

@@ -1,4 +1,4 @@
-# 艺电收购卡拉 ok 网站 SingShot——TechCrunch
+# 艺电收购卡拉 ok 网站 SingShot
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/12/ea-acquires-karaoke-site-singshot/>
 

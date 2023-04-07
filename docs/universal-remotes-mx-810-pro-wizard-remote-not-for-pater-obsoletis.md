@@ -1,4 +1,4 @@
-# 通用遥控器的 MX-810 Pro 向导遥控器:不适用于 Pater Obsoletis | TechCrunch
+# 通用遥控器的 MX-810 Pro 向导遥控器:不适用于 Pater Obsoletis 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/15/universal-remotes-mx-810-pro-wizard-remote-not-for-pater-obsoletis/>
 

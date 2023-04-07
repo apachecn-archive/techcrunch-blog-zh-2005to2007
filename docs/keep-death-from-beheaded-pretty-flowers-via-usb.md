@@ -1,4 +1,4 @@
-# 通过 USB | TechCrunch 让死亡远离被斩首的美丽花朵
+# 通过 USB  让死亡远离被斩首的美丽花朵
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/10/keep-death-from-beheaded-pretty-flowers-via-usb/>
 

@@ -1,4 +1,4 @@
-# 涉足:媒体书签的甜蜜——TechCrunch
+# 涉足:媒体书签的甜蜜
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/02/12/dabble-media-bookmarking-sweetness/>
 

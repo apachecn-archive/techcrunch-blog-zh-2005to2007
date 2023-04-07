@@ -1,4 +1,4 @@
-# iPod 基座和电池，二合一| TechCrunch
+# iPod 基座和电池，二合一
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/27/dock-and-battery-for-ipod-in-one/>
 

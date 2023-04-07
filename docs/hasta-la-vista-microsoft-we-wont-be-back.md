@@ -1,4 +1,4 @@
-# 再见了，微软……我们不会回来了！TechCrunch
+# 再见了，微软……我们不会回来了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/hasta-la-vista-microsoft-we-wont-be-back/>
 

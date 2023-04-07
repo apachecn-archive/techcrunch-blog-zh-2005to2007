@@ -1,4 +1,4 @@
-# Zune 手机(几乎)确认 TechCrunch
+# Zune 手机(几乎)确认 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/02/09/zune-phone-nearly-confirmed/>
 

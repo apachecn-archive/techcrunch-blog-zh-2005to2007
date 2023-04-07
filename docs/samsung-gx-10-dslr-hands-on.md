@@ -1,4 +1,4 @@
-# 三星 GX-10 DSLR 动手| TechCrunch
+# 三星 GX-10 DSLR 动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/09/samsung-gx-10-dslr-hands-on/>
 

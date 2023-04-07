@@ -1,4 +1,4 @@
-# 惠普 MediaSmart 37 英寸液晶媒体中心电视 TechCrunch
+# 惠普 MediaSmart 37 英寸液晶媒体中心电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/14/hp-mediasmart-37-inch-lcd-media-center-tv/>
 

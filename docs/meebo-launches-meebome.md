@@ -1,4 +1,4 @@
-# Meebo 推出 meebo me TechCrunch
+# Meebo 推出 meebo me 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/02/meebo-launches-meebome>
 

@@ -1,4 +1,4 @@
-# 苏打俱乐部家用碳酸化器 TechCrunch
+# 苏打俱乐部家用碳酸化器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/soda-club-home-carbonator/>
 

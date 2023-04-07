@@ -1,4 +1,4 @@
-# Nike+iPod 与 AnyShoe 一起失控| TechCrunch
+# Nike+iPod 与 AnyShoe 一起失控
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/02/nikeipod-to-runaway-with-anyshoe/>
 

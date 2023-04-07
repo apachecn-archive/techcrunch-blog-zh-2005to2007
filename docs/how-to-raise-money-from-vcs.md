@@ -1,4 +1,4 @@
-# 如何从风投那里融资——TechCrunch
+# 如何从风投那里融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/14/how-to-raise-money-from-vcs/>
 

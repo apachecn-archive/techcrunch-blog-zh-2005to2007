@@ -1,4 +1,4 @@
-# 2007 年开发者大会开幕，聚焦移动设备——TechCrunch
+# 2007 年开发者大会开幕，聚焦移动设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/26/developer-conference-2007-kicks-off-with-focus-on-mobile/>
 

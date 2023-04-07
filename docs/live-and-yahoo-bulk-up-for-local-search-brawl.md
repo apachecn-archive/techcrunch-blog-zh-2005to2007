@@ -1,4 +1,4 @@
-# Live.com 和雅虎！为本地搜索大战做准备——TechCrunch
+# Live.com 和雅虎！为本地搜索大战做准备
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/13/live-and-yahoo-bulk-up-for-local-search-brawl/>
 

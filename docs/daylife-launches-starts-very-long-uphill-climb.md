@@ -1,4 +1,4 @@
-# Daylife 推出，开始漫长的爬坡旅程 TechCrunch
+# Daylife 推出，开始漫长的爬坡旅程 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/04/daylife-launches-starts-very-long-uphill-climb>
 

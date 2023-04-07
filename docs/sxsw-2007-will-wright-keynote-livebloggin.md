@@ -1,4 +1,4 @@
-# SXSW 2007:威尔·莱特主题演讲直播–TechCrunch
+# SXSW 2007:威尔·莱特主题演讲直播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/13/sxsw-2007-will-wright-keynote-livebloggin/>
 

@@ -1,4 +1,4 @@
-# 雅虎推出 DVR 服务:Yahoo Go TechCrunch
+# 雅虎推出 DVR 服务:Yahoo Go 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/25/yahoo-launches-dvr-service-yahoo-go/>
 

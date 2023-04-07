@@ -1,4 +1,4 @@
-# Threshers 优惠券在线风暴| TechCrunch
+# Threshers 优惠券在线风暴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/05/threshers-voucher-goes-down-storm-online/>
 

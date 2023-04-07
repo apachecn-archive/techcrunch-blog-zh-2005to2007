@@ -1,4 +1,4 @@
-# 三星 IP-830w 已通过审核——TechCrunch
+# 三星 IP-830w 已通过审核
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/26/samsung-ip-830w-reviewed/>
 

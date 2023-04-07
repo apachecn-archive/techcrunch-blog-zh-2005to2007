@@ -1,4 +1,4 @@
-# 对 PS3 的兴趣有所上升，但 Wii 仍是王者——TechCrunch
+# 对 PS3 的兴趣有所上升，但 Wii 仍是王者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/ps3-interest-creeps-up-a-bit-but-wii-still-king/>
 

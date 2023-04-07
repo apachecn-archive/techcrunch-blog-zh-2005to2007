@@ -1,4 +1,4 @@
-# 惠普进入游戏笔记本市场| TechCrunch
+# 惠普进入游戏笔记本市场
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/06/hp-enters-gaming-notebook-market/>
 

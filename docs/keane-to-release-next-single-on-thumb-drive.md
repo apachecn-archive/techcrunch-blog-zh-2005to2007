@@ -1,4 +1,4 @@
-# 基恩将在拇指驱动器上发布下一首单曲——TechCrunch
+# 基恩将在拇指驱动器上发布下一首单曲
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/19/keane-to-release-next-single-on-thumb-drive/>
 

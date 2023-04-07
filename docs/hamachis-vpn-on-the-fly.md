@@ -1,4 +1,4 @@
-# Hamachi 的虚拟专用网| TechCrunch
+# Hamachi 的虚拟专用网
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/04/hamachis-vpn-on-the-fly/>
 

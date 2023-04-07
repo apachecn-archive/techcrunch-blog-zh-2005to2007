@@ -1,4 +1,4 @@
-# 索尼爱立信发布新的 Cybershot 手机——TechCrunch
+# 索尼爱立信发布新的 Cybershot 手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/06/sony-ericsson-announces-new-cybershot-phones/>
 

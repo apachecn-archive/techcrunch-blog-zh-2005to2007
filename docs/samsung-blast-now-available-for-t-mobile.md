@@ -1,4 +1,4 @@
-# 三星 Blast 现适用于 T-Mobile | TechCrunch
+# 三星 Blast 现适用于 T-Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/08/samsung-blast-now-available-for-t-mobile/>
 

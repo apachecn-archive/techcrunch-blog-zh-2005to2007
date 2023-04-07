@@ -1,4 +1,4 @@
-# 英国市议会推出借口短信服务——TechCrunch
+# 英国市议会推出借口短信服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/uk-city-council-pushing-excuse-sms-service/>
 

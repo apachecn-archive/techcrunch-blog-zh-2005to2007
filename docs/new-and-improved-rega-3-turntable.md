@@ -1,4 +1,4 @@
-# 新的和改进的 Rega 3 转盘| TechCrunch
+# 新的和改进的 Rega 3 转盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/22/new-and-improved-rega-3-turntable/>
 

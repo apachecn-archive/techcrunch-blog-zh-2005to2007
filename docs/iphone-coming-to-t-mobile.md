@@ -1,4 +1,4 @@
-# iPhone 即将登陆 T-Mobile | TechCrunch
+# iPhone 即将登陆 T-Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/iphone-coming-to-t-mobile/>
 

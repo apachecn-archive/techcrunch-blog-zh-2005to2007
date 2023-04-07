@@ -1,4 +1,4 @@
-# 低音炮椅是女生的 BFF | TechCrunch
+# 低音炮椅是女生的 BFF 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/14/subwoofer-chair-is-girls-bff/>
 

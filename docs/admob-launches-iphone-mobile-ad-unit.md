@@ -1,4 +1,4 @@
-# AdMob 推出 iPhone 手机广告单元| TechCrunch
+# AdMob 推出 iPhone 手机广告单元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/14/admob-launches-iphone-mobile-ad-unit/>
 

@@ -1,4 +1,4 @@
-# 理解游戏教会我们游戏是如何工作的——TechCrunch
+# 理解游戏教会我们游戏是如何工作的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/21/understanding-games-teaches-us-how-games-work/>
 

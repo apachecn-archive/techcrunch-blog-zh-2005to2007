@@ -1,4 +1,4 @@
-# 摩托罗拉九方动手–TechCrunch
+# 摩托罗拉九方动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/12/motorola-q9-hands-on/>
 

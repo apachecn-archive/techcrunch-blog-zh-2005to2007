@@ -1,4 +1,4 @@
-# 对 Ajax 主页的一点看法——TechCrunch
+# 对 Ajax 主页的一点看法
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/13/a-little-perspective-on-ajax-home-pages/>
 

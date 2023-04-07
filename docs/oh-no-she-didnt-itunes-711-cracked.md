@@ -1,4 +1,4 @@
-# 哦，不，她没有！iTunes 7.1.1 破解了！–TechCrunch
+# 哦，不，她没有！iTunes 7.1.1 破解了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/14/oh-no-she-didnt-itunes-711-cracked/>
 

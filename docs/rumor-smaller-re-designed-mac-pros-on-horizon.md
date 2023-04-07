@@ -1,4 +1,4 @@
-# 传言:Horizon 上更小、重新设计的 Mac Pros？TechCrunch
+# 传言:Horizon 上更小、重新设计的 Mac Pros？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/16/rumor-smaller-re-designed-mac-pros-on-horizon/>
 

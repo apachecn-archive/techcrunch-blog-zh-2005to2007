@@ -1,4 +1,4 @@
-# Ooma 推出免费消费者电话服务——TechCrunch
+# Ooma 推出免费消费者电话服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/18/ooma-launches-free-consumer-phone-service/>
 

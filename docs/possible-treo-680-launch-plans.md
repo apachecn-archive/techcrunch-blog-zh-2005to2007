@@ -1,4 +1,4 @@
-# Treo 680 可能的发布计划——TechCrunch
+# Treo 680 可能的发布计划
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/16/possible-treo-680-launch-plans/>
 

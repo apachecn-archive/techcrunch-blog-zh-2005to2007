@@ -1,4 +1,4 @@
-# 乐高思维风暴 NXT–也适合大孩子| TechCrunch
+# 乐高思维风暴 NXT–也适合大孩子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/08/31/lego-mindstorms-nxt-fun-for-big-kids-too/>
 

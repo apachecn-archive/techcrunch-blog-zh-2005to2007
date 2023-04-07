@@ -1,4 +1,4 @@
-# Office Live 将成为一个巨大的生产力工具——TechCrunch
+# Office Live 将成为一个巨大的生产力工具
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/02/office-live-will-be-huge-productivity-tool/>
 

@@ -1,4 +1,4 @@
-# Vista 服务包 1:婴儿创可贴——TechCrunch
+# Vista 服务包 1:婴儿创可贴
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/vista-service-pack-1-a-band-aid-for-a-baby/>
 

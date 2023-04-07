@@ -1,4 +1,4 @@
-# 体验刚刚发布的爱可视 704-WiFi PMP–TechCrunch
+# 体验刚刚发布的爱可视 704-WiFi PMP
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/06/hands-on-with-the-just-announced-archos-704-wifi-pmp/>
 

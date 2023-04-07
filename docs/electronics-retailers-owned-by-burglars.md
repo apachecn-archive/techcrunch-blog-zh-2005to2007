@@ -1,4 +1,4 @@
-# 窃贼拥有的电子产品零售商| TechCrunch
+# 窃贼拥有的电子产品零售商
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/electronics-retailers-owned-by-burglars/>
 

@@ -1,4 +1,4 @@
-# SanDisk 的 Wi-Fi 比 Zune 的好，嗯，SanDisk，也许| TechCrunch
+# SanDisk 的 Wi-Fi 比 Zune 的好，嗯，SanDisk，也许
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/23/sandisks-wi-fi-better-than-zunes-says-um-sandisk-maybe/>
 

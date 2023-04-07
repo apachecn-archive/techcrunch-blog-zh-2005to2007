@@ -1,4 +1,4 @@
-# Sprint 用户获得新的流媒体音乐和电视——TechCrunch
+# Sprint 用户获得新的流媒体音乐和电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/15/sprint-subscribers-getting-new-streaming-music-tv/>
 

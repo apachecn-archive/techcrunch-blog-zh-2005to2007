@@ -1,4 +1,4 @@
-# MotionDSP 推出军用级视频增强技术——TechCrunch
+# MotionDSP 推出军用级视频增强技术
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/30/motiondsp-launches-military-grade-video-enhancement/>
 

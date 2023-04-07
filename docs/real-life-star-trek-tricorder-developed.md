@@ -1,4 +1,4 @@
-# 真人版《星际迷航》三录机开发| TechCrunch
+# 真人版《星际迷航》三录机开发
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/09/real-life-star-trek-tricorder-developed/>
 

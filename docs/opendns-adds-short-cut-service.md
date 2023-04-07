@@ -1,4 +1,4 @@
-# OpenDNS 增加快捷服务| TechCrunch
+# OpenDNS 增加快捷服务
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/23/opendns-adds-short-cut-service/>
 

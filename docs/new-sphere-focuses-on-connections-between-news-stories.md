@@ -1,4 +1,4 @@
-# 新领域关注新闻故事之间的联系 TechCrunch
+# 新领域关注新闻故事之间的联系 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/05/01/new-sphere-focuses-on-connections-between-news-stories/>
 

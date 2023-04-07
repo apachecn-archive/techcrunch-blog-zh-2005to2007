@@ -1,4 +1,4 @@
-# 首次 iPhone 评论发现:等待明年的模式？TechCrunch
+# 首次 iPhone 评论发现:等待明年的模式？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/26/first-iphone-review-spotted-wait-for-next-years-model/>
 

@@ -1,4 +1,4 @@
-# Dash 排毒大赛投票 2.0–TechCrunch
+# Dash 排毒大赛投票 2.0
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/21/dash-detox-contest-vote-off-20/>
 

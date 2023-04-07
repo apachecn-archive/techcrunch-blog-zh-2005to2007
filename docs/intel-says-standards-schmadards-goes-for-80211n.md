@@ -1,4 +1,4 @@
-# 英特尔表示，“标准，sch Standards”，支持 802.11n | TechCrunch
+# 英特尔表示，“标准，sch Standards”，支持 802.11n 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/intel-says-standards-schmadards-goes-for-80211n/>
 

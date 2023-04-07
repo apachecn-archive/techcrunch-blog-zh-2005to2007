@@ -1,4 +1,4 @@
-# 与电脑一起旋转| TechCrunch
+# 与电脑一起旋转
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/11/taking-a-spin-with-the-pc/>
 

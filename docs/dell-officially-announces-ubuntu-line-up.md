@@ -1,4 +1,4 @@
-# 戴尔正式宣布 Ubuntu 阵容–TechCrunch
+# 戴尔正式宣布 Ubuntu 阵容
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/24/dell-officially-announces-ubuntu-line-up/>
 

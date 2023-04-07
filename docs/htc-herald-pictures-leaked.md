@@ -1,4 +1,4 @@
-# HTC 先驱图片泄露——TechCrunch
+# HTC 先驱图片泄露
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/htc-herald-pictures-leaked/>
 

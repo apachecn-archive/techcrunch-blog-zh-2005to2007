@@ -1,4 +1,4 @@
-# 个人资料–卡哈纳(Hotmail 测试版)–TechCrunch
+# 个人资料–卡哈纳(Hotmail 测试版)
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/16/profile-kahuna-hotmail-beta/>
 

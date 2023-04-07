@@ -1,4 +1,4 @@
-# 火狐 2.0 即将发布——以下是最新动态——TechCrunch
+# 火狐 2.0 即将发布——以下是最新动态
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/17/firefox-20-about-to-ship-heres-what-to-look-for/>
 

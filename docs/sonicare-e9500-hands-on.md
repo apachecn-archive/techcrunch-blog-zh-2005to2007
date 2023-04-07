@@ -1,4 +1,4 @@
-# Sonicare e9500 实践| TechCrunch
+# Sonicare e9500 实践
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/sonicare-e9500-hands-on/>
 

@@ -1,4 +1,4 @@
-# Netvibes 今天宣布种子融资——TechCrunch
+# Netvibes 今天宣布种子融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/03/22/netvibes-to-announce-seed-financing-today/>
 

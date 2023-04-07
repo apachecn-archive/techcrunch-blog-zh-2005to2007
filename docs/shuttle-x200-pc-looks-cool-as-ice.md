@@ -1,4 +1,4 @@
-# Shuttle X200 PC 看起来冷若冰霜| TechCrunch
+# Shuttle X200 PC 看起来冷若冰霜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/03/shuttle-x200-pc-looks-cool-as-ice/>
 

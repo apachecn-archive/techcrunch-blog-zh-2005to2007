@@ -1,4 +1,4 @@
-# 非官方 Wii 广告——TechCrunch
+# 非官方 Wii 广告
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/02/03/unofficial-wii-commercial/>
 

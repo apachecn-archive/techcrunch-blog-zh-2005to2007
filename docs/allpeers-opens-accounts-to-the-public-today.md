@@ -1,4 +1,4 @@
-# AllPeers 今天向公众敞开大门——TechCrunch
+# AllPeers 今天向公众敞开大门
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/08/23/allpeers-opens-accounts-to-the-public-today/>
 

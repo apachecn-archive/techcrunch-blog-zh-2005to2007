@@ -1,4 +1,4 @@
-# 黑莓终于获得 AIM 客户端和更多——TechCrunch
+# 黑莓终于获得 AIM 客户端和更多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/10/blackberry-finally-gets-aim-client-and-more/>
 

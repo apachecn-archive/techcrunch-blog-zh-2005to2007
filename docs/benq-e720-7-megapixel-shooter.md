@@ -1,4 +1,4 @@
-# 明基 E720 700 万像素照相机| TechCrunch
+# 明基 E720 700 万像素照相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/16/benq-e720-7-megapixel-shooter/>
 

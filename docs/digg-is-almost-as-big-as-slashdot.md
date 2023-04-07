@@ -1,4 +1,4 @@
-# Digg(几乎)和 Slashdot——TechCrunch 一样大
+# Digg(几乎)和 Slashdot 一样大
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/09/digg-is-almost-as-big-as-slashdot/>
 

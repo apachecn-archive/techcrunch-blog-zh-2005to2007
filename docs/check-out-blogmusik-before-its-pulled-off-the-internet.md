@@ -1,4 +1,4 @@
-# 在 Blogmusik 从互联网上撤下之前，先看看它吧——TechCrunch
+# 在 Blogmusik 从互联网上撤下之前，先看看它吧
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/09/09/check-out-blogmusik-before-its-pulled-off-the-internet/>
 

@@ -1,4 +1,4 @@
-# 生日快乐雅虎问答 TechCrunch
+# 生日快乐雅虎问答 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/12/13/happy-birthday-yahoo-answers/>
 

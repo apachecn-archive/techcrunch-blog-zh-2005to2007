@@ -1,4 +1,4 @@
-# GPS + SIM = GPSIM！对吗？对！TechCrunch
+# GPS + SIM = GPSIM！对吗？对！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/27/gps-sim-gpsim-right-right/>
 

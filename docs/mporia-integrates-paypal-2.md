@@ -1,4 +1,4 @@
-# mPoria 整合了 PayPal | TechCrunch
+# mPoria 整合了 PayPal 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/22/mporia-integrates-paypal-2/>
 

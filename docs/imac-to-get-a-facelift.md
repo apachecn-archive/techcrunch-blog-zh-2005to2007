@@ -1,4 +1,4 @@
-# iMac 要整容？TechCrunch
+# iMac 要整容？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/20/imac-to-get-a-facelift/>
 

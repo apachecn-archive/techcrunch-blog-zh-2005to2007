@@ -1,4 +1,4 @@
-# JVC 发布双模式降噪耳机——TechCrunch
+# JVC 发布双模式降噪耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/27/jvc-announces-dual-mode-noise-canceling-headphones/>
 

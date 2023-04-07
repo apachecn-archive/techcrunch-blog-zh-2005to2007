@@ -1,4 +1,4 @@
-# Buffalo Drops VoIP 扬声器| TechCrunch
+# Buffalo Drops VoIP 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/25/buffalo-drops-voip-speakerphone/>
 

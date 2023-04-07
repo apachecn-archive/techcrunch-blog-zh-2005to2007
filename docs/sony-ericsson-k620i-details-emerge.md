@@ -1,4 +1,4 @@
-# 索尼-爱立信 K620i 细节浮出水面——TechCrunch
+# 索尼-爱立信 K620i 细节浮出水面
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/01/sony-ericsson-k620i-details-emerge/>
 

@@ -1,4 +1,4 @@
-# 带天线的无线 USB 适配器——TechCrunch
+# 带天线的无线 USB 适配器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/25/hawking-wireless-usb-adapter-with-antenna/>
 

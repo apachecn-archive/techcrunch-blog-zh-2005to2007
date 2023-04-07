@@ -1,4 +1,4 @@
-# 《今日美国》走向移动——TechCrunch
+# 《今日美国》走向移动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/usa-today-goes-mobile/>
 

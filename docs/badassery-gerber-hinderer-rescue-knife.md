@@ -1,4 +1,4 @@
-# Badassery: Gerber Hinderer 救援刀| TechCrunch
+# Badassery: Gerber Hinderer 救援刀
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/18/badassery-gerber-hinderer-rescue-knife/>
 

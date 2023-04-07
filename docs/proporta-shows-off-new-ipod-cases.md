@@ -1,4 +1,4 @@
-# Proporta 展示新款 iPod 保护套| TechCrunch
+# Proporta 展示新款 iPod 保护套
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/proporta-shows-off-new-ipod-cases/>
 

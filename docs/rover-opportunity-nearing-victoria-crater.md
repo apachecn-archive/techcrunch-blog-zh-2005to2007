@@ -1,4 +1,4 @@
-# 机遇号火星车接近维多利亚陨石坑| TechCrunch
+# 机遇号火星车接近维多利亚陨石坑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/28/rover-opportunity-nearing-victoria-crater/>
 

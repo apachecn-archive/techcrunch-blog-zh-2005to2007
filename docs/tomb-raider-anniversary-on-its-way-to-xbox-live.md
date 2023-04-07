@@ -1,4 +1,4 @@
-# 《古墓丽影:周年纪念》即将登陆 Xbox Live？TechCrunch
+# 《古墓丽影:周年纪念》即将登陆 Xbox Live？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/tomb-raider-anniversary-on-its-way-to-xbox-live/>
 

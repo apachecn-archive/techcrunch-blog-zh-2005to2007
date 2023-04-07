@@ -1,4 +1,4 @@
-# 比尔博特:它完全做了你最想做的事情——TechCrunch
+# 比尔博特:它完全做了你最想做的事情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/07/beerbot-it-totally-does-what-you-want-done-most/>
 

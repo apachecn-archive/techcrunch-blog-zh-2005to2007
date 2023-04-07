@@ -1,4 +1,4 @@
-# 新的 Mozilla 推荐插件列表:赢家和输家 TechCrunch
+# 新的 Mozilla 推荐插件列表:赢家和输家 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/10/24/the-new-mozilla-recommended-add-ons-list-the-winners-and-the-losers>
 

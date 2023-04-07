@@ -1,4 +1,4 @@
-# 朱迪的书:避开死亡池 TechCrunch
+# 朱迪的书:避开死亡池 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/01/09/judys-book-avoiding-the-deadpool/>
 

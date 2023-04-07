@@ -1,4 +1,4 @@
-# 百思买与 Real、SanDisk 合作音乐商店| TechCrunch
+# 百思买与 Real、SanDisk 合作音乐商店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/best-buy-partnering-with-real-sandisk-for-music-store/>
 

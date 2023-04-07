@@ -1,4 +1,4 @@
-# Glow Gaming 的 GottaGlow | TechCrunch
+# Glow Gaming 的 GottaGlow 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/10/glow-gamings-gottaglow/>
 

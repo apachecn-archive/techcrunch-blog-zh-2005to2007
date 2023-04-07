@@ -1,4 +1,4 @@
-# 竞相打造“分布式预订”服务平台——TechCrunch
+# 竞相打造“分布式预订”服务平台
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/03/25/race-to-build-the-distributed-bookings-platform-for-services/>
 

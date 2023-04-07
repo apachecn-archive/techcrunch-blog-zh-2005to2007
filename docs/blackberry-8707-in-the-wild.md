@@ -1,4 +1,4 @@
-# 黑莓 8707 在野外| TechCrunch
+# 黑莓 8707 在野外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/23/blackberry-8707-in-the-wild/>
 

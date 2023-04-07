@@ -1,4 +1,4 @@
-# 最终声音 300i 扬声器| TechCrunch
+# 最终声音 300i 扬声器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/04/final-sound-300i-speakers/>
 

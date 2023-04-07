@@ -1,4 +1,4 @@
-# 更多视频工具-Grouper v 2.0 Rocks-TechCrunch
+# 更多视频工具-Grouper v 2.0 Rocks-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/06/more-video-tools-grouper-v20-rocks/>
 

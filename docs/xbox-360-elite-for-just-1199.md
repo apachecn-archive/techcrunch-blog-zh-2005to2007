@@ -1,4 +1,4 @@
-# Xbox 360 Elite 仅售 1199 美元！TechCrunch
+# Xbox 360 Elite 仅售 1199 美元！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/29/xbox-360-elite-for-just-1199/>
 

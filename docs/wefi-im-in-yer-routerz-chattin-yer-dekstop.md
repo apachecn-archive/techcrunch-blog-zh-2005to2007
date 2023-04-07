@@ -1,4 +1,4 @@
-# WeFi:我在你的路由器上，和你的 DEKSTOP——TechCrunch 聊天
+# WeFi:我在你的路由器上，和你的 DEKSTOP 聊天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/24/wefi-im-in-yer-routerz-chattin-yer-dekstop/>
 

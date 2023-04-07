@@ -1,4 +1,4 @@
-# 将您自己的铃声添加到 iPhone | TechCrunch
+# 将您自己的铃声添加到 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/13/add-your-own-ringtone-to-the-iphone/>
 

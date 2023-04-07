@@ -1,4 +1,4 @@
-# 为您的旧点阵或 USB 打印机添加蓝牙| TechCrunch
+# 为您的旧点阵或 USB 打印机添加蓝牙
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/05/turn-your-old-dot-matrix-or-usb-printer-into-a-wireless-printing-champion/>
 

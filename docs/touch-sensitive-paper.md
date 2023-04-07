@@ -1,4 +1,4 @@
-# 触摸感应纸–TechCrunch
+# 触摸感应纸
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/touch-sensitive-paper/>
 

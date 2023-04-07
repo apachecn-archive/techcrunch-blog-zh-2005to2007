@@ -1,4 +1,4 @@
-# 东芝推出第三代 HD DVD 播放器——TechCrunch
+# 东芝推出第三代 HD DVD 播放器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/toshiba-unveils-third-gen-hd-dvd-players/>
 

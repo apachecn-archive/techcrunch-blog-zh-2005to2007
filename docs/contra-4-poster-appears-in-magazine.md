@@ -1,4 +1,4 @@
-# 《魂斗罗 4》海报出现在杂志| TechCrunch
+# 《魂斗罗 4》海报出现在杂志
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/03/contra-4-poster-appears-in-magazine/>
 

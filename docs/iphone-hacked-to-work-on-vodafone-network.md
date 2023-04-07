@@ -1,4 +1,4 @@
-# iPhone 被黑进沃达丰网络工作？TechCrunch
+# iPhone 被黑进沃达丰网络工作？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/19/iphone-hacked-to-work-on-vodafone-network/>
 

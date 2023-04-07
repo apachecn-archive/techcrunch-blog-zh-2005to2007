@@ -1,4 +1,4 @@
-# Technorati Explore 闻起来像 memeor andum TechCrunch
+# Technorati Explore 闻起来像 memeor andum 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/14/technorati-explore-smells-like-memeorandum/>
 

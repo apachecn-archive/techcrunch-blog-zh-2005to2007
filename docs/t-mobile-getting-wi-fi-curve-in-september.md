@@ -1,4 +1,4 @@
-# T-Mobile 将在 9 月获得 Wi-Fi 曲线| TechCrunch
+# T-Mobile 将在 9 月获得 Wi-Fi 曲线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/29/t-mobile-getting-wi-fi-curve-in-september/>
 

@@ -1,4 +1,4 @@
-# 突发新闻:CBS 收购 Last.fm | TechCrunch
+# 突发新闻:CBS 收购 Last.fm 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/breaking-cbs-buys-lastfm/>
 

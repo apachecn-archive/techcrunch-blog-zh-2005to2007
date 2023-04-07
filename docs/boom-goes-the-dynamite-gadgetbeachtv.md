@@ -1,4 +1,4 @@
-# 炸药爆炸了:Gadgetbeach.tv | TechCrunch
+# 炸药爆炸了:Gadgetbeach.tv 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/16/boom-goes-the-dynamite-gadgetbeachtv/>
 

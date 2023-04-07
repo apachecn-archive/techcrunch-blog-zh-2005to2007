@@ -1,4 +1,4 @@
-# 苹果出货“少量”带有 Windows 病毒的 5.5G ipod(WTF！？)| TechCrunch
+# 苹果出货“少量”带有 Windows 病毒的 5.5G ipod(WTF！？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/17/apple-ships-small-number-of-55g-ipods-with-windows-virus-wtf/>
 

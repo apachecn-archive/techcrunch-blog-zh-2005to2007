@@ -1,4 +1,4 @@
-# 摇滚乐队套装售价 200 美元:亚马逊 TechCrunch
+# 摇滚乐队套装售价 200 美元:亚马逊 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/23/rock-band-bundle-costs-200-amazon/>
 

@@ -1,4 +1,4 @@
-# 案例模式:彼得·帕克的电脑| TechCrunch
+# 案例模式:彼得·帕克的电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/11/28/case-mod-peter-parkers-pc/>
 

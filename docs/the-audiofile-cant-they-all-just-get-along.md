@@ -1,4 +1,4 @@
-# 音频文件:他们就不能好好相处吗？TechCrunch
+# 音频文件:他们就不能好好相处吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/29/the-audiofile-cant-they-all-just-get-along/>
 

@@ -1,4 +1,4 @@
-# Xbox Marketplace 视频租赁上线——TechCrunch
+# Xbox Marketplace 视频租赁上线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/11/22/xbox-marketplace-video-rentals-go-live/>
 

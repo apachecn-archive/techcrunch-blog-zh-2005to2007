@@ -1,4 +1,4 @@
-# 个性化新闻的新观点 TechCrunch
+# 个性化新闻的新观点 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/05/01/a-new-look-at-personalized-news/>
 

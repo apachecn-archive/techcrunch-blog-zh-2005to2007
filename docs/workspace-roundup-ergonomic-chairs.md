@@ -1,4 +1,4 @@
-# 工作区综述:符合人体工程学的椅子——TechCrunch
+# 工作区综述:符合人体工程学的椅子
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/12/28/workspace-roundup-ergonomic-chairs/>
 

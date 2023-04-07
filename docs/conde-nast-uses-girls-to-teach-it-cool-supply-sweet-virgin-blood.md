@@ -1,4 +1,4 @@
-# Conde Nast 用女孩教它酷，供应甜的处女血 TechCrunch
+# Conde Nast 用女孩教它酷，供应甜的处女血 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/20/conde-nast-uses-girls-to-teach-it-cool-supply-sweet-virgin-blood/>
 

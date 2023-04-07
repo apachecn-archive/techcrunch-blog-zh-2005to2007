@@ -1,4 +1,4 @@
-# 威瑞森将提供 OTA 联系人同步| TechCrunch
+# 威瑞森将提供 OTA 联系人同步
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/31/verizon-to-offer-ota-contact-sync-2/>
 

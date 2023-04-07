@@ -1,4 +1,4 @@
-# 向任何网站免费添加快照预览——TechCrunch
+# 向任何网站免费添加快照预览
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/18/add-snap-previews-to-any-site-for-free/>
 

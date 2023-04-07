@@ -1,4 +1,4 @@
-# 戴夫·维纳的紫色奶牛——OPML 编辑——TechCrunch
+# 戴夫·维纳的紫色奶牛——OPML 编辑
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/21/dave-winers-creates-a-purple-cow-opml-editor/>
 

@@ -1,4 +1,4 @@
-# Kongregate 完成 500 万美元的休闲游戏首轮融资——TechCrunch
+# Kongregate 完成 500 万美元的休闲游戏首轮融资
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/15/kongregate-closes-5-million-series-a-for-casual-gaming/>
 

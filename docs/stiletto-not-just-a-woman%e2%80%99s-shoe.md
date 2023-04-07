@@ -1,4 +1,4 @@
-# 天狼星高跟鞋 100 不穿鞋| TechCrunch
+# 天狼星高跟鞋 100 不穿鞋
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/08/15/stiletto-not-just-a-woman%e2%80%99s-shoe/>
 

@@ -1,4 +1,4 @@
-# 在线存储帮| TechCrunch
+# 在线存储帮
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/01/31/the-online-storage-gang>
 

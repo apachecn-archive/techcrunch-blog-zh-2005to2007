@@ -1,4 +1,4 @@
-# 便宜的呼唤迷你 NAS–TechCrunch
+# 便宜的呼唤迷你 NAS
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/06/lindy-mini-nas-on-the-cheap/>
 

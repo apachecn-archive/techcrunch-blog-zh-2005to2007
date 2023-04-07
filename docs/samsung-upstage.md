@@ -1,4 +1,4 @@
-# 三星后台——TechCrunch
+# 三星后台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/samsung-upstage/>
 

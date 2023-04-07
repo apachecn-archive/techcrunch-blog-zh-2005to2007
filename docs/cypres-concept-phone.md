@@ -1,4 +1,4 @@
-# Cypres 概念手机| TechCrunch
+# Cypres 概念手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/01/21/cypres-concept-phone/>
 

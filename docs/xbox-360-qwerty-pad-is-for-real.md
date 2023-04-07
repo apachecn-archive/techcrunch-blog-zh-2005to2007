@@ -1,4 +1,4 @@
-# Xbox 360 QWERTY Pad 是真实的 TechCrunch
+# Xbox 360 QWERTY Pad 是真实的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/04/09/xbox-360-qwerty-pad-is-for-real/>
 

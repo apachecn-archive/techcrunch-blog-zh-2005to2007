@@ -1,4 +1,4 @@
-# 暴雪员工让孩子设计游戏——TechCrunch
+# 暴雪员工让孩子设计游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/06/13/blizzard-employee-lets-kid-design-game/>
 

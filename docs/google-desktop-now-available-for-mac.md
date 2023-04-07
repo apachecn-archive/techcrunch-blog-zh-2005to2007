@@ -1,4 +1,4 @@
-# 谷歌桌面现可用于 Mac 电脑——TechCrunch
+# 谷歌桌面现可用于 Mac 电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/04/google-desktop-now-available-for-mac/>
 

@@ -1,4 +1,4 @@
-# Vista 错误报告:真正的测试版| TechCrunch
+# Vista 错误报告:真正的测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/15/vista-error-reporting-really-beta/>
 

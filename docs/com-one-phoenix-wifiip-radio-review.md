@@ -1,4 +1,4 @@
-# Com One Phoenix WiFi/IP 无线电评论–TechCrunch
+# Com One Phoenix WiFi/IP 无线电评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/12/com-one-phoenix-wifiip-radio-review/>
 

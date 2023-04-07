@@ -1,4 +1,4 @@
-# 净空总 BitHead 移动耳机放大器动手——TechCrunch
+# 净空总 BitHead 移动耳机放大器动手
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/24/headroom-total-bithead-mobile-headphone-amp-hands-on/>
 

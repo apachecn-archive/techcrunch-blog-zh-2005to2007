@@ -1,4 +1,4 @@
-# Tangler 的嵌入式讨论–TechCrunch
+# Tangler 的嵌入式讨论
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/07/31/tanglers-embedded-discussions/>
 

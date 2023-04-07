@@ -1,4 +1,4 @@
-# 音频文件:在线音乐服务的爱在哪里？–TechCrunch
+# 音频文件:在线音乐服务的爱在哪里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/01/26/the-audiofile-wheres-the-love-in-online-music-services/>
 

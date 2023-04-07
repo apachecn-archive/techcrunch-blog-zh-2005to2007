@@ -1,4 +1,4 @@
-# 增加活动的空间——TechCrunch
+# 增加活动的空间
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/12/17/oodle-to-add-events/#comment-5493>
 

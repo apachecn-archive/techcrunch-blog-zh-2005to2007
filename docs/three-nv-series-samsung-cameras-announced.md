@@ -1,4 +1,4 @@
-# 三星发布三款 NV 系列相机| TechCrunch
+# 三星发布三款 NV 系列相机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/30/three-nv-series-samsung-cameras-announced/>
 

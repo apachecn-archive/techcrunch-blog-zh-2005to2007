@@ -1,4 +1,4 @@
-# 微软试图在 OLPC 安装 Windows——TechCrunch
+# 微软试图在 OLPC 安装 Windows
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/05/microsoft-trying-to-get-windows-on-olpc/>
 

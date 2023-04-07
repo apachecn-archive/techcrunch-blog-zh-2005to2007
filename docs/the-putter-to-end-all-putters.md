@@ -1,4 +1,4 @@
-# 结束所有推杆的推杆 TechCrunch
+# 结束所有推杆的推杆 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/09/the-putter-to-end-all-putters/>
 

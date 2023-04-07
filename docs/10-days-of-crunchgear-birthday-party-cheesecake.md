@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear:生日派对芝士蛋糕——TechCrunch
+# 10 天的 CrunchGear:生日派对芝士蛋糕
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/10-days-of-crunchgear-birthday-party-cheesecake/>
 

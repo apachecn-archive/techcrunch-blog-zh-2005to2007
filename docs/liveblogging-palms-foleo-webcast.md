@@ -1,4 +1,4 @@
-# 直播 Palm 的 Foleo 网络广播| TechCrunch
+# 直播 Palm 的 Foleo 网络广播
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/30/liveblogging-palms-foleo-webcast/>
 

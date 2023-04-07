@@ -1,4 +1,4 @@
-# 插页吉他可以对折，甚至不需要调音| TechCrunch
+# 插页吉他可以对折，甚至不需要调音
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/08/centerfold-guitar-folds-in-half-and-doesnt-even-need-to-be-retuned/>
 

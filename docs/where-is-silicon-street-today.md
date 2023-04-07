@@ -1,4 +1,4 @@
-# 今天硅街在哪里？TechCrunch
+# 今天硅街在哪里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/30/where-is-silicon-street-today/>
 

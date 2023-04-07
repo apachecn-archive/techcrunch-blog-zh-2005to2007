@@ -1,4 +1,4 @@
-# 创意禅石 Plus: 2GB iPod Shuffle 崇拜者| TechCrunch
+# 创意禅石 Plus: 2GB iPod Shuffle 崇拜者
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/21/creative-zen-stone-plus-2gb-ipod-shuffle-wannabe/>
 

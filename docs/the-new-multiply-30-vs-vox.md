@@ -1,4 +1,4 @@
-# 新的 Multiply 3.0 对比 Vox–TechCrunch
+# 新的 Multiply 3.0 对比 Vox
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2006/11/13/the-new-multiply-30-vs-vox/>
 

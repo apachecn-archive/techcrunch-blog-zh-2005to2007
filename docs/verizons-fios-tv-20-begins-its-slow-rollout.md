@@ -1,4 +1,4 @@
-# 威瑞森的 FiOS 电视 2.0 开始缓慢推出——TechCrunch
+# 威瑞森的 FiOS 电视 2.0 开始缓慢推出
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/verizons-fios-tv-20-begins-its-slow-rollout/>
 

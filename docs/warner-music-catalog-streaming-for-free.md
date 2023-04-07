@@ -1,4 +1,4 @@
-# 免费的华纳音乐目录流–TechCrunch
+# 免费的华纳音乐目录流
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/07/12/warner-music-catalog-streaming-for-free/>
 

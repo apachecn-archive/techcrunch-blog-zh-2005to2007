@@ -1,4 +1,4 @@
-# Xbox 360 明天更新| TechCrunch
+# Xbox 360 明天更新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2006/10/30/xbox-360-update-coming-tomorrow/>
 

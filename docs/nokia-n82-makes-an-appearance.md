@@ -1,4 +1,4 @@
-# 诺基亚 N82 亮相| TechCrunch
+# 诺基亚 N82 亮相
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/05/11/nokia-n82-makes-an-appearance/>
 

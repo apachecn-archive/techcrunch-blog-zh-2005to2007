@@ -1,4 +1,4 @@
-# 涉及证券欺诈的竞争对手的首席执行官；可能扼杀雅虎收购 TechCrunch
+# 涉及证券欺诈的竞争对手的首席执行官；可能扼杀雅虎收购 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/04/12/ceo-of-rivals-committed-securities-fraud-may-kill-yahoo-acquisition/>
 

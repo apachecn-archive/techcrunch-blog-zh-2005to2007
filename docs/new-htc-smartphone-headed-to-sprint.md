@@ -1,4 +1,4 @@
-# 新 HTC 智能手机走向冲刺——TechCrunch
+# 新 HTC 智能手机走向冲刺
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/25/new-htc-smartphone-headed-to-sprint/>
 

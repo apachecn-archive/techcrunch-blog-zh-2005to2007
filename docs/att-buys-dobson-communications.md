@@ -1,4 +1,4 @@
-# 美国电话电报公司收购多布森通信公司——TechCrunch
+# 美国电话电报公司收购多布森通信公司
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/02/att-buys-dobson-communications/>
 

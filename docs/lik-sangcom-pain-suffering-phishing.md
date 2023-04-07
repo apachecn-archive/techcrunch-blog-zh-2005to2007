@@ -1,4 +1,4 @@
-# Lik-Sang.com:痛苦、苦难、网络钓鱼| TechCrunch
+# Lik-Sang.com:痛苦、苦难、网络钓鱼
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/31/lik-sangcom-pain-suffering-phishing/>
 

@@ -1,4 +1,4 @@
-# 魔方立体声扬声器、灯–TechCrunch
+# 魔方立体声扬声器、灯
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/11/rubiks-cube-stereo-speakers-lamps/>
 

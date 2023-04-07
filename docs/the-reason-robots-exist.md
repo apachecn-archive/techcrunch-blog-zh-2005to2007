@@ -1,4 +1,4 @@
-# 机器人存在的原因——TechCrunch
+# 机器人存在的原因
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/31/the-reason-robots-exist/>
 

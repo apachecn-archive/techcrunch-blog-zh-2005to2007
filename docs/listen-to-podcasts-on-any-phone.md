@@ -1,4 +1,4 @@
-# 在任何手机上听播客——TechCrunch
+# 在任何手机上听播客
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/11/12/listen-to-podcasts-on-any-phone/>
 

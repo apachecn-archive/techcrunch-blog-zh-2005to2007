@@ -1,4 +1,4 @@
-# 拥有 PS3 的理由:Turok 3——TechCrunch
+# 拥有 PS3 的理由:Turok 3
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/06/the-reason-for-owning-a-ps3-turok-3/>
 

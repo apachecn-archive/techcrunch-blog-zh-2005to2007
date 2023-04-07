@@ -1,4 +1,4 @@
-# Griffin 为 2G Nano | TechCrunch 更新 iTrip
+# Griffin 为 2G Nano  更新 iTrip
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/03/26/griffin-updates-itrip-for-2g-nano/>
 

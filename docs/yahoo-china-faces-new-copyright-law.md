@@ -1,4 +1,4 @@
-# 雅虎！中国面临新版权法 TechCrunch
+# 雅虎！中国面临新版权法 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/07/03/yahoo-china-faces-new-copyright-law/>
 

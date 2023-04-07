@@ -1,4 +1,4 @@
-# 最新的 iPhone 广告，冲淡了？是的——TechCrunch
+# 最新的 iPhone 广告，冲淡了？是的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/07/latest-iphone-ad-watered-downed-yes/>
 

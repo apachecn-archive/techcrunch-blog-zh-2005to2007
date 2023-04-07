@@ -1,4 +1,4 @@
-# 每周危机:街头混战版| TechCrunch
+# 每周危机:街头混战版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/12/11/weekly-crunch-street-scuffle-edition/>
 

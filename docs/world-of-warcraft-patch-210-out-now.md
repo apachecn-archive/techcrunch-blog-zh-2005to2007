@@ -1,4 +1,4 @@
-# 魔兽世界补丁 2.1.0 现已发布——TechCrunch
+# 魔兽世界补丁 2.1.0 现已发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/05/22/world-of-warcraft-patch-210-out-now/>
 

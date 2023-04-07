@@ -1,4 +1,4 @@
-# 亲身体验戴尔的新款 Inspiron 灵越、XPS 笔记本电脑| TechCrunch
+# 亲身体验戴尔的新款 Inspiron 灵越、XPS 笔记本电脑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/hands-on-with-dells-new-inspiron-xps-notebooks/>
 

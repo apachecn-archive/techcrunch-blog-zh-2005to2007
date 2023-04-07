@@ -1,4 +1,4 @@
-# 坚持住史努比，坚持住移动电话——TechCrunch
+# 坚持住史努比，坚持住移动电话
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/30/hang-on-snoopy-snoopy-hang-on-mobile/>
 

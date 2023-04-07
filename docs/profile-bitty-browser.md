@@ -1,4 +1,4 @@
-# 个人资料-小浏览器 TechCrunch
+# 个人资料-小浏览器 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/08/16/profile-bitty-browser/>
 

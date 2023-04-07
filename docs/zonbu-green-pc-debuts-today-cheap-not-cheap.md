@@ -1,4 +1,4 @@
-# Zonbu 绿色电脑今天首次亮相:便宜不便宜——TechCrunch
+# Zonbu 绿色电脑今天首次亮相:便宜不便宜
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/18/zonbu-green-pc-debuts-today-cheap-not-cheap/>
 

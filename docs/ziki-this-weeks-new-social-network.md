@@ -1,4 +1,4 @@
-# 本周的新社交网络——TechCrunch
+# 本周的新社交网络
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2006/04/23/ziki-this-weeks-new-social-network/>
 

@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:一字不差的存储品质| TechCrunch
+# 10 天的 CrunchGear 赠品:一字不差的存储品质
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/15/10-days-of-crunchgear-giveaways-verbatim-storage-goodness/>
 

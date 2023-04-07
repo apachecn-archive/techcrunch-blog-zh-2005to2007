@@ -1,4 +1,4 @@
-# Joost 在 Apple TV 上运行！–TechCrunch
+# Joost 在 Apple TV 上运行！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/03/28/joost-runs-on-apple-tv/>
 

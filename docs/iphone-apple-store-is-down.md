@@ -1,4 +1,4 @@
-# iPhone 苹果商店关闭| TechCrunch
+# iPhone 苹果商店关闭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/29/iphone-apple-store-is-down/>
 

@@ -1,4 +1,4 @@
-# iPhone:两年的总拥有成本——TechCrunch
+# iPhone:两年的总拥有成本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/26/iphone-total-cost-of-ownership-over-two-years/>
 

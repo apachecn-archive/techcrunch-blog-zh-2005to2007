@@ -1,4 +1,4 @@
-# 汤姆森 PMP2516:几乎很酷——TechCrunch
+# 汤姆森 PMP2516:几乎很酷
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/26/thomson-pmp2516-almost-cool/>
 

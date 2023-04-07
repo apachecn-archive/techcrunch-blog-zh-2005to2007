@@ -1,4 +1,4 @@
-# 飞利浦展示新概念——TechCrunch
+# 飞利浦展示新概念
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/10/06/philips-shows-off-new-concepts/>
 

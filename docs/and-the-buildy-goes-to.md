@@ -1,4 +1,4 @@
-# 这个建筑属于…–TechCrunch
+# 这个建筑属于…
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/06/06/and-the-buildy-goes-to/>
 

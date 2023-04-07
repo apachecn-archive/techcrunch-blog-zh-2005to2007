@@ -1,4 +1,4 @@
-# 现场服务移动调查| TechCrunch
+# 现场服务移动调查
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/07/17/field-service-mobile-survey/>
 

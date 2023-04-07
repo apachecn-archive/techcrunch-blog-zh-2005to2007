@@ -1,4 +1,4 @@
-# Sidekick ID 视频回顾–TechCrunch
+# Sidekick ID 视频回顾
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/04/13/sidekick-id-video-review/>
 

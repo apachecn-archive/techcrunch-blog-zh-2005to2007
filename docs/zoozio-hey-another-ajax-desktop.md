@@ -1,4 +1,4 @@
-# 嘿，又一个 AJAX 桌面！TechCrunch
+# 嘿，又一个 AJAX 桌面！
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2005/11/04/zoozio-hey-another-ajax-desktop/>
 

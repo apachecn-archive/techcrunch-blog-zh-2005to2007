@@ -1,4 +1,4 @@
-# Vista 提供音频升级| TechCrunch
+# Vista 提供音频升级
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2006/09/08/vista-offers-audio-upgrade/>
 
