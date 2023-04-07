@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Help Key: Putting Video Onto Your Apple TV | TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">帮助键:把视频放到你的苹果电视上</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/help-key-putting-video-onto-your-apple-tv/">https://web.archive.org/web/http://techcrunch.com:80/2007/04/02/help-key-putting-video-onto-your-apple-tv/</a></blockquote><div><div class="article-entry text">
+
+
+
+<p class="translated">你已经有了苹果电视，但出于某种奇怪的原因，你对9.99美元的迪士尼经典下载不满意。支持HDMI的视频播放设备的粉丝应该做些什么？</p>
+<p class="translated">这里有一个快速教程，教你如何将几乎任何来源的视频下载到你的苹果电视。</p>
+<p/>
+<p class="translated">移动视频的真正关键是转换。这是大多数设备到设备传输的致命弱点，在很大程度上，也是所有反DRM努力的真正目的。说出你对自由、婴儿和爱情的想法——当涉及DRM时，试图让设备一起工作几乎是不可能的。我们将把本教程分为三个步骤:获取，转换，导入。我也是以OS X为中心的，所以请原谅我。我将努力为这两个平台找到解决方案。</p>
+<p class="translated"><b>收购</b></p>
+<p class="translated">好吧，脏鸟们。如果你不知道如何把内容放到你的硬盘上，我不会教你如何下载你喜欢的内容。</p>
+<p class="translated">例如，你也可以从TiVoToGo获取内容，并使用免费工具和你已经在TiVo中的密钥，将它们转换成普通的MPEG文件。然后，您可以将该内容转换为iPod兼容的格式。</p>
+<p class="translated"><img src="../Images/6256f3db62de7586369b61a21f85f8da.png" class="center" data-original-src="https://web.archive.org/web/20160406070229im_/http://tctechcrunch2011.files.wordpress.com/2007/01/picture_window.jpg"/> <br/>您还可以翻录DVD，将其添加到您的收藏中。我用<a href="https://web.archive.org/web/20160406070229/http://handbrake.m0k.org/?page_id=8">手刹</a>现在叫MediaFork。这是一个免费的开源解决方案，本质上是为Windows提取一个MPEG-4文件。这显然是最后的选择，因为这是1对1的下载和转换时间，这意味着你需要2个小时来捕捉一部2小时的电影。诚然，你可以安排这些设备在一周内获取内容，但这很无聊，西德尼，很无聊。</p>
+<p class="translated"><b>转换</b></p>
+<p class="translated"><img/>。这是一个基于MPEG-4的标准，从DivX和XviD等标准格式的转换非常简单。</p>
+<p class="translated">转换后的质量取决于您输入的视频，但除了黑暗场景和屏幕上有很多动作的场景，我在56英寸的背投屏幕上观看撕裂的DVD没有任何问题。不是很理想，但是可以接受。将ffmpegX中的格式设定为“iPod h.264 640w”该计划还支持SRT字幕文件，你添加在过滤器标签。然而，这可能有点不可靠，所以不要依赖它。</p>
+<p class="translated"><img/>，但这需要一些设置。</p>
+<p class="translated">现在你有了iTunes可以读取的格式的视频。幸福在等待着。</p>
+<p class="translated"><b>进口</b></p>
+<p class="translated">现在，您可以开始将内容放入iTunes并与Apple TV同步了。你可以使用类似<a href="https://web.archive.org/web/20160406070229/http://www.ipodifier.com/">的iPodifier </a>在Windows下几乎自动地将视频发送到iTunes，但是为什么要让它变得简单呢？这将是如此之酷，只是让它自动发送我们的视频，只要它转换下。OS X球迷欢欣鼓舞——有一个简单的方法可以做到这一点。我们只需将一个动作附加到我们的“已转换项目文件夹”</p>
+<p class="translated">使用我们公然从优秀的<a href="https://web.archive.org/web/20160406070229/http://www.macosxhints.com/article.php?story=20070301051316596">MaxOSXHints.com</a>网站窃取的代码，我们创建了一个AppleScript:</p>
+<p class="translated"><code>property extension_list : {"mp4", "mov"}<br/> -- These are the two extensions made by ffmpegX. We can also look for .ff. in the filename, another surefire signal, but this is a bit easier and assumes we use ffmpegX only.</code></p>
+<p class="translated">在收到_files后将文件夹项目添加到my_folder时<br/>重复I从1到_files中的项目数<br/>将此_item设置为(文件的项目I)<br/>将item_info设置为此_item的信息<br/>如果item_info的扩展名在extension_list中，则<br/>-调试显示<br/>-显示对话框“将item_info的名称&amp;添加到iTunes”</p>
+<p class="translated">告诉应用程序“iTunes”<br/>尝试<br/>设置this_track将this_item添加到源“Library”的播放列表“Library”<br/>结束尝试<br/>结束告诉<br/>结束if <br/>结束重复<br/>结束将文件夹项目添加到<br/> <br/> <img src="../Images/4d01610480075c972a1a10306aeaf23e.png" class="center" data-original-src="https://web.archive.org/web/20160406070229im_/http://tctechcrunch2011.files.wordpress.com/2007/01/add.gif"/> <br/> <small>亲爱的美国电影协会:这是我和300个我最亲密的斯巴达朋友的家庭视频。不要起诉。</small></p>
+<p class="translated">现在，通过将脚本拷贝到/Library/Scripts/Folder Action Scripts并选择downloads文件夹，将该脚本附加到一个文件夹。将此脚本分配到该文件夹，每次有东西保存在那里时，它都会自动转到iTunes和/或与Apple TV同步。例如，我将所有下载的文件保存在一个名为~/Downloads的文件夹中。我只是将动作添加到那个文件夹中，现在无论什么时候下载和转换东西，我都准备好了。</p>
+<p class="translated">只要稍加规划，您几乎可以自动化整个过程。因为许多文件都是rar格式的，所以您可以使用Applescript来解压缩文件，使用<a href="https://web.archive.org/web/20160406070229/http://www.gregwalsh.com/articles/applescript_flv.htm"> AppleScript </a>来转换文件，然后在没有您干预的情况下将它们放入iTunes。只是记得偶尔进入那个文件夹，以确保它不会变成一个500 GB的庞然大物。</p>
+<p class="translated">正如我们所看到的，创建Apple TV转换工作流是相当容易的。使用一些免费或便宜的工具，我们可以在书房里创建一个迷你电影院。</p>
+<hr/><p class="translated">想要你自己的破解DRM封面？得到它</p><a href="https://web.archive.org/web/20160406070229/http://wrappers.typepad.com/ipod/ipod_video/index.html">here</a><p>.
+
+
+
+								
+							</p></div>
+
+</div>    
+</body>
+</html>
